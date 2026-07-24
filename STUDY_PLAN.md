@@ -25,9 +25,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 4 | Morning | D — English Comprehension | Synonyms | 30 | foundation | Topic-wise | ⬜ |
-| 5 | Afternoon | E — Mathematical Abilities | Algebra: Identities & Simplification | 40 | foundation | Topic-wise | ⬜ |
-| 6 | Late | F — Computer Proficiency | Computer Fundamentals & Organization | 50 | foundation | Topic-wise | ⬜ |
+| 4 | Morning | D — English Comprehension | Synonyms | 30 | foundation | Topic-wise | ✅ |
+| 5 | Afternoon | E — Mathematical Abilities | Algebra: Identities & Simplification | 40 | foundation | Topic-wise | ✅ |
+| 6 | Late | F — Computer Proficiency | Computer Fundamentals & Organization | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 3
 

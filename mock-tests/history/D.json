@@ -1,6 +1,157 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 0,
-  "questions": []
+  "count": 30,
+  "questions": [
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'abandon':",
+      "key": "Relinquish"
+    },
+    {
+      "test": 4,
+      "stem": "consider the following statements: (i) 'benevolent' is a synonym of 'kind'. (ii)",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'eloquent':",
+      "key": "Articulate"
+    },
+    {
+      "test": 4,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'candid':",
+      "key": "Frank"
+    },
+    {
+      "test": 4,
+      "stem": "match the following words with their synonyms: column i: (a) diligent (b)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'impeccable':",
+      "key": "Flawless"
+    },
+    {
+      "test": 4,
+      "stem": "which of the following are correct synonym pairs? (i) lethargic — energetic",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'pristine':",
+      "key": "Unspoiled"
+    },
+    {
+      "test": 4,
+      "stem": "consider the following statements: (i) 'coerce' means to persuade by using force",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'pragmatic':",
+      "key": "Practical"
+    },
+    {
+      "test": 4,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'alleviate':",
+      "key": "Mitigate"
+    },
+    {
+      "test": 4,
+      "stem": "match the following words with their synonyms: column i: (a) benign (b)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'inevitable':",
+      "key": "Inescapable"
+    },
+    {
+      "test": 4,
+      "stem": "consider the following statements: (i) 'ubiquitous' means present everywhere at the same",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'prudent':",
+      "key": "Judicious"
+    },
+    {
+      "test": 4,
+      "stem": "which of the following are correct synonym pairs? (i) ambiguous — clear",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 4,
+      "stem": "the word 'copious' most nearly means __________.",
+      "key": "Abundant"
+    },
+    {
+      "test": 4,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'tenuous':",
+      "key": "Flimsy"
+    },
+    {
+      "test": 4,
+      "stem": "match the following words with their synonyms: column i: (a) placate (b)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'ardent':",
+      "key": "Passionate"
+    },
+    {
+      "test": 4,
+      "stem": "consider the following statements: (i) 'admonish' means to warn or reprimand firmly.",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'pernicious':",
+      "key": "Destructive"
+    },
+    {
+      "test": 4,
+      "stem": "which of the following are correct synonym pairs? (i) exquisite — beautiful",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'enigmatic':",
+      "key": "Mysterious"
+    },
+    {
+      "test": 4,
+      "stem": "consider the following statements: (i) 'taciturn' means reserved in speech. (ii) 'laconic'",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'vehement':",
+      "key": "Intense"
+    },
+    {
+      "test": 4,
+      "stem": "choose the word that is most similar in meaning to 'novice':",
+      "key": "Beginner"
+    }
+  ]
 }

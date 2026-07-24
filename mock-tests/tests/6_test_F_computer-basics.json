@@ -1,0 +1,657 @@
+{
+  "subject": "F",
+  "topic": "Computer Fundamentals & Organization",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "The full form of CPU is:",
+      "options": [
+        "Computer Processing Unit",
+        "Central Program Unit",
+        "Central Procedure Unit",
+        "Central Processing Unit"
+      ],
+      "correctAnswer": "Central Processing Unit",
+      "explanation": "CPU stands for Central Processing Unit — it is the brain of a computer that executes instructions. Central Program Unit is wrong because 'Processing' not 'Program' is the correct term. Computer Processing Unit is wrong because the first word is 'Central', not 'Computer'. Central Procedure Unit is wrong because 'Processing' not 'Procedure' is the standard term."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Central Processing Unit (CPU):\n\n(i) It consists of the Arithmetic Logic Unit (ALU) and Control Unit (CU).\n(ii) It is a type of secondary storage device.\n(iii) It fetches, decodes, and executes instructions.\n(iv) RAM is a part of the CPU.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — the CPU contains the ALU (performs calculations) and CU (directs operations). (iii) is correct — the CPU follows the fetch-decode-execute cycle. (ii) is wrong because the CPU is a processing unit, not a storage device. (iv) is wrong because RAM is main memory that is separate from the CPU (though cache memory resides in/near the CPU, RAM itself does not)."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "Which of the following is an example of an input device?",
+      "options": [
+        "Speaker",
+        "Printer",
+        "Monitor",
+        "Scanner"
+      ],
+      "correctAnswer": "Scanner",
+      "explanation": "A scanner converts physical documents/images into digital form and sends data into the computer (input). Monitor is wrong because it displays output from the computer. Printer is wrong because it produces hard copy output. Speaker is wrong because it produces audio output."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): ROM retains data even after the computer is switched off.\nReason (R): ROM is a type of non-volatile memory.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — ROM (Read Only Memory) retains its stored data permanently without power. (R) is correct — non-volatile memory retains data when power is off. (R) explains (A) because ROM retains data precisely because it is non-volatile. Option 2 is wrong because (R) directly explains why (A) is true. Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "The binary number system uses which base?",
+      "options": [
+        "Base 8",
+        "Base 16",
+        "Base 2",
+        "Base 10"
+      ],
+      "correctAnswer": "Base 2",
+      "explanation": "The binary system uses base 2 with only two digits: 0 and 1. Base 8 is wrong because that is the octal number system. Base 10 is wrong because that is the decimal (human counting) system. Base 16 is wrong because that is the hexadecimal system."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "Match the following computer components with their functions:\n\nColumn I:\n(a) ALU\n(b) Control Unit\n(c) RAM\n(d) Hard Disk\n\nColumn II:\n(i) Directs and coordinates operations\n(ii) Performs arithmetic and logical operations\n(iii) Temporary/volatile storage for active data\n(iv) Permanent/non-volatile storage for files\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "ALU performs arithmetic and logical operations (ii). Control Unit directs and coordinates all operations (i). RAM provides temporary volatile storage (iii). Hard Disk provides permanent non-volatile storage (iv). Option 2 is wrong because it swaps ALU and Control Unit. Option 3 is wrong because it assigns RAM's function to Control Unit. Option 4 is wrong because it swaps RAM and Hard Disk."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "Which of the following are output devices?\n\n(i) Monitor\n(ii) Keyboard\n(iii) Printer\n(iv) Mouse\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — a monitor displays visual output. (iii) is correct — a printer produces hard copy output. (ii) is wrong because a keyboard is an input device used to enter text and commands. (iv) is wrong because a mouse is an input device used for pointing and clicking."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "The smallest unit of data in a computer is:",
+      "options": [
+        "Byte",
+        "Nibble",
+        "Kilobyte",
+        "Bit"
+      ],
+      "correctAnswer": "Bit",
+      "explanation": "A bit (binary digit) is the smallest unit, representing either 0 or 1. Byte is wrong because a byte consists of 8 bits. Nibble is wrong because a nibble consists of 4 bits. Kilobyte is wrong because a kilobyte equals 1024 bytes."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "Consider the following statements about computer memory:\n\n(i) RAM is volatile — it loses data when power is turned off.\n(ii) ROM stores the BIOS/startup instructions permanently.\n(iii) Cache memory is slower than RAM but faster than hard disk.\n(iv) Registers are the fastest type of memory in a computer.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — RAM loses all data when power is cut. (ii) is correct — ROM stores firmware/BIOS used during boot-up. (iv) is correct — registers are the fastest, located within the CPU itself. (iii) is wrong because cache memory is FASTER than RAM (not slower) — it sits between CPU registers and RAM to speed up access."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Which generation of computers used transistors instead of vacuum tubes?",
+      "options": [
+        "Fourth Generation",
+        "Second Generation",
+        "First Generation",
+        "Third Generation"
+      ],
+      "correctAnswer": "Second Generation",
+      "explanation": "Second generation computers (1956-1963) used transistors, which were smaller and more reliable than vacuum tubes. First Generation is wrong because first-gen computers (1940-1956) used vacuum tubes. Third Generation is wrong because third-gen (1964-1971) used integrated circuits. Fourth Generation is wrong because fourth-gen (1971-present) uses microprocessors."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer cannot work without software.\nReason (R): Software provides instructions that tell the hardware what to do.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — hardware alone cannot perform tasks without software instructions. (R) is correct — software contains the programs/instructions that direct hardware operations. (R) explains (A) because the reason hardware is useless alone is exactly that it needs software instructions to function. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "The device that converts digital signals to analog signals for transmission over telephone lines is called a:",
+      "options": [
+        "Hub",
+        "Switch",
+        "Modem",
+        "Router"
+      ],
+      "correctAnswer": "Modem",
+      "explanation": "A modem (Modulator-Demodulator) converts digital signals to analog and vice versa. Router is wrong because a router directs data packets between networks but doesn't convert signal types. Switch is wrong because a switch connects devices within a network without signal conversion. Hub is wrong because a hub broadcasts data to all connected devices without signal conversion."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware and software resources.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) An operating system is a type of application software.\n(iv) The operating system provides a user interface for interaction.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the OS manages CPU, memory, storage, and running programs. (ii) is correct — Windows, Linux, macOS are all operating systems. (iv) is correct — the OS provides interfaces (GUI/CLI) for user interaction. (iii) is wrong because an operating system is system software, not application software — application software runs on top of the OS."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "1 Megabyte (MB) is equal to:",
+      "options": [
+        "1024 Bytes",
+        "1024 Kilobytes",
+        "1024 Bits",
+        "1024 Gigabytes"
+      ],
+      "correctAnswer": "1024 Kilobytes",
+      "explanation": "1 MB = 1024 KB (in binary-based computer memory measurement). 1024 Bytes is wrong because that equals 1 Kilobyte, not 1 Megabyte. 1024 Gigabytes is wrong because that equals 1 Terabyte. 1024 Bits is wrong because 1024 bits = 128 bytes, far less than 1 MB."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "Match the following input devices with their primary functions:\n\nColumn I:\n(a) Barcode Reader\n(b) Joystick\n(c) Microphone\n(d) Light Pen\n\nColumn II:\n(i) Audio input\n(ii) Scanning product codes\n(iii) Drawing/selecting on screen\n(iv) Gaming/navigation control\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Barcode Reader scans product codes (ii). Joystick controls games/navigation (iv). Microphone captures audio input (i). Light Pen selects/draws on screen (iii). Option 2 is wrong because it swaps joystick and microphone functions. Option 3 is wrong because it assigns gaming to barcode reader. Option 4 is wrong because it swaps microphone and light pen."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "Which of the following is NOT a type of computer based on size?",
+      "options": [
+        "Compiler",
+        "Mainframe",
+        "Supercomputer",
+        "Microcomputer"
+      ],
+      "correctAnswer": "Compiler",
+      "explanation": "A compiler is a software program that translates high-level code into machine code — it is not a type of computer. Supercomputer is wrong because supercomputers are the largest/fastest computers. Mainframe is wrong because mainframes are large-scale computers for enterprise use. Microcomputer is wrong because microcomputers (PCs) are a valid size-based classification."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "The __________ is responsible for loading the operating system into RAM when a computer is turned on.",
+      "options": [
+        "Compiler",
+        "BIOS",
+        "Application Software",
+        "Device Driver"
+      ],
+      "correctAnswer": "BIOS",
+      "explanation": "BIOS (Basic Input/Output System) initiates the boot process and loads the OS into RAM. Compiler is wrong because a compiler translates programming languages, not boots the system. Device Driver is wrong because drivers help the OS communicate with hardware but don't initiate booting. Application Software is wrong because applications run after the OS is loaded, not before."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Which of the following are examples of secondary storage devices?\n\n(i) Hard Disk Drive\n(ii) RAM\n(iii) Solid State Drive\n(iv) USB Flash Drive\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — HDD is a magnetic secondary storage device. (iii) is correct — SSD is a flash-based secondary storage device. (iv) is correct — USB flash drives are portable secondary storage. (ii) is wrong because RAM is primary memory (main memory), not secondary storage — it is volatile and used for temporary active data."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "The term 'booting' refers to:",
+      "options": [
+        "Connecting to the internet",
+        "Shutting down the computer",
+        "Starting the computer and loading the OS",
+        "Installing new software"
+      ],
+      "correctAnswer": "Starting the computer and loading the OS",
+      "explanation": "Booting is the process of starting a computer and loading the operating system into memory. Shutting down is wrong because that is the opposite — powering off the system. Installing new software is wrong because installation is a separate process done after the OS is running. Connecting to the internet is wrong because network connection is established after booting."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory improves the speed of data access.\nReason (R): Cache stores frequently accessed data closer to the CPU, reducing the time needed to fetch from RAM.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — cache memory significantly speeds up data access. (R) is correct — cache stores frequently used data between CPU and RAM. (R) explains (A) because by keeping data closer to the CPU, fewer slow RAM accesses are needed. Option 2 is wrong because (R) directly explains how (A) works. Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "Which of the following is a high-level programming language?",
+      "options": [
+        "Machine Language",
+        "Python",
+        "Binary Code",
+        "Assembly Language"
+      ],
+      "correctAnswer": "Python",
+      "explanation": "Python is a high-level language with human-readable syntax that requires interpretation/compilation. Machine Language is wrong because it is the lowest-level language (binary). Assembly Language is wrong because it is a low-level language using mnemonics. Binary Code is wrong because binary is raw machine instructions (0s and 1s)."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "Consider the following statements about computer buses:\n\n(i) The data bus carries data between components.\n(ii) The address bus carries memory addresses.\n(iii) The control bus carries timing and command signals.\n(iv) The data bus is unidirectional only.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the data bus transfers data between CPU, memory, and I/O. (ii) is correct — the address bus carries memory location addresses. (iii) is correct — the control bus carries command, timing, and status signals. (iv) is wrong because the data bus is bidirectional — data flows both to and from the CPU."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "The type of software that manages and controls hardware resources is called:",
+      "options": [
+        "Firmware",
+        "Application Software",
+        "Utility Software",
+        "System Software"
+      ],
+      "correctAnswer": "System Software",
+      "explanation": "System software (OS, device drivers) manages hardware resources and provides a platform for applications. Application Software is wrong because it performs specific user tasks (word processing, browsing) rather than managing hardware. Utility Software is wrong because utilities are a subset of system software for maintenance tasks. Firmware is wrong because firmware is embedded software in hardware devices, not general resource management."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "Match the following memory types with their characteristics:\n\nColumn I:\n(a) SRAM\n(b) DRAM\n(c) EPROM\n(d) Flash Memory\n\nColumn II:\n(i) Electrically erasable and rewritable non-volatile memory\n(ii) Fast but expensive; used for cache\n(iii) Needs periodic refreshing; used for main memory\n(iv) Erasable by UV light exposure\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "SRAM is fast/expensive, used for cache (ii). DRAM needs refreshing, used as main memory (iii). EPROM is erased by ultraviolet light (iv). Flash memory is electrically erasable and non-volatile (i). Option 2 is wrong because it swaps SRAM and DRAM. Option 3 is wrong because it assigns UV erasure to DRAM. Option 4 is wrong because it swaps EPROM and Flash Memory."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) File management\n(iii) Process scheduling\n(iv) Web browsing\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the OS allocates and manages RAM among processes. (ii) is correct — the OS organizes, stores, and retrieves files. (iii) is correct — the OS schedules processes for CPU time. (iv) is wrong because web browsing is performed by application software (browsers like Chrome/Firefox), not the OS itself."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "The computer component that temporarily holds data and instructions currently being processed is:",
+      "options": [
+        "RAM",
+        "Hard Disk",
+        "CD-ROM",
+        "ROM"
+      ],
+      "correctAnswer": "RAM",
+      "explanation": "RAM (Random Access Memory) temporarily stores data and instructions actively being used by the CPU. Hard Disk is wrong because it provides permanent storage, not temporary processing space. ROM is wrong because ROM stores permanent firmware, not active processing data. CD-ROM is wrong because it is an optical storage medium for reading pre-written data."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "Consider the following statements about ports:\n\n(i) USB port is used to connect peripherals like keyboard, mouse, and pen drives.\n(ii) HDMI port transmits both audio and video signals.\n(iii) Ethernet port is used to connect to a local area network.\n(iv) VGA port is primarily used for connecting printers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — USB is a universal port for peripherals. (ii) is correct — HDMI carries both audio and video digitally. (iii) is correct — Ethernet/RJ-45 port connects to LAN. (iv) is wrong because VGA (Video Graphics Array) is used to connect monitors/displays for video output, not printers."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An SSD (Solid State Drive) is faster than a traditional HDD (Hard Disk Drive).\nReason (R): SSDs have no moving mechanical parts and use flash memory chips for data storage.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — SSDs provide significantly faster read/write speeds than HDDs. (R) is correct — SSDs use flash memory with no spinning disks or read/write heads. (R) explains (A) because the absence of mechanical parts eliminates seek time and rotational latency, making data access faster. Option 2 is wrong because (R) directly explains why SSDs are faster. Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "The process of converting source code into machine code is performed by a:",
+      "options": [
+        "Loader",
+        "Debugger",
+        "Compiler",
+        "Linker"
+      ],
+      "correctAnswer": "Compiler",
+      "explanation": "A compiler translates entire source code (high-level language) into machine code (object code). Loader is wrong because a loader places compiled programs into memory for execution. Linker is wrong because a linker combines object modules and resolves references between them. Debugger is wrong because a debugger finds and fixes errors in programs."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "The __________ generation of computers introduced the use of Integrated Circuits (ICs).",
+      "options": [
+        "Third",
+        "First",
+        "Fourth",
+        "Second"
+      ],
+      "correctAnswer": "Third",
+      "explanation": "Third generation computers (1964-1971) introduced ICs, making computers smaller and more efficient. First is wrong because first-gen used vacuum tubes. Second is wrong because second-gen used transistors. Fourth is wrong because fourth-gen uses microprocessors (VLSI technology)."
+    },
+    {
+      "id": "31",
+      "subject": "F",
+      "questionText": "Consider the following statements about computer software:\n\n(i) MS Word is an example of application software.\n(ii) An operating system is an example of system software.\n(iii) A device driver helps the OS communicate with hardware.\n(iv) Antivirus software is classified as system software.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — MS Word is application software for word processing. (ii) is correct — the OS manages resources and is system software. (iii) is correct — device drivers act as translators between OS and hardware. (iv) is wrong — while antivirus operates at the system level, it is classified as utility software (a subset), and in common exam terminology it is considered application/utility software, not core system software."
+    },
+    {
+      "id": "32",
+      "subject": "F",
+      "questionText": "Which of the following correctly describes 'firmware'?",
+      "options": [
+        "A type of computer virus",
+        "Application software for document editing",
+        "Software stored permanently in ROM of a hardware device",
+        "Temporary data stored in RAM"
+      ],
+      "correctAnswer": "Software stored permanently in ROM of a hardware device",
+      "explanation": "Firmware is software permanently programmed into ROM/flash memory of hardware devices (like BIOS, router firmware). Temporary data in RAM is wrong because that describes volatile working memory, not firmware. Application software for editing is wrong because that's user-level software, not embedded firmware. A type of virus is wrong because firmware is legitimate embedded software."
+    },
+    {
+      "id": "33",
+      "subject": "F",
+      "questionText": "Match the following computer generations with their key technology:\n\nColumn I:\n(a) First Generation\n(b) Second Generation\n(c) Third Generation\n(d) Fourth Generation\n\nColumn II:\n(i) Integrated Circuits (ICs)\n(ii) Vacuum Tubes\n(iii) Microprocessors (VLSI)\n(iv) Transistors\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "First gen used vacuum tubes (ii). Second gen used transistors (iv). Third gen used ICs (i). Fourth gen uses microprocessors/VLSI (iii). Option 2 is wrong because it swaps vacuum tubes and transistors. Option 3 is wrong because it swaps ICs and transistors. Option 4 is wrong because it swaps ICs and microprocessors."
+    },
+    {
+      "id": "34",
+      "subject": "F",
+      "questionText": "Which of the following are volatile memory types?\n\n(i) SRAM\n(ii) DRAM\n(iii) ROM\n(iv) Flash Memory\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "(i) is correct — SRAM is volatile and loses data without power. (ii) is correct — DRAM is volatile and requires constant refreshing/power. (iii) is wrong because ROM is non-volatile (retains data without power). (iv) is wrong because flash memory is non-volatile (used in USB drives, SSDs)."
+    },
+    {
+      "id": "35",
+      "subject": "F",
+      "questionText": "The output quality of a printer is measured in:",
+      "options": [
+        "GHz",
+        "DPI",
+        "MHz",
+        "BPS"
+      ],
+      "correctAnswer": "DPI",
+      "explanation": "DPI (Dots Per Inch) measures print resolution/quality — higher DPI means sharper output. MHz is wrong because megahertz measures processor clock speed. BPS is wrong because bits per second measures data transfer rate. GHz is wrong because gigahertz measures processor frequency."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "Consider the following statements about USB (Universal Serial Bus):\n\n(i) USB allows hot-swapping (connecting/disconnecting without shutting down).\n(ii) USB can provide power to connected devices.\n(iii) USB 3.0 is slower than USB 2.0.\n(iv) A single USB port can connect multiple devices using a hub.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — USB supports hot-swapping/plug-and-play. (ii) is correct — USB provides power (5V) to charge or power devices. (iv) is correct — USB hubs allow multiple devices on one port. (iii) is wrong because USB 3.0 (5 Gbps) is significantly FASTER than USB 2.0 (480 Mbps)."
+    },
+    {
+      "id": "37",
+      "subject": "F",
+      "questionText": "The ALU (Arithmetic Logic Unit) performs which types of operations?",
+      "options": [
+        "Only arithmetic operations",
+        "Only logical operations",
+        "Only storage operations",
+        "Both arithmetic and logical operations"
+      ],
+      "correctAnswer": "Both arithmetic and logical operations",
+      "explanation": "The ALU performs both arithmetic (addition, subtraction, multiplication, division) and logical (AND, OR, NOT, comparison) operations. 'Only arithmetic' is wrong because the ALU also handles logical comparisons. 'Only logical' is wrong because the ALU also performs mathematical calculations. 'Only storage' is wrong because storage is handled by memory units, not the ALU."
+    },
+    {
+      "id": "38",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer uses binary (0 and 1) to represent all data.\nReason (R): Electronic circuits have two stable states — ON and OFF — which naturally correspond to 1 and 0.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — all data in computers is ultimately represented as binary digits. (R) is correct — transistors/circuits have ON/OFF states mapping to 1/0. (R) explains (A) because the physical two-state nature of electronic circuits is the fundamental reason computers use binary. Option 2 is wrong because (R) directly explains the engineering basis for (A). Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "39",
+      "subject": "F",
+      "questionText": "Which of the following is an example of an optical storage device?",
+      "options": [
+        "Hard Disk Drive",
+        "DVD-ROM",
+        "RAM",
+        "Pen Drive"
+      ],
+      "correctAnswer": "DVD-ROM",
+      "explanation": "DVD-ROM uses laser technology to read data from optical discs. Hard Disk Drive is wrong because it uses magnetic platters for storage. RAM is wrong because it is volatile electronic primary memory. Pen Drive is wrong because it uses flash memory (semiconductor-based), not optical technology."
+    },
+    {
+      "id": "40",
+      "subject": "F",
+      "questionText": "Match the following software types with their examples:\n\nColumn I:\n(a) Operating System\n(b) Programming Language\n(c) Application Software\n(d) Utility Software\n\nColumn II:\n(i) Disk Defragmenter\n(ii) Microsoft Excel\n(iii) Linux\n(iv) Java\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Linux is an operating system (iii). Java is a programming language (iv). Microsoft Excel is application software (ii). Disk Defragmenter is a utility software (i). Option 2 is wrong because it assigns Excel as a programming language. Option 3 is wrong because it assigns Java as an OS. Option 4 is wrong because it swaps application and utility examples."
+    },
+    {
+      "id": "41",
+      "subject": "F",
+      "questionText": "The speed of a processor is commonly measured in:",
+      "options": [
+        "Megabytes",
+        "Lumens",
+        "Gigahertz",
+        "Pixels"
+      ],
+      "correctAnswer": "Gigahertz",
+      "explanation": "Processor speed is measured in GHz (billions of cycles per second). Megabytes is wrong because MB measures storage capacity, not speed. Pixels is wrong because pixels measure display resolution. Lumens is wrong because lumens measure brightness of projectors/lights."
+    },
+    {
+      "id": "42",
+      "subject": "F",
+      "questionText": "Consider the following statements about input devices:\n\n(i) OCR (Optical Character Recognition) converts printed text into digital text.\n(ii) A webcam captures video input.\n(iii) A plotter is an input device used for drawing.\n(iv) A touchscreen serves as both input and output device.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — OCR scans and converts printed/handwritten text to editable digital text. (ii) is correct — a webcam captures video and sends it as input to the computer. (iv) is correct — a touchscreen displays output and accepts touch input simultaneously. (iii) is wrong because a plotter is an OUTPUT device that produces large-format drawings/prints."
+    },
+    {
+      "id": "43",
+      "subject": "F",
+      "questionText": "Which of the following are characteristics of RAM?\n\n(i) It is volatile in nature.\n(ii) It allows both read and write operations.\n(iii) It stores data permanently.\n(iv) It is faster than secondary storage.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — RAM is volatile and loses data when power is off. (ii) is correct — RAM supports both reading and writing data. (iv) is correct — RAM is much faster than hard drives/SSDs. (iii) is wrong because RAM does NOT store data permanently — it is temporary storage that clears on shutdown."
+    },
+    {
+      "id": "44",
+      "subject": "F",
+      "questionText": "The primary function of the Control Unit (CU) in a CPU is to:",
+      "options": [
+        "Store data permanently",
+        "Perform mathematical calculations",
+        "Coordinate and direct all computer operations",
+        "Display output on the screen"
+      ],
+      "correctAnswer": "Coordinate and direct all computer operations",
+      "explanation": "The Control Unit fetches instructions, decodes them, and coordinates execution across all components. Performing calculations is wrong because that is the ALU's function. Storing data permanently is wrong because that is done by storage devices. Displaying output is wrong because that is the function of output devices like monitors."
+    },
+    {
+      "id": "45",
+      "subject": "F",
+      "questionText": "The __________ is a special memory unit used to compensate for the speed difference between CPU and main memory.",
+      "options": [
+        "Hard Disk",
+        "Cache Memory",
+        "ROM",
+        "Virtual Memory"
+      ],
+      "correctAnswer": "Cache Memory",
+      "explanation": "Cache memory bridges the speed gap between the fast CPU and slower RAM by storing frequently accessed data. Hard Disk is wrong because it is even slower than RAM, not a speed compensator. Virtual Memory is wrong because virtual memory uses disk space to extend RAM capacity, not to compensate CPU-RAM speed differences. ROM is wrong because ROM stores permanent firmware, not actively cached processing data."
+    },
+    {
+      "id": "46",
+      "subject": "F",
+      "questionText": "Consider the following statements about computer languages:\n\n(i) Machine language consists entirely of binary code (0s and 1s).\n(ii) Assembly language uses mnemonics like MOV, ADD, SUB.\n(iii) High-level languages are directly understood by the CPU.\n(iv) An assembler converts assembly language to machine language.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — machine language is pure binary instructions. (ii) is correct — assembly uses human-readable mnemonics for operations. (iv) is correct — an assembler translates assembly code into machine code. (iii) is wrong because high-level languages need a compiler/interpreter to be converted to machine code — the CPU cannot directly execute Python, Java, etc."
+    },
+    {
+      "id": "47",
+      "subject": "F",
+      "questionText": "Which of the following is the correct hierarchy of memory from fastest to slowest?",
+      "options": [
+        "Cache → Registers → RAM → Hard Disk",
+        "Registers → Cache → RAM → Hard Disk",
+        "RAM → Cache → Registers → Hard Disk",
+        "Hard Disk → RAM → Cache → Registers"
+      ],
+      "correctAnswer": "Registers → Cache → RAM → Hard Disk",
+      "explanation": "Speed hierarchy: Registers (fastest, inside CPU) → Cache (very fast, near CPU) → RAM (fast, main memory) → Hard Disk (slowest, secondary storage). RAM→Cache→Registers is wrong because it reverses the top three. Cache→Registers is wrong because registers are faster than cache. Hard Disk→RAM→Cache→Registers is completely reversed."
+    },
+    {
+      "id": "48",
+      "subject": "F",
+      "questionText": "Match the following ports with the type of connection they support:\n\nColumn I:\n(a) HDMI\n(b) RJ-45\n(c) USB Type-C\n(d) VGA\n\nColumn II:\n(i) Network/Ethernet connection\n(ii) Analog video display\n(iii) Universal data and power\n(iv) Digital audio and video\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "HDMI carries digital audio+video (iv). RJ-45 connects to Ethernet/LAN (i). USB Type-C handles data, video, and power universally (iii). VGA transmits analog video (ii). Option 2 is wrong because it swaps RJ-45 and USB-C. Option 3 is wrong because it swaps HDMI and VGA. Option 4 is wrong because it swaps USB-C and VGA."
+    },
+    {
+      "id": "49",
+      "subject": "F",
+      "questionText": "A byte consists of how many bits?",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "4"
+      ],
+      "correctAnswer": "8",
+      "explanation": "One byte = 8 bits, capable of representing 256 (2⁸) different values. 4 is wrong because 4 bits make a nibble, not a byte. 16 is wrong because 16 bits make 2 bytes (also called a word in some architectures). 32 is wrong because 32 bits make 4 bytes."
+    },
+    {
+      "id": "50",
+      "subject": "F",
+      "questionText": "The device that provides uninterrupted power supply to a computer during power outages is called a:",
+      "options": [
+        "Voltage Regulator",
+        "SMPS",
+        "Surge Protector",
+        "UPS"
+      ],
+      "correctAnswer": "UPS",
+      "explanation": "UPS (Uninterruptible Power Supply) provides backup battery power during outages, allowing safe shutdown. SMPS is wrong because SMPS (Switched Mode Power Supply) converts AC to DC for the computer but doesn't provide backup during outages. Surge Protector is wrong because it only protects against voltage spikes, not power loss. Voltage Regulator is wrong because it stabilizes voltage fluctuations but doesn't provide power during complete outages."
+    }
+  ]
+}

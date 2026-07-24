@@ -1,6 +1,207 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 0,
-  "questions": []
+  "count": 40,
+  "questions": [
+    {
+      "test": 5,
+      "stem": "expand: (x + 3)²",
+      "key": "x² + 6x + 9"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (a + b)(a − b)",
+      "key": "a² − b²"
+    },
+    {
+      "test": 5,
+      "stem": "consider the following statements about algebraic identities: (i) (a + b)² =",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 5,
+      "stem": "if x + 1/x = 5, then x² + 1/x² = ?",
+      "key": "23"
+    },
+    {
+      "test": 5,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 5,
+      "stem": "factorize: x² − 9",
+      "key": "(x + 3)(x − 3)"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (2x + 3y)² − (2x − 3y)²",
+      "key": "24xy"
+    },
+    {
+      "test": 5,
+      "stem": "match the following expressions with their factorized forms: column i: (a) x²",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 5,
+      "stem": "if a − b = 4 and ab = 12, then a²",
+      "key": "40"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (x³ + 8) ÷ (x + 2)",
+      "key": "x² − 2x + 4"
+    },
+    {
+      "test": 5,
+      "stem": "consider the following statements: (i) (a + b)² − (a − b)²",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 5,
+      "stem": "if x + y = 10 and xy = 21, find x²",
+      "key": "58"
+    },
+    {
+      "test": 5,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (3a + 2b)³ when a = 1 and b = 1:",
+      "key": "125"
+    },
+    {
+      "test": 5,
+      "stem": "which of the following are correct factorizations? (i) 8x³ + 27y³ =",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 5,
+      "stem": "if a + b + c = 9 and a² + b²",
+      "key": "23"
+    },
+    {
+      "test": 5,
+      "stem": "match the following identities with their expanded forms: column i: (a) (a",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 5,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (x² − 4x + 4) ÷ (x − 2)",
+      "key": "x − 2"
+    },
+    {
+      "test": 5,
+      "stem": "if x − 1/x = 3, find x³ − 1/x³.",
+      "key": "36"
+    },
+    {
+      "test": 5,
+      "stem": "consider the following statements: (i) (x + 1)(x + 2)(x + 3)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 5,
+      "stem": "find the value of 105² − 95² using an algebraic identity:",
+      "key": "2000"
+    },
+    {
+      "test": 5,
+      "stem": "which of the following are identities (true for all values of the",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: a³ + b³ + c³ − 3abc, given that a +",
+      "key": "0"
+    },
+    {
+      "test": 5,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 5,
+      "stem": "match the following expressions with their simplified values when x = 2:",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 5,
+      "stem": "find the value of (2.5)² − (1.5)² using algebraic identity:",
+      "key": "4"
+    },
+    {
+      "test": 5,
+      "stem": "if x² + 1/x² = 7, then x⁴ + 1/x⁴ = ?",
+      "key": "47"
+    },
+    {
+      "test": 5,
+      "stem": "consider the following statements: (i) a³ + b³ = (a + b)(a²",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (x + 2)³ − (x − 2)³",
+      "key": "12x² + 16"
+    },
+    {
+      "test": 5,
+      "stem": "the value of 998 × 1002 using the identity (a+b)(a−b) = a²−b²",
+      "key": "999996"
+    },
+    {
+      "test": 5,
+      "stem": "the expression that is __________ for all values of x is called",
+      "key": "true"
+    },
+    {
+      "test": 5,
+      "stem": "if p + q = 8 and pq = 15, find (p",
+      "key": "4"
+    },
+    {
+      "test": 5,
+      "stem": "which of the following are correct applications of algebraic identities? (i) 99²",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 5,
+      "stem": "match the following quadratic expressions with their roots: column i: (a) x²",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 5,
+      "stem": "simplify: (a + b + c)² − (a − b − c)²",
+      "key": "4a(b + c)"
+    },
+    {
+      "test": 5,
+      "stem": "if a² + b² + c² = 50 and ab + bc",
+      "key": "144"
+    },
+    {
+      "test": 5,
+      "stem": "consider the following statements: (i) (x + 1/x)² = x² + 2",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 5,
+      "stem": "factorize completely: 2x² + 7x + 3",
+      "key": "(2x + 1)(x + 3)"
+    },
+    {
+      "test": 5,
+      "stem": "the value of 4a² + 9b² + 12ab when a = 3",
+      "key": "144"
+    }
+  ]
 }

@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Algebra: Identities & Simplification",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Expand: (x + 3)²",
+      "options": [
+        "x² + 9x + 6",
+        "x² + 6x + 9",
+        "x² + 6x + 6",
+        "x² + 3x + 9"
+      ],
+      "correctAnswer": "x² + 6x + 9",
+      "explanation": "Using (a+b)² = a² + 2ab + b²: x² + 2(x)(3) + 3² = x² + 6x + 9. x² + 3x + 9 is wrong because it uses ab instead of 2ab. x² + 9x + 6 is wrong because it swaps coefficients. x² + 6x + 6 is wrong because 3² = 9, not 6."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Simplify: (a + b)(a − b)",
+      "options": [
+        "a² + b²",
+        "a² − 2ab + b²",
+        "a² + 2ab − b²",
+        "a² − b²"
+      ],
+      "correctAnswer": "a² − b²",
+      "explanation": "Using the identity (a+b)(a−b) = a² − b². a² + b² is wrong because the cross terms don't cancel to give a sum. a² − 2ab + b² is wrong because that equals (a−b)², not (a+b)(a−b). a² + 2ab − b² is wrong because it incorrectly adds 2ab from expansion."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Consider the following statements about algebraic identities:\n\n(i) (a + b)² = a² + 2ab + b²\n(ii) (a − b)² = a² − 2ab − b²\n(iii) (a + b)³ = a³ + 3a²b + 3ab² + b³\n(iv) a³ − b³ = (a − b)(a² + ab + b²)\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — standard expansion of (a+b)². (iii) is correct — standard expansion of (a+b)³ using binomial theorem. (iv) is correct — factorization of difference of cubes. (ii) is wrong because (a−b)² = a² − 2ab + b² (the last term is +b², not −b²)."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "If x + 1/x = 5, then x² + 1/x² = ?",
+      "options": [
+        "25",
+        "21",
+        "27",
+        "23"
+      ],
+      "correctAnswer": "23",
+      "explanation": "Squaring both sides: (x + 1/x)² = 25, so x² + 2 + 1/x² = 25, therefore x² + 1/x² = 23. 25 is wrong because it doesn't subtract the middle term 2. 27 is wrong because it adds 2 instead of subtracting. 21 is wrong because it subtracts 4 instead of 2."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx.\nReason (R): The square of a trinomial produces three squared terms and three cross-product terms each multiplied by 2.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the expansion of (x+y+z)² yields x²+y²+z²+2xy+2yz+2zx. (R) is correct — squaring a trinomial produces 3 squared terms and 3 cross-product terms with coefficient 2. (R) explains (A) because it describes exactly the structure seen in (A)'s expansion. Option 2 is wrong because (R) directly describes why (A) has that form. Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Factorize: x² − 9",
+      "options": [
+        "(x − 3)(x − 3)",
+        "(x + 3)(x − 3)",
+        "(x + 3)(x + 3)",
+        "(x + 9)(x − 1)"
+      ],
+      "correctAnswer": "(x + 3)(x − 3)",
+      "explanation": "x² − 9 = x² − 3² = (x+3)(x−3) using the difference of squares identity. (x+3)(x+3) is wrong because that equals x²+6x+9. (x−3)(x−3) is wrong because that equals x²−6x+9. (x+9)(x−1) is wrong because that equals x²+8x−9."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Simplify: (2x + 3y)² − (2x − 3y)²",
+      "options": [
+        "12xy",
+        "0",
+        "36x²y²",
+        "24xy"
+      ],
+      "correctAnswer": "24xy",
+      "explanation": "Using a²−b² = (a+b)(a−b) where a=(2x+3y), b=(2x−3y): (4x)(6y) = 24xy. Alternatively: (2x+3y)² = 4x²+12xy+9y²; (2x−3y)² = 4x²−12xy+9y²; difference = 24xy. 12xy is wrong because it uses (a−b) = (2x+3y)−(2x−3y) = 6y but misses the other factor. 36x²y² is wrong because it incorrectly multiplies instead of applies the identity. 0 is wrong because the expressions are not equal."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Match the following expressions with their factorized forms:\n\nColumn I:\n(a) x² + 5x + 6\n(b) x² − 7x + 12\n(c) x² + x − 12\n(d) x² − x − 6\n\nColumn II:\n(i) (x + 4)(x − 3)\n(ii) (x + 2)(x + 3)\n(iii) (x − 3)(x − 4)\n(iv) (x − 3)(x + 2)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "x²+5x+6 = (x+2)(x+3) (ii) since 2+3=5, 2×3=6. x²−7x+12 = (x−3)(x−4) (iii) since (−3)+(−4)=−7, (−3)(−4)=12. x²+x−12 = (x+4)(x−3) (i) since 4+(−3)=1, 4×(−3)=−12. x²−x−6 = (x−3)(x+2) (iv) since (−3)+2=−1, (−3)×2=−6. Option 2 is wrong because it swaps (b) and (c). Option 3 is wrong because it swaps (a) and (b). Option 4 is wrong because it swaps (a) and (c)."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "If a − b = 4 and ab = 12, then a² + b² = ?",
+      "options": [
+        "32",
+        "44",
+        "40",
+        "36"
+      ],
+      "correctAnswer": "40",
+      "explanation": "(a−b)² = a²−2ab+b², so 16 = a²+b²−24, therefore a²+b² = 40. 32 is wrong because it uses (a−b)²=a²+b² without subtracting 2ab. 36 is wrong because it adds ab once instead of 2ab. 44 is wrong because it adds 2ab to (a−b)² giving 16+28=44."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Simplify: (x³ + 8) ÷ (x + 2)",
+      "options": [
+        "x² − 2x + 4",
+        "x² − 4x + 4",
+        "x² + 4x + 4",
+        "x² + 2x + 4"
+      ],
+      "correctAnswer": "x² − 2x + 4",
+      "explanation": "x³+8 = x³+2³ = (x+2)(x²−2x+4) using sum of cubes identity a³+b³=(a+b)(a²−ab+b²). Dividing by (x+2) gives x²−2x+4. x²+2x+4 is wrong because it uses +ab instead of −ab. x²−4x+4 is wrong because that equals (x−2)². x²+4x+4 is wrong because that equals (x+2)²."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) (a + b)² − (a − b)² = 4ab\n(ii) (a + b)² + (a − b)² = 2(a² + b²)\n(iii) (a + b)³ − (a − b)³ = 2b(3a² + b²)\n(iv) (a + b)³ + (a − b)³ = 2a(a² + 3b²)\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct: (a²+2ab+b²)−(a²−2ab+b²) = 4ab. (ii) is correct: (a²+2ab+b²)+(a²−2ab+b²) = 2a²+2b². (iii) is correct: expanding both cubes and subtracting gives 2(3a²b+b³) = 2b(3a²+b²). (iv) is correct: adding both cubes gives 2(a³+3ab²) = 2a(a²+3b²). All four identities are standard. Option 2 is wrong because it excludes (iii) and (iv) which are correct. Option 3 is wrong because it excludes (iv). Option 4 is wrong because it excludes (iii)."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "If x + y = 10 and xy = 21, find x² + y².",
+      "options": [
+        "52",
+        "62",
+        "58",
+        "56"
+      ],
+      "correctAnswer": "58",
+      "explanation": "Using (x+y)² = x²+2xy+y²: 100 = x²+y²+42, so x²+y² = 58. 56 is wrong because it subtracts 44 (using xy=22 incorrectly). 52 is wrong because it subtracts 48 (using 2xy=48). 62 is wrong because it subtracts 38 instead of 42."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The expression x² + 4x + 4 is a perfect square.\nReason (R): An expression a² + 2ab + b² can always be written as (a + b)².\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — x²+4x+4 = (x+2)², which is a perfect square. (R) is correct — a²+2ab+b² = (a+b)² is a standard identity. (R) explains (A) because x²+4x+4 fits the pattern a²+2ab+b² with a=x, b=2, confirming it equals (x+2)². Option 2 is wrong because (R) directly explains why (A) holds. Option 3 is wrong because (R) is a valid identity. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Simplify: (3a + 2b)³ when a = 1 and b = 1:",
+      "options": [
+        "216",
+        "100",
+        "125",
+        "64"
+      ],
+      "correctAnswer": "125",
+      "explanation": "(3(1)+2(1))³ = (3+2)³ = 5³ = 125. 64 is wrong because 64 = 4³ (using 3+1=4 incorrectly). 216 is wrong because 216 = 6³ (using 3+3=6 or 4+2=6). 100 is wrong because 100 = 10² (squaring instead of cubing)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which of the following are correct factorizations?\n\n(i) 8x³ + 27y³ = (2x + 3y)(4x² − 6xy + 9y²)\n(ii) x³ − 64 = (x − 4)(x² + 4x + 16)\n(iii) 27a³ − 8b³ = (3a − 2b)(9a² + 6ab + 4b²)\n(iv) x³ + 1 = (x + 1)(x² + x + 1)\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: 8x³+27y³ = (2x)³+(3y)³ = (2x+3y)(4x²−6xy+9y²). (ii) is correct: x³−64 = x³−4³ = (x−4)(x²+4x+16). (iii) is correct: 27a³−8b³ = (3a)³−(2b)³ = (3a−2b)(9a²+6ab+4b²). (iv) is wrong because x³+1 = (x+1)(x²−x+1), not (x+1)(x²+x+1) — the middle term should be −x, not +x."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "If a + b + c = 9 and a² + b² + c² = 35, find ab + bc + ca.",
+      "options": [
+        "25",
+        "21",
+        "23",
+        "27"
+      ],
+      "correctAnswer": "23",
+      "explanation": "Using (a+b+c)² = a²+b²+c²+2(ab+bc+ca): 81 = 35+2(ab+bc+ca), so 2(ab+bc+ca) = 46, ab+bc+ca = 23. 21 is wrong because that gives 2×21=42, and 35+42=77≠81. 25 is wrong because 35+50=85≠81. 27 is wrong because 35+54=89≠81."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Match the following identities with their expanded forms:\n\nColumn I:\n(a) (a − b)²\n(b) (a + b)(a − b)\n(c) (a + b)²\n(d) (a + b)³\n\nColumn II:\n(i) a³ + 3a²b + 3ab² + b³\n(ii) a² − b²\n(iii) a² − 2ab + b²\n(iv) a² + 2ab + b²\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "(a−b)² = a²−2ab+b² (iii). (a+b)(a−b) = a²−b² (ii). (a+b)² = a²+2ab+b² (iv). (a+b)³ = a³+3a²b+3ab²+b³ (i). Option 2 is wrong because it swaps (a) and (c). Option 3 is wrong because it swaps (b) and (d). Option 4 is wrong because it assigns a²−b² to (a)."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): x² + y² cannot be factorized using real numbers.\nReason (R): The sum of squares does not have real linear factors.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — unlike a²−b² which factors as (a+b)(a−b), the sum a²+b² has no real linear factors. (R) is correct — it states the mathematical fact that sums of squares don't factorize over reals. (R) explains (A) directly. Option 2 is wrong because (R) is the precise reason for (A). Option 3 is wrong because (R) is mathematically correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Simplify: (x² − 4x + 4) ÷ (x − 2)",
+      "options": [
+        "x − 4",
+        "x − 2",
+        "x + 2",
+        "x + 4"
+      ],
+      "correctAnswer": "x − 2",
+      "explanation": "x²−4x+4 = (x−2)². Dividing by (x−2): (x−2)²/(x−2) = x−2. x+2 is wrong because (x+2)(x−2)=x²−4, not x²−4x+4. x−4 is wrong because (x−4)(x−2)=x²−6x+8. x+4 is wrong because (x+4)(x−2)=x²+2x−8."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "If x − 1/x = 3, find x³ − 1/x³.",
+      "options": [
+        "36",
+        "30",
+        "33",
+        "27"
+      ],
+      "correctAnswer": "36",
+      "explanation": "Using identity: a³−b³ = (a−b)(a²+ab+b²). Here (x−1/x)=3 and x²+1/x²=(x−1/x)²+2=9+2=11. So x³−1/x³ = (x−1/x)(x²+1+1/x²) = 3×(11+1) = 3×12 = 36. 33 is wrong because it uses 3×11=33 (forgetting to add 1). 27 is wrong because 27=3³ (incorrectly cubing). 30 is wrong because it uses 3×10=30."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) (x + 1)(x + 2)(x + 3) = x³ + 6x² + 11x + 6\n(ii) The coefficient of x² in (x + 3)³ is 9.\n(iii) (a − b)³ = a³ − 3a²b + 3ab² − b³\n(iv) If x² − 5x + 6 = 0, then x = 2 or x = 3.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct: (x+1)(x+2)(x+3) = x³+6x²+11x+6 ✓. (ii) is correct: (x+3)³ = x³+9x²+27x+27, so coefficient of x² is 9 ✓. (iii) is correct: (a−b)³ = a³−3a²b+3ab²−b³ is a standard identity ✓. (iv) is correct: x²−5x+6 = (x−2)(x−3) = 0 gives x=2 or x=3 ✓. All four statements are correct. Option 1 is wrong because it excludes (ii). Option 2 is wrong because it excludes (iv). Option 4 is wrong because it excludes (i)."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Find the value of 105² − 95² using an algebraic identity:",
+      "options": [
+        "1000",
+        "2500",
+        "1500",
+        "2000"
+      ],
+      "correctAnswer": "2000",
+      "explanation": "Using a²−b² = (a+b)(a−b): (105+95)(105−95) = 200×10 = 2000. 1000 is wrong because it uses 100×10 (incorrect sum). 1500 is wrong because it uses 150×10 (wrong calculation). 2500 is wrong because it uses 250×10 (incorrect sum)."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following are identities (true for all values of the variable)?\n\n(i) (x + 5)² = x² + 10x + 25\n(ii) x² + 4 = (x + 2)²\n(iii) (2x − 1)(2x + 1) = 4x² − 1\n(iv) (x + y)² = x² + y² + 2xy\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct: (x+5)² = x²+10x+25 is a valid identity. (iii) is correct: (2x−1)(2x+1) = 4x²−1 using difference of squares. (iv) is correct: (x+y)²=x²+y²+2xy is the standard identity. (ii) is wrong because (x+2)²=x²+4x+4 ≠ x²+4 (it's missing the 4x term)."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Simplify: a³ + b³ + c³ − 3abc, given that a + b + c = 0.",
+      "options": [
+        "0",
+        "−3abc",
+        "3abc",
+        "a² + b² + c²"
+      ],
+      "correctAnswer": "0",
+      "explanation": "Using the identity: a³+b³+c³−3abc = (a+b+c)(a²+b²+c²−ab−bc−ca). Since a+b+c=0, the entire expression equals 0. a²+b²+c² is wrong because multiplying by 0 gives 0, not a²+b²+c². 3abc is wrong because a³+b³+c³=3abc when a+b+c=0, so a³+b³+c³−3abc=0. −3abc is wrong for the same reason."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): (997)³ can be quickly computed using the identity (a − b)³ = a³ − 3a²b + 3ab² − b³.\nReason (R): 997 can be written as (1000 − 3), making the identity applicable for quick mental computation.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the (a−b)³ identity allows computing (997)³ as (1000−3)³ without long multiplication. (R) is correct — 997 = 1000−3 makes a=1000, b=3. (R) explains (A) because the ability to express 997 as 1000−3 is precisely what makes the identity applicable. Option 2 is wrong because (R) directly enables (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Match the following expressions with their simplified values when x = 2:\n\nColumn I:\n(a) x³ + 3x² + 3x + 1\n(b) x³ − 6x² + 12x − 8\n(c) 8x³ + 12x² + 6x + 1\n(d) x³ − 1\n\nColumn II:\n(i) 0\n(ii) 27\n(iii) 125\n(iv) 7\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) x³+3x²+3x+1 = (x+1)³ = 3³ = 27 (ii). (b) x³−6x²+12x−8 = (x−2)³ = 0³ = 0 (i). (c) 8x³+12x²+6x+1 = (2x+1)³ = 5³ = 125 (iii). (d) x³−1 = 8−1 = 7 (iv). Option 2 is wrong because it assigns 125 to (a). Option 3 is wrong because it assigns 7 to (b). Option 4 is wrong because it assigns 7 to (a)."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Find the value of (2.5)² − (1.5)² using algebraic identity:",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "4",
+      "explanation": "Using a²−b²=(a+b)(a−b): (2.5+1.5)(2.5−1.5) = 4×1 = 4. 3 is wrong because it uses (2.5−1.5)×3=3. 5 is wrong because it uses (2.5+1.5)+1=5. 6 is wrong because it calculates 6.25−0.25=6 (squaring error: 1.5²=2.25 not 0.25)."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "If x² + 1/x² = 7, then x⁴ + 1/x⁴ = ?",
+      "options": [
+        "47",
+        "45",
+        "49",
+        "51"
+      ],
+      "correctAnswer": "47",
+      "explanation": "Squaring: (x²+1/x²)² = x⁴+2+1/x⁴ = 49. So x⁴+1/x⁴ = 49−2 = 47. 49 is wrong because it doesn't subtract the constant 2. 51 is wrong because it adds 2 instead of subtracting. 45 is wrong because it subtracts 4 instead of 2."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) a³ + b³ = (a + b)(a² − ab + b²)\n(ii) a³ − b³ = (a − b)(a² − ab + b²)\n(iii) If a + b = 6 and ab = 8, then a³ + b³ = 72.\n(iv) (a + b)³ = a³ + b³ + 3ab(a + b)\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct: sum of cubes formula. (iv) is correct: (a+b)³ = a³+3a²b+3ab²+b³ = a³+b³+3ab(a+b). (iii) is correct: a³+b³ = (a+b)³−3ab(a+b) = 216−3(8)(6) = 216−144=72. (ii) is wrong because a³−b³ = (a−b)(a²+ab+b²) — the middle term should be +ab, not −ab."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Simplify: (x + 2)³ − (x − 2)³",
+      "options": [
+        "4x² + 16",
+        "12x² + 16",
+        "12x² + 8",
+        "2x³ + 16"
+      ],
+      "correctAnswer": "12x² + 16",
+      "explanation": "Expanding: (x+2)³ = x³+6x²+12x+8; (x−2)³ = x³−6x²+12x−8. Subtracting: 12x²+16. Alternatively using identity (a+b)³−(a−b)³=2b(3a²+b²) with a=x, b=2: 2(2)(3x²+4)=4(3x²+4)=12x²+16. 4x²+16 is wrong because it uses incorrect expansion. 12x²+8 is wrong because 8−(−8)=16, not 8. 2x³+16 is wrong because x³ terms cancel."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "The value of 998 × 1002 using the identity (a+b)(a−b) = a²−b² is:",
+      "options": [
+        "1000000",
+        "999998",
+        "999996",
+        "999994"
+      ],
+      "correctAnswer": "999996",
+      "explanation": "998×1002 = (1000−2)(1000+2) = 1000²−2² = 1000000−4 = 999996. 1000000 is wrong because it ignores the −b² term. 999998 is wrong because it subtracts 2 instead of 4. 999994 is wrong because it subtracts 6 instead of 4."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "The expression that is __________ for all values of x is called an identity.",
+      "options": [
+        "false",
+        "undefined",
+        "zero",
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanation": "An algebraic identity is an equation that holds true for all values of the variable(s). 'False' is wrong because a statement false for all values would be a contradiction. 'Undefined' is wrong because identities are well-defined expressions. 'Zero' is wrong because identities don't necessarily equal zero — they are equations true for all values."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "If p + q = 8 and pq = 15, find (p − q)².",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+      "correctAnswer": "4",
+      "explanation": "(p−q)² = (p+q)²−4pq = 64−60 = 4. 2 is wrong because it uses (p+q)²−2pq = 64−30=34, then divides incorrectly. 6 is wrong because it subtracts 58 from 64. 8 is wrong because it confuses (p+q)²−4pq with (p+q)−4pq."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Which of the following are correct applications of algebraic identities?\n\n(i) 99² = (100−1)² = 10000 − 200 + 1 = 9801\n(ii) 52 × 48 = (50+2)(50−2) = 2500 − 4 = 2496\n(iii) 103² = (100+3)² = 10000 + 600 + 9 = 10609\n(iv) 72² − 28² = (72+28)(72−28) = 100 × 44 = 4400\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct: (100−1)²=10000−200+1=9801 ✓. (ii) is correct: (50+2)(50−2)=2500−4=2496 ✓. (iii) is correct: (100+3)²=10000+600+9=10609 ✓. (iv) is correct: (72+28)(72−28)=100×44=4400 ✓. All four correctly apply identities. Option 2 is wrong because it excludes (iv). Option 3 is wrong because it excludes (ii) and (iii). Option 4 is wrong because it excludes (i)."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Match the following quadratic expressions with their roots:\n\nColumn I:\n(a) x² − 5x + 6 = 0\n(b) x² − 8x + 15 = 0\n(c) x² + x − 6 = 0\n(d) x² − 4x − 5 = 0\n\nColumn II:\n(i) x = 5, −1\n(ii) x = 2, 3\n(iii) x = −3, 2\n(iv) x = 3, 5\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "x²−5x+6=0: (x−2)(x−3)=0, roots 2,3 (ii). x²−8x+15=0: (x−3)(x−5)=0, roots 3,5 (iv). x²+x−6=0: (x+3)(x−2)=0, roots −3,2 (iii). x²−4x−5=0: (x−5)(x+1)=0, roots 5,−1 (i). Option 2 is wrong because it swaps (a) and (b). Option 3 is wrong because it swaps (b) and (c). Option 4 is wrong because it assigns (a) to −3,2."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Simplify: (a + b + c)² − (a − b − c)²",
+      "options": [
+        "4a(b + c)",
+        "2a(b + c)",
+        "4bc",
+        "2(b + c)²"
+      ],
+      "correctAnswer": "4a(b + c)",
+      "explanation": "Using A²−B² = (A+B)(A−B) where A=(a+b+c), B=(a−b−c): (A+B)=2a, (A−B)=2(b+c). So the result is 2a×2(b+c) = 4a(b+c). 4bc is wrong because it misses the 'a' factor and incorrectly multiplies only b and c. 2a(b+c) is wrong because the coefficient should be 4, not 2 (product of two 2s). 2(b+c)² is wrong because it ignores the factor 'a' entirely."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "If a² + b² + c² = 50 and ab + bc + ca = 47, find (a + b + c)².",
+      "options": [
+        "144",
+        "150",
+        "100",
+        "97"
+      ],
+      "correctAnswer": "144",
+      "explanation": "(a+b+c)² = a²+b²+c²+2(ab+bc+ca) = 50+2(47) = 50+94 = 144. 97 is wrong because it adds 50+47=97 without multiplying by 2. 150 is wrong because it uses 50+2(50)=150. 100 is wrong because it uses 50+50=100."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) (x + 1/x)² = x² + 2 + 1/x²\n(ii) If x − 1/x = 2, then x² + 1/x² = 6.\n(iii) (x + 1/x)(x − 1/x) = x² − 1/x²\n(iv) If x + 1/x = 4, then x⁴ + 1/x⁴ = 194.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct: expanding (x+1/x)² = x²+2+1/x². (ii) is correct: (x−1/x)²=4, so x²−2+1/x²=4, x²+1/x²=6. (iii) is correct: using (a+b)(a−b)=a²−b². (iv) is correct: x²+1/x²=(x+1/x)²−2=16−2=14; x⁴+1/x⁴=(x²+1/x²)²−2=196−2=194. All four are correct. Option 1 is wrong because it excludes (iv). Option 2 is wrong because it excludes (ii). Option 3 is wrong because it excludes (ii) and (iv)."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Factorize completely: 2x² + 7x + 3",
+      "options": [
+        "(x + 3)(2x + 1)",
+        "(2x − 1)(x + 3)",
+        "(2x + 1)(x + 3)",
+        "(2x + 3)(x + 1)"
+      ],
+      "correctAnswer": "(2x + 1)(x + 3)",
+      "explanation": "2x²+7x+3: find two numbers that multiply to 2×3=6 and add to 7: that's 6 and 1. Split: 2x²+6x+x+3 = 2x(x+3)+1(x+3) = (2x+1)(x+3). (2x+3)(x+1) is wrong because it gives 2x²+2x+3x+3=2x²+5x+3. (x+3)(2x+1) is actually the same as (2x+1)(x+3) — both are correct representations. (2x−1)(x+3) is wrong because it gives 2x²+6x−x−3=2x²+5x−3."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The value of 4a² + 9b² + 12ab when a = 3 and b = 2 is:",
+      "options": [
+        "120",
+        "144",
+        "100",
+        "132"
+      ],
+      "correctAnswer": "144",
+      "explanation": "4a²+9b²+12ab = (2a+3b)² = (6+6)² = 12² = 144. Alternatively: 4(9)+9(4)+12(6)=36+36+72=144. 100 is wrong because (2a+3b)²≠100 (that would require 2a+3b=10). 120 is wrong because it may result from 36+36+48=120 (using 12×4 incorrectly). 132 is wrong because it results from 36+36+60=132 (using 12×5)."
+    }
+  ]
+}

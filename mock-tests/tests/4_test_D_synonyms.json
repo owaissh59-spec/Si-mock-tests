@@ -1,0 +1,397 @@
+{
+  "subject": "D",
+  "topic": "Synonyms",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'ABANDON':",
+      "options": [
+        "Relinquish",
+        "Acquire",
+        "Embrace",
+        "Maintain"
+      ],
+      "correctAnswer": "Relinquish",
+      "explanation": "Abandon means to give up or forsake; relinquish means to voluntarily give up possession or control. Embrace is wrong because it means to accept willingly — the opposite of abandon. Maintain is wrong because it means to keep in existence or continue. Acquire is wrong because it means to obtain or gain possession — the opposite of giving up."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Benevolent' is a synonym of 'kind'.\n(ii) 'Malevolent' is a synonym of 'generous'.\n(iii) 'Gregarious' is a synonym of 'sociable'.\n(iv) 'Reticent' is a synonym of 'talkative'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — benevolent means well-meaning and kind. (iii) is correct — gregarious means fond of company, i.e., sociable. (ii) is wrong because malevolent means having evil intent — it is the antonym of generous/kind. (iv) is wrong because reticent means reserved or reluctant to speak — it is the antonym of talkative."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'ELOQUENT':",
+      "options": [
+        "Hesitant",
+        "Articulate",
+        "Incoherent",
+        "Stammering"
+      ],
+      "correctAnswer": "Articulate",
+      "explanation": "Eloquent means fluent and persuasive in speaking or writing; articulate means expressing oneself clearly and effectively. Hesitant is wrong because it means uncertain or pausing — the opposite of eloquent. Incoherent is wrong because it means unclear and impossible to understand. Stammering is wrong because it means speaking with involuntary pauses — opposite of fluent expression."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Commence' and 'initiate' are synonyms.\nReason (R): Synonyms are words that have the same or nearly the same meaning in a given context.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — both commence and initiate mean to begin something. (R) is correct — it accurately defines synonyms as words sharing the same or nearly the same meaning. (R) explains (A) because commence and initiate qualify as synonyms precisely because they share nearly the same meaning (to begin). Option 2 is wrong because (R) directly defines why (A) is true. Option 3 is wrong because (R) is a valid definition. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'CANDID':",
+      "options": [
+        "Secretive",
+        "Cautious",
+        "Frank",
+        "Diplomatic"
+      ],
+      "correctAnswer": "Frank",
+      "explanation": "Candid means truthful and straightforward; frank means open and honest in expression. Diplomatic is wrong because diplomatic means tactful and careful with words — not straightforward. Secretive is wrong because it means inclined to conceal — the opposite of candid. Cautious is wrong because it means careful to avoid danger or mistakes, implying restraint rather than openness."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following words with their synonyms:\n\nColumn I:\n(a) Diligent\n(b) Ephemeral\n(c) Affluent\n(d) Audacious\n\nColumn II:\n(i) Wealthy\n(ii) Industrious\n(iii) Bold\n(iv) Transient\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Diligent means hardworking = industrious (ii). Ephemeral means short-lived = transient (iv). Affluent means rich = wealthy (i). Audacious means daring = bold (iii). Option 2 is wrong because it pairs ephemeral with wealthy. Option 3 is wrong because it pairs diligent with bold. Option 4 is wrong because it pairs diligent with transient."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'IMPECCABLE':",
+      "options": [
+        "Defective",
+        "Tolerable",
+        "Mediocre",
+        "Flawless"
+      ],
+      "correctAnswer": "Flawless",
+      "explanation": "Impeccable means without faults or errors; flawless means perfect, without any blemishes. Mediocre is wrong because it means of average or moderate quality — far from perfection. Defective is wrong because it means having faults or imperfections — the antonym of impeccable. Tolerable is wrong because it means barely acceptable — implying it has flaws but they can be endured."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are correct synonym pairs?\n\n(i) Lethargic — Energetic\n(ii) Meticulous — Painstaking\n(iii) Obsolete — Outdated\n(iv) Frugal — Extravagant\n\nSelect the correct combination:",
+      "options": [
+        "(ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "(ii) is correct — meticulous means showing great attention to detail, same as painstaking. (iii) is correct — obsolete means no longer in use, same as outdated. (i) is wrong because lethargic means sluggish/lacking energy, which is the antonym of energetic. (iv) is wrong because frugal means economical/thrifty, which is the antonym of extravagant."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'PRISTINE':",
+      "options": [
+        "Damaged",
+        "Contaminated",
+        "Unspoiled",
+        "Polluted"
+      ],
+      "correctAnswer": "Unspoiled",
+      "explanation": "Pristine means in its original condition, clean and fresh; unspoiled means not damaged or harmed, retaining original quality. Contaminated is wrong because it means made impure by pollutants — the opposite of pristine. Damaged is wrong because it means harmed or impaired. Polluted is wrong because it means made unclean or harmful — the antonym of pristine."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Coerce' means to persuade by using force or threats.\n(ii) 'Compel' is a synonym of 'coerce'.\n(iii) 'Voluntary' is a synonym of 'coerce'.\n(iv) 'Intimidate' shares a similar meaning with 'coerce'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — coerce means to pressure someone through force or threats. (ii) is correct — compel means to force or oblige, sharing meaning with coerce. (iv) is correct — intimidate means to frighten into submission, which is closely related to coercion. (iii) is wrong because voluntary means done by free choice, which is the antonym of coerced action."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'PRAGMATIC':",
+      "options": [
+        "Idealistic",
+        "Theoretical",
+        "Practical",
+        "Visionary"
+      ],
+      "correctAnswer": "Practical",
+      "explanation": "Pragmatic means dealing with things sensibly and realistically; practical means concerned with actual use rather than theory. Idealistic is wrong because it means pursuing high or noble principles, often unrealistically — the opposite of pragmatic. Theoretical is wrong because it means concerned with ideas rather than practical application. Visionary is wrong because it means thinking about the future with imagination, not dealing with present realities."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Verbose' and 'concise' are synonyms.\nReason (R): Verbose means using more words than needed, while concise means expressing much in few words.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is incorrect — verbose (wordy) and concise (brief) are antonyms, not synonyms; they have opposite meanings. (R) is correct — it accurately defines both words: verbose means using excessive words, and concise means brevity of expression. Option 1 is wrong because (A) is factually incorrect. Option 2 is wrong because (A) is incorrect. Option 3 is wrong because (R) is correct."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'ALLEVIATE':",
+      "options": [
+        "Mitigate",
+        "Intensify",
+        "Worsen",
+        "Aggravate"
+      ],
+      "correctAnswer": "Mitigate",
+      "explanation": "Alleviate means to make suffering or a problem less severe; mitigate means to lessen the gravity or severity. Aggravate is wrong because it means to make worse — the antonym. Intensify is wrong because it means to increase in degree or strength — opposite to alleviating. Worsen is wrong because it means to become or make more serious — the antonym of alleviate."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Match the following words with their synonyms:\n\nColumn I:\n(a) Benign\n(b) Clandestine\n(c) Voracious\n(d) Tenacious\n\nColumn II:\n(i) Persistent\n(ii) Harmless\n(iii) Secret\n(iv) Insatiable\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Benign means gentle/not harmful = harmless (ii). Clandestine means kept secret or done secretly = secret (iii). Voracious means wanting great quantities = insatiable (iv). Tenacious means holding firmly = persistent (i). Option 2 is wrong because it swaps benign and clandestine. Option 3 is wrong because it pairs clandestine with insatiable. Option 4 is wrong because it pairs benign with persistent."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'INEVITABLE':",
+      "options": [
+        "Uncertain",
+        "Inescapable",
+        "Improbable",
+        "Avoidable"
+      ],
+      "correctAnswer": "Inescapable",
+      "explanation": "Inevitable means certain to happen, unable to be avoided; inescapable means impossible to avoid or deny. Avoidable is wrong because it means able to be prevented — the direct antonym. Uncertain is wrong because it means not sure or not fixed — opposite of the certainty implied by inevitable. Improbable is wrong because it means not likely to happen — contradicting the certainty of inevitable."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Ubiquitous' means present everywhere at the same time.\n(ii) 'Omnipresent' is a synonym of 'ubiquitous'.\n(iii) 'Scarce' is a synonym of 'ubiquitous'.\n(iv) 'Pervasive' is a synonym of 'ubiquitous'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — ubiquitous means found or present everywhere. (ii) is correct — omnipresent means present everywhere, which is the same meaning. (iv) is correct — pervasive means spreading widely throughout, closely synonymous with ubiquitous. (iii) is wrong because scarce means insufficient in quantity or rarely found — the antonym of ubiquitous."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'PRUDENT':",
+      "options": [
+        "Impulsive",
+        "Reckless",
+        "Careless",
+        "Judicious"
+      ],
+      "correctAnswer": "Judicious",
+      "explanation": "Prudent means acting with care and thought for the future; judicious means having or showing good judgment. Reckless is wrong because it means acting without thinking about consequences — the antonym of prudent. Impulsive is wrong because it means acting without forethought — opposite of careful consideration. Careless is wrong because it means not giving sufficient attention — the antonym of prudent behavior."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Which of the following are correct synonym pairs?\n\n(i) Ambiguous — Clear\n(ii) Lucid — Transparent\n(iii) Arduous — Strenuous\n(iv) Trivial — Significant\n\nSelect the correct combination:",
+      "options": [
+        "(ii) and (iii) only",
+        "(iii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "(ii) is correct — lucid means clear and easy to understand, synonymous with transparent (in the figurative sense). (iii) is correct — arduous means requiring great effort, same as strenuous. (i) is wrong because ambiguous means having multiple meanings/unclear, which is the antonym of clear. (iv) is wrong because trivial means of little importance, which is the antonym of significant."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "The word 'COPIOUS' most nearly means __________.",
+      "options": [
+        "Limited",
+        "Scarce",
+        "Moderate",
+        "Abundant"
+      ],
+      "correctAnswer": "Abundant",
+      "explanation": "Copious means in large quantities, plentiful; abundant means existing in large quantities. Scarce is wrong because it means available only in small quantities — the antonym. Moderate is wrong because it means average in amount, not large. Limited is wrong because it means restricted in size or extent — opposite of copious."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Context plays an important role in determining the correct synonym of a word.\nReason (R): Many English words are polysemous — they carry multiple meanings depending on usage.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — context determines which sense of a word is intended, and therefore which synonym applies. (R) is correct — many words have multiple meanings (polysemy). (R) explains (A) because precisely because words carry multiple meanings, context is needed to identify the correct synonym. Option 2 is wrong because (R) directly provides the reason why context matters. Option 3 is wrong because (R) is linguistically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'TENUOUS':",
+      "options": [
+        "Solid",
+        "Robust",
+        "Flimsy",
+        "Strong"
+      ],
+      "correctAnswer": "Flimsy",
+      "explanation": "Tenuous means very weak or slight; flimsy means easily damaged or unconvincing — both suggest weakness. Strong is wrong because it means having power or force — the antonym of tenuous. Robust is wrong because it means sturdy and strong — opposite of weak/slight. Solid is wrong because it means firm and stable — the antonym of tenuous."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Match the following words with their synonyms:\n\nColumn I:\n(a) Placate\n(b) Ostracize\n(c) Exonerate\n(d) Venerate\n\nColumn II:\n(i) Acquit\n(ii) Appease\n(iii) Revere\n(iv) Exclude\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Placate means to calm or pacify = appease (ii). Ostracize means to exclude from a group = exclude (iv). Exonerate means to declare not guilty = acquit (i). Venerate means to regard with great respect = revere (iii). Option 2 is wrong because it pairs placate with acquit. Option 3 is wrong because it pairs ostracize with revere. Option 4 is wrong because it pairs placate with exclude."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'ARDENT':",
+      "options": [
+        "Lukewarm",
+        "Passionate",
+        "Indifferent",
+        "Apathetic"
+      ],
+      "correctAnswer": "Passionate",
+      "explanation": "Ardent means very enthusiastic or passionate; passionate means showing strong feelings or enthusiasm. Indifferent is wrong because it means having no interest or concern — the antonym. Apathetic is wrong because it means showing no emotion or interest — the opposite of ardent. Lukewarm is wrong because it means only slightly enthusiastic — far weaker than ardent."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Admonish' means to warn or reprimand firmly.\n(ii) 'Rebuke' is a synonym of 'admonish'.\n(iii) 'Praise' is a synonym of 'admonish'.\n(iv) 'Censure' shares a similar meaning with 'admonish'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — admonish means to warn or scold mildly but firmly. (ii) is correct — rebuke means to express sharp disapproval, similar to admonish. (iv) is correct — censure means to express severe disapproval, closely related to admonishing. (iii) is wrong because praise means to express approval or admiration — the antonym of admonish."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'PERNICIOUS':",
+      "options": [
+        "Advantageous",
+        "Beneficial",
+        "Harmless",
+        "Destructive"
+      ],
+      "correctAnswer": "Destructive",
+      "explanation": "Pernicious means having a harmful effect, especially in a gradual or subtle way; destructive means causing great damage. Beneficial is wrong because it means resulting in good — the antonym. Harmless is wrong because it means unlikely to cause harm — directly opposite. Advantageous is wrong because it means providing a benefit or gain — opposite of harmful."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Which of the following are correct synonym pairs?\n\n(i) Exquisite — Beautiful\n(ii) Mundane — Exciting\n(iii) Nonchalant — Casual\n(iv) Vivacious — Lively\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — exquisite means extremely beautiful or delicate. (iii) is correct — nonchalant means calm and relaxed, synonymous with casual. (iv) is correct — vivacious means attractively lively, same as lively. (ii) is wrong because mundane means dull and ordinary — it is the antonym of exciting."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'ENIGMATIC':",
+      "options": [
+        "Predictable",
+        "Mysterious",
+        "Transparent",
+        "Obvious"
+      ],
+      "correctAnswer": "Mysterious",
+      "explanation": "Enigmatic means difficult to interpret or understand; mysterious means difficult to understand or explain. Transparent is wrong because it means easily understood or seen through — the antonym. Obvious is wrong because it means clearly perceived — opposite of enigmatic. Predictable is wrong because it means easily foreseen — opposite of something mysterious and puzzling."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Taciturn' means reserved in speech.\n(ii) 'Laconic' is a synonym of 'taciturn'.\n(iii) 'Garrulous' is a synonym of 'taciturn'.\n(iv) 'Reticent' is a synonym of 'taciturn'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — taciturn means reserved or uncommunicative in speech. (ii) is correct — laconic means using very few words, similar to taciturn. (iv) is correct — reticent means not revealing thoughts readily, same as taciturn. (iii) is wrong because garrulous means excessively talkative — it is the antonym of taciturn."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'VEHEMENT':",
+      "options": [
+        "Moderate",
+        "Intense",
+        "Gentle",
+        "Mild"
+      ],
+      "correctAnswer": "Intense",
+      "explanation": "Vehement means showing strong feeling, forceful and passionate; intense means of extreme force, degree, or strength. Mild is wrong because it means not severe or strong — the antonym of vehement. Gentle is wrong because it means mild in temperament — opposite of forceful passion. Moderate is wrong because it means average in amount or intensity — contradicts the extremeness of vehement."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'NOVICE':",
+      "options": [
+        "Veteran",
+        "Expert",
+        "Professional",
+        "Beginner"
+      ],
+      "correctAnswer": "Beginner",
+      "explanation": "Novice means a person new to or inexperienced in a field; beginner means someone just starting to learn. Expert is wrong because it means a person with extensive knowledge — the antonym. Veteran is wrong because it means a person with long experience — opposite of novice. Professional is wrong because it means a person engaged in an activity with competence — opposite of a newcomer."
+    }
+  ]
+}
