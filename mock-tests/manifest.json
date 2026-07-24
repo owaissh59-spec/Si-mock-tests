@@ -113,7 +113,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "7_test_A_classification.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 8,
@@ -128,7 +128,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "8_test_B_medieval-history.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 9,
@@ -143,7 +143,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "9_test_C_percentage.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 10,

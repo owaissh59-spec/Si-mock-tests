@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "Medieval Indian History",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Delhi Sultanate was established in 1206 CE by:",
+      "options": [
+        "Muhammad of Ghor",
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban"
+      ],
+      "correctAnswer": "Qutb-ud-din Aibak",
+      "explanation": "Qutb-ud-din Aibak, a former slave and general of Muhammad of Ghor, established the Delhi Sultanate in 1206 CE after his master's death, founding the Slave (Mamluk) Dynasty. Muhammad of Ghor is wrong because he was assassinated in 1206 and never ruled as Sultan of Delhi — he was a Ghurid invader. Iltutmish is wrong because he became Sultan in 1211 CE, succeeding Aibak, and is considered the real consolidator but not its founder. Balban is wrong because he ruled much later (1266–1287 CE) as the ninth Sultan of the Slave Dynasty."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Alauddin Khalji established three separate markets for grain, cloth, and horses/cattle/slaves.\n(ii) A special officer called Shahna-i-Mandi was appointed to regulate the markets.\n(iii) The market reforms were primarily aimed at benefiting the common people.\n(iv) Severe punishments were imposed on merchants who cheated on weights and measures.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Alauddin established three markets: Sarai Adl for grain, Sara-i-Adl for cloth, and a market for horses, cattle, and slaves. (ii) is correct — Shahna-i-Mandi was the officer who supervised market transactions. (iv) is correct — harsh punishments including cutting of flesh were imposed for short-weighing. (iii) is wrong because the primary purpose of the market reforms was to maintain a large standing army at low cost by keeping prices artificially low, not to benefit common people."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Vijayanagara Empire was founded in 1336 CE by:",
+      "options": [
+        "Krishnadevaraya",
+        "Deva Raya II",
+        "Bukka Raya I",
+        "Harihara I and Bukka Raya I"
+      ],
+      "correctAnswer": "Harihara I and Bukka Raya I",
+      "explanation": "The Vijayanagara Empire was founded by brothers Harihara I and Bukka Raya I in 1336 CE, with the blessings of the sage Vidyaranya, on the banks of the Tungabhadra river. Krishnadevaraya is wrong because he was the greatest ruler of the Tuluva dynasty (1509–1529), the third dynasty of Vijayanagara, not the founder. Deva Raya II is wrong because he was a notable ruler of the Sangama dynasty (1422–1446) but not the empire's founder. Bukka Raya I alone is wrong because the empire was jointly founded with his brother Harihara I."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Muhammad bin Tughlaq shifted his capital from Delhi to Daulatabad.\nReason (R): Daulatabad was centrally located and could serve as a better base to control the Deccan territories.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Muhammad bin Tughlaq ordered the transfer of his capital from Delhi to Daulatabad (Devagiri) around 1327 CE. (R) is correct — Daulatabad's central location in the Deccan made it strategically suitable for administering the southern territories. (R) explains (A) because the desire to control the Deccan effectively was the primary reason for the capital shift. Option 2 is wrong because (R) directly explains the motivation behind the capital transfer. Option 3 is wrong because (R) is factually accurate regarding Daulatabad's strategic location. Option 4 is wrong because (A) is a well-documented historical event."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Which of the following are features of the Bhakti movement in medieval India?\n\n(i) Emphasis on personal devotion to God rather than rituals\n(ii) Use of vernacular languages for religious expression\n(iii) Rejection of caste distinctions in spiritual matters\n(iv) Exclusive restriction to Hindu traditions only\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Bhakti movement emphasized personal devotion and love for God over ritualistic worship. (ii) is correct — Bhakti saints like Kabir, Tulsidas, and Mirabai composed in local languages (Hindi, Marathi, Tamil, etc.) to reach common people. (iii) is correct — Bhakti saints opposed caste discrimination and preached equality before God. (iv) is wrong because the Bhakti movement was not exclusively Hindu — saints like Kabir and Guru Nanak drew from both Hindu and Islamic traditions, and the Sufi movement shared many parallels."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "The famous Persian scholar Al-Biruni visited India during the invasions of:",
+      "options": [
+        "Muhammad of Ghor",
+        "Timur",
+        "Mahmud of Ghazni",
+        "Nadir Shah"
+      ],
+      "correctAnswer": "Mahmud of Ghazni",
+      "explanation": "Al-Biruni accompanied Mahmud of Ghazni during his invasions of India (early 11th century) and wrote 'Kitab-ul-Hind' (Tahqiq-i-Hind), a comprehensive account of Indian society, science, and religion. Muhammad of Ghor is wrong because he invaded India in the late 12th century, about 150 years after Al-Biruni's time. Timur is wrong because Timur invaded India in 1398, nearly 400 years after Al-Biruni. Nadir Shah is wrong because Nadir Shah invaded in 1739, over 700 years after Al-Biruni's visit."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "The __________ was the system of forced labor imposed on peasants during the Delhi Sultanate period, requiring them to work without wages on state projects.",
+      "options": [
+        "Iqta",
+        "Begar",
+        "Jizya",
+        "Kharaj"
+      ],
+      "correctAnswer": "Begar",
+      "explanation": "Begar was the system of forced/unpaid labor imposed on peasants and lower classes for state construction and other projects. Iqta is wrong because Iqta was a revenue assignment system where nobles were given territorial charges in lieu of salary. Jizya is wrong because Jizya was a religious tax imposed on non-Muslims. Kharaj is wrong because Kharaj was a land tax charged on agricultural produce."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Match the following Mughal emperors with their significant achievements:\n\nColumn I:\n(a) Babur\n(b) Akbar\n(c) Shah Jahan\n(d) Aurangzeb\n\nColumn II:\n(i) Built the Taj Mahal\n(ii) Introduced the Mansabdari system\n(iii) Won the First Battle of Panipat\n(iv) Conquered the Deccan kingdoms of Bijapur and Golconda\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "Babur won the First Battle of Panipat in 1526 (iii), defeating Ibrahim Lodi. Akbar introduced the Mansabdari system (ii), a hierarchical ranking system for nobles. Shah Jahan built the Taj Mahal (i) in memory of Mumtaz Mahal. Aurangzeb conquered the Deccan kingdoms of Bijapur (1686) and Golconda (1687) (iv). Option 1 is wrong because it assigns Deccan conquests to Akbar. Option 3 is wrong because it assigns the Mansabdari system to Babur. Option 4 is wrong because it assigns the Taj Mahal to Akbar."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Amir Khusrau, the famous poet and musician of medieval India, was a disciple of the Sufi saint:",
+      "options": [
+        "Sheikh Salim Chishti",
+        "Nizamuddin Auliya",
+        "Baba Farid",
+        "Moinuddin Chishti"
+      ],
+      "correctAnswer": "Nizamuddin Auliya",
+      "explanation": "Amir Khusrau (1253–1325) was a devoted disciple of Hazrat Nizamuddin Auliya, the great Chishti Sufi saint of Delhi. Sheikh Salim Chishti is wrong because he lived during Akbar's reign (16th century), about 250 years after Khusrau. Baba Farid is wrong because Baba Farid was the spiritual master of Nizamuddin Auliya (one generation earlier), not of Khusrau directly. Moinuddin Chishti is wrong because he was the founder of the Chishti order in India (12th century) and predated Khusrau."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Sher Shah Suri introduced a new silver coin called the 'Rupiya'.\n(ii) He built the Grand Trunk Road from Sonargaon to Peshawar.\n(iii) He established the system of Dagh (branding of horses) for the first time in India.\n(iv) He introduced a system of Sarais (rest houses) along major roads.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Sher Shah introduced the silver 'Rupiya' weighing 178 grains, which became the basis for the modern rupee. (ii) is correct — He rebuilt and extended the Grand Trunk Road (Sadak-e-Azam) from Sonargaon (Bengal) to Peshawar. (iv) is correct — He established sarais at regular intervals for travelers' convenience. (iii) is wrong because the system of Dagh (branding horses) was introduced by Alauddin Khalji, not Sher Shah Suri."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Qutub Minar in Delhi was started by Qutb-ud-din Aibak and completed by:",
+      "options": [
+        "Alauddin Khalji",
+        "Balban",
+        "Razia Sultan",
+        "Iltutmish"
+      ],
+      "correctAnswer": "Iltutmish",
+      "explanation": "The Qutub Minar was started by Qutb-ud-din Aibak (who built the first storey) and completed by his successor Iltutmish (who added the remaining storeys). Alauddin Khalji is wrong because he only added an entrance (Alai Darwaza) to the Qutub complex and attempted an unfinished second minar. Balban is wrong because he focused on military consolidation, not the Qutub Minar's construction. Razia Sultan is wrong because she ruled briefly (1236–1240) and is not credited with completing the Minar."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Akbar abolished the Jizya tax.\nReason (R): Akbar believed in Sulh-i-Kul (universal peace) and pursued a policy of religious tolerance.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Akbar abolished the Jizya (tax on non-Muslims) in 1564. (R) is correct — Akbar pursued Sulh-i-Kul (peace with all), his policy of religious tolerance and harmony. (R) explains (A) because Akbar's abolition of Jizya was a direct consequence of his belief in religious tolerance — he removed the discriminatory tax to treat all subjects equally regardless of faith. Option 2 is wrong because (R) directly explains the motivation for abolishing Jizya. Option 3 is wrong because (R) is historically accurate. Option 4 is wrong because (A) is historically documented."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The Bhakti saint Kabir's teachings are preserved in which of the following texts?",
+      "options": [
+        "Ramcharitmanas",
+        "Padmavat",
+        "Adi Granth (Guru Granth Sahib)",
+        "Akbarnama"
+      ],
+      "correctAnswer": "Adi Granth (Guru Granth Sahib)",
+      "explanation": "Kabir's dohas (couplets) and hymns are included in the Adi Granth (Guru Granth Sahib), compiled by Guru Arjan Dev, as well as in the Bijak compiled by his followers. Ramcharitmanas is wrong because it was composed by Tulsidas and narrates the story of Lord Rama, not Kabir's teachings. Padmavat is wrong because it was an epic poem written by Malik Muhammad Jayasi about Rani Padmavati. Akbarnama is wrong because it is Abul Fazl's biographical account of Emperor Akbar, not a religious text."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Which of the following are correct about the Battle of Talikota (1565)?\n\n(i) It was fought between the Vijayanagara Empire and the combined forces of the Deccan Sultanates.\n(ii) The Vijayanagara king Rama Raya was defeated and killed.\n(iii) The battle led to the destruction and sacking of the city of Hampi.\n(iv) The battle was fought during the reign of Krishnadevaraya.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Battle of Talikota (Rakkasa-Tangadi) was fought between Vijayanagara and the allied Deccan Sultanates (Bijapur, Ahmadnagar, Golconda, and Bidar). (ii) is correct — Aliya Rama Raya, the de facto ruler of Vijayanagara, was captured and beheaded during the battle. (iii) is correct — after the victory, the allied armies sacked and devastated the capital city of Hampi/Vijayanagara. (iv) is wrong because Krishnadevaraya died in 1529, about 36 years before the battle — it took place during the regency of Rama Raya under the nominal king Sadashiva Raya."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "The 'Din-i-Ilahi' was a syncretic religious faith founded by:",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Humayun",
+        "Jahangir"
+      ],
+      "correctAnswer": "Akbar",
+      "explanation": "Din-i-Ilahi (Divine Faith) was founded by Emperor Akbar in 1582, incorporating elements from Hinduism, Islam, Zoroastrianism, Christianity, and Jainism. Shah Jahan is wrong because he moved toward greater Islamic orthodoxy, reversing Akbar's syncretic approach. Humayun is wrong because he spent most of his reign dealing with political instability and exile, and did not establish a new religion. Jahangir is wrong because although Akbar's son, he did not continue Din-i-Ilahi and was more orthodox in his religious views."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "The __________ was Akbar's revenue reform where land revenue was assessed based on the average produce and prices of the past ten years, with one-third fixed as the state's share.",
+      "options": [
+        "Nasaq system",
+        "Ghalla Bakshi",
+        "Zabti/Dahsala system",
+        "Ijara system"
+      ],
+      "correctAnswer": "Zabti/Dahsala system",
+      "explanation": "The Zabti or Dahsala system was Akbar's revenue reform devised by Todar Mal, where land revenue was assessed based on the average produce and prices of the past ten years, with one-third fixed as the state's share. Nasaq system is wrong because it was a simplified estimate system used in areas where detailed measurement was impractical. Ghalla Bakshi is wrong because it was a crop-sharing system where the state took its share directly from the harvested produce. Ijara system is wrong because Ijara was a revenue-farming system where rights to collect revenue were auctioned to the highest bidder."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Match the following Bhakti/Sufi saints with their regions of influence:\n\nColumn I:\n(a) Ramanuja\n(b) Namdev\n(c) Chaitanya Mahaprabhu\n(d) Lal Ded (Lalleshwari)\n\nColumn II:\n(i) Bengal\n(ii) Kashmir\n(iii) Maharashtra\n(iv) Tamil Nadu\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "Ramanuja (11th-12th century) was a Vaishnavite philosopher-saint from Tamil Nadu (iv). Namdev (13th-14th century) was a saint-poet from Maharashtra (iii) who composed in Marathi. Chaitanya Mahaprabhu (15th-16th century) led the Bhakti movement in Bengal (i) through Krishna devotion. Lal Ded/Lalleshwari (14th century) was a mystic poetess from Kashmir (ii). Option 1 is wrong because it assigns Namdev to Bengal. Option 2 is wrong because it assigns Ramanuja to Maharashtra. Option 4 is wrong because it swaps Bengal and Kashmir for Chaitanya and Lal Ded."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "The second Battle of Panipat (1556) was fought between:",
+      "options": [
+        "Akbar's forces under Bairam Khan and Hemu",
+        "Babur and Ibrahim Lodi",
+        "Humayun and Sher Shah Suri",
+        "Ahmad Shah Abdali and the Marathas"
+      ],
+      "correctAnswer": "Akbar's forces under Bairam Khan and Hemu",
+      "explanation": "The Second Battle of Panipat (1556) was fought between the Mughal forces led by regent Bairam Khan (on behalf of 13-year-old Akbar) and Hemu, the Hindu general who had claimed the throne of Delhi. Babur and Ibrahim Lodi is wrong because that was the First Battle of Panipat (1526). Humayun and Sher Shah Suri is wrong because their decisive battles were at Chausa (1539) and Kannauj (1540), not Panipat. Ahmad Shah Abdali and the Marathas is wrong because that was the Third Battle of Panipat (1761)."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Razia Sultan was the first and only female ruler of the Delhi Sultanate.\n(ii) She was the daughter of Sultan Iltutmish.\n(iii) She ruled for over twenty years.\n(iv) She was opposed by Turkish nobility (the Chahalgani/Forty) who resented her authority.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Razia Sultan (1236–1240) was the only woman to rule the Delhi Sultanate. (ii) is correct — she was the daughter of Sultan Iltutmish, who nominated her as his successor. (iv) is correct — the Turkish nobles (Corps of Forty/Chahalgani) constantly conspired against her because they resented being ruled by a woman. (iii) is wrong because Razia ruled for only about three and a half years (1236–1240), not twenty years — she was overthrown and killed in 1240."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The Mughal painting tradition reached its zenith during the reign of:",
+      "options": [
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "correctAnswer": "Jahangir",
+      "explanation": "Mughal painting reached its finest quality under Jahangir, who was a great connoisseur of art and personally supervised his painters. His court produced exceptional portraits and nature studies. Shah Jahan is wrong because under Shah Jahan, painting became more decorative but declined in the individuality and naturalism seen under Jahangir. Akbar is wrong because although Akbar established the Mughal painting atelier and it flourished under him, the art reached its peak quality (not scale) under Jahangir. Aurangzeb is wrong because he discouraged painting due to his orthodox religious views, leading to a decline of the art."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Tughlaq dynasty's rule saw significant territorial expansion followed by rapid disintegration.\nReason (R): Muhammad bin Tughlaq's ambitious but impractical schemes like token currency and capital transfer caused widespread unrest.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — under Muhammad bin Tughlaq, the Sultanate reached its greatest territorial extent but then rapidly lost provinces (Bengal, Deccan, etc.). (R) is correct — his experiments like copper token currency (which was easily counterfeited) and the forced transfer of population to Daulatabad caused massive economic disruption and popular discontent. (R) explains (A) because these impractical schemes directly caused rebellions and provincial breakaways. Option 2 is wrong because (R) directly caused the disintegration mentioned in (A). Option 3 is wrong because (R) is historically accurate. Option 4 is wrong because (A) is historically documented."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The famous 'Hampi' ruins are the remnants of which medieval Indian empire?",
+      "options": [
+        "Bahmani Sultanate",
+        "Hoysala Empire",
+        "Vijayanagara Empire",
+        "Kakatiya Dynasty"
+      ],
+      "correctAnswer": "Vijayanagara Empire",
+      "explanation": "Hampi was the capital city of the Vijayanagara Empire (1336–1646), now a UNESCO World Heritage Site in Karnataka. Bahmani Sultanate is wrong because the Bahmani capital was at Gulbarga and later Bidar, not Hampi. Hoysala Empire is wrong because Hoysala capitals were at Belur and Halebidu, and the Hoysalas predated the Vijayanagara Empire. Kakatiya Dynasty is wrong because the Kakatiya capital was Warangal in present-day Telangana."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Which of the following are correct about the Sufi movement in India?\n\n(i) The Chishti order was the most prominent Sufi order in India.\n(ii) Sufi saints emphasized love, tolerance, and devotion to God.\n(iii) The Chishti saints actively participated in politics and held government offices.\n(iv) Music and sama (spiritual listening) were important in Chishti practices.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the Chishti order (founded by Moinuddin Chishti in India) was the most popular and influential Sufi order in the subcontinent. (ii) is correct — Sufi saints emphasized divine love, religious tolerance, and personal devotion over formal rituals. (iv) is correct — the Chishti order was distinguished by its use of sama (devotional music) as a spiritual practice. (iii) is wrong because the Chishti saints specifically maintained distance from political power and refused government positions — unlike the Suhrawardi order which accepted state patronage."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Firoz Shah Tughlaq is known for establishing the city of:",
+      "options": [
+        "Fatehpur Sikri",
+        "Tughlaqabad",
+        "Jaunpur",
+        "Shahjahanabad"
+      ],
+      "correctAnswer": "Jaunpur",
+      "explanation": "Firoz Shah Tughlaq founded the city of Jaunpur (in present-day Uttar Pradesh) in memory of his predecessor Muhammad bin Tughlaq (whose real name was Jauna Khan). Fatehpur Sikri is wrong because it was built by the Mughal emperor Akbar in the 16th century. Tughlaqabad is wrong because it was built by Ghiyas ud din Tughlaq, the founder of the Tughlaq dynasty. Shahjahanabad is wrong because it was built by Shah Jahan in the 17th century as the new Mughal capital (Old Delhi)."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The 'Rajatarangini', a historical chronicle of Kashmir, was written by:",
+      "options": [
+        "Bilhana",
+        "Kalhana",
+        "Somadeva",
+        "Jayadeva"
+      ],
+      "correctAnswer": "Kalhana",
+      "explanation": "Rajatarangini ('River of Kings') was written by Kalhana in the 12th century CE, providing a historical account of the kings of Kashmir from earliest times to his own period. Bilhana is wrong because he was a Kashmiri poet who wrote Vikramankadeva Charita about the Chalukya king Vikramaditya VI. Somadeva is wrong because he authored Kathasaritsagara (Ocean of Streams of Story), a collection of tales. Jayadeva is wrong because he composed the Gita Govinda, a lyrical poem about Krishna and Radha."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Match the following medieval architectural monuments with their builders:\n\nColumn I:\n(a) Buland Darwaza\n(b) Alai Darwaza\n(c) Char Minar\n(d) Gol Gumbaz\n\nColumn II:\n(i) Muhammad Quli Qutb Shah\n(ii) Alauddin Khalji\n(iii) Muhammad Adil Shah\n(iv) Akbar\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Buland Darwaza at Fatehpur Sikri was built by Akbar (iv) to commemorate his Gujarat conquest. Alai Darwaza was built by Alauddin Khalji (ii) as a gateway to the Quwwat-ul-Islam mosque in the Qutub complex. Char Minar in Hyderabad was built by Muhammad Quli Qutb Shah (i) in 1591. Gol Gumbaz in Bijapur was built by Muhammad Adil Shah (iii) of the Adil Shahi dynasty. Option 1 is wrong because it swaps Alauddin Khalji and Qutb Shah. Option 2 is wrong because it swaps Akbar and Alauddin Khalji. Option 3 is wrong because it assigns Char Minar to Muhammad Adil Shah."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The Lodi dynasty, the last dynasty of the Delhi Sultanate, belonged to which ethnic group?",
+      "options": [
+        "Turkish",
+        "Persian",
+        "Afghan",
+        "Mongol"
+      ],
+      "correctAnswer": "Afghan",
+      "explanation": "The Lodi dynasty (1451–1526) was of Afghan (Pashtun) origin, being the first Afghan dynasty to rule the Delhi Sultanate. Turkish is wrong because the earlier Slave, Khalji (partly), and Tughlaq dynasties had Turkish origins, not the Lodis. Persian is wrong because although Persian culture influenced the Sultanate, no Persian ethnic dynasty ruled Delhi. Mongol is wrong because the Mongols were invaders who repeatedly attacked the Sultanate but never established a dynasty in Delhi."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Guru Nanak was the founder of Sikhism and the first Sikh Guru.\n(ii) He was born in Talwandi (now Nankana Sahib in Pakistan) in 1469.\n(iii) He opposed idol worship, caste distinctions, and empty rituals.\n(iv) He composed his teachings exclusively in Sanskrit.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Guru Nanak (1469–1539) founded Sikhism and was the first of the ten Sikh Gurus. (ii) is correct — he was born in Talwandi (Rai Bhoi di Talwandi), now called Nankana Sahib in Pakistan. (iii) is correct — Guru Nanak rejected idol worship, caste system, and ritualism, preaching the oneness of God and equality. (iv) is wrong because Guru Nanak composed in Punjabi (and to some extent in other vernacular languages), not Sanskrit — his hymns in the Guru Granth Sahib are in Gurmukhi script."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The 'Ibadatkhana' (House of Worship) at Fatehpur Sikri was established by Akbar for:",
+      "options": [
+        "Offering namaz five times daily",
+        "Training military officers in strategy",
+        "Conducting religious discussions among scholars of different faiths",
+        "Teaching Persian literature to the royal family"
+      ],
+      "correctAnswer": "Conducting religious discussions among scholars of different faiths",
+      "explanation": "Akbar established the Ibadatkhana in 1575 at Fatehpur Sikri as a hall for religious debates and discussions among scholars of various faiths — Islam, Hinduism, Christianity, Jainism, and Zoroastrianism. 'Offering namaz' is wrong because the Ibadatkhana was not a mosque — it was specifically a debate hall. 'Training military officers' is wrong because military training took place in separate facilities. 'Teaching Persian literature' is wrong because literary education took place in madrasas, not in this specifically religious discussion hall."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Which of the following are associated with the reign of Krishnadevaraya of Vijayanagara?\n\n(i) He patronized the Ashtadiggajas (eight great Telugu poets).\n(ii) He authored the Telugu work 'Amuktamalyada'.\n(iii) He defeated the Sultan of Bijapur and recovered the Raichur Doab.\n(iv) He shifted the capital from Hampi to Chandragiri.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Krishnadevaraya patronized the Ashtadiggajas, eight celebrated Telugu poets in his court including Allasani Peddana. (ii) is correct — he authored 'Amuktamalyada', a Telugu literary masterpiece about the story of Andal. (iii) is correct — he defeated the Sultan of Bijapur (Ismail Adil Shah) and recovered the strategic Raichur Doab region. (iv) is wrong because the capital remained at Hampi (Vijayanagara) during Krishnadevaraya's reign — the shift to Chandragiri/Penukonda happened much later, after the Battle of Talikota (1565)."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The famous Kohinoor diamond came into Mughal possession during the reign of:",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "correctAnswer": "Babur",
+      "explanation": "The Kohinoor diamond came into Mughal possession after Babur's victory at Panipat (1526) — it was given to Humayun by the family of the defeated Gwalior raja. Babur mentions it in his memoirs (Baburnama). Akbar is wrong because by his time the diamond was already a Mughal possession for decades. Shah Jahan is wrong because while he had the diamond set in his Peacock Throne, it was acquired much earlier by Babur. Aurangzeb is wrong because the diamond was in Mughal possession long before his reign."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Malik Kafur's famous expedition to the Deccan and South India was carried out under the orders of:",
+      "options": [
+        "Alauddin Khalji",
+        "Muhammad bin Tughlaq",
+        "Balban",
+        "Firoz Shah Tughlaq"
+      ],
+      "correctAnswer": "Alauddin Khalji",
+      "explanation": "Malik Kafur, a slave-general converted to Islam, led military expeditions to the Deccan and South India (1306–1311) under Sultan Alauddin Khalji, plundering the Yadavas, Kakatiyas, Hoysalas, and Pandyas. Muhammad bin Tughlaq is wrong because he ruled from 1325, well after Malik Kafur's expeditions. Balban is wrong because he ruled 1266–1287 and focused on consolidating power in North India. Firoz Shah Tughlaq is wrong because he ruled 1351–1388 and was known for peaceful administration, not southern military campaigns."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Bahmani Sultanate was founded by Alauddin Hasan Bahman Shah in 1347.\n(ii) Its capital was initially at Gulbarga and later shifted to Bidar.\n(iii) It eventually broke up into five Deccan Sultanates.\n(iv) Mahmud Gawan was a famous prime minister of this kingdom.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — Alauddin Hasan Bahman Shah (originally Hasan Gangu) founded the Bahmani Sultanate in 1347 after revolting against Muhammad bin Tughlaq. (ii) is correct — the capital was initially at Gulbarga (Ahsanabad) and later shifted to Bidar by Sultan Ahmad Shah I in 1426. (iii) is correct — the Bahmani Sultanate fragmented into five Deccan Sultanates: Bijapur, Golconda, Ahmadnagar, Berar, and Bidar. (iv) is correct — Mahmud Gawan was a highly capable prime minister (wazir) who served the Bahmani Sultanate and implemented important administrative reforms before being executed in 1481."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Aurangzeb reimposed the Jizya tax on non-Muslims in 1679.\nReason (R): Aurangzeb pursued a policy of strict Islamic orthodoxy in contrast to his predecessors.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Aurangzeb reimposed the Jizya in 1679, reversing Akbar's abolition of over a century earlier. (R) is correct — Aurangzeb followed strict Sunni Islamic orthodoxy, banning music at court, discontinuing Mughal painting patronage, and destroying temples. (R) explains (A) because the reimposition of Jizya was a direct manifestation of his orthodox religious policy. Option 2 is wrong because (R) directly explains why Jizya was reimposed. Option 3 is wrong because (R) is historically documented. Option 4 is wrong because (A) is an established historical fact."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "The 'Ain-i-Akbari', a detailed document on Akbar's administration, was written by:",
+      "options": [
+        "Faizi",
+        "Abul Fazl",
+        "Badauni",
+        "Birbal"
+      ],
+      "correctAnswer": "Abul Fazl",
+      "explanation": "Ain-i-Akbari (Institutes of Akbar) was written by Abul Fazl, Akbar's court historian, as the third volume of the Akbarnama, detailing Mughal administration, revenue systems, and cultural life. Faizi is wrong because Faizi (Abul Fazl's brother) was a poet laureate who translated works into Persian but did not write the Ain-i-Akbari. Badauni is wrong because Abdul Qadir Badauni wrote Muntakhab-ut-Tawarikh, a critical history often unfavorable to Akbar. Birbal is wrong because Birbal was known for his wit and military service, not historical writing."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "Timur's invasion of India in 1398 primarily targeted which city, resulting in massive plunder and devastation?",
+      "options": [
+        "Agra",
+        "Lahore",
+        "Delhi",
+        "Jaunpur"
+      ],
+      "correctAnswer": "Delhi",
+      "explanation": "Timur invaded India in 1398 and his primary target was Delhi, which he captured and plundered for several days, carrying away immense wealth and artisans to Samarkand. Agra is wrong because Agra was not yet a major capital in 1398 — it rose to prominence under the Mughals in the 16th century. Lahore is wrong because although Timur passed through Punjab, his main target and the city he devastated was Delhi. Jaunpur is wrong because Jaunpur was a provincial city founded by Firoz Shah Tughlaq, not the target of Timur's invasion."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Match the following medieval Indian texts with their authors:\n\nColumn I:\n(a) Tuzuk-i-Jahangiri\n(b) Padmavat\n(c) Humayunnama\n(d) Baburnama\n\nColumn II:\n(i) Babur\n(ii) Gulbadan Begum\n(iii) Malik Muhammad Jayasi\n(iv) Jahangir\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "Tuzuk-i-Jahangiri (Memoirs of Jahangir) was written by Jahangir himself (iv). Padmavat, an epic poem about Rani Padmini, was composed by Malik Muhammad Jayasi (iii) in 1540. Humayunnama was written by Gulbadan Begum (ii), Humayun's half-sister. Baburnama (memoirs) was written by Babur (i) in Chagatai Turkish. Option 1 is wrong because it assigns Padmavat to Gulbadan Begum. Option 2 is wrong because it swaps Jahangir and Babur. Option 3 is wrong because it swaps Gulbadan Begum and Babur."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The Chola king who successfully led a naval expedition to Southeast Asia, attacking the Srivijaya Empire, was:",
+      "options": [
+        "Rajaraja Chola I",
+        "Rajendra Chola I",
+        "Kulottunga Chola I",
+        "Vikrama Chola"
+      ],
+      "correctAnswer": "Rajendra Chola I",
+      "explanation": "Rajendra Chola I (1014–1044 CE) launched a famous naval expedition against the Srivijaya Empire (present-day Indonesia/Malaysia) around 1025 CE, demonstrating Chola naval supremacy in the Indian Ocean. Rajaraja Chola I is wrong because while he was a great conqueror who captured Sri Lanka and the Maldives, the Srivijaya naval expedition was undertaken by his son Rajendra. Kulottunga Chola I is wrong because he ruled later (1070–1122) and focused on maintaining trade relations rather than military naval expeditions. Vikrama Chola is wrong because he ruled 1118–1135 CE, about a century after the Srivijaya expedition."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Humayun lost his empire to Sher Shah Suri and spent years in exile.\n(ii) He took refuge at the court of the Persian Safavid king Shah Tahmasp.\n(iii) He reconquered Delhi in 1555 but died shortly after in 1556.\n(iv) He built the famous Humayun's Tomb in Delhi before his death.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Humayun was defeated by Sher Shah Suri at Chausa (1539) and Kannauj (1540), losing his empire and spending 15 years in exile. (ii) is correct — he sought refuge with Shah Tahmasp of Persia, who helped him with troops to reclaim his throne. (iii) is correct — Humayun recaptured Delhi in 1555 but died in January 1556 after falling from his library stairs. (iv) is wrong because Humayun's Tomb was built AFTER his death by his widow Hamida Banu Begum in 1565–1572 — he did not build it himself."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The medieval Indian ruler who introduced the 'Iqta' system (land revenue assignments to nobles) in India on a large scale was:",
+      "options": [
+        "Balban",
+        "Iltutmish",
+        "Qutb-ud-din Aibak",
+        "Alauddin Khalji"
+      ],
+      "correctAnswer": "Iltutmish",
+      "explanation": "Iltutmish organized and institutionalized the Iqta system in India on a large scale, assigning revenue from territories to his nobles (iqtadars) in lieu of salary for maintaining troops. Balban is wrong because although he used the Iqta system, he did not introduce it — he focused on strengthening central authority and disciplining iqtadars. Qutb-ud-din Aibak is wrong because while he was the first Sultan, it was Iltutmish who systematically organized the Iqta system. Alauddin Khalji is wrong because he actually curtailed the Iqta system and centralized revenue collection to weaken the power of nobles."
+    }
+  ]
+}

@@ -3,9 +3,9 @@
   "medium": "English",
   "exam_day": 70,
   "total_planned_tests": 207,
-  "test_counter": 6,
-  "next_test": 7,
-  "last_generated": "6_test_F_computer-basics.json",
+  "test_counter": 9,
+  "next_test": 10,
+  "last_generated": "9_test_C_percentage.json",
   "updated_at": "2026-07-24",
   "duplicate_policy": "no-exact-and-no-near-duplicate (check subject history shard)",
   "history_shards": {

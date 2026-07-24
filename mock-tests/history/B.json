@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 40,
+  "count": 80,
   "questions": [
     {
       "test": 2,
@@ -202,6 +202,206 @@
       "test": 2,
       "stem": "the earliest known civilization in the indian subcontinent is the __________ civilization.",
       "key": "Indus Valley (Harappan)"
+    },
+    {
+      "test": 8,
+      "stem": "the delhi sultanate was established in 1206 ce by:",
+      "key": "Qutb-ud-din Aibak"
+    },
+    {
+      "test": 8,
+      "stem": "consider the following statements: (i) alauddin khalji established three separate markets for",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 8,
+      "stem": "the vijayanagara empire was founded in 1336 ce by:",
+      "key": "Harihara I and Bukka Raya I"
+    },
+    {
+      "test": 8,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 8,
+      "stem": "which of the following are features of the bhakti movement in medieval",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 8,
+      "stem": "the famous persian scholar al-biruni visited india during the invasions of:",
+      "key": "Mahmud of Ghazni"
+    },
+    {
+      "test": 8,
+      "stem": "the __________ was the system of forced labor imposed on peasants during",
+      "key": "Begar"
+    },
+    {
+      "test": 8,
+      "stem": "match the following mughal emperors with their significant achievements: column i: (a)",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 8,
+      "stem": "amir khusrau, the famous poet and musician of medieval india, was a",
+      "key": "Nizamuddin Auliya"
+    },
+    {
+      "test": 8,
+      "stem": "consider the following statements: (i) sher shah suri introduced a new silver",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 8,
+      "stem": "the qutub minar in delhi was started by qutb-ud-din aibak and completed",
+      "key": "Iltutmish"
+    },
+    {
+      "test": 8,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 8,
+      "stem": "the bhakti saint kabir's teachings are preserved in which of the following",
+      "key": "Adi Granth (Guru Granth Sahib)"
+    },
+    {
+      "test": 8,
+      "stem": "which of the following are correct about the battle of talikota (1565)?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 8,
+      "stem": "the 'din-i-ilahi' was a syncretic religious faith founded by:",
+      "key": "Akbar"
+    },
+    {
+      "test": 8,
+      "stem": "the __________ was akbar's revenue reform where land revenue was assessed based",
+      "key": "Zabti/Dahsala system"
+    },
+    {
+      "test": 8,
+      "stem": "match the following bhakti/sufi saints with their regions of influence: column i:",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 8,
+      "stem": "the second battle of panipat (1556) was fought between:",
+      "key": "Akbar's forces under Bairam Khan and Hemu"
+    },
+    {
+      "test": 8,
+      "stem": "consider the following statements: (i) razia sultan was the first and only",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 8,
+      "stem": "the mughal painting tradition reached its zenith during the reign of:",
+      "key": "Jahangir"
+    },
+    {
+      "test": 8,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 8,
+      "stem": "the famous 'hampi' ruins are the remnants of which medieval indian empire?",
+      "key": "Vijayanagara Empire"
+    },
+    {
+      "test": 8,
+      "stem": "which of the following are correct about the sufi movement in india?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 8,
+      "stem": "firoz shah tughlaq is known for establishing the city of:",
+      "key": "Jaunpur"
+    },
+    {
+      "test": 8,
+      "stem": "the 'rajatarangini', a historical chronicle of kashmir, was written by:",
+      "key": "Kalhana"
+    },
+    {
+      "test": 8,
+      "stem": "match the following medieval architectural monuments with their builders: column i: (a)",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 8,
+      "stem": "the lodi dynasty, the last dynasty of the delhi sultanate, belonged to",
+      "key": "Afghan"
+    },
+    {
+      "test": 8,
+      "stem": "consider the following statements: (i) guru nanak was the founder of sikhism",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 8,
+      "stem": "the 'ibadatkhana' (house of worship) at fatehpur sikri was established by akbar",
+      "key": "Conducting religious discussions among scholars of different faiths"
+    },
+    {
+      "test": 8,
+      "stem": "which of the following are associated with the reign of krishnadevaraya of",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 8,
+      "stem": "the famous kohinoor diamond came into mughal possession during the reign of:",
+      "key": "Babur"
+    },
+    {
+      "test": 8,
+      "stem": "malik kafur's famous expedition to the deccan and south india was carried",
+      "key": "Alauddin Khalji"
+    },
+    {
+      "test": 8,
+      "stem": "consider the following statements: (i) the bahmani sultanate was founded by alauddin",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 8,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 8,
+      "stem": "the 'ain-i-akbari', a detailed document on akbar's administration, was written by:",
+      "key": "Abul Fazl"
+    },
+    {
+      "test": 8,
+      "stem": "timur's invasion of india in 1398 primarily targeted which city, resulting in",
+      "key": "Delhi"
+    },
+    {
+      "test": 8,
+      "stem": "match the following medieval indian texts with their authors: column i: (a)",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 8,
+      "stem": "the chola king who successfully led a naval expedition to southeast asia,",
+      "key": "Rajendra Chola I"
+    },
+    {
+      "test": 8,
+      "stem": "consider the following statements: (i) humayun lost his empire to sher shah",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 8,
+      "stem": "the medieval indian ruler who introduced the 'iqta' system (land revenue assignments",
+      "key": "Iltutmish"
     }
   ]
 }

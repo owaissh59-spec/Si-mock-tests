@@ -33,9 +33,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 7 | Morning | A — General Intelligence & Reasoning | Classification (Semantic, Symbolic/Number, Figural) | 30 | foundation | Topic-wise | ⬜ |
-| 8 | Afternoon | B — General Awareness | Medieval Indian History | 40 | foundation | Topic-wise | ⬜ |
-| 9 | Late | C — Quantitative Aptitude | Percentage | 50 | foundation | Topic-wise | ⬜ |
+| 7 | Morning | A — General Intelligence & Reasoning | Classification (Semantic, Symbolic/Number, Figural) | 30 | foundation | Topic-wise | ✅ |
+| 8 | Afternoon | B — General Awareness | Medieval Indian History | 40 | foundation | Topic-wise | ✅ |
+| 9 | Late | C — Quantitative Aptitude | Percentage | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 4
 

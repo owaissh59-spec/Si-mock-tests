@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 50,
+  "count": 100,
   "questions": [
     {
       "test": 3,
@@ -252,6 +252,256 @@
       "test": 3,
       "stem": "the difference between the largest and smallest 3-digit numbers, each of which",
       "key": "594"
+    },
+    {
+      "test": 9,
+      "stem": "if 35% of a number is 175, what is the number?",
+      "key": "500"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) 25% of 800 is the same as",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 9,
+      "stem": "a shopkeeper increases the price by 20% and then offers a 20%",
+      "key": "4% decrease"
+    },
+    {
+      "test": 9,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 9,
+      "stem": "which of the following are correct regarding percentage-to-fraction conversions? (a) 12.5% =",
+      "key": "(A), (B), (C) and (E) only"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) the population after 10% increase on 50,000",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 9,
+      "stem": "match the following: column i: (p) 3/5 expressed as percentage (q) 45%",
+      "key": "P→2, Q→1, R→4, S→3"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) if a number is increased by 50%",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 9,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 9,
+      "stem": "if a's salary is 30% more than b's, b's salary is what",
+      "key": "23.08%"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) a man who pays 20% tax on",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 9,
+      "stem": "in an examination requiring 40% to pass, a student scores 178 and",
+      "key": "500"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) a man spending 75% of income sees",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 9,
+      "stem": "__________ percent of 250 equals 75.",
+      "key": "30"
+    },
+    {
+      "test": 9,
+      "stem": "which of the following are correct about successive percentage changes? (a) 30%",
+      "key": "(A), (B), (C) and (E) only"
+    },
+    {
+      "test": 9,
+      "stem": "if the radius of a circle increases by 10%, area increases by:",
+      "key": "21%"
+    },
+    {
+      "test": 9,
+      "stem": "match the following: column i: (p) price rises 25%, consumption reduction to",
+      "key": "P→4, Q→1, R→2, S→3"
+    },
+    {
+      "test": 9,
+      "stem": "in a class of 60 students, 40% are girls. if 5 boys",
+      "key": "36.92%"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) if income tax rises from 10% to",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 9,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 9,
+      "stem": "a number is increased by 20%, then 25%, then decreased by 10%.",
+      "key": "35%"
+    },
+    {
+      "test": 9,
+      "stem": "salary increases 10% then decreases 10%. if original = ₹20,000, final salary:",
+      "key": "₹19,800"
+    },
+    {
+      "test": 9,
+      "stem": "match the following: column i: (p) 20% increase on 400 (q) 15%",
+      "key": "P→2, Q→1, R→3, S→4"
+    },
+    {
+      "test": 9,
+      "stem": "the following data shows monthly sales: january: 400, february: 480, march: 420,",
+      "key": "26%"
+    },
+    {
+      "test": 9,
+      "stem": "which of the following are correct? (a) a's income 25% more than",
+      "key": "All (A), (B), (C), (D) and (E)"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) if price increases 25%, consumption must fall",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 9,
+      "stem": "match the following: column i: (p) a earns 20% more than b;",
+      "key": "P→2, Q→3, R→1, S→4"
+    },
+    {
+      "test": 9,
+      "stem": "price increased 30%. new price must be reduced by what percent to",
+      "key": "23.08%"
+    },
+    {
+      "test": 9,
+      "stem": "if numerator increases 20% and denominator decreases 10%, new fraction = 2/3.",
+      "key": "1/2"
+    },
+    {
+      "test": 9,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 9,
+      "stem": "if 40% of (x − y) = 30% of (x + y),",
+      "key": "14.29%"
+    },
+    {
+      "test": 9,
+      "stem": "consider the following statements: (i) if the side of a square increases",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 9,
+      "stem": "which of the following are correct about percentage and profit/loss? (a) marking",
+      "key": "(A), (B), (C) and (D) only"
+    },
+    {
+      "test": 9,
+      "stem": "if __________ percent is the increase needed on a reduced salary (reduced",
+      "key": "25"
+    },
+    {
+      "test": 9,
+      "stem": "the data below shows budget allocation: marketing: ₹80,000 operations: ₹1,20,000 hr: ₹40,000",
+      "key": "30%"
+    },
+    {
+      "test": 9,
+      "stem": "a's marks are 20% more than b's; b's are 25% less than",
+      "key": "144"
+    },
+    {
+      "test": 9,
+      "stem": "machine depreciates at 15% p.a. present value ₹2,00,000. value after 2 years:",
+      "key": "₹1,44,500"
+    },
+    {
+      "test": 9,
+      "stem": "which of the following are correct? (a) 8.33% = 1/12 (b) if",
+      "key": "All (A), (B), (C), (D) and (E)"
+    },
+    {
+      "test": 9,
+      "stem": "800 oranges: 60% sold monday, 30% of remaining sold tuesday. left:",
+      "key": "224"
+    },
+    {
+      "test": 9,
+      "stem": "election: a gets 55% of valid votes; 20% of 8000 votes invalid.",
+      "key": "3520"
+    },
+    {
+      "test": 9,
+      "stem": "match the following: column i: (p) percentage equivalent of 5/6 (q) fraction",
+      "key": "P→2, Q→1, R→4, S→3"
+    },
+    {
+      "test": 9,
+      "stem": "town population grew 10%, then 20%, then fell 5%. after 3 years",
+      "key": "20,000"
+    },
+    {
+      "test": 9,
+      "stem": "petrol price rises 25%. consumption must reduce by what % to keep",
+      "key": "20%"
+    },
+    {
+      "test": 9,
+      "stem": "the data below shows student marks (each out of 100): english: 72,",
+      "key": "14.71%"
+    },
+    {
+      "test": 9,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 9,
+      "stem": "₹10,000 at 10% si for 2 years, then reinvested at 15% si",
+      "key": "₹15,600"
+    },
+    {
+      "test": 9,
+      "stem": "if 15% of a number is 45, then 35% of that number:",
+      "key": "105"
+    },
+    {
+      "test": 9,
+      "stem": "a mixture of 60 litres has milk:water = 2:1. water to add",
+      "key": "20 litres"
+    },
+    {
+      "test": 9,
+      "stem": "company had 500 employees: 20% increase in year 1, 10% decrease in",
+      "key": "540"
+    },
+    {
+      "test": 9,
+      "stem": "a company's revenue increased from ₹40 lakh in q1 to ₹55 lakh",
+      "key": "37.5%"
     }
   ]
 }

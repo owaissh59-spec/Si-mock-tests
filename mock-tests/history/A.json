@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 30,
+  "count": 60,
   "questions": [
     {
       "test": 1,
@@ -152,6 +152,156 @@
       "test": 1,
       "stem": "in number analogies, if 'ace' corresponds to 135 (position values: a=1, c=3,",
       "key": "246"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: apple, mango, banana, carrot",
+      "key": "Carrot"
+    },
+    {
+      "test": 7,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out in the number group: 8, 27, 64,",
+      "key": "100"
+    },
+    {
+      "test": 7,
+      "stem": "which of the following are correctly identified as the odd one out",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: liver, heart, kidney, femur",
+      "key": "Femur"
+    },
+    {
+      "test": 7,
+      "stem": "consider the following statements: (i) in semantic classification, items are grouped based",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 7,
+      "stem": "match the following groups with the correct odd one out and reasoning:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 7,
+      "stem": "in the number group {2, 3, 5, 9, 11}, which number does",
+      "key": "9"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: kilometer, gram, liter, newton",
+      "key": "Newton"
+    },
+    {
+      "test": 7,
+      "stem": "consider the following statements: (i) in the group {abcd, efgh, ijkl, mnop,",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: braille, morse code, semaphore, esperanto",
+      "key": "Esperanto"
+    },
+    {
+      "test": 7,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: violin, cello, trumpet, viola",
+      "key": "Trumpet"
+    },
+    {
+      "test": 7,
+      "stem": "match the following number groups with the classification rule used to identify",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out from the letter groups: aei, bfj, cgk,",
+      "key": "DIM"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: thermometer, barometer, speedometer, perimeter",
+      "key": "Perimeter"
+    },
+    {
+      "test": 7,
+      "stem": "consider the following statements: (i) in the group {sahara, thar, gobi, amazon},",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 7,
+      "stem": "in the number group {36, 49, 81, 97, 121}, find the odd",
+      "key": "97"
+    },
+    {
+      "test": 7,
+      "stem": "which of the following are valid bases for figural classification? (i) number",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: oxygen, nitrogen, hydrogen, bronze",
+      "key": "Bronze"
+    },
+    {
+      "test": 7,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: photosynthesis, combustion, electrolysis, rusting",
+      "key": "Electrolysis"
+    },
+    {
+      "test": 7,
+      "stem": "in the following group of letter clusters, identify the odd one out:",
+      "key": "EJN"
+    },
+    {
+      "test": 7,
+      "stem": "which of the following are correctly classified as the odd one out",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 7,
+      "stem": "consider the following statements: (i) in the group {january, march, june, july,",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 7,
+      "stem": "find the number that does not belong in the group: 16, 36,",
+      "key": "80"
+    },
+    {
+      "test": 7,
+      "stem": "consider the following statements: (i) in figural classification, a figure with all",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 7,
+      "stem": "find the odd one out: diamond, ruby, emerald, chalk",
+      "key": "Chalk"
+    },
+    {
+      "test": 7,
+      "stem": "match the following semantic groups with the correct odd one out: column",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 7,
+      "stem": "in the group {igneous, sedimentary, metamorphic, __________}, one term does not belong.",
+      "key": "Calcium"
     }
   ]
 }

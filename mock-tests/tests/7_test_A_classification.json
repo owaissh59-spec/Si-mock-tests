@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Classification (Semantic, Symbolic/Number, Figural)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Find the odd one out: Apple, Mango, Banana, Carrot",
+      "options": [
+        "Carrot",
+        "Apple",
+        "Banana",
+        "Mango"
+      ],
+      "correctAnswer": "Carrot",
+      "explanation": "Apple, Mango, and Banana are all fruits, while Carrot is a vegetable (root vegetable). Apple is wrong because it is a fruit like the majority. Banana is wrong because it is a fruit like the majority. Mango is wrong because it is a fruit like the majority."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the group {17, 23, 29, 33, 37}, the number 33 is the odd one out.\nReason (R): All other numbers in the group are prime numbers, while 33 is composite (33 = 3 × 11).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because 17, 23, 29, and 37 are all prime numbers, making 33 the odd one out. (R) is correct because 33 = 3 × 11 and is indeed composite. (R) directly explains (A) because the fact that 33 is composite while the others are prime is precisely why 33 does not belong. Option 2 is wrong because (R) does explain (A) — the composite nature of 33 is the exact reason. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Find the odd one out in the number group: 8, 27, 64, 100, 125",
+      "options": [
+        "8",
+        "27",
+        "100",
+        "125"
+      ],
+      "correctAnswer": "100",
+      "explanation": "8 = 2³, 27 = 3³, 64 = 4³, 125 = 5³ — these are all perfect cubes. 100 is not a perfect cube (∛100 ≈ 4.64); it is 10², a perfect square but not a cube. 8 is wrong because it is 2³, a perfect cube. 27 is wrong because it is 3³, a perfect cube. 125 is wrong because it is 5³, a perfect cube."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Which of the following are correctly identified as the odd one out in their respective groups?\n\n(i) {Sparrow, Crow, Bat, Parrot} — Bat is the odd one out\n(ii) {Nile, Amazon, Sahara, Ganges} — Sahara is the odd one out\n(iii) {Mercury, Venus, Moon, Mars} — Moon is the odd one out\n(iv) {Violin, Flute, Guitar, Sitar} — Guitar is the odd one out\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Bat is a mammal while Sparrow, Crow, and Parrot are birds. (ii) is correct — Sahara is a desert while Nile, Amazon, and Ganges are rivers. (iii) is correct — Moon is a natural satellite while Mercury, Venus, and Mars are planets. (iv) is wrong — Guitar is a stringed instrument like Violin and Sitar; Flute (a wind instrument) should be the odd one out, not Guitar. Option 1 is wrong because it excludes (iii) which is correct. Option 3 is wrong because (iv) is incorrect. Option 4 is wrong because (iv) is incorrect."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Find the odd one out: Liver, Heart, Kidney, Femur",
+      "options": [
+        "Femur",
+        "Heart",
+        "Kidney",
+        "Liver"
+      ],
+      "correctAnswer": "Femur",
+      "explanation": "Heart, Kidney, and Liver are all internal organs of the human body. Femur is a bone (the thigh bone), not an organ. Heart is wrong because it is a vital organ that pumps blood. Kidney is wrong because it is a vital organ that filters blood. Liver is wrong because it is a vital organ involved in metabolism."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In semantic classification, items are grouped based on their meaning, function, or category.\n(ii) In number classification, the odd one out is identified based on mathematical properties like prime, composite, square, or cube.\n(iii) Figural classification always requires knowledge of advanced geometry and trigonometry.\n(iv) The core principle of classification is finding a common property shared by all items except one.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — semantic classification groups items by meaning, function, or categorical membership. (ii) is correct — number classification uses mathematical properties to find the misfit. (iv) is correct — classification fundamentally means identifying the one item that does not share the group's common property. (iii) is wrong because figural classification requires basic visual pattern recognition (shapes, rotations, shading), not advanced geometry or trigonometry. Option 2 is wrong because it includes (iii). Option 3 is wrong because it includes (iii) and excludes (ii). Option 4 is wrong because it includes (iii) and excludes (i)."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Match the following groups with the correct odd one out and reasoning:\n\nColumn I:\n(a) {Rose, Jasmine, Lily, Teak}\n(b) {64, 81, 100, 110}\n(c) {Triangle, Square, Pentagon, Cylinder}\n(d) {Mercury, Silver, Gold, Copper}\n\nColumn II:\n(i) Cylinder — it is a 3D solid while the others are 2D polygons\n(ii) Teak — it is a tree, not a flower\n(iii) 110 — it is not a perfect square\n(iv) Mercury — it is liquid at room temperature while others are solid metals\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Group (a): Rose, Jasmine, Lily are flowers; Teak is a tree → (ii). Group (b): 64=8², 81=9², 100=10² are perfect squares; 110 is not → (iii). Group (c): Triangle, Square, Pentagon are 2D polygons; Cylinder is a 3D solid → (i). Group (d): Silver, Gold, Copper are solid at room temperature; Mercury is liquid → (iv). Option 1 is wrong because it assigns Mercury's liquid property to the flower group. Option 3 is wrong because it swaps the number group and shape group reasoning. Option 4 is wrong because it assigns the 3D/2D distinction to Mercury's group."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "In the number group {2, 3, 5, 9, 11}, which number does NOT belong?",
+      "options": [
+        "9",
+        "2",
+        "5",
+        "11"
+      ],
+      "correctAnswer": "9",
+      "explanation": "2, 3, 5, and 11 are all prime numbers (divisible only by 1 and themselves). 9 = 3 × 3 is composite and therefore does not belong. 2 is wrong because it is the smallest prime number. 5 is wrong because it is a prime number. 11 is wrong because it is a prime number."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Find the odd one out: Kilometer, Gram, Liter, Newton",
+      "options": [
+        "Gram",
+        "Kilometer",
+        "Liter",
+        "Newton"
+      ],
+      "correctAnswer": "Newton",
+      "explanation": "Kilometer measures length, Gram measures mass, and Liter measures volume — these are all units of fundamental/base physical quantities. Newton is a derived unit of force (kg·m/s²), obtained by combining base units. Gram is wrong because it is a base unit of mass. Kilometer is wrong because it is a base unit of length/distance. Liter is wrong because it is a base unit of volume."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the group {ABCD, EFGH, IJKL, MNOP, RSTU}, the odd one is RSTU because it skips the letter Q — the expected group after MNOP should be QRST.\n(ii) In the group {AZ, BY, CX, DW, EV}, the pattern is that each pair consists of letters equidistant from opposite ends of the alphabet.\n(iii) In letter classification, only vowel-based patterns can form the basis of grouping.\n(iv) In the group {ACE, BDF, CEG, DFH}, each cluster uses alternate letters with a gap of one position between consecutive letters.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — ABCD(1-4), EFGH(5-8), IJKL(9-12), MNOP(13-16) are consecutive 4-letter blocks; the next should be QRST(17-20), not RSTU. (ii) is correct — A(1)+Z(26)=27, B(2)+Y(25)=27, each pair sums to 27, meaning they are equidistant from the ends. (iv) is correct — ACE skips B,D; BDF skips C,E; CEG skips D,F — each has a gap of one between letters. (iii) is wrong because letter classification can use consonants, positional values, alphabetical sequences, or any pattern — not limited to vowels. Option 1 is wrong because it includes (iii). Option 2 is wrong because it excludes (i). Option 3 is wrong because it includes (iii)."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Find the odd one out: Braille, Morse Code, Semaphore, Esperanto",
+      "options": [
+        "Braille",
+        "Morse Code",
+        "Esperanto",
+        "Semaphore"
+      ],
+      "correctAnswer": "Esperanto",
+      "explanation": "Braille, Morse Code, and Semaphore are all encoding/communication systems that represent an existing language using alternative signals (touch, sound/light, and flags respectively). Esperanto is a constructed language with its own grammar and vocabulary — it is a language itself, not an encoding system. Braille is wrong because it is a tactile encoding system for written languages. Morse Code is wrong because it encodes letters as dots and dashes. Semaphore is wrong because it encodes letters using flag positions."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the group {Whale, Dolphin, Shark, Seal}, the odd one out is Shark.\nReason (R): Whale, Dolphin, and Seal are mammals that breathe through lungs, while Shark is a fish that breathes through gills.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Whale, Dolphin, and Seal are marine mammals, making Shark (a fish) the odd one out. (R) is correct — mammals breathe through lungs and fish through gills, which is factually accurate. (R) explains (A) because the biological classification difference (mammal vs. fish) based on breathing mechanism is exactly what makes Shark the odd one out. Option 2 is wrong because (R) directly explains why Shark is different. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Find the odd one out: Violin, Cello, Trumpet, Viola",
+      "options": [
+        "Cello",
+        "Trumpet",
+        "Violin",
+        "Viola"
+      ],
+      "correctAnswer": "Trumpet",
+      "explanation": "Violin, Cello, and Viola are all bowed string instruments in the violin family. Trumpet is a brass wind instrument that produces sound through lip vibration into a mouthpiece. Cello is wrong because it is a bowed string instrument. Violin is wrong because it is a bowed string instrument. Viola is wrong because it is a bowed string instrument."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Match the following number groups with the classification rule used to identify the odd one out:\n\nColumn I:\n(a) {2, 5, 11, 14, 17} — Odd one: 14\n(b) {1, 4, 9, 15, 25} — Odd one: 15\n(c) {8, 27, 64, 100, 125} — Odd one: 100\n(d) {6, 12, 18, 25, 30} — Odd one: 25\n\nColumn II:\n(i) All except one are multiples of 6\n(ii) All except one are perfect cubes\n(iii) All except one are prime numbers\n(iv) All except one are perfect squares\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Group (a): 2, 5, 11, 17 are prime; 14=2×7 is composite → rule is primes (iii). Group (b): 1=1², 4=2², 9=3², 25=5² are perfect squares; 15 is not → rule is perfect squares (iv). Group (c): 8=2³, 27=3³, 64=4³, 125=5³ are perfect cubes; 100=10² is not a cube → rule is perfect cubes (ii). Group (d): 6, 12, 18, 30 are multiples of 6; 25 is not → rule is multiples of 6 (i). Option 1 is wrong because it assigns cubes to (b) and squares to (c). Option 2 is wrong because it assigns squares to (a) and primes to (b). Option 3 is wrong because it swaps the rules for (c) and (d)."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Find the odd one out from the letter groups: AEI, BFJ, CGK, DIM",
+      "options": [
+        "AEI",
+        "BFJ",
+        "DIM",
+        "CGK"
+      ],
+      "correctAnswer": "DIM",
+      "explanation": "AEI: A(1),E(5),I(9) — gap of +4 between each letter. BFJ: B(2),F(6),J(10) — gap of +4 between each letter. CGK: C(3),G(7),K(11) — gap of +4 between each letter. DIM: D(4),I(9),M(13) — gap of +5 then +4, which is inconsistent. With a constant +4 gap from D, the expected group would be DHL (D=4, H=8, L=12). AEI is wrong because it follows the consistent +4 gap pattern. BFJ is wrong because it follows the consistent +4 gap pattern. CGK is wrong because it follows the consistent +4 gap pattern."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Find the odd one out: Thermometer, Barometer, Speedometer, Perimeter",
+      "options": [
+        "Barometer",
+        "Perimeter",
+        "Thermometer",
+        "Speedometer"
+      ],
+      "correctAnswer": "Perimeter",
+      "explanation": "Thermometer, Barometer, and Speedometer are all measuring instruments (measuring temperature, atmospheric pressure, and speed respectively). Perimeter is a mathematical concept (the total boundary length of a shape), not a measuring instrument. Barometer is wrong because it is an instrument that measures atmospheric pressure. Thermometer is wrong because it is an instrument that measures temperature. Speedometer is wrong because it is an instrument that measures speed."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the group {Sahara, Thar, Gobi, Amazon}, Amazon is the odd one out because it is a rainforest/river, not a desert.\n(ii) In the group {Beethoven, Mozart, Picasso, Bach}, Picasso is the odd one out because he was a painter, not a music composer.\n(iii) In the group {Radius, Diameter, Circumference, Volume}, Volume is the odd one out because it is a 3D measurement while the others relate to circles (2D).\n(iv) In the group {Lok Sabha, Rajya Sabha, Supreme Court, Vidhan Sabha}, Supreme Court is the odd one out because it is a judicial body, not a legislative body.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — Sahara, Thar, and Gobi are deserts; Amazon is a river/rainforest. (ii) is correct — Beethoven, Mozart, and Bach were classical composers; Picasso was a painter. (iii) is correct — Radius, Diameter, and Circumference relate to a circle (2D); Volume is a 3D measurement. (iv) is correct — Lok Sabha, Rajya Sabha, and Vidhan Sabha are legislative bodies; Supreme Court is a judicial body. Option 1 is wrong because it excludes (iv) which is correct. Option 2 is wrong because it excludes (ii) and (iii). Option 3 is wrong because it excludes (i)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "In the number group {36, 49, 81, 97, 121}, find the odd one out:",
+      "options": [
+        "49",
+        "81",
+        "121",
+        "97"
+      ],
+      "correctAnswer": "97",
+      "explanation": "36 = 6², 49 = 7², 81 = 9², 121 = 11² — these are all perfect squares. 97 is a prime number and not a perfect square (√97 ≈ 9.85). 49 is wrong because it is 7², a perfect square. 81 is wrong because it is 9², a perfect square. 121 is wrong because it is 11², a perfect square."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Which of the following are valid bases for figural classification?\n\n(i) Number of sides in the figures\n(ii) Direction of arrows or pointers within figures\n(iii) Shading pattern (solid, striped, hollow)\n(iv) The personal aesthetic preference of the test-taker\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — figures can be classified by number of sides (triangles vs. quadrilaterals vs. pentagons). (ii) is correct — direction of arrows or pointers (up, down, left, right) is a valid figural classification basis. (iii) is correct — shading patterns (solid, striped, hollow) are a standard classification criterion in figure-based questions. (iv) is wrong because personal aesthetic preference is subjective and irrelevant — figural classification uses objective visual properties only. Option 1 is wrong because it excludes (ii) which is correct. Option 2 is wrong because it includes (iv). Option 3 is wrong because it includes (iv)."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Find the odd one out: Oxygen, Nitrogen, Hydrogen, Bronze",
+      "options": [
+        "Bronze",
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correctAnswer": "Bronze",
+      "explanation": "Oxygen, Nitrogen, and Hydrogen are all chemical elements found on the periodic table. Bronze is an alloy (a mixture of copper and tin), not a pure element. Hydrogen is wrong because it is element number 1. Nitrogen is wrong because it is element number 7. Oxygen is wrong because it is element number 8."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the number group {4, 9, 16, 23, 36}, the number 23 is the odd one out.\nReason (R): 23 is an odd number while all others in the group are even.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct because 4=2², 9=3², 16=4², 36=6² are all perfect squares, while 23 is not a perfect square. (R) is incorrect because 9 is also an odd number in the group — so oddness is NOT what distinguishes 23. The actual reason 23 doesn't belong is that it is not a perfect square. Option 1 is wrong because (R) is not correct. Option 2 is wrong because (R) is not correct. Option 4 is wrong because (A) is correct — 23 truly is the odd one out."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Find the odd one out: Photosynthesis, Combustion, Electrolysis, Rusting",
+      "options": [
+        "Combustion",
+        "Electrolysis",
+        "Photosynthesis",
+        "Rusting"
+      ],
+      "correctAnswer": "Electrolysis",
+      "explanation": "Photosynthesis, Combustion, and Rusting are all spontaneous chemical processes that occur naturally without requiring continuous external energy input. Electrolysis requires an external electric current to drive the reaction — it is a non-spontaneous, artificially forced process. Combustion is wrong because it occurs spontaneously when fuel meets oxygen at ignition temperature. Photosynthesis is wrong because it occurs naturally in plants using sunlight. Rusting is wrong because it occurs naturally when iron contacts moisture and oxygen."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "In the following group of letter clusters, identify the odd one out: AEI, BFJ, CGK, DHL, EJN",
+      "options": [
+        "EJN",
+        "BFJ",
+        "CGK",
+        "DHL"
+      ],
+      "correctAnswer": "EJN",
+      "explanation": "AEI: A(1),E(5),I(9) — constant gap of +4 between letters. BFJ: B(2),F(6),J(10) — constant gap of +4. CGK: C(3),G(7),K(11) — constant gap of +4. DHL: D(4),H(8),L(12) — constant gap of +4. EJN: E(5),J(10),N(14) — gap of +5 then +4, which is inconsistent. With a +4 gap from E, the expected group would be EIM (E=5, I=9, M=13), not EJN. BFJ is wrong because it maintains consistent +4 gaps. CGK is wrong because it maintains consistent +4 gaps. DHL is wrong because it maintains consistent +4 gaps."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Which of the following are correctly classified as the odd one out based on number properties?\n\n(i) {11, 13, 15, 17, 19} — 15 is odd because it is not prime (15 = 3 × 5)\n(ii) {1, 8, 27, 65, 125} — 65 is odd because it is not a perfect cube\n(iii) {2, 4, 6, 8, 9} — 9 is odd because it is not an even number\n(iv) {10, 20, 30, 45, 50} — 45 is odd because it is not a multiple of 10\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — 11, 13, 17, 19 are prime; 15=3×5 is composite. (ii) is correct — 1=1³, 8=2³, 27=3³, 125=5³ are perfect cubes; 65 is not (4³=64≠65). (iii) is correct — 2, 4, 6, 8 are even; 9 is odd. (iv) is correct — 10, 20, 30, 50 are multiples of 10; 45÷10=4.5, not a multiple of 10. Option 1 is wrong because it excludes (ii) and (iv). Option 2 is wrong because it excludes (iv). Option 3 is wrong because it excludes (i) and (iii)."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the group {January, March, June, July, August}, June is the odd one out because it has 30 days while the others have 31.\n(ii) In the group {Diamond, Ruby, Emerald, Granite}, Granite is the odd one out because it is a common rock, not a precious gemstone.\n(iii) In the group {Ant, Bee, Spider, Butterfly}, Spider is the odd one out because it is an arachnid (8 legs) while the others are insects (6 legs).\n(iv) In the group {Iron, Copper, Aluminium, Sulphur}, Copper is the odd one out because it is not magnetic.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — January(31), March(31), July(31), August(31) have 31 days; June has only 30. (ii) is correct — Diamond, Ruby, Emerald are precious gemstones; Granite is a common igneous rock. (iii) is correct — Ant, Bee, Butterfly are insects (6 legs); Spider is an arachnid (8 legs). (iv) is wrong — the correct odd one out in {Iron, Copper, Aluminium, Sulphur} is Sulphur because it is a non-metal while Iron, Copper, and Aluminium are all metals. Copper's non-magnetic property is not the distinguishing criterion here. Option 2 is wrong because (iv) is incorrect. Option 3 is wrong because it includes (iv) and excludes (i). Option 4 is wrong because it excludes (iii) which is correct."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Find the number that does NOT belong in the group: 16, 36, 64, 80, 100",
+      "options": [
+        "16",
+        "80",
+        "36",
+        "100"
+      ],
+      "correctAnswer": "80",
+      "explanation": "16 = 4², 36 = 6², 64 = 8², 100 = 10² — these are all perfect squares of even numbers. 80 is not a perfect square (√80 ≈ 8.94). 16 is wrong because it is 4², a perfect square. 36 is wrong because it is 6², a perfect square. 100 is wrong because it is 10², a perfect square."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In figural classification, a figure with all straight lines is the odd one out in a group where all others contain curves.\n(ii) A figure rotated 90° clockwise is generally considered the same figure in classification unless rotation itself is the distinguishing criterion.\n(iii) In figural classification, size difference alone (larger vs. smaller) is never a valid classification basis.\n(iv) The number of enclosed regions within a figure can be used as a classification criterion.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — straight vs. curved lines is a valid distinction for identifying the odd figure. (ii) is correct — unless rotation itself is the criterion being tested, rotated versions are treated as equivalent. (iv) is correct — the number of enclosed regions (one closed area vs. two vs. three) is a standard figural classification criterion. (iii) is wrong because size difference CAN be a valid classification basis — a significantly larger or smaller figure among uniformly sized figures can be the odd one out. Option 1 is wrong because it includes (iii). Option 2 is wrong because it includes (iii) and excludes (i). Option 4 is wrong because it excludes (ii)."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Find the odd one out: Diamond, Ruby, Emerald, Chalk",
+      "options": [
+        "Diamond",
+        "Chalk",
+        "Emerald",
+        "Ruby"
+      ],
+      "correctAnswer": "Chalk",
+      "explanation": "Diamond, Ruby, and Emerald are all precious gemstones valued for their hardness, rarity, and beauty. Chalk is a soft sedimentary material (calcium carbonate) used for writing — it has no gemstone properties. Diamond is wrong because it is a precious gemstone (hardest natural substance). Emerald is wrong because it is a precious gemstone (green beryl). Ruby is wrong because it is a precious gemstone (red corundum)."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Match the following semantic groups with the correct odd one out:\n\nColumn I:\n(a) {Malaria, Typhoid, Diabetes, Dengue}\n(b) {Photosynthesis, Respiration, Transpiration, Pollination}\n(c) {Watt, Joule, Ampere, Kilogram}\n(d) {Earth, Jupiter, Sun, Saturn}\n\nColumn II:\n(i) Sun — it is a star, not a planet\n(ii) Kilogram — it measures mass, while the others are electrical/energy units\n(iii) Diabetes — it is a metabolic disorder, not an infectious disease\n(iv) Pollination — it is a reproductive process, not a metabolic/physiological process\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Group (a): Malaria, Typhoid, Dengue are infectious diseases; Diabetes is metabolic → (iii). Group (b): Photosynthesis, Respiration, Transpiration are metabolic/physiological; Pollination is reproductive → (iv). Group (c): Watt (power), Joule (energy), Ampere (current) relate to electricity/energy; Kilogram measures mass → (ii). Group (d): Earth, Jupiter, Saturn are planets; Sun is a star → (i). Option 1 is wrong because it assigns star/planet to the plant process group. Option 2 is wrong because it assigns pollination to the disease group. Option 4 is wrong because it assigns the star reasoning to the units group."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "In the group {Igneous, Sedimentary, Metamorphic, __________}, one term does NOT belong. If the group is {Igneous, Sedimentary, Metamorphic, Calcium}, identify which term is the odd one out:",
+      "options": [
+        "Calcium",
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary"
+      ],
+      "correctAnswer": "Calcium",
+      "explanation": "Igneous, Sedimentary, and Metamorphic are the three types of rocks classified by their formation process. Calcium is a chemical element (atomic number 20) — it is not a type of rock. Igneous is wrong because it is a rock type formed from cooled magma/lava. Metamorphic is wrong because it is a rock type formed by heat and pressure transformation. Sedimentary is wrong because it is a rock type formed by deposition and compaction of sediments."
+    }
+  ]
+}
