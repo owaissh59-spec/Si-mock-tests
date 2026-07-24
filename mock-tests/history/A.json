@@ -1,6 +1,157 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 0,
-  "questions": []
+  "count": 30,
+  "questions": [
+    {
+      "test": 1,
+      "stem": "painter is to brush as writer is to:",
+      "key": "Pen"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about semantic analogies: (i) a semantic analogy tests",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "match the following analogical pairs with their relationship type: column i: (a)",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 1,
+      "stem": "6 : 36 :: 8 : ?",
+      "key": "64"
+    },
+    {
+      "test": 1,
+      "stem": "which of the following are examples of 'part-to-whole' analogies? (i) page :",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 1,
+      "stem": "thermometer is to temperature as barometer is to:",
+      "key": "Pressure"
+    },
+    {
+      "test": 1,
+      "stem": "3 : 27 :: 5 : ?",
+      "key": "125"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about number analogies: (i) in 4 : 16",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 1,
+      "stem": "needle is to thread as comb is to:",
+      "key": "Hair"
+    },
+    {
+      "test": 1,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 1,
+      "stem": "the relationship in the analogy 'flour : bread' is the same as",
+      "key": "Cloth : Shirt"
+    },
+    {
+      "test": 1,
+      "stem": "match the following number analogy pairs with the correct relationship: column i:",
+      "key": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 1,
+      "stem": "which of the following are examples of 'degree/intensity' analogies? (i) warm :",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 1,
+      "stem": "in the analogy 'cloud : dpove', each letter has been shifted forward",
+      "key": "+1"
+    },
+    {
+      "test": 1,
+      "stem": "hospital is to patient as school is to:",
+      "key": "Student"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about figural analogies: (i) figural analogies involve changes",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "12 : 144 :: 15 : ?",
+      "key": "225"
+    },
+    {
+      "test": 1,
+      "stem": "the analogy relationship in 'author : book' is the same as:",
+      "key": "Sculptor : Statue"
+    },
+    {
+      "test": 1,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 1,
+      "stem": "in a symbolic analogy, if '+' means subtraction and '×' means addition,",
+      "key": "Addition"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about symbolic/operational analogies: (i) in symbolic analogies, mathematical",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "which of the following are valid 'cause and effect' analogies? (i) rain",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "the analogy that represents the same relationship as 'whale : mammal' is:",
+      "key": "Sparrow : Bird"
+    },
+    {
+      "test": 1,
+      "stem": "match the following analogical pairs with their relationship category: column i: (a)",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 1,
+      "stem": "in the analogy 'ace : fhj', the relationship between the two groups",
+      "key": "Each letter is shifted forward by 5 positions"
+    },
+    {
+      "test": 1,
+      "stem": "oxygen is to breathing as fuel is to:",
+      "key": "Combustion"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about letter-based analogies: (i) in 'abcd : zyxw',",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "the type of analogy represented by 'flock : birds :: __________ :",
+      "key": "Pack"
+    },
+    {
+      "test": 1,
+      "stem": "16 : 56 :: 12 : ?",
+      "key": "42"
+    }
+  ]
 }
