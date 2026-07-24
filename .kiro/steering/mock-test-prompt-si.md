@@ -29,11 +29,12 @@ You are an expert Indian competitive-exam question designer for JKSSB, JKPSC, SS
 
 This project is **plan-driven**. The 70-day study plan predefines EVERY mock test — its number, day, session, subject, topic(s), question count, and difficulty. **The user will NOT type a subject or topic.** When the user says something like "generate the next mock test", follow this exact sequence:
 
-1. **Read `mock-tests/config.json`** — it holds `test_counter` and `next_test` (the number of the next pending test). This file is tiny; always read it first.
-2. **Read the matching entry in `mock-tests/manifest.json`** for that test number to get its full spec: `subject`, `topics`, `total_questions`, `difficulty_profile`, `type`, `filename`. Do NOT read the whole `manifest.json` into memory if you can jump to the entry; it is a compact index by design.
-3. **Read ONLY the relevant subject history shard(s)** in `mock-tests/history/<X>.json` (X = subject letter A–F, or all six only for a Full Test) to avoid repeating questions. Never read the generated test files in `mock-tests/tests/` in bulk — they exist only as output artifacts.
-4. **Generate** the test exactly per the spec and the rules in the sections below.
-5. **Run the Post-Generation Workflow (Section 7).**
+1. **Read `mock-tests/config.json` — this ONE tiny file is the tracker and is all you need to know what to build next.** It holds `generated_count`, `remaining_count`, `next_test`, and `next_test_spec` (the FULL inlined spec of the next pending test: `subject`, `topics`, `total_questions`, `difficulty_profile`, `type`, `filename`). You normally do NOT need to open `manifest.json` at all for routine generation — everything required is in `next_test_spec`. (`manifest.json` remains the complete backup plan if you ever need it.)
+2. **Read ONLY the relevant subject history shard(s)** in `mock-tests/history/<X>.json` (X = subject letter A–F, or all six only for a Full Test) to avoid repeating questions. Never read the generated test files in `mock-tests/tests/` in bulk — they exist only as output artifacts.
+3. **Generate** the test exactly per `next_test_spec` and the rules in the sections below.
+4. **Run the Post-Generation Workflow (Section 7)** — a single command keeps every tracking file in sync.
+
+If the user asks for several tests (e.g. "generate the next 3"), repeat this loop, re-reading `config.json` after each recorded test so `next_test_spec` always points to the correct next one.
 
 **Context-safety rules (do not violate):**
 - Only ever read: `config.json`, the single needed `manifest.json` entry, and the needed subject history shard(s). This keeps every session fast and within context even after hundreds of tests exist.
@@ -280,11 +281,20 @@ Before finalizing, verify:
 
 ## SECTION 7: POST-GENERATION WORKFLOW (run after every generation)
 
-1. **Save** the JSON to `mock-tests/tests/<N>_test_<subject>_<short-topic>.json` where `N` = the `next_test` number from `config.json` (e.g., `1_test_B_jk-history.json`). Use the `filename` field from the manifest entry.
-2. **Append question fingerprints** to the per-subject history shard `mock-tests/history/<X>.json` (X = subject letter). For each question, append an object `{ "test": N, "stem": "<first ~12 words of questionText, normalized lowercase>", "key": "<the core concept/answer being tested>" }`. This shard is what future generations read to guarantee no exact OR near-duplicate (reworded) repeats. For a Full Test, append to each of the six shards accordingly.
-3. **Update `config.json`:** increment `test_counter`, set `next_test` to `N+1`, update `last_generated` and `updated_at`.
-4. **Update `manifest.json`:** set that test entry's `"status"` from `"pending"` to `"done"`.
-5. **Update `STUDY_PLAN.md`:** flip that test's checkbox from `⬜` to `✅` so the printed plan tracks progress.
+1. **Save** the JSON to `mock-tests/tests/<filename>`, using the exact `filename` from `config.json` → `next_test_spec` (e.g., `1_test_A_analogies.json`).
+2. **Run the recorder script — this does ALL bookkeeping in one reliable step:**
+   ```bash
+   python3 mock-tests/_record_test.py <N>
+   ```
+   where `<N>` is the test number just generated. The script automatically:
+   - reads the saved test file and derives a fingerprint (normalized stem + answer key) for every question;
+   - appends those fingerprints to the correct per-subject history shard(s) in `mock-tests/history/` (splitting a Full Test across all six shards by each question's `subject`);
+   - marks the test `"done"` in `manifest.json`;
+   - updates `config.json` — `generated_count`, `remaining_count`, `next_test`, a fresh inlined `next_test_spec`, and `last_generated`;
+   - flips that test's checkbox from `⬜` to `✅` in `STUDY_PLAN.md`.
+3. **Confirm** the script's printed summary shows the correct progress and the next test. If the recorder script is ever unavailable, perform the five updates it describes manually (append fingerprints to the shard, mark manifest done, update config counts + `next_test_spec`, flip the study-plan checkbox).
+
+The fingerprint an entry stores looks like: `{ "test": N, "stem": "<first ~12 words of questionText, normalized lowercase>", "key": "<correct answer, truncated>" }`. Future generations read only the relevant shard to guarantee no exact OR near-duplicate (reworded) repeats.
 
 ## File References
 - Config (read first): #[[mock-tests/config.json]]

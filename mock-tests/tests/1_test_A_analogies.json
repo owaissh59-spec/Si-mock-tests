@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Analogies (Semantic, Symbolic/Number, Figural)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Pen : Write :: Knife : ?",
+      "options": [
+        "Cut",
+        "Sharp",
+        "Blade",
+        "Kitchen"
+      ],
+      "correctAnswer": "Cut",
+      "explanation": "A pen is used to write, so the relationship is tool-to-primary-function. A knife is used to cut, so 'Cut' fits. 'Sharp' is a property of a knife, not its function. 'Blade' is a part of a knife, not what it does. 'Kitchen' is a place where a knife is used, not its function."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Match each analogous pair in Column I with the relationship it represents in Column II:\n\nColumn I:\n(a) Poet : Poem\n(b) Cow : Calf\n(c) India : Asia\n(d) Bulb : Light\n\nColumn II:\n(i) Part : Whole\n(ii) Producer : Product\n(iii) Animal : Young one\n(iv) Device : Function\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "A poet produces a poem (producer:product); a calf is the young one of a cow (animal:young one); India is a part of the continent Asia (part:whole); a bulb's function is to give light (device:function). The second option wrongly swaps the poet and cow relationships. The third option wrongly makes India:Asia a device:function pair. The fourth option wrongly labels Poet:Poem as part:whole."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Consider the following statements about analogous pairs:\n\n(i) In 'Thermometer : Temperature', the first measures the second.\n(ii) In 'Clock : Time', the relationship is the same as in 'Thermometer : Temperature'.\n(iii) In 'Barometer : Humidity', the instrument correctly measures the given quantity.\n(iv) In 'Odometer : Distance', the first measures the second.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A thermometer measures temperature (i), a clock measures time in the same instrument-to-quantity way (ii), and an odometer measures distance (iv). Statement (iii) is wrong because a barometer measures atmospheric pressure, not humidity (humidity is measured by a hygrometer). Hence every option that includes (iii) is incorrect."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Find the missing number: 6 : 36 :: 8 : ?",
+      "options": [
+        "48",
+        "16",
+        "72",
+        "64"
+      ],
+      "correctAnswer": "64",
+      "explanation": "36 = 6 squared, so the relationship is number-to-its-square. 8 squared = 64. '48' is 6 x 8 (a wrong operation). '16' is 8 x 2 (doubling). '72' is 8 x 9. Only 64 is the square of 8."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy 'Author : Book :: Composer : Symphony', both pairs share a creator-to-creation relationship.\nReason (R): An analogy is valid only when the two pairs share an identical logical relationship.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "An author creates a book and a composer creates a symphony, so both pairs show a creator-to-creation link (A is correct). An analogy holds precisely because both pairs share the same logical relationship (R is correct), and that principle is exactly why the pair in A is analogous, so R correctly explains A. The other three options are wrong because both statements are true and directly connected."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Which of the following pairs show a 'worker : tool' relationship?\n\n(i) Carpenter : Saw\n(ii) Tailor : Scissors\n(iii) Farmer : Plough\n(iv) Painter : Canvas\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A carpenter uses a saw, a tailor uses scissors, and a farmer uses a plough, so (i), (ii) and (iii) are worker-to-tool pairs. Pair (iv) is wrong because a canvas is the surface a painter works on, not the tool; the painter's tool would be a brush. So every option containing (iv) is incorrect."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Hunger : Food :: Fatigue : ?",
+      "options": [
+        "Energy",
+        "Rest",
+        "Exercise",
+        "Weakness"
+      ],
+      "correctAnswer": "Rest",
+      "explanation": "Hunger is relieved by food, so the relationship is problem-to-remedy. Fatigue is relieved by rest. 'Exercise' causes fatigue rather than relieving it. 'Weakness' is a similar state, not a remedy. 'Energy' is the result of rest, not what directly relieves fatigue. So 'Rest' parallels 'Food'."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Complete the analogy: Cub is to Bear as Foal is to __________.",
+      "options": [
+        "Dog",
+        "Sheep",
+        "Horse",
+        "Deer"
+      ],
+      "correctAnswer": "Horse",
+      "explanation": "A cub is the young one of a bear; a foal is the young one of a horse. A young deer is a fawn, a young dog is a puppy, and a young sheep is a lamb, none of which is called a foal. So only 'Horse' completes the young-one-to-animal analogy."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Find the missing term: AC : EG :: IK : ?",
+      "options": [
+        "MN",
+        "LN",
+        "NP",
+        "MO"
+      ],
+      "correctAnswer": "MO",
+      "explanation": "Within each pair the two letters are two apart (A-C, E-G, I-K), and each new pair starts four letters after the previous one (A to E to I, C to G to K). Continuing, I to M and K to O give 'MO'. 'MN' uses a gap of one, 'LN' begins one letter early, and 'NP' advances too far. Only 'MO' keeps both the +2 internal gap and the +4 progression."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In 'Kilogram : Mass', the second is measured in units of the first.\n(ii) In 'Litre : Volume', the first is a unit of the second.\n(iii) In 'Metre : Weight', the first is the correct unit of the second.\n(iv) In 'Second : Time', the first is a unit of the second.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Kilogram is the unit of mass, litre is a unit of volume, and second is the unit of time, so (i), (ii) and (iv) are correct unit-to-quantity pairs. Statement (iii) is wrong because the metre is the unit of length/distance, not weight. Thus any option including (iii) is incorrect."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Teacher : School :: Doctor : ?",
+      "options": [
+        "Nurse",
+        "Hospital",
+        "Medicine",
+        "Patient"
+      ],
+      "correctAnswer": "Hospital",
+      "explanation": "A teacher works in a school, so the relationship is worker-to-workplace. A doctor works in a hospital. 'Medicine' is a tool a doctor uses, 'Patient' is whom the doctor treats, and 'Nurse' is a co-worker, none of which is the workplace. So 'Hospital' fits."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Match each item in Column I with the class it belongs to in Column II:\n\nColumn I:\n(a) Rose\n(b) Sparrow\n(c) Cobra\n(d) Whale\n\nColumn II:\n(i) Reptile\n(ii) Flower\n(iii) Mammal\n(iv) Bird\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "A rose is a flower, a sparrow is a bird, a cobra is a reptile, and a whale is a mammal. The second option wrongly labels a sparrow a reptile and a cobra a bird. The third option swaps rose and sparrow. The fourth option wrongly calls a cobra a mammal and a whale a reptile."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Find the missing number: 7 : 50 :: 9 : ?",
+      "options": [
+        "81",
+        "90",
+        "72",
+        "82"
+      ],
+      "correctAnswer": "82",
+      "explanation": "50 = 7 squared + 1, so the rule is n to (n squared + 1). For 9 this gives 81 + 1 = 82. '81' is just 9 squared, forgetting the +1. '90' and '72' do not follow the square-plus-one pattern. Hence 82."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Glove : Hand :: Sock : Foot' is a valid analogy.\nReason (R): In both pairs, the first item is an article worn on the second body part.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A glove is worn on the hand and a sock is worn on the foot, so the analogy is valid (A is correct). The reason states the exact shared relationship, an article worn on a body part, which is precisely why the analogy holds, so R correctly explains A. The other options fail because both statements are true and logically linked."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Famine : Drought :: Flood : ?",
+      "options": [
+        "Heavy rainfall",
+        "Erosion",
+        "Dam",
+        "Drainage"
+      ],
+      "correctAnswer": "Heavy rainfall",
+      "explanation": "A drought causes a famine, so the relationship is effect-to-cause. A flood is caused by heavy rainfall. 'Erosion' is an effect of floods, not a cause. 'Dam' and 'Drainage' are measures that prevent floods, not causes. So 'Heavy rainfall' is the correct cause."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Which of the following pairs show a 'raw material : finished product' relationship, like 'Cotton : Cloth'?\n\n(i) Grapes : Wine\n(ii) Flour : Bread\n(iii) Tree : Forest\n(iv) Milk : Cheese\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Just as cotton is processed into cloth, grapes are made into wine, flour into bread, and milk into cheese, so (i), (ii) and (iv) are raw-material-to-product pairs. Pair (iii) is wrong because a forest is a collection of many trees (part-to-whole), not a product manufactured from a single tree. So options with (iii) are incorrect."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "If CAT is coded as DBU, then following the same rule, DOG is coded as ?",
+      "options": [
+        "DPH",
+        "EOH",
+        "EPH",
+        "EPG"
+      ],
+      "correctAnswer": "EPH",
+      "explanation": "In CAT to DBU each letter moves one step forward (C to D, A to B, T to U). Applying +1 to DOG gives D to E, O to P, G to H, i.e. 'EPH'. 'EPG' fails to shift the G. 'DPH' leaves the D unchanged. 'EOH' leaves the O unchanged. Only 'EPH' shifts every letter by one."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Consider the following statements about the analogy 'Puppy : Dog':\n\n(i) A puppy is the young one of a dog.\n(ii) The same relationship holds in 'Kitten : Cat'.\n(iii) The same relationship holds in 'Calf : Cow'.\n(iv) The same relationship holds in 'Nest : Bird'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A puppy, a kitten and a calf are the young ones of a dog, cat and cow respectively, so (i), (ii) and (iii) share the young-one-to-animal relationship. Statement (iv) is wrong because a nest is a bird's dwelling, not its young one (a young bird is a chick). Hence options containing (iv) are incorrect."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Needle : Thread :: Pen : ?",
+      "options": [
+        "Ink",
+        "Paper",
+        "Cap",
+        "Write"
+      ],
+      "correctAnswer": "Ink",
+      "explanation": "A needle works together with thread to function; likewise a pen works with ink. 'Paper' is the surface written on, not what the pen holds. 'Cap' is a part of the pen. 'Write' is the action, not the associated material. So 'Ink' parallels 'Thread'."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Find the missing number: 3 : 27 :: 5 : ?",
+      "options": [
+        "625",
+        "125",
+        "25",
+        "75"
+      ],
+      "correctAnswer": "125",
+      "explanation": "27 = 3 cubed, so the rule is number-to-its-cube. 5 cubed = 125. '25' is 5 squared (a square, not a cube). '75' is 3 x 25. '625' is 5 to the power 4. Only 125 is the cube of 5."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Match each number pair in Column I with the rule it follows in Column II:\n\nColumn I:\n(a) 4 : 16\n(b) 4 : 64\n(c) 4 : 12\n(d) 4 : 20\n\nColumn II:\n(i) n x 3\n(ii) n squared\n(iii) n cubed\n(iv) n squared + 4\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "16 = 4 squared (ii); 64 = 4 cubed (iii); 12 = 4 x 3 (i); 20 = 4 squared + 4 (iv). The second option swaps the square and cube rules. The third option swaps the x3 and +4 rules. The fourth option mislabels 4:16 as x3. Only the first option matches every pair to its correct rule."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy 'Ostrich : Bird :: Whale : Fish', both pairs correctly show a member-to-class relationship.\nReason (R): An ostrich belongs to the class of birds, whereas a whale is a mammal and not a fish.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The assertion is false: although an ostrich is indeed a bird, a whale is a mammal, not a fish, so 'Whale : Fish' is not a correct member-to-class pair and the analogy breaks down. The reason correctly states that an ostrich is a bird and a whale is a mammal. Since A is wrong and R is right, the two options needing both true and the option needing R false are all incorrect."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Poem : Stanza :: Book : ?",
+      "options": [
+        "Page",
+        "Word",
+        "Cover",
+        "Chapter"
+      ],
+      "correctAnswer": "Chapter",
+      "explanation": "A poem is divided into stanzas as its main structural units; a book is divided into chapters as its main structural units. A 'Page' is a physical sheet, not a structural division of the content. A 'Word' is far too small a unit. A 'Cover' is an external part. So 'Chapter' parallels 'Stanza'."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In 'Bee : Hive', the animal is paired with its dwelling.\n(ii) The pair 'Horse : Stable' shows the same relationship as 'Bee : Hive'.\n(iii) The pair 'Lion : Den' shows the same relationship as 'Bee : Hive'.\n(iv) The pair 'Spider : Silk' shows the same relationship as 'Bee : Hive'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A hive, a stable and a den are the dwellings of a bee, horse and lion respectively, so the animal-to-dwelling relationship holds for (i), (ii) and (iii). Statement (iv) is wrong because silk is the substance a spider produces, not its dwelling (a spider lives in a web). Hence options containing (iv) are incorrect."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Find the missing term: B2 : D4 :: F6 : ?",
+      "options": [
+        "J8",
+        "H8",
+        "H6",
+        "G8"
+      ],
+      "correctAnswer": "H8",
+      "explanation": "The letters increase by two (B to D to F to H) and the numbers increase by two (2 to 4 to 6 to 8), so after F6 comes 'H8'. 'H6' keeps the wrong number, 'G8' advances the letter by only one, and 'J8' skips a letter. Only 'H8' follows both patterns."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Which of the following pairs show an 'instrument : quantity it measures' relationship?\n\n(i) Seismograph : Earthquakes\n(ii) Anemometer : Wind speed\n(iii) Lactometer : Purity of milk\n(iv) Telescope : Distance\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A seismograph records earthquakes, an anemometer measures wind speed, and a lactometer measures the purity/density of milk, so (i), (ii) and (iii) are instrument-to-quantity pairs. Pair (iv) is wrong because a telescope is used to view distant objects, not to measure distance. So every option containing (iv) is incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Optimist : Hopeful :: Sceptic : ?",
+      "options": [
+        "Certain",
+        "Cheerful",
+        "Fearful",
+        "Doubtful"
+      ],
+      "correctAnswer": "Doubtful",
+      "explanation": "An optimist is characteristically hopeful, so the pair links a person to their defining attitude. A sceptic is characteristically doubtful and questioning. 'Certain' is the opposite of sceptical. 'Cheerful' describes mood, not doubt. 'Fearful' relates to fear, not doubt. So 'Doubtful' captures a sceptic's defining trait."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Find the missing number: 10 : 5 :: 20 : ?",
+      "options": [
+        "10",
+        "15",
+        "40",
+        "4"
+      ],
+      "correctAnswer": "10",
+      "explanation": "5 is half of 10, so the rule is number-to-its-half. Half of 20 is 10. '15' would come from subtracting 5, '40' from doubling, and '4' follows no halving rule. Only 10 is half of 20."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Consider the following statements about number analogies:\n\n(i) In '5 : 25', the second number is the square of the first.\n(ii) In '2 : 8', the second number is the cube of the first.\n(iii) In '6 : 42', the second number is the first multiplied by 8.\n(iv) In '9 : 81', the second number is the square of the first.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "25 = 5 squared, 8 = 2 cubed, and 81 = 9 squared, so statements (i), (ii) and (iv) are correct. Statement (iii) is wrong because 42 = 6 x 7, not 6 x 8 (which would be 48). Hence any option including (iii) is incorrect."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Select the option that shows the same relationship as: Light : Dark :: Day : ?",
+      "options": [
+        "Sun",
+        "Noon",
+        "Night",
+        "Morning"
+      ],
+      "correctAnswer": "Night",
+      "explanation": "Light and dark are opposites, so the analogy is antonym-based. The opposite of day is night. 'Morning' and 'Noon' are parts of the day, not its opposite. 'Sun' is associated with day, not its antonym. So 'Night' completes the opposites relationship."
+    }
+  ]
+}

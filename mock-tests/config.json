@@ -3,9 +3,33 @@
   "medium": "English",
   "exam_day": 70,
   "total_planned_tests": 207,
-  "test_counter": 0,
-  "next_test": 1,
-  "last_generated": null,
+  "generated_count": 1,
+  "remaining_count": 206,
+  "test_counter": 1,
+  "next_test": 2,
+  "next_test_spec": {
+    "number": 2,
+    "day": 1,
+    "phase": 1,
+    "session": "Afternoon",
+    "type": "Topic-wise",
+    "subject": "B",
+    "subject_name": "General Awareness",
+    "level": "Graduation",
+    "topics": "Ancient Indian History",
+    "total_questions": 40,
+    "difficulty_profile": "foundation",
+    "filename": "2_test_B_ancient-history.json",
+    "status": "pending"
+  },
+  "last_generated": {
+    "number": 1,
+    "filename": "1_test_A_analogies.json",
+    "subject": "A",
+    "topics": "Analogies (Semantic, Symbolic/Number, Figural)",
+    "questions": 30,
+    "date": "2026-07-24"
+  },
   "updated_at": "2026-07-24",
   "duplicate_policy": "no-exact-and-no-near-duplicate (check subject history shard)",
   "history_shards": {
@@ -21,6 +45,7 @@
     "study_plan": "STUDY_PLAN.md",
     "syllabus": "syllabus_si.md",
     "prompt": ".kiro/steering/mock-test-prompt-si.md",
-    "tests_dir": "mock-tests/tests/"
+    "tests_dir": "mock-tests/tests/",
+    "recorder": "mock-tests/_record_test.py"
   }
 }
