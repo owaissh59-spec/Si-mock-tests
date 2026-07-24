@@ -1,0 +1,247 @@
+{
+  "subject": "D",
+  "topic": "Antonyms",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'MAGNANIMOUS':",
+      "options": ["Generous", "Gracious", "Petty", "Benign"],
+      "correctAnswer": "Petty",
+      "explanation": "Magnanimous means generous and forgiving, especially toward a rival. Its antonym is 'Petty' (small-minded, ungenerous). 'Generous' is a synonym. 'Gracious' means courteous and kind, which is similar in meaning. 'Benign' means gentle or kindly, which is also close in meaning to magnanimous."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The antonym of 'ephemeral' is 'permanent'.\n(ii) The antonym of 'obsolete' is 'contemporary'.\n(iii) The antonym of 'verbose' is 'elaborate'.\n(iv) The antonym of 'austere' is 'luxurious'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: 'ephemeral' means short-lived, opposite is 'permanent'. Statement (ii) is correct: 'obsolete' means outdated, opposite is 'contemporary'. Statement (iv) is correct: 'austere' means severe/plain, opposite is 'luxurious'. Statement (iii) is incorrect: 'verbose' means using too many words, its antonym would be 'concise' or 'succinct', not 'elaborate' which also implies using many details."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'LETHARGIC':",
+      "options": ["Sluggish", "Apathetic", "Listless", "Energetic"],
+      "correctAnswer": "Energetic",
+      "explanation": "Lethargic means sluggish and lacking energy. Its antonym is 'Energetic' (full of energy and vitality). 'Sluggish' is a synonym of lethargic. 'Apathetic' means showing no interest or enthusiasm, which is similar. 'Listless' means lacking energy or enthusiasm, also a synonym."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'gregarious' is the antonym of 'reclusive'.\nReason (R): 'Gregarious' means fond of company and sociable, while 'reclusive' means avoiding the company of others.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct because 'gregarious' (sociable) is indeed the opposite of 'reclusive' (solitary). Reason (R) is also correct and directly explains why they are antonyms — their definitions are opposite. Option B is wrong because R does explain A. Option C is wrong because R is factually correct. Option D is wrong because A is correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'AFFLUENT':",
+      "options": ["Wealthy", "Prosperous", "Opulent", "Destitute"],
+      "correctAnswer": "Destitute",
+      "explanation": "Affluent means having a great deal of money; wealthy. Its antonym is 'Destitute' (extremely poor; lacking the means to provide for oneself). 'Wealthy' is a direct synonym. 'Prosperous' means successful and rich, also a synonym. 'Opulent' means ostentatiously rich, again a synonym."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are correct antonym pairs?\n\n(i) Obsolete — Current\n(ii) Ambiguous — Explicit\n(iii) Volatile — Unstable\n(iv) Meticulous — Careless\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Pair (i) is correct: 'obsolete' (outdated) is opposite of 'current' (present-day). Pair (ii) is correct: 'ambiguous' (unclear) is opposite of 'explicit' (clear and detailed). Pair (iv) is correct: 'meticulous' (very careful) is opposite of 'careless'. Pair (iii) is INCORRECT: 'volatile' means unstable/liable to change rapidly — these are synonyms, not antonyms."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'AUDACIOUS':",
+      "options": ["Intrepid", "Fearless", "Timorous", "Valiant"],
+      "correctAnswer": "Timorous",
+      "explanation": "Audacious means showing a willingness to take bold risks; daring. Its antonym is 'Timorous' (showing or suffering from nervousness or a lack of confidence). 'Intrepid' means fearless, a synonym. 'Fearless' is also a synonym. 'Valiant' means showing courage, also similar in meaning."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Frivolous\n(b) Transient\n(c) Bellicose\n(d) Opaque\n\nColumn II:\n(i) Transparent\n(ii) Enduring\n(iii) Pacifistic\n(iv) Earnest\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "Frivolous (not serious) is opposite of Earnest (serious). Transient (short-lived) is opposite of Enduring (lasting). Bellicose (aggressive/warlike) is opposite of Pacifistic (peaceful). Opaque (not transparent) is opposite of Transparent (clear). Option B incorrectly pairs Frivolous with Enduring. Option C incorrectly pairs Bellicose with Enduring. Option D incorrectly pairs Bellicose with Transparent."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'SOMBER':",
+      "options": ["Gloomy", "Morose", "Dismal", "Cheerful"],
+      "correctAnswer": "Cheerful",
+      "explanation": "Somber means dark or dull in color/tone, or oppressively solemn. Its antonym is 'Cheerful' (noticeably happy and optimistic). 'Gloomy' means dark or poorly lit, feeling distressed — a synonym. 'Morose' means sullen and ill-tempered, also similar. 'Dismal' means depressing or dreary, also a synonym."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The antonym of 'parsimonious' is 'extravagant'.\n(ii) The antonym of 'turbulent' is 'serene'.\n(iii) The antonym of 'mundane' is 'ordinary'.\n(iv) The antonym of 'reticent' is 'forthcoming'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: 'parsimonious' means excessively frugal, opposite is 'extravagant'. Statement (ii) is correct: 'turbulent' means chaotic/disturbed, opposite is 'serene' (calm). Statement (iv) is correct: 'reticent' means reserved in speech, opposite is 'forthcoming' (willing to communicate). Statement (iii) is INCORRECT: 'mundane' means ordinary/dull — 'ordinary' is a synonym, not an antonym. The antonym would be 'extraordinary'."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'DISPARAGE':",
+      "options": ["Belittle", "Denigrate", "Extol", "Deprecate"],
+      "correctAnswer": "Extol",
+      "explanation": "Disparage means to regard or represent as being of little worth; to belittle. Its antonym is 'Extol' (to praise enthusiastically). 'Belittle' means to make someone seem unimportant — a synonym. 'Denigrate' means to criticize unfairly — also a synonym. 'Deprecate' means to express disapproval of — also similar in meaning."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Benign' and 'malignant' are antonyms.\nReason (R): 'Benign' means causing harm, while 'malignant' means harmless and gentle.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct: 'benign' (gentle, not harmful) and 'malignant' (very virulent or infectious; disposed to cause harm) are indeed antonyms. However, Reason (R) is incorrect because it reverses the definitions — 'benign' means harmless/gentle (not 'causing harm') and 'malignant' means harmful (not 'harmless and gentle'). Option A is wrong because R is factually incorrect. Option B is wrong because R is incorrect. Option D is wrong because A is correct."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'VINDICTIVE':",
+      "options": ["Vengeful", "Spiteful", "Resentful", "Merciful"],
+      "correctAnswer": "Merciful",
+      "explanation": "Vindictive means having a strong desire for revenge. Its antonym is 'Merciful' (showing compassion and forgiveness). 'Vengeful' means seeking to harm someone in return for a perceived injury — a synonym. 'Spiteful' means desiring to hurt or annoy — similar in meaning. 'Resentful' means feeling bitterness at having been treated unfairly — also closely related."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Which of the following are correct antonym pairs?\n\n(i) Prolific — Unproductive\n(ii) Tenacious — Persistent\n(iii) Candor — Deception\n(iv) Erudite — Ignorant\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Pair (i) is correct: 'prolific' (producing much) is opposite of 'unproductive'. Pair (iii) is correct: 'candor' (openness/honesty) is opposite of 'deception' (misleading). Pair (iv) is correct: 'erudite' (scholarly/learned) is opposite of 'ignorant'. Pair (ii) is INCORRECT: 'tenacious' means holding firmly — 'persistent' is a synonym, not an antonym."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'CLANDESTINE':",
+      "options": ["Covert", "Furtive", "Overt", "Surreptitious"],
+      "correctAnswer": "Overt",
+      "explanation": "Clandestine means kept secret or done secretively. Its antonym is 'Overt' (done or shown openly, not secret). 'Covert' means not openly displayed — a synonym. 'Furtive' means attempting to avoid notice — also a synonym. 'Surreptitious' means kept secret, especially because it would not be approved — also a synonym."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The antonym of 'prolific' is 'barren'.\n(ii) The antonym of 'cognizant' is 'oblivious'.\n(iii) The antonym of 'vivacious' is 'spirited'.\n(iv) The antonym of 'truculent' is 'gentle'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: 'prolific' (productive) is opposite of 'barren' (unproductive). Statement (ii) is correct: 'cognizant' (aware) is opposite of 'oblivious' (unaware). Statement (iv) is correct: 'truculent' (eager to fight, aggressive) is opposite of 'gentle'. Statement (iii) is INCORRECT: 'vivacious' means lively and animated — 'spirited' is a synonym, not an antonym. The antonym would be 'lifeless' or 'dull'."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'PERENNIAL':",
+      "options": ["Perpetual", "Fleeting", "Enduring", "Constant"],
+      "correctAnswer": "Fleeting",
+      "explanation": "Perennial means lasting for an indefinitely long time; enduring. Its antonym is 'Fleeting' (lasting for a very short time). 'Perpetual' means never ending — a synonym. 'Enduring' means lasting over a period of time — also a synonym. 'Constant' means occurring continuously — also similar in meaning."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Succinct\n(b) Indolent\n(c) Benign\n(d) Lucid\n\nColumn II:\n(i) Industrious\n(ii) Malevolent\n(iii) Obscure\n(iv) Verbose\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "Succinct (brief and clear) is opposite of Verbose (wordy). Indolent (lazy) is opposite of Industrious (hard-working). Benign (harmless/kind) is opposite of Malevolent (wishing harm). Lucid (clear/easy to understand) is opposite of Obscure (unclear). Option B incorrectly pairs Indolent with Malevolent. Option C incorrectly pairs Succinct with Obscure. Option D incorrectly pairs Benign with Obscure."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'PROLOGUE':",
+      "options": ["Preface", "Epilogue", "Overture", "Preamble"],
+      "correctAnswer": "Epilogue",
+      "explanation": "Prologue means an introduction or opening section. Its antonym is 'Epilogue' (a concluding section). 'Preface' means an introduction to a book — a synonym. 'Overture' means an opening or beginning — also similar. 'Preamble' means a preliminary statement or introduction — also a synonym."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The word that is most OPPOSITE in meaning to 'VORACIOUS' is __________.",
+      "options": ["Abstemious", "Rapacious", "Insatiable", "Ravenous"],
+      "correctAnswer": "Abstemious",
+      "explanation": "Voracious means wanting or devouring great quantities. Its antonym is 'Abstemious' (not self-indulgent, especially regarding food and drink). 'Rapacious' means aggressively greedy — a synonym. 'Insatiable' means impossible to satisfy — also a synonym. 'Ravenous' means extremely hungry — also a synonym."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'OBSTINATE':",
+      "options": ["Stubborn", "Amenable", "Adamant", "Resolute"],
+      "correctAnswer": "Amenable",
+      "explanation": "Obstinate means stubbornly refusing to change one's opinion or course of action. Its antonym is 'Amenable' (open and responsive to suggestion; easily persuaded). 'Stubborn' means unwilling to change — a synonym. 'Adamant' means refusing to be persuaded — also a synonym. 'Resolute' means firmly determined — similar in meaning."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Transient' and 'permanent' are antonyms.\nReason (R): 'Transient' means lasting only for a short time, which is the opposite of something that endures indefinitely.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: 'transient' (temporary) and 'permanent' (lasting) are antonyms. Reason (R) is also correct and directly explains why they are antonyms — something lasting only briefly is opposite to something that endures indefinitely. Option B is wrong because R does explain A. Option C is wrong because R is factually correct. Option D is wrong because A is also correct."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Which of the following are correct antonym pairs?\n\n(i) Acquiesce — Resist\n(ii) Exonerate — Absolve\n(iii) Ameliorate — Worsen\n(iv) Abridge — Expand\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Pair (i) is correct: 'acquiesce' (accept without protest) is opposite of 'resist' (oppose). Pair (iii) is correct: 'ameliorate' (make better) is opposite of 'worsen'. Pair (iv) is correct: 'abridge' (shorten) is opposite of 'expand' (make longer). Pair (ii) is INCORRECT: 'exonerate' (declare not guilty) and 'absolve' (declare free from blame) are synonyms, not antonyms."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'RECALCITRANT':",
+      "options": ["Defiant", "Mutinous", "Compliant", "Insolent"],
+      "correctAnswer": "Compliant",
+      "explanation": "Recalcitrant means having an obstinately uncooperative attitude. Its antonym is 'Compliant' (disposed to agree with others or obey rules). 'Defiant' means showing open resistance — a synonym. 'Mutinous' means refusing to obey authority — also a synonym. 'Insolent' means showing a rude lack of respect — also similar."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'FECUND':",
+      "options": ["Fertile", "Prolific", "Fruitful", "Barren"],
+      "correctAnswer": "Barren",
+      "explanation": "Fecund means producing a great number of offspring or new growth; fertile. Its antonym is 'Barren' (unable to produce offspring or vegetation; unproductive). 'Fertile' means producing abundantly — a synonym. 'Prolific' means producing much — also a synonym. 'Fruitful' means producing good results — also similar."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The antonym of 'garrulous' is 'terse'.\n(ii) The antonym of 'indifferent' is 'passionate'.\n(iii) The antonym of 'malevolent' is 'hostile'.\n(iv) The antonym of 'opulent' is 'austere'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: 'garrulous' (excessively talkative) is opposite of 'terse' (using few words). Statement (ii) is correct: 'indifferent' (having no interest) is opposite of 'passionate' (showing strong feeling). Statement (iv) is correct: 'opulent' (ostentatiously rich) is opposite of 'austere' (severe, plain). Statement (iii) is INCORRECT: 'malevolent' means wishing harm — 'hostile' is a synonym, not an antonym. The antonym would be 'benevolent'."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'INTREPID':",
+      "options": ["Courageous", "Dauntless", "Valorous", "Craven"],
+      "correctAnswer": "Craven",
+      "explanation": "Intrepid means fearless and adventurous. Its antonym is 'Craven' (lacking in courage; contemptibly timid). 'Courageous' means brave — a synonym. 'Dauntless' means showing fearlessness — also a synonym. 'Valorous' means showing great courage — also similar in meaning."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Impetuous\n(b) Munificent\n(c) Diffident\n(d) Acrimonious\n\nColumn II:\n(i) Assertive\n(ii) Cautious\n(iii) Harmonious\n(iv) Miserly\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Impetuous (acting without thought) is opposite of Cautious (careful). Munificent (very generous) is opposite of Miserly (mean with money). Diffident (lacking confidence) is opposite of Assertive (confident and forceful). Acrimonious (angry and bitter) is opposite of Harmonious (friendly and peaceful). Option B incorrectly pairs Impetuous with Miserly. Option C incorrectly pairs Munificent with Assertive. Option D incorrectly pairs Diffident with Harmonious."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Choose the word that is most OPPOSITE in meaning to 'SANGUINE':",
+      "options": ["Pessimistic", "Optimistic", "Confident", "Expectant"],
+      "correctAnswer": "Pessimistic",
+      "explanation": "Sanguine means optimistic or positive, especially in a difficult situation. Its antonym is 'Pessimistic' (tending to see the worst aspect of things). 'Optimistic' means hopeful and confident — a direct synonym. 'Confident' means feeling certain — similar in meaning. 'Expectant' means having an eager feeling that something is about to happen — also related."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The antonym of 'candor' is 'duplicity'.\n(ii) The antonym of 'spurious' is 'authentic'.\n(iii) The antonym of 'acumen' is 'stupidity'.\n(iv) The antonym of 'apathy' is 'lethargy'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct: 'candor' (openness/honesty) is opposite of 'duplicity' (deceitfulness). Statement (ii) is correct: 'spurious' (false/fake) is opposite of 'authentic' (genuine). Statement (iii) is correct: 'acumen' (keen insight/shrewdness) is opposite of 'stupidity' (lack of intelligence). Statement (iv) is INCORRECT: 'apathy' means lack of interest/enthusiasm — 'lethargy' (sluggishness) is similar in connotation, not an antonym. The antonym would be 'enthusiasm' or 'zeal'."
+    }
+  ]
+}

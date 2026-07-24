@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 30,
+  "count": 60,
   "questions": [
     {
       "test": 4,
@@ -152,6 +152,156 @@
       "test": 4,
       "stem": "choose the word that is most similar in meaning to 'novice':",
       "key": "Beginner"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'magnanimous':",
+      "key": "Petty"
+    },
+    {
+      "test": 10,
+      "stem": "consider the following statements: (i) the antonym of 'ephemeral' is 'permanent'. (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'lethargic':",
+      "key": "Energetic"
+    },
+    {
+      "test": 10,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'affluent':",
+      "key": "Destitute"
+    },
+    {
+      "test": 10,
+      "stem": "which of the following are correct antonym pairs? (i) obsolete — current",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'audacious':",
+      "key": "Timorous"
+    },
+    {
+      "test": 10,
+      "stem": "match the following words with their antonyms: column i: (a) frivolous (b)",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'somber':",
+      "key": "Cheerful"
+    },
+    {
+      "test": 10,
+      "stem": "consider the following statements: (i) the antonym of 'parsimonious' is 'extravagant'. (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'disparage':",
+      "key": "Extol"
+    },
+    {
+      "test": 10,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'vindictive':",
+      "key": "Merciful"
+    },
+    {
+      "test": 10,
+      "stem": "which of the following are correct antonym pairs? (i) prolific — unproductive",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'clandestine':",
+      "key": "Overt"
+    },
+    {
+      "test": 10,
+      "stem": "consider the following statements: (i) the antonym of 'prolific' is 'barren'. (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'perennial':",
+      "key": "Fleeting"
+    },
+    {
+      "test": 10,
+      "stem": "match the following words with their antonyms: column i: (a) succinct (b)",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'prologue':",
+      "key": "Epilogue"
+    },
+    {
+      "test": 10,
+      "stem": "the word that is most opposite in meaning to 'voracious' is __________.",
+      "key": "Abstemious"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'obstinate':",
+      "key": "Amenable"
+    },
+    {
+      "test": 10,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 10,
+      "stem": "which of the following are correct antonym pairs? (i) acquiesce — resist",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'recalcitrant':",
+      "key": "Compliant"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'fecund':",
+      "key": "Barren"
+    },
+    {
+      "test": 10,
+      "stem": "consider the following statements: (i) the antonym of 'garrulous' is 'terse'. (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'intrepid':",
+      "key": "Craven"
+    },
+    {
+      "test": 10,
+      "stem": "match the following words with their antonyms: column i: (a) impetuous (b)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 10,
+      "stem": "choose the word that is most opposite in meaning to 'sanguine':",
+      "key": "Pessimistic"
+    },
+    {
+      "test": 10,
+      "stem": "consider the following statements: (i) the antonym of 'candor' is 'duplicity'. (ii)",
+      "key": "(i), (ii) and (iii)"
     }
   ]
 }

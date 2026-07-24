@@ -41,9 +41,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 10 | Morning | D — English Comprehension | Antonyms | 30 | foundation | Topic-wise | ⬜ |
-| 11 | Afternoon | E — Mathematical Abilities | Elementary Surds & Graphs of Linear Equations | 40 | foundation | Topic-wise | ⬜ |
-| 12 | Late | F — Computer Proficiency | CPU, Memory, Ports & Backup Devices | 50 | foundation | Topic-wise | ⬜ |
+| 10 | Morning | D — English Comprehension | Antonyms | 30 | foundation | Topic-wise | ✅ |
+| 11 | Afternoon | E — Mathematical Abilities | Elementary Surds & Graphs of Linear Equations | 40 | foundation | Topic-wise | ✅ |
+| 12 | Late | F — Computer Proficiency | CPU, Memory, Ports & Backup Devices | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 5
 

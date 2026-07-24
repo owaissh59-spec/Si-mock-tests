@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 40,
+  "count": 80,
   "questions": [
     {
       "test": 5,
@@ -202,6 +202,206 @@
       "test": 5,
       "stem": "the value of 4a² + 9b² + 12ab when a = 3",
       "key": "144"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: √75 + √48 − √27",
+      "key": "6√3"
+    },
+    {
+      "test": 11,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 11,
+      "stem": "the line y = 2x − 3 intersects the y-axis at which",
+      "key": "(0, −3)"
+    },
+    {
+      "test": 11,
+      "stem": "consider the following statements about surds: (i) √2 + √3 = √5",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 11,
+      "stem": "what is the slope of the line passing through the points (1,",
+      "key": "4"
+    },
+    {
+      "test": 11,
+      "stem": "rationalize the denominator: 1/(√7 − √5)",
+      "key": "(√7 + √5)/2"
+    },
+    {
+      "test": 11,
+      "stem": "which of the following are correct about the graph of y =",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 11,
+      "stem": "match the following surds with their simplified forms: column i: (a) √200",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: (3√5 + 2√3)(3√5 − 2√3)",
+      "key": "33"
+    },
+    {
+      "test": 11,
+      "stem": "consider the following statements about the system x + 2y = 4",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 11,
+      "stem": "the x-intercept of the line 3x − 4y = 12 is __________.",
+      "key": "4"
+    },
+    {
+      "test": 11,
+      "stem": "if √5 = 2.236, find the value of 2/√5 correct to three",
+      "key": "0.894"
+    },
+    {
+      "test": 11,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: √12 × √3",
+      "key": "6"
+    },
+    {
+      "test": 11,
+      "stem": "consider the following statements about the graph of ax + by +",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 11,
+      "stem": "match the following linear equations with their slopes: column i: (a) y",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: (√6 + √2)²",
+      "key": "8 + 4√3"
+    },
+    {
+      "test": 11,
+      "stem": "which of the following are irrational numbers? (i) √49 (ii) √2 +",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 11,
+      "stem": "find the point of intersection of the lines x + y =",
+      "key": "(5, 2)"
+    },
+    {
+      "test": 11,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 11,
+      "stem": "a linear equation y = mx + c has slope m =",
+      "key": "7"
+    },
+    {
+      "test": 11,
+      "stem": "consider the following statements: (i) √(a × b) = √a × √b",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 11,
+      "stem": "the equation of a line parallel to the x-axis and passing through",
+      "key": "y = −5"
+    },
+    {
+      "test": 11,
+      "stem": "consider the following statements about the lines y = 2x + 5",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 11,
+      "stem": "if x = (3 + √5)/2 and y = (3 − √5)/2,",
+      "key": "1"
+    },
+    {
+      "test": 11,
+      "stem": "which of the following are true about rationalizing surds? (i) the conjugate",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 11,
+      "stem": "which of the following are pairs of perpendicular lines? (i) y =",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: (5 + 2√6)(5 − 2√6)",
+      "key": "1"
+    },
+    {
+      "test": 11,
+      "stem": "match the following pairs of equations with their solution type: column i:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: 1/√3 + 1/√12 + 1/√48",
+      "key": "7√3/12"
+    },
+    {
+      "test": 11,
+      "stem": "consider the following statements about the pair 3x + 2y = 12",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 11,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 11,
+      "stem": "a shopkeeper records monthly sales (in ₹ thousands): month 1 = 10,",
+      "key": "₹40,000"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: √(3/7) × √(7/3)",
+      "key": "1"
+    },
+    {
+      "test": 11,
+      "stem": "the area of the triangle formed by lines y = 0, x",
+      "key": "3"
+    },
+    {
+      "test": 11,
+      "stem": "if 1/(√5 + √3) + 1/(√5 − √3) is simplified, the result",
+      "key": "√5"
+    },
+    {
+      "test": 11,
+      "stem": "match the following graph features with their equations: column i: (a) passes",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 11,
+      "stem": "a student collects data from a linear graph: when x = 1,",
+      "key": "y = 3x + 2 and y = 26"
+    },
+    {
+      "test": 11,
+      "stem": "simplify: (√3 + √2)/(√3 − √2)",
+      "key": "5 + 2√6"
+    },
+    {
+      "test": 11,
+      "stem": "the graph of y = −3x + 9 crosses the x-axis at",
+      "key": "3"
     }
   ]
 }

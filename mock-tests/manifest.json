@@ -158,7 +158,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "10_test_D_antonyms.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 11,
@@ -173,7 +173,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "11_test_E_surds-graphs.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 12,
@@ -188,7 +188,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "12_test_F_cpu-memory.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 13,

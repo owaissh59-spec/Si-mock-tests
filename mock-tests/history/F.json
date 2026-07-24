@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 50,
+  "count": 100,
   "questions": [
     {
       "test": 6,
@@ -252,6 +252,256 @@
       "test": 6,
       "stem": "the device that provides uninterrupted power supply to a computer during power",
       "key": "UPS"
+    },
+    {
+      "test": 12,
+      "stem": "which component of the cpu holds data and instructions temporarily during processing",
+      "key": "Accumulator Register"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about cpu pipelining: (i) pipelining divides instruction execution",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 12,
+      "stem": "the hdmi port on a computer is primarily used for:",
+      "key": "Transmitting audio and video signals digitally"
+    },
+    {
+      "test": 12,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following are types of rom (read only memory)? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 12,
+      "stem": "a nas (network attached storage) device is primarily used for:",
+      "key": "Centralized file storage accessible over a network"
+    },
+    {
+      "test": 12,
+      "stem": "match the following cpu registers with their functions: column i: (a) program",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 12,
+      "stem": "the __________ is a type of usb connector commonly used in modern",
+      "key": "USB Type-C"
+    },
+    {
+      "test": 12,
+      "stem": "in a multi-core processor, what does 'quad-core' mean?",
+      "key": "The processor has four independent processing units on a single chip"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about thunderbolt ports: (i) thunderbolt 3 and 4",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "which backup strategy involves copying only the files that have changed since",
+      "key": "Differential Backup"
+    },
+    {
+      "test": 12,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following are characteristics of cloud backup services? (i) data",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "the vga (video graphics array) port transmits:",
+      "key": "Analog video signals only"
+    },
+    {
+      "test": 12,
+      "stem": "match the following types of ram with their characteristics: column i: (a)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 12,
+      "stem": "an incremental backup differs from a differential backup because incremental backup copies:",
+      "key": "Only files changed since the last backup of any type"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about virtual memory: (i) virtual memory uses a",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 12,
+      "stem": "the clock speed of a cpu determines:",
+      "key": "The number of instruction cycles the processor can perform per second"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following are features of usb 3.0 compared to usb",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 12,
+      "stem": "a tape drive is typically used in enterprise environments for:",
+      "key": "Long-term archival backup of large volumes of data"
+    },
+    {
+      "test": 12,
+      "stem": "match the following port types with their primary applications: column i: (a)",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 12,
+      "stem": "the __________ is a technique where the cpu simultaneously processes multiple instructions",
+      "key": "Pipelining"
+    },
+    {
+      "test": 12,
+      "stem": "which type of optical disc has the highest storage capacity?",
+      "key": "Blu-ray Disc"
+    },
+    {
+      "test": 12,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about external hard disk drives (hdd): (i) they",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "the dvi (digital visual interface) port is used for:",
+      "key": "Connecting monitors using digital or analog video signals"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following correctly describes the function of a cpu's instruction",
+      "key": "Interpreting the fetched instruction to determine the operation and operands"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following are advantages of ssd (solid state drive) over",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 12,
+      "stem": "raid (redundant array of independent disks) level 1 provides data protection by:",
+      "key": "Mirroring data identically on two or more drives"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about the fetch-decode-execute cycle: (i) the program counter",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 12,
+      "stem": "match the following backup devices with their typical storage capacities: column i:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 12,
+      "stem": "what is 'thrashing' in the context of virtual memory?",
+      "key": "Excessive swapping of pages between RAM and disk causing severe performance d..."
+    },
+    {
+      "test": 12,
+      "stem": "the parallel port (db-25) on older computers was primarily used for connecting:",
+      "key": "Printers and scanners"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about eeprom: (i) eeprom stands for electrically erasable",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following best describes 'ecc ram'?",
+      "key": "RAM that can detect and correct single-bit memory errors automatically"
+    },
+    {
+      "test": 12,
+      "stem": "match the following memory technologies with their primary usage: column i: (a)",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 12,
+      "stem": "the term 'bus width' in cpu architecture refers to:",
+      "key": "The number of bits that can be transmitted simultaneously on the data bus"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following are true about eprom (erasable programmable rom)? (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "a dimm (dual inline memory module) differs from a simm (single inline",
+      "key": "DIMM has independent electrical contacts on both sides of the module"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about nvme (non-volatile memory express): (i) nvme is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "which technology replaced the older ide/pata interface for connecting internal hard drives",
+      "key": "SATA (Serial ATA)"
+    },
+    {
+      "test": 12,
+      "stem": "consider the following statements about the rj-45 port: (i) it is used",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 12,
+      "stem": "the process of 'overclocking' a cpu refers to:",
+      "key": "Running the processor at a higher frequency than its rated specification"
+    },
+    {
+      "test": 12,
+      "stem": "which of the following best describes a 'write-back' cache policy?",
+      "key": "Data is written to cache first and to main memory only when the cache line is..."
+    },
+    {
+      "test": 12,
+      "stem": "what is the maximum data transfer speed supported by usb 4.0?",
+      "key": "40 Gbps"
+    },
+    {
+      "test": 12,
+      "stem": "a 'cold backup' in data storage terminology means:",
+      "key": "A backup performed while the system or database is completely shut down"
+    },
+    {
+      "test": 12,
+      "stem": "the reason modern cpus have multiple cache levels (l1, l2, l3) is",
+      "key": "Balance the trade-off between memory speed, size, and cost"
+    },
+    {
+      "test": 12,
+      "stem": "which cpu register holds the address of the memory location from which",
+      "key": "Memory Address Register (MAR)"
     }
   ]
 }

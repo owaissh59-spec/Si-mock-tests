@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Elementary Surds & Graphs of Linear Equations",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Simplify: √75 + √48 − √27",
+      "options": [
+        "5√3",
+        "6√3",
+        "7√3",
+        "4√3"
+      ],
+      "correctAnswer": "6√3",
+      "explanation": "√75 = 5√3, √48 = 4√3, √27 = 3√3. So 5√3 + 4√3 − 3√3 = 6√3. Option '5√3' results from 5+3−3=5 (misreading √48). Option '7√3' from 5+4−2=7. Option '4√3' from sign error."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): √3 is an irrational number.\nReason (R): The square root of any prime number is always irrational.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: √3 is irrational. (R) is correct: √p is irrational for any prime p. R directly explains A because 3 is prime. Option 'Both correct but NOT explanation' is wrong since R precisely justifies A. Option '(A) correct but (R) not correct' is wrong since R is a proven theorem. Option '(A) not correct but (R) correct' is wrong since √3 is irrational."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The line y = 2x − 3 intersects the y-axis at which point?",
+      "options": [
+        "(0, 3)",
+        "(−3, 0)",
+        "(3, 0)",
+        "(0, −3)"
+      ],
+      "correctAnswer": "(0, −3)",
+      "explanation": "Y-intercept: set x=0 → y=−3, giving (0,−3). Option '(0, 3)' ignores negative sign. Option '(−3, 0)' confuses coordinates. Option '(3, 0)' gives wrong x-intercept."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Consider the following statements about surds:\n\n(i) √2 + √3 = √5\n(ii) √18 = 3√2\n(iii) (√5)² = 5\n(iv) √8 × √2 = 4\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) WRONG: √2+√3≠√5. (ii) Correct: √18=3√2. (iii) Correct: (√5)²=5. (iv) Correct: √8×√2=√16=4. Option '(i),(ii),(iii)' wrongly includes (i). Option '(i),(iii),(iv)' wrongly includes (i) and excludes (ii). Option 'all four' treats (i) as correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "What is the slope of the line passing through the points (1, 3) and (4, 15)?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "4",
+      "explanation": "Slope = (15−3)/(4−1) = 12/3 = 4. Option '3' uses only x-difference. Option '5' miscalculates as 15/3. Option '6' computes 12/2."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Rationalize the denominator: 1/(√7 − √5)",
+      "options": [
+        "(√7 + √5)/2",
+        "(√7 − √5)/2",
+        "(√7 + √5)/12",
+        "(√7 + √5)/4"
+      ],
+      "correctAnswer": "(√7 + √5)/2",
+      "explanation": "Multiply by conjugate: (√7+√5)/(7−5) = (√7+√5)/2. Option '(√7−√5)/2' uses wrong sign. Option '(√7+√5)/12' uses 7+5=12 in denominator. Option '(√7+√5)/4' doubles denominator."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Which of the following are correct about the graph of y = 3x + 2?\n\n(i) The slope is 3\n(ii) The y-intercept is 2\n(iii) The line passes through the origin\n(iv) The line makes an acute angle with the positive x-axis\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Correct: m=3. (ii) Correct: c=2. (iii) WRONG: passes through (0,2). (iv) Correct: positive slope → acute angle. Option '(i),(ii),(iii)' includes (iii). Option '(i),(ii),(iii),(iv)' includes (iii). Option '(ii),(iii),(iv)' includes (iii) and excludes (i)."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Match the following surds with their simplified forms:\n\nColumn I:\n(a) √200\n(b) √72\n(c) √128\n(d) √98\n\nColumn II:\n(i) 6√2\n(ii) 10√2\n(iii) 8√2\n(iv) 7√2\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "√200=10√2→(ii). √72=6√2→(i). √128=8√2→(iii). √98=7√2→(iv). Other options swap pairs incorrectly."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Simplify: (3√5 + 2√3)(3√5 − 2√3)",
+      "options": [
+        "45",
+        "57",
+        "33",
+        "21"
+      ],
+      "correctAnswer": "33",
+      "explanation": "(3√5)²−(2√3)² = 45−12 = 33. Option '45' is only (3√5)². Option '57' adds 45+12. Option '21' from wrong calculation."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about the system x + 2y = 4 and 2x + 4y = 12:\n\n(i) The ratio a₁/a₂ = 1/2\n(ii) The ratio b₁/b₂ = 1/2\n(iii) The ratio c₁/c₂ = 1/3\n(iv) The system has no solution\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "All correct: (i) 1/2. (ii) 2/4=1/2. (iii) 4/12=1/3. (iv) Since a₁/a₂=b₁/b₂≠c₁/c₂, parallel lines → no solution. Option '(i),(ii),(iii) only' excludes (iv). Option '(i) and (ii) only' excludes (iii) and (iv). Option '(i),(ii),(iv) only' excludes (iii)."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "The x-intercept of the line 3x − 4y = 12 is __________.",
+      "options": [
+        "3",
+        "−3",
+        "4",
+        "−4"
+      ],
+      "correctAnswer": "4",
+      "explanation": "Set y=0: 3x=12 → x=4. Option '3' divides 12 by 4. Option '−3' uses wrong sign and divisor. Option '−4' uses wrong sign."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "If √5 = 2.236, find the value of 2/√5 correct to three decimal places.",
+      "options": [
+        "0.447",
+        "0.894",
+        "1.118",
+        "0.632"
+      ],
+      "correctAnswer": "0.894",
+      "explanation": "2/√5 = 2/2.236 = 0.894. Option '0.447' computes 1/2.236 (forgets ×2). Option '1.118' computes √5/2 (inverts). Option '0.632' is approximately √(2/5)."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two linear equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0 represent coincident lines if a₁/a₂ = b₁/b₂ = c₁/c₂.\nReason (R): Coincident lines have infinitely many solutions because every point on one line lies on the other.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) Correct: equal ratios → identical lines. (R) Correct: coincident lines share all points. R explains A because the condition ensures overlap. Option '(A) correct but (R) not correct' is wrong. Option 'Both correct but NOT explanation' is wrong since R explains A. Option '(A) not correct but (R) correct' is wrong."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Simplify: √12 × √3",
+      "options": [
+        "6",
+        "4",
+        "3√2",
+        "2√6"
+      ],
+      "correctAnswer": "6",
+      "explanation": "√12×√3 = √36 = 6. Option '4' from wrong factoring. Option '3√2'≈4.24 from error. Option '2√6'≈4.9 from wrong intermediate step."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Consider the following statements about the graph of ax + by + c = 0:\n\n(i) If a = 0, the line is parallel to the x-axis.\n(ii) If b = 0, the line is parallel to the y-axis.\n(iii) If c = 0, the line passes through the origin.\n(iv) The slope of the line is always a/b.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i)-(iii) correct. (iv) WRONG: slope = −a/b. Option '(i),(ii),(iii),(iv)' includes (iv). Option '(i) and (ii) only' excludes (iii). Option '(ii),(iii),(iv)' excludes (i), includes (iv)."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Match the following linear equations with their slopes:\n\nColumn I:\n(a) y = 5x − 7\n(b) 2y = −6x + 4\n(c) x + y = 10\n(d) 3x − y + 1 = 0\n\nColumn II:\n(i) −1\n(ii) 5\n(iii) 3\n(iv) −3\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "(a) slope=5→(ii). (b) slope=−3→(iv). (c) slope=−1→(i). (d) slope=3→(iii). Other options swap pairs."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Simplify: (√6 + √2)²",
+      "options": [
+        "8 + 2√3",
+        "8 + 4√3",
+        "6 + 4√3",
+        "8 + 2√12"
+      ],
+      "correctAnswer": "8 + 4√3",
+      "explanation": "(√6+√2)² = 6+2√12+2 = 8+2(2√3) = 8+4√3. Option '8+2√3' misses factor 2. Option '6+4√3' wrong constant. Option '8+2√12' unsimplified."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Which of the following are irrational numbers?\n\n(i) √49\n(ii) √2 + √3\n(iii) 3√5\n(iv) √(16/25)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "(i) √49=7, rational. (ii) irrational. (iii) irrational. (iv) 4/5, rational. Option '(i),(ii),(iii)' includes (i). Option '(ii),(iii),(iv)' includes (iv). Option '(i) and (iv)' identifies rationals."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Find the point of intersection of the lines x + y = 7 and x − y = 3.",
+      "options": [
+        "(4, 3)",
+        "(5, 2)",
+        "(3, 4)",
+        "(2, 5)"
+      ],
+      "correctAnswer": "(5, 2)",
+      "explanation": "Adding: 2x=10, x=5, y=2. Option '(4,3)': 4−3=1≠3. Option '(3,4)': 3−4=−1≠3. Option '(2,5)': 2−5=−3≠3."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The value of 1/(√8 + √7) equals √8 − √7.\nReason (R): Rationalizing 1/(√a + √b) gives (√a − √b)/(a − b).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A): 1/(√8+√7)=(√8−√7)/(8−7)=√8−√7. Correct. (R): Standard formula. Correct. R explains A. Option '(A) correct but (R) not correct' is wrong. Option 'Both correct but NOT explanation' is wrong. Option '(A) not correct but (R) correct' is wrong."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "A linear equation y = mx + c has slope m = −2 and passes through (3, 1). The value of c is:",
+      "options": [
+        "−5",
+        "5",
+        "−7",
+        "7"
+      ],
+      "correctAnswer": "7",
+      "explanation": "1=−2(3)+c → c=7. Option '−5' computes 1+(−6)=−5. Option '5' uses wrong slope sign. Option '−7' applies wrong sign."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) √(a × b) = √a × √b for all positive a, b\n(ii) √(a + b) = √a + √b for all positive a, b\n(iii) (√a)² = a for all non-negative a\n(iv) √(a/b) = √a / √b for all positive a, b\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) Correct. (ii) WRONG: √(a+b)≠√a+√b. (iii) Correct. (iv) Correct. Option 'all four' includes (ii). Option '(i) and (iii) only' excludes (iv). Option '(ii),(iii),(iv)' includes (ii), excludes (i)."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The equation of a line parallel to the x-axis and passing through (4, −5) is __________.",
+      "options": [
+        "x = 4",
+        "y = 4",
+        "y = −5",
+        "x = −5"
+      ],
+      "correctAnswer": "y = −5",
+      "explanation": "Horizontal line: y = constant. Through (4,−5): y=−5. Option 'x=4' is vertical. Option 'y=4' uses x-coordinate. Option 'x=−5' confuses both."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Consider the following statements about the lines y = 2x + 5 and y = −0.5x + 3:\n\n(i) The lines are perpendicular to each other.\n(ii) The product of their slopes is −1.\n(iii) The lines will intersect at exactly one point.\n(iv) The lines are parallel to each other.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) Correct: slopes 2 and −0.5, product = −1 → perpendicular. (ii) Correct: 2×(−0.5)=−1. (iii) Correct: perpendicular lines intersect at exactly one point. (iv) WRONG: they are perpendicular, not parallel. Option '(i) and (ii) only' excludes (iii). Option '(iii) and (iv) only' wrongly includes (iv) and excludes (i)&(ii). Option 'all four' includes (iv)."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "If x = (3 + √5)/2 and y = (3 − √5)/2, find the value of x × y.",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "5"
+      ],
+      "correctAnswer": "1",
+      "explanation": "xy = (3+√5)(3−√5)/4 = (9−5)/4 = 1. Option '2' uses denominator 2. Option '4' uses only numerator. Option '5' confuses with surd value."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following are true about rationalizing surds?\n\n(i) The conjugate of (√a + √b) is (√a − √b)\n(ii) Rationalizing 1/√3 gives √3/3\n(iii) The conjugate of (2 + √5) is (2 + √5)\n(iv) Multiplying a binomial surd by its conjugate always gives a rational number\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Correct. (ii) Correct: 1/√3=√3/3. (iii) WRONG: conjugate is (2−√5). (iv) Correct. Option '(i),(ii),(iii)' includes (iii). Option 'all four' includes (iii). Option '(ii),(iv) only' excludes (i)."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Which of the following are pairs of perpendicular lines?\n\n(i) y = 3x + 1 and y = −(1/3)x + 5\n(ii) y = 2x − 4 and y = 2x + 7\n(iii) y = x + 2 and y = −x + 3\n(iv) y = 4x and y = (1/4)x − 1\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) 3×(−1/3)=−1: perpendicular ✓. (ii) Same slope 2: parallel, not perpendicular ✗. (iii) 1×(−1)=−1: perpendicular ✓. (iv) 4×(1/4)=1≠−1: not perpendicular ✗. Option '(i) and (ii)' wrongly includes (ii). Option '(i),(iii),(iv)' wrongly includes (iv). Option '(i),(ii),(iii)' wrongly includes (ii)."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Simplify: (5 + 2√6)(5 − 2√6)",
+      "options": [
+        "25",
+        "−1",
+        "49",
+        "1"
+      ],
+      "correctAnswer": "1",
+      "explanation": "25−(2√6)²=25−24=1. Option '25' is only 5². Option '−1' reverses subtraction. Option '49' adds 25+24."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Match the following pairs of equations with their solution type:\n\nColumn I:\n(a) x + y = 5, 2x + 2y = 10\n(b) x + y = 5, x − y = 1\n(c) x + y = 5, 2x + 2y = 8\n(d) 2x + y = 4, x + 2y = 5\n\nColumn II:\n(i) Unique solution (x = 3, y = 2)\n(ii) No solution\n(iii) Infinitely many solutions\n(iv) Unique solution (x = 1, y = 2)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) same line→(iii). (b) x=3,y=2→(i). (c) contradiction→(ii). (d) x=1,y=2→(iv). Other options swap pairings."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Simplify: 1/√3 + 1/√12 + 1/√48",
+      "options": [
+        "7√3/12",
+        "5√3/12",
+        "√3/2",
+        "7√3/6"
+      ],
+      "correctAnswer": "7√3/12",
+      "explanation": "1/√3=4√3/12. 1/√12=2√3/12. 1/√48=√3/12. Sum=7√3/12. Option '5√3/12' miscounts. Option '√3/2'=6√3/12. Option '7√3/6' doubles result."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about the pair 3x + 2y = 12 and 6x + 4y = 24:\n\n(i) The system is consistent.\n(ii) The lines are coincident.\n(iii) The system has infinitely many solutions.\n(iv) The lines are parallel but not coincident.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "6x+4y=24 = 2×(3x+2y=12). (i) Correct: consistent. (ii) Correct: coincident. (iii) Correct: infinite solutions. (iv) WRONG: coincident ≠ parallel-but-distinct. Option '(i),(ii),(iii),(iv)' includes (iv). Option '(i) and (iv) only' excludes (ii)&(iii). Option '(ii) and (iii) only' excludes (i)."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The lines y = 2x + 1 and y = 2x − 3 never intersect.\nReason (R): Two lines with the same slope but different y-intercepts are parallel.\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) Correct: same slope, different intercepts → parallel → never intersect. (R) Correct: standard fact. R explains A. Option '(A) not correct but (R) correct' wrong. Option '(A) correct but (R) not correct' wrong. Option 'Both but NOT explanation' wrong since R precisely explains A."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "A shopkeeper records monthly sales (in ₹ thousands): Month 1 = 10, Month 2 = 15, Month 3 = 20, Month 4 = 25. If sales follow y = mx + c (x = month number), what are the predicted sales for Month 7?",
+      "options": [
+        "₹35,000",
+        "₹45,000",
+        "₹50,000",
+        "₹40,000"
+      ],
+      "correctAnswer": "₹40,000",
+      "explanation": "m=(25−10)/(4−1)=5. Using (1,10): c=5. y=5x+5. For x=7: y=40 (₹40,000). Option '₹35,000' uses x=6. Option '₹45,000' uses c=10. Option '₹50,000' uses slope 10."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Simplify: √(3/7) × √(7/3)",
+      "options": [
+        "√(3/7)",
+        "1",
+        "3/7",
+        "7/3"
+      ],
+      "correctAnswer": "1",
+      "explanation": "√(3/7)×√(7/3)=√[(3/7)×(7/3)]=√1=1. Option '√(3/7)' is one factor. Option '3/7' removes radical incorrectly. Option '7/3' inverts."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The area of the triangle formed by lines y = 0, x = 0, and 2x + 3y = 6 is (in square units):",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "9"
+      ],
+      "correctAnswer": "3",
+      "explanation": "x-intercept (3,0), y-intercept (0,2). Area=½×3×2=3. Option '6' forgets ½. Option '4' wrong intercepts. Option '9' uses ½×3×6."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "If 1/(√5 + √3) + 1/(√5 − √3) is simplified, the result is:",
+      "options": [
+        "2√5",
+        "√3",
+        "2√3",
+        "√5"
+      ],
+      "correctAnswer": "√5",
+      "explanation": "=[(√5−√3)+(√5+√3)]/(5−3)=2√5/2=√5. Option '2√5' forgets dividing by 2. Option '√3' wrong surd. Option '2√3' wrong numerator."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Match the following graph features with their equations:\n\nColumn I:\n(a) Passes through origin with slope 2\n(b) Horizontal line at y = 4\n(c) Vertical line at x = −3\n(d) Slope −1 and y-intercept 6\n\nColumn II:\n(i) x = −3\n(ii) y = 2x\n(iii) y = −x + 6\n(iv) y = 4\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "(a) y=2x→(ii). (b) y=4→(iv). (c) x=−3→(i). (d) y=−x+6→(iii). Other options swap pairs."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "A student collects data from a linear graph: when x = 1, y = 5; when x = 3, y = 11; when x = 5, y = 17. The equation of the line and the value of y when x = 8 are:",
+      "options": [
+        "y = 3x + 2 and y = 24",
+        "y = 2x + 3 and y = 19",
+        "y = 3x + 2 and y = 26",
+        "y = 3x + 5 and y = 29"
+      ],
+      "correctAnswer": "y = 3x + 2 and y = 26",
+      "explanation": "Slope=(11−5)/(3−1)=3. c=5−3=2. y=3x+2. At x=8: y=26. Option 'y=3x+2, y=24' miscalculates 3(8)+2. Option 'y=2x+3, y=19' wrong slope. Option 'y=3x+5, y=29' wrong intercept."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Simplify: (√3 + √2)/(√3 − √2)",
+      "options": [
+        "5 − 2√6",
+        "1 + 2√6",
+        "5 + 2√6",
+        "5 + √6"
+      ],
+      "correctAnswer": "5 + 2√6",
+      "explanation": "(√3+√2)²/(3−2) = (3+2√6+2)/1 = 5+2√6. Option '5−2√6' wrong sign. Option '1+2√6' wrong constant. Option '5+√6' drops coefficient."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The graph of y = −3x + 9 crosses the x-axis at x =",
+      "options": [
+        "3",
+        "−3",
+        "9",
+        "−9"
+      ],
+      "correctAnswer": "3",
+      "explanation": "Set y=0: 0=−3x+9 → x=3. Option '−3' wrong sign. Option '9' confuses with y-intercept. Option '−9' confuses both."
+    }
+  ]
+}

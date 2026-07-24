@@ -1,0 +1,657 @@
+{
+  "subject": "F",
+  "topic": "CPU, Memory, Ports & Backup Devices",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "Which component of the CPU holds data and instructions temporarily during processing and is the fastest accessible storage in the computer hierarchy?",
+      "options": [
+        "Cache Memory",
+        "Accumulator Register",
+        "Main Memory (RAM)",
+        "Virtual Memory"
+      ],
+      "correctAnswer": "Accumulator Register",
+      "explanation": "The Accumulator Register is a special register within the CPU that temporarily holds intermediate results during arithmetic and logical operations, and registers are the fastest accessible storage in the hierarchy. Cache Memory is fast but sits between the CPU and RAM, not inside the execution unit directly. Main Memory (RAM) is much slower than CPU registers. Virtual Memory uses disk space and is the slowest in the hierarchy."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about CPU pipelining:\n\n(i) Pipelining divides instruction execution into multiple stages that can overlap.\n(ii) Pipelining increases the clock speed of the processor.\n(iii) A pipeline hazard occurs when the next instruction depends on the result of the current instruction.\n(iv) A 5-stage pipeline can have up to 5 instructions in various stages simultaneously.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — pipelining breaks instruction execution into stages (fetch, decode, execute, etc.) that overlap. (iii) is correct — this is called a data hazard where an instruction needs the result of a previous instruction still in the pipeline. (iv) is correct — with 5 stages, up to 5 instructions can be at different stages simultaneously. (ii) is wrong — pipelining increases throughput (instructions completed per unit time) but does NOT increase the clock speed/frequency of the processor."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "The HDMI port on a computer is primarily used for:",
+      "options": [
+        "Connecting external hard drives for data transfer",
+        "Providing power supply to USB peripherals",
+        "Connecting to Ethernet-based local networks",
+        "Transmitting audio and video signals digitally"
+      ],
+      "correctAnswer": "Transmitting audio and video signals digitally",
+      "explanation": "HDMI (High-Definition Multimedia Interface) transmits both audio and video signals digitally to displays like monitors, TVs, and projectors. Connecting external hard drives is done via USB or eSATA ports. Providing power to USB peripherals is a function of USB ports. Connecting to Ethernet networks requires an RJ-45 Ethernet port, not HDMI."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): DDR4 RAM provides higher data transfer rates than DDR3 RAM.\nReason (R): DDR4 operates at a higher base clock frequency and lower voltage than DDR3.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — DDR4 offers transfer rates of 2133–4266 MT/s compared to DDR3's 800–2133 MT/s. Reason (R) is correct — DDR4 operates at higher clock frequencies (1066–2133 MHz vs DDR3's 400–1066 MHz) and at lower voltage (1.2V vs 1.5V), which directly enables the higher data transfer rates. The reason correctly explains the assertion."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Which of the following are types of ROM (Read Only Memory)?\n\n(i) PROM\n(ii) EPROM\n(iii) EEPROM\n(iv) DRAM\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "PROM (Programmable ROM), EPROM (Erasable Programmable ROM), and EEPROM (Electrically Erasable Programmable ROM) are all types of ROM. DRAM (Dynamic RAM) is a type of volatile random access memory, not ROM — it loses data when power is off and requires constant refreshing."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "A NAS (Network Attached Storage) device is primarily used for:",
+      "options": [
+        "Increasing the processing speed of the CPU",
+        "Centralized file storage accessible over a network",
+        "Converting analog signals to digital for storage",
+        "Providing wireless internet to connected devices"
+      ],
+      "correctAnswer": "Centralized file storage accessible over a network",
+      "explanation": "NAS is a dedicated file storage device connected to a network that allows multiple users and devices to access stored data centrally. It does not increase CPU processing speed — that is the function of upgrades like overclocking or adding cores. Converting analog to digital signals is the function of an ADC (Analog-to-Digital Converter). Providing wireless internet is the function of a Wi-Fi router or access point."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "Match the following CPU registers with their functions:\n\nColumn I:\n(a) Program Counter (PC)\n(b) Instruction Register (IR)\n(c) Memory Address Register (MAR)\n(d) Memory Data Register (MDR)\n\nColumn II:\n(i) Holds the data being transferred to or from memory\n(ii) Stores the address of the next instruction to be fetched\n(iii) Contains the address of the memory location to be accessed\n(iv) Holds the current instruction being decoded and executed\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Program Counter (PC) stores the address of the next instruction to be fetched (ii). Instruction Register (IR) holds the current instruction being decoded and executed (iv). Memory Address Register (MAR) contains the address of the memory location being accessed (iii). Memory Data Register (MDR) holds the data being transferred to or from memory (i). The other combinations misassign these fundamental register functions."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "The __________ is a type of USB connector commonly used in modern smartphones and laptops that supports reversible plug orientation.",
+      "options": [
+        "USB Type-A",
+        "USB Type-C",
+        "USB Type-B",
+        "USB Mini-B"
+      ],
+      "correctAnswer": "USB Type-C",
+      "explanation": "USB Type-C features a reversible connector design (can be plugged in either way) and is widely used in modern smartphones and laptops. USB Type-A is the traditional rectangular connector found on computers, which is not reversible. USB Type-B is the square-shaped connector used mainly for printers. USB Mini-B is an older small connector used in older cameras and devices, also not reversible."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "In a multi-core processor, what does 'quad-core' mean?",
+      "options": [
+        "The processor operates at four times the base clock speed",
+        "The processor has four independent processing units on a single chip",
+        "The processor can execute only four instructions at a time",
+        "The processor has four levels of cache memory"
+      ],
+      "correctAnswer": "The processor has four independent processing units on a single chip",
+      "explanation": "Quad-core means the processor contains four independent processing cores on a single chip, each capable of executing instructions independently. It does NOT mean the processor runs at four times the clock speed — clock speed is independent of core count. It can execute more than four instructions using pipelining within each core. Four levels of cache is unrelated — most processors have 2–3 levels of cache (L1, L2, L3)."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Consider the following statements about Thunderbolt ports:\n\n(i) Thunderbolt 3 and 4 use the USB Type-C connector form factor.\n(ii) Thunderbolt can carry data, video, and power through a single cable.\n(iii) Thunderbolt was developed exclusively by Microsoft.\n(iv) Thunderbolt 3 supports data transfer speeds up to 40 Gbps.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Thunderbolt 3 and 4 both use the USB Type-C connector. (ii) is correct — Thunderbolt carries data, video (DisplayPort), and power delivery through one cable. (iv) is correct — Thunderbolt 3 supports up to 40 Gbps. (iii) is wrong — Thunderbolt was developed by Intel in collaboration with Apple, not Microsoft."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "Which backup strategy involves copying only the files that have changed since the last full backup?",
+      "options": [
+        "Full Backup",
+        "Mirror Backup",
+        "Archive Backup",
+        "Differential Backup"
+      ],
+      "correctAnswer": "Differential Backup",
+      "explanation": "Differential Backup copies all files that have changed since the last full backup, growing larger each day until the next full backup. Full Backup copies ALL files regardless of changes. Mirror Backup creates an exact real-time replica of the source without compression or versioning. Archive Backup refers to moving old data to long-term storage, not a regular backup strategy based on changes."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): L1 cache memory is smaller in size but faster than L2 cache memory.\nReason (R): L1 cache uses DRAM technology while L2 cache uses SRAM technology, making L1 inherently faster.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct — L1 cache is typically 32–64 KB and is faster than L2 cache (256 KB–few MB). Reason (R) is incorrect — BOTH L1 and L2 use SRAM technology (not DRAM). DRAM is used for main memory. The speed difference between L1 and L2 comes from L1's proximity to the CPU core and its smaller size (which allows faster lookup), not from different memory technologies."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "Which of the following are characteristics of cloud backup services?\n\n(i) Data is stored on remote servers accessed via the internet\n(ii) They provide automatic scheduled backups without manual intervention\n(iii) They require physical connection of an external device to the computer\n(iv) They offer data redundancy by storing copies across multiple locations\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — cloud backup stores data on remote servers accessed through the internet. (ii) is correct — cloud services typically offer scheduled automatic backups. (iv) is correct — cloud providers maintain data redundancy across multiple geographic locations. (iii) is wrong — cloud backup works over the internet and does NOT require any physical device connection, unlike external HDD or tape backups."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "The VGA (Video Graphics Array) port transmits:",
+      "options": [
+        "Digital video and audio signals",
+        "Only audio signals in surround sound",
+        "Network data packets for LAN connections",
+        "Analog video signals only"
+      ],
+      "correctAnswer": "Analog video signals only",
+      "explanation": "VGA transmits analog video signals only — it does not carry audio. Digital video and audio signals are carried by HDMI or DisplayPort. Audio-only transmission in surround sound is handled by optical audio (TOSLINK) or HDMI. Network data packets are transmitted through Ethernet (RJ-45) ports, not VGA."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "Match the following types of RAM with their characteristics:\n\nColumn I:\n(a) SDRAM\n(b) DDR SDRAM\n(c) RDRAM\n(d) LPDDR\n\nColumn II:\n(i) Low-power variant designed for mobile devices and laptops\n(ii) Synchronizes with the system clock but transfers data once per cycle\n(iii) Transfers data on both rising and falling edges of the clock\n(iv) Uses a narrow high-speed channel with Rambus technology\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "SDRAM (Synchronous DRAM) synchronizes with the system clock and transfers data once per clock cycle (ii). DDR SDRAM (Double Data Rate) transfers data on both rising and falling edges of the clock, doubling the bandwidth (iii). RDRAM (Rambus DRAM) uses a narrow 16-bit high-speed channel based on Rambus technology (iv). LPDDR (Low Power DDR) is designed for mobile devices and laptops with reduced power consumption (i)."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "An incremental backup differs from a differential backup because incremental backup copies:",
+      "options": [
+        "All files changed since the last full backup only",
+        "The entire disk image including unused sectors",
+        "Only files changed since the last backup of any type",
+        "Only system files and boot records each time"
+      ],
+      "correctAnswer": "Only files changed since the last backup of any type",
+      "explanation": "Incremental backup copies only files that have changed since the LAST backup of any type (full or incremental), making each backup small and fast. Copying all files changed since the last full backup describes differential backup. Copying the entire disk image is a full/disk image backup. Copying only system files and boot records describes a system state backup, not incremental."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "Consider the following statements about virtual memory:\n\n(i) Virtual memory uses a portion of the hard disk as an extension of RAM.\n(ii) It allows programs larger than physical RAM to execute.\n(iii) Virtual memory is faster than physical RAM.\n(iv) The operating system manages the swapping of pages between RAM and disk.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — virtual memory uses a section of the hard disk (page file/swap space) as extended memory. (ii) is correct — programs can be larger than available physical RAM because parts are swapped to disk. (iv) is correct — the OS manages page swapping between RAM and disk using demand paging. (iii) is wrong — virtual memory is much SLOWER than physical RAM because hard disk access is significantly slower than RAM access."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Serial ports transmit data one bit at a time over a single communication line.\nReason (R): Parallel ports are preferred over serial ports for long-distance communication due to lower signal interference.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct — serial ports (like RS-232) transmit data sequentially one bit at a time over a single data line. Reason (R) is incorrect — it is actually SERIAL ports (not parallel) that are preferred for long-distance communication because parallel cables suffer from crosstalk and signal skew over long distances. Parallel ports experience MORE interference at longer distances, not less."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "The clock speed of a CPU determines:",
+      "options": [
+        "The total amount of data the CPU can store internally",
+        "The number of cores available in the processor",
+        "The physical size of the processor die",
+        "The number of instruction cycles the processor can perform per second"
+      ],
+      "correctAnswer": "The number of instruction cycles the processor can perform per second",
+      "explanation": "Clock speed (measured in GHz) determines how many cycles the CPU can perform per second — a 3 GHz processor performs 3 billion cycles per second. Total data storage capacity of CPU is determined by register size and cache capacity, not clock speed. Number of cores is a separate architectural specification. Physical die size depends on manufacturing process (nm) and design, not clock speed."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "Which of the following are features of USB 3.0 compared to USB 2.0?\n\n(i) Maximum transfer speed of 5 Gbps\n(ii) Blue-colored connector insert for identification\n(iii) Backward compatible with USB 2.0 devices\n(iv) Supports only half-duplex communication\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — USB 3.0 (SuperSpeed) offers up to 5 Gbps transfer speed compared to USB 2.0's 480 Mbps. (ii) is correct — USB 3.0 connectors typically have a blue insert for easy identification. (iii) is correct — USB 3.0 is fully backward compatible with USB 2.0 devices. (iv) is wrong — USB 3.0 supports FULL-DUPLEX communication (simultaneous send and receive), which is an upgrade from USB 2.0's half-duplex mode."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "A tape drive is typically used in enterprise environments for:",
+      "options": [
+        "Primary storage for running operating systems",
+        "Real-time random access database operations",
+        "Displaying high-resolution graphics output",
+        "Long-term archival backup of large volumes of data"
+      ],
+      "correctAnswer": "Long-term archival backup of large volumes of data",
+      "explanation": "Tape drives are used for long-term archival backup of large data volumes due to their high capacity, low cost per GB, and durability. They are NOT used as primary storage for OS — that requires fast random access storage like SSDs or HDDs. Real-time random access database operations require fast storage with low latency; tape is sequential access. Displaying graphics is the function of a GPU and monitor, not a storage device."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "Match the following port types with their primary applications:\n\nColumn I:\n(a) eSATA\n(b) DisplayPort\n(c) PS/2\n(d) FireWire (IEEE 1394)\n\nColumn II:\n(i) High-definition video output to monitors\n(ii) External hard drive connection at SATA speeds\n(iii) Legacy keyboard and mouse connection\n(iv) High-speed data transfer for camcorders and audio devices\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "eSATA (External SATA) connects external hard drives at native SATA speeds (ii). DisplayPort is a digital display interface for high-definition video output to monitors (i). PS/2 is a legacy port used for keyboard (purple) and mouse (green) connections (iii). FireWire (IEEE 1394) was designed for high-speed data transfer, commonly used for camcorders, audio interfaces, and external drives (iv)."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "The __________ is a technique where the CPU simultaneously processes multiple instructions by overlapping their execution phases.",
+      "options": [
+        "Multithreading",
+        "Pipelining",
+        "Multiplexing",
+        "Overclocking"
+      ],
+      "correctAnswer": "Pipelining",
+      "explanation": "Pipelining is the technique where the CPU overlaps execution phases (fetch, decode, execute, write-back) of multiple instructions simultaneously. Multithreading allows multiple threads to share CPU resources but is about thread-level parallelism, not instruction overlap within execution stages. Multiplexing is a communication technique for sharing a channel among multiple signals. Overclocking increases clock speed beyond rated specifications but doesn't describe the overlap of instruction phases."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "Which type of optical disc has the highest storage capacity?",
+      "options": [
+        "Blu-ray Disc",
+        "DVD-RW",
+        "CD-ROM",
+        "HD-DVD"
+      ],
+      "correctAnswer": "Blu-ray Disc",
+      "explanation": "Blu-ray Disc offers up to 25 GB (single layer) or 50 GB (dual layer) storage capacity, the highest among standard optical discs. DVD-RW holds about 4.7 GB (single layer). CD-ROM holds about 700 MB. HD-DVD held about 15 GB (single layer) but was discontinued after losing the format war to Blu-ray."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): SRAM is faster than DRAM and does not require periodic refreshing.\nReason (R): SRAM uses flip-flop circuits to store each bit, while DRAM uses capacitors that gradually lose charge.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — SRAM is faster and doesn't need refreshing. Reason (R) is correct — SRAM uses bistable flip-flop circuits (6 transistors per bit) that maintain state without refreshing, while DRAM uses a capacitor-transistor pair where the capacitor gradually discharges. The reason directly explains why SRAM is faster and refresh-free — flip-flops provide instant stable access, while capacitor-based DRAM needs periodic refresh cycles that introduce latency."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "Consider the following statements about external hard disk drives (HDD):\n\n(i) They use spinning magnetic platters to store data.\n(ii) They are immune to physical shock and vibration damage.\n(iii) They typically connect to computers via USB or Thunderbolt ports.\n(iv) They are classified as non-volatile storage devices.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — HDDs use spinning magnetic platters with read/write heads to store data. (iii) is correct — external HDDs connect via USB, Thunderbolt, or eSATA ports. (iv) is correct — HDDs retain data without power, making them non-volatile. (ii) is wrong — HDDs are VULNERABLE to physical shock and vibration because the read/write head can crash into the spinning platter, causing data loss or damage."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "The DVI (Digital Visual Interface) port is used for:",
+      "options": [
+        "Connecting monitors using digital or analog video signals",
+        "Transferring files between two computers directly",
+        "Connecting external audio speakers and amplifiers",
+        "Providing power delivery to laptop docking stations"
+      ],
+      "correctAnswer": "Connecting monitors using digital or analog video signals",
+      "explanation": "DVI (Digital Visual Interface) connects monitors and can transmit digital signals (DVI-D), analog signals (DVI-A), or both (DVI-I). Transferring files between computers is done using network cables or USB transfer cables. Connecting audio speakers uses 3.5mm audio jack, RCA, or optical audio ports. Power delivery to docking stations uses USB-C Power Delivery or proprietary power connectors."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "Which of the following correctly describes the function of a CPU's instruction pipeline stage called 'Decode'?",
+      "options": [
+        "Interpreting the fetched instruction to determine the operation and operands",
+        "Writing the computed result back to a register or memory location",
+        "Retrieving the next instruction from memory using the program counter",
+        "Performing the arithmetic or logical computation specified by the instruction"
+      ],
+      "correctAnswer": "Interpreting the fetched instruction to determine the operation and operands",
+      "explanation": "The Decode stage interprets the binary instruction fetched from memory to identify what operation to perform and what operands are needed. Writing results back is the 'Write-back' stage. Retrieving instructions from memory is the 'Fetch' stage. Performing computation is the 'Execute' stage. These four stages (Fetch, Decode, Execute, Write-back) form a basic instruction pipeline."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "Which of the following are advantages of SSD (Solid State Drive) over traditional HDD?\n\n(i) Faster data access and boot times\n(ii) No moving parts, making it more shock-resistant\n(iii) Higher storage capacity per unit cost\n(iv) Lower power consumption and silent operation\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — SSDs provide much faster read/write speeds and boot times due to flash memory technology. (ii) is correct — SSDs have no moving parts, making them highly resistant to physical shock. (iv) is correct — SSDs consume less power and produce no noise since there are no spinning disks or moving heads. (iii) is wrong — HDDs still offer much higher storage capacity per unit cost; SSDs are more expensive per GB."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): USB Type-C can deliver up to 100W of power through Power Delivery (PD) specification.\nReason (R): USB Type-C connectors have more pins than Type-A, enabling higher current and voltage negotiation.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — USB PD over Type-C supports up to 100W (20V at 5A) power delivery. Reason (R) is correct — USB Type-C has 24 pins compared to Type-A's 4–9 pins, and these additional pins include dedicated power/ground pins and configuration channel (CC) pins that enable voltage/current negotiation. The extra pins directly enable the higher power delivery capability, so R correctly explains A."
+    },
+    {
+      "id": "31",
+      "subject": "F",
+      "questionText": "RAID (Redundant Array of Independent Disks) Level 1 provides data protection by:",
+      "options": [
+        "Striping data across drives without any redundancy",
+        "Using parity bits distributed across all drives",
+        "Mirroring data identically on two or more drives",
+        "Compressing data before writing to a single drive"
+      ],
+      "correctAnswer": "Mirroring data identically on two or more drives",
+      "explanation": "RAID 1 uses mirroring — data is written identically to two or more drives, so if one fails, the other has a complete copy. Striping without redundancy is RAID 0, which offers speed but no protection. Distributed parity is used in RAID 5. Compressing data to a single drive is not a RAID level — RAID by definition requires multiple drives."
+    },
+    {
+      "id": "32",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Fetch-Decode-Execute cycle:\n\n(i) The Program Counter holds the address of the next instruction to be fetched.\n(ii) During the fetch phase, the instruction is copied from RAM into the Instruction Register.\n(iii) The cycle is also known as the machine cycle or instruction cycle.\n(iv) The entire cycle is completed in exactly one clock pulse for all instructions.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Program Counter stores the memory address of the next instruction. (ii) is correct — during fetch, the instruction at the address in PC is retrieved from RAM and placed into the Instruction Register. (iii) is correct — the fetch-decode-execute cycle is alternatively called the machine cycle or instruction cycle. (iv) is wrong — different instructions take different numbers of clock cycles; complex instructions like multiplication may take multiple cycles."
+    },
+    {
+      "id": "33",
+      "subject": "F",
+      "questionText": "Match the following backup devices with their typical storage capacities:\n\nColumn I:\n(a) LTO-8 Tape Cartridge\n(b) Standard Blu-ray Disc\n(c) Single-layer DVD\n(d) External USB Flash Drive (common)\n\nColumn II:\n(i) 4.7 GB\n(ii) 12 TB (compressed)\n(iii) 25 GB\n(iv) 32 GB to 256 GB\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "LTO-8 Tape Cartridge holds up to 12 TB compressed (6 TB native) — enterprise backup standard (ii). Standard Blu-ray Disc holds 25 GB per single layer (iii). Single-layer DVD holds 4.7 GB (i). External USB Flash Drives commonly range from 32 GB to 256 GB in popular consumer models (iv)."
+    },
+    {
+      "id": "34",
+      "subject": "F",
+      "questionText": "What is 'thrashing' in the context of virtual memory?",
+      "options": [
+        "Excessive swapping of pages between RAM and disk causing severe performance degradation",
+        "The process of defragmenting the hard disk to improve read speeds",
+        "Overclocking the CPU beyond its thermal design limits",
+        "Formatting the disk drive to remove all stored data permanently"
+      ],
+      "correctAnswer": "Excessive swapping of pages between RAM and disk causing severe performance degradation",
+      "explanation": "Thrashing occurs when the system spends more time swapping pages between RAM and the disk than executing actual processes, causing severe slowdown. Defragmenting reorganizes fragmented files for faster access but is unrelated to virtual memory thrashing. Overclocking increases CPU frequency beyond specs — it's a hardware issue, not a memory management concept. Formatting erases data from a disk and is unrelated to virtual memory operations."
+    },
+    {
+      "id": "35",
+      "subject": "F",
+      "questionText": "The parallel port (DB-25) on older computers was primarily used for connecting:",
+      "options": [
+        "External monitors and projectors",
+        "Printers and scanners",
+        "Network cables for internet access",
+        "Audio speakers and microphones"
+      ],
+      "correctAnswer": "Printers and scanners",
+      "explanation": "The DB-25 parallel port (also called LPT port or Centronics port) was primarily used for connecting printers and scanners in older computers. External monitors use VGA, DVI, HDMI, or DisplayPort connections. Network cables use RJ-45 Ethernet ports. Audio devices use 3.5mm audio jacks or dedicated sound card ports."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "Consider the following statements about EEPROM:\n\n(i) EEPROM stands for Electrically Erasable Programmable Read-Only Memory.\n(ii) It can be erased and reprogrammed using electrical signals without removing the chip.\n(iii) EEPROM retains data even when power is turned off.\n(iv) EEPROM can be rewritten an unlimited number of times without any degradation.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — EEPROM stands for Electrically Erasable Programmable Read-Only Memory. (ii) is correct — unlike EPROM (which needs UV light), EEPROM can be erased and reprogrammed electrically while still on the circuit board. (iii) is correct — EEPROM is non-volatile and retains data without power. (iv) is wrong — EEPROM has a limited number of write cycles (typically 100,000 to 1 million) before the cells degrade."
+    },
+    {
+      "id": "37",
+      "subject": "F",
+      "questionText": "Which of the following best describes 'ECC RAM'?",
+      "options": [
+        "RAM designed exclusively for gaming with RGB lighting features",
+        "RAM that operates at half the voltage of standard memory modules",
+        "RAM used only in mobile phones for enhanced power saving",
+        "RAM that can detect and correct single-bit memory errors automatically"
+      ],
+      "correctAnswer": "RAM that can detect and correct single-bit memory errors automatically",
+      "explanation": "ECC (Error-Correcting Code) RAM can detect and correct single-bit errors and detect (but not correct) multi-bit errors, making it essential for servers and workstations requiring data integrity. Gaming RAM with RGB lighting is a marketing feature unrelated to ECC technology. Low-voltage RAM (e.g., 1.35V DDR3L) is different from ECC — voltage and error correction are separate features. Mobile phone RAM (LPDDR) is low-power but not specifically ECC."
+    },
+    {
+      "id": "38",
+      "subject": "F",
+      "questionText": "Match the following memory technologies with their primary usage:\n\nColumn I:\n(a) Flash Memory (NAND)\n(b) SRAM\n(c) DRAM\n(d) Magnetic Tape\n\nColumn II:\n(i) Main system memory (RAM sticks)\n(ii) CPU cache memory\n(iii) USB pen drives and SSDs\n(iv) Enterprise long-term archival storage\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "Flash Memory (NAND) is used in USB pen drives, SSDs, and memory cards (iii). SRAM is used for CPU cache due to its speed (ii). DRAM is used as main system memory — the RAM sticks in your computer (i). Magnetic Tape is used in enterprise environments for long-term archival backup storage (iv)."
+    },
+    {
+      "id": "39",
+      "subject": "F",
+      "questionText": "The term 'bus width' in CPU architecture refers to:",
+      "options": [
+        "The physical length of the motherboard's expansion slots",
+        "The maximum number of devices connected to the computer",
+        "The speed at which the processor's cooling fan rotates",
+        "The number of bits that can be transmitted simultaneously on the data bus"
+      ],
+      "correctAnswer": "The number of bits that can be transmitted simultaneously on the data bus",
+      "explanation": "Bus width refers to the number of parallel lines (bits) in the data bus that can transmit data simultaneously — a 64-bit bus transfers 64 bits at once. Physical length of expansion slots refers to form factor specifications (PCIe x1, x4, x16), not bus width. Maximum connected devices depends on port/hub capacity, not bus width. Processor fan speed is measured in RPM and is unrelated to bus architecture."
+    },
+    {
+      "id": "40",
+      "subject": "F",
+      "questionText": "Which of the following are true about EPROM (Erasable Programmable ROM)?\n\n(i) It can be erased by exposing it to ultraviolet (UV) light\n(ii) It has a transparent quartz window on the chip package\n(iii) It can be electrically erased while installed on the motherboard\n(iv) It is a type of non-volatile memory\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — EPROM is erased by exposing the chip to strong ultraviolet light for 15-20 minutes. (ii) is correct — EPROM chips have a small transparent quartz window on top that allows UV light to reach the storage cells. (iv) is correct — EPROM retains data without power (non-volatile). (iii) is wrong — EPROM CANNOT be electrically erased while on the board; it must be removed and exposed to UV light. Electrical erasure is a feature of EEPROM, not EPROM."
+    },
+    {
+      "id": "41",
+      "subject": "F",
+      "questionText": "A DIMM (Dual Inline Memory Module) differs from a SIMM (Single Inline Memory Module) in that:",
+      "options": [
+        "DIMM can only be used in laptop computers exclusively",
+        "DIMM has independent electrical contacts on both sides of the module",
+        "SIMM supports higher data transfer rates than modern DIMM",
+        "DIMM requires external power supply separate from the motherboard"
+      ],
+      "correctAnswer": "DIMM has independent electrical contacts on both sides of the module",
+      "explanation": "DIMM has independent (different) electrical contacts on each side of the module, effectively doubling the data path width compared to SIMM where both sides are electrically identical. DIMM is used in desktops and servers; laptops use SO-DIMM (a smaller form factor), not that DIMM is laptop-exclusive. SIMM is older and supports LOWER transfer rates than DIMM. DIMM draws power from the motherboard slot directly; it does not need external power."
+    },
+    {
+      "id": "42",
+      "subject": "F",
+      "questionText": "Consider the following statements about NVMe (Non-Volatile Memory Express):\n\n(i) NVMe is a storage protocol designed specifically for flash-based SSDs.\n(ii) NVMe drives connect through the PCIe bus interface.\n(iii) NVMe is slower than traditional SATA-connected SSDs.\n(iv) NVMe reduces latency by using a streamlined command set.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — NVMe was purpose-built for NAND flash storage, unlike AHCI which was designed for spinning disks. (ii) is correct — NVMe drives use the PCIe (PCI Express) bus, allowing much higher bandwidth than SATA. (iv) is correct — NVMe uses a streamlined 13-command set and supports 64K queues with 64K commands each, drastically reducing latency. (iii) is wrong — NVMe is much FASTER than SATA SSDs, offering speeds of 3000+ MB/s vs SATA's 550 MB/s limit."
+    },
+    {
+      "id": "43",
+      "subject": "F",
+      "questionText": "Which technology replaced the older IDE/PATA interface for connecting internal hard drives to the motherboard?",
+      "options": [
+        "SCSI (Small Computer System Interface)",
+        "AGP (Accelerated Graphics Port)",
+        "SATA (Serial ATA)",
+        "ISA (Industry Standard Architecture)"
+      ],
+      "correctAnswer": "SATA (Serial ATA)",
+      "explanation": "SATA replaced the parallel IDE/PATA interface with faster serial communication, thinner cables, and hot-swapping support. SCSI is a parallel interface used mainly in servers, not the direct replacement for consumer IDE. AGP is a dedicated graphics card slot, not for hard drives. ISA is an old expansion bus standard from the 1980s for peripheral cards, not a hard drive interface."
+    },
+    {
+      "id": "44",
+      "subject": "F",
+      "questionText": "Consider the following statements about the RJ-45 port:\n\n(i) It is used to connect Ethernet cables for network access.\n(ii) It has 8 pins arranged in a modular connector.\n(iii) It is identical in size and function to the RJ-11 telephone jack.\n(iv) It supports data transfer speeds ranging from 10 Mbps to 10 Gbps depending on cable category.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — RJ-45 is the standard connector for Ethernet network cables. (ii) is correct — RJ-45 has 8 pins (4 pairs) in a modular connector. (iv) is correct — it supports various Ethernet speeds from 10 Mbps (Cat 3) to 10 Gbps (Cat 6a/7). (iii) is wrong — RJ-45 is LARGER than RJ-11 (which has only 4-6 pins and is used for telephone connections). They are different in size and purpose."
+    },
+    {
+      "id": "45",
+      "subject": "F",
+      "questionText": "The process of 'overclocking' a CPU refers to:",
+      "options": [
+        "Adding additional physical cores to the processor chip",
+        "Reducing the voltage supply to minimize power consumption",
+        "Running the processor at a higher frequency than its rated specification",
+        "Installing a secondary processor on the motherboard"
+      ],
+      "correctAnswer": "Running the processor at a higher frequency than its rated specification",
+      "explanation": "Overclocking means increasing the CPU's clock multiplier or base clock to run at speeds higher than the manufacturer's rated specification. Adding cores requires a different physical chip — it's not possible through software/BIOS settings. Reducing voltage is 'undervolting,' the opposite of what accompanies overclocking (which often needs more voltage). Installing a secondary processor is a dual-socket configuration, unrelated to overclocking."
+    },
+    {
+      "id": "46",
+      "subject": "F",
+      "questionText": "Which of the following best describes a 'write-back' cache policy?",
+      "options": [
+        "Data bypasses the cache entirely and is written directly to main memory",
+        "Cache contents are periodically flushed to disk for backup purposes",
+        "Data is written simultaneously to both cache and main memory",
+        "Data is written to cache first and to main memory only when the cache line is evicted"
+      ],
+      "correctAnswer": "Data is written to cache first and to main memory only when the cache line is evicted",
+      "explanation": "Write-back policy writes data to cache first and updates main memory only when that cache line is replaced/evicted, improving performance by reducing memory bus traffic. Writing simultaneously to cache and main memory describes 'write-through' policy. Data bypassing cache and going directly to memory describes 'write-around' or 'no-write-allocate' policy. Periodic flushing to disk describes backup/checkpoint operations, not a cache write policy."
+    },
+    {
+      "id": "47",
+      "subject": "F",
+      "questionText": "What is the maximum data transfer speed supported by USB 4.0?",
+      "options": [
+        "10 Gbps",
+        "40 Gbps",
+        "20 Gbps",
+        "80 Gbps"
+      ],
+      "correctAnswer": "40 Gbps",
+      "explanation": "USB 4.0 supports a maximum data transfer speed of 40 Gbps. 10 Gbps is the speed of USB 3.1 Gen 2. 20 Gbps is the speed of USB 3.2 Gen 2x2. 80 Gbps is not a standard USB specification (though USB4 Version 2.0 announced this later, the standard USB 4.0 spec is 40 Gbps)."
+    },
+    {
+      "id": "48",
+      "subject": "F",
+      "questionText": "A 'cold backup' in data storage terminology means:",
+      "options": [
+        "Storing backup tapes in a temperature-controlled cold room",
+        "A backup performed while the system or database is completely shut down",
+        "A backup that occurs automatically every time the system restarts",
+        "Copying only encrypted files to a remote frozen archive server"
+      ],
+      "correctAnswer": "A backup performed while the system or database is completely shut down",
+      "explanation": "A cold backup (offline backup) is performed while the system/database is completely shut down, ensuring data consistency since no transactions are occurring during the backup. Storing tapes in cold rooms describes physical storage conditions, not a backup type. Automatic backup on restart describes a startup script, not a specific backup methodology. Encrypted file copying to remote servers describes aspects of secure backup but not the specific meaning of 'cold backup.'"
+    },
+    {
+      "id": "49",
+      "subject": "F",
+      "questionText": "The reason modern CPUs have multiple cache levels (L1, L2, L3) is primarily to:",
+      "options": [
+        "Increase the total number of transistors in the chip",
+        "Replace the need for main memory (RAM) entirely",
+        "Provide separate storage for each running application",
+        "Balance the trade-off between memory speed, size, and cost"
+      ],
+      "correctAnswer": "Balance the trade-off between memory speed, size, and cost",
+      "explanation": "Multiple cache levels balance speed, size, and cost — L1 is fastest but smallest, L3 is largest but slowest of the caches. The goal isn't to increase transistor count (that's a consequence, not a purpose). Cache cannot replace RAM — it's much smaller and supplements RAM. Cache doesn't provide per-application storage — that's handled by the OS memory management."
+    },
+    {
+      "id": "50",
+      "subject": "F",
+      "questionText": "Which CPU register holds the address of the memory location from which data is to be read or to which data is to be written?",
+      "options": [
+        "Memory Address Register (MAR)",
+        "Memory Data Register (MDR)",
+        "General Purpose Register (GPR)",
+        "Stack Pointer Register (SP)"
+      ],
+      "correctAnswer": "Memory Address Register (MAR)",
+      "explanation": "The Memory Address Register (MAR) holds the memory address that the CPU wants to read from or write to. Memory Data Register (MDR) holds the actual data being read from or written to memory, not the address. General Purpose Registers store intermediate data during computation but don't directly interface with the memory address bus. Stack Pointer Register points to the top of the stack in memory, a specific-purpose register, not the general memory addressing register."
+    }
+  ]
+}
