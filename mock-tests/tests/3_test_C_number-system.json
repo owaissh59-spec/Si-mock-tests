@@ -1,0 +1,657 @@
+{
+  "subject": "C",
+  "topic": "Number System, Decimals, Fractions & Simplification",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "What is the sum of the first 20 natural numbers?",
+      "options": [
+        "220",
+        "200",
+        "210",
+        "190"
+      ],
+      "correctAnswer": "210",
+      "explanation": "The sum of first n natural numbers = n(n+1)/2 = 20×21/2 = 210. 190 is wrong because that equals 19×20/2 (sum of first 19). 200 is wrong because that results from incorrectly using 20×20/2. 220 is wrong because that equals 20×22/2 (using n+2 instead of n+1)."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about natural numbers:\n\n(i) Every natural number is a whole number.\n(ii) Every whole number is a natural number.\n(iii) The smallest natural number is 1.\n(iv) Zero is a natural number.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — every natural number (1, 2, 3...) is also a whole number (0, 1, 2, 3...). (iii) is correct — the smallest natural number is 1. (ii) is wrong because 0 is a whole number but NOT a natural number. (iv) is wrong because zero belongs to the set of whole numbers, not natural numbers."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "The HCF of 36 and 48 is:",
+      "options": [
+        "18",
+        "6",
+        "12",
+        "8"
+      ],
+      "correctAnswer": "12",
+      "explanation": "36 = 2² × 3² and 48 = 2⁴ × 3. HCF = product of lowest powers of common factors = 2² × 3 = 12. 6 is wrong because 6 = 2×3, which takes only the first power of each prime. 8 is wrong because 8 = 2³, which ignores the common factor 3. 18 is wrong because 18 = 2×3², which takes the higher power of 3 from 36 rather than the lower power from 48."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The product of two consecutive even numbers is always divisible by 8.\nReason (R): Among any two consecutive even numbers, one is always divisible by 4.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — consecutive even numbers are 2n and 2n+2; their product is 4n(n+1), and since one of n or n+1 is even, the product is divisible by 8. (R) is correct — among any two consecutive even numbers (e.g., 2, 4 or 6, 8), one is always a multiple of 4. (R) explains (A) because if one factor is divisible by 4 and the other is divisible by 2, their product is divisible by 4×2 = 8. Option 2 is wrong because (R) directly explains why (A) is true. Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "Simplify: 3/4 + 5/6 − 2/3",
+      "options": [
+        "7/12",
+        "11/12",
+        "13/12",
+        "9/12"
+      ],
+      "correctAnswer": "11/12",
+      "explanation": "LCM of 4, 6, 3 is 12. Converting: 3/4 = 9/12, 5/6 = 10/12, 2/3 = 8/12. So 9/12 + 10/12 − 8/12 = 11/12. 9/12 is wrong because it equals 3/4 (only the first fraction). 7/12 is wrong because it results from subtracting incorrectly (9+10−12=7). 13/12 is wrong because it results from adding all three instead of subtracting the last (9+10+8=27, no — actually 9/12+10/12+8/12 would be 27/12, so 13/12 likely comes from 9−10+12 or another arithmetic error)."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Match the following numbers with their correct classification:\n\nColumn I:\n(a) √2\n(b) 22/7\n(c) 0.333...\n(d) π\n\nColumn II:\n(i) Rational (recurring decimal)\n(ii) Rational (fraction)\n(iii) Irrational (non-terminating, non-recurring)\n(iv) Irrational (transcendental number)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "√2 is irrational with a non-terminating, non-recurring decimal (iii). 22/7 is a rational number expressed as a fraction (ii) — it is only an approximation of π, not π itself. 0.333... is a recurring decimal equal to 1/3, hence rational (i). π is a transcendental irrational number (iv). Option 2 is wrong because √2 is algebraic irrational, not transcendental. Option 3 is wrong because it swaps 22/7 and 0.333... classifications. Option 4 is wrong because it classifies √2 as rational."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "If a number leaves a remainder of 3 when divided by 7, what remainder will its square leave when divided by 7?",
+      "options": [
+        "4",
+        "6",
+        "1",
+        "2"
+      ],
+      "correctAnswer": "2",
+      "explanation": "If N ≡ 3 (mod 7), then N² ≡ 3² = 9 ≡ 2 (mod 7). 1 is wrong because 1 would be the remainder if the original number left remainder 1 or 6. 4 is wrong because 4 would be the remainder if the original number left remainder 2 or 5. 6 is wrong because 6 would be the remainder if the original number left remainder 3+3=6, which is an incorrect method."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "Which of the following are rational numbers?\n\n(i) 0.25\n(ii) √5\n(iii) 3.142857142857... (repeating)\n(iv) 0.1010010001... (non-repeating pattern)\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — 0.25 is a terminating decimal equal to 1/4, hence rational. (iii) is correct — 3.142857142857... is a recurring (repeating) decimal equal to 22/7, hence rational. (ii) is wrong because √5 is an irrational number (not a perfect square, so its square root is non-terminating and non-recurring). (iv) is wrong because 0.1010010001... has a pattern but it is NOT recurring/periodic — each group of zeros grows longer, making it non-terminating and non-repeating, hence irrational."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "The LCM of 12, 18, and 24 is:",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "96"
+      ],
+      "correctAnswer": "72",
+      "explanation": "12 = 2² × 3, 18 = 2 × 3², 24 = 2³ × 3. LCM = product of highest powers = 2³ × 3² = 8 × 9 = 72. 36 is wrong because 36 = 2² × 3², which doesn't include the factor 2³ from 24. 48 is wrong because 48 = 2⁴ × 3, which takes an unnecessarily high power of 2 but low power of 3. 96 is wrong because 96 = 2⁵ × 3, which far exceeds the required powers."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The product of any two irrational numbers is always irrational.\n(ii) The sum of a rational and an irrational number is always irrational.\n(iii) The square of every even number is divisible by 4.\n(iv) Every prime number greater than 2 is odd.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(ii) is correct — adding a rational to an irrational always gives an irrational (proven by contradiction). (iii) is correct — if n is even, n = 2k, so n² = 4k², which is divisible by 4. (iv) is correct — 2 is the only even prime; all other primes must be odd. (i) is wrong because the product of two irrationals CAN be rational — e.g., √2 × √2 = 2, which is rational."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Convert the decimal 0.375 into a fraction in its simplest form:",
+      "options": [
+        "5/12",
+        "3/7",
+        "7/20",
+        "3/8"
+      ],
+      "correctAnswer": "3/8",
+      "explanation": "0.375 = 375/1000. Simplifying: 375/1000 ÷ 125/125 = 3/8. 5/12 is wrong because 5/12 = 0.4166..., not 0.375. 3/7 is wrong because 3/7 = 0.42857..., not 0.375. 7/20 is wrong because 7/20 = 0.35, not 0.375."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The number 0.9999... (repeating) is exactly equal to 1.\nReason (R): A repeating decimal can be expressed as a fraction, and 0.9999... = 9/9 = 1.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — mathematically, 0.999... is exactly equal to 1 (proven by multiple methods including limits and algebraic manipulation). (R) is correct — letting x = 0.999..., then 10x = 9.999..., so 9x = 9, x = 1; equivalently 0.999... = 9/9 = 1. (R) directly explains (A) by showing the algebraic conversion. Option 2 is wrong because (R) explicitly demonstrates why (A) is true. Option 3 is wrong because (R) is mathematically valid. Option 4 is wrong because (A) is mathematically correct."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "What is the value of 2.5 × 0.4 × 1.6?",
+      "options": [
+        "1.4",
+        "1.6",
+        "1.8",
+        "1.5"
+      ],
+      "correctAnswer": "1.6",
+      "explanation": "2.5 × 0.4 = 1.0; then 1.0 × 1.6 = 1.6. 1.4 is wrong because it results from an arithmetic error in multiplication (e.g., 2.5 × 0.4 = 0.9 then × 1.6). 1.5 is wrong because it likely comes from confusing 2.5 × 0.6 = 1.5. 1.8 is wrong because it results from 2.5 × 0.4 = 1.0 then mistakenly multiplying by 1.8 instead of 1.6."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Simplify: (2³ × 3² × 5) ÷ (2² × 3 × 5)",
+      "options": [
+        "6",
+        "4",
+        "12",
+        "8"
+      ],
+      "correctAnswer": "6",
+      "explanation": "Dividing: 2^(3−2) × 3^(2−1) × 5^(1−1) = 2¹ × 3¹ × 5⁰ = 2 × 3 × 1 = 6. 4 is wrong because 4 = 2², which would result from not cancelling the factor of 3 properly. 8 is wrong because 8 = 2³, resulting from not cancelling any power of 2. 12 is wrong because 12 = 2² × 3, resulting from subtracting exponents of 2 incorrectly."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "Which of the following are divisibility rules correctly stated?\n\n(i) A number is divisible by 3 if the sum of its digits is divisible by 3.\n(ii) A number is divisible by 4 if its last two digits form a number divisible by 4.\n(iii) A number is divisible by 6 if it is divisible by both 2 and 3.\n(iv) A number is divisible by 8 if the sum of its digits is divisible by 8.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — divisibility by 3 is checked by digit sum (e.g., 123: 1+2+3=6, divisible by 3). (ii) is correct — divisibility by 4 requires the last two digits to form a number divisible by 4 (e.g., 316: 16÷4=4). (iii) is correct — 6 = 2×3, so divisibility by both 2 and 3 ensures divisibility by 6. (iv) is wrong — divisibility by 8 requires the last THREE digits to form a number divisible by 8, NOT the digit sum (e.g., 1000: last three digits 000, divisible by 8)."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Match the following operations with their results:\n\nColumn I:\n(a) 5/6 ÷ 2/3\n(b) 7/8 × 4/7\n(c) 3/5 + 4/5\n(d) 11/12 − 3/4\n\nColumn II:\n(i) 1/2\n(ii) 5/4\n(iii) 7/5\n(iv) 1/6\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) 5/6 ÷ 2/3 = 5/6 × 3/2 = 15/12 = 5/4 (ii). (b) 7/8 × 4/7 = 28/56 = 1/2 (i). (c) 3/5 + 4/5 = 7/5 (iii). (d) 11/12 − 3/4 = 11/12 − 9/12 = 2/12 = 1/6 (iv). Option 2 is wrong because it assigns 7/5 to (a) instead of 5/4. Option 3 is wrong because it swaps (b) and (d). Option 4 is wrong because it assigns 1/6 to (a) and 5/4 to (d)."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "The decimal representation of the fraction 7/16 is:",
+      "options": [
+        "0.4375",
+        "0.4125",
+        "0.4625",
+        "0.4250"
+      ],
+      "correctAnswer": "0.4375",
+      "explanation": "7/16 = 7 ÷ 16 = 0.4375. Verification: 0.4375 × 16 = 7. 0.4625 is wrong because 0.4625 × 16 = 7.4. 0.4125 is wrong because 0.4125 × 16 = 6.6. 0.4250 is wrong because 0.4250 × 16 = 6.8."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Consider the following statements about the number 144:\n\n(i) It is a perfect square (12² = 144).\n(ii) It is divisible by both 8 and 9.\n(iii) The sum of its digits is 9.\n(iv) It has exactly 12 divisors.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 12² = 144, so it is a perfect square. (ii) is correct — 144 ÷ 8 = 18 (divisible) and 144 ÷ 9 = 16 (divisible). (iii) is correct — 1 + 4 + 4 = 9. (iv) is wrong — 144 = 2⁴ × 3², so number of divisors = (4+1)(2+1) = 15, NOT 12."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "If 1/3 of a number exceeds 1/5 of the same number by 8, then the number is:",
+      "options": [
+        "60",
+        "50",
+        "65",
+        "55"
+      ],
+      "correctAnswer": "60",
+      "explanation": "Let the number be x. Then x/3 − x/5 = 8. Taking LCM: (5x − 3x)/15 = 8, so 2x/15 = 8, hence x = 60. 50 is wrong because 50/3 − 50/5 = 16.67 − 10 = 6.67 ≠ 8. 55 is wrong because 55/3 − 55/5 = 18.33 − 11 = 7.33 ≠ 8. 65 is wrong because 65/3 − 65/5 = 21.67 − 13 = 8.67 ≠ 8."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The number 2 is the only even prime number.\nReason (R): A prime number has exactly two factors — 1 and itself — and every even number greater than 2 is divisible by 2, giving it more than two factors.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 2 is prime (factors: 1 and 2 only) and is even; no other even number is prime. (R) is correct — it correctly states the definition of prime and explains why even numbers > 2 cannot be prime (they have at least 1, 2, and themselves as factors). (R) explains (A) because it provides the logical reasoning for why 2 is unique. Option 2 is wrong because (R) directly explains why (A) is true. Option 3 is wrong because (R) is logically valid. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "Simplify: 0.6 × 0.6 + 0.4 × 0.4 + 2 × 0.6 × 0.4",
+      "options": [
+        "1.20",
+        "1.00",
+        "0.88",
+        "0.76"
+      ],
+      "correctAnswer": "1.00",
+      "explanation": "This expression is of the form a² + b² + 2ab = (a+b)² where a = 0.6, b = 0.4. So (0.6 + 0.4)² = 1² = 1.00. 0.76 is wrong because it likely results from computing 0.36 + 0.16 + 0.24 = 0.76 (using 0.6×0.4 instead of 2×0.6×0.4). 0.88 is wrong because it results from 0.36 + 0.16 + 0.36 (doubling only one squared term). 1.20 is wrong because it results from incorrectly adding 0.36 + 0.16 + 0.48 + 0.20."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "The largest 4-digit number that is exactly divisible by 12, 15, and 20 is:",
+      "options": [
+        "9840",
+        "9940",
+        "9960",
+        "9900"
+      ],
+      "correctAnswer": "9960",
+      "explanation": "LCM of 12, 15, 20: 12=2²×3, 15=3×5, 20=2²×5. LCM = 2²×3×5 = 60. Largest 4-digit number = 9999. 9999 ÷ 60 = 166.65, so 166 × 60 = 9960. 9900 is wrong because 9900 ÷ 60 = 165, which is a valid multiple but not the largest. 9840 is wrong because 9840 ÷ 60 = 164, a smaller multiple. 9940 is wrong because 9940 ÷ 60 = 165.67, which is not a whole number (9940 is not divisible by 60)."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Which of the following are true about the decimal number 0.123456789101112...?\n\n(i) It is formed by writing consecutive natural numbers after the decimal point.\n(ii) It is a rational number.\n(iii) It is non-terminating.\n(iv) It is non-recurring (non-repeating).\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — this is the Champernowne constant, formed by concatenating 1, 2, 3, 4... after the decimal. (iii) is correct — since natural numbers are infinite, the decimal never terminates. (iv) is correct — the digits form no repeating period. (ii) is wrong because a non-terminating, non-recurring decimal is irrational — this number (Champernowne constant) is proven to be irrational."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "A fruit seller has 420 apples, 630 oranges, and 840 bananas. He wants to pack them in boxes such that each box has the same number of fruits, no box has mixed fruits, and no fruit is left over. What is the maximum number of fruits per box?",
+      "options": [
+        "210",
+        "140",
+        "105",
+        "70"
+      ],
+      "correctAnswer": "210",
+      "explanation": "We need the HCF of 420, 630, and 840. 420 = 2² × 3 × 5 × 7, 630 = 2 × 3² × 5 × 7, 840 = 2³ × 3 × 5 × 7. HCF = 2¹ × 3¹ × 5¹ × 7¹ = 210. 105 is wrong because 105 = 3×5×7, missing the factor 2. 140 is wrong because 140 = 2²×5×7, missing the factor 3, and 630 ÷ 140 = 4.5 (not exact). 70 is wrong because 70 = 2×5×7, which divides all three but is not the greatest common factor."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "The simplified value of (0.8)³ + (0.2)³ ÷ [(0.8)² − 0.8 × 0.2 + (0.2)²] is:",
+      "options": [
+        "0.8",
+        "0.6",
+        "1.2",
+        "1.0"
+      ],
+      "correctAnswer": "1.0",
+      "explanation": "Using the identity a³ + b³ = (a+b)(a²−ab+b²), we get (a³+b³)/(a²−ab+b²) = a+b. Here a=0.8, b=0.2, so the answer is 0.8+0.2 = 1.0. 0.6 is wrong because it likely results from the incorrect subtraction 0.8−0.2. 0.8 is wrong because it's just the value of a without applying the identity. 1.2 is wrong because it would result from a+b+0.2 or an addition error."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Consider the following statements about fractions:\n\n(i) 3/7 is a proper fraction because the numerator is less than the denominator.\n(ii) 9/4 is an improper fraction because the numerator exceeds the denominator.\n(iii) 2¾ is a mixed fraction equivalent to 11/4.\n(iv) A unit fraction always has numerator equal to 0.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — a proper fraction has numerator < denominator (3 < 7). (ii) is correct — an improper fraction has numerator ≥ denominator (9 > 4). (iii) is correct — 2¾ = (2×4+3)/4 = 11/4. (iv) is wrong because a unit fraction has numerator equal to 1 (not 0), such as 1/2, 1/3, 1/4, etc."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "What is the remainder when 2^10 is divided by 7?",
+      "options": [
+        "1",
+        "4",
+        "6",
+        "2"
+      ],
+      "correctAnswer": "2",
+      "explanation": "2¹=2, 2²=4, 2³=8≡1(mod 7). The powers of 2 repeat with cycle 3 mod 7: 2,4,1,2,4,1... Since 10 = 3×3+1, 2^10 ≡ 2^1 ≡ 2 (mod 7). 1 is wrong because remainder 1 occurs at powers 3,6,9 (multiples of 3). 4 is wrong because remainder 4 occurs at powers 2,5,8 (≡2 mod 3). 6 is wrong because 6 never appears in the cycle of 2^n mod 7."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The fraction 7/12 is greater than 5/9.\nReason (R): To compare fractions with different denominators, we cross-multiply: if a/b > c/d, then a×d > b×c.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 7/12 = 0.5833... and 5/9 = 0.5555..., so 7/12 > 5/9. Cross-check: 7×9=63 > 12×5=60. (R) is correct — cross-multiplication is a valid method for comparing fractions (for positive denominators). (R) explains (A) because applying cross-multiplication (7×9=63 vs 12×5=60) directly proves 7/12 > 5/9. Option 2 is wrong because (R) is the method used to verify (A). Option 3 is wrong because (R) is mathematically valid. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "Match the following expressions with their simplified values:\n\nColumn I:\n(a) 2/3 of 3/4\n(b) 5/6 ÷ 5/12\n(c) (1/2 + 1/3) × 6\n(d) 4/5 − 3/10\n\nColumn II:\n(i) 1/2\n(ii) 5\n(iii) 2\n(iv) 1/2\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) 2/3 × 3/4 = 6/12 = 1/2 (i). (b) 5/6 ÷ 5/12 = 5/6 × 12/5 = 60/30 = 2 (iii). (c) (1/2+1/3)×6 = (3/6+2/6)×6 = 5/6×6 = 5 (ii). (d) 4/5−3/10 = 8/10−3/10 = 5/10 = 1/2 (iv). Option 2 is wrong because it assigns 2 to (a) and 1/2 to (b). Option 3 is wrong because it assigns 5 to (b) and 2 to (c). Option 4 is wrong because it reverses all assignments."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "If the product of two numbers is 1680 and their HCF is 12, then their LCM is:",
+      "options": [
+        "130",
+        "150",
+        "140",
+        "120"
+      ],
+      "correctAnswer": "140",
+      "explanation": "We know that HCF × LCM = Product of two numbers. So LCM = 1680/12 = 140. 120 is wrong because 120 × 12 = 1440 ≠ 1680. 130 is wrong because 130 × 12 = 1560 ≠ 1680. 150 is wrong because 150 × 12 = 1800 ≠ 1680."
+    },
+    {
+      "id": "31",
+      "subject": "C",
+      "questionText": "The recurring decimal 0.272727... expressed as a fraction in simplest form is:",
+      "options": [
+        "27/99",
+        "3/11",
+        "27/100",
+        "3/10"
+      ],
+      "correctAnswer": "3/11",
+      "explanation": "Let x = 0.272727... Then 100x = 27.2727... So 99x = 27, giving x = 27/99 = 3/11. 27/100 is wrong because 27/100 = 0.27 (terminating), not 0.272727... (recurring). 27/99 is wrong as a final answer because although 27/99 equals 0.272727..., the question asks for simplest form, and 27/99 simplifies to 3/11. 3/10 is wrong because 3/10 = 0.3, not 0.2727..."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "Which of the following are correctly classified as composite numbers?\n\n(i) 51\n(ii) 67\n(iii) 87\n(iv) 91\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — 51 = 3 × 17, hence composite. (iii) is correct — 87 = 3 × 29, hence composite. (iv) is correct — 91 = 7 × 13, hence composite. (ii) is wrong because 67 is a prime number (not divisible by 2, 3, 5, 7, or any prime up to √67 ≈ 8.2)."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "Simplify: 5.6 × 5.6 − 2.6 × 2.6",
+      "options": [
+        "25.60",
+        "24.00",
+        "24.60",
+        "22.40"
+      ],
+      "correctAnswer": "24.60",
+      "explanation": "Using a²−b² = (a+b)(a−b): (5.6+2.6)(5.6−2.6) = 8.2 × 3.0 = 24.60. 22.40 is wrong because it likely comes from (5.6−2.6)² = 3² = 9 or another error in calculation. 24.00 is wrong because 24.00 = 8×3, possibly from rounding 8.2 to 8. 25.60 is wrong because 25.60 may result from 8×3.2 (using wrong subtraction 5.6−2.4=3.2)."
+    },
+    {
+      "id": "34",
+      "subject": "C",
+      "questionText": "Consider the following statements about the number 0:\n\n(i) Zero is an even number.\n(ii) Zero is a positive integer.\n(iii) Zero is a whole number.\n(iv) Zero is the additive identity.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — 0 is divisible by 2 (0÷2=0), so it is even. (iii) is correct — whole numbers include {0, 1, 2, 3...}. (iv) is correct — for any number a, a+0=a, making 0 the additive identity. (ii) is wrong because 0 is neither positive nor negative — it lies between positive and negative integers."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): √(0.0004) = 0.02.\nReason (R): The square root of a decimal can be found by halving the number of decimal places in the original number.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 0.02² = 0.0004, so √0.0004 = 0.02. (R) is correct — for perfect square decimals, √ halves the decimal places (4 decimal places → 2 decimal places). (R) explains (A) because 0.0004 has 4 decimal places, and its square root 0.02 has 2 (= 4/2) decimal places, which is the principle stated in (R). Option 2 is wrong because (R) is the exact method used to verify (A). Option 3 is wrong because (R) is mathematically valid for perfect-square decimals. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "A number when divided by 357 gives a remainder of 39. What will be the remainder when the same number is divided by 17?",
+      "options": [
+        "5",
+        "7",
+        "0",
+        "3"
+      ],
+      "correctAnswer": "5",
+      "explanation": "The number = 357k + 39 for some integer k. Since 357 = 17 × 21, we have: number = 17×21k + 39. Now 39 = 17×2 + 5. So number = 17(21k+2) + 5. The remainder when divided by 17 is 5. 0 is wrong because that would require 39 to be divisible by 17. 3 is wrong because 39÷17 gives remainder 5, not 3. 7 is wrong because it may result from confusing 39÷17 with 39−34=5, not 7."
+    },
+    {
+      "id": "37",
+      "subject": "C",
+      "questionText": "Match the following decimal forms with their fraction equivalents:\n\nColumn I:\n(a) 0.125\n(b) 0.666...\n(c) 0.16̄ (0.1666...)\n(d) 0.875\n\nColumn II:\n(i) 7/8\n(ii) 1/6\n(iii) 2/3\n(iv) 1/8\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "0.125 = 125/1000 = 1/8 (iv). 0.666... = 2/3 (iii). 0.1666... = 1/6 (ii). 0.875 = 875/1000 = 7/8 (i). Option 2 is wrong because it swaps 2/3 and 1/6. Option 3 is wrong because it assigns 7/8 to 0.125 and 1/8 to 0.875. Option 4 is wrong because it swaps (c) and (d)."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "The sum of all prime numbers between 10 and 30 is:",
+      "options": [
+        "120",
+        "100",
+        "102",
+        "112"
+      ],
+      "correctAnswer": "112",
+      "explanation": "Primes between 10 and 30: 11, 13, 17, 19, 23, 29. Sum = 11+13+17+19+23+29 = 112. 100 is wrong because it omits one prime (e.g., missing 29 and adding incorrectly). 102 is wrong because it results from a miscalculation such as including 10 or excluding a prime. 120 is wrong because it incorrectly includes non-primes like 21 or 27 in the sum."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "In a school, there are 180 students. If 2/5 of them play cricket, 1/3 play football, and the rest play basketball, how many students play basketball?",
+      "options": [
+        "44",
+        "50",
+        "46",
+        "48"
+      ],
+      "correctAnswer": "48",
+      "explanation": "Cricket players = 2/5 × 180 = 72. Football players = 1/3 × 180 = 60. Basketball players = 180 − 72 − 60 = 48. 44 is wrong because it results from subtracting incorrectly (180−76−60=44). 46 is wrong because it comes from an arithmetic error in subtraction. 50 is wrong because it likely results from calculating 1/3 of 180 as 56 instead of 60."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "The value of 1 + 1/(1 + 1/(1 + 1/2)) is:",
+      "options": [
+        "7/4",
+        "7/5",
+        "5/3",
+        "8/5"
+      ],
+      "correctAnswer": "8/5",
+      "explanation": "Working from innermost bracket: 1 + 1/2 = 3/2. Then 1 + 1/(3/2) = 1 + 2/3 = 5/3. Then 1 + 1/(5/3) = 1 + 3/5 = 8/5. 5/3 is wrong because it only evaluates the middle level, missing the outermost addition. 7/5 is wrong because it results from an error like 1 + 2/5 = 7/5. 7/4 is wrong because it results from a calculation error in the nested fractions."
+    },
+    {
+      "id": "41",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The product of two co-prime numbers equals their LCM.\n(ii) If HCF of two numbers is 1, the numbers are called co-prime.\n(iii) Two consecutive integers are always co-prime.\n(iv) Two even numbers can be co-prime.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — for co-prime numbers, HCF = 1, so LCM = product/HCF = product/1 = product. (ii) is correct — co-prime numbers are defined as numbers whose HCF is 1. (iii) is correct — consecutive integers n and n+1 always have HCF = 1. (iv) is wrong because any two even numbers share 2 as a common factor, so their HCF is at least 2, meaning they cannot be co-prime."
+    },
+    {
+      "id": "42",
+      "subject": "C",
+      "questionText": "The value of the expression (3.75 − 2.25)/(3.75 + 2.25) is equal to the fraction __________.",
+      "options": [
+        "1/4",
+        "3/4",
+        "1/3",
+        "2/3"
+      ],
+      "correctAnswer": "1/4",
+      "explanation": "(3.75 − 2.25)/(3.75 + 2.25) = 1.50/6.00 = 1.5/6 = 1/4. 1/3 is wrong because 1/3 = 0.333..., but 1.5÷6 = 0.25. 3/4 is wrong because 3/4 = 0.75, far from 0.25. 2/3 is wrong because 2/3 = 0.666..., not 0.25."
+    },
+    {
+      "id": "43",
+      "subject": "C",
+      "questionText": "Which of the following are examples of twin primes?\n\n(i) (11, 13)\n(ii) (15, 17)\n(iii) (17, 19)\n(iv) (29, 31)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Twin primes are pairs of primes that differ by 2. (i) is correct — 11 and 13 are both prime and differ by 2. (iii) is correct — 17 and 19 are both prime and differ by 2. (iv) is correct — 29 and 31 are both prime and differ by 2. (ii) is wrong because 15 = 3×5 is NOT a prime number, so (15, 17) cannot be a twin prime pair."
+    },
+    {
+      "id": "44",
+      "subject": "C",
+      "questionText": "If 3/4 of a tank can be filled in 12 minutes, how many minutes will it take to fill the remaining 1/4?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correctAnswer": "4",
+      "explanation": "If 3/4 of the tank fills in 12 minutes, the rate = (3/4)/12 = 1/16 tank per minute. Time for 1/4 = (1/4)/(1/16) = (1/4)×16 = 4 minutes. 3 is wrong because 3 minutes would mean the rate is 1/12, which contradicts the given information. 5 is wrong because it results from dividing 12 by 2.4 or another incorrect approach. 6 is wrong because 6 = 12/2, a common error of simply halving the time."
+    },
+    {
+      "id": "45",
+      "subject": "C",
+      "questionText": "Consider the following statements about the number 1001:\n\n(i) It is divisible by 7.\n(ii) It is divisible by 11.\n(iii) It is divisible by 13.\n(iv) It is a prime number.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "1001 = 7 × 11 × 13. (i) is correct — 1001 ÷ 7 = 143. (ii) is correct — 1001 ÷ 11 = 91. (iii) is correct — 1001 ÷ 13 = 77. (iv) is wrong because 1001 = 7×11×13, so it is composite, not prime."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "A student's marks in five subjects are recorded as follows: 78.5, 82.3, 91.7, 64.8, and 73.2. What is the total of the marks obtained?",
+      "options": [
+        "389.5",
+        "390.5",
+        "391.5",
+        "388.5"
+      ],
+      "correctAnswer": "390.5",
+      "explanation": "78.5 + 82.3 = 160.8; 160.8 + 91.7 = 252.5; 252.5 + 64.8 = 317.3; 317.3 + 73.2 = 390.5. 388.5 is wrong because it results from an error like using 62.8 instead of 64.8. 389.5 is wrong because it comes from a carry error during addition. 391.5 is wrong because it results from using 74.2 instead of 73.2."
+    },
+    {
+      "id": "47",
+      "subject": "C",
+      "questionText": "Match the following numbers with the property that uniquely describes them:\n\nColumn I:\n(a) 28\n(b) 37\n(c) 64\n(d) 121\n\nColumn II:\n(i) Perfect square (and a perfect cube)\n(ii) Perfect number (sum of proper divisors equals itself)\n(iii) Prime number\n(iv) Perfect square (not a perfect cube)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "28 is a perfect number (1+2+4+7+14=28) (ii). 37 is prime (iii). 64 = 8² = 4³, both a perfect square and perfect cube (i). 121 = 11², a perfect square but not a perfect cube (iv). Option 2 is wrong because it assigns 'perfect square not cube' to 64, but 64=4³. Option 3 is wrong because it swaps 28 and 37. Option 4 is wrong because it assigns 'prime' to 121=11²."
+    },
+    {
+      "id": "48",
+      "subject": "C",
+      "questionText": "The value of (999)² − (998)² is:",
+      "options": [
+        "2001",
+        "1997",
+        "1995",
+        "1999"
+      ],
+      "correctAnswer": "1997",
+      "explanation": "Using a²−b² = (a+b)(a−b): (999+998)(999−998) = 1997 × 1 = 1997. 1995 is wrong because that would require (a+b) = 1995, meaning a+b = 997+998 (incorrect values). 1999 is wrong because that would be (1000+999)(1000−999) = 999²−998² is not the same as 1000²−999². 2001 is wrong because 2001 = 1000+1001 = (1001²−1000²), a different pair."
+    },
+    {
+      "id": "49",
+      "subject": "C",
+      "questionText": "What is the least number which when divided by 12, 15, and 20 leaves remainder 5 in each case?",
+      "options": [
+        "60",
+        "75",
+        "65",
+        "55"
+      ],
+      "correctAnswer": "65",
+      "explanation": "The least number leaving the same remainder when divided by 12, 15, and 20 = LCM(12,15,20) + remainder. LCM: 12=2²×3, 15=3×5, 20=2²×5. LCM = 2²×3×5 = 60. Required number = 60 + 5 = 65. 55 is wrong because 55÷12=4R7 (not 5). 60 is wrong because 60÷12=5R0 (not 5). 75 is wrong because 75÷12=6R3 (not 5)."
+    },
+    {
+      "id": "50",
+      "subject": "C",
+      "questionText": "The difference between the largest and smallest 3-digit numbers, each of which is formed using the digits 2, 5, and 8 (each digit used once), is:",
+      "options": [
+        "495",
+        "396",
+        "594",
+        "693"
+      ],
+      "correctAnswer": "594",
+      "explanation": "Largest 3-digit number using 2, 5, 8 = 852. Smallest = 258. Difference = 852 − 258 = 594. 396 is wrong because 396 = 852 − 456 (using incorrect smallest number). 495 is wrong because 495 = 852 − 357 (using wrong digits). 693 is wrong because 693 would require a different set of digit arrangements."
+    }
+  ]
+}

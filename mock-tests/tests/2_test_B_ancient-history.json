@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "Ancient Indian History",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Indus Valley Civilization is also known as the Harappan Civilization because:",
+      "options": [
+        "Harappa was the first site to be excavated",
+        "Harappa was the capital of the civilization",
+        "Harappa was the largest site discovered",
+        "Harappa had the most advanced drainage system"
+      ],
+      "correctAnswer": "Harappa was the first site to be excavated",
+      "explanation": "The civilization is named Harappan because Harappa was the first site to be systematically excavated (by Daya Ram Sahni in 1921). 'Largest site' is wrong because Rakhigarhi is now considered the largest Harappan site. 'Capital of the civilization' is wrong because there is no evidence of a single capital city. 'Most advanced drainage system' is wrong because Mohenjo-daro is famous for its superior drainage system, not Harappa."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Vedic Period:\n\n(i) The Rigveda is the oldest of the four Vedas.\n(ii) The Early Vedic society was primarily urban and trade-based.\n(iii) The Later Vedic period saw the rise of large kingdoms called Mahajanapadas.\n(iv) The Rigvedic people worshipped nature gods like Indra, Agni, and Varuna.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "(i) is correct — the Rigveda is the oldest Veda, composed roughly between 1500–1200 BCE. (iv) is correct — Rigvedic people worshipped nature deities like Indra (rain/thunder), Agni (fire), and Varuna (cosmic order/water). (ii) is wrong because Early Vedic society was primarily pastoral and rural, not urban and trade-based. (iii) is wrong because Mahajanapadas arose after the Vedic period (around 6th century BCE), not during the Later Vedic period itself."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Great Bath, a remarkable structure of the Indus Valley Civilization, was discovered at:",
+      "options": [
+        "Lothal",
+        "Harappa",
+        "Mohenjo-daro",
+        "Kalibangan"
+      ],
+      "correctAnswer": "Mohenjo-daro",
+      "explanation": "The Great Bath was discovered at Mohenjo-daro (in present-day Sindh, Pakistan) and is believed to have been used for ritual bathing. Harappa is wrong because Harappa is known for its granaries and working platforms, not the Great Bath. Lothal is wrong because Lothal is famous for its dockyard. Kalibangan is wrong because Kalibangan is known for its fire altars and ploughed field."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indus Valley people had a well-planned drainage system.\nReason (R): The cities of the Indus Valley Civilization were built on a grid pattern with streets cutting at right angles.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — the Indus Valley civilization had an advanced covered drainage system running alongside streets. (R) is correct — the cities did follow a grid pattern with streets intersecting at right angles. However, (R) is NOT the correct explanation of (A) because the grid pattern of streets explains urban planning, but the drainage system was a separate engineering achievement involving covered drains, soak pits, and manholes — its excellence wasn't caused by the grid layout. Option 1 is wrong because the grid pattern didn't cause the drainage system. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Which of the following are features of the Mauryan administration under Ashoka?\n\n(i) Appointment of Dharma Mahamatras\n(ii) Rock edicts for communicating with the public\n(iii) Establishment of a democratic republic\n(iv) Promotion of religious tolerance through edicts\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Ashoka appointed Dharma Mahamatras (officers of righteousness) to propagate Dhamma. (ii) is correct — Ashoka used rock and pillar edicts to communicate moral and administrative messages. (iv) is correct — Ashoka's edicts promoted tolerance toward all religious sects. (iii) is wrong because the Mauryan Empire was a centralized monarchy, not a democratic republic — Ashoka ruled as an emperor with absolute authority."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Match the following ancient Indian sites with their notable discoveries:\n\nColumn I:\n(a) Lothal\n(b) Kalibangan\n(c) Dholavira\n(d) Banawali\n\nColumn II:\n(i) Ploughed agricultural field\n(ii) Signboard with Indus script characters\n(iii) Dockyard for maritime trade\n(iv) Terracotta model of a plough\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Lothal (Gujarat) is famous for its dockyard (iii). Kalibangan (Rajasthan) revealed the earliest ploughed field (i). Dholavira (Gujarat) had a unique signboard with large Indus script characters (ii). Banawali (Haryana) yielded a terracotta plough model (iv). Option 2 is wrong because it assigns the ploughed field to Banawali instead of Kalibangan. Option 3 is wrong because it assigns the signboard to Lothal. Option 4 is wrong because it reverses Lothal and Kalibangan."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "The founder of the Mauryan Empire was:",
+      "options": [
+        "Bindusara",
+        "Ashoka",
+        "Chanakya",
+        "Chandragupta Maurya"
+      ],
+      "correctAnswer": "Chandragupta Maurya",
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire around 321 BCE after overthrowing the Nanda dynasty with the guidance of Chanakya. Ashoka is wrong because he was the third Mauryan emperor (grandson of Chandragupta). Bindusara is wrong because he was the second Mauryan emperor (son of Chandragupta). Chanakya is wrong because he was the strategist/advisor who helped Chandragupta, not the ruler himself."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The ancient university of Nalanda was located in present-day:",
+      "options": [
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Odisha",
+        "Bihar"
+      ],
+      "correctAnswer": "Bihar",
+      "explanation": "Nalanda University was located in present-day Bihar (Nalanda district), and flourished from the 5th to 12th century CE. Uttar Pradesh is wrong because although close geographically, Nalanda falls within Bihar's boundaries. Madhya Pradesh is wrong because it is in central India, far from Nalanda's location. Odisha is wrong because it is in eastern coastal India, not where Nalanda was situated."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Gupta Period:\n\n(i) It is often called the 'Golden Age' of Indian history.\n(ii) Aryabhata, the famous mathematician and astronomer, lived during this period.\n(iii) The Gupta rulers were followers of Jainism exclusively.\n(iv) Kalidasa, the great Sanskrit poet, flourished during this era.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the Gupta period (320–550 CE) is widely regarded as India's Golden Age due to achievements in science, art, literature, and philosophy. (ii) is correct — Aryabhata (476 CE) lived during the Gupta period. (iv) is correct — Kalidasa, author of Shakuntala and Meghaduta, flourished during Chandragupta II's reign. (iii) is wrong because Gupta rulers were primarily Vaishnavites (followers of Vishnu) though they practiced religious tolerance — they were NOT exclusively Jain."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "The Arthashastra, an ancient Indian treatise on statecraft and economics, was written by:",
+      "options": [
+        "Kautilya",
+        "Manu",
+        "Patanjali",
+        "Panini"
+      ],
+      "correctAnswer": "Kautilya",
+      "explanation": "The Arthashastra was written by Kautilya (also known as Chanakya or Vishnugupta), the chief advisor to Chandragupta Maurya. Manu is wrong because Manu is credited with the Manusmriti (a dharmashastra on social laws). Patanjali is wrong because Patanjali wrote the Yoga Sutras and the Mahabhashya (a commentary on grammar). Panini is wrong because Panini authored the Ashtadhyayi, a treatise on Sanskrit grammar."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Buddhism and Jainism emerged as reform movements in the 6th century BCE.\nReason (R): The rigid caste system and dominance of Brahmanical rituals created widespread social discontent.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — both Buddhism (founded by Gautama Buddha) and Jainism (revived by Mahavira) emerged in the 6th century BCE as alternatives to orthodox Vedic religion. (R) is correct — the rigid varna system, expensive Brahmanical rituals, and animal sacrifices created social discontent, especially among Kshatriyas and Vaishyas. (R) explains (A) because this discontent directly motivated the rise of these reform movements. Option 2 is wrong because (R) directly explains the cause of (A). Option 3 is wrong because (R) is historically accurate. Option 4 is wrong because (A) is historically accurate."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The Ashoka Pillar at Sarnath, which features four lions, is significant because:",
+      "options": [
+        "It contains the longest Ashokan inscription",
+        "It is the tallest stone pillar in ancient India",
+        "It marks the birthplace of Gautama Buddha",
+        "Its capital has been adopted as the National Emblem of India"
+      ],
+      "correctAnswer": "Its capital has been adopted as the National Emblem of India",
+      "explanation": "The Lion Capital of Ashoka at Sarnath, featuring four Asiatic lions standing back-to-back, was adopted as the National Emblem of India in 1950. 'Tallest pillar' is wrong because the Ashoka pillar at Lauriya Nandangarh is taller. 'Birthplace of Buddha' is wrong because Buddha was born at Lumbini, not Sarnath — Sarnath is where he gave his first sermon. 'Longest inscription' is wrong because the longest Ashokan inscriptions are found on rock edicts, not on this pillar."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Which of the following are the Four Noble Truths taught by Gautama Buddha?\n\n(i) Life is full of suffering (Dukkha)\n(ii) Suffering is caused by desire and attachment (Samudaya)\n(iii) Suffering can be overcome by achieving moksha through rituals\n(iv) The path to end suffering is the Eightfold Path (Magga)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the First Noble Truth states that life involves suffering (Dukkha). (ii) is correct — the Second Noble Truth identifies desire/craving (Tanha) as the cause of suffering. (iv) is correct — the Fourth Noble Truth prescribes the Noble Eightfold Path as the way to end suffering. (iii) is wrong because Buddha explicitly rejected rituals as a means to liberation — he taught that suffering ends through the cessation of desire (Nirodha, the Third Noble Truth), not through rituals."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "The Iron Pillar at Mehrauli, Delhi, is attributed to the reign of:",
+      "options": [
+        "Chandragupta II",
+        "Ashoka",
+        "Samudragupta",
+        "Harshavardhana"
+      ],
+      "correctAnswer": "Chandragupta II",
+      "explanation": "The Iron Pillar at Mehrauli (dating to ~4th century CE) bears an inscription mentioning 'Chandra', widely identified as Chandragupta II (Vikramaditya) of the Gupta dynasty. Ashoka is wrong because Ashoka's pillars are stone pillars with edicts, dating to the 3rd century BCE. Samudragupta is wrong because though he was a Gupta ruler, the inscription's reference to 'Chandra' points to Chandragupta II. Harshavardhana is wrong because he ruled in the 7th century CE, well after the pillar was erected."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Match the following ancient Indian kingdoms/dynasties with their capitals:\n\nColumn I:\n(a) Magadha (under Bimbisara)\n(b) Chola Dynasty\n(c) Pallava Dynasty\n(d) Satavahana Dynasty\n\nColumn II:\n(i) Kanchipuram\n(ii) Rajgriha (Rajagaha)\n(iii) Thanjavur (Tanjore)\n(iv) Pratishthana (Paithan)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Magadha under Bimbisara had its capital at Rajgriha (ii). The Chola dynasty's capital was Thanjavur (iii). The Pallava dynasty ruled from Kanchipuram (i). The Satavahana dynasty's capital was Pratishthana/Paithan (iv). Option 2 is wrong because it swaps Chola and Pallava capitals. Option 3 is wrong because it assigns Thanjavur to Magadha. Option 4 is wrong because it swaps Pallava and Satavahana capitals."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "The ancient Indian physician Charaka is known for his contribution to:",
+      "options": [
+        "Astronomy",
+        "Surgery",
+        "Mathematics",
+        "Medicine (Internal)"
+      ],
+      "correctAnswer": "Medicine (Internal)",
+      "explanation": "Charaka authored the Charaka Samhita, a foundational text of Ayurvedic internal medicine dealing with diagnosis and treatment of diseases. Surgery is wrong because Sushruta (author of Sushruta Samhita) is the ancient Indian authority on surgery. Astronomy is wrong because Aryabhata and Varahamihira are associated with astronomy. Mathematics is wrong because Brahmagupta and Aryabhata are associated with mathematics."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The concept of 'Ahimsa' (non-violence) was most strongly emphasized as a central doctrine by:",
+      "options": [
+        "Jainism",
+        "Vedic Brahmanism",
+        "Ajivika sect",
+        "Charvaka philosophy"
+      ],
+      "correctAnswer": "Jainism",
+      "explanation": "Jainism places Ahimsa as its supreme ethical principle — it is the first and foremost of the five Jain vows (Mahavratas). Vedic Brahmanism is wrong because Vedic religion involved animal sacrifices (yajnas), making non-violence not its central principle. Ajivika sect is wrong because the Ajivikas emphasized fatalism (niyati), not non-violence specifically. Charvaka philosophy is wrong because Charvaka was a materialist school that rejected spiritual and ethical doctrines entirely."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Sangam Age:\n\n(i) The Sangam literature was composed in Tamil.\n(ii) The three major Sangam-era kingdoms were Chera, Chola, and Pandya.\n(iii) The Sangam Age dates to approximately the 3rd century BCE to 3rd century CE.\n(iv) Madurai was the capital of the Chola kingdom during this period.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Sangam literature is a body of classical Tamil poetry and prose. (ii) is correct — the three ruling dynasties of the Sangam era were Chera, Chola, and Pandya. (iii) is correct — the Sangam Age is dated approximately from 300 BCE to 300 CE. (iv) is wrong because Madurai was the capital of the Pandya kingdom, not the Chola kingdom — the Chola capital was Uraiyur (later Thanjavur)."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Buddhist text 'Tripitaka' literally means:",
+      "options": [
+        "Three Baskets",
+        "Three Paths",
+        "Three Truths",
+        "Three Jewels"
+      ],
+      "correctAnswer": "Three Baskets",
+      "explanation": "Tripitaka (Pali: Tipitaka) literally means 'Three Baskets' — Vinaya Pitaka (rules of monastic discipline), Sutta Pitaka (discourses of Buddha), and Abhidhamma Pitaka (philosophical analysis). Three Jewels is wrong because 'Three Jewels' (Triratna) refers to Buddha, Dharma, and Sangha — a different concept. Three Truths is wrong because Buddha taught Four Noble Truths, not 'Three Truths', and this is not what Tripitaka means. Three Paths is wrong because the Buddhist path system uses different terminology (Eightfold Path, Three Vehicles)."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indus Valley people did not use iron.\nReason (R): The Indus Valley Civilization belongs to the Bronze Age.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — no iron artifacts have been found at Indus Valley sites; they used copper and bronze. (R) is correct — the Indus Valley Civilization (c. 3300–1300 BCE) belongs to the Bronze Age. (R) explains (A) because being a Bronze Age civilization means iron smelting technology had not yet been developed in that region and period. Option 2 is wrong because (R) directly explains why they lacked iron. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Megasthenes, the Greek ambassador, visited the court of:",
+      "options": [
+        "Ashoka",
+        "Bindusara",
+        "Samudragupta",
+        "Chandragupta Maurya"
+      ],
+      "correctAnswer": "Chandragupta Maurya",
+      "explanation": "Megasthenes was a Greek ambassador sent by Seleucus Nicator to the court of Chandragupta Maurya at Pataliputra, where he wrote 'Indica'. Ashoka is wrong because Ashoka was the third Mauryan emperor, ruling decades after Megasthenes' visit. Bindusara is wrong because Deimachus (not Megasthenes) was the Greek ambassador during Bindusara's reign. Samudragupta is wrong because he ruled in the 4th century CE, over 600 years after Megasthenes' visit."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The practice of 'Bhagavatism', which later evolved into Vaishnavism, is primarily associated with the worship of:",
+      "options": [
+        "Surya",
+        "Shiva",
+        "Vishnu/Krishna",
+        "Brahma"
+      ],
+      "correctAnswer": "Vishnu/Krishna",
+      "explanation": "Bhagavatism centered on the worship of Vasudeva-Krishna (an aspect of Vishnu), which eventually evolved into the broader Vaishnavism tradition. Shiva is wrong because Shiva worship belongs to the Shaivite tradition, not Bhagavatism. Brahma is wrong because Brahma worship never developed into a major sectarian movement. Surya is wrong because Surya (Sun) worship constituted the Saura tradition, separate from Bhagavatism."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Match the following Mauryan emperors with their associated events:\n\nColumn I:\n(a) Chandragupta Maurya\n(b) Bindusara\n(c) Ashoka\n(d) Brihadratha\n\nColumn II:\n(i) Kalinga War and conversion to Buddhism\n(ii) Overthrew the Nanda dynasty\n(iii) Assassinated by his commander Pushyamitra Shunga\n(iv) Known as 'Amitraghata' (slayer of enemies)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Chandragupta Maurya overthrew the Nanda dynasty (ii) to establish the Mauryan Empire. Bindusara was called 'Amitraghata' (iv) by Greek writers. Ashoka fought the Kalinga War and later embraced Buddhism (i). Brihadratha, the last Mauryan emperor, was assassinated by his general Pushyamitra Shunga (iii). Option 2 is wrong because it assigns the Kalinga War to Bindusara. Option 3 is wrong because it assigns Amitraghata to Chandragupta. Option 4 is wrong because it swaps Ashoka's and Brihadratha's events."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "The Allahabad Pillar Inscription (Prayag Prashasti) provides detailed information about the conquests of:",
+      "options": [
+        "Kumaragupta",
+        "Samudragupta",
+        "Chandragupta I",
+        "Chandragupta II"
+      ],
+      "correctAnswer": "Samudragupta",
+      "explanation": "The Allahabad Pillar Inscription (composed by court poet Harishena) details the military conquests and achievements of Samudragupta, the second Gupta emperor. Chandragupta I is wrong because he was the founder of the Gupta Empire but not the subject of this inscription. Chandragupta II is wrong because his achievements are recorded in other inscriptions like the Mehrauli Iron Pillar inscription. Kumaragupta is wrong because he is associated with the founding of Nalanda, not this particular inscription."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Which of the following are correctly identified as the sixteen Mahajanapadas of ancient India?\n\n(i) Magadha\n(ii) Kosala\n(iii) Gandhara\n(iv) Kalinga\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Magadha (capital Rajagriha/Pataliputra) was one of the sixteen Mahajanapadas. (ii) is correct — Kosala (capital Shravasti) was one of the sixteen Mahajanapadas. (iii) is correct — Gandhara (capital Taxila) was one of the sixteen Mahajanapadas. (iv) is wrong because Kalinga was NOT listed among the traditional sixteen Mahajanapadas mentioned in Buddhist texts (Anguttara Nikaya) — it became prominent later during Ashoka's time."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The ancient Indian system of medicine 'Ayurveda' literally means:",
+      "options": [
+        "Science of life",
+        "Science of healing",
+        "Science of herbs",
+        "Science of body"
+      ],
+      "correctAnswer": "Science of life",
+      "explanation": "Ayurveda is derived from two Sanskrit words: 'Ayus' (life) and 'Veda' (knowledge/science), meaning 'Science of Life'. 'Science of herbs' is wrong because although Ayurveda uses herbs, its literal translation refers to 'life', not herbs specifically. 'Science of healing' is wrong because while Ayurveda heals, the word 'Ayus' means life, not healing. 'Science of body' is wrong because 'body' in Sanskrit is 'Sharira', not 'Ayus'."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Consider the following statements about King Ashoka:\n\n(i) He embraced Buddhism after the Kalinga War.\n(ii) He sent his son Mahendra and daughter Sanghamitra to spread Buddhism in Sri Lanka.\n(iii) He convened the Third Buddhist Council at Pataliputra.\n(iv) He was the founder of the Mauryan dynasty.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Ashoka converted to Buddhism after witnessing the devastation of the Kalinga War (261 BCE). (ii) is correct — Ashoka sent Mahendra (Mahinda) and Sanghamitra to Sri Lanka to spread Buddhism. (iii) is correct — Ashoka convened the Third Buddhist Council at Pataliputra under the monk Moggaliputta Tissa. (iv) is wrong because the founder of the Mauryan dynasty was Chandragupta Maurya, not Ashoka — Ashoka was the third emperor."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "The script used in the majority of Ashokan inscriptions in India (except the northwest) is:",
+      "options": [
+        "Devanagari",
+        "Sanskrit",
+        "Brahmi",
+        "Kharoshthi"
+      ],
+      "correctAnswer": "Brahmi",
+      "explanation": "Most of Ashoka's inscriptions across India are written in the Brahmi script (written left to right). Kharoshthi is wrong because Kharoshthi was used only in the northwestern inscriptions (present-day Pakistan/Afghanistan area). Devanagari is wrong because Devanagari developed much later (around 7th century CE onwards). Sanskrit is wrong because Sanskrit is a language, not a script — moreover, Ashoka's inscriptions were in Prakrit, not Sanskrit."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Gupta period is known for remarkable advances in science, mathematics, and astronomy.\nReason (R): Aryabhata proposed the heliocentric model and calculated the value of pi during the Gupta era.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — the Gupta period saw remarkable scientific advances including zero, decimal system, surgery, and astronomy. (R) is partially incorrect because while Aryabhata did approximate pi accurately and stated that the Earth rotates on its axis, he did NOT explicitly propose a heliocentric model (sun-centered solar system) — that is a common misconception; he proposed Earth's rotation, not heliocentrism in the Copernican sense. Option 1 is wrong because (R) contains a factual error. Option 2 is wrong because (R) is not entirely correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The 'Indica', an important account of ancient India, was written by:",
+      "options": [
+        "Hiuen Tsang",
+        "Megasthenes",
+        "Fa-Hien",
+        "Al-Biruni"
+      ],
+      "correctAnswer": "Megasthenes",
+      "explanation": "Megasthenes, the Greek ambassador to Chandragupta Maurya's court, wrote 'Indica', describing Indian society, administration, and geography. Fa-Hien is wrong because Fa-Hien was a Chinese pilgrim (5th century CE) who wrote about Buddhist monasteries during the Gupta period. Hiuen Tsang is wrong because Hiuen Tsang was a Chinese pilgrim (7th century CE) who wrote Si-Yu-Ki about his travels during Harshavardhana's reign. Al-Biruni is wrong because Al-Biruni was an 11th-century scholar who wrote Kitab-ul-Hind during Mahmud of Ghazni's time."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The Ajanta Caves, famous for their paintings and sculptures, primarily depict themes from:",
+      "options": [
+        "Hinduism and Shaivism",
+        "Greek mythology and trade",
+        "Buddhism and Jataka tales",
+        "Jainism and asceticism"
+      ],
+      "correctAnswer": "Buddhism and Jataka tales",
+      "explanation": "The Ajanta Caves (Maharashtra) contain Buddhist art depicting scenes from the life of Buddha and Jataka tales (stories of Buddha's previous lives). Hinduism and Shaivism is wrong because Ajanta is entirely Buddhist, not Hindu — Ellora caves have Hindu sections. Jainism and asceticism is wrong because Jain cave art is found at places like Udayagiri and Khandagiri, not Ajanta. Greek mythology is wrong because while Gandhara art shows Greek influence, Ajanta's themes are purely Buddhist."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Which of the following are achievements attributed to the Indus Valley Civilization?\n\n(i) Standardized weights and measures\n(ii) Use of iron tools for agriculture\n(iii) Baked brick construction technology\n(iv) Knowledge of cotton cultivation\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — the Harappans used standardized weights in a binary system (1, 2, 4, 8, 16...) and standardized measurements. (iii) is correct — baked (kiln-fired) bricks in a standard ratio of 4:2:1 were a hallmark of Indus construction. (iv) is correct — the earliest evidence of cotton cultivation comes from Mehrgarh/Indus sites. (ii) is wrong because the Indus Valley was a Bronze Age civilization — they used copper and bronze tools, NOT iron tools."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The Mauryan emperor who is described as 'Amitraghata' (Destroyer of Foes) by Greek writers is:",
+      "options": [
+        "Bindusara",
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Dasharatha"
+      ],
+      "correctAnswer": "Bindusara",
+      "explanation": "Bindusara (son of Chandragupta) was called 'Amitraghata' (destroyer of enemies) — the Greek equivalent 'Amithrochates' appears in classical sources. Chandragupta Maurya is wrong because Greek sources refer to him as 'Sandrokottos', not Amitraghata. Ashoka is wrong because Ashoka was known as 'Devanampiya Piyadasi' (Beloved of the Gods) in his inscriptions. Dasharatha is wrong because he was a minor later Mauryan ruler known mainly for donating caves to the Ajivikas."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "The primary occupation of the Rigvedic people was:",
+      "options": [
+        "Agriculture",
+        "Pastoralism (cattle rearing)",
+        "Handicrafts",
+        "Trade and commerce"
+      ],
+      "correctAnswer": "Pastoralism (cattle rearing)",
+      "explanation": "The Early Rigvedic society was primarily pastoral — cattle (go/gau) were the chief measure of wealth, and many hymns pray for increase of cattle. Agriculture is wrong because while some agriculture existed, it was secondary to pastoralism in the Early Vedic period. Trade and commerce is wrong because organized trade developed mainly in the Later Vedic and post-Vedic periods. Handicrafts is wrong because craft specialization became prominent only in later periods with urbanization."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Match the following Buddhist sites with their significance:\n\nColumn I:\n(a) Lumbini\n(b) Bodh Gaya\n(c) Sarnath\n(d) Kushinagar\n\nColumn II:\n(i) First Sermon (Dhammachakkappavattana)\n(ii) Enlightenment (Nirvana)\n(iii) Birth of Gautama Buddha\n(iv) Mahaparinirvana (Death)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "Lumbini (Nepal) is Buddha's birthplace (iii). Bodh Gaya (Bihar) is where he attained enlightenment under the Bodhi tree (ii). Sarnath (Varanasi) is where he delivered his first sermon (i). Kushinagar (UP) is where he attained Mahaparinirvana/death (iv). Option 2 is wrong because it swaps Bodh Gaya and Sarnath. Option 3 is wrong because it assigns enlightenment to Lumbini. Option 4 is wrong because it swaps Sarnath and Kushinagar."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The tax called 'Bhaga' in the Mauryan administration referred to:",
+      "options": [
+        "Tax on artisans and craftsmen",
+        "Tax on irrigation water",
+        "Tax on trade goods at city gates",
+        "King's share of agricultural produce"
+      ],
+      "correctAnswer": "King's share of agricultural produce",
+      "explanation": "Bhaga was the king's share of agricultural produce, typically 1/6th of the output, which was the primary source of state revenue. Tax on trade goods at city gates is wrong because customs/octroi at gates was called 'Shulka'. Tax on artisans is wrong because artisans paid labor-days (Vishti) or a separate tax. Tax on irrigation water is wrong because water tax was a separate levy and not called Bhaga."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Consider the following statements about the decline of the Indus Valley Civilization:\n\n(i) Climate change and drying up of rivers is one proposed cause.\n(ii) Aryan invasion is the only universally accepted explanation.\n(iii) Repeated flooding in some sites may have contributed to decline.\n(iv) The decline was gradual rather than sudden in most areas.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — tectonic changes causing river diversions (especially the Ghaggar-Hakra/Saraswati) and climate aridification are proposed causes. (iii) is correct — evidence of repeated flooding has been found at Mohenjo-daro. (iv) is correct — archaeological evidence shows the civilization declined gradually over centuries with deurbanization. (ii) is wrong because the Aryan invasion theory is heavily contested and NOT universally accepted — many scholars now favor migration/climate theories instead."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The Chinese pilgrim Fa-Hien visited India during the reign of:",
+      "options": [
+        "Kanishka",
+        "Chandragupta II",
+        "Samudragupta",
+        "Harshavardhana"
+      ],
+      "correctAnswer": "Chandragupta II",
+      "explanation": "Fa-Hien (Faxian) visited India around 399–414 CE during the reign of Chandragupta II (Vikramaditya) of the Gupta dynasty. Samudragupta is wrong because Samudragupta ruled from approximately 335–375 CE, before Fa-Hien's visit. Harshavardhana is wrong because Hiuen Tsang (not Fa-Hien) visited during Harsha's reign (7th century). Kanishka is wrong because Kanishka ruled in the 2nd century CE, well before Fa-Hien's travels."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The term 'Dhamma' as propagated by Ashoka primarily referred to:",
+      "options": [
+        "A universal ethical code of righteous conduct",
+        "Hindu Vedantic philosophy",
+        "Strict Buddhist monastic discipline",
+        "Jain principles of extreme asceticism"
+      ],
+      "correctAnswer": "A universal ethical code of righteous conduct",
+      "explanation": "Ashoka's Dhamma was a non-sectarian ethical code promoting tolerance, non-violence, respect for elders, generosity, and truthfulness — it was not tied to any specific religion. 'Strict Buddhist monastic discipline' is wrong because Ashoka's Dhamma was meant for all subjects, not just monks, and was broader than Buddhist Vinaya rules. 'Hindu Vedantic philosophy' is wrong because Ashoka's Dhamma was not based on Vedantic concepts of Brahman or moksha. 'Jain extreme asceticism' is wrong because Ashoka advocated moderation, not extreme austerity."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The earliest known civilization in the Indian subcontinent is the __________ Civilization.",
+      "options": [
+        "Megalithic",
+        "Vedic",
+        "Indus Valley (Harappan)",
+        "Chalcolithic"
+      ],
+      "correctAnswer": "Indus Valley (Harappan)",
+      "explanation": "The Indus Valley (Harappan) Civilization (c. 3300–1300 BCE) is the earliest known urban civilization in the Indian subcontinent. Vedic is wrong because the Vedic period (c. 1500–500 BCE) came after the decline of the Indus Valley Civilization. Megalithic is wrong because Megalithic cultures in India date from approximately 1500 BCE to 500 BCE, later than the Harappan civilization. Chalcolithic is wrong because while some Chalcolithic cultures coexisted with Harappan, the Indus Valley Civilization represents the earliest full-fledged civilization with urban planning."
+    }
+  ]
+}

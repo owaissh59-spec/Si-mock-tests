@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Analogies (Semantic, Symbolic/Number, Figural)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Pen is to Writer as Scalpel is to:",
+      "options": [
+        "Carpenter",
+        "Tailor",
+        "Surgeon",
+        "Mechanic"
+      ],
+      "correctAnswer": "Surgeon",
+      "explanation": "A pen is the primary tool of a writer; similarly, a scalpel is the primary tool of a surgeon. Carpenter is wrong because a carpenter's tool is a saw or hammer. Tailor is wrong because a tailor uses needles and scissors. Mechanic is wrong because a mechanic uses wrenches and spanners."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In a semantic analogy, the relationship is based on meaning or function of words.\n(ii) In a symbolic analogy, the relationship is based on mathematical operations or symbols.\n(iii) 'Bark : Tree :: Skin : Human' is an example of a figural analogy.\n(iv) Analogies test the ability to identify parallel relationships between pairs of items.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — semantic analogies are based on the meaning/function relationship between words. (ii) is correct — symbolic analogies involve mathematical operations or symbolic patterns. (iv) is correct — analogies fundamentally test parallel relationship identification. (iii) is wrong because 'Bark : Tree :: Skin : Human' is a semantic analogy (part-to-whole relationship based on meaning), not a figural analogy which involves shapes and visual patterns."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Marathon is to Race as Hibernation is to:",
+      "options": [
+        "Winter",
+        "Sleep",
+        "Migration",
+        "Rest"
+      ],
+      "correctAnswer": "Sleep",
+      "explanation": "A marathon is an extended form of a race; similarly, hibernation is an extended form of sleep. Winter is wrong because winter is the season during which hibernation occurs, not the category it belongs to. Migration is wrong because migration is a different survival behavior, not a category of which hibernation is a type. Rest is wrong because rest is a broader concept — hibernation is specifically an extended form of sleep, not just general rest."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy '4 : 16 :: 5 : 25', the relationship is based on squaring.\nReason (R): In number analogies, the most common relationships involve basic arithmetic operations such as squaring, cubing, addition, or multiplication.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because 4² = 16 and 5² = 25, confirming the squaring relationship. (R) is correct because number analogies do commonly use operations like squaring, cubing, addition, and multiplication. (R) directly explains (A) because the squaring relationship in (A) is precisely one of those basic arithmetic operations mentioned in (R). Option 2 is wrong because (R) does explain (A). Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Match the following analogy types with their examples:\n\nColumn I:\n(a) Semantic Analogy\n(b) Number Analogy\n(c) Symbolic Analogy\n(d) Figural Analogy\n\nColumn II:\n(i) △ : ▽ :: □ : ◇\n(ii) Doctor : Hospital :: Teacher : School\n(iii) 8 : 64 :: 6 : 36\n(iv) + : × :: − : ÷\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Semantic Analogy uses meaningful word relationships (Doctor:Hospital :: Teacher:School — workplace relationship). Number Analogy uses numerical patterns (8:64 :: 6:36 — squaring). Symbolic Analogy uses mathematical symbols (+:× :: −:÷ — operation-level relationship). Figural Analogy uses visual shapes (△:▽ :: □:◇ — rotation/inversion). Option 2 is wrong because it swaps number and symbolic analogies. Option 3 is wrong because it assigns the figural example to semantic. Option 4 is wrong because it assigns the symbolic example to semantic."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Telescope is to Astronomer as Microscope is to:",
+      "options": [
+        "Biologist",
+        "Chemist",
+        "Physicist",
+        "Geologist"
+      ],
+      "correctAnswer": "Biologist",
+      "explanation": "A telescope is the primary observational instrument of an astronomer; similarly, a microscope is the primary observational instrument of a biologist (for studying cells, organisms, tissues). Physicist is wrong because physicists primarily use particle accelerators, spectrometers, or theoretical models rather than microscopes. Geologist is wrong because geologists primarily use rock hammers, compasses, and field equipment. Chemist is wrong because while chemists may occasionally use microscopes, their primary tools are beakers, spectroscopes, and chemical apparatus."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Which of the following are examples of analogies based on a 'part-to-whole' relationship?\n\n(i) Chapter : Book\n(ii) Wheel : Car\n(iii) Pen : Writer\n(iv) Brick : Wall\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — a chapter is a part of a book (part-to-whole). (ii) is correct — a wheel is a part of a car (part-to-whole). (iv) is correct — a brick is a part of a wall (part-to-whole). (iii) is wrong because Pen:Writer is a 'tool-to-user' relationship, not a part-to-whole relationship — a pen is not a component of a writer."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Oxygen is to Combustion as Chlorophyll is to:",
+      "options": [
+        "Fermentation",
+        "Photosynthesis",
+        "Transpiration",
+        "Respiration"
+      ],
+      "correctAnswer": "Photosynthesis",
+      "explanation": "Oxygen is essential for combustion to occur; similarly, chlorophyll is essential for photosynthesis to occur. Respiration is wrong because chlorophyll is not required for respiration — respiration occurs in mitochondria. Transpiration is wrong because transpiration is the loss of water from plant surfaces and does not require chlorophyll. Fermentation is wrong because fermentation is an anaerobic process that does not involve chlorophyll."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "If 'LOAD' is coded as 'MPBE' (each letter shifted +1), then which of the following represents the same coding relationship as 'FISH' is to its code?",
+      "options": [
+        "GITI",
+        "GJTI",
+        "GKUJ",
+        "GHRI"
+      ],
+      "correctAnswer": "GJTI",
+      "explanation": "The analogy uses a letter-shift pattern: each letter is shifted forward by +1 in the alphabet. F+1=G, I+1=J, S+1=T, H+1=I, giving GJTI. GITI is wrong because I+1=J not I (second letter is not shifted). GHRI is wrong because I+1=J and S+1=T, not H and R. GKUJ is wrong because it shifts letters by +2 instead of +1."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy 'Lion : Courage :: Dove : Peace', the relationship is symbolic representation.\nReason (R): Symbolic analogies always involve mathematical operators like +, −, × and ÷.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct because Lion symbolically represents Courage and Dove symbolically represents Peace — this is a semantic analogy based on symbolic representation of abstract qualities. (R) is incorrect because the term 'symbolic analogies' in competitive exam reasoning refers to analogies using mathematical symbols or operators, but the claim that they 'always' involve mathematical operators is too restrictive — the word 'symbolic' in common usage can also refer to metaphorical representation. However, more importantly, (R) conflates the exam terminology 'symbolic analogy' with general 'symbolic representation', making it factually misleading. Option 1 is wrong because (R) is not correct. Option 2 is wrong because (R) is not correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "The relationship used in forming the analogy 'Needle : Thread :: Pen : __________' is known as a:",
+      "options": [
+        "Part and whole",
+        "Tool and its medium",
+        "Cause and effect",
+        "Object and its place"
+      ],
+      "correctAnswer": "Tool and its medium",
+      "explanation": "A needle works with/through thread as its medium; a pen works with/through ink as its medium. This is a 'tool and its medium' relationship. Cause and effect is wrong because a needle does not cause thread. Part and whole is wrong because a needle is not a part of thread, nor vice versa. Object and its place is wrong because thread is not a place where a needle is kept."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "7 : 50 :: 11 : ?",
+      "options": [
+        "125",
+        "120",
+        "121",
+        "122"
+      ],
+      "correctAnswer": "122",
+      "explanation": "The pattern is n² + 1: 7² + 1 = 49 + 1 = 50; therefore 11² + 1 = 121 + 1 = 122. 120 is wrong because that would be 11² − 1 = 121 − 1 (subtraction instead of addition). 121 is wrong because that is simply 11² without adding 1. 125 is wrong because that is 5³, which follows no consistent pattern with 7:50."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) 'Glove : Hand :: Sock : Foot' represents a covering relationship.\n(ii) 'Bees : Hive :: Birds : Nest' represents a habitat relationship.\n(iii) 'Clock : Time :: Thermometer : Temperature' represents a measurement relationship.\n(iv) 'Cat : Kitten :: Dog : Puppy' represents a tool-to-user relationship.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — a glove covers a hand and a sock covers a foot (covering/protective relationship). (ii) is correct — a hive is the habitat of bees and a nest is the habitat of birds (dwelling relationship). (iii) is correct — a clock measures time and a thermometer measures temperature (instrument-measurement relationship). (iv) is wrong because Cat:Kitten :: Dog:Puppy represents an adult-to-young/offspring relationship, NOT a tool-to-user relationship."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Archipelago is to Islands as Constellation is to:",
+      "options": [
+        "Planets",
+        "Galaxies",
+        "Stars",
+        "Comets"
+      ],
+      "correctAnswer": "Stars",
+      "explanation": "An archipelago is a group/cluster of islands; similarly, a constellation is a group/cluster of stars. Planets is wrong because a group of planets is called a solar system, not a constellation. Galaxies is wrong because constellations are patterns of stars as viewed from Earth, not groupings of galaxies. Comets is wrong because comets are individual celestial bodies following orbits, not grouped into constellations."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Match the following analogy pairs with their underlying relationships:\n\nColumn I:\n(a) Ink : Pen\n(b) Sailor : Ship\n(c) Petal : Flower\n(d) Famine : Starvation\n\nColumn II:\n(i) Worker and workplace/vehicle\n(ii) Part to whole\n(iii) Cause and effect\n(iv) Content and container\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "Ink is contained in a pen (content-container). A sailor works on a ship (worker-workplace/vehicle). A petal is a part of a flower (part-whole). Famine causes starvation (cause-effect). Option 2 is wrong because it assigns sailor:ship to part-whole and petal:flower to worker-workplace, which are incorrect. Option 3 is wrong because it assigns ink:pen to cause-effect. Option 4 is wrong because it assigns ink:pen to worker-workplace."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Fossil is to Paleontologist as Artifact is to:",
+      "options": [
+        "Geographer",
+        "Anthropologist",
+        "Historian",
+        "Archaeologist"
+      ],
+      "correctAnswer": "Archaeologist",
+      "explanation": "A fossil is the primary subject of study for a paleontologist; similarly, an artifact is the primary subject of study for an archaeologist. Anthropologist is wrong because anthropologists study human societies and cultures broadly, not specifically artifacts. Geographer is wrong because geographers study Earth's landscapes and spatial relationships. Historian is wrong because historians primarily study written records and documents, not physical artifacts."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Which of the following are examples of analogies based on a 'degree/intensity' relationship?\n\n(i) Warm : Hot\n(ii) Drizzle : Downpour\n(iii) Smile : Laugh\n(iv) Walk : Road\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Warm is a lower degree of heat, Hot is a higher degree (degree relationship). (ii) is correct — Drizzle is light rain, Downpour is intense rain (degree of intensity). (iii) is correct — Smile is a mild expression of amusement, Laugh is a more intense expression (degree relationship). (iv) is wrong because Walk:Road is an action-to-place relationship (walking is done on a road), not a degree/intensity relationship."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Consider the following statements about number analogies:\n\n(i) In '2 : 8 :: 3 : 27', the relationship is cubing.\n(ii) In '5 : 30 :: 7 : 56', the relationship is n × (n+1).\n(iii) In '3 : 11 :: 5 : 27', the relationship is n² + 2.\n(iv) In '6 : 37 :: 4 : 17', the relationship is n² + 1.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct: 2³ = 8, 3³ = 27 (cubing). (ii) is correct: 5×6 = 30, 7×8 = 56 (n×(n+1)). (iii) is correct: 3² + 2 = 9 + 2 = 11, 5² + 2 = 25 + 2 = 27. (iv) is correct: 6² + 1 = 36 + 1 = 37, 4² + 1 = 16 + 1 = 17. All four statements are correct. Option 1 is wrong because it excludes (iv) which is correct. Option 2 is wrong because it excludes (iii) and (iv) which are correct. Option 3 is wrong because it excludes (i) which is correct."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Stethoscope is to Heart as Sphygmomanometer is to:",
+      "options": [
+        "Pulse Rate",
+        "Blood Sugar",
+        "Blood Pressure",
+        "Temperature"
+      ],
+      "correctAnswer": "Blood Pressure",
+      "explanation": "A stethoscope is used to examine/measure the heart's sounds; a sphygmomanometer is used to measure blood pressure. Temperature is wrong because temperature is measured by a thermometer, not a sphygmomanometer. Pulse Rate is wrong because pulse rate is measured by a pulse oximeter or by palpation. Blood Sugar is wrong because blood sugar is measured by a glucometer."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy '16 : 56 :: 12 : 42', the relationship can be expressed as n : (n/2) × 7.\nReason (R): Number analogies can involve compound operations combining division and multiplication.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: 16/2 × 7 = 8 × 7 = 56; 12/2 × 7 = 6 × 7 = 42 — the formula works. (R) is correct: number analogies frequently use compound operations. (R) explains (A) because the relationship in (A) specifically uses a compound operation (dividing by 2 then multiplying by 7), which is exactly the concept (R) describes. Option 2 is wrong because (R) does explain (A) since it describes the general principle applied in (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Match the following word pairs with the type of analogy they represent:\n\nColumn I:\n(a) Cow : Calf\n(b) Knife : Cut\n(c) Author : Book\n(d) Elated : Happy\n\nColumn II:\n(i) Tool and its function\n(ii) Degree/intensity (stronger : weaker)\n(iii) Creator and creation\n(iv) Adult and young\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "Cow:Calf is adult-young (iv). Knife:Cut is tool-function (i) — a knife is used to cut. Author:Book is creator-creation (iii). Elated:Happy is degree/intensity (ii) — elated is a stronger form of happy. Option 2 is wrong because it assigns knife:cut to creator-creation. Option 3 is wrong because it assigns cow:calf to creator-creation. Option 4 is wrong because it assigns author:book to degree/intensity."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Vaccine is to Prevention as Medicine is to:",
+      "options": [
+        "Infection",
+        "Immunity",
+        "Diagnosis",
+        "Cure"
+      ],
+      "correctAnswer": "Cure",
+      "explanation": "A vaccine is used for prevention of disease; similarly, medicine is used for the cure of disease. Diagnosis is wrong because diagnosis is done through tests and examination, not medicine. Immunity is wrong because immunity is the result of vaccination, not the purpose of general medicine. Infection is wrong because infection is the problem, not the purpose of medicine — medicine treats or cures, not causes infection."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "The analogy relationship in 'ABCD : ZYXW' follows which pattern?",
+      "options": [
+        "Each letter is replaced by its reverse alphabet position",
+        "Each letter is shifted backward by 2 positions",
+        "Each letter is shifted forward by 25 positions",
+        "Each letter is replaced by the next vowel"
+      ],
+      "correctAnswer": "Each letter is replaced by its reverse alphabet position",
+      "explanation": "A(1)→Z(26), B(2)→Y(25), C(3)→X(24), D(4)→W(23) — each letter is replaced by its mirror/reverse position in the alphabet (position n becomes position 27−n). Shifting forward by 25 positions is wrong because while it gives the same result numerically (since 26−1=25), the described relationship is specifically 'reverse alphabet position', which is the standard terminology. Replacing by next vowel is wrong because Z, Y, X, W are not vowels. Shifting backward by 2 is wrong because A−2 would be Y, not Z."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) 'Library : Books :: Gallery : Paintings' is a place-to-contents analogy.\n(ii) 'Captain : Ship :: Pilot : Aircraft' is a controller-to-vehicle analogy.\n(iii) 'Cobbler : Shoes :: Barber : Saloon' is a worker-to-product analogy.\n(iv) 'Acorn : Oak :: Seed : Plant' is a beginning-to-end/source analogy.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — a library contains books and a gallery contains paintings (place-contents). (ii) is correct — a captain controls a ship and a pilot controls an aircraft (controller-vehicle). (iv) is correct — an acorn grows into an oak and a seed grows into a plant (beginning-end/source-product). (iii) is wrong because Cobbler:Shoes is a worker-to-product/repair relationship, but Barber:Saloon is a worker-to-workplace relationship, not worker-to-product — a barber's product would be a haircut, not a saloon. The two pairs don't follow the same relationship type."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Drought is to Famine as Virus is to:",
+      "options": [
+        "Epidemic",
+        "Hospital",
+        "Medicine",
+        "Bacteria"
+      ],
+      "correctAnswer": "Epidemic",
+      "explanation": "A drought causes/leads to famine; similarly, a virus causes/leads to an epidemic. Medicine is wrong because medicine is a remedy for viral disease, not a consequence of a virus. Hospital is wrong because a hospital is a place for treatment, not a direct consequence caused by a virus. Bacteria is wrong because bacteria is another type of pathogen, not something caused by a virus."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Which of the following are examples of 'worker and their workplace' analogies?\n\n(i) Chef : Kitchen\n(ii) Judge : Court\n(iii) Farmer : Crop\n(iv) Pilot : Cockpit\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — a chef works in a kitchen (worker-workplace). (ii) is correct — a judge works in a court (worker-workplace). (iv) is correct — a pilot works in a cockpit (worker-workplace). (iii) is wrong because Farmer:Crop is a worker-to-product relationship (a farmer produces crops), not a worker-to-workplace relationship — a farmer's workplace would be a field or farm."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "The pair 'Oasis : Desert' is analogous to which of the following?",
+      "options": [
+        "Forest : River",
+        "Mountain : Valley",
+        "Cloud : Rain",
+        "Island : Ocean"
+      ],
+      "correctAnswer": "Island : Ocean",
+      "explanation": "An oasis is a small fertile area within a vast desert; similarly, an island is a small land area within a vast ocean. Both represent a contrasting entity surrounded by a larger expanse. Mountain:Valley is wrong because a mountain is not surrounded by a valley in the same way — they are adjacent, not enclosed. Forest:River is wrong because a forest is not a small entity within a river. Cloud:Rain is wrong because a cloud causes rain; it is not a contrasting entity within rain."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Consider the following statements about figural analogies:\n\n(i) They involve identifying relationships between shapes, patterns, or figures.\n(ii) Rotation of a figure by 90° or 180° is a common transformation tested.\n(iii) They always involve only geometric shapes like circles and squares.\n(iv) Shading patterns (filled, half-filled, empty) can form the basis of figural analogies.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — figural analogies are about relationships between visual shapes and patterns. (ii) is correct — rotation by 90° or 180° is a commonly tested transformation in figural analogies. (iv) is correct — shading variations (filled, half-filled, empty) frequently form the basis of figural analogy patterns. (iii) is wrong because figural analogies can involve arrows, lines, dots, complex figures, and non-geometric symbols — they are NOT limited only to geometric shapes."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "In an analogy based on the relationship 'Product : Raw Material', which of the following correctly follows this pattern?",
+      "options": [
+        "Butter : Milk",
+        "Tree : Forest",
+        "River : Water",
+        "Book : Library"
+      ],
+      "correctAnswer": "Butter : Milk",
+      "explanation": "Butter is made from milk (product from raw material). Tree:Forest is wrong because a tree is a component of a forest, not a product made from forest as raw material. Book:Library is wrong because a book is stored in a library; it is not made from a library. River:Water is wrong because a river contains water; water is not the raw material from which a river is manufactured."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "In number analogies, if 'ACE' corresponds to 135 (position values: A=1, C=3, E=5), then 'BDF' corresponds to __________.",
+      "options": [
+        "468",
+        "357",
+        "246",
+        "234"
+      ],
+      "correctAnswer": "246",
+      "explanation": "Each letter is replaced by its alphabetical position: B=2, D=4, F=6, giving 246. 357 is wrong because that would correspond to CEG (positions 3, 5, 7), not BDF. 468 is wrong because that would correspond to DFH (positions 4, 6, 8), not BDF. 234 is wrong because that would correspond to BCD (positions 2, 3, 4), not BDF."
+    }
+  ]
+}

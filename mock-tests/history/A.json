@@ -1,6 +1,157 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 0,
-  "questions": []
+  "count": 30,
+  "questions": [
+    {
+      "test": 1,
+      "stem": "pen is to writer as scalpel is to:",
+      "key": "Surgeon"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements: (i) in a semantic analogy, the relationship is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 1,
+      "stem": "marathon is to race as hibernation is to:",
+      "key": "Sleep"
+    },
+    {
+      "test": 1,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 1,
+      "stem": "match the following analogy types with their examples: column i: (a) semantic",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 1,
+      "stem": "telescope is to astronomer as microscope is to:",
+      "key": "Biologist"
+    },
+    {
+      "test": 1,
+      "stem": "which of the following are examples of analogies based on a 'part-to-whole'",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 1,
+      "stem": "oxygen is to combustion as chlorophyll is to:",
+      "key": "Photosynthesis"
+    },
+    {
+      "test": 1,
+      "stem": "if 'load' is coded as 'mpbe' (each letter shifted +1), then which",
+      "key": "GJTI"
+    },
+    {
+      "test": 1,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 1,
+      "stem": "the relationship used in forming the analogy 'needle : thread :: pen",
+      "key": "Tool and its medium"
+    },
+    {
+      "test": 1,
+      "stem": "7 : 50 :: 11 : ?",
+      "key": "122"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements: (i) 'glove : hand :: sock : foot'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 1,
+      "stem": "archipelago is to islands as constellation is to:",
+      "key": "Stars"
+    },
+    {
+      "test": 1,
+      "stem": "match the following analogy pairs with their underlying relationships: column i: (a)",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 1,
+      "stem": "fossil is to paleontologist as artifact is to:",
+      "key": "Archaeologist"
+    },
+    {
+      "test": 1,
+      "stem": "which of the following are examples of analogies based on a 'degree/intensity'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about number analogies: (i) in '2 : 8",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 1,
+      "stem": "stethoscope is to heart as sphygmomanometer is to:",
+      "key": "Blood Pressure"
+    },
+    {
+      "test": 1,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 1,
+      "stem": "match the following word pairs with the type of analogy they represent:",
+      "key": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    },
+    {
+      "test": 1,
+      "stem": "vaccine is to prevention as medicine is to:",
+      "key": "Cure"
+    },
+    {
+      "test": 1,
+      "stem": "the analogy relationship in 'abcd : zyxw' follows which pattern?",
+      "key": "Each letter is replaced by its reverse alphabet position"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements: (i) 'library : books :: gallery : paintings'",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 1,
+      "stem": "drought is to famine as virus is to:",
+      "key": "Epidemic"
+    },
+    {
+      "test": 1,
+      "stem": "which of the following are examples of 'worker and their workplace' analogies?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 1,
+      "stem": "the pair 'oasis : desert' is analogous to which of the following?",
+      "key": "Island : Ocean"
+    },
+    {
+      "test": 1,
+      "stem": "consider the following statements about figural analogies: (i) they involve identifying relationships",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 1,
+      "stem": "in an analogy based on the relationship 'product : raw material', which",
+      "key": "Butter : Milk"
+    },
+    {
+      "test": 1,
+      "stem": "in number analogies, if 'ace' corresponds to 135 (position values: a=1, c=3,",
+      "key": "246"
+    }
+  ]
 }

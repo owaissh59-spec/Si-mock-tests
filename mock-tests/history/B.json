@@ -1,6 +1,207 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 0,
-  "questions": []
+  "count": 40,
+  "questions": [
+    {
+      "test": 2,
+      "stem": "the indus valley civilization is also known as the harappan civilization because:",
+      "key": "Harappa was the first site to be excavated"
+    },
+    {
+      "test": 2,
+      "stem": "consider the following statements about the vedic period: (i) the rigveda is",
+      "key": "(i) and (iv) only"
+    },
+    {
+      "test": 2,
+      "stem": "the great bath, a remarkable structure of the indus valley civilization, was",
+      "key": "Mohenjo-daro"
+    },
+    {
+      "test": 2,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 2,
+      "stem": "which of the following are features of the mauryan administration under ashoka?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 2,
+      "stem": "match the following ancient indian sites with their notable discoveries: column i:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 2,
+      "stem": "the founder of the mauryan empire was:",
+      "key": "Chandragupta Maurya"
+    },
+    {
+      "test": 2,
+      "stem": "the ancient university of nalanda was located in present-day:",
+      "key": "Bihar"
+    },
+    {
+      "test": 2,
+      "stem": "consider the following statements about the gupta period: (i) it is often",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 2,
+      "stem": "the arthashastra, an ancient indian treatise on statecraft and economics, was written",
+      "key": "Kautilya"
+    },
+    {
+      "test": 2,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 2,
+      "stem": "the ashoka pillar at sarnath, which features four lions, is significant because:",
+      "key": "Its capital has been adopted as the National Emblem of India"
+    },
+    {
+      "test": 2,
+      "stem": "which of the following are the four noble truths taught by gautama",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 2,
+      "stem": "the iron pillar at mehrauli, delhi, is attributed to the reign of:",
+      "key": "Chandragupta II"
+    },
+    {
+      "test": 2,
+      "stem": "match the following ancient indian kingdoms/dynasties with their capitals: column i: (a)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 2,
+      "stem": "the ancient indian physician charaka is known for his contribution to:",
+      "key": "Medicine (Internal)"
+    },
+    {
+      "test": 2,
+      "stem": "the concept of 'ahimsa' (non-violence) was most strongly emphasized as a central",
+      "key": "Jainism"
+    },
+    {
+      "test": 2,
+      "stem": "consider the following statements about the sangam age: (i) the sangam literature",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 2,
+      "stem": "the buddhist text 'tripitaka' literally means:",
+      "key": "Three Baskets"
+    },
+    {
+      "test": 2,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 2,
+      "stem": "megasthenes, the greek ambassador, visited the court of:",
+      "key": "Chandragupta Maurya"
+    },
+    {
+      "test": 2,
+      "stem": "the practice of 'bhagavatism', which later evolved into vaishnavism, is primarily associated",
+      "key": "Vishnu/Krishna"
+    },
+    {
+      "test": 2,
+      "stem": "match the following mauryan emperors with their associated events: column i: (a)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 2,
+      "stem": "the allahabad pillar inscription (prayag prashasti) provides detailed information about the conquests",
+      "key": "Samudragupta"
+    },
+    {
+      "test": 2,
+      "stem": "which of the following are correctly identified as the sixteen mahajanapadas of",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 2,
+      "stem": "the ancient indian system of medicine 'ayurveda' literally means:",
+      "key": "Science of life"
+    },
+    {
+      "test": 2,
+      "stem": "consider the following statements about king ashoka: (i) he embraced buddhism after",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 2,
+      "stem": "the script used in the majority of ashokan inscriptions in india (except",
+      "key": "Brahmi"
+    },
+    {
+      "test": 2,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 2,
+      "stem": "the 'indica', an important account of ancient india, was written by:",
+      "key": "Megasthenes"
+    },
+    {
+      "test": 2,
+      "stem": "the ajanta caves, famous for their paintings and sculptures, primarily depict themes",
+      "key": "Buddhism and Jataka tales"
+    },
+    {
+      "test": 2,
+      "stem": "which of the following are achievements attributed to the indus valley civilization?",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 2,
+      "stem": "the mauryan emperor who is described as 'amitraghata' (destroyer of foes) by",
+      "key": "Bindusara"
+    },
+    {
+      "test": 2,
+      "stem": "the primary occupation of the rigvedic people was:",
+      "key": "Pastoralism (cattle rearing)"
+    },
+    {
+      "test": 2,
+      "stem": "match the following buddhist sites with their significance: column i: (a) lumbini",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 2,
+      "stem": "the tax called 'bhaga' in the mauryan administration referred to:",
+      "key": "King's share of agricultural produce"
+    },
+    {
+      "test": 2,
+      "stem": "consider the following statements about the decline of the indus valley civilization:",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 2,
+      "stem": "the chinese pilgrim fa-hien visited india during the reign of:",
+      "key": "Chandragupta II"
+    },
+    {
+      "test": 2,
+      "stem": "the term 'dhamma' as propagated by ashoka primarily referred to:",
+      "key": "A universal ethical code of righteous conduct"
+    },
+    {
+      "test": 2,
+      "stem": "the earliest known civilization in the indian subcontinent is the __________ civilization.",
+      "key": "Indus Valley (Harappan)"
+    }
+  ]
 }

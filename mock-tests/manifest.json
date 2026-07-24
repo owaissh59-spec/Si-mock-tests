@@ -23,7 +23,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "1_test_A_analogies.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 2,
@@ -38,7 +38,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "2_test_B_ancient-history.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 3,
@@ -53,7 +53,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "3_test_C_number-system.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 4,

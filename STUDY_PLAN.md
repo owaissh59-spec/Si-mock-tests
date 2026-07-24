@@ -17,9 +17,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 1 | Morning | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 30 | foundation | Topic-wise | ⬜ |
-| 2 | Afternoon | B — General Awareness | Ancient Indian History | 40 | foundation | Topic-wise | ⬜ |
-| 3 | Late | C — Quantitative Aptitude | Number System, Decimals, Fractions & Simplification | 50 | foundation | Topic-wise | ⬜ |
+| 1 | Morning | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 30 | foundation | Topic-wise | ✅ |
+| 2 | Afternoon | B — General Awareness | Ancient Indian History | 40 | foundation | Topic-wise | ✅ |
+| 3 | Late | C — Quantitative Aptitude | Number System, Decimals, Fractions & Simplification | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 2
 
