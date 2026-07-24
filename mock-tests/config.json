@@ -1,0 +1,26 @@
+{
+  "project": "JKSSB Sub-Inspector (J&K Police) Mock Test System",
+  "medium": "English",
+  "exam_day": 70,
+  "total_planned_tests": 207,
+  "test_counter": 0,
+  "next_test": 1,
+  "last_generated": null,
+  "updated_at": "2026-07-24",
+  "duplicate_policy": "no-exact-and-no-near-duplicate (check subject history shard)",
+  "history_shards": {
+    "A": "mock-tests/history/A.json",
+    "B": "mock-tests/history/B.json",
+    "C": "mock-tests/history/C.json",
+    "D": "mock-tests/history/D.json",
+    "E": "mock-tests/history/E.json",
+    "F": "mock-tests/history/F.json"
+  },
+  "files": {
+    "manifest": "mock-tests/manifest.json",
+    "study_plan": "STUDY_PLAN.md",
+    "syllabus": "syllabus_si.md",
+    "prompt": ".kiro/steering/mock-test-prompt-si.md",
+    "tests_dir": "mock-tests/tests/"
+  }
+}
