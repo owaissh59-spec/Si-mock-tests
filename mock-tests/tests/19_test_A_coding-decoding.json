@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Coding & De-coding",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "In a certain code language, 'ROAD' is written as 'URDG'. How is 'LAKE' written in that code?",
+      "options": [
+        "ODNH",
+        "ODNK",
+        "ODNI",
+        "OCNH"
+      ],
+      "correctAnswer": "ODNH",
+      "explanation": "Each letter is shifted forward by 3 positions: R(18)+3=U(21), O(15)+3=R(18), A(1)+3=D(4), D(4)+3=G(7). Applying to LAKE: L(12)+3=O(15), A(1)+3=D(4), K(11)+3=N(14), E(5)+3=H(8) = ODNH. ODNK is wrong because E+3=H not K. ODNI is wrong because E+3=H not I. OCNH is wrong because A+3=D not C."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements about a coding rule where consonants shift +1 and vowels shift +2:\n\n(i) 'SUN' becomes 'TWP' under this rule.\n(ii) 'BIG' becomes 'CKH' under this rule.\n(iii) 'PET' becomes 'QGU' under this rule.\n(iv) 'MAP' becomes 'NCQ' under this rule.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) S(consonant)+1=T, U(vowel)+2=W, N(consonant)+1=O → TWO ≠ TWP ✗ (last letter should be O not P). (ii) B(consonant)+1=C, I(vowel)+2=K, G(consonant)+1=H → CKH ✓. (iii) P(consonant)+1=Q, E(vowel)+2=G, T(consonant)+1=U → QGU ✓. (iv) M(consonant)+1=N, A(vowel)+2=C, P(consonant)+1=Q → NCQ ✓. Only (i) is incorrect. Option A is wrong because it includes (i). Option C is wrong because (iii) and (iv) are also correct. Option D is wrong because (i) is incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "In a certain code, 'FIRE' is written as 'GJSF'. How is 'COLD' written in that code?",
+      "options": [
+        "DOME",
+        "DPMF",
+        "CPME",
+        "DPME"
+      ],
+      "correctAnswer": "DPME",
+      "explanation": "Each letter is shifted forward by 1: F(6)+1=G(7), I(9)+1=J(10), R(18)+1=S(19), E(5)+1=F(6). Applying to COLD: C(3)+1=D(4), O(15)+1=P(16), L(12)+1=M(13), D(4)+1=E(5) = DPME. DOME is wrong because O+1=P, not O. DPMF is wrong because D+1=E, not F. CPME is wrong because C+1=D, not C."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If 'BANK' is coded as 'EDQN' using a certain rule, then 'LOAN' is coded as 'ORDQ' using the same rule.\nReason (R): The coding rule shifts each letter forward by 3 positions in the alphabet.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(R) is correct — BANK with +3: B(2)+3=E(5), A(1)+3=D(4), N(14)+3=Q(17), K(11)+3=N(14) = EDQN ✓. (A) is correct — LOAN with +3: L(12)+3=O(15), O(15)+3=R(18), A(1)+3=D(4), N(14)+3=Q(17) = ORDQ ✓. (R) directly explains the rule used in (A). Option A is wrong because (R) IS the correct explanation. Option B is wrong because (R) is correct. Option C is wrong because (A) is also correct."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Consider the following statements about coding in a language where 'sky is blue' means '5 3 7', 'blue is deep' means '7 3 9', and 'deep sky high' means '9 5 1':\n\n(i) The code for 'sky' is 5.\n(ii) The code for 'blue' is 7.\n(iii) The code for 'high' is 9.\n(iv) The code for 'is' is 3.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "From 'sky is blue'='5 3 7' and 'blue is deep'='7 3 9': common words 'blue','is' → codes 7,3. From 'sky is blue': sky=5 ✓(i). 'blue is deep': deep=9. From 'deep sky high'='9 5 1': deep=9, sky=5 → high=1, NOT 9. (i) sky=5 ✓. (ii) blue=7 ✓. (iii) high=9 ✗ (high=1). (iv) is=3 ✓. Option A is wrong because (iii) is incorrect. Option C is wrong because (iii) is incorrect and (ii) is correct. Option D is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "In a certain code language, 'TEMPLE' is written as 'VGORNG'. How is 'MARKET' written in the same code?",
+      "options": [
+        "OCTMGV",
+        "NBSLFU",
+        "OCTKGV",
+        "OCSMET"
+      ],
+      "correctAnswer": "OCTMGV",
+      "explanation": "Each letter is shifted forward by 2: T+2=V, E+2=G, M+2=O, P+2=R, L+2=N, E+2=G = VGORNG ✓. Applying to MARKET: M(13)+2=O(15), A(1)+2=C(3), R(18)+2=T(20), K(11)+2=M(13), E(5)+2=G(7), T(20)+2=V(22) = OCTMGV. NBSLFU is wrong (uses +1 shift). OCTKGV is wrong (K+2=M not K). OCSMET is wrong (incorrect shifts applied)."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Match the words in Column I with their mirror/complement codes in Column II (rule: letter at position n becomes letter at position 27-n):\n\nColumn I:\n(a) BAD\n(b) CAT\n(c) FOG\n(d) HEN\n\nColumn II:\n(i) ULT\n(ii) YZW\n(iii) XZG\n(iv) SVM",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Using complement code (27-n): (a) BAD: B(2)→Y(25), A(1)→Z(26), D(4)→W(23) = YZW = (ii). (b) CAT: C(3)→X(24), A(1)→Z(26), T(20)→G(7) = XZG = (iii). (c) FOG: F(6)→U(21), O(15)→L(12), G(7)→T(20) = ULT = (i). (d) HEN: H(8)→S(19), E(5)→V(22), N(14)→M(13) = SVM = (iv). Option A is wrong because (a) matches (ii) not (iii). Option C is wrong because (b) matches (iii) not (i). Option D is wrong because (c) matches (i) not (iv)."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "In a certain code, a word is coded by first reversing it and then shifting each letter forward by 1. What is the code for 'PLANT'?",
+      "options": [
+        "UOBMQ",
+        "UOBNQ",
+        "UOBLQ",
+        "TOBMQ"
+      ],
+      "correctAnswer": "UOBMQ",
+      "explanation": "Step 1 — Reverse PLANT: T-N-A-L-P. Step 2 — Shift each +1: T(20)+1=U(21), N(14)+1=O(15), A(1)+1=B(2), L(12)+1=M(13), P(16)+1=Q(17) = UOBMQ. UOBNQ is wrong because L+1=M not N. UOBLQ is wrong because L+1=M not L. TOBMQ is wrong because T+1=U not T."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Consider the following statements about a code where words are reversed then each letter shifted +2:\n\n(i) 'CAT' becomes 'VCE' (reversed TAC, shifted +2).\n(ii) 'DOG' becomes 'IQF' (reversed GOD, shifted +2).\n(iii) 'PEN' becomes 'PGR' (reversed NEP, shifted +2).\n(iv) 'SUN' becomes 'PWT' (reversed NUS, shifted +2).\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TAC+2: T(20)+2=V, A(1)+2=C, C(3)+2=E = VCE ✓. (ii) GOD+2: G(7)+2=I, O(15)+2=Q, D(4)+2=F = IQF ✓. (iii) NEP+2: N(14)+2=P, E(5)+2=G, P(16)+2=R = PGR ✓. (iv) NUS+2: N(14)+2=P, U(21)+2=W, S(19)+2=U = PWU ≠ PWT ✗. Option A is wrong because (iv) is incorrect. Option B is wrong because (iii) is also correct. Option D is wrong because (iv) is incorrect and (ii) is correct."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Which of the following are correctly coded using a +4 shift rule (each letter moves 4 positions forward)?\n\n(i) 'HAND' becomes 'LERG' — H+4=L, A+4=E, N+4=R, D+4=G?\n(ii) 'BIKE' becomes 'FMOI' — B+4=F, I+4=M, K+4=O, E+4=I.\n(iii) 'JOKE' becomes 'NSOI' — J+4=N, O+4=S, K+4=O, E+4=I.\n(iv) 'MAZE' becomes 'QEDI' — M+4=Q, A+4=E, Z+4=D, E+4=I.\n\nWhich of the above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) H(8)+4=L(12)✓, A(1)+4=E(5)✓, N(14)+4=R(18)✓, D(4)+4=H(8)✓ → LERH ≠ LERG ✗ (claims G but D+4=H). (ii) B(2)+4=F(6)✓, I(9)+4=M(13)✓, K(11)+4=O(15)✓, E(5)+4=I(9)✓ → FMOI ✓. (iii) J(10)+4=N(14)✓, O(15)+4=S(19)✓, K(11)+4=O(15)✓, E(5)+4=I(9)✓ → NSOI ✓. (iv) M(13)+4=Q(17)✓, A(1)+4=E(5)✓, Z(26)+4=D(4, wraps)✓, E(5)+4=I(9)✓ → QEDI ✓. Option A includes (i) which is wrong. Option B excludes (iii) and (iv). Option D includes (i)."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a coding system where vowels are replaced by the next vowel (A→E, E→I, I→O, O→U, U→A) and consonants remain unchanged, 'COIN' becomes 'CUEN'.\nReason (R): In vowel-substitution coding, only vowels change while consonants stay in their original form.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct — vowel-substitution coding only modifies vowels while consonants remain unchanged. (A) is incorrect — COIN: C(consonant)=C, O(vowel)→U, I(vowel)→O, N(consonant)=N = CUON, not CUEN. I should become O (next vowel after I), not E. Option A is wrong because (A) is incorrect. Option B is wrong because (A) is incorrect. Option C is wrong because (A) is incorrect."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "In a number code, each letter is assigned its reverse alphabet value (A=26, B=25, C=24... Z=1). What is the code for 'HELP'?",
+      "options": [
+        "8-5-12-16",
+        "19-22-14-11",
+        "18-21-15-11",
+        "19-22-15-11"
+      ],
+      "correctAnswer": "19-22-15-11",
+      "explanation": "Reverse value = 27 - position: H(8th)→27-8=19, E(5th)→27-5=22, L(12th)→27-12=15, P(16th)→27-16=11. HELP = 19-22-15-11. Option A uses regular positions. Option B has L wrong (14 instead of 15). Option C has H wrong (18 instead of 19) and E wrong (21 instead of 22)."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Study the following coding pattern:\n\n'apple' is coded as '@##!$'\n'plane' is coded as '#!@%$'\n'panel' is coded as '#@%$!'\n\nWhat is the code for 'leap'?",
+      "options": [
+        "$!@#",
+        "!$@#",
+        "#$@!",
+        "!@$#"
+      ],
+      "correctAnswer": "!$@#",
+      "explanation": "From 'apple'→@##!$: a=@, p=#, p=#, l=!, e=$. Verify with 'plane'→#!@%$: p=#, l=!, a=@, n=%, e=$ ✓. Verify with 'panel'→#@%$!: p=#, a=@, n=%, e=$, l=! ✓. So 'leap' = l(!)e($)a(@)p(#) = !$@#. Option A is wrong (starts with $ which is e, but l comes first). Option B is wrong (incorrect order). Option C is wrong (starts with # which is p)."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Match the coded words in Column I with their decoded originals in Column II, given that encoding uses a +3 letter shift:\n\nColumn I:\n(a) FDWFK\n(b) KRXVH\n(c) VWXGB\n(d) QLJKW\n\nColumn II:\n(i) HOUSE\n(ii) NIGHT\n(iii) CATCH\n(iv) STUDY",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Decoding by shifting back 3: (a) FDWFK: F-3=C, D-3=A, W-3=T, F-3=C, K-3=H → CATCH=(iii). (b) KRXVH: K-3=H, R-3=O, X-3=U, V-3=S, H-3=E → HOUSE=(i). (c) VWXGB: V-3=S, W-3=T, X-3=U, G-3=D, B-3→Y (B=2, 2-3 wraps to 25=Y) → STUDY=(iv). (d) QLJKW: Q-3=N, L-3=I, J-3=G, K-3=H, W-3=T → NIGHT=(ii). Option A swaps (a) and (b). Option B swaps (b) and (c). Option D swaps (c) and (d)."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Which of the following are valid decodings using a -2 shift (each coded letter shifted back by 2 to get original)?\n\n(i) Code 'HQOG' decodes to 'FOME'? H-2=F, Q-2=O, O-2=M, G-2=E → FOME ✓.\n(ii) Code 'TVCM' decodes to 'RTAK'? T-2=R, V-2=T, C-2=A, M-2=K → RTAK ✓.\n(iii) Code 'DQEM' decodes to 'BOCK'? D-2=B, Q-2=O, E-2=C, M-2=K → BOCK ✓.\n(iv) Code 'NKPI' decodes to 'LING'? N-2=L, K-2=I, P-2=N, I-2=G → LING ✓.\n\nWhich of the above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) H(8)-2=F(6)✓, Q(17)-2=O(15)✓, O(15)-2=M(13)✓, G(7)-2=E(5)✓ → FOME ✓. (ii) T(20)-2=R(18)✓, V(22)-2=T(20)✓, C(3)-2=A(1)✓, M(13)-2=K(11)✓ → RTAK ✓. (iii) D(4)-2=B(2)✓, Q(17)-2=O(15)✓, E(5)-2=C(3)✓, M(13)-2=K(11)✓ → BOCK ✓. (iv) N(14)-2=L(12)✓, K(11)-2=I(9)✓, P(16)-2=N(14)✓, I(9)-2=G(7)✓ → LING ✓. All four are correct. Option A excludes (iii). Option C excludes (i). Option D only includes (i) and (iii)."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "In a certain code language that shifts each letter 5 positions forward (wrapping Z→A), what is the code for 'BRAVE'?",
+      "options": [
+        "GWFBJ",
+        "GWEAJ",
+        "GWFAJ",
+        "HVFAJ"
+      ],
+      "correctAnswer": "GWFAJ",
+      "explanation": "B(2)+5=G(7), R(18)+5=W(23), A(1)+5=F(6), V(22)+5=27→wraps to 1=A, E(5)+5=J(10) = GWFAJ. GWFBJ is wrong because V+5 wraps to A(1) not B(2). GWEAJ is wrong because A+5=F(6) not E(5). HVFAJ is wrong because B+5=G(7) not H(8)."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Consider the following statements based on this code system:\n'cat and dog' = 'pic nic tic'\n'dog is big' = 'tic sic dic'\n'big cat runs' = 'dic pic wic'\n'runs and jumps' = 'wic nic xic'\n\n(i) The code for 'cat' is 'pic'.\n(ii) The code for 'and' is 'nic'.\n(iii) The code for 'jumps' is 'sic'.\n(iv) The code for 'runs' is 'wic'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "From statements 1&2: 'dog'='tic'. From 1&3: 'cat'='pic' ✓(i). From 2&3: 'big'='dic'. Statement 1: cat=pic, dog=tic → and=nic ✓(ii). Statement 3: big=dic, cat=pic → runs=wic ✓(iv). Statement 4: runs=wic, and=nic → jumps=xic, NOT 'sic' ✗(iii). (iii) is wrong because jumps=xic, and sic=is (from statement 2). Option A is wrong because (iii) is incorrect. Option B is wrong because (iii) is incorrect. Option C is wrong because (ii) is also correct."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "In a certain code, 'BRAIN' is coded by shifting each letter 4 positions forward. What is the coded form of 'BRAIN'?",
+      "options": [
+        "FVEMN",
+        "FUEMR",
+        "FVENR",
+        "FVEMR"
+      ],
+      "correctAnswer": "FVEMR",
+      "explanation": "B(2)+4=F(6), R(18)+4=V(22), A(1)+4=E(5), I(9)+4=M(13), N(14)+4=R(18) = FVEMR. FVEMN is wrong because N(14)+4=R(18), not N. FUEMR is wrong because R(18)+4=V(22), not U(21). FVENR is wrong because I(9)+4=M(13), not N(14)."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "The following table shows a coding scheme:\n\nWord → Code\nRED → #4$\nBLUE → @7*4\nGREEN → 6#44%\nWHITE → &(934\n\nBased on the above, what does the code '4%$' represent?",
+      "options": [
+        "DEN",
+        "TEN",
+        "END",
+        "NET"
+      ],
+      "correctAnswer": "END",
+      "explanation": "From RED→#4$: R=#, E=4, D=$. From BLUE→@7*4: B=@, L=7, U=*, E=4✓. From GREEN→6#44%: G=6, R=#✓, E=4✓, E=4✓, N=%. From WHITE→&(934: W=&, H=(, I=9, T=3, E=4✓. Decoding '4%$': 4=E, %=N, $=D → END. DEN is wrong (would be $4%). TEN is wrong (would be 34%). NET is wrong (would be %43)."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "In a coding system, 'TABLE' is coded as '20-1-2-12-5' using position values (A=1... Z=26). If the code changes to position×2, what is the new code for 'DESK'?",
+      "options": [
+        "4-5-19-11",
+        "8-10-38-22",
+        "8-10-36-22",
+        "8-10-38-20"
+      ],
+      "correctAnswer": "8-10-38-22",
+      "explanation": "D(4th)→4×2=8, E(5th)→5×2=10, S(19th)→19×2=38, K(11th)→11×2=22. DESK = 8-10-38-22. Option A uses simple positions without doubling. Option C has S wrong (36≠19×2=38). Option D has K wrong (20≠11×2=22)."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Which of the following are valid encodings using the mirror/complement code (position n → position 27-n)?\n\n(i) 'FISH' encodes to 'URHS' — F(6)→U(21), I(9)→R(18), S(19)→H(8), H(8)→S(19)\n(ii) 'GIRL' encodes to 'TRIO' — G(7)→T(20), I(9)→R(18), R(18)→I(9), L(12)→O(15)\n(iii) 'LOVE' encodes to 'OLER' — L(12)→O(15), O(15)→L(12), V(22)→E(5), E(5)→R(18)?\n(iv) 'ABCD' encodes to 'ZYXW' — A(1)→Z(26), B(2)→Y(25), C(3)→X(24), D(4)→W(23)\n\nWhich of the above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) F(6)→U(21=27-6)✓, I(9)→R(18=27-9)✓, S(19)→H(8=27-19)✓, H(8)→S(19=27-8)✓ = URHS ✓. (ii) G(7)→T(20=27-7)✓, I(9)→R(18)✓, R(18)→I(9=27-18)✓, L(12)→O(15=27-12)✓ = TRIO ✓. (iii) L(12)→O(15)✓, O(15)→L(12)✓, V(22)→E(5=27-22)✓, E(5)→V(22=27-5)✓ = OLEV ≠ OLER ✗. (iv) A→Z✓, B→Y✓, C→X✓, D→W✓ = ZYXW ✓. Option A is wrong because (iii) is incorrect. Option B is wrong because (iii) is incorrect. Option D is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "In a code, 'WINNER' is coded by shifting each letter 5 positions forward (wrapping after Z). What is the code for 'WINNER'?",
+      "options": [
+        "BNSSJW",
+        "BNSSJS",
+        "BMRRJW",
+        "BNTTJW"
+      ],
+      "correctAnswer": "BNSSJW",
+      "explanation": "W(23)+5=28→28-26=2=B, I(9)+5=N(14), N(14)+5=S(19), N(14)+5=S(19), E(5)+5=J(10), R(18)+5=W(23) = BNSSJW. BNSSJS is wrong because R+5=W not S. BMRRJW is wrong because I+5=N not M and N+5=S not R. BNTTJW is wrong because N+5=S not T."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "In a certain code, 'CHAIR' is coded using reverse position values (A=26, B=25... Z=1). What is the code for 'CHAIR'?",
+      "options": [
+        "3-8-1-9-18",
+        "24-19-26-18-17",
+        "24-19-26-18-9",
+        "23-20-25-17-8"
+      ],
+      "correctAnswer": "24-19-26-18-9",
+      "explanation": "Reverse value = 27 - position: C(3rd)→27-3=24, H(8th)→27-8=19, A(1st)→27-1=26, I(9th)→27-9=18, R(18th)→27-18=9. CHAIR = 24-19-26-18-9. Option A uses regular positions. Option B has R wrong (17≠27-18=9). Option D uses 26-position instead of 27-position."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a code where the word is first reversed and then each letter shifted +2, 'STOP' is coded as 'RQVU'.\nReason (R): Reversing 'STOP' gives 'POTS', and shifting each letter by +2 gives R-Q-V-U.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Reversing STOP gives POTS. Shifting +2: P(16)+2=R(18), O(15)+2=Q(17), T(20)+2=V(22), S(19)+2=U(21) = RQVU ✓. (A) correctly states the coded result. (R) correctly explains the two-step process. (R) is the direct explanation of (A). Option B is wrong because (A) is correct. Option C is wrong because (R) IS the explanation. Option D is wrong because (R) is correct."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements about position-based coding where odd-position letters shift +1 and even-position letters shift -1:\n\n(i) In 'CARD', C(pos1)+1=D, A(pos2)-1=Z, R(pos3)+1=S, D(pos4)-1=C → coded as 'DZSC'.\n(ii) In 'FISH', F(pos1)+1=G, I(pos2)-1=H, S(pos3)+1=T, H(pos4)-1=G → coded as 'GHTG'.\n(iii) In 'LAMP', L(pos1)+1=M, A(pos2)-1=Z, M(pos3)+1=N, P(pos4)-1=O → coded as 'MZNO'.\n(iv) In 'OPEN', O(pos1)+1=P, P(pos2)-1=O, E(pos3)+1=F, N(pos4)-1=M → coded as 'POFN'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) C+1=D✓, A-1=Z(wrap from A back to Z)✓, R+1=S✓, D-1=C✓ → DZSC ✓. (ii) F+1=G✓, I(9)-1=H(8)✓, S+1=T✓, H(8)-1=G(7)✓ → GHTG ✓. (iii) L+1=M✓, A-1=Z✓, M+1=N✓, P-1=O✓ → MZNO ✓. (iv) O+1=P✓, P-1=O✓, E+1=F✓, N(14)-1=M(13)✓ → POFM ≠ POFN ✗ (claims N but correct is M). Option A is wrong because (iv) is incorrect. Option B is wrong because (iv) is incorrect and (i) is correct. Option D is wrong because (iv) is incorrect."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Match the following code words with their meanings:\n\nGiven: 'go run fast' = 'la pa ka', 'run and jump' = 'pa da ta', 'jump very fast' = 'ta na ka'\n\nColumn I:\n(a) la\n(b) pa\n(c) ka\n(d) ta\n\nColumn II:\n(i) run\n(ii) fast\n(iii) go\n(iv) jump",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Statements 1&2 share 'run'→code 'pa'. Statements 1&3 share 'fast'→code 'ka'. Statement 1: go-run-fast = la-pa-ka → go=la. Statements 2&3 share 'jump'→code 'ta'. So: la=go(iii), pa=run(i), ka=fast(ii), ta=jump(iv). Option A swaps (a) and (b). Option B swaps (b) and (c). Option C swaps (c) and (d)."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "If __________ is the coded form of 'LIGHT' using the rule where each letter is shifted 2 positions forward, fill in the blank.",
+      "options": [
+        "NKIJT",
+        "NKIJV",
+        "NKIGV",
+        "NJIJV"
+      ],
+      "correctAnswer": "NKIJV",
+      "explanation": "L(12)+2=N(14), I(9)+2=K(11), G(7)+2=I(9), H(8)+2=J(10), T(20)+2=V(22) = NKIJV. NKIJT is wrong because T+2=V, not T staying same. NKIGV is wrong because H+2=J, not G. NJIJV is wrong because I+2=K, not J."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Study the following coding table:\n\nA=# B=@ C=$ D=% E=^ F=& G=* H=( I=) J=!\nK=+ L=| M== N=~ O=0 P=? Q=> R=/ S=2 T=3\nU=4 V=5 W=6 X=7 Y=8 Z=9\n\nWhat does the code '2 3 4 % 8' represent?",
+      "options": [
+        "STOOD",
+        "DUSTY",
+        "STUDY",
+        "STYED"
+      ],
+      "correctAnswer": "STUDY",
+      "explanation": "Decoding: 2=S, 3=T, 4=U, %=D, 8=Y → S-T-U-D-Y = STUDY. STOOD is wrong (O=0, D=%, so STOOD=2-3-0-0-%). DUSTY is wrong (DUSTY=%-4-2-3-8). STYED is wrong (STYED=2-3-8-^-%)."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "In a data-interpretation scenario, a spy agency uses this encoding table for messages:\n\nLetter: A B C D E F G H I J\nCode:   7 2 9 5 1 8 3 6 4 0\n\nAn agent receives the coded message '5-7-3-3-1-5'. What word was transmitted?",
+      "options": [
+        "GAGGED",
+        "DAGGED",
+        "BAGGED",
+        "TAGGED"
+      ],
+      "correctAnswer": "DAGGED",
+      "explanation": "Decoding: 5=D, 7=A, 3=G, 3=G, 1=E, 5=D → D-A-G-G-E-D = DAGGED. GAGGED is wrong because G=3, so GAGGED would start with 3 not 5. BAGGED is wrong because B=2, so it would start with 2. TAGGED is wrong because T is not in the encoding table provided."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "If A=1, B=2, C=3... Z=26, and a word's code is the product of the values of its first and last letters, what is the code for 'KING'?",
+      "options": [
+        "49",
+        "77",
+        "63",
+        "84"
+      ],
+      "correctAnswer": "77",
+      "explanation": "K is the 11th letter (value=11), G is the 7th letter (value=7). Product of first(K) and last(G) = 11×7 = 77. Option 49 is wrong (7×7 squares only the last letter). Option 63 is wrong (9×7 uses wrong value for K). Option 84 is wrong (12×7 uses L's value)."
+    }
+  ]
+}

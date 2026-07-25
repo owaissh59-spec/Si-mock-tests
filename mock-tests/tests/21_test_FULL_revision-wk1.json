@@ -1,0 +1,657 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision — Week 1 topics (ABCDEF)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "Consider the following statements about the town planning of the Indus Valley Civilization:\n\n(i) Houses were built using sun-dried and baked bricks in a standardized ratio.\n(ii) Most houses had private wells and bathrooms with drainage connections.\n(iii) The citadel was located in the eastern part of the city in all sites.\n(iv) Streets were oriented in cardinal directions (north-south and east-west).\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Harappan bricks were made in a standard 4:2:1 ratio using both sun-dried and kiln-fired techniques. (ii) is correct — archaeological evidence shows most houses had private wells, bathing platforms, and drains connected to the main sewage system. (iv) is correct — streets ran in cardinal directions forming a grid pattern. (iii) is wrong because the citadel (upper town) was typically located in the western part of the city, not the eastern part, as seen at Mohenjo-daro and Harappa."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "If (x − 2)(x + 3) = x² + ax + b, then the values of a and b respectively are:",
+      "options": [
+        "a = −1, b = 6",
+        "a = 1, b = −6",
+        "a = 5, b = −6",
+        "a = 1, b = 6"
+      ],
+      "correctAnswer": "a = 1, b = −6",
+      "explanation": "Expanding (x − 2)(x + 3) = x² + 3x − 2x − 6 = x² + x − 6. Comparing with x² + ax + b: a = 1, b = −6. a = −1, b = 6 is wrong because it reverses both signs. a = 5, b = −6 is wrong because 5 would come from adding the absolute values 2+3. a = 1, b = 6 is wrong because the constant term is (−2)(+3) = −6, not +6."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Choose the word that is most similar in meaning to 'ARDUOUS':",
+      "options": [
+        "Simple",
+        "Strenuous",
+        "Moderate",
+        "Pleasant"
+      ],
+      "correctAnswer": "Strenuous",
+      "explanation": "Arduous means requiring great effort or difficult; strenuous means requiring or involving great effort and energy. Simple is wrong because it means easily done or understood — the opposite of arduous. Pleasant is wrong because it refers to something enjoyable, unrelated to difficulty. Moderate is wrong because it means average or not extreme — lacking the intensity implied by arduous."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Engine is to Fuel as Lamp is to:",
+      "options": [
+        "Oil",
+        "Light",
+        "Electricity",
+        "Wick"
+      ],
+      "correctAnswer": "Oil",
+      "explanation": "An engine requires fuel to function; similarly, a traditional lamp requires oil to function. Light is wrong because light is the output/product of the lamp, not what powers it. Electricity is wrong because a traditional lamp (not an electric lamp) uses oil. Wick is wrong because the wick is a component/part of the lamp, not its power source — the oil is what gets consumed to produce light."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory is faster than RAM but slower than CPU registers.\nReason (R): Cache memory is placed between the CPU and main memory to reduce the average access time for frequently used data.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — in the memory hierarchy, speed order is: registers > cache > RAM > secondary storage. (R) is correct — cache is strategically placed between CPU and RAM to store frequently accessed data and reduce latency. (R) explains (A) because the placement of cache between CPU and RAM is precisely why it is faster than RAM (closer to CPU) but slower than registers (which are inside the CPU). Option 2 is wrong because (R) directly explains the speed positioning of (A). Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Three bells ring at intervals of 8, 12, and 15 minutes respectively. If they ring together at 9:00 AM, when will they next ring together?",
+      "options": [
+        "10:00 AM",
+        "10:30 AM",
+        "11:30 AM",
+        "11:00 AM"
+      ],
+      "correctAnswer": "11:00 AM",
+      "explanation": "LCM of 8, 12, 15: 8 = 2³, 12 = 2² × 3, 15 = 3 × 5. LCM = 2³ × 3 × 5 = 120 minutes = 2 hours. They will next ring together at 9:00 AM + 2 hours = 11:00 AM. 10:00 AM is wrong because 60 minutes is not divisible by 8 (60÷8 = 7.5). 10:30 AM is wrong because 90 minutes is not divisible by 8 or 12 evenly. 11:30 AM is wrong because 150 minutes is not divisible by 8 (150÷8 = 18.75)."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Match the following analogy pairs with their relationship types:\n\nColumn I:\n(a) Scissors : Cloth\n(b) Rain : Flood\n(c) Spoke : Wheel\n(d) Bee : Honey\n\nColumn II:\n(i) Part to whole\n(ii) Producer and product\n(iii) Cause and effect\n(iv) Tool and its action-object\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "Scissors are a tool used to cut cloth (iv — tool and action-object). Rain causes flood (iii — cause and effect). A spoke is a part of a wheel (i — part to whole). A bee produces honey (ii — producer and product). Option 1 is wrong because rain:flood is cause-effect, not part-whole. Option 2 is wrong because scissors:cloth is not cause-effect. Option 3 is wrong because spoke:wheel is part-whole, not producer-product."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Which ancient Indian text describes the system of espionage and intelligence gathering in the Mauryan Empire?",
+      "options": [
+        "Arthashastra",
+        "Indica",
+        "Mudrarakshasa",
+        "Manusmriti"
+      ],
+      "correctAnswer": "Arthashastra",
+      "explanation": "Kautilya's Arthashastra extensively discusses the spy system, classifying spies into different categories and their deployment in governance. Mudrarakshasa is wrong because it is a drama by Vishakhadatta about political intrigue but is not a treatise on statecraft. Manusmriti is wrong because it deals with social and religious laws, not espionage. Indica is wrong because it is Megasthenes' account of Indian society, not a manual on intelligence operations."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Pragmatic' and 'practical' are synonyms.\nReason (R): Both words refer to an approach based on dealing with things realistically rather than theoretically.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — pragmatic means dealing with things sensibly and realistically, making it synonymous with practical. (R) is correct — both words indeed refer to a realistic, results-oriented approach rather than abstract theorizing. (R) explains (A) because the shared meaning described in (R) is precisely what makes the two words synonyms. Option 4 is wrong because (R) directly provides the reason for the synonymous relationship. Option 1 is wrong because (R) is factually accurate. Option 2 is wrong because (A) is correct."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Which of the following are examples of secondary storage devices?\n\n(i) Hard Disk Drive (HDD)\n(ii) RAM\n(iii) Solid State Drive (SSD)\n(iv) Pen Drive (USB Flash Drive)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — HDD is a non-volatile secondary storage device using magnetic platters. (iii) is correct — SSD is a non-volatile secondary storage device using flash memory chips. (iv) is correct — USB pen drives are portable secondary storage devices. (ii) is wrong because RAM (Random Access Memory) is primary memory, not secondary storage — it is volatile and loses data when power is turned off."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Consider the following statements about algebraic identities:\n\n(i) (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca\n(ii) (x + y)³ = x³ + y³ + 3xy(x + y)\n(iii) a³ + b³ = (a + b)(a² + ab + b²)\n(iv) (a − b)³ = a³ − b³ − 3ab(a − b)\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — standard expansion of trinomial square. (ii) is correct — (x+y)³ = x³ + 3x²y + 3xy² + y³ = x³ + y³ + 3xy(x+y). (iv) is correct — (a−b)³ = a³ − 3a²b + 3ab² − b³ = a³ − b³ − 3ab(a−b). (iii) is wrong because a³ + b³ = (a + b)(a² − ab + b²), with a MINUS sign before ab, not plus. The formula (a² + ab + b²) applies to a³ − b³ = (a − b)(a² + ab + b²)."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "The following data shows the number of books issued from a library over 5 days:\n\nMonday: 120, Tuesday: 85, Wednesday: 95, Thursday: 110, Friday: 140.\n\nWhat is the average number of books issued per day?",
+      "options": [
+        "108",
+        "110",
+        "112",
+        "115"
+      ],
+      "correctAnswer": "110",
+      "explanation": "Total books = 120 + 85 + 95 + 110 + 140 = 550. Average = 550 ÷ 5 = 110. 108 is wrong because 108 × 5 = 540, not 550. 112 is wrong because 112 × 5 = 560, not 550. 115 is wrong because 115 × 5 = 575, not 550."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Which of the following are examples of analogies based on an 'opposite/antonym' relationship?\n\n(i) Bravery : Cowardice\n(ii) Victory : Defeat\n(iii) Teacher : Student\n(iv) Night : Day\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — bravery and cowardice are antonyms (opposite qualities). (ii) is correct — victory and defeat are antonyms (opposite outcomes). (iv) is correct — night and day are antonyms (opposite times). (iii) is wrong because teacher:student is a relational pair (instructor-learner), not an antonym pair — they are complementary, not opposite."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "Match the following computer memory types with their characteristics:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) Cache\n(d) Register\n\nColumn II:\n(i) Fastest memory, located inside CPU\n(ii) Volatile primary memory, stores running programs\n(iii) Non-volatile, stores firmware/BIOS\n(iv) Small, fast memory between CPU and RAM\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "RAM is volatile primary memory that stores currently running programs and data (ii). ROM is non-volatile and stores firmware like BIOS (iii). Cache is a small, fast memory positioned between CPU and RAM (iv). Registers are the fastest memory located directly inside the CPU (i). Option 1 is wrong because it swaps ROM and cache characteristics. Option 2 is wrong because it assigns cache's role to RAM. Option 3 is wrong because it swaps cache and register descriptions."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Harappan script has not been deciphered till date.\nReason (R): The Harappan inscriptions are very short, averaging only 4-5 symbols, and no bilingual text has been found.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — despite many attempts, the Indus/Harappan script remains undeciphered. (R) is correct — the inscriptions are extremely brief (average 4-5 signs) and no bilingual inscription (like a Rosetta Stone equivalent) has been discovered. (R) explains (A) because the brevity of texts and absence of bilingual keys are the primary obstacles preventing decipherment. Option 1 is wrong because (R) directly explains the difficulty stated in (A). Option 2 is wrong because (R) is factually accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "The value of (997)² using algebraic identity is:",
+      "options": [
+        "993009",
+        "995009",
+        "994019",
+        "994009"
+      ],
+      "correctAnswer": "994009",
+      "explanation": "Using (a − b)² = a² − 2ab + b²: (1000 − 3)² = 1000² − 2(1000)(3) + 3² = 1000000 − 6000 + 9 = 994009. 993009 is wrong because it subtracts 7000 instead of 6000. 994019 is wrong because it adds 19 instead of 9 (3² = 9, not 19). 995009 is wrong because it subtracts 5000 instead of 6000."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Which of the following are correct synonym pairs?\n\n(i) Vexed — Annoyed\n(ii) Placid — Turbulent\n(iii) Candid — Frank\n(iv) Meticulous — Careless\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — vexed means irritated or annoyed; they share the same meaning. (iii) is correct — candid means open and honest, synonymous with frank. (ii) is wrong because placid means calm and peaceful — it is the antonym of turbulent. (iv) is wrong because meticulous means showing great attention to detail — it is the antonym of careless."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The square of any odd number is always odd.\nReason (R): An odd number can be written as (2n + 1), and (2n + 1)² = 4n² + 4n + 1, which is always odd.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — examples: 3² = 9, 5² = 25, 7² = 49 — all odd. (R) is correct — (2n+1)² = 4n² + 4n + 1 = 2(2n² + 2n) + 1, which is of the form 2m + 1 (odd). (R) explains (A) because it provides the algebraic proof for why the square of any odd number must be odd. Option 1 is wrong because (R) directly proves (A). Option 2 is wrong because (R) is mathematically valid. Option 3 is wrong because (A) is correct."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy 'Library : Librarian :: Hospital : Doctor', the relationship is institution-to-professional.\nReason (R): In institutional analogies, the professional is the person who provides the primary service at that institution.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — a librarian is the key professional at a library, and a doctor is the key professional at a hospital, making this an institution-to-professional analogy. (R) is correct — institutional analogies pair places with the professionals who deliver core services there. (R) explains (A) because the concept described in (R) is exactly what defines the relationship in (A). Option 3 is wrong because (R) directly explains the analogy type in (A). Option 1 is wrong because (R) is a valid principle. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "The binary number system uses a base of:",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "correctAnswer": "2",
+      "explanation": "The binary number system uses base-2 with only two digits: 0 and 1. 8 is wrong because base-8 is the octal number system. 10 is wrong because base-10 is the decimal (human counting) system. 16 is wrong because base-16 is the hexadecimal number system."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Which of the following are teachings of Mahavira (Jainism)?\n\n(i) Non-violence (Ahimsa) is the supreme moral virtue.\n(ii) Truth (Satya) should be practiced in thought, word, and deed.\n(iii) God is the creator of the universe.\n(iv) Non-attachment (Aparigraha) to material possessions.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Ahimsa is the foremost of the five Jain vows and the supreme ethical principle. (ii) is correct — Satya (truth) is the second Mahavrata, to be practiced completely. (iv) is correct — Aparigraha (non-possessiveness) is the fifth Mahavrata, teaching detachment from material goods. (iii) is wrong because Jainism is a non-theistic religion that does not believe in a creator God — it teaches that the universe is eternal and uncreated."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "If x + y = 7 and xy = 10, find the value of x² + y².",
+      "options": [
+        "39",
+        "29",
+        "49",
+        "19"
+      ],
+      "correctAnswer": "29",
+      "explanation": "Using identity: (x + y)² = x² + 2xy + y², so x² + y² = (x + y)² − 2xy = 7² − 2(10) = 49 − 20 = 29. 49 is wrong because that is simply (x+y)² without subtracting 2xy. 39 is wrong because it subtracts only xy instead of 2xy (49 − 10 = 39). 19 is wrong because it subtracts 3xy (49 − 30 = 19)."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The word 'EPHEMERAL' is most similar in meaning to:",
+      "options": [
+        "Eternal",
+        "Permanent",
+        "Transient",
+        "Enduring"
+      ],
+      "correctAnswer": "Transient",
+      "explanation": "Ephemeral means lasting for a very short time; transient means not permanent, existing briefly. Eternal is wrong because it means lasting forever — the direct opposite of ephemeral. Permanent is wrong because it means lasting indefinitely — antonym of ephemeral. Enduring is wrong because it means continuing for a long time — opposite in meaning."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "In the number analogy '3 : 28 :: 5 : ?', what number should replace the question mark?",
+      "options": [
+        "124",
+        "130",
+        "122",
+        "126"
+      ],
+      "correctAnswer": "126",
+      "explanation": "The pattern is n³ + 1: 3³ + 1 = 27 + 1 = 28; therefore 5³ + 1 = 125 + 1 = 126. 124 is wrong because 5³ − 1 = 124 (subtraction instead of addition). 122 is wrong because it does not follow any consistent pattern with 3:28. 130 is wrong because 5³ + 5 = 130 (adding n instead of 1)."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Consider the following statements about the generations of computers:\n\n(i) First generation computers used vacuum tubes.\n(ii) Second generation computers used transistors.\n(iii) Third generation computers used microprocessors.\n(iv) Fourth generation computers used VLSI (Very Large Scale Integration).\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — first generation (1940s-1950s) used vacuum tubes like ENIAC and UNIVAC. (ii) is correct — second generation (1950s-1960s) used transistors which were smaller and more reliable. (iv) is correct — fourth generation (1970s-present) uses VLSI/ULSI microprocessor technology. (iii) is wrong because third generation computers used Integrated Circuits (ICs), not microprocessors — microprocessors came in the fourth generation with VLSI."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "If the HCF of two numbers is 18 and their LCM is 360, and one of the numbers is 72, then the other number is:",
+      "options": [
+        "108",
+        "80",
+        "90",
+        "120"
+      ],
+      "correctAnswer": "90",
+      "explanation": "Using the relation: HCF × LCM = Product of two numbers. So 18 × 360 = 72 × other number. Other number = (18 × 360)/72 = 6480/72 = 90. 108 is wrong because 72 × 108 = 7776, and 7776/18 = 432 ≠ 360 (LCM check fails). 80 is wrong because HCF(72, 80) = 8, not 18. 120 is wrong because 72 × 120 = 8640, and 8640/18 = 480 ≠ 360."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Match the following Vedic texts with their primary content:\n\nColumn I:\n(a) Rigveda\n(b) Samaveda\n(c) Yajurveda\n(d) Atharvaveda\n\nColumn II:\n(i) Hymns set to musical notations for chanting\n(ii) Spells, charms, and medicinal knowledge\n(iii) Hymns of praise dedicated to nature gods\n(iv) Prose mantras and sacrificial procedures\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Rigveda contains hymns of praise to nature gods like Indra, Agni, Varuna (iii). Samaveda sets Rigvedic hymns to musical melodies for ritual chanting (i). Yajurveda contains prose mantras and procedures for performing sacrifices (iv). Atharvaveda contains spells, charms, magic formulae, and early medicinal knowledge (ii). Option 1 is wrong because it swaps Samaveda and Yajurveda content. Option 2 is wrong because it assigns musical content to Rigveda. Option 3 is wrong because it swaps Yajurveda and Atharvaveda content."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): (x + 5)(x − 5) = x² − 25.\nReason (R): The product of the sum and difference of two terms equals the difference of their squares.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — (x+5)(x−5) = x² − 5² = x² − 25 by direct expansion. (R) is correct — (a+b)(a−b) = a² − b² is a standard algebraic identity. (R) explains (A) because (A) is simply a specific case (a=x, b=5) of the general identity stated in (R). Option 1 is wrong because (R) is the exact principle that validates (A). Option 2 is wrong because (R) is a proven algebraic identity. Option 3 is wrong because (A) is correct."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Fill in the blank with the most appropriate synonym:\n\n\"The committee praised the __________ efforts of the volunteers in providing relief to flood victims.\"\n(Meaning required: selfless, generous)",
+      "options": [
+        "Parsimonious",
+        "Magnanimous",
+        "Malicious",
+        "Negligent"
+      ],
+      "correctAnswer": "Magnanimous",
+      "explanation": "Magnanimous means very generous and selfless, especially toward a rival or less powerful person — it fits the context of praising selfless relief efforts. Parsimonious is wrong because it means excessively unwilling to spend money — the opposite of generous. Malicious is wrong because it means intending harm — completely inappropriate for praising volunteers. Negligent is wrong because it means failing to take proper care — negative meaning inappropriate in this context."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The Eightfold Path (Ashtangika Marga) in Buddhism includes all of the following EXCEPT:",
+      "options": [
+        "Right Speech",
+        "Right Livelihood",
+        "Right Mindfulness",
+        "Right Worship"
+      ],
+      "correctAnswer": "Right Worship",
+      "explanation": "The Noble Eightfold Path includes: Right View, Right Intention, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration. 'Right Worship' is NOT one of the eight components — Buddha rejected ritualistic worship as a path to liberation. Right Speech is wrong as an answer because it IS part of the Eightfold Path (ethical conduct). Right Livelihood is wrong as an answer because it IS part of the path (earning living ethically). Right Mindfulness is wrong as an answer because it IS part of the path (mental discipline)."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Consider the following statements about symbolic/number analogies:\n\n(i) They test pattern recognition in mathematical sequences.\n(ii) The relationship in '2 : 6 :: 3 : 12' is n : 3n (constant multiplier).\n(iii) In letter-number analogies, each letter is assigned its position value (A=1, B=2...).\n(iv) '+ : − :: × : ÷' represents an operation-and-its-inverse relationship.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — symbolic/number analogies test the ability to identify patterns in mathematical sequences. (iii) is correct — in letter-number analogies, the positional value system (A=1, B=2, C=3...) is standard. (iv) is correct — addition and subtraction are inverse operations, and multiplication and division are inverse operations. (ii) is wrong because 2:6 gives a multiplier of 3 (2×3=6), but 3:12 gives a multiplier of 4 (3×4=12) — the multiplier is NOT constant at 3. The actual relationship is n : n×(n+1), not n : 3n."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "The Jain concept of 'Syadvada' (Anekantavada) teaches that:",
+      "options": [
+        "Violence is acceptable in self-defense",
+        "Only one path leads to liberation",
+        "Truth is relative and can be viewed from multiple perspectives",
+        "The soul does not exist after death"
+      ],
+      "correctAnswer": "Truth is relative and can be viewed from multiple perspectives",
+      "explanation": "Syadvada (the doctrine of 'maybe') and Anekantavada (many-sidedness) are core Jain philosophical principles teaching that reality is complex and truth can be understood from multiple valid viewpoints. 'Violence is acceptable in self-defense' is wrong because Jainism maintains absolute non-violence with no exceptions. 'Only one path leads to liberation' is wrong because this contradicts the pluralistic nature of Anekantavada. 'The soul does not exist after death' is wrong because Jainism believes in the eternal soul (jiva) that undergoes rebirth until liberation."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Factorize: x² − 9x + 20",
+      "options": [
+        "(x − 2)(x − 10)",
+        "(x + 4)(x + 5)",
+        "(x − 4)(x − 5)",
+        "(x − 4)(x + 5)"
+      ],
+      "correctAnswer": "(x − 4)(x − 5)",
+      "explanation": "We need two numbers whose product is +20 and sum is −9. Those are −4 and −5 (since (−4)×(−5)=20 and (−4)+(−5)=−9). So x² − 9x + 20 = (x − 4)(x − 5). (x − 2)(x − 10) is wrong because (−2)+(−10)=−12, not −9. (x + 4)(x + 5) is wrong because (+4)+(+5)=+9, giving x² + 9x + 20. (x − 4)(x + 5) is wrong because (−4)(+5)=−20, not +20."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Match the following words with their synonym relationships:\n\nColumn I:\n(a) Thermometer : Temperature\n(b) Barometer : Pressure\n(c) Hygrometer : Humidity\n(d) Odometer : Distance\n\nColumn II:\n(i) Measures atmospheric moisture content\n(ii) Measures distance traveled by a vehicle\n(iii) Measures degree of heat\n(iv) Measures atmospheric pressure\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Thermometer measures temperature/degree of heat (iii). Barometer measures atmospheric pressure (iv). Hygrometer measures humidity/moisture content (i). Odometer measures distance traveled (ii). Option 1 is wrong because it swaps thermometer and barometer. Option 2 is wrong because it swaps barometer and hygrometer. Option 4 is wrong because it swaps hygrometer and odometer."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "Which of the following are true statements about prime factorization?\n\n(i) Every composite number can be expressed as a product of prime numbers.\n(ii) The prime factorization of a number is unique (Fundamental Theorem of Arithmetic).\n(iii) 1 is considered a prime number in factorization.\n(iv) The number of distinct prime factors of 360 is 3.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — every composite number has a prime factorization (e.g., 12 = 2² × 3). (ii) is correct — the Fundamental Theorem of Arithmetic states that prime factorization is unique (except for ordering). (iv) is correct — 360 = 2³ × 3² × 5¹, which has 3 distinct prime factors (2, 3, and 5). (iii) is wrong because 1 is neither prime nor composite — by definition, a prime must have exactly two distinct positive divisors (1 and itself), but 1 has only one divisor."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An operating system is essential for a computer to function effectively.\nReason (R): The operating system manages hardware resources, provides a user interface, and enables application programs to run.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — without an operating system, a computer cannot provide a usable environment for running programs or managing hardware effectively. (R) is correct — the OS manages memory, CPU scheduling, I/O devices, provides user interfaces (GUI/CLI), and creates the platform for applications. (R) explains (A) because the essential functions described in (R) are precisely why the OS is necessary for computer operation. Option 1 is wrong because (R) directly explains the necessity stated in (A). Option 2 is wrong because (R) accurately describes OS functions. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The ancient Indian mathematician who formally defined zero as a number and established rules for arithmetic operations involving zero was:",
+      "options": [
+        "Aryabhata",
+        "Varahamihira",
+        "Bhaskara I",
+        "Brahmagupta"
+      ],
+      "correctAnswer": "Brahmagupta",
+      "explanation": "Brahmagupta (598–668 CE) was the first to formally define zero as a number and establish rules for arithmetic operations involving zero in his work Brahmasphutasiddhanta. Aryabhata is wrong because while Aryabhata used a place-value system and implicitly used zero as a placeholder, he did not formally define zero as a number with arithmetic rules. Varahamihira is wrong because he was primarily an astronomer known for Pancha-Siddhantika, not for the concept of zero. Bhaskara I is wrong because he was a commentator on Aryabhata's work, not the originator of zero's arithmetic rules."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "If 'PARK' is coded as 'RCTM' (each letter shifted by +2, +2, +2, +2), then 'LAKE' coded using the same rule would be:",
+      "options": [
+        "NCMG",
+        "NCLG",
+        "NBMG",
+        "NCME"
+      ],
+      "correctAnswer": "NCMG",
+      "explanation": "Each letter is shifted forward by 2 positions: L+2=N, A+2=C, K+2=M, E+2=G. Result: NCMG. Verification with PARK: P+2=R, A+2=C, R+2=T, K+2=M = RCTM ✓. NCLG is wrong because K+2=M not L. NBMG is wrong because A+2=C not B. NCME is wrong because E+2=G not E (the last letter must be shifted too)."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Match the following expressions with their factorized forms:\n\nColumn I:\n(a) x² − 16\n(b) x² + 10x + 25\n(c) x² − 6x + 9\n(d) x³ + 8\n\nColumn II:\n(i) (x − 3)²\n(ii) (x + 2)(x² − 2x + 4)\n(iii) (x + 5)²\n(iv) (x + 4)(x − 4)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "x² − 16 = (x+4)(x−4) using a²−b² identity (iv). x² + 10x + 25 = (x+5)² using (a+b)² identity (iii). x² − 6x + 9 = (x−3)² using (a−b)² identity (i). x³ + 8 = x³ + 2³ = (x+2)(x²−2x+4) using a³+b³ identity (ii). Option 1 is wrong because it swaps (b) and (c). Option 2 is wrong because it swaps (a) and (b). Option 3 is wrong because it swaps (c) and (d)."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "If a + b + c = 0, where a = 3, b = −5, and c = 2, then the value of a³ + b³ + c³ is __________.",
+      "options": [
+        "90",
+        "−45",
+        "−90",
+        "0"
+      ],
+      "correctAnswer": "−90",
+      "explanation": "Using identity: when a + b + c = 0, then a³ + b³ + c³ = 3abc. Here a=3, b=−5, c=2 and a+b+c = 3+(−5)+2 = 0 ✓. Therefore a³+b³+c³ = 3abc = 3×(3)×(−5)×(2) = 3×(−30) = −90. Verification: 3³+(−5)³+2³ = 27+(−125)+8 = −90 ✓. 90 is wrong because it incorrectly takes the absolute value of the product. −45 is wrong because it only calculates abc = −30 and adds −15 or uses an incorrect formula. 0 is wrong because while a+b+c=0, the identity gives 3abc (not 0) for the sum of cubes."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Affluent' is a synonym of 'wealthy'.\n(ii) 'Frugal' is a synonym of 'extravagant'.\n(iii) 'Tenacious' is a synonym of 'persistent'.\n(iv) 'Lethargic' is a synonym of 'energetic'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — affluent means having a great deal of money, synonymous with wealthy. (iii) is correct — tenacious means holding firmly to something, synonymous with persistent/determined. (ii) is wrong because frugal means sparing with money — it is the antonym of extravagant. (iv) is wrong because lethargic means lacking energy or enthusiasm — it is the antonym of energetic."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "The tax called 'Shulka' in the Mauryan administration referred to:",
+      "options": [
+        "King's share of agricultural produce",
+        "Tax on irrigation water",
+        "Customs and trade duty",
+        "Forced labor contribution"
+      ],
+      "correctAnswer": "Customs and trade duty",
+      "explanation": "Shulka was the customs duty or trade tax collected on goods entering and leaving cities and ports during the Mauryan period. King's share of agricultural produce is wrong because that was called 'Bhaga' (typically 1/6th of the crop). Tax on irrigation water is wrong because water tax was a separate levy called 'Udakabhaga'. Forced labor contribution is wrong because unpaid labor service was called 'Vishti'."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Thermometer is to Temperature as Anemometer is to:",
+      "options": [
+        "Wind Speed",
+        "Rainfall",
+        "Air Pressure",
+        "Humidity"
+      ],
+      "correctAnswer": "Wind Speed",
+      "explanation": "A thermometer measures temperature; similarly, an anemometer measures wind speed. Humidity is wrong because humidity is measured by a hygrometer. Rainfall is wrong because rainfall is measured by a rain gauge (pluviometer). Air Pressure is wrong because air pressure is measured by a barometer."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "The value of 105 × 95 using algebraic identity is:",
+      "options": [
+        "9975",
+        "9925",
+        "10025",
+        "9950"
+      ],
+      "correctAnswer": "9975",
+      "explanation": "Using (a+b)(a−b) = a²−b²: 105×95 = (100+5)(100−5) = 100² − 5² = 10000 − 25 = 9975. 9925 is wrong because it subtracts 75 instead of 25 from 10000. 9950 is wrong because it subtracts 50 instead of 25. 10025 is wrong because it adds 25 to 10000 instead of subtracting."
+    },
+    {
+      "id": "45",
+      "subject": "C",
+      "questionText": "Match the following mathematical concepts with their definitions:\n\nColumn I:\n(a) Co-prime numbers\n(b) Perfect numbers\n(c) Twin primes\n(d) Fibonacci sequence\n\nColumn II:\n(i) Pairs of primes differing by 2\n(ii) Numbers whose HCF is 1\n(iii) Each term is sum of two preceding terms\n(iv) Numbers equal to the sum of their proper divisors\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Co-prime numbers are those whose HCF (highest common factor) is 1 (ii). Perfect numbers equal the sum of their proper divisors, e.g., 6=1+2+3 (iv). Twin primes are prime pairs with a difference of 2, e.g., (11,13) (i). Fibonacci sequence: each term equals the sum of the two preceding terms (1,1,2,3,5,8...) (iii). Option 1 is wrong because it swaps perfect numbers and twin primes. Option 2 is wrong because it assigns 'sum of proper divisors' to co-primes. Option 3 is wrong because it swaps twin primes and Fibonacci."
+    },
+    {
+      "id": "46",
+      "subject": "B",
+      "questionText": "The 'Dhamma Mahamatras' appointed by Ashoka were responsible for:",
+      "options": [
+        "Collecting revenue from farmers",
+        "Propagating principles of Dhamma among people",
+        "Commanding army divisions",
+        "Maintaining law courts and prisons"
+      ],
+      "correctAnswer": "Propagating principles of Dhamma among people",
+      "explanation": "Dhamma Mahamatras were special officers appointed by Ashoka to spread the principles of Dhamma (righteousness, tolerance, non-violence) among all sections of society. Collecting revenue is wrong because revenue collection was handled by other officials like 'Samaharta'. Commanding army divisions is wrong because military affairs were managed by the 'Senapati' and war council. Maintaining law courts is wrong because judicial functions were handled by 'Rajuka' and 'Vyavaharika' officials."
+    },
+    {
+      "id": "47",
+      "subject": "A",
+      "questionText": "Archipelago is to Islands as Bouquet is to:",
+      "options": [
+        "Garden",
+        "Flowers",
+        "Fragrance",
+        "Vase"
+      ],
+      "correctAnswer": "Flowers",
+      "explanation": "An archipelago is a group/collection of islands; similarly, a bouquet is a group/collection of flowers. Garden is wrong because a garden is a place where flowers grow, not a collection of flowers specifically gathered together. Fragrance is wrong because fragrance is a quality/attribute of flowers, not a collection. Vase is wrong because a vase is a container for holding flowers, not the collective itself."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Fill in the blank with the correct synonym:\n\n\"The explorer's __________ spirit led him to venture into uncharted territories.\"\n(Meaning required: bold, daring)",
+      "options": [
+        "Intrepid",
+        "Diffident",
+        "Timorous",
+        "Cautious"
+      ],
+      "correctAnswer": "Intrepid",
+      "explanation": "Intrepid means fearless and adventurous, making it the perfect synonym for bold/daring in this context about exploring uncharted territories. Timorous is wrong because it means nervous and lacking confidence — the opposite of bold. Diffident is wrong because it means modest and shy — opposite of daring. Cautious is wrong because it means careful to avoid danger — while not exactly opposite, it contradicts the boldness required."
+    },
+    {
+      "id": "49",
+      "subject": "F",
+      "questionText": "The decimal equivalent of the binary number 1101 is:",
+      "options": [
+        "13",
+        "12",
+        "11",
+        "15"
+      ],
+      "correctAnswer": "13",
+      "explanation": "Converting binary 1101 to decimal: 1×2³ + 1×2² + 0×2¹ + 1×2⁰ = 8 + 4 + 0 + 1 = 13. 11 is wrong because 11 in binary is 1011, not 1101. 12 is wrong because 12 in binary is 1100, not 1101. 15 is wrong because 15 in binary is 1111, not 1101."
+    },
+    {
+      "id": "50",
+      "subject": "C",
+      "questionText": "Two numbers are in the ratio 3:5. If their LCM is 120, what is their HCF?",
+      "options": [
+        "12",
+        "10",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "8",
+      "explanation": "Let the numbers be 3x and 5x. Since 3 and 5 are co-prime, LCM of 3x and 5x = 15x. Given LCM = 120, so 15x = 120, hence x = 8. The HCF of 3x and 5x = x = 8. Verification: Numbers are 24 and 40. HCF(24,40) = 8 ✓, LCM(24,40) = 120 ✓. 10 is wrong because if HCF=10, numbers would be 30 and 50, and LCM(30,50)=150≠120. 6 is wrong because if HCF=6, numbers would be 18 and 30, and LCM(18,30)=90≠120. 12 is wrong because if HCF=12, numbers would be 36 and 60, and LCM(36,60)=180≠120."
+    }
+  ]
+}

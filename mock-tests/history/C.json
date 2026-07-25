@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 150,
+  "count": 158,
   "questions": [
     {
       "test": 3,
@@ -752,6 +752,46 @@
       "test": 15,
       "stem": "match the following word problems with their solutions: column i: (a) divide",
       "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 21,
+      "stem": "three bells ring at intervals of 8, 12, and 15 minutes respectively.",
+      "key": "11:00 AM"
+    },
+    {
+      "test": 21,
+      "stem": "the following data shows the number of books issued from a library",
+      "key": "110"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "if the hcf of two numbers is 18 and their lcm is",
+      "key": "90"
+    },
+    {
+      "test": 21,
+      "stem": "which of the following are true statements about prime factorization? (i) every",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "if a + b + c = 0, where a = 3,",
+      "key": "−90"
+    },
+    {
+      "test": 21,
+      "stem": "match the following mathematical concepts with their definitions: column i: (a) co-prime",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 21,
+      "stem": "two numbers are in the ratio 3:5. if their lcm is 120,",
+      "key": "8"
     }
   ]
 }

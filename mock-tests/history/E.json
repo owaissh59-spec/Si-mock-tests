@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 120,
+  "count": 128,
   "questions": [
     {
       "test": 5,
@@ -602,6 +602,46 @@
       "test": 17,
       "stem": "consider the following statements: (i) two triangles with equal areas are always",
       "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "if (x − 2)(x + 3) = x² + ax + b,",
+      "key": "a = 1, b = −6"
+    },
+    {
+      "test": 21,
+      "stem": "consider the following statements about algebraic identities: (i) (a + b +",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "the value of (997)² using algebraic identity is:",
+      "key": "994009"
+    },
+    {
+      "test": 21,
+      "stem": "if x + y = 7 and xy = 10, find the",
+      "key": "29"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "factorize: x² − 9x + 20",
+      "key": "(x − 4)(x − 5)"
+    },
+    {
+      "test": 21,
+      "stem": "match the following expressions with their factorized forms: column i: (a) x²",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 21,
+      "stem": "the value of 105 × 95 using algebraic identity is:",
+      "key": "9975"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 90,
+  "count": 130,
   "questions": [
     {
       "test": 1,
@@ -452,6 +452,206 @@
       "test": 13,
       "stem": "consider the following statements: (i) in the series 144, 121, 100, 81,",
       "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code language, 'road' is written as 'urdg'. how is",
+      "key": "ODNH"
+    },
+    {
+      "test": 19,
+      "stem": "consider the following statements about a coding rule where consonants shift +1",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code, 'fire' is written as 'gjsf'. how is 'cold'",
+      "key": "DPME"
+    },
+    {
+      "test": 19,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 19,
+      "stem": "consider the following statements about coding in a language where 'sky is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code language, 'temple' is written as 'vgorng'. how is",
+      "key": "OCTMGV"
+    },
+    {
+      "test": 19,
+      "stem": "match the words in column i with their mirror/complement codes in column",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code, a word is coded by first reversing it",
+      "key": "UOBMQ"
+    },
+    {
+      "test": 19,
+      "stem": "consider the following statements about a code where words are reversed then",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 19,
+      "stem": "which of the following are correctly coded using a +4 shift rule",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 19,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 19,
+      "stem": "in a number code, each letter is assigned its reverse alphabet value",
+      "key": "19-22-15-11"
+    },
+    {
+      "test": 19,
+      "stem": "study the following coding pattern: 'apple' is coded as '@##!$' 'plane' is",
+      "key": "!$@#"
+    },
+    {
+      "test": 19,
+      "stem": "match the coded words in column i with their decoded originals in",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 19,
+      "stem": "which of the following are valid decodings using a -2 shift (each",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code language that shifts each letter 5 positions forward",
+      "key": "GWFAJ"
+    },
+    {
+      "test": 19,
+      "stem": "consider the following statements based on this code system: 'cat and dog'",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code, 'brain' is coded by shifting each letter 4",
+      "key": "FVEMR"
+    },
+    {
+      "test": 19,
+      "stem": "the following table shows a coding scheme: word → code red →",
+      "key": "END"
+    },
+    {
+      "test": 19,
+      "stem": "in a coding system, 'table' is coded as '20-1-2-12-5' using position values",
+      "key": "8-10-38-22"
+    },
+    {
+      "test": 19,
+      "stem": "which of the following are valid encodings using the mirror/complement code (position",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 19,
+      "stem": "in a code, 'winner' is coded by shifting each letter 5 positions",
+      "key": "BNSSJW"
+    },
+    {
+      "test": 19,
+      "stem": "in a certain code, 'chair' is coded using reverse position values (a=26,",
+      "key": "24-19-26-18-9"
+    },
+    {
+      "test": 19,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 19,
+      "stem": "consider the following statements about position-based coding where odd-position letters shift +1",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 19,
+      "stem": "match the following code words with their meanings: given: 'go run fast'",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 19,
+      "stem": "if __________ is the coded form of 'light' using the rule where",
+      "key": "NKIJV"
+    },
+    {
+      "test": 19,
+      "stem": "study the following coding table: a=# b=@ c=$ d=% e=^ f=& g=*",
+      "key": "STUDY"
+    },
+    {
+      "test": 19,
+      "stem": "in a data-interpretation scenario, a spy agency uses this encoding table for",
+      "key": "DAGGED"
+    },
+    {
+      "test": 19,
+      "stem": "if a=1, b=2, c=3... z=26, and a word's code is the product",
+      "key": "77"
+    },
+    {
+      "test": 21,
+      "stem": "engine is to fuel as lamp is to:",
+      "key": "Oil"
+    },
+    {
+      "test": 21,
+      "stem": "match the following analogy pairs with their relationship types: column i: (a)",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 21,
+      "stem": "which of the following are examples of analogies based on an 'opposite/antonym'",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "in the number analogy '3 : 28 :: 5 : ?', what",
+      "key": "126"
+    },
+    {
+      "test": 21,
+      "stem": "consider the following statements about symbolic/number analogies: (i) they test pattern recognition",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "match the following words with their synonym relationships: column i: (a) thermometer",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 21,
+      "stem": "if 'park' is coded as 'rctm' (each letter shifted by +2, +2,",
+      "key": "NCMG"
+    },
+    {
+      "test": 21,
+      "stem": "thermometer is to temperature as anemometer is to:",
+      "key": "Wind Speed"
+    },
+    {
+      "test": 21,
+      "stem": "archipelago is to islands as bouquet is to:",
+      "key": "Flowers"
     }
   ]
 }

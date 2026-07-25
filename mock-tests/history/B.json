@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 120,
+  "count": 170,
   "questions": [
     {
       "test": 2,
@@ -602,6 +602,256 @@
       "test": 14,
       "stem": "the leader known as 'frontier gandhi' who organized the khudai khidmatgar movement",
       "key": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "test": 20,
+      "stem": "the neolithic site of burzahom, one of the earliest known settlements in",
+      "key": "Srinagar"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements: (i) the neolithic site of gufkral is known",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 20,
+      "stem": "the karkota dynasty was founded by:",
+      "key": "Durlabhavardhana"
+    },
+    {
+      "test": 20,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 20,
+      "stem": "which of the following are correctly associated with avantivarman's rule in kashmir?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 20,
+      "stem": "the rajatarangini, a historical chronicle of kashmir written by kalhana, was composed",
+      "key": "12th century CE"
+    },
+    {
+      "test": 20,
+      "stem": "shah mir, who founded the first muslim dynasty of kashmir in 1339",
+      "key": "Sultan Shams-ud-Din"
+    },
+    {
+      "test": 20,
+      "stem": "match the following rulers of kashmir with their contributions: column i: (a)",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 20,
+      "stem": "sultan zain-ul-abidin (budshah) is famous for which of the following?",
+      "key": "Banning the practice of Sati and promoting religious tolerance"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements: (i) kashmir was annexed by the mughal empire",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements: (i) the chak dynasty was the last local",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 20,
+      "stem": "the treaty of amritsar (1846), by which the british transferred jammu &",
+      "key": "First Anglo-Sikh War"
+    },
+    {
+      "test": 20,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 20,
+      "stem": "maharaja ranbir singh of jammu & kashmir is known for:",
+      "key": "Establishing Dharmarth Trust and codifying Dogra laws"
+    },
+    {
+      "test": 20,
+      "stem": "which of the following are correct about the political movements in jammu",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 20,
+      "stem": "habba khatoon, the celebrated poetess of kashmir, lived during the reign of:",
+      "key": "Yusuf Shah Chak"
+    },
+    {
+      "test": 20,
+      "stem": "which of the following are correct about the afghan rule in kashmir",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 20,
+      "stem": "the sikh rule in kashmir (1819–1846) was established after the conquest by:",
+      "key": "Maharaja Ranjit Singh"
+    },
+    {
+      "test": 20,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 20,
+      "stem": "the instrument of accession of jammu & kashmir to india was signed",
+      "key": "26 October 1947"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements: (i) article 370 of the indian constitution granted",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 20,
+      "stem": "article 35a of the indian constitution, which defined 'permanent residents' of jammu",
+      "key": "A Presidential Order under Article 370 in 1954"
+    },
+    {
+      "test": 20,
+      "stem": "match the following events in j&k history with their years: column i:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 20,
+      "stem": "the united nations commission for india and pakistan (uncip) passed its first",
+      "key": "August 1948"
+    },
+    {
+      "test": 20,
+      "stem": "sheikh abdullah served as the first __________ of jammu & kashmir after",
+      "key": "Prime Minister"
+    },
+    {
+      "test": 20,
+      "stem": "the simla agreement (1972) between india and pakistan after the 1971 war",
+      "key": "The Line of Control (LOC) replacing the earlier ceasefire line"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements: (i) the tashkent declaration (1966) was signed after",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 20,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 20,
+      "stem": "the dogra ruler who introduced the praja sabha (people's assembly) in jammu",
+      "key": "Maharaja Hari Singh"
+    },
+    {
+      "test": 20,
+      "stem": "match the following personalities from j&k history with their descriptions: column i:",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 20,
+      "stem": "the jammu & kashmir state was reorganized into two union territories on:",
+      "key": "31 October 2019"
+    },
+    {
+      "test": 20,
+      "stem": "the first indo-pak war of 1947–48 over kashmir ended with a ceasefire",
+      "key": "1 January 1949"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements: (i) maharaja pratap singh's reign saw the british",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 20,
+      "stem": "the famous martand sun temple in kashmir was built during the reign",
+      "key": "Karkota dynasty"
+    },
+    {
+      "test": 20,
+      "stem": "which of the following are correct about the 'naya kashmir' manifesto? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 20,
+      "stem": "the karachi agreement of 1949 is significant in j&k history because it:",
+      "key": "Established the ceasefire line between India and Pakistan in Kashmir"
+    },
+    {
+      "test": 20,
+      "stem": "match the following periods of j&k history with their durations: column i:",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 20,
+      "stem": "the j&k constitution was adopted by the j&k constituent assembly on:",
+      "key": "17 November 1956"
+    },
+    {
+      "test": 20,
+      "stem": "the __________ agreement of 1975 between indira gandhi and sheikh abdullah led",
+      "key": "Indira-Sheikh"
+    },
+    {
+      "test": 20,
+      "stem": "consider the following statements about the 'sadr-i-riyasat' of jammu & kashmir: (i)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 21,
+      "stem": "consider the following statements about the town planning of the indus valley",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "which ancient indian text describes the system of espionage and intelligence gathering",
+      "key": "Arthashastra"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "which of the following are teachings of mahavira (jainism)? (i) non-violence (ahimsa)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "match the following vedic texts with their primary content: column i: (a)",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 21,
+      "stem": "the eightfold path (ashtangika marga) in buddhism includes all of the following",
+      "key": "Right Worship"
+    },
+    {
+      "test": 21,
+      "stem": "the jain concept of 'syadvada' (anekantavada) teaches that:",
+      "key": "Truth is relative and can be viewed from multiple perspectives"
+    },
+    {
+      "test": 21,
+      "stem": "the ancient indian mathematician who formally defined zero as a number and",
+      "key": "Brahmagupta"
+    },
+    {
+      "test": 21,
+      "stem": "the tax called 'shulka' in the mauryan administration referred to:",
+      "key": "Customs and trade duty"
+    },
+    {
+      "test": 21,
+      "stem": "the 'dhamma mahamatras' appointed by ashoka were responsible for:",
+      "key": "Propagating principles of Dhamma among people"
     }
   ]
 }

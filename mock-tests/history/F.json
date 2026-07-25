@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 150,
+  "count": 157,
   "questions": [
     {
       "test": 6,
@@ -752,6 +752,41 @@
       "test": 18,
       "stem": "in windows, what is the function of the 'open with' option when",
       "key": "It allows choosing a different application to open the file"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "which of the following are examples of secondary storage devices? (i) hard",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "match the following computer memory types with their characteristics: column i: (a)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 21,
+      "stem": "the binary number system uses a base of:",
+      "key": "2"
+    },
+    {
+      "test": 21,
+      "stem": "consider the following statements about the generations of computers: (i) first generation",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "the decimal equivalent of the binary number 1101 is:",
+      "key": "13"
     }
   ]
 }

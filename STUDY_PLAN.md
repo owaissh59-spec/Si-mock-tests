@@ -65,9 +65,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 19 | Morning | A — General Intelligence & Reasoning | Coding & De-coding | 30 | foundation | Topic-wise | ⬜ |
-| 20 | Afternoon | B — General Awareness | History of Jammu & Kashmir | 40 | foundation | Topic-wise | ⬜ |
-| 21 | Late | FULL | Cumulative revision — Week 1 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
+| 19 | Morning | A — General Intelligence & Reasoning | Coding & De-coding | 30 | foundation | Topic-wise | ✅ |
+| 20 | Afternoon | B — General Awareness | History of Jammu & Kashmir | 40 | foundation | Topic-wise | ✅ |
+| 21 | Late | FULL | Cumulative revision — Week 1 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ✅ |
 
 ### Day 8
 

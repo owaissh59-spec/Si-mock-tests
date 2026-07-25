@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 90,
+  "count": 97,
   "questions": [
     {
       "test": 4,
@@ -452,6 +452,41 @@
       "test": 16,
       "stem": "the one-word substitution for 'a study of the origin and history of",
       "key": "Etymology"
+    },
+    {
+      "test": 21,
+      "stem": "choose the word that is most similar in meaning to 'arduous':",
+      "key": "Strenuous"
+    },
+    {
+      "test": 21,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 21,
+      "stem": "which of the following are correct synonym pairs? (i) vexed — annoyed",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 21,
+      "stem": "the word 'ephemeral' is most similar in meaning to:",
+      "key": "Transient"
+    },
+    {
+      "test": 21,
+      "stem": "fill in the blank with the most appropriate synonym: \"the committee praised",
+      "key": "Magnanimous"
+    },
+    {
+      "test": 21,
+      "stem": "consider the following statements: (i) 'affluent' is a synonym of 'wealthy'. (ii)",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 21,
+      "stem": "fill in the blank with the correct synonym: \"the explorer's __________ spirit",
+      "key": "Intrepid"
     }
   ]
 }

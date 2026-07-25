@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "History of Jammu & Kashmir",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Neolithic site of Burzahom, one of the earliest known settlements in Kashmir, is located in which district?",
+      "options": [
+        "Baramulla",
+        "Anantnag",
+        "Srinagar",
+        "Budgam"
+      ],
+      "correctAnswer": "Srinagar",
+      "explanation": "Burzahom is a Neolithic archaeological site located in the Srinagar district of Kashmir, about 10 km from Srinagar city. It dates back to approximately 3000 BCE and is known for its pit dwellings and unique burial practices. Anantnag is wrong because it is a separate district in south Kashmir with its own historical sites but not Burzahom. Baramulla is wrong because it is in north Kashmir, far from the Burzahom site. Budgam is wrong because although adjacent to Srinagar district, Burzahom falls within Srinagar's administrative boundary."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Neolithic site of Gufkral is known for its evidence of the earliest agriculture in Kashmir.\n(ii) Gufkral is located in the Anantnag district of Jammu & Kashmir.\n(iii) The inhabitants of Gufkral used iron tools extensively.\n(iv) Pit dwellings were a characteristic feature of the Neolithic settlements in Kashmir.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Gufkral provides evidence of early agricultural practices in Kashmir including domestication of sheep and goats. (ii) is correct — Gufkral is located in the Anantnag district. (iv) is correct — pit dwellings (underground living structures) were a defining feature of Neolithic sites in Kashmir including Burzahom and Gufkral. (iii) is wrong because Gufkral is a Neolithic/early Chalcolithic site where stone and bone tools were predominant; iron technology came much later in the Iron Age."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Karkota dynasty was founded by:",
+      "options": [
+        "Avantivarman",
+        "Lalitaditya Muktapida",
+        "Durlabhavardhana",
+        "Pravarasena II"
+      ],
+      "correctAnswer": "Durlabhavardhana",
+      "explanation": "The Karkota dynasty of Kashmir was founded by Durlabhavardhana around 625 CE. He established the dynasty after marrying the daughter of the last ruler of the previous Gonanda dynasty. Lalitaditya Muktapida is wrong because he was the most famous ruler of the Karkota dynasty (724–760 CE) but not its founder. Avantivarman is wrong because he was the founder of the Utpala dynasty, which succeeded the Karkotas. Pravarasena II is wrong because he was a ruler who founded the city of Srinagari (old Srinagar) but belonged to an earlier period."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Lalitaditya Muktapida is considered one of the greatest rulers of ancient Kashmir.\nReason (R): He successfully led military expeditions to Central Asia, Tibet, and the plains of India, expanding the Karkota empire significantly.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. Lalitaditya Muktapida (r. 724–760 CE) is universally regarded as the greatest king of ancient Kashmir. The reason correctly explains this — his military campaigns extended the Karkota empire from Central Asia to Bengal and from Tibet to the Deccan, making Kashmir a major power. He also built the famous Martand Sun Temple. The Reason directly explains why he is considered great, hence (R) is the correct explanation of (A)."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Which of the following are correctly associated with Avantivarman's rule in Kashmir?\n\n(i) He founded the Utpala dynasty.\n(ii) His engineer Suyya undertook major flood control works on the Jhelum river.\n(iii) He built the famous Martand Sun Temple.\n(iv) His reign is considered a period of peace and prosperity in Kashmir.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Avantivarman founded the Utpala dynasty around 855 CE. (ii) is correct — Suyya was a brilliant engineer under Avantivarman who cleared the Jhelum river of debris, reclaimed land from marshes, and prevented floods in the Kashmir Valley. (iv) is correct — Avantivarman's reign was marked by peace, prosperity, and agricultural development. (iii) is wrong because the Martand Sun Temple was built by Lalitaditya Muktapida of the Karkota dynasty, not by Avantivarman."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "The Rajatarangini, a historical chronicle of Kashmir written by Kalhana, was composed in which century?",
+      "options": [
+        "10th century CE",
+        "14th century CE",
+        "12th century CE",
+        "8th century CE"
+      ],
+      "correctAnswer": "12th century CE",
+      "explanation": "The Rajatarangini ('River of Kings') was composed by Kalhana in 1148–1150 CE, i.e., the 12th century. It is written in Sanskrit verse and covers the history of Kashmir from mythological times to Kalhana's own era. 10th century is wrong because Kalhana was born around 1100 CE. 14th century is wrong because by then Jonaraja wrote a continuation of Rajatarangini, not the original. 8th century is wrong because that was the period of the Karkota dynasty; Kalhana lived nearly 400 years later."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Shah Mir, who founded the first Muslim dynasty of Kashmir in 1339 CE, assumed the title of:",
+      "options": [
+        "Sultan Zain-ul-Abidin",
+        "Sultan Sikandar",
+        "Sultan Shams-ud-Din",
+        "Sultan Qutb-ud-Din"
+      ],
+      "correctAnswer": "Sultan Shams-ud-Din",
+      "explanation": "Shah Mir ascended the throne of Kashmir in 1339 CE and adopted the title Sultan Shams-ud-Din Shah Mir, becoming the first Muslim ruler of Kashmir and founding the Shah Miri dynasty. Sultan Sikandar is wrong because he was a later ruler of the Shah Mir dynasty (r. 1389–1413) known as 'Butshikan' (idol-breaker). Sultan Zain-ul-Abidin is wrong because he was Sikandar's son who ruled from 1420–1470 and is known as 'Budshah'. Sultan Qutb-ud-Din is wrong because he was a later Shah Miri ruler who preceded Sikandar."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Match the following rulers of Kashmir with their contributions:\n\nColumn I:\n(a) Zain-ul-Abidin\n(b) Lalitaditya Muktapida\n(c) Avantivarman\n(d) Sultan Sikandar\n\nColumn II:\n(i) Construction of Martand Sun Temple\n(ii) Promoted religious tolerance and Kashmiri arts\n(iii) Destruction of Hindu temples (called 'Butshikan')\n(iv) Flood control works through engineer Suyya",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "(a) Zain-ul-Abidin matches (ii) — he is known as 'Budshah' (Great King) for promoting religious tolerance, welcoming back exiled Hindus, and patronizing Kashmiri language and arts. (b) Lalitaditya Muktapida matches (i) — he built the magnificent Martand Sun Temple near Anantnag. (c) Avantivarman matches (iv) — under his reign, engineer Suyya carried out major flood control works on the Jhelum. (d) Sultan Sikandar matches (iii) — he earned the title 'Butshikan' (idol-breaker) for his policy of destroying Hindu temples and forced conversions."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Sultan Zain-ul-Abidin (Budshah) is famous for which of the following?",
+      "options": [
+        "Imposing Jaziya on non-Muslims in Kashmir",
+        "Building the first mosque in Kashmir",
+        "Banning the practice of Sati and promoting religious tolerance",
+        "Introducing the Mughal administrative system in Kashmir"
+      ],
+      "correctAnswer": "Banning the practice of Sati and promoting religious tolerance",
+      "explanation": "Sultan Zain-ul-Abidin (r. 1420–1470), known as 'Budshah' (the Great King), is celebrated for his religious tolerance — he banned cow slaughter, abolished Jaziya, prohibited Sati, invited back exiled Hindus, and patronized Sanskrit learning alongside Persian. Imposing Jaziya is wrong because he actually abolished it, reversing his father Sikandar's policies. Building the first mosque is wrong — the first mosque in Kashmir (Bud Masjid) was built much earlier. Introducing Mughal administration is wrong because Mughal rule in Kashmir came later under Akbar in 1586."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Kashmir was annexed by the Mughal Empire in 1586 CE during the reign of Akbar.\n(ii) Akbar's general Qasim Khan led the initial military expedition against the Chak ruler.\n(iii) Jahangir was the Mughal emperor who first conquered Kashmir.\n(iv) Yaqub Shah Chak was the last ruler to be overthrown by the Mughals in Kashmir.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Kashmir came under Mughal rule in 1586 CE during Akbar's reign. (ii) is correct — Akbar's general Qasim Khan led the first expedition to Kashmir against the Chak rulers. (iv) is correct — Yaqub Shah Chak was the last Chak ruler defeated by the Mughals. (iii) is wrong because Jahangir became emperor only in 1605, nearly 20 years after Kashmir's annexation — he was famous for visiting Kashmir, not conquering it."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Chak dynasty was the last local Muslim dynasty to rule Kashmir before Mughal annexation.\n(ii) The Chak rulers were followers of the Shia sect of Islam.\n(iii) Yaqub Shah Chak was the last ruler of the Chak dynasty.\n(iv) The Chak dynasty was founded by Shah Mir.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Chak dynasty (1561–1586) was the last indigenous Muslim dynasty of Kashmir before Akbar's conquest. (ii) is correct — the Chaks were Shia Muslims, unlike the earlier Sunni dynasties. (iii) is correct — Yaqub Shah Chak was the last Chak ruler who was defeated by Akbar's forces in 1586. (iv) is wrong because Shah Mir founded the Shah Miri dynasty in 1339, not the Chak dynasty. The Chak dynasty was founded by Ghazi Shah Chak."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The Treaty of Amritsar (1846), by which the British transferred Jammu & Kashmir to Gulab Singh, was signed after which war?",
+      "options": [
+        "First Anglo-Afghan War",
+        "First Anglo-Sikh War",
+        "Second Anglo-Sikh War",
+        "Anglo-Maratha War"
+      ],
+      "correctAnswer": "First Anglo-Sikh War",
+      "explanation": "The Treaty of Amritsar was signed on 16 March 1846 between the British Government and Maharaja Gulab Singh, following the First Anglo-Sikh War (1845–1846). After the Sikh defeat at the Battle of Sobraon, the Treaty of Lahore was imposed, and the British sold the territory of Kashmir to Gulab Singh for 75 lakh rupees. First Anglo-Afghan War is wrong because it occurred in 1839–1842 and had no connection to Kashmir's transfer. Second Anglo-Sikh War is wrong because it happened in 1848–1849, after the Treaty of Amritsar. Anglo-Maratha War is wrong because it involved territories in central and western India."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Maharaja Gulab Singh is considered the founder of the princely state of Jammu & Kashmir.\nReason (R): He acquired the territory of Kashmir through the Treaty of Amritsar (1846) for a sum of 75 lakh Nanakshahi rupees.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. Gulab Singh, who already controlled Jammu and Ladakh, became the first Maharaja of the unified state of Jammu & Kashmir after acquiring the Kashmir Valley through the Treaty of Amritsar in 1846. The Reason correctly explains why he is considered the founder — it was specifically the Treaty of Amritsar that gave him the Kashmir territory, thereby creating the composite princely state of J&K under his rule."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Maharaja Ranbir Singh of Jammu & Kashmir is known for:",
+      "options": [
+        "Signing the Instrument of Accession to India",
+        "Introducing democratic reforms and Praja Sabha",
+        "Establishing Dharmarth Trust and codifying Dogra laws",
+        "Abolishing the practice of bonded labour"
+      ],
+      "correctAnswer": "Establishing Dharmarth Trust and codifying Dogra laws",
+      "explanation": "Maharaja Ranbir Singh (r. 1856–1885) established the Dharmarth Trust for management of Hindu temples and religious institutions, and codified Dogra civil and criminal laws. He also introduced the Sanskrit Pathshala system and sent forces to assist the British during the 1857 revolt. Signing the Instrument of Accession is wrong because that was done by Maharaja Hari Singh in 1947. Introducing Praja Sabha is wrong because it was established by Maharaja Hari Singh in 1934. Abolishing bonded labour is wrong because this was not a key achievement associated with Ranbir Singh."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Which of the following are correct about the political movements in Jammu & Kashmir before 1947?\n\n(i) The All J&K Muslim Conference was founded in 1932.\n(ii) Sheikh Abdullah renamed the Muslim Conference as National Conference in 1939.\n(iii) The 'Quit Kashmir' movement was launched in 1946 against Dogra rule.\n(iv) The Praja Sabha was a fully democratic parliament established by the Dogra rulers.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the All J&K Muslim Conference was founded on 14 October 1932 by Sheikh Abdullah and Chaudhary Ghulam Abbas. (ii) is correct — Sheikh Abdullah reorganized the party on secular lines and renamed it the National Conference in 1939. (iii) is correct — the 'Quit Kashmir' movement was launched by Sheikh Abdullah in May 1946 demanding end of Dogra autocratic rule. (iv) is wrong because the Praja Sabha (established 1934) was not a fully democratic parliament — it had limited powers and many nominated members; real power remained with the Maharaja."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Habba Khatoon, the celebrated poetess of Kashmir, lived during the reign of:",
+      "options": [
+        "Sultan Zain-ul-Abidin",
+        "Maharaja Gulab Singh",
+        "Yusuf Shah Chak",
+        "Akbar"
+      ],
+      "correctAnswer": "Yusuf Shah Chak",
+      "explanation": "Habba Khatoon (c. 1554–1609) was a famous Kashmiri poetess who was the wife of Yusuf Shah Chak, the penultimate ruler of the Chak dynasty. Her poetry became songs of separation after Yusuf Shah was imprisoned by the Mughals. Sultan Zain-ul-Abidin is wrong because he ruled in the 15th century (1420–1470), about a century before Habba Khatoon's time. Maharaja Gulab Singh is wrong because he ruled in the 19th century (1846–1857). Akbar is wrong because although Akbar conquered Kashmir in 1586 and captured Yusuf Shah, Habba Khatoon lived during Yusuf Shah's reign, not Akbar's."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Which of the following are correct about the Afghan rule in Kashmir (1753–1819)?\n\n(i) Ahmad Shah Abdali's governor ended Mughal rule in Kashmir in 1753.\n(ii) The Afghan period was marked by oppression and heavy taxation.\n(iii) The Afghan rulers patronized Kashmiri shawl industry.\n(iv) The Afghan period lasted for approximately 67 years.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Ahmad Shah Abdali (Durrani) sent his governor to take over Kashmir from the Mughals in 1753. (ii) is correct — Afghan rule was widely known for brutal oppression, arbitrary taxation, and exploitation of Kashmiris. (iv) is correct — Afghan rule lasted from 1753 to 1819 (66–67 years) when the Sikhs under Ranjit Singh conquered Kashmir. (iii) is wrong because while the shawl industry continued during Afghan rule, the Afghans heavily taxed shawl-makers rather than patronizing them; the taxes on shawl-weavers (Dagshawl) were oppressive."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "The Sikh rule in Kashmir (1819–1846) was established after the conquest by:",
+      "options": [
+        "Sher Singh",
+        "Maharaja Gulab Singh",
+        "Hari Singh Nalwa",
+        "Maharaja Ranjit Singh"
+      ],
+      "correctAnswer": "Maharaja Ranjit Singh",
+      "explanation": "Maharaja Ranjit Singh of the Sikh Empire sent his forces under Missar Diwan Chand to conquer Kashmir in 1819, ending 67 years of Afghan rule. Kashmir remained under Sikh suzerainty until 1846. Maharaja Gulab Singh is wrong because he was a Dogra vassal of Ranjit Singh and acquired Kashmir later through the Treaty of Amritsar (1846), not through military conquest of the Afghans. Hari Singh Nalwa is wrong because he was a famous Sikh general who fought in the Khyber Pass region, not in the Kashmir campaign. Sher Singh is wrong because he was a later Sikh ruler (1841–1843) and Kashmir was already under Sikh control by then."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The 'Quit Kashmir' movement was launched by Sheikh Abdullah in 1946.\nReason (R): The movement demanded the end of Dogra autocratic rule and transfer of power to the people of Kashmir.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. Sheikh Abdullah launched the 'Quit Kashmir' movement in May 1946, modeled on the 'Quit India' movement of 1942. The Reason correctly explains the motivation — the movement demanded that the Dogra Maharaja end his autocratic rule and hand over sovereignty to the people, challenging the legitimacy of the Treaty of Amritsar. Hence (R) is the correct explanation of (A)."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The Instrument of Accession of Jammu & Kashmir to India was signed by Maharaja Hari Singh on:",
+      "options": [
+        "15 August 1947",
+        "5 November 1947",
+        "27 October 1947",
+        "26 October 1947"
+      ],
+      "correctAnswer": "26 October 1947",
+      "explanation": "Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947, acceding J&K to India in the context of the tribal invasion from Pakistan. Indian forces were airlifted to Srinagar on 27 October. 15 August 1947 is wrong because on that date India gained independence but J&K had not yet acceded. 27 October 1947 is wrong because that was the date when Indian troops landed in Srinagar, one day after the signing. 5 November 1947 is wrong — it has no specific significance in this context."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Article 370 of the Indian Constitution granted special autonomous status to Jammu & Kashmir.\n(ii) Article 370 was incorporated in the Constitution as a 'temporary provision'.\n(iii) Under Article 370, all provisions of the Indian Constitution automatically applied to J&K.\n(iv) Article 370 was drafted by Sheikh Abdullah and Jawaharlal Nehru.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "(i) is correct — Article 370 gave J&K a special autonomous status, allowing it to have its own constitution and limiting the Indian Parliament's legislative power over the state. (ii) is correct — Article 370 was placed under Part XXI (Temporary, Transitional and Special Provisions) of the Constitution. (iii) is wrong because under Article 370, only provisions related to defence, foreign affairs, and communications applied automatically; other provisions needed a presidential order with the concurrence of the state government. (iv) is wrong because Article 370 was drafted by Gopalaswami Ayyangar (a member of the Constituent Assembly), though it was negotiated between Nehru and Abdullah."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Article 35A of the Indian Constitution, which defined 'permanent residents' of Jammu & Kashmir, was added through:",
+      "options": [
+        "A constitutional amendment passed by Parliament",
+        "The J&K Constituent Assembly in 1956",
+        "A Presidential Order under Article 370 in 1954",
+        "The Instrument of Accession in 1947"
+      ],
+      "correctAnswer": "A Presidential Order under Article 370 in 1954",
+      "explanation": "Article 35A was incorporated into the Indian Constitution in 1954 through the Constitution (Application to Jammu and Kashmir) Order, 1954, issued by the President under Article 370. It empowered the J&K legislature to define permanent residents and their special rights. A constitutional amendment is wrong because no amendment was passed by Parliament for this — it was added via a presidential order. The J&K Constituent Assembly is wrong because while it defined permanent residents in 1956, Article 35A itself was added via the 1954 presidential order. The Instrument of Accession is wrong because it only covered defence, external affairs, and communications."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Match the following events in J&K history with their years:\n\nColumn I:\n(a) Treaty of Amritsar\n(b) Accession to India\n(c) Abrogation of Article 370\n(d) Formation of J&K Constituent Assembly\n\nColumn II:\n(i) 1947\n(ii) 2019\n(iii) 1846\n(iv) 1951",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) Treaty of Amritsar matches (iii) 1846 — the treaty by which the British sold Kashmir to Gulab Singh. (b) Accession to India matches (i) 1947 — Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947. (c) Abrogation of Article 370 matches (ii) 2019 — Article 370 was effectively abrogated on 5 August 2019. (d) Formation of J&K Constituent Assembly matches (iv) 1951 — the J&K Constituent Assembly was elected in 1951 and convened to frame the state's constitution."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "The United Nations Commission for India and Pakistan (UNCIP) passed its first resolution on the Kashmir issue in:",
+      "options": [
+        "January 1948",
+        "January 1949",
+        "April 1948",
+        "August 1948"
+      ],
+      "correctAnswer": "August 1948",
+      "explanation": "The UNCIP passed its first resolution on 13 August 1948, which called for a ceasefire, withdrawal of Pakistani troops and tribesmen, and conditions for a free and impartial plebiscite. January 1948 is wrong because while India referred the matter to the UN Security Council on 1 January 1948, UNCIP's first resolution came later. April 1948 is wrong because UNCIP was established on 20 January 1948 by UNSC Resolution 39 and the resolution on the issue itself came in August. January 1949 is wrong because that was when the ceasefire came into effect (1 January 1949), not the date of the first UNCIP resolution."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Sheikh Abdullah served as the first __________ of Jammu & Kashmir after accession.",
+      "options": [
+        "President",
+        "Chief Minister",
+        "Governor",
+        "Prime Minister"
+      ],
+      "correctAnswer": "Prime Minister",
+      "explanation": "Sheikh Abdullah served as the first Prime Minister (not Chief Minister) of Jammu & Kashmir from March 1948 to August 1953. The post was designated as 'Prime Minister' under J&K's special constitutional arrangement until 1965 when the designation was changed to 'Chief Minister'. Chief Minister is wrong because that designation was adopted only from 1965 onwards. Governor is wrong because that was the post held by the central government's representative. President is wrong because J&K had a 'Sadr-i-Riyasat' (head of state), not a President."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The Simla Agreement (1972) between India and Pakistan after the 1971 war established:",
+      "options": [
+        "The ceasefire line as the permanent international border",
+        "The complete demilitarization of Kashmir",
+        "A plebiscite in Kashmir within five years",
+        "The Line of Control (LOC) replacing the earlier ceasefire line"
+      ],
+      "correctAnswer": "The Line of Control (LOC) replacing the earlier ceasefire line",
+      "explanation": "The Simla Agreement, signed on 2 July 1972 by Indira Gandhi and Zulfikar Ali Bhutto, renamed the ceasefire line as the 'Line of Control' (LOC) and stipulated that both countries would resolve their differences bilaterally. Permanent international border is wrong because the agreement only renamed the ceasefire line as LOC without declaring it a permanent border. Plebiscite within five years is wrong because the agreement made no such provision; it emphasized bilateral settlement. Complete demilitarization is wrong because the agreement did not call for demilitarization of Kashmir."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Tashkent Declaration (1966) was signed after the Indo-Pak War of 1965.\n(ii) Under the declaration, both nations agreed to withdraw forces to pre-war positions.\n(iii) The declaration was mediated by the United States.\n(iv) Indian Prime Minister Lal Bahadur Shastri died in Tashkent shortly after signing.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the Tashkent Declaration was signed on 10 January 1966 following the Indo-Pak War of 1965. (ii) is correct — both India and Pakistan agreed to withdraw their armed forces to positions held before 5 August 1965. (iv) is correct — PM Lal Bahadur Shastri died of a cardiac arrest in Tashkent on 11 January 1966, just hours after signing. (iii) is wrong because the declaration was mediated by the Soviet Union (USSR) under Premier Alexei Kosygin, not by the United States."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Maharaja Hari Singh initially wanted Jammu & Kashmir to remain independent after Indian independence in August 1947.\nReason (R): The state had a Muslim majority population but a Hindu ruler, making the decision of accession complex.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. Maharaja Hari Singh initially attempted to maintain independence by signing standstill agreements rather than acceding to either India or Pakistan. The Reason correctly explains his hesitation — as a Hindu ruler of a Muslim-majority state, he faced conflicting pressures, making the decision to join either dominion politically sensitive. This demographic-political complexity was a key factor in his attempt to remain independent. Hence (R) is the correct explanation of (A)."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The Dogra ruler who introduced the Praja Sabha (People's Assembly) in Jammu & Kashmir was:",
+      "options": [
+        "Maharaja Gulab Singh",
+        "Maharaja Ranbir Singh",
+        "Maharaja Pratap Singh",
+        "Maharaja Hari Singh"
+      ],
+      "correctAnswer": "Maharaja Hari Singh",
+      "explanation": "Maharaja Hari Singh established the Praja Sabha in 1934 as a limited legislative body for J&K. Though not a fully democratic institution, it was the first representative body in the state. Maharaja Gulab Singh is wrong because he was the first Dogra ruler (1846–1857) and did not create any legislative body. Maharaja Ranbir Singh is wrong because he focused on codification of laws and religious trusts, not representative assemblies. Maharaja Pratap Singh is wrong because his reign (1885–1925) saw administrative reforms but no legislative assembly like the Praja Sabha."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Match the following personalities from J&K history with their descriptions:\n\nColumn I:\n(a) Kalhana\n(b) Habba Khatoon\n(c) Sheikh Abdullah\n(d) Gulab Singh\n\nColumn II:\n(i) First Maharaja of J&K princely state\n(ii) Author of Rajatarangini\n(iii) Known as 'Sher-e-Kashmir' (Lion of Kashmir)\n(iv) Celebrated Kashmiri poetess of the 16th century",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) Kalhana matches (ii) — he authored the Rajatarangini, the famous historical chronicle of Kashmir, in the 12th century. (b) Habba Khatoon matches (iv) — she was a celebrated 16th-century Kashmiri poetess and wife of Yusuf Shah Chak. (c) Sheikh Abdullah matches (iii) — he was popularly known as 'Sher-e-Kashmir' (Lion of Kashmir) and was the first PM of J&K. (d) Gulab Singh matches (i) — he became the first Maharaja of the unified princely state of J&K through the Treaty of Amritsar in 1846."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The Jammu & Kashmir state was reorganized into two Union Territories on:",
+      "options": [
+        "5 August 2019",
+        "26 January 2020",
+        "9 August 2019",
+        "31 October 2019"
+      ],
+      "correctAnswer": "31 October 2019",
+      "explanation": "The state of Jammu & Kashmir was officially bifurcated into two Union Territories — UT of Jammu & Kashmir (with legislature) and UT of Ladakh (without legislature) — on 31 October 2019. 5 August 2019 is wrong because that was the date when the Jammu & Kashmir Reorganisation Bill was introduced in Parliament and Article 370 was abrogated, but the reorganization took effect later. 9 August 2019 is wrong as it has no specific significance in this context. 26 January 2020 is wrong because by Republic Day 2020 the reorganization had already taken effect months earlier."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "The first Indo-Pak War of 1947–48 over Kashmir ended with a ceasefire that came into effect on:",
+      "options": [
+        "26 October 1947",
+        "5 January 1948",
+        "27 July 1949",
+        "1 January 1949"
+      ],
+      "correctAnswer": "1 January 1949",
+      "explanation": "The ceasefire in the first Indo-Pak War came into effect on 1 January 1949, following a UN-brokered agreement. This ceasefire line later became the Line of Control after the Simla Agreement of 1972. 26 October 1947 is wrong because that was the date of the Instrument of Accession, when the war was just beginning. 27 July 1949 is wrong because the Karachi Agreement (which formalized the ceasefire line) was signed on that date, but the ceasefire itself had already been in effect since January. 5 January 1948 is wrong — while India referred the issue to the UN on this date, the war continued for nearly another year."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Maharaja Pratap Singh's reign saw the British establish a resident in Kashmir, limiting his powers.\n(ii) The State Council was created during Pratap Singh's reign to advise and control the Maharaja.\n(iii) Pratap Singh was the ruler who signed the Instrument of Accession.\n(iv) Pratap Singh initiated the construction of the Jammu-Srinagar road.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the British appointed a Resident in Kashmir during Pratap Singh's reign and significantly curtailed his powers due to allegations of his correspondence with Russia. (ii) is correct — a State Council was established in 1889 to control administration, effectively sidelining the Maharaja. (iv) is correct — Pratap Singh's era saw infrastructural development including the improvement of road connectivity between Jammu and Srinagar. (iii) is wrong because the Instrument of Accession was signed by Maharaja Hari Singh in 1947, not Pratap Singh who ruled from 1885 to 1925."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "The famous Martand Sun Temple in Kashmir was built during the reign of which dynasty?",
+      "options": [
+        "Utpala dynasty",
+        "Karkota dynasty",
+        "Shah Mir dynasty",
+        "Lohara dynasty"
+      ],
+      "correctAnswer": "Karkota dynasty",
+      "explanation": "The Martand Sun Temple was built by King Lalitaditya Muktapida of the Karkota dynasty in the 8th century CE near present-day Anantnag. It is one of the most magnificent examples of ancient Kashmiri temple architecture. Utpala dynasty is wrong because it came after the Karkotas and its founder Avantivarman focused on agricultural development, not this temple. Shah Mir dynasty is wrong because it was a Muslim dynasty (1339–1561) and did not build Hindu temples. Lohara dynasty is wrong because it ruled in the 11th–12th century and the temple predates them by about 300 years."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Which of the following are correct about the 'Naya Kashmir' manifesto?\n\n(i) It was adopted by the National Conference in 1944.\n(ii) It envisioned a democratic and socialist society for J&K.\n(iii) It called for land reforms and equal rights for women.\n(iv) It was drafted by Maharaja Hari Singh.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the 'Naya Kashmir' (New Kashmir) manifesto was adopted at the National Conference session in 1944. (ii) is correct — it envisioned a democratic, socialist, and secular polity for J&K with constitutional guarantees. (iii) is correct — the manifesto called for radical land reforms (land to the tiller), nationalization of key industries, and equal rights for women. (iv) is wrong because the manifesto was conceived and drafted under the leadership of Sheikh Abdullah and influenced by socialist ideals, not by Maharaja Hari Singh who was the ruling monarch against whom the movement was directed."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The Karachi Agreement of 1949 is significant in J&K history because it:",
+      "options": [
+        "Formalized the accession of J&K to India",
+        "Granted statehood to Jammu & Kashmir",
+        "Resolved the Poonch rebellion",
+        "Established the ceasefire line between India and Pakistan in Kashmir"
+      ],
+      "correctAnswer": "Established the ceasefire line between India and Pakistan in Kashmir",
+      "explanation": "The Karachi Agreement of 27 July 1949 demarcated and formalized the ceasefire line (CFL) between India and Pakistan in Jammu & Kashmir, following the UN-mandated ceasefire of 1 January 1949. Granting statehood is wrong because J&K was already a princely state that acceded to India; the agreement dealt only with military positions. Resolving the Poonch rebellion is wrong because the agreement was about the India-Pakistan ceasefire line, not internal rebellions. Formalizing accession is wrong because the Instrument of Accession (1947) had already done that."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Match the following periods of J&K history with their durations:\n\nColumn I:\n(a) Afghan rule in Kashmir\n(b) Mughal rule in Kashmir\n(c) Sikh rule in Kashmir\n(d) Dogra rule in J&K\n\nColumn II:\n(i) 1846–1947 (approximately 101 years)\n(ii) 1586–1753 (approximately 167 years)\n(iii) 1819–1846 (approximately 27 years)\n(iv) 1753–1819 (approximately 66 years)",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "(a) Afghan rule matches (iv) 1753–1819 — approximately 66 years of Afghan (Durrani) control. (b) Mughal rule matches (ii) 1586–1753 — the Mughals ruled Kashmir for about 167 years starting from Akbar's conquest. (c) Sikh rule matches (iii) 1819–1846 — approximately 27 years of Sikh control under Ranjit Singh and his successors. (d) Dogra rule matches (i) 1846–1947 — approximately 101 years from the Treaty of Amritsar until Indian independence and accession."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The J&K Constitution was adopted by the J&K Constituent Assembly on:",
+      "options": [
+        "26 January 1950",
+        "17 November 1956",
+        "26 January 1957",
+        "5 August 1953"
+      ],
+      "correctAnswer": "17 November 1956",
+      "explanation": "The Constitution of Jammu & Kashmir was adopted on 17 November 1956 by the J&K Constituent Assembly and came into force on 26 January 1957. It declared J&K as an integral part of India. 26 January 1950 is wrong because that was when the Indian Constitution came into force; J&K's own constitution took six more years to frame. 26 January 1957 is wrong because that was when the J&K Constitution came into force, not when it was adopted. 5 August 1953 is wrong because that was the date Sheikh Abdullah was dismissed from the PM's office."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The __________ Agreement of 1975 between Indira Gandhi and Sheikh Abdullah led to Sheikh Abdullah becoming the Chief Minister of J&K.",
+      "options": [
+        "Shimla",
+        "Delhi",
+        "Kashmir",
+        "Indira-Sheikh"
+      ],
+      "correctAnswer": "Indira-Sheikh",
+      "explanation": "The Indira-Sheikh Accord (also called the Kashmir Accord or Indira-Sheikh Agreement) of 1975 brought Sheikh Abdullah back to power as Chief Minister of J&K after a 22-year hiatus. He accepted the constitutional position of J&K within India. Shimla is wrong because the Shimla Agreement (1972) was between India and Pakistan, not related to Sheikh Abdullah's return. Delhi is wrong because while negotiations happened in Delhi, the agreement is not known by that name. Kashmir is wrong because the agreement is not officially called the 'Kashmir Agreement'."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "Consider the following statements about the 'Sadr-i-Riyasat' of Jammu & Kashmir:\n\n(i) It was the designation of the head of state of J&K under its constitution.\n(ii) The Sadr-i-Riyasat was elected by the J&K Legislative Assembly.\n(iii) The designation was changed to 'Governor' in 1965.\n(iv) Karan Singh was the last Sadr-i-Riyasat of J&K.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — 'Sadr-i-Riyasat' (President of the State) was the constitutional head of J&K. (ii) is correct — unlike Governors in other states who were appointed by the President of India, the Sadr-i-Riyasat was elected by the J&K Legislative Assembly. (iii) is correct — in 1965, through the Constitution (Sixth Amendment) Act of J&K, the designation was changed to 'Governor' and the post became a central appointment. (iv) is correct — Karan Singh (son of Hari Singh) served as the last Sadr-i-Riyasat from 1952 until 1965 when the designation was changed to Governor."
+    }
+  ]
+}
