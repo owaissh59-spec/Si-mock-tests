@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 157,
+  "count": 187,
   "questions": [
     {
       "test": 6,
@@ -787,6 +787,156 @@
       "test": 21,
       "stem": "the decimal equivalent of the binary number 1101 is:",
       "key": "13"
+    },
+    {
+      "test": 25,
+      "stem": "which tab on the ribbon in ms word contains options for inserting",
+      "key": "Insert"
+    },
+    {
+      "test": 25,
+      "stem": "consider the following statements: (i) the ribbon in ms word is divided",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 25,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 25,
+      "stem": "match the following keyboard shortcuts in ms word with their functions: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 25,
+      "stem": "which of the following are features available under the insert tab in",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 25,
+      "stem": "the keyboard shortcut ctrl+h in ms word is used for:",
+      "key": "Find and Replace"
+    },
+    {
+      "test": 25,
+      "stem": "the __________ feature in ms word allows you to send personalized letters",
+      "key": "Mail Merge"
+    },
+    {
+      "test": 25,
+      "stem": "which page orientation makes the document wider than it is tall?",
+      "key": "Landscape"
+    },
+    {
+      "test": 25,
+      "stem": "consider the following statements: (i) page break forces text to start on",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 25,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 25,
+      "stem": "in ms word, which alignment option distributes text evenly between the left",
+      "key": "Justify"
+    },
+    {
+      "test": 25,
+      "stem": "match the following ms word features with their purposes: column i: (a)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 25,
+      "stem": "which of the following are correct statements about margins in ms word?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 25,
+      "stem": "the keyboard shortcut ctrl+p in ms word is used to:",
+      "key": "Open the Print dialog"
+    },
+    {
+      "test": 25,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 25,
+      "stem": "what is the default file extension for documents saved in ms word",
+      "key": ".docx"
+    },
+    {
+      "test": 25,
+      "stem": "consider the following statements: (i) line spacing refers to the vertical distance",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 25,
+      "stem": "which feature in ms word allows you to export a document directly",
+      "key": "Save As or Export"
+    },
+    {
+      "test": 25,
+      "stem": "match the following insert features with their descriptions: column i: (a) header",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 25,
+      "stem": "the __________ in ms word is a small, customizable toolbar above the",
+      "key": "Quick Access Toolbar"
+    },
+    {
+      "test": 25,
+      "stem": "which of the following correctly describes the function of ctrl+y in ms",
+      "key": "Redo the last undone action"
+    },
+    {
+      "test": 25,
+      "stem": "consider the following statements: (i) a hyperlink in ms word can link",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 25,
+      "stem": "which of the following are valid ways to change page margins in",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 25,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 25,
+      "stem": "in ms word, which of the following steps are part of the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 25,
+      "stem": "what does the find and replace feature in ms word allow you",
+      "key": "Search for specific text and replace it with different text throughout the do..."
+    },
+    {
+      "test": 25,
+      "stem": "consider the following statements: (i) tables in ms word can be inserted",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 25,
+      "stem": "the __________ feature in ms word checks the document for spelling errors",
+      "key": "Spell Check"
+    },
+    {
+      "test": 25,
+      "stem": "which option in ms word allows you to divide a page into",
+      "key": "Columns"
+    },
+    {
+      "test": 25,
+      "stem": "in ms word, print preview allows you to:",
+      "key": "See how the document will look when printed before actually printing"
     }
   ]
 }

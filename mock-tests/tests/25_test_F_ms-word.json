@@ -1,0 +1,397 @@
+{
+  "subject": "F",
+  "topic": "MS Word",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "Which tab on the Ribbon in MS Word contains options for inserting tables, pictures, and shapes?",
+      "options": [
+        "Home",
+        "Insert",
+        "Page Layout",
+        "Review"
+      ],
+      "correctAnswer": "Insert",
+      "explanation": "The Insert tab contains tools for adding tables, pictures, shapes, headers, footers, and other objects. Home contains formatting tools like font and paragraph. Page Layout contains margin and orientation settings. Review contains spell check and track changes."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements:\n\n(i) The Ribbon in MS Word is divided into tabs, each containing groups of related commands.\n(ii) The Quick Access Toolbar is located below the Ribbon by default.\n(iii) The Status Bar at the bottom of the Word window shows page number and word count.\n(iv) The Ruler helps in setting margins and indentation.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: The Ribbon is organized into tabs like Home, Insert, Page Layout. (ii) FALSE: The Quick Access Toolbar is located above the Ribbon by default, not below it. (iii) TRUE: The Status Bar displays page number, word count, and language. (iv) TRUE: The Ruler shows and allows adjustment of margins and indentation. Option A is wrong because (ii) is false. Option C is wrong because (ii) is false. Option D is wrong because (ii) is false."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Ctrl+S is used to save a document in MS Word.\nReason (R): The Save command stores the current version of the document to its existing file location.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: Ctrl+S is the keyboard shortcut for saving. Reason (R) is correct: Save stores the document to its current location. R explains A because the shortcut triggers exactly this save operation. Option B is wrong because R directly explains what Ctrl+S does. Option C is wrong because R is factually correct. Option D is wrong because A is factually correct."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Match the following keyboard shortcuts in MS Word with their functions:\n\nColumn I:\n(a) Ctrl+B\n(b) Ctrl+I\n(c) Ctrl+U\n(d) Ctrl+Z\n\nColumn II:\n(i) Underline\n(ii) Bold\n(iii) Undo\n(iv) Italic",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Ctrl+B applies Bold (ii), Ctrl+I applies Italic (iv), Ctrl+U applies Underline (i), and Ctrl+Z is Undo (iii). Option B is wrong because it assigns Italic to Ctrl+B. Option C is wrong because it assigns Underline to Ctrl+I. Option D is wrong because it assigns Underline to Ctrl+B."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Which of the following are features available under the Insert tab in MS Word?\n\n(i) WordArt\n(ii) Track Changes\n(iii) Hyperlink\n(iv) Header and Footer",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) WordArt is in the Insert tab under Text group. (ii) Track Changes is in the Review tab, not Insert. (iii) Hyperlink is in the Insert tab under Links group. (iv) Header and Footer is in the Insert tab. Option A is wrong because Track Changes is not in Insert. Option C is wrong because Track Changes is not in Insert. Option D is wrong because Track Changes is not in Insert."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "The keyboard shortcut Ctrl+H in MS Word is used for:",
+      "options": [
+        "Opening Help",
+        "Find and Replace",
+        "Inserting a Hyperlink",
+        "Hiding text"
+      ],
+      "correctAnswer": "Find and Replace",
+      "explanation": "Ctrl+H opens the Find and Replace dialog box in MS Word. Opening Help is done with F1. Inserting a Hyperlink uses Ctrl+K. There is no Ctrl+H shortcut for hiding text; text hiding is done through Font dialog settings."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "The __________ feature in MS Word allows you to send personalized letters to multiple recipients using a single document template.",
+      "options": [
+        "Track Changes",
+        "Mail Merge",
+        "Find and Replace",
+        "AutoCorrect"
+      ],
+      "correctAnswer": "Mail Merge",
+      "explanation": "Mail Merge allows creating personalized documents (letters, labels, envelopes) for multiple recipients from a single template connected to a data source. Track Changes is for collaborative editing. Find and Replace is for locating and substituting text. AutoCorrect automatically fixes common typing errors."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "Which page orientation makes the document wider than it is tall?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Custom",
+        "Letter"
+      ],
+      "correctAnswer": "Landscape",
+      "explanation": "Landscape orientation makes the page wider than it is tall (horizontal layout). Portrait orientation makes the page taller than wide (vertical layout). Custom is not an orientation type but refers to custom page sizes. Letter is a page size (8.5 x 11 inches), not an orientation."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "Consider the following statements:\n\n(i) Page Break forces text to start on a new page.\n(ii) Section Break allows different formatting in different parts of the document.\n(iii) Column Break forces text to the next column in a multi-column layout.\n(iv) Line Break and Page Break are the same thing.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Page Break moves subsequent content to the next page. (ii) TRUE: Section Breaks allow different headers, footers, margins, and orientations in different sections. (iii) TRUE: Column Break pushes content to the top of the next column. (iv) FALSE: Line Break (Shift+Enter) moves text to the next line within the same paragraph; Page Break moves text to a new page. Option B is wrong because (iv) is false. Option C is wrong because (iii) is also correct. Option D is wrong because (iv) is false."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Track Changes feature in MS Word highlights all additions and deletions made to a document.\nReason (R): Track Changes is used primarily for changing the font color of text.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct: Track Changes marks insertions, deletions, and formatting changes made by reviewers. Reason (R) is incorrect: Track Changes is for collaborative editing and review, not for changing font color. Font color is changed through the Home tab Font group. Option A is wrong because R is false. Option B is wrong because R is false. Option D is wrong because A is true."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "In MS Word, which alignment option distributes text evenly between the left and right margins?",
+      "options": [
+        "Left Align",
+        "Center Align",
+        "Right Align",
+        "Justify"
+      ],
+      "correctAnswer": "Justify",
+      "explanation": "Justify alignment distributes text evenly between both margins by adjusting spacing between words. Left Align aligns text to the left margin with a ragged right edge. Center Align places text in the middle. Right Align aligns text to the right margin with a ragged left edge."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "Match the following MS Word features with their purposes:\n\nColumn I:\n(a) Spell Check\n(b) Grammar Check\n(c) Thesaurus\n(d) Word Count\n\nColumn II:\n(i) Displays total number of words in the document\n(ii) Identifies incorrectly spelled words\n(iii) Suggests synonyms and antonyms\n(iv) Detects sentence structure errors",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Spell Check (a) identifies misspelled words (ii). Grammar Check (b) detects sentence structure errors (iv). Thesaurus (c) suggests synonyms and antonyms (iii). Word Count (d) displays total words (i). Option B incorrectly assigns Grammar to Spell Check. Option C incorrectly assigns Thesaurus to Grammar. Option D incorrectly assigns Thesaurus to Spell Check."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "Which of the following are correct statements about margins in MS Word?\n\n(i) Normal margin is 1 inch on all sides\n(ii) Margins can be set from the Page Layout tab\n(iii) Mirror margins are used for documents that will be bound\n(iv) Margins cannot be customized beyond the preset options",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: The Normal (default) margin setting is 1 inch on all sides. (ii) TRUE: Margins are set from Page Layout tab > Margins group. (iii) TRUE: Mirror margins create alternating inside/outside margins for bound documents. (iv) FALSE: Custom Margins option allows users to set any margin values. Option B is wrong because (iii) is also correct. Option C is wrong because (iv) is false. Option D is wrong because (iv) is false."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "The keyboard shortcut Ctrl+P in MS Word is used to:",
+      "options": [
+        "Paste text from clipboard",
+        "Open the Print dialog",
+        "Insert a page break",
+        "Open Page Layout settings"
+      ],
+      "correctAnswer": "Open the Print dialog",
+      "explanation": "Ctrl+P opens the Print dialog/Print Preview in MS Word. Paste text uses Ctrl+V. Inserting a page break uses Ctrl+Enter. Page Layout settings are accessed from the Page Layout tab on the Ribbon, not through a keyboard shortcut."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Save As allows you to save a document with a new name or in a different location.\nReason (R): Save As creates a copy of the document while keeping the original file unchanged.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: Save As lets you specify a new filename, format, or location. Reason (R) is correct: Save As creates a new copy while the original remains intact. R explains A because the ability to save with a new name/location works by creating a copy. Option B is wrong because R directly explains the mechanism of A. Option C is wrong because R is factually correct. Option D is wrong because A is factually correct."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "What is the default file extension for documents saved in MS Word 2007 and later?",
+      "options": [
+        ".doc",
+        ".docx",
+        ".txt",
+        ".rtf"
+      ],
+      "correctAnswer": ".docx",
+      "explanation": ".docx is the default file format for Word 2007 and later, using XML-based Open Office format. .doc was the default for Word 97-2003. .txt is plain text format without formatting. .rtf (Rich Text Format) is a cross-platform format that preserves basic formatting."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "Consider the following statements:\n\n(i) Line spacing refers to the vertical distance between lines of text within a paragraph.\n(ii) The default line spacing in MS Word is 1.0 (single spacing).\n(iii) Paragraph spacing controls the space before and after a paragraph.\n(iv) Indentation moves the text away from the margin.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: Line spacing is the vertical space between lines in a paragraph. (ii) FALSE: The default line spacing in modern MS Word (2007+) is 1.15, not 1.0. (iii) TRUE: Paragraph spacing adds space before or after paragraphs. (iv) TRUE: Indentation shifts text inward from margins. Option A is wrong because (ii) is false. Option C is wrong because (iv) is also correct. Option D is wrong because (ii) is false."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Which feature in MS Word allows you to export a document directly as a PDF file?",
+      "options": [
+        "Print Preview",
+        "Save As or Export",
+        "Page Setup",
+        "Mail Merge"
+      ],
+      "correctAnswer": "Save As or Export",
+      "explanation": "Documents can be exported as PDF using Save As (choosing PDF format) or the Export option under File menu. Print Preview only shows how the document will look when printed. Page Setup configures page dimensions and layout. Mail Merge is for creating personalized bulk documents."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "Match the following Insert features with their descriptions:\n\nColumn I:\n(a) Header\n(b) Footer\n(c) Page Number\n(d) Symbol\n\nColumn II:\n(i) Inserts special characters like ©, ®, or mathematical symbols\n(ii) Text that appears at the top of every page\n(iii) Automatically numbers pages in the document\n(iv) Text that appears at the bottom of every page",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Header (a) appears at the top of every page (ii). Footer (b) appears at the bottom of every page (iv). Page Number (c) automatically numbers pages (iii). Symbol (d) inserts special characters (i). Option A is wrong because it swaps Page Number and Symbol. Option B is wrong because it swaps Header and Footer. Option D is wrong because it swaps Footer and Symbol."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "The __________ in MS Word is a small, customizable toolbar above the Ribbon that provides quick access to frequently used commands like Save, Undo, and Redo.",
+      "options": [
+        "Status Bar",
+        "Title Bar",
+        "Quick Access Toolbar",
+        "Navigation Pane"
+      ],
+      "correctAnswer": "Quick Access Toolbar",
+      "explanation": "The Quick Access Toolbar (QAT) is positioned above the Ribbon and can be customized with frequently used commands. The Status Bar is at the bottom showing document information. The Title Bar displays the document name. The Navigation Pane is used for browsing document headings and pages."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "Which of the following correctly describes the function of Ctrl+Y in MS Word?",
+      "options": [
+        "Undo the last action",
+        "Redo the last undone action",
+        "Copy selected text",
+        "Paste from clipboard"
+      ],
+      "correctAnswer": "Redo the last undone action",
+      "explanation": "Ctrl+Y is the Redo shortcut that repeats the last action or restores an undone action. Undo the last action is Ctrl+Z. Copy selected text is Ctrl+C. Paste from clipboard is Ctrl+V."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "Consider the following statements:\n\n(i) A hyperlink in MS Word can link to a webpage, another document, or a location within the same document.\n(ii) Hyperlinks can only be inserted on text, not on images.\n(iii) The keyboard shortcut to insert a hyperlink is Ctrl+K.\n(iv) Hyperlinks appear as blue underlined text by default.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: Hyperlinks can link to URLs, files, emails, or bookmarks within the same document. (ii) FALSE: Hyperlinks can be applied to both text and images/objects. (iii) TRUE: Ctrl+K opens the Insert Hyperlink dialog. (iv) TRUE: By default, hyperlinks display as blue underlined text. Option A is wrong because (ii) is false. Option C is wrong because (iv) is also correct. Option D is wrong because (ii) is false."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "Which of the following are valid ways to change page margins in MS Word?\n\n(i) Using preset margin options from Page Layout tab\n(ii) Dragging the margin boundaries on the Ruler\n(iii) Entering custom values in the Page Setup dialog\n(iv) Using the Home tab Font settings",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Page Layout tab offers preset margin options (Normal, Narrow, Wide, etc.). (ii) TRUE: Margins can be adjusted by dragging the boundary on the Ruler. (iii) TRUE: Custom Margins in Page Setup dialog allows precise margin values. (iv) FALSE: The Home tab Font settings control text appearance, not page margins. Option B is wrong because (iv) is false. Option C is wrong because (ii) is also valid. Option D is wrong because (iv) is false and (i)/(iii) are excluded."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Comments in MS Word allow reviewers to provide feedback without changing the document text.\nReason (R): Comments are displayed in balloons in the margin area of the document.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: Comments let reviewers add feedback without altering the actual document content. Reason (R) is correct: Comments appear in margin balloons. However, R does not explain A. The fact that comments are non-destructive (A) is because they are metadata annotations, not because of where they are displayed (R). Option A is wrong because the display location does not explain the non-destructive nature. Option C is wrong because R is factually correct. Option D is wrong because A is factually correct."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "In MS Word, which of the following steps are part of the Mail Merge process?\n\n(i) Selecting the document type (letters, envelopes, labels)\n(ii) Connecting to a data source (recipient list)\n(iii) Inserting merge fields into the document\n(iv) Changing the font size of the entire document",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: First step is choosing document type. (ii) TRUE: A data source (Excel, Outlook contacts, etc.) must be connected. (iii) TRUE: Merge fields (like Name, Address) are inserted as placeholders. (iv) FALSE: Changing font size is a formatting action, not a Mail Merge step. Option A is wrong because (iv) is false. Option C is wrong because (iii) is also a Mail Merge step. Option D is wrong because (iv) is false."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "What does the Find and Replace feature in MS Word allow you to do?",
+      "options": [
+        "Search for specific text and replace it with different text throughout the document",
+        "Find and delete all images in the document",
+        "Replace the document template with another template",
+        "Search for files on the computer"
+      ],
+      "correctAnswer": "Search for specific text and replace it with different text throughout the document",
+      "explanation": "Find and Replace (Ctrl+H) locates specific text, formatting, or special characters and replaces them with alternatives. It cannot find and delete all images directly. It does not replace document templates. It searches within the document, not for files on the computer."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "Consider the following statements:\n\n(i) Tables in MS Word can be inserted from the Insert tab.\n(ii) Rows and columns can be added or deleted after creating a table.\n(iii) Cell merging combines two or more cells into one.\n(iv) Tables in MS Word cannot have borders.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Tables are inserted via Insert tab > Table. (ii) TRUE: Rows and columns can be added/deleted using the Table Tools Layout tab. (iii) TRUE: Merge Cells combines selected cells. (iv) FALSE: Tables have borders by default and border styles can be customized. Option B is wrong because (iv) is false. Option C is wrong because (iii) is also correct. Option D is wrong because (iv) is false."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "The __________ feature in MS Word checks the document for spelling errors and underlines misspelled words with a red wavy line.",
+      "options": [
+        "Grammar Check",
+        "AutoFormat",
+        "Spell Check",
+        "AutoComplete"
+      ],
+      "correctAnswer": "Spell Check",
+      "explanation": "Spell Check identifies misspelled words and marks them with red wavy underlines. Grammar Check marks grammatical errors with blue/green wavy underlines. AutoFormat applies automatic formatting rules. AutoComplete suggests completions for dates and common entries."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "Which option in MS Word allows you to divide a page into two or more vertical sections of text?",
+      "options": [
+        "Page Break",
+        "Section Break",
+        "Columns",
+        "Text Box"
+      ],
+      "correctAnswer": "Columns",
+      "explanation": "Columns (in Page Layout tab) divide page content into vertical columns like a newspaper layout. Page Break starts a new page. Section Break divides the document into sections with independent formatting. Text Box is a movable container for text but does not create flowing columns."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "In MS Word, Print Preview allows you to:",
+      "options": [
+        "Edit the document in a full-screen mode",
+        "See how the document will look when printed before actually printing",
+        "Preview animations added to the document",
+        "View the document without the Ribbon"
+      ],
+      "correctAnswer": "See how the document will look when printed before actually printing",
+      "explanation": "Print Preview displays the document exactly as it will appear on paper, showing margins, headers, footers, and page breaks. It is not a full-screen editing mode. MS Word does not have animations like PowerPoint. Viewing without Ribbon is done by minimizing the Ribbon, not through Print Preview."
+    }
+  ]
+}

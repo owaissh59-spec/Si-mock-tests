@@ -1,0 +1,657 @@
+{
+  "subject": "B",
+  "topic": "Indian Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "Which is the longest river in India?",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Brahmaputra",
+        "Narmada"
+      ],
+      "correctAnswer": "Ganga",
+      "explanation": "Ganga is about 2525 km. Godavari wrong (1465 km). Brahmaputra wrong (mostly outside India). Narmada wrong (1312 km)."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "The highest peak entirely within India is:",
+      "options": [
+        "Kangchenjunga",
+        "K2",
+        "Nanda Devi",
+        "Annapurna"
+      ],
+      "correctAnswer": "Kangchenjunga",
+      "explanation": "Kangchenjunga at 8586m is highest peak entirely in India. K2 wrong (in PoK). Nanda Devi wrong (7816m). Annapurna wrong (in Nepal)."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Himalayas are young fold mountains.\n(ii) The Aravalli range is one of the oldest mountain ranges in the world.\n(iii) The Western Ghats are higher than the Eastern Ghats.\n(iv) The Vindhya range separates North India from South India.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) TRUE: Himalayas formed 50 million years ago. (ii) TRUE: Aravallis are among oldest ranges. (iii) TRUE: Western Ghats avg 1200m vs Eastern 600m. (iv) TRUE: Vindhyas form traditional divide. All correct. Option A wrong (iv also true). Option C wrong (iii,iv also true). Option D wrong (i also true)."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Brahmaputra river flows through a deep gorge in Arunachal Pradesh.\nReason (R): The Brahmaputra originates in Tibet and enters India through a narrow valley.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: Brahmaputra flows through deep gorge near Namcha Barwa. R correct: originates as Tsangpo in Tibet, enters India via narrow valley. R explains A because its origin and path create the gorge. Option B wrong (R explains A). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Match the following Himalayan passes with their states:\n\nColumn I:\n(a) Rohtang Pass\n(b) Nathu La\n(c) Zoji La\n(d) Shipki La\n\nColumn II:\n(i) Sikkim\n(ii) Jammu and Kashmir\n(iii) Himachal Pradesh\n(iv) Himachal Pradesh",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Rohtang in HP=(iii). Nathu La in Sikkim=(i). Zoji La in J&K=(ii). Shipki La in HP=(iv). Option B wrong (swaps a,b). Option C wrong (swaps b,c). Option D wrong (swaps a,c)."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Which of the following are west-flowing rivers of Peninsular India?\n\n(i) Narmada\n(ii) Tapti (Tapi)\n(iii) Godavari\n(iv) Mahi",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: Narmada flows west. (ii) TRUE: Tapti flows west. (iii) FALSE: Godavari flows east into Bay of Bengal. (iv) TRUE: Mahi flows west into Arabian Sea. Option B wrong (iv also true). Option C wrong (iii false). Option D wrong (iii false)."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "The Indian monsoon is primarily caused by:",
+      "options": [
+        "Differential heating of land and sea",
+        "Rotation of Earth",
+        "Volcanic activity",
+        "Tidal forces"
+      ],
+      "correctAnswer": "Differential heating of land and sea",
+      "explanation": "Monsoon driven by differential heating creating pressure differences that draw moisture-laden winds from ocean. Earth rotation wrong (contributes to Coriolis but not primary cause). Volcanic activity wrong (unrelated). Tidal forces wrong (unrelated to monsoons)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Black soil (Regur) in India is most suitable for growing:",
+      "options": [
+        "Cotton",
+        "Rice",
+        "Tea",
+        "Wheat"
+      ],
+      "correctAnswer": "Cotton",
+      "explanation": "Black soil is ideal for cotton due to moisture retention and high clay content. Rice wrong (needs alluvial/waterlogged soil). Tea wrong (needs acidic laterite soil). Wheat wrong (grows best in alluvial soil)."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The __________ is the largest river basin in India covering about one-fourth of the countrys total area.",
+      "options": [
+        "Ganga basin",
+        "Indus basin",
+        "Godavari basin",
+        "Brahmaputra basin"
+      ],
+      "correctAnswer": "Ganga basin",
+      "explanation": "Ganga basin covers about 8.6 lakh sq km (26% of India). Indus wrong (only partially in India). Godavari wrong (3.1 lakh sq km). Brahmaputra wrong (mostly in Tibet)."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Which National Highway connects Delhi to Mumbai?",
+      "options": [
+        "NH 48 (now NH 48)",
+        "NH 2",
+        "NH 1",
+        "NH 7"
+      ],
+      "correctAnswer": "NH 48 (now NH 48)",
+      "explanation": "NH 48 (old numbering, now part of NH 48 in new system) connects Delhi to Mumbai via Jaipur-Udaipur-Ahmedabad. NH 2 wrong (Delhi to Kolkata). NH 1 wrong (Delhi to Amritsar). NH 7 wrong (Varanasi to Kanyakumari)."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Alluvial soil is found in the Northern Plains of India.\n(ii) Laterite soil is rich in iron and aluminium.\n(iii) Red soil is found mainly in the Deccan Plateau.\n(iv) Alluvial soil is poor in nutrients and infertile.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: alluvial deposited by rivers in Indo-Gangetic plains. (ii) TRUE: laterite rich in iron/aluminium oxides. (iii) TRUE: red soil covers Deccan Plateau. (iv) FALSE: alluvial is very fertile. Option B wrong (iv false). Option C wrong (iii also true). Option D wrong (iv false)."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Western Ghats receive more rainfall than the Eastern Ghats.\nReason (R): The Western Ghats act as a barrier to the moisture-laden southwest monsoon winds.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: Western Ghats get 2000-5000mm vs Eastern 500-1000mm. R correct: they block SW monsoon causing orographic rainfall. R explains A directly. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The Godavari river is also known as:",
+      "options": [
+        "Dakshin Ganga",
+        "Vridha Ganga",
+        "Sorrow of Bengal",
+        "Sorrow of Bihar"
+      ],
+      "correctAnswer": "Dakshin Ganga",
+      "explanation": "Godavari called Dakshin Ganga (Ganges of South) as it is the longest peninsular river. Vridha Ganga wrong (another name for Godavari in some contexts, but Dakshin Ganga is the most common). Sorrow of Bengal wrong (refers to Damodar). Sorrow of Bihar wrong (refers to Kosi)."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "India shares its longest international border with:",
+      "options": [
+        "Bangladesh",
+        "China",
+        "Pakistan",
+        "Nepal"
+      ],
+      "correctAnswer": "Bangladesh",
+      "explanation": "India-Bangladesh border is about 4096 km (longest). China wrong (3488 km). Pakistan wrong (3323 km). Nepal wrong (1751 km)."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Which of the following crops is known as the Golden Fibre?",
+      "options": [
+        "Jute",
+        "Cotton",
+        "Silk",
+        "Hemp"
+      ],
+      "correctAnswer": "Jute",
+      "explanation": "Jute is called Golden Fibre due to its golden color and economic importance. Cotton wrong (white gold). Silk wrong (called queen of textiles). Hemp wrong (not called golden fibre)."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Match the following rivers with their origins:\n\nColumn I:\n(a) Ganga\n(b) Yamuna\n(c) Narmada\n(d) Godavari\n\nColumn II:\n(i) Amarkantak\n(ii) Gangotri glacier\n(iii) Yamunotri glacier\n(iv) Nasik (Trimbakeshwar)",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Ganga from Gangotri=(ii). Yamuna from Yamunotri=(iii). Narmada from Amarkantak=(i). Godavari from Nasik=(iv). Option B wrong (swaps a,b). Option C wrong (swaps b,d). Option D wrong (swaps a,c)."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The total number of states in India as of 2024 is:",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "27"
+      ],
+      "correctAnswer": "28",
+      "explanation": "India has 28 states and 8 Union Territories. 29 wrong (was before J&K reorganization in 2019). 30 wrong (incorrect). 27 wrong (incorrect)."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Which of the following are characteristics of tropical evergreen forests in India?\n\n(i) Found in areas with more than 200 cm annual rainfall\n(ii) Trees shed leaves in summer\n(iii) Dense canopy with little sunlight reaching the ground\n(iv) Found in Western Ghats, Northeast India, and Andaman Islands",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: need 200cm+ rainfall. (ii) FALSE: evergreen means they do NOT shed leaves seasonally. (iii) TRUE: dense canopy. (iv) TRUE: found in high rainfall areas. Option B wrong (ii false). Option C wrong (iv also true). Option D wrong (ii false)."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Tropic of Cancer passes through how many states of India?",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctAnswer": "8",
+      "explanation": "Tropic of Cancer passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. 6 wrong (too few). 7 wrong (misses one). 9 wrong (too many)."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "India is the largest producer of which of the following minerals?",
+      "options": [
+        "Mica",
+        "Iron ore",
+        "Coal",
+        "Bauxite"
+      ],
+      "correctAnswer": "Mica",
+      "explanation": "India is the largest producer of mica in the world (primarily from Jharkhand, Bihar, Rajasthan). Iron ore wrong (Australia/Brazil lead). Coal wrong (China leads). Bauxite wrong (Australia leads)."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Deccan Plateau is bounded by Western Ghats on the west and Eastern Ghats on the east.\n(ii) The Malwa Plateau is part of the Deccan Plateau.\n(iii) The Chota Nagpur Plateau is rich in mineral resources.\n(iv) The Deccan Plateau slopes from east to west.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Deccan bounded by both Ghats. (ii) TRUE: Malwa is part of Deccan system. (iii) TRUE: Chota Nagpur has coal, iron, mica. (iv) FALSE: Deccan slopes from west to east (rivers flow eastward). Option B wrong (iv false). Option C wrong (ii also true). Option D wrong (iv false)."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The Green Revolution in India primarily benefited the production of:",
+      "options": [
+        "Wheat and Rice",
+        "Cotton and Jute",
+        "Tea and Coffee",
+        "Pulses and Oilseeds"
+      ],
+      "correctAnswer": "Wheat and Rice",
+      "explanation": "Green Revolution (1960s-70s) mainly boosted wheat and rice through HYV seeds, irrigation, fertilizers. Cotton/Jute wrong (not primary focus). Tea/Coffee wrong (plantation crops not targeted). Pulses/Oilseeds wrong (remained largely unaffected)."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cherrapunji receives extremely high rainfall.\nReason (R): Cherrapunji is located on the southern slopes of Khasi Hills facing the moisture-laden winds from Bay of Bengal.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: Cherrapunji gets about 11000mm rainfall. R correct: located on southern Khasi slopes facing Bay of Bengal winds causing orographic rain. R explains A. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Which state is the largest producer of tea in India?",
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": "Assam",
+      "explanation": "Assam produces about 52% of Indias tea. West Bengal wrong (second largest). Kerala wrong (mainly rubber/spices). Tamil Nadu wrong (produces but not largest)."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The __________ coast of India stretches from Gujarat to Kerala along the Arabian Sea.",
+      "options": [
+        "Western",
+        "Eastern",
+        "Southern",
+        "Northern"
+      ],
+      "correctAnswer": "Western",
+      "explanation": "The western coast runs along Arabian Sea from Gujarat to Kerala, including Konkan and Malabar coasts. Eastern wrong (along Bay of Bengal). Southern wrong (not a coast classification). Northern wrong (India has no northern coast)."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Match the following mineral resources with their major locations in India:\n\nColumn I:\n(a) Iron Ore\n(b) Coal\n(c) Petroleum\n(d) Mica\n\nColumn II:\n(i) Jharia, Raniganj\n(ii) Mumbai High, Assam\n(iii) Jharkhand, Bihar\n(iv) Odisha, Chhattisgarh",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "Iron ore in Odisha/Chhattisgarh=(iv). Coal in Jharia/Raniganj=(i). Petroleum at Mumbai High/Assam=(ii). Mica in Jharkhand/Bihar=(iii). Option B wrong (swaps a,b). Option C wrong (swaps b,c). Option D wrong (swaps a,d)."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The Konkan coast is located in which part of India?",
+      "options": [
+        "Western coast between Goa and Mumbai",
+        "Eastern coast between Chennai and Kolkata",
+        "Southern coast of Kerala",
+        "Northern coast of Gujarat"
+      ],
+      "correctAnswer": "Western coast between Goa and Mumbai",
+      "explanation": "Konkan coast stretches along Maharashtra from Daman to Goa on western coast. Eastern coast wrong (thats Coromandel). Southern Kerala wrong (thats Malabar). Northern Gujarat wrong (thats Kathiawar)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Which of the following are Himalayan rivers?\n\n(i) Ganga\n(ii) Brahmaputra\n(iii) Narmada\n(iv) Indus",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: Ganga originates in Himalayas. (ii) TRUE: Brahmaputra from Tibet/Himalayas. (iii) FALSE: Narmada is peninsular, from Amarkantak. (iv) TRUE: Indus from Tibet near Mansarovar. Option B wrong (iii false). Option C wrong (iv also true). Option D wrong (iii false)."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The total area of India is approximately:",
+      "options": [
+        "3.28 million sq km",
+        "3.5 million sq km",
+        "2.9 million sq km",
+        "4.0 million sq km"
+      ],
+      "correctAnswer": "3.28 million sq km",
+      "explanation": "India covers 3.287 million sq km (7th largest country). 3.5 wrong (overestimate). 2.9 wrong (underestimate). 4.0 wrong (much larger than actual)."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) India has 7516 km of coastline.\n(ii) The Andaman and Nicobar Islands are in the Bay of Bengal.\n(iii) Lakshadweep is a coral island group in the Arabian Sea.\n(iv) The Palk Strait separates India from Sri Lanka.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) TRUE: 7516 km total coastline. (ii) TRUE: A&N in Bay of Bengal. (iii) TRUE: Lakshadweep coral islands in Arabian Sea. (iv) TRUE: Palk Strait between India and Sri Lanka. All correct. Option B wrong (iv also true). Option C wrong (i also true). Option D wrong (ii,iii also true)."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Most rivers of Peninsular India flow eastward.\nReason (R): The general slope of the Peninsular Plateau is from west to east.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: most peninsular rivers (Godavari, Krishna, Kaveri) flow east. R correct: Western Ghats are higher, plateau slopes east. R explains A: rivers follow the slope. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Which river is known as the Sorrow of Bihar?",
+      "options": [
+        "Kosi",
+        "Damodar",
+        "Son",
+        "Gandak"
+      ],
+      "correctAnswer": "Kosi",
+      "explanation": "Kosi is called Sorrow of Bihar due to frequent devastating floods and course changes. Damodar wrong (Sorrow of Bengal). Son wrong (tributary of Ganga, not known for floods). Gandak wrong (not called sorrow)."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The Northern Plains of India are formed by:",
+      "options": [
+        "Alluvial deposits of Indus, Ganga, and Brahmaputra rivers",
+        "Volcanic eruptions",
+        "Folding of tectonic plates",
+        "Erosion of Deccan Plateau"
+      ],
+      "correctAnswer": "Alluvial deposits of Indus, Ganga, and Brahmaputra rivers",
+      "explanation": "Northern Plains formed by depositional work of three river systems. Volcanic wrong (no volcanic activity). Folding wrong (thats Himalayas). Erosion of Deccan wrong (unrelated)."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Match the following agricultural crops with the soil type best suited for them:\n\nColumn I:\n(a) Cotton\n(b) Rice\n(c) Tea\n(d) Wheat\n\nColumn II:\n(i) Alluvial soil\n(ii) Black soil\n(iii) Laterite soil\n(iv) Alluvial soil",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "Cotton grows best in black soil=(ii). Rice in alluvial=(i). Tea in laterite/acidic=(iii). Wheat in alluvial=(iv). Option B wrong (swaps a,b). Option C wrong (swaps b,c). Option D wrong (swaps a,c)."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Which of the following states does NOT share a border with Pakistan?\n\n(i) Gujarat\n(ii) Rajasthan\n(iii) Madhya Pradesh\n(iv) Punjab",
+      "options": [
+        "(iii) only",
+        "(i) and (iii)",
+        "(iii) and (iv)",
+        "(ii) and (iii)"
+      ],
+      "correctAnswer": "(iii) only",
+      "explanation": "Gujarat, Rajasthan, Punjab, and J&K share border with Pakistan. Madhya Pradesh is landlocked and does not border Pakistan. Option (i) and (iii) wrong (Gujarat borders Pakistan). Option (iii) and (iv) wrong (Punjab borders Pakistan). Option (ii) and (iii) wrong (Rajasthan borders Pakistan)."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The Indian railway network is divided into how many zones?",
+      "options": [
+        "18",
+        "16",
+        "17",
+        "20"
+      ],
+      "correctAnswer": "18",
+      "explanation": "Indian Railways has 18 zones (as of current organization). 16 wrong (was earlier count). 17 wrong (one less). 20 wrong (too many)."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) Mangrove forests are found in the Sundarbans delta.\n(ii) The Thar Desert receives less than 25 cm of annual rainfall.\n(iii) Alpine vegetation is found above 3600 meters in the Himalayas.\n(iv) Deciduous forests shed their leaves in the dry season.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) TRUE: Sundarbans has largest mangrove forest. (ii) TRUE: Thar gets less than 25cm. (iii) TRUE: alpine above 3600m. (iv) TRUE: deciduous trees shed leaves in dry season. All correct. Option B wrong (iv also true). Option C wrong (ii,iii also true). Option D wrong (i also true)."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The Indus river enters India through which state?",
+      "options": [
+        "Jammu and Kashmir (Ladakh UT)",
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand"
+      ],
+      "correctAnswer": "Jammu and Kashmir (Ladakh UT)",
+      "explanation": "Indus enters India through Ladakh (now a UT, earlier part of J&K). HP wrong (Indus doesnt enter through HP). Punjab wrong (Indus flows through Pakistan Punjab). Uttarakhand wrong (Ganga system, not Indus)."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The __________ is Indias largest state by area.",
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "correctAnswer": "Rajasthan",
+      "explanation": "Rajasthan is largest by area (342,239 sq km). Madhya Pradesh wrong (second largest at 308,252). Maharashtra wrong (third). Uttar Pradesh wrong (largest by population, not area)."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Thar Desert experiences extreme temperatures with very hot days and cold nights.\nReason (R): Sand has low specific heat capacity and heats up and cools down rapidly.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: Thar has extreme diurnal temperature variation. R correct: sand has low specific heat. R explains A: sand heats/cools quickly causing extreme temperatures. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Which is the largest freshwater lake in India?",
+      "options": [
+        "Wular Lake",
+        "Dal Lake",
+        "Chilika Lake",
+        "Loktak Lake"
+      ],
+      "correctAnswer": "Wular Lake",
+      "explanation": "Wular Lake in J&K is largest freshwater lake. Dal Lake wrong (smaller, also in J&K). Chilika wrong (largest brackish lagoon, not freshwater). Loktak wrong (largest freshwater in NE, not all India)."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "The monsoon season in India generally lasts from:",
+      "options": [
+        "June to September",
+        "March to May",
+        "October to December",
+        "January to March"
+      ],
+      "correctAnswer": "June to September",
+      "explanation": "Southwest monsoon arrives in June and withdraws by September. March-May wrong (summer/pre-monsoon). Oct-Dec wrong (retreating monsoon/NE monsoon). Jan-Mar wrong (winter season)."
+    },
+    {
+      "id": "43",
+      "subject": "B",
+      "questionText": "Which of the following are major iron ore producing states in India?\n\n(i) Odisha\n(ii) Chhattisgarh\n(iii) Karnataka\n(iv) Kerala",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Odisha top producer. (ii) TRUE: Chhattisgarh major producer (Dalli-Rajhara). (iii) TRUE: Karnataka (Bellary-Hospet). (iv) FALSE: Kerala not a significant iron ore state. Option B wrong (iv false). Option C wrong (iii also true). Option D wrong (iv false)."
+    },
+    {
+      "id": "44",
+      "subject": "B",
+      "questionText": "The Krishna river originates near:",
+      "options": [
+        "Mahabaleshwar",
+        "Nasik",
+        "Amarkantak",
+        "Gangotri"
+      ],
+      "correctAnswer": "Mahabaleshwar",
+      "explanation": "Krishna rises near Mahabaleshwar in Western Ghats, Maharashtra. Nasik wrong (origin of Godavari). Amarkantak wrong (origin of Narmada). Gangotri wrong (origin of Ganga)."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Match the following climate regions with their characteristics:\n\nColumn I:\n(a) Tropical Wet (Kerala coast)\n(b) Tropical Dry (Rajasthan)\n(c) Subtropical Humid (UP plains)\n(d) Mountain Climate (Himalayas)\n\nColumn II:\n(i) Hot summers, cold winters, moderate rainfall\n(ii) Heavy rainfall throughout year, no dry season\n(iii) Scanty rainfall, extreme temperatures\n(iv) Temperature decreases with altitude, heavy snowfall",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Kerala=heavy rain, no dry season=(ii). Rajasthan=scanty rain, extreme temp=(iii). UP plains=hot summer, cold winter, moderate rain=(i). Himalayas=temp drops with altitude=(iv). Option B wrong (swaps a,b). Option C wrong (swaps b,c). Option D wrong (swaps a,d)."
+    },
+    {
+      "id": "46",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) The Ganga-Brahmaputra delta is the worlds largest delta.\n(ii) The delta is also called the Sundarbans.\n(iii) The Sundarbans is home to the Royal Bengal Tiger.\n(iv) The delta is formed by the Indus river.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: largest delta in world. (ii) TRUE: lower part called Sundarbans. (iii) TRUE: Royal Bengal Tiger habitat. (iv) FALSE: formed by Ganga-Brahmaputra, not Indus. Option B wrong (iv false). Option C wrong (ii also true). Option D wrong (iv false)."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "The National Waterway 1 (NW-1) runs along which river?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Krishna"
+      ],
+      "correctAnswer": "Ganga",
+      "explanation": "NW-1 runs along Ganga from Allahabad to Haldia (1620 km). Brahmaputra wrong (NW-2). Godavari wrong (NW-4 planned). Krishna wrong (not a national waterway route)."
+    },
+    {
+      "id": "48",
+      "subject": "B",
+      "questionText": "Which pass connects Srinagar to Leh?",
+      "options": [
+        "Zoji La",
+        "Rohtang Pass",
+        "Khardung La",
+        "Banihal Pass"
+      ],
+      "correctAnswer": "Zoji La",
+      "explanation": "Zoji La (3528m) on NH1 connects Srinagar to Leh via Kargil. Rohtang wrong (connects Manali to Lahaul-Spiti). Khardung La wrong (connects Leh to Nubra Valley). Banihal Pass wrong (connects Jammu to Srinagar)."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Consider the following statements:\n\n(i) India is the second largest producer of rice in the world.\n(ii) West Bengal is the largest rice producing state in India.\n(iii) Rice requires temperatures above 25 degrees C and rainfall above 100 cm.\n(iv) Rice is primarily a Rabi crop.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: India 2nd after China. (ii) TRUE: WB largest rice producer. (iii) TRUE: rice needs high temp and rainfall. (iv) FALSE: rice is primarily Kharif crop (monsoon). Option B wrong (iv false). Option C wrong (iii also true). Option D wrong (iv false)."
+    },
+    {
+      "id": "50",
+      "subject": "B",
+      "questionText": "The total number of Union Territories in India is:",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correctAnswer": "8",
+      "explanation": "India has 8 UTs: Delhi, Puducherry, Chandigarh, A&N, Lakshadweep, D&N and Daman&Diu, Ladakh, J&K. 7 wrong (was before 2019 reorganization). 9 wrong (too many). 6 wrong (too few)."
+    }
+  ]
+}

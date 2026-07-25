@@ -3,9 +3,9 @@
   "medium": "English",
   "exam_day": 70,
   "total_planned_tests": 207,
-  "test_counter": 24,
-  "next_test": 25,
-  "last_generated": "24_test_E_circles.json",
+  "test_counter": 27,
+  "next_test": 28,
+  "last_generated": "27_test_B_indian-geography.json",
   "updated_at": "2026-07-25",
   "duplicate_policy": "no-exact-and-no-near-duplicate (check subject history shard)",
   "history_shards": {

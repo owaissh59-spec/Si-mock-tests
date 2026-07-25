@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 170,
+  "count": 220,
   "questions": [
     {
       "test": 2,
@@ -852,6 +852,256 @@
       "test": 21,
       "stem": "the 'dhamma mahamatras' appointed by ashoka were responsible for:",
       "key": "Propagating principles of Dhamma among people"
+    },
+    {
+      "test": 27,
+      "stem": "which is the longest river in india?",
+      "key": "Ganga"
+    },
+    {
+      "test": 27,
+      "stem": "the highest peak entirely within india is:",
+      "key": "Kangchenjunga"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) the himalayas are young fold mountains. (ii)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 27,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 27,
+      "stem": "match the following himalayan passes with their states: column i: (a) rohtang",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 27,
+      "stem": "which of the following are west-flowing rivers of peninsular india? (i) narmada",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 27,
+      "stem": "the indian monsoon is primarily caused by:",
+      "key": "Differential heating of land and sea"
+    },
+    {
+      "test": 27,
+      "stem": "black soil (regur) in india is most suitable for growing:",
+      "key": "Cotton"
+    },
+    {
+      "test": 27,
+      "stem": "the __________ is the largest river basin in india covering about one-fourth",
+      "key": "Ganga basin"
+    },
+    {
+      "test": 27,
+      "stem": "which national highway connects delhi to mumbai?",
+      "key": "NH 48 (now NH 48)"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) alluvial soil is found in the northern",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 27,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 27,
+      "stem": "the godavari river is also known as:",
+      "key": "Dakshin Ganga"
+    },
+    {
+      "test": 27,
+      "stem": "india shares its longest international border with:",
+      "key": "Bangladesh"
+    },
+    {
+      "test": 27,
+      "stem": "which of the following crops is known as the golden fibre?",
+      "key": "Jute"
+    },
+    {
+      "test": 27,
+      "stem": "match the following rivers with their origins: column i: (a) ganga (b)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 27,
+      "stem": "the total number of states in india as of 2024 is:",
+      "key": "28"
+    },
+    {
+      "test": 27,
+      "stem": "which of the following are characteristics of tropical evergreen forests in india?",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 27,
+      "stem": "the tropic of cancer passes through how many states of india?",
+      "key": "8"
+    },
+    {
+      "test": 27,
+      "stem": "india is the largest producer of which of the following minerals?",
+      "key": "Mica"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) the deccan plateau is bounded by western",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 27,
+      "stem": "the green revolution in india primarily benefited the production of:",
+      "key": "Wheat and Rice"
+    },
+    {
+      "test": 27,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 27,
+      "stem": "which state is the largest producer of tea in india?",
+      "key": "Assam"
+    },
+    {
+      "test": 27,
+      "stem": "the __________ coast of india stretches from gujarat to kerala along the",
+      "key": "Western"
+    },
+    {
+      "test": 27,
+      "stem": "match the following mineral resources with their major locations in india: column",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 27,
+      "stem": "the konkan coast is located in which part of india?",
+      "key": "Western coast between Goa and Mumbai"
+    },
+    {
+      "test": 27,
+      "stem": "which of the following are himalayan rivers? (i) ganga (ii) brahmaputra (iii)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 27,
+      "stem": "the total area of india is approximately:",
+      "key": "3.28 million sq km"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) india has 7516 km of coastline. (ii)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 27,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 27,
+      "stem": "which river is known as the sorrow of bihar?",
+      "key": "Kosi"
+    },
+    {
+      "test": 27,
+      "stem": "the northern plains of india are formed by:",
+      "key": "Alluvial deposits of Indus, Ganga, and Brahmaputra rivers"
+    },
+    {
+      "test": 27,
+      "stem": "match the following agricultural crops with the soil type best suited for",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 27,
+      "stem": "which of the following states does not share a border with pakistan?",
+      "key": "(iii) only"
+    },
+    {
+      "test": 27,
+      "stem": "the indian railway network is divided into how many zones?",
+      "key": "18"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) mangrove forests are found in the sundarbans",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 27,
+      "stem": "the indus river enters india through which state?",
+      "key": "Jammu and Kashmir (Ladakh UT)"
+    },
+    {
+      "test": 27,
+      "stem": "the __________ is indias largest state by area.",
+      "key": "Rajasthan"
+    },
+    {
+      "test": 27,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 27,
+      "stem": "which is the largest freshwater lake in india?",
+      "key": "Wular Lake"
+    },
+    {
+      "test": 27,
+      "stem": "the monsoon season in india generally lasts from:",
+      "key": "June to September"
+    },
+    {
+      "test": 27,
+      "stem": "which of the following are major iron ore producing states in india?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 27,
+      "stem": "the krishna river originates near:",
+      "key": "Mahabaleshwar"
+    },
+    {
+      "test": 27,
+      "stem": "match the following climate regions with their characteristics: column i: (a) tropical",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) the ganga-brahmaputra delta is the worlds largest",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 27,
+      "stem": "the national waterway 1 (nw-1) runs along which river?",
+      "key": "Ganga"
+    },
+    {
+      "test": 27,
+      "stem": "which pass connects srinagar to leh?",
+      "key": "Zoji La"
+    },
+    {
+      "test": 27,
+      "stem": "consider the following statements: (i) india is the second largest producer of",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 27,
+      "stem": "the total number of union territories in india is:",
+      "key": "8"
     }
   ]
 }

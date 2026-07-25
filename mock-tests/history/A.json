@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 130,
+  "count": 170,
   "questions": [
     {
       "test": 1,
@@ -652,6 +652,206 @@
       "test": 21,
       "stem": "archipelago is to islands as bouquet is to:",
       "key": "Flowers"
+    },
+    {
+      "test": 26,
+      "stem": "if \"+\" means multiply, \"-\" means divide, \"x\" means add, and \"/\"",
+      "key": "14"
+    },
+    {
+      "test": 26,
+      "stem": "consider the following statements: (i) in the expression 4 # 3 =",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 26,
+      "stem": "a father is 3 times as old as his son. after 12",
+      "key": "36 years"
+    },
+    {
+      "test": 26,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 26,
+      "stem": "match the following mathematical operation puzzles with their results: column i: (a)",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 26,
+      "stem": "which of the following are correct statements about clock angles? (i) at",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "a clock shows 3:15. what is the angle between the hour hand",
+      "key": "7.5 degrees"
+    },
+    {
+      "test": 26,
+      "stem": "if the day before yesterday was thursday, what day will it be",
+      "key": "Monday"
+    },
+    {
+      "test": 26,
+      "stem": "the missing number in the sequence 3, 8, 15, 24, 35, __________",
+      "key": "48"
+    },
+    {
+      "test": 26,
+      "stem": "on a standard die, if the face showing 4 is at the",
+      "key": "3"
+    },
+    {
+      "test": 26,
+      "stem": "a man walks 5 km north, turns right and walks 3 km,",
+      "key": "3 km"
+    },
+    {
+      "test": 26,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 26,
+      "stem": "if 5 workers can complete a job in 12 days, how many",
+      "key": "6 days"
+    },
+    {
+      "test": 26,
+      "stem": "consider the following statements about a standard die: (i) opposite faces always",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "a train 200 m long crosses a pole in 10 seconds. what",
+      "key": "72 km/h"
+    },
+    {
+      "test": 26,
+      "stem": "the sum of three consecutive even numbers is 48. what is the",
+      "key": "18"
+    },
+    {
+      "test": 26,
+      "stem": "match the following age problems with their answers: column i: (a) a+b=50,",
+      "key": "(a)-(i), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 26,
+      "stem": "which of the following are correct statements about the calendar? (i) a",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "if january 1 of a non-leap year is monday, what day is",
+      "key": "Thursday"
+    },
+    {
+      "test": 26,
+      "stem": "pointing to a photograph, a woman says: he is the son of",
+      "key": "Son"
+    },
+    {
+      "test": 26,
+      "stem": "what is the angle in degrees between the hour and minute hands",
+      "key": "45"
+    },
+    {
+      "test": 26,
+      "stem": "consider the following statements: (i) if 8 $ 2 = 6 and",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "if 2 * 3 = 13, 3 * 4 = 25, and",
+      "key": "61"
+    },
+    {
+      "test": 26,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 26,
+      "stem": "in a family of 6 members a, b, c, d, e, f:",
+      "key": "3"
+    },
+    {
+      "test": 26,
+      "stem": "a shopkeeper buys an article for rs. 400 and sells it for",
+      "key": "25%"
+    },
+    {
+      "test": 26,
+      "stem": "match the following figures with the number of triangles they contain: column",
+      "key": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 26,
+      "stem": "which of the following are correct logical deductions? (i) if you face",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "the average of five numbers is 20. if one number is excluded,",
+      "key": "28"
+    },
+    {
+      "test": 26,
+      "stem": "consider the following statements: (i) if a is taller than b, and",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "a pipe can fill a tank in 6 hours. another can empty",
+      "key": "12 hours"
+    },
+    {
+      "test": 26,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 26,
+      "stem": "a car covers 150 km in 2.5 hours. what is its average",
+      "key": "60 km/h"
+    },
+    {
+      "test": 26,
+      "stem": "if 72 means 49, 83 means 64, and 94 means 81, then",
+      "key": "36"
+    },
+    {
+      "test": 26,
+      "stem": "consider the following statements: (i) half of 200 is the same as",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 26,
+      "stem": "a class has: 5 students scored 40, 8 scored 55, 7 scored",
+      "key": "62"
+    },
+    {
+      "test": 26,
+      "stem": "in a school, 60% play cricket, 40% play football, 20% play both.",
+      "key": "20%"
+    },
+    {
+      "test": 26,
+      "stem": "which of the following are correct? (i) all dogs are animals and",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 26,
+      "stem": "a number is first increased by 20% and then decreased by 20%.",
+      "key": "4% decrease"
+    },
+    {
+      "test": 26,
+      "stem": "match the following with answers: column i: (a) speed=60, time=2h. distance= (b)",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
     }
   ]
 }

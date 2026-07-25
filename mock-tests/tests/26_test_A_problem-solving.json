@@ -1,0 +1,527 @@
+{
+  "subject": "A",
+  "topic": "Problem Solving & Arithmetical Reasoning",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "If \"+\" means multiply, \"-\" means divide, \"x\" means add, and \"/\" means subtract, then what is the value of 6 + 4 - 2 x 5 / 3?",
+      "options": [
+        "14",
+        "17",
+        "12",
+        "15"
+      ],
+      "correctAnswer": "14",
+      "explanation": "Replace symbols: 6*4/2+5-3. BODMAS: 6*4=24, 24/2=12, 12+5=17, 17-3=14. Option 17 wrong (omits subtraction). Option 12 wrong (stops at division). Option 15 wrong (subtracts 2)."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the expression 4 # 3 = 25 and 5 # 2 = 29, the operation is a # b = a squared + b squared.\n(ii) Using this pattern, 6 # 4 = 52.\n(iii) Using this pattern, 3 # 7 = 58.\n(iv) Using this pattern, 1 # 8 = 63.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 16+9=25, 25+4=29. (ii) TRUE: 36+16=52. (iii) TRUE: 9+49=58. (iv) FALSE: 1+64=65 not 63. Option B wrong (iv false). Option C wrong (iii also true). Option D wrong (iv false)."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "A father is 3 times as old as his son. After 12 years, he will be twice as old as his son. What is the present age of the father?",
+      "options": [
+        "36 years",
+        "42 years",
+        "48 years",
+        "30 years"
+      ],
+      "correctAnswer": "36 years",
+      "explanation": "Let son=x, father=3x. After 12: 3x+12=2(x+12), x=12, father=36. Option 42 wrong (incorrect equation). Option 48 wrong (uses 4x). Option 30 wrong (wrong ratio)."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): At 3:00 on a clock, the angle between the hour and minute hands is exactly 90 degrees.\nReason (R): Each hour mark on a clock face represents 30 degrees.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: at 3:00, hour hand at 90 degrees, minute at 0 degrees, angle=90. R correct: 360/12=30. R explains A: 3 marks times 30=90. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Match the following mathematical operation puzzles with their results:\n\nColumn I:\n(a) If + means multiply: 3 + 5 =\n(b) If - means add: 12 - 8 =\n(c) If x means subtract: 20 x 7 =\n(d) If / means add: 9 / 6 =\n\nColumn II:\n(i) 20\n(ii) 15\n(iii) 13\n(iv) 15",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) 3*5=15=(ii). (b) 12+8=20=(i). (c) 20-7=13=(iii). (d) 9+6=15=(iv). Option B wrong (swaps a,b). Option C wrong (swaps b,c). Option D wrong (swaps a,d)."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Which of the following are correct statements about clock angles?\n\n(i) At 6:00, the angle between hands is 180 degrees\n(ii) At 9:00, the angle between hands is 270 degrees\n(iii) The minute hand moves at 6 degrees per minute\n(iv) The hour hand moves at 0.5 degrees per minute",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: 6*30=180. (ii) FALSE: at 9:00 the angle is 90 degrees (the smaller angle between hands), not 270. (iii) TRUE: 360/60=6. (iv) TRUE: 360/720=0.5. Option B wrong (ii false). Option C wrong (iv also correct). Option D wrong (ii false)."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "A clock shows 3:15. What is the angle between the hour hand and the minute hand?",
+      "options": [
+        "0 degrees",
+        "7.5 degrees",
+        "15 degrees",
+        "22.5 degrees"
+      ],
+      "correctAnswer": "7.5 degrees",
+      "explanation": "At 3:15, minute hand at 90 degrees. Hour hand: 90 + 15*0.5 = 97.5 degrees. Angle = 97.5-90 = 7.5 degrees. Option 0 wrong (ignores hour hand movement). Option 15 wrong (uses 1 degree/min). Option 22.5 wrong (uses 1.5 degree/min)."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "If the day before yesterday was Thursday, what day will it be the day after tomorrow?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Saturday",
+        "Tuesday"
+      ],
+      "correctAnswer": "Monday",
+      "explanation": "Day before yesterday=Thursday, yesterday=Friday, today=Saturday, tomorrow=Sunday, day after tomorrow=Monday. Option Sunday wrong (tomorrow). Option Saturday wrong (today). Option Tuesday wrong (3 days ahead)."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "The missing number in the sequence 3, 8, 15, 24, 35, __________ follows an increasing difference pattern.",
+      "options": [
+        "42",
+        "48",
+        "40",
+        "44"
+      ],
+      "correctAnswer": "48",
+      "explanation": "Differences: 5,7,9,11. Next diff=13. 35+13=48. Also n*(n+2): 1*3=3, 2*4=8, 3*5=15, 4*6=24, 5*7=35, 6*8=48. Option 42 wrong (adds 7). Option 40 wrong (adds 5). Option 44 wrong (adds 9)."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "On a standard die, if the face showing 4 is at the bottom, which number is on the top face?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "6"
+      ],
+      "correctAnswer": "3",
+      "explanation": "Opposite faces sum to 7: 4+3=7. If 4 is bottom, 3 is top. Option 2 wrong (opposite of 5). Option 1 wrong (opposite of 6). Option 6 wrong (opposite of 1)."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "A man walks 5 km North, turns right and walks 3 km, turns right and walks 5 km. How far is he from the starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "2 km"
+      ],
+      "correctAnswer": "3 km",
+      "explanation": "5 km N, 3 km E, 5 km S returns to same latitude, 3 km East of start. Option 5 wrong (N distance). Option 8 wrong (5+3). Option 2 wrong (arbitrary)."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): February 29 occurs only in a leap year.\nReason (R): A leap year is divisible by 4, except century years which must be divisible by 400.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: Feb 29 exists only in leap years. R correct: standard leap year rule. R explains A because the rule determines when the extra day occurs. Option B wrong (R directly explains A). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "If 5 workers can complete a job in 12 days, how many days will 10 workers take to complete the same job assuming equal efficiency?",
+      "options": [
+        "6 days",
+        "24 days",
+        "8 days",
+        "10 days"
+      ],
+      "correctAnswer": "6 days",
+      "explanation": "Total work=5*12=60 worker-days. With 10: 60/10=6. Option 24 wrong (12*2). Option 8 wrong (arbitrary). Option 10 wrong (arbitrary)."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Consider the following statements about a standard die:\n\n(i) Opposite faces always sum to 7.\n(ii) The numbers 1, 2, and 3 share a common vertex.\n(iii) If 1 is on top and 2 faces you, then 3 is always on the left on any standard die.\n(iv) The total of all faces is 21.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 1+6=2+5=3+4=7. (ii) TRUE: 1,2,3 meet at a vertex on standard die. (iii) FALSE: orientation depends on die chirality. (iv) TRUE: 1+2+3+4+5+6=21. Option B wrong (iii not universal). Option C wrong (iv also correct). Option D wrong (iii not universal)."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "A train 200 m long crosses a pole in 10 seconds. What is the speed of the train?",
+      "options": [
+        "72 km/h",
+        "60 km/h",
+        "80 km/h",
+        "54 km/h"
+      ],
+      "correctAnswer": "72 km/h",
+      "explanation": "Speed=200/10=20 m/s=20*18/5=72 km/h. Option 60 wrong (wrong conversion). Option 80 wrong (uses 200/9). Option 54 wrong (uses 15 m/s)."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "The sum of three consecutive even numbers is 48. What is the largest number?",
+      "options": [
+        "18",
+        "16",
+        "20",
+        "14"
+      ],
+      "correctAnswer": "18",
+      "explanation": "Numbers: x,x+2,x+4. 3x+6=48, x=14. Largest=18. Option 16 wrong (middle). Option 20 wrong (adds extra). Option 14 wrong (smallest)."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Match the following age problems with their answers:\n\nColumn I:\n(a) A+B=50, A is 10 older than B. Age of A=\n(b) P:Q ratio 3:2, sum=35. Age of P=\n(c) R is twice S, R-S=15. Age of R=\n(d) M+5=3(M-5). Age of M=\n\nColumn II:\n(i) 30\n(ii) 10\n(iii) 21\n(iv) 15",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "(a) 2A=60,A=30=(i). (b) 5x=35,x=7,P=21=(iii). (c) S=15,R=30=(i). (d) 20=2M,M=10=(ii). Option B wrong (a not 15). Option C wrong (b not 15). Option D wrong (c not 15)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Which of the following are correct statements about the calendar?\n\n(i) A non-leap year has 365 days\n(ii) A leap year has 366 days\n(iii) The year 2100 will be a leap year\n(iv) A week has 7 days",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE. (ii) TRUE. (iii) FALSE: 2100 divisible by 100 but not 400, not a leap year. (iv) TRUE. Option B wrong (iii false). Option C wrong (iii false). Option D wrong (iv also true)."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "If January 1 of a non-leap year is Monday, what day is March 1 of the same year?",
+      "options": [
+        "Monday",
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "correctAnswer": "Thursday",
+      "explanation": "Jan 31 + Feb 28 = 59 days from Jan 1 to Mar 1. 59 mod 7 = 3. Monday + 3 = Thursday. Option Monday wrong (no shift). Option Wednesday wrong (adds 2). Option Tuesday wrong (adds 1)."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Pointing to a photograph, a woman says: He is the son of my fathers only daughter. How is the person related to the woman?",
+      "options": [
+        "Son",
+        "Nephew",
+        "Brother",
+        "Father"
+      ],
+      "correctAnswer": "Son",
+      "explanation": "Fathers only daughter = the woman herself. So he is the womans son. Option Nephew wrong (needs sister). Option Brother wrong (needs fathers son). Option Father wrong (reverses)."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "What is the angle in degrees between the hour and minute hands of a clock at 4:30?",
+      "options": [
+        "45",
+        "30",
+        "15",
+        "60"
+      ],
+      "correctAnswer": "45",
+      "explanation": "Hour hand at 4:30 = 4*30 + 30*0.5 = 135 degrees. Minute hand = 30*6 = 180 degrees. Angle = 180-135 = 45. Option 30 wrong (only hour position). Option 15 wrong (arbitrary). Option 60 wrong (2*30)."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) If 8 $ 2 = 6 and 10 $ 3 = 7, then $ means subtraction.\n(ii) If 4 @ 5 = 20 and 6 @ 3 = 18, then @ means multiplication.\n(iii) If 15 & 3 = 5 and 20 & 4 = 4, then & means division.\n(iv) If 7 ^ 3 = 10 and 5 ^ 8 = 13, then ^ means addition.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 8-2=6, 10-3=7. (ii) TRUE: 4*5=20, 6*3=18. (iii) FALSE: 15/3=5 but 20/4=5 not 4. (iv) TRUE: 7+3=10, 5+8=13. Option B wrong (iii false). Option C wrong (iv also true). Option D wrong (i also true)."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "If 2 * 3 = 13, 3 * 4 = 25, and 4 * 5 = 41, then 5 * 6 = __________.",
+      "options": [
+        "61",
+        "51",
+        "65",
+        "56"
+      ],
+      "correctAnswer": "61",
+      "explanation": "Pattern: a*b = a squared + b squared. 4+9=13, 9+16=25, 16+25=41, 25+36=61. Option 51 wrong (uses sum approach). Option 65 wrong (wrong formula). Option 56 wrong (arbitrary)."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If you face North and turn 90 degrees clockwise, you will face East.\nReason (R): Clockwise rotation from North goes in the order North, East, South, West.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: 90 clockwise from N = E. R correct: clockwise order N-E-S-W. R explains A. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "In a family of 6 members A, B, C, D, E, F: A and B are married couple, D is son of A, C is sister of D, E is brother of A, F is daughter of B. How many male members are there?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctAnswer": "3",
+      "explanation": "A(male)+B(female) married. D=son(male). C=sister of D(female). E=brother of A(male). F=daughter(female). Males: A, D, E = 3. Option 4 wrong (overcounts). Option 2 wrong (undercounts). Option 5 wrong (too many)."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "A shopkeeper buys an article for Rs. 400 and sells it for Rs. 500. What is the profit percentage?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": "25%",
+      "explanation": "Profit=500-400=100. Profit%=100/400*100=25%. Option 20% wrong (100/500). Option 30% wrong (wrong base). Option 15% wrong (arbitrary)."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Match the following figures with the number of triangles they contain:\n\nColumn I:\n(a) A triangle with one median\n(b) A triangle with all three medians\n(c) A square with one diagonal\n(d) A square with both diagonals\n\nColumn II:\n(i) 2\n(ii) 6\n(iii) 4\n(iv) 2",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "explanation": "(a) One median: 2 triangles=(i). (b) Three medians: 6 triangles=(ii). (c) One diagonal: 2 triangles=(iv). (d) Both diagonals: 4 triangles=(iii). Option B wrong (swaps a,b). Option C wrong (swaps values). Option D wrong (swaps b,d)."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Which of the following are correct logical deductions?\n\n(i) If you face South and turn 180 degrees, you face North\n(ii) North-East is exactly between North and East\n(iii) If you face West and turn 90 degrees anti-clockwise, you face North\n(iv) South-West is opposite to North-East",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 180 from S = N. (ii) TRUE: NE is 45 degrees from both. (iii) FALSE: 90 anti-clockwise from West = South. (iv) TRUE: NE and SW are opposite. Option B wrong (iii false). Option C wrong (iii false). Option D wrong (iii false)."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "The average of five numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+      "options": [
+        "28",
+        "24",
+        "30",
+        "22"
+      ],
+      "correctAnswer": "28",
+      "explanation": "Sum of 5=100. Sum of 4=72. Excluded=100-72=28. Option 24 wrong (wrong average). Option 30 wrong (adds). Option 22 wrong (arbitrary)."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) If A is taller than B, and B is taller than C, then A is taller than C.\n(ii) If X earns more than Y, and Z earns less than Y, then X earns more than Z.\n(iii) If P is older than Q by 5 years and Q is older than R by 3 years, then P is older than R by 15 years.\n(iv) If M runs faster than N, and N runs faster than O, then M runs faster than O.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: transitivity. (ii) TRUE: X>Y>Z. (iii) FALSE: P older than R by 5+3=8, not 15. (iv) TRUE: transitivity. Option B wrong (iii false). Option C wrong (ii also true). Option D wrong (iii false)."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "A pipe can fill a tank in 6 hours. Another can empty it in 12 hours. If both opened together, how long to fill?",
+      "options": [
+        "12 hours",
+        "10 hours",
+        "8 hours",
+        "14 hours"
+      ],
+      "correctAnswer": "12 hours",
+      "explanation": "Net rate=1/6-1/12=1/12 per hour. Time=12 hours. Option 10 wrong (arbitrary). Option 8 wrong (wrong calc). Option 14 wrong (arbitrary)."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If A can do work in 10 days and B in 15 days, together they finish in 6 days.\nReason (R): Combined work rate equals sum of individual rates.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: 1/10+1/15=5/30=1/6, so 6 days. R correct: combined rate = sum. R explains A. Option B wrong (R directly explains). Option C wrong (R true). Option D wrong (A true)."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "A car covers 150 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "75 km/h",
+        "45 km/h"
+      ],
+      "correctAnswer": "60 km/h",
+      "explanation": "Speed=150/2.5=60. Option 50 wrong (150/3). Option 75 wrong (150/2). Option 45 wrong (arbitrary)."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "If 72 means 49, 83 means 64, and 94 means 81, then what does 65 mean?",
+      "options": [
+        "36",
+        "30",
+        "25",
+        "56"
+      ],
+      "correctAnswer": "36",
+      "explanation": "Pattern: first digit squared. 7 squared=49, 8 squared=64, 9 squared=81, 6 squared=36. Option 30 wrong (6*5). Option 25 wrong (5 squared). Option 56 wrong (arbitrary)."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) Half of 200 is the same as 40% of 250.\n(ii) 25% of 80 equals 20% of 100.\n(iii) If a number is increased by 50% and then decreased by 50%, it returns to the original value.\n(iv) 10% of 10% of 1000 equals 10.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 100=100. (ii) TRUE: 20=20. (iii) FALSE: 100->150->75, not 100. (iv) TRUE: 100->10. Option B wrong (iv also true). Option C wrong (iii false). Option D wrong (i also true)."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "A class has: 5 students scored 40, 8 scored 55, 7 scored 70, 5 scored 85. What is the approximate average marks?",
+      "options": [
+        "62",
+        "60",
+        "65",
+        "58"
+      ],
+      "correctAnswer": "62",
+      "explanation": "Total=(5*40)+(8*55)+(7*70)+(5*85)=200+440+490+425=1555. Students=25. Avg=1555/25=62.2 approx 62. Option 60 wrong (underestimates). Option 65 wrong (overestimates). Option 58 wrong (arbitrary)."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "In a school, 60% play cricket, 40% play football, 20% play both. What percentage play neither?",
+      "options": [
+        "20%",
+        "30%",
+        "10%",
+        "25%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "At least one=60+40-20=80%. Neither=100-80=20%. Option 30% wrong (100-70). Option 10% wrong (arbitrary). Option 25% wrong (wrong formula)."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Which of the following are correct?\n\n(i) All dogs are animals and all animals breathe, therefore all dogs breathe.\n(ii) Some cats are black and some black things are shoes, therefore some cats are shoes.\n(iii) No fish is a bird and all sparrows are birds, therefore no sparrow is a fish.\n(iv) All roses are flowers and some flowers fade, therefore all roses fade.",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) TRUE: valid syllogism. (ii) FALSE: undistributed middle term. (iii) TRUE: valid syllogism. (iv) FALSE: some does not imply all. Option B wrong (ii invalid). Option C wrong (iv invalid). Option D wrong (ii and iv invalid)."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "A number is first increased by 20% and then decreased by 20%. What is the net percentage change?",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": "4% decrease",
+      "explanation": "100+20%=120. 120-20%=96. Net=-4%. Option No change wrong (common error). Option 4% increase wrong (wrong direction). Option 2% decrease wrong (wrong magnitude)."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Match the following with answers:\n\nColumn I:\n(a) Speed=60, Time=2h. Distance=\n(b) Distance=100, Time=4h. Speed=\n(c) Distance=150, Speed=50. Time=\n(d) Speed=40, Distance=200. Time=\n\nColumn II:\n(i) 25\n(ii) 3 hours\n(iii) 5 hours\n(iv) 120 km",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "(a) 60*2=120=(iv). (b) 100/4=25=(i). (c) 150/50=3=(ii). (d) 200/40=5=(iii). Option B wrong (multiple swaps). Option C wrong (swaps b,c). Option D wrong (swaps c,d)."
+    }
+  ]
+}

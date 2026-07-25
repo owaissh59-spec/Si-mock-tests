@@ -383,7 +383,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "25_test_F_ms-word.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 26,
@@ -398,7 +398,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "26_test_A_problem-solving.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 27,
@@ -413,7 +413,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "27_test_B_indian-geography.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 28,

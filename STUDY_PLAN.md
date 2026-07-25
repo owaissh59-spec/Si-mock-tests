@@ -81,9 +81,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 25 | Morning | F — Computer Proficiency | MS Word | 30 | foundation | Topic-wise | ⬜ |
-| 26 | Afternoon | A — General Intelligence & Reasoning | Problem Solving & Arithmetical Reasoning | 40 | foundation | Topic-wise | ⬜ |
-| 27 | Late | B — General Awareness | Indian Geography | 50 | foundation | Topic-wise | ⬜ |
+| 25 | Morning | F — Computer Proficiency | MS Word | 30 | foundation | Topic-wise | ✅ |
+| 26 | Afternoon | A — General Intelligence & Reasoning | Problem Solving & Arithmetical Reasoning | 40 | foundation | Topic-wise | ✅ |
+| 27 | Late | B — General Awareness | Indian Geography | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 10
 
