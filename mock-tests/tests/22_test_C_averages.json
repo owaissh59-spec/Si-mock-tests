@@ -1,0 +1,397 @@
+{
+  "subject": "C",
+  "topic": "Averages",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "The average of 5 numbers is 42. If one number is excluded, the average becomes 38. The excluded number is:",
+      "options": [
+        "50",
+        "48",
+        "62",
+        "58"
+      ],
+      "correctAnswer": "58",
+      "explanation": "Sum of 5 numbers = 5x42 = 210. Sum of remaining 4 = 4x38 = 152. Excluded = 210-152 = 58. 50 is wrong because 210-50=160, avg=40. 62 is wrong because 210-62=148, avg=37. 48 is wrong because 210-48=162, avg=40.5."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about averages:\n\n(i) The average of first 10 natural numbers is 5.5.\n(ii) The average of first 10 even numbers is 11.\n(iii) The average of first 10 odd numbers is 10.\n(iv) The average of first 10 multiples of 5 is 22.5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Sum=55, avg=5.5. (ii) TRUE: 2+4+...+20=110, avg=11. (iii) TRUE: 1+3+...+19=100, avg=10. (iv) FALSE: 5+10+...+50=275, avg=27.5 not 22.5. Option A is wrong because (ii) is also correct. Option C is wrong because (iv) is false. Option D is wrong because (i) and (iii) are correct and (iv) is false."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "A batsman has an average of 36 runs in 24 innings. How many runs must he score in the 25th innings to raise his average to 38?",
+      "options": [
+        "74",
+        "86",
+        "84",
+        "80"
+      ],
+      "correctAnswer": "86",
+      "explanation": "Total in 24 innings = 864. Required for 25 at avg 38 = 950. Needed = 950-864 = 86. 80 is wrong (gives avg 37.76). 74 is wrong (gives avg 37.52). 84 is wrong (gives avg 37.92)."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of five consecutive even numbers 12, 14, 16, 18, 20 is 16.\nReason (R): The average of an odd number of terms in arithmetic progression is always the middle term.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: (12+14+16+18+20)/5=16. (R) correct: For AP with odd terms, average=middle term. (R) explains (A). Option B is wrong because (R) IS the explanation. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "The average weight of 30 students is 45 kg. If the teacher's weight is included, average increases by 1 kg. The teacher's weight is:",
+      "options": [
+        "75 kg",
+        "76 kg",
+        "78 kg",
+        "80 kg"
+      ],
+      "correctAnswer": "76 kg",
+      "explanation": "Total=30x45=1350. New avg=46 for 31, total=1426. Teacher=1426-1350=76 kg. 75 is wrong (avg=45.97). 78 is wrong (avg=46.06). 80 is wrong (avg=46.13)."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Which of the following are correct?\n\n(i) If the average of 6 numbers is 20, adding 34 makes the new average 22.\n(ii) The weighted average of 40 and 60 with weights 3 and 2 is 48.\n(iii) The average of first 50 natural numbers is 25.5.\n(iv) If each element in a set is doubled, the average remains unchanged.",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 120+34=154, 154/7=22. (ii) TRUE: (120+120)/5=48. (iii) TRUE: 1275/50=25.5. (iv) FALSE: Doubling each element doubles the average. Option A is wrong because (iii) is also correct. Option C is wrong because (iv) is false. Option D is wrong because (iv) is false."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Match the scenarios in Column I with their averages in Column II:\n\nColumn I:\n(a) Average of 10, 20, 30, 40, 50\n(b) Average of first 7 natural numbers\n(c) Average of 3, 7, 11, 15, 19\n(d) Average of 100, 200, 300\n\nColumn II:\n(i) 200\n(ii) 4\n(iii) 30\n(iv) 11",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) 150/5=30=(iii). (b) 28/7=4=(ii). (c) 55/5=11=(iv). (d) 600/3=200=(i). Option A is wrong because (a)=30 not 200. Option B is wrong because (a)=30 not 11. Option C is wrong because (b)=4 not 11."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "A car travels from city A to city B (120 km) at 40 km/h and returns at 60 km/h. The average speed for the entire journey is:",
+      "options": [
+        "45 km/h",
+        "50 km/h",
+        "48 km/h",
+        "52 km/h"
+      ],
+      "correctAnswer": "48 km/h",
+      "explanation": "Average speed = 240/(120/40+120/60) = 240/5 = 48 km/h. 50 km/h is wrong (arithmetic mean, not average speed). 45 km/h is wrong (underestimates). 52 km/h is wrong (overestimates)."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The average of all odd numbers from 1 to 19 is 10.\n(ii) If three numbers are in ratio 3:5:7 and their average is 25, the largest is 35.\n(iii) If each number in a set is increased by 5, the average increases by 5.\n(iv) The average of 0, 2, 4, 6, 8 is 5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 100/10=10. (ii) TRUE: 5x=25, x=5, largest=35. (iii) TRUE: Adding c increases average by c. (iv) FALSE: 20/5=4, not 5. Option A is wrong because (iii) is also correct. Option B is wrong because (iv) is false and (i) is correct. Option C is wrong because (iv) is false."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The average age of a family of 4 members is 25 years.\n(ii) A newborn baby joins the family.\n(iii) The new average age becomes 20 years.\n(iv) The new average age becomes 22 years.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Given. (ii) TRUE: Given. (iii) TRUE: Total age=100, 5 members, avg=20. (iv) FALSE: Avg is 20 not 22. Option B wrong (iv false). Option C wrong (iii correct). Option D wrong (iv false)."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average speed for equal distances at 20 km/h and 30 km/h is 24 km/h.\nReason (R): Average speed for equal distances equals the harmonic mean: 2ab/(a+b).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: 2x20x30/50=24. (R) correct: Formula applies for equal distances. (R) explains (A). Option A is wrong because (A) is correct. Option B is wrong because (R) is correct. Option C is wrong because (R) IS the explanation."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "The average marks of 40 students is 65. One student's marks were wrongly entered as 85 instead of 45. The correct average is:",
+      "options": [
+        "63",
+        "64",
+        "66",
+        "62"
+      ],
+      "correctAnswer": "64",
+      "explanation": "Total=2600. Correct=2600-85+45=2560. Avg=2560/40=64. 63 is wrong (40x63=2520). 66 is wrong (correction reduces total). 62 is wrong (40x62=2480)."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "Match the problems in Column I with their answers in Column II:\n\nColumn I:\n(a) Average of first 20 natural numbers\n(b) Average of first 10 multiples of 7\n(c) Average of even numbers from 2 to 50\n(d) Average of 15, 25, 35, 45, 55\n\nColumn II:\n(i) 35\n(ii) 26\n(iii) 10.5\n(iv) 38.5",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) 210/20=10.5=(iii). (b) (7+70)/2=38.5=(iv). (c) (2+50)/2=26=(ii). (d) 175/5=35=(i). Option A swaps (a) and (c). Option B has wrong pairings. Option D has all wrong."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) If average of 8 numbers is 27, and each is multiplied by 3, new average is 81.\n(ii) If average of 5 numbers is 20, and 10 is added to each, new average is 30.\n(iii) If average of 6 numbers is 15, and 5 is subtracted from each, new average is 10.\n(iv) If average of 4 numbers is 10, and each is divided by 2, new average is 4.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 27x3=81. (ii) TRUE: 20+10=30. (iii) TRUE: 15-5=10. (iv) FALSE: 10/2=5 not 4. Option B wrong (iii correct). Option C wrong (iv false). Option D wrong (iv false, i correct)."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "Which of the following are true about weighted averages?\n\n(i) Weighted average always lies between the smallest and largest values.\n(ii) If weights are equal, weighted average equals simple average.\n(iii) Weighted average of 50 and 70 with weights 1:3 is 65.\n(iv) Weighted average gives more importance to values with higher weights.",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) TRUE: WA within range. (ii) TRUE: Equal weights = simple avg. (iii) TRUE: (50+210)/4=65. (iv) TRUE: Higher weight = more influence. All correct. Option A is wrong because (iii) is also correct. Option B is wrong because (i) and (iv) are also correct. Option C is wrong because (ii) and (iii) are also correct."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "The average of 11 consecutive numbers starting from 9 is __________.",
+      "options": [
+        "12",
+        "15",
+        "13",
+        "14"
+      ],
+      "correctAnswer": "14",
+      "explanation": "Numbers 9 to 19 (11 terms). Middle term (6th)=9+5=14. Average=middle=14. 12 wrong (4th term). 15 wrong (7th term). 13 wrong (5th term)."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "The average of 9 numbers is 50. The average of the first 5 is 54 and the average of the last 5 is 48. The 5th number is:",
+      "options": [
+        "56",
+        "64",
+        "60",
+        "52"
+      ],
+      "correctAnswer": "60",
+      "explanation": "Total=450. First 5 sum=270. Last 5 sum=240. 5th counted in both: 270+240-450=60. 56 is wrong (510-56=454). 64 is wrong (510-64=446). 52 is wrong (510-52=458)."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The combined average of 20 numbers (average 35) and 30 numbers (average 45) is 41.\nReason (R): Combined average = (Sum of all values) / (Total count).\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: (700+1350)/50=41. (R) correct: Definition of combined average. (R) explains (A). Option A is wrong because (A) is correct. Option B is wrong because (R) IS the explanation. Option C is wrong because (R) is correct."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "The average age of 30 boys is 14 years. When the class teacher is included, average becomes 15 years. The teacher's age is:",
+      "options": [
+        "45 years",
+        "44 years",
+        "46 years",
+        "48 years"
+      ],
+      "correctAnswer": "45 years",
+      "explanation": "Boys total=420. New total=31x15=465. Teacher=465-420=45. 44 is wrong (avg=14.97). 46 is wrong (avg=15.03). 48 is wrong (avg=15.1)."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Which of the following are correct about finding a missing value given an average?\n\n(i) If average of 5 numbers is 74 and four are 72, 80, 65, 78, the fifth is 75.\n(ii) If average of 3 numbers is 40 and two are 35, 50, the third is 35.\n(iii) If average of 4 numbers is 25 and three are 20, 30, 22, the fourth is 28.\n(iv) If average of 6 numbers is 10 and five are 8, 12, 9, 11, 7, the sixth is 15.",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 5x74=370, 295+x=370, x=75. (ii) TRUE: 3x40=120, 85+x=120, x=35. (iii) TRUE: 4x25=100, 72+x=100, x=28. (iv) FALSE: 6x10=60, 47+x=60, x=13 not 15. Option A wrong (iv false). Option B wrong (ii correct). Option C wrong (iv false)."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "The following data shows runs scored in 6 innings:\n\nInnings 1: 45, Innings 2: 63, Innings 3: 28, Innings 4: 56, Innings 5: 72, Innings 6: 36\n\nThe batsman's average score per innings is:",
+      "options": [
+        "48",
+        "52",
+        "50",
+        "55"
+      ],
+      "correctAnswer": "50",
+      "explanation": "Total=45+63+28+56+72+36=300. Average=300/6=50. 48 is wrong (48x6=288). 52 is wrong (52x6=312). 55 is wrong (55x6=330)."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "Match the sequences in Column I with their averages in Column II:\n\nColumn I:\n(a) 5 consecutive odd numbers with middle term 41\n(b) 6 consecutive even numbers starting from 10\n(c) First 8 prime numbers (2,3,5,7,11,13,17,19)\n(d) Numbers 25, 35, 45, 55, 65\n\nColumn II:\n(i) 45\n(ii) 9.625\n(iii) 15\n(iv) 41",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Middle=average for odd-count AP=41=(iv). (b) 10,12,14,16,18,20: avg=(10+20)/2=15=(iii). (c) Sum=77, avg=77/8=9.625=(ii). (d) avg=225/5=45=(i). Option B all wrong. Option C swaps (b)(c). Option D swaps (a)(d)."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The average of first n natural numbers is (n+1)/2.\n(ii) The average of squares of first n natural numbers is (n+1)(2n+1)/6.\n(iii) The average of first n even numbers is n.\n(iv) The average of first n odd numbers is n.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: avg=(n+1)/2. (ii) TRUE: avg=(n+1)(2n+1)/6. (iii) FALSE: First n even: avg=n+1, not n. (iv) TRUE: First n odd: sum=n^2, avg=n. Option A is wrong because (iii) is false. Option B is wrong because (iv) is also correct. Option D is wrong because (i) and (ii) are also correct."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "The following data shows monthly expenses (in Rs) of a household:\n\nJan: 12000, Feb: 14000, Mar: 11000, Apr: 15000, May: 13000, Jun: 16000\n\nThe average monthly expense is:",
+      "options": [
+        "Rs 13500",
+        "Rs 14000",
+        "Rs 13000",
+        "Rs 12500"
+      ],
+      "correctAnswer": "Rs 13500",
+      "explanation": "Total=12000+14000+11000+15000+13000+16000=81000. Avg=81000/6=13500. 14000 wrong. 13000 wrong. 12500 wrong."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "In a class, 20 students scored an average of 80 marks and 30 students scored an average of 60 marks. The combined average is:",
+      "options": [
+        "70",
+        "72",
+        "66",
+        "68"
+      ],
+      "correctAnswer": "68",
+      "explanation": "Total=(20x80)+(30x60)=1600+1800=3400. Avg=3400/50=68. 70 is wrong (simple mean of 80 and 60). 72 is wrong (overestimates). 66 is wrong (underestimates)."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "A person travels 3 equal distances at speeds of 30, 40, and 60 km/h. The average speed is:",
+      "options": [
+        "45 km/h",
+        "40 km/h",
+        "43.33 km/h",
+        "50 km/h"
+      ],
+      "correctAnswer": "40 km/h",
+      "explanation": "Time=d/30+d/40+d/60=d(4+3+2)/120=9d/120. Avg=3d/(9d/120)=360/9=40. 45 is wrong (overestimates). 43.33 is wrong (arithmetic mean). 50 is wrong (too high)."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "A group of 12 friends has an average weight of 50 kg. If 3 new friends with weights 62, 58, and 60 kg join, what is the new average weight of the group?",
+      "options": [
+        "54 kg",
+        "52 kg",
+        "50 kg",
+        "56 kg"
+      ],
+      "correctAnswer": "52 kg",
+      "explanation": "Old total=12x50=600. New total=600+62+58+60=780. New count=15. Avg=780/15=52 kg. 54 wrong (15x54=810). 50 wrong (no change). 56 wrong (15x56=840)."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "The average salary of 15 workers is Rs 5000. If the manager's salary is added, the average rises to Rs 5500. The manager's salary is:",
+      "options": [
+        "Rs 12000",
+        "Rs 14000",
+        "Rs 13000",
+        "Rs 11000"
+      ],
+      "correctAnswer": "Rs 13000",
+      "explanation": "Workers total=75000. New=16x5500=88000. Manager=88000-75000=13000. 12000 is wrong (total=87000, avg=5437.5). 14000 is wrong (total=89000, avg=5562.5). 11000 is wrong (total=86000, avg=5375)."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "Group A has 5 students with average score 72 and Group B has 10 students with average score 84. The combined average of both groups is:",
+      "options": [
+        "78",
+        "82",
+        "76",
+        "80"
+      ],
+      "correctAnswer": "80",
+      "explanation": "A total=360. B total=840. Combined=1200/15=80. 78 wrong (15x78=1170). 82 wrong (15x82=1230). 76 wrong (15x76=1140)."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "The average of 4 numbers is 20. One number is replaced by 36 and the new average becomes 24. The replaced number was:",
+      "options": [
+        "24",
+        "16",
+        "12",
+        "20"
+      ],
+      "correctAnswer": "20",
+      "explanation": "Old sum=80. New sum=96. Increase=16. Since new value=36, old=36-16=20. 24 is wrong (increase=12, new avg=23). 16 is wrong (increase=20, new avg=25). 12 is wrong (increase=24, new avg=26)."
+    }
+  ]
+}

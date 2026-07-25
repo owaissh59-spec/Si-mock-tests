@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 158,
+  "count": 188,
   "questions": [
     {
       "test": 3,
@@ -792,6 +792,156 @@
       "test": 21,
       "stem": "two numbers are in the ratio 3:5. if their lcm is 120,",
       "key": "8"
+    },
+    {
+      "test": 22,
+      "stem": "the average of 5 numbers is 42. if one number is excluded,",
+      "key": "58"
+    },
+    {
+      "test": 22,
+      "stem": "consider the following statements about averages: (i) the average of first 10",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 22,
+      "stem": "a batsman has an average of 36 runs in 24 innings. how",
+      "key": "86"
+    },
+    {
+      "test": 22,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 22,
+      "stem": "the average weight of 30 students is 45 kg. if the teacher's",
+      "key": "76 kg"
+    },
+    {
+      "test": 22,
+      "stem": "which of the following are correct? (i) if the average of 6",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 22,
+      "stem": "match the scenarios in column i with their averages in column ii:",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 22,
+      "stem": "a car travels from city a to city b (120 km) at",
+      "key": "48 km/h"
+    },
+    {
+      "test": 22,
+      "stem": "consider the following statements: (i) the average of all odd numbers from",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 22,
+      "stem": "consider the following statements: (i) the average age of a family of",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 22,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 22,
+      "stem": "the average marks of 40 students is 65. one student's marks were",
+      "key": "64"
+    },
+    {
+      "test": 22,
+      "stem": "match the problems in column i with their answers in column ii:",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 22,
+      "stem": "consider the following statements: (i) if average of 8 numbers is 27,",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 22,
+      "stem": "which of the following are true about weighted averages? (i) weighted average",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 22,
+      "stem": "the average of 11 consecutive numbers starting from 9 is __________.",
+      "key": "14"
+    },
+    {
+      "test": 22,
+      "stem": "the average of 9 numbers is 50. the average of the first",
+      "key": "60"
+    },
+    {
+      "test": 22,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 22,
+      "stem": "the average age of 30 boys is 14 years. when the class",
+      "key": "45 years"
+    },
+    {
+      "test": 22,
+      "stem": "which of the following are correct about finding a missing value given",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 22,
+      "stem": "the following data shows runs scored in 6 innings: innings 1: 45,",
+      "key": "50"
+    },
+    {
+      "test": 22,
+      "stem": "match the sequences in column i with their averages in column ii:",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 22,
+      "stem": "consider the following statements: (i) the average of first n natural numbers",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 22,
+      "stem": "the following data shows monthly expenses (in rs) of a household: jan:",
+      "key": "Rs 13500"
+    },
+    {
+      "test": 22,
+      "stem": "in a class, 20 students scored an average of 80 marks and",
+      "key": "68"
+    },
+    {
+      "test": 22,
+      "stem": "a person travels 3 equal distances at speeds of 30, 40, and",
+      "key": "40 km/h"
+    },
+    {
+      "test": 22,
+      "stem": "a group of 12 friends has an average weight of 50 kg.",
+      "key": "52 kg"
+    },
+    {
+      "test": 22,
+      "stem": "the average salary of 15 workers is rs 5000. if the manager's",
+      "key": "Rs 13000"
+    },
+    {
+      "test": 22,
+      "stem": "group a has 5 students with average score 72 and group b",
+      "key": "80"
+    },
+    {
+      "test": 22,
+      "stem": "the average of 4 numbers is 20. one number is replaced by",
+      "key": "20"
     }
   ]
 }

@@ -1,0 +1,527 @@
+{
+  "subject": "D",
+  "topic": "Spellings & Detecting Misspelt Words",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Acomodate"
+      ],
+      "correctAnswer": "Accommodate",
+      "explanation": "Accommodate has double 'c' and double 'm'. Accomodate is wrong (single m). Acommodate is wrong (single c). Acomodate is wrong (single c and single m)."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Occurrence' is the correct spelling.\n(ii) 'Occurence' is the correct spelling.\n(iii) 'Occurance' is the correct spelling.\n(iv) 'Occurrance' is the correct spelling.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iv)",
+        "(i) and (ii)",
+        "(ii) only",
+        "(i) only"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) TRUE: Occurrence (double c, double r, -ence) is correct. (ii) FALSE: Occurence has single r. (iii) FALSE: Occurance uses -ance instead of -ence. (iv) FALSE: Occurrance uses -ance. Option B is wrong because (ii) is misspelt. Option C is wrong because (ii) is misspelt. Option D is wrong because (iv) is misspelt."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Separate",
+        "Desperate",
+        "Temperate",
+        "Desparate"
+      ],
+      "correctAnswer": "Desparate",
+      "explanation": "Desparate is misspelt; the correct spelling is Desperate (e not a in second syllable). Separate is correct. Desperate is correct. Temperate is correct."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'privilege' is often misspelt as 'priviledge'.\nReason (R): Many people incorrectly add a 'd' before 'ge' by analogy with 'knowledge' or 'ledge'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: Privilege is commonly misspelt as priviledge. (R) correct: The analogy with knowledge/ledge causes the error. (R) explains (A). Option A is wrong because (R) IS the explanation. Option B is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Neccessary",
+        "Necessery",
+        "Neccesary",
+        "Necessary"
+      ],
+      "correctAnswer": "Necessary",
+      "explanation": "Necessary has one 'c' and double 's'. Neccessary is wrong (double c). Necessery is wrong (-ery instead of -ary). Neccesary is wrong (double c, single s)."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Maintenance\n(ii) Maintainance\n(iii) Maintnance\n(iv) Maintanence",
+      "options": [
+        "(i) only",
+        "(i) and (ii)",
+        "(ii) only",
+        "(i) and (iv)"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) Maintenance is correct. (ii) Maintainance is wrong (extra 'a' and wrong ending). (iii) Maintnance is wrong (missing 'e'). (iv) Maintanence is wrong (wrong vowels). Option B is wrong because (ii) is misspelt. Option C is wrong because (ii) is misspelt. Option D is wrong because (iv) is misspelt."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Guarantee",
+        "Guerrilla",
+        "Guidance",
+        "Gaurdian"
+      ],
+      "correctAnswer": "Gaurdian",
+      "explanation": "Gaurdian is misspelt; correct spelling is Guardian (u before a). Guarantee is correct. Guerrilla is correct. Guidance is correct."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Bureaucracy' is correctly spelt.\n(ii) 'Beaurocracy' is correctly spelt.\n(iii) 'Burocracy' is correctly spelt.\n(iv) 'Bueracracy' is correctly spelt.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii)",
+        "(ii) only",
+        "(iii) and (iv)",
+        "(i) only"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) TRUE: Bureaucracy is correct (bureau + cracy). (ii) FALSE: Beaurocracy transposes letters. (iii) FALSE: Burocracy drops letters. (iv) FALSE: Bueracracy has wrong vowel arrangement. Option A is wrong because (ii) is misspelt. Option B is wrong because (ii) is misspelt. Option D is wrong because both are misspelt."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Concience",
+        "Conscience",
+        "Consciance",
+        "Consience"
+      ],
+      "correctAnswer": "Conscience",
+      "explanation": "Conscience (con-science) is correct. Concience is wrong (missing 's'). Consciance is wrong (-ance ending). Consience is wrong (missing 'c')."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Supersede' is often misspelt as 'supercede'.\nReason (R): People confuse 'supersede' with words like 'intercede' and 'precede' which end in '-cede'.\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: Supersede is frequently written as supercede. (R) correct: Analogy with -cede words causes the error. (R) explains (A). Option A is wrong because (A) is correct. Option C is wrong because (R) IS the explanation. Option D is wrong because (R) is correct."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Entrepreneur",
+        "Manoeuvre",
+        "Silhouette",
+        "Restaurent"
+      ],
+      "correctAnswer": "Restaurent",
+      "explanation": "Restaurent is misspelt; correct is Restaurant (-ant not -ent). Entrepreneur is correct. Manoeuvre is correct. Silhouette is correct."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Millennium",
+        "Milennium",
+        "Millenium",
+        "Milenium"
+      ],
+      "correctAnswer": "Millennium",
+      "explanation": "Millennium has double 'l' and double 'n'. Millenium is wrong (single n). Milennium is wrong (single l). Milenium is wrong (single l and single n)."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct forms in Column II:\n\nColumn I:\n(a) Embarass\n(b) Harrass\n(c) Occassion\n(d) Posession\n\nColumn II:\n(i) Possession\n(ii) Occasion\n(iii) Embarrass\n(iv) Harass",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Embarass -> Embarrass (double r, double s) = (iii). (b) Harrass -> Harass -> actually correct is Harass... no, Harass is also wrong. Correct: Harass (one r, double s). Wait - Harass has one r and one s? No: Harass = one r, one s is wrong. Correct = Harass (single r, single s). Actually the correct spelling is Harass (one r, two s's)... Let me verify: H-A-R-A-S-S = Harass. So Harrass (double r) -> Harass (single r) = (iv). (c) Occassion -> Occasion (single s) = (ii). (d) Posession -> Possession (double s at start) = (i). Option B has all wrong pairings. Option C swaps (b) and (c). Option D swaps (a) and (c)."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Exaggerate\n(ii) Accelarate\n(iii) Exhilarate\n(iv) Reiterate",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) Exaggerate is correct (double g). (ii) Accelarate is WRONG; correct is Accelerate (double c, -eler-). (iii) Exhilarate is correct. (iv) Reiterate is correct. Option B is wrong because (iii) is also correct. Option C is wrong because (ii) is misspelt. Option D is wrong because (ii) is misspelt and (i)(iv) are correct."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Independence",
+        "Independance",
+        "Independant",
+        "Independense"
+      ],
+      "correctAnswer": "Independence",
+      "explanation": "Independence ends in -ence (not -ance or -ant). Independant is wrong (-ant). Independance is wrong (-ance). Independense is wrong (-ense)."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Definite' is correctly spelt.\n(ii) 'Definate' is correctly spelt.\n(iii) 'Definately' is the correct spelling of the adverb.\n(iv) 'Definitely' is the correct spelling of the adverb.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii)",
+        "(i) and (iv) only",
+        "(ii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "(i) TRUE: Definite is correct (i not a). (ii) FALSE: Definate is wrong. (iii) FALSE: Definately is wrong. (iv) TRUE: Definitely is correct. Option A is wrong because (iii) is misspelt. Option C is wrong because (ii) is misspelt. Option D is wrong because (ii) is misspelt."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Mischievous",
+        "Conscientious",
+        "Miscellaneous",
+        "Simultanious"
+      ],
+      "correctAnswer": "Simultanious",
+      "explanation": "Simultanious is misspelt; correct is Simultaneous (-aneous not -anious). Mischievous is correct. Conscientious is correct. Miscellaneous is correct."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'receive' follows the 'i before e except after c' rule.\nReason (R): After the letter 'c', the order is 'ei' rather than 'ie' in English spelling.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: Receive has 'ei' after 'c', following the rule. (R) correct: The rule states 'ei' comes after 'c'. (R) explains (A). Option B is wrong because (A) is correct. Option C is wrong because (R) is correct. Option D is wrong because (R) IS the explanation."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Recomend",
+        "Reccommend",
+        "Recommend",
+        "Recommand"
+      ],
+      "correctAnswer": "Recommend",
+      "explanation": "Recommend has one 'c' and double 'm'. Recomend is wrong (single m). Reccommend is wrong (double c). Recommand is wrong (-and)."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct spellings in Column II:\n\nColumn I:\n(a) Accomadate\n(b) Seperate\n(c) Occured\n(d) Refered\n\nColumn II:\n(i) Referred\n(ii) Occurred\n(iii) Separate\n(iv) Accommodate",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Accomadate -> Accommodate = (iv). (b) Seperate -> Separate = (iii). (c) Occured -> Occurred (double r) = (ii). (d) Refered -> Referred (double r) = (i). Option A swaps (a) and (c). Option C swaps (b) and (c)/(d). Option D swaps (a) and (b)."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Ecstasy",
+        "Hypocrisy",
+        "Idiosyncracy",
+        "Bureaucracy"
+      ],
+      "correctAnswer": "Idiosyncracy",
+      "explanation": "Idiosyncracy is misspelt; correct is Idiosyncrasy (-asy not -acy). Ecstasy is correct. Hypocrisy is correct. Bureaucracy is correct."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Perseverance\n(ii) Perserverance\n(iii) Perseverence\n(iv) Perseveranse",
+      "options": [
+        "(ii) only",
+        "(iii) only",
+        "(i) only",
+        "(i) and (iii)"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) Perseverance is correct (-ance ending). (ii) Perserverance transposes r and s. (iii) Perseverence uses -ence instead of -ance. (iv) Perseveranse uses -nse. Option A is wrong because (ii) is misspelt. Option B is wrong because (iii) is misspelt. Option D is wrong because (iii) is misspelt."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Liason",
+        "Liasion",
+        "Liaison",
+        "Liasson"
+      ],
+      "correctAnswer": "Liaison",
+      "explanation": "Liaison (li-ai-son) is correct. Liason is wrong (missing 'i'). Liasion is wrong (transposed letters). Liasson is wrong (double s, no i)."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Questionnaire' has double 'n'.\n(ii) 'Questionaire' is the correct spelling.\n(iii) The word has its origin in French.\n(iv) 'Questionnare' is correctly spelt.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) TRUE: Questionnaire has double n. (ii) FALSE: Questionaire has single n, wrong. (iii) TRUE: Derived from French. (iv) FALSE: Questionnare misses final 'i'. Option B is wrong because (ii) is misspelt. Option C is wrong because (ii) is misspelt. Option D is wrong because (iv) is misspelt."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Diarrhoea' is the British spelling while 'Diarrhea' is the American spelling.\nReason (R): British English often retains the 'oe' digraph from Greek/Latin origins while American English simplifies it to 'e'.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: Both are valid spellings in their respective varieties. (R) correct: British retains Greek digraphs. (R) explains the difference. Option A is wrong because (R) is correct. Option B is wrong because (A) is correct. Option C is wrong because (R) IS the explanation."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Acquaintance",
+        "Reconnaissance",
+        "Acquiescence",
+        "Reminiscance"
+      ],
+      "correctAnswer": "Reminiscance",
+      "explanation": "Reminiscance is misspelt; correct is Reminiscence (-ence not -ance). Acquaintance is correct. Reconnaissance is correct. Acquiescence is correct."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Concensus",
+        "Consensus",
+        "Consencus",
+        "Concencus"
+      ],
+      "correctAnswer": "Consensus",
+      "explanation": "Consensus (con-sen-sus) is correct. Concensus is wrong (c instead of s). Consencus is wrong. Concencus is wrong (double c error)."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct spellings in Column II:\n\nColumn I:\n(a) Tommorrow\n(b) Dissappoint\n(c) Succesful\n(d) Occassionally\n\nColumn II:\n(i) Successful\n(ii) Occasionally\n(iii) Tomorrow\n(iv) Disappoint",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "(a) Tommorrow -> Tomorrow (single m) = (iii). (b) Dissappoint -> Disappoint (single s, double p) = (iv). (c) Succesful -> Successful (double s, single l) = (i). (d) Occassionally -> Occasionally (single s) = (ii). Option B has all wrong pairings. Option C swaps (b) and (c). Option D swaps (a) and (d)."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Acknowledgement\n(ii) Judgement\n(iii) Arguement\n(iv) Achievement",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Acknowledgement is correct (British spelling). (ii) Judgement is correct (British spelling). (iii) Arguement is WRONG; correct is Argument (no 'e' before -ment). (iv) Achievement is correct. Option B is wrong because (ii) is also correct. Option C is wrong because (iii) is misspelt. Option D is wrong because (iii) is misspelt and (i)(ii) are correct."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "The word 'cat__gory' has __________ in the blank to make it correctly spelt.",
+      "options": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "correctAnswer": "e",
+      "explanation": "Category is the correct spelling (cat-e-gory). 'a' gives catagory which is wrong. 'i' gives catigory which is wrong. 'o' gives catogory which is wrong."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Pronounciation",
+        "Pronounceation",
+        "Pronunciation",
+        "Pronuncation"
+      ],
+      "correctAnswer": "Pronunciation",
+      "explanation": "Pronunciation (no 'o' after 'n') is correct. Pronounciation wrongly adds 'o'. Pronounceation is wrong. Pronuncation drops letters."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Refrigerator",
+        "Thermometer",
+        "Calender",
+        "Barometer"
+      ],
+      "correctAnswer": "Calender",
+      "explanation": "Calender is misspelt when referring to the date system; correct is Calendar (-ar not -er). Note: 'calender' exists as a machine term but the common word for dates is 'calendar'. Refrigerator is correct. Thermometer is correct. Barometer is correct."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Cemetery' is correctly spelt.\n(ii) 'Cemetary' is correctly spelt.\n(iii) 'Cemetry' is correctly spelt.\n(iv) All three e's in 'cemetery' are the same vowel.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) only",
+        "(i) and (iv) only",
+        "(i) and (ii)",
+        "(ii) and (iii)"
+      ],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "(i) TRUE: Cemetery is correct. (ii) FALSE: Cemetary replaces 'e' with 'a'. (iii) FALSE: Cemetry drops an 'e'. (iv) TRUE: C-e-m-e-t-e-r-y has three e's. Option A is wrong because (iv) is also correct. Option C is wrong because (ii) is misspelt. Option D is wrong because both are misspelt."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Match the commonly confused pairs in Column I with which spelling is correct in Column II:\n\nColumn I:\n(a) Stationery vs Stationary (writing materials)\n(b) Principal vs Principle (head of school)\n(c) Complement vs Compliment (something that completes)\n(d) Practice vs Practise (noun form)\n\nColumn II:\n(i) Practice\n(ii) Stationery\n(iii) Principal\n(iv) Complement",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) Writing materials = Stationery (with e) = (ii). (b) Head of school = Principal (with a) = (iii). (c) Something that completes = Complement (with e) = (iv). (d) Noun form = Practice (with c) = (i). Option B has all wrong pairings. Option C swaps (b) and (c). Option D swaps (a) and (c)."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Paralell",
+        "Parallal",
+        "Parallel",
+        "Paralel"
+      ],
+      "correctAnswer": "Parallel",
+      "explanation": "Parallel (par-al-lel) has double l in the middle. Paralell is wrong (single l, double l at end). Parallal is wrong (double l at start, 'a' instead of 'e'). Paralel is wrong (single l throughout)."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Vacuum\n(ii) Vaccuum\n(iii) Vacuam\n(iv) Vacume",
+      "options": [
+        "(i) only",
+        "(i) and (ii)",
+        "(ii) only",
+        "(i) and (iv)"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) Vacuum (one c, double u) is correct. (ii) Vaccuum has double c, wrong. (iii) Vacuam wrong ending. (iv) Vacume wrong ending. Option B is wrong because (ii) is misspelt. Option C is wrong because (ii) is misspelt. Option D is wrong because (iv) is misspelt."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "The correct spelling to fill the blank in 'The government took __________ action' is:",
+      "options": [
+        "immedeate",
+        "imediate",
+        "immediate",
+        "immedaite"
+      ],
+      "correctAnswer": "immediate",
+      "explanation": "Immediate (im-me-di-ate) is correct. Immedeate is wrong (e instead of i). Imediate is wrong (single m). Immedaite is wrong (transposed letters)."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Exaggerate",
+        "Aggressive",
+        "Suggestion",
+        "Occurence"
+      ],
+      "correctAnswer": "Occurence",
+      "explanation": "Occurence is misspelt; correct is Occurrence (double r). Exaggerate is correct. Aggressive is correct. Suggestion is correct."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Words ending in '-ful' always have single 'l' (e.g., beautiful, wonderful).\nReason (R): The suffix '-ful' (meaning full of) drops one 'l' from the word 'full' when used as a suffix.\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: -ful suffix always has single l. (R) correct: -ful derives from 'full' but drops one l. (R) explains (A). Option A is wrong because (A) is correct. Option C is wrong because (R) is correct. Option D is wrong because (R) IS the explanation."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Manoeuver",
+        "Maneuver",
+        "Manoeuvre",
+        "Manuever"
+      ],
+      "correctAnswer": "Manoeuvre",
+      "explanation": "Manoeuvre is the correct British spelling (from French). Maneuver is the American simplified form but not standard British. Manoeuver is wrong (mixed forms). Manuever is wrong (wrong vowel arrangement)."
+    }
+  ]
+}

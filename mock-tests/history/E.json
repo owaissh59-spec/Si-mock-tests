@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 128,
+  "count": 178,
   "questions": [
     {
       "test": 5,
@@ -642,6 +642,256 @@
       "test": 21,
       "stem": "the value of 105 × 95 using algebraic identity is:",
       "key": "9975"
+    },
+    {
+      "test": 24,
+      "stem": "a chord of length 8 cm is at a distance of 3",
+      "key": "5 cm"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) the perpendicular from the centre of a",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 24,
+      "stem": "the radius is 7 cm and distance from centre to external point",
+      "key": "24 cm"
+    },
+    {
+      "test": 24,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 24,
+      "stem": "two tangents from an external point make angle 60 degrees. the angle",
+      "key": "120 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "match properties in column i with theorems in column ii: column i:",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 24,
+      "stem": "arc subtends 120 degrees at centre. angle at circumference on remaining part",
+      "key": "60 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "which of the following are properties of tangents from an external point?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 24,
+      "stem": "which of the following are correct about angles in a cyclic quadrilateral",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements about chord ab, centre o: (i) if om",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 24,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 24,
+      "stem": "radius=13 cm, chord=24 cm. distance from centre:",
+      "key": "5 cm"
+    },
+    {
+      "test": 24,
+      "stem": "two circles radii 5 and 3, centres 8 cm apart. common tangents:",
+      "key": "3"
+    },
+    {
+      "test": 24,
+      "stem": "which of the following are true about cyclic quadrilaterals? (i) opposite angles",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 24,
+      "stem": "chord subtends 80 degrees at centre. angle at point on minor arc",
+      "key": "140 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "tangent from point 10 cm from centre to circle of radius 6",
+      "key": "8 cm"
+    },
+    {
+      "test": 24,
+      "stem": "chords ab, cd intersect at p inside circle. pa=4, pb=6, pc=3. pd",
+      "key": "8"
+    },
+    {
+      "test": 24,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) alternate segment theorem: tangent-chord angle = inscribed",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 24,
+      "stem": "match tangent count in column i with circle positions in column ii:",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 24,
+      "stem": "tangent-chord angle at point of tangency is 50 degrees. inscribed angle in",
+      "key": "50 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "tangents pa and pb from p. pa=12 cm. pb equals:",
+      "key": "12 cm"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) a line intersects circle at most at",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 24,
+      "stem": "the following data: radius=10 cm, chord distance from centre=6 cm. chord length",
+      "key": "16 cm"
+    },
+    {
+      "test": 24,
+      "stem": "arc subtends 100 degrees at centre. angle at point on major arc:",
+      "key": "50 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 24,
+      "stem": "chord subtends 60 degrees at centre, radius=10 cm. chord length:",
+      "key": "10 cm"
+    },
+    {
+      "test": 24,
+      "stem": "which of the following are true about the alternate segment theorem? (i)",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 24,
+      "stem": "cyclic quadrilateral pqrs: angle p=85, angle q=75. angles r and s:",
+      "key": "95 and 105 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "distance from centre to chord=4 cm, radius=5 cm. chord length is __________.",
+      "key": "6 cm"
+    },
+    {
+      "test": 24,
+      "stem": "two tangents from p at 90 degrees. radius=5. distance op:",
+      "key": "5 sqrt(2) cm"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) inscribed angle = half central angle for",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 24,
+      "stem": "match circle positions in column i with tangent count in column ii:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 24,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) angles subtended by same chord on same",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 24,
+      "stem": "circle radius=10, chord=12 cm. distance from centre:",
+      "key": "8 cm"
+    },
+    {
+      "test": 24,
+      "stem": "angle aob=90 (o centre). angle acb (c on major arc):",
+      "key": "45 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "which of the following are correct about tangent properties? (i) touches at",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) equal chords cut equal arcs. (ii) arc",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 24,
+      "stem": "the following data is given: circle 1: radius=8 cm, circle 2: radius=3",
+      "key": "12 cm"
+    },
+    {
+      "test": 24,
+      "stem": "chord ab=16 cm, distance from centre=6 cm. radius:",
+      "key": "10 cm"
+    },
+    {
+      "test": 24,
+      "stem": "the exterior angle of a cyclic quadrilateral abcd at vertex a is",
+      "key": "110 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "two parallel chords of a circle are 6 cm and 8 cm",
+      "key": "1 cm"
+    },
+    {
+      "test": 24,
+      "stem": "match theorems in column i with statements in column ii: column i:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 24,
+      "stem": "angle between two radii=130 degrees. angle between tangents at endpoints:",
+      "key": "50 degrees"
+    },
+    {
+      "test": 24,
+      "stem": "a circle has radius 15 cm and a chord of length 24",
+      "key": "9 cm"
+    },
+    {
+      "test": 24,
+      "stem": "the following data: radius=5 cm, tangent pa=12 cm. distance op:",
+      "key": "13 cm"
+    },
+    {
+      "test": 24,
+      "stem": "consider the following statements: (i) two circles intersect at most at 2",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 24,
+      "stem": "match the circle configurations in column i with the distance between centres",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 24,
+      "stem": "two equal chords pq and rs, each 10 cm long, are drawn",
+      "key": "12 cm"
     }
   ]
 }

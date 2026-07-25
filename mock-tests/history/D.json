@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 97,
+  "count": 137,
   "questions": [
     {
       "test": 4,
@@ -487,6 +487,206 @@
       "test": 21,
       "stem": "fill in the blank with the correct synonym: \"the explorer's __________ spirit",
       "key": "Intrepid"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Accommodate"
+    },
+    {
+      "test": 23,
+      "stem": "consider the following statements: (i) 'occurrence' is the correct spelling. (ii) 'occurence'",
+      "key": "(i) only"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Desparate"
+    },
+    {
+      "test": 23,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Necessary"
+    },
+    {
+      "test": 23,
+      "stem": "which of the following are correctly spelt? (i) maintenance (ii) maintainance (iii)",
+      "key": "(i) only"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Gaurdian"
+    },
+    {
+      "test": 23,
+      "stem": "consider the following statements: (i) 'bureaucracy' is correctly spelt. (ii) 'beaurocracy' is",
+      "key": "(i) only"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Conscience"
+    },
+    {
+      "test": 23,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Restaurent"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Millennium"
+    },
+    {
+      "test": 23,
+      "stem": "match the misspelt words in column i with their correct forms in",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 23,
+      "stem": "which of the following are correctly spelt? (i) exaggerate (ii) accelarate (iii)",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Independence"
+    },
+    {
+      "test": 23,
+      "stem": "consider the following statements: (i) 'definite' is correctly spelt. (ii) 'definate' is",
+      "key": "(i) and (iv) only"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Simultanious"
+    },
+    {
+      "test": 23,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Recommend"
+    },
+    {
+      "test": 23,
+      "stem": "match the misspelt words in column i with their correct spellings in",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Idiosyncracy"
+    },
+    {
+      "test": 23,
+      "stem": "which of the following are correctly spelt? (i) perseverance (ii) perserverance (iii)",
+      "key": "(i) only"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Liaison"
+    },
+    {
+      "test": 23,
+      "stem": "consider the following statements: (i) 'questionnaire' has double 'n'. (ii) 'questionaire' is",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 23,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Reminiscance"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Consensus"
+    },
+    {
+      "test": 23,
+      "stem": "match the misspelt words in column i with their correct spellings in",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 23,
+      "stem": "which of the following are correctly spelt? (i) acknowledgement (ii) judgement (iii)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 23,
+      "stem": "the word 'cat__gory' has __________ in the blank to make it correctly",
+      "key": "e"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Pronunciation"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Calender"
+    },
+    {
+      "test": 23,
+      "stem": "consider the following statements: (i) 'cemetery' is correctly spelt. (ii) 'cemetary' is",
+      "key": "(i) and (iv) only"
+    },
+    {
+      "test": 23,
+      "stem": "match the commonly confused pairs in column i with which spelling is",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Parallel"
+    },
+    {
+      "test": 23,
+      "stem": "which of the following are correctly spelt? (i) vacuum (ii) vaccuum (iii)",
+      "key": "(i) only"
+    },
+    {
+      "test": 23,
+      "stem": "the correct spelling to fill the blank in 'the government took __________",
+      "key": "immediate"
+    },
+    {
+      "test": 23,
+      "stem": "identify the misspelt word:",
+      "key": "Occurence"
+    },
+    {
+      "test": 23,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 23,
+      "stem": "choose the correctly spelt word:",
+      "key": "Manoeuvre"
     }
   ]
 }

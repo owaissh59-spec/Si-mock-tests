@@ -1,0 +1,657 @@
+{
+  "subject": "E",
+  "topic": "Geometry: Circles (Chords, Tangents, Angles)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "A chord of length 8 cm is at a distance of 3 cm from the centre of a circle. The radius of the circle is:",
+      "options": [
+        "7 cm",
+        "4 cm",
+        "6 cm",
+        "5 cm"
+      ],
+      "correctAnswer": "5 cm",
+      "explanation": "Perpendicular from centre bisects chord. Half chord=4. r=sqrt(16+9)=5. 4 is wrong (half chord). 6 is wrong. 7 is wrong."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) The perpendicular from the centre of a circle to a chord bisects the chord.\n(ii) Equal chords are equidistant from the centre.\n(iii) The longest chord of a circle is the radius.\n(iv) A chord divides the circle into two arcs.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE. (ii) TRUE. (iii) FALSE: Longest chord is diameter. (iv) TRUE. Option B wrong (iii false). Option C wrong (iv correct). Option D wrong (iii false)."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The radius is 7 cm and distance from centre to external point is 25 cm. The tangent length from that point is:",
+      "options": [
+        "26 cm",
+        "20 cm",
+        "24 cm",
+        "18 cm"
+      ],
+      "correctAnswer": "24 cm",
+      "explanation": "Tangent=sqrt(625-49)=sqrt(576)=24. 26 wrong. 20 wrong. 18 wrong."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The angle in a semicircle is always 90 degrees.\nReason (R): The angle subtended by a diameter at any point on the circle equals half the angle at the centre (180/2 = 90).\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: Thales theorem. (R) correct: Centre angle=180, circumference=90. (R) explains (A). Option B wrong (R IS explanation). Option C wrong (R correct). Option D wrong (A correct)."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Two tangents from an external point make angle 60 degrees. The angle at the centre subtended by the chord joining points of tangency is:",
+      "options": [
+        "120 degrees",
+        "140 degrees",
+        "110 degrees",
+        "100 degrees"
+      ],
+      "correctAnswer": "120 degrees",
+      "explanation": "Quadrilateral: 60+90+90+centre=360. Centre=120. 100 wrong. 140 wrong. 110 wrong."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Match properties in Column I with theorems in Column II:\n\nColumn I:\n(a) Angle in semicircle\n(b) Angle at centre vs circumference\n(c) Angles in same segment\n(d) Opposite angles of cyclic quadrilateral\n\nColumn II:\n(i) Are supplementary\n(ii) Are equal\n(iii) Centre = 2 x circumference\n(iv) Equals 90 degrees",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a)=90=(iv). (b)=2x=(iii). (c)=equal=(ii). (d)=supplementary=(i). Option A swaps (a)(b). Option C swaps (b)(c). Option D all wrong."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Arc subtends 120 degrees at centre. Angle at circumference on remaining part is:",
+      "options": [
+        "60 degrees",
+        "30 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswer": "60 degrees",
+      "explanation": "Circumference=centre/2=60. 120 wrong (centre). 30 wrong. 90 wrong."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Which of the following are properties of tangents from an external point?\n\n(i) Two tangents are equal in length.\n(ii) They subtend equal angles at centre.\n(iii) Tangents are always perpendicular to each other.\n(iv) Line from external point to centre bisects angle between tangents.",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE. (ii) TRUE. (iii) FALSE: Not always perpendicular. (iv) TRUE. Option A wrong (iii false). Option B wrong (iv correct). Option D wrong (ii,iv correct)."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Which of the following are correct about angles in a cyclic quadrilateral ABCD?\n\n(i) If angle A=70, then angle C=110.\n(ii) If angle B=95, then angle D=85.\n(iii) If angle A=angle C, then each must be 90.\n(iv) The sum of all four angles is 180.",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 180-70=110. (ii) TRUE: 180-95=85. (iii) TRUE: If A=C and A+C=180, each=90. (iv) FALSE: Sum of all 4=360 not 180. Option B wrong (iii correct). Option C wrong (iv false). Option D wrong (ii correct)."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about chord AB, centre O:\n\n(i) If OM perpendicular to AB, then AM=MB.\n(ii) If AB=CD, distances from O are equal.\n(iii) Perpendicular bisector of any chord passes through O.\n(iv) Chord closer to centre is shorter.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE. (ii) TRUE. (iii) TRUE. (iv) FALSE: Closer=LONGER. Option A wrong (iii correct). Option C wrong (iv false). Option D wrong (iv false)."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A tangent is perpendicular to the radius at point of tangency.\nReason (R): Shortest distance from centre to tangent equals the radius.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct. (R) correct: Shortest distance=radius means perpendicular. (R) explains (A). Option A wrong (A correct). Option B wrong (R correct). Option C wrong (R IS explanation)."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Radius=13 cm, chord=24 cm. Distance from centre:",
+      "options": [
+        "7 cm",
+        "5 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "correctAnswer": "5 cm",
+      "explanation": "Half=12. d=sqrt(169-144)=sqrt(25)=5. 7 wrong. 6 wrong. 8 wrong."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Two circles radii 5 and 3, centres 8 cm apart. Common tangents:",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "correctAnswer": "3",
+      "explanation": "d=8=5+3, externally touching. 3 tangents. 4 wrong (separate). 2 wrong (intersecting). 1 wrong (internal touch)."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Which of the following are true about cyclic quadrilaterals?\n\n(i) Opposite angles are supplementary.\n(ii) All rectangles are cyclic.\n(iii) All parallelograms are cyclic.\n(iv) Sum of all angles is 360.",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE. (ii) TRUE. (iii) FALSE. (iv) TRUE. Option B wrong (iii false). Option C wrong (ii correct). Option D wrong (iii false, iv correct)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Chord subtends 80 degrees at centre. Angle at point on minor arc (by major arc) is:",
+      "options": [
+        "40 degrees",
+        "80 degrees",
+        "140 degrees",
+        "160 degrees"
+      ],
+      "correctAnswer": "140 degrees",
+      "explanation": "Major arc centre angle=280. At minor arc point=280/2=140. 40 wrong. 80 wrong. 160 wrong."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Tangent from point 10 cm from centre to circle of radius 6 cm has length __________.",
+      "options": [
+        "8 cm",
+        "10 cm",
+        "12 cm",
+        "6 cm"
+      ],
+      "correctAnswer": "8 cm",
+      "explanation": "sqrt(100-36)=sqrt(64)=8. 6 wrong (radius). 10 wrong (distance). 12 wrong."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Chords AB, CD intersect at P inside circle. PA=4, PB=6, PC=3. PD equals:",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "9"
+      ],
+      "correctAnswer": "8",
+      "explanation": "PAxPB=PCxPD. 24=3xPD. PD=8. 9 wrong. 6 wrong. 10 wrong."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Equal chords subtend equal angles at the centre.\nReason (R): Equal chords form congruent triangles with radii (SSS).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct. (R) correct. (R) explains (A) via SSS congruence. Option A wrong (R IS explanation). Option B wrong (R correct). Option C wrong (A correct)."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Alternate segment theorem: tangent-chord angle = inscribed angle in alternate segment.\n(ii) A tangent intersects circle at two points.\n(iii) From external point, exactly two tangents can be drawn.\n(iv) Tangents at ends of diameter are parallel.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE. (ii) FALSE: Tangent touches at one point. (iii) TRUE. (iv) TRUE. Option A wrong (ii false). Option B wrong (iv correct). Option D wrong (ii false)."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Match tangent count in Column I with circle positions in Column II:\n\nColumn I:\n(a) 4 tangents\n(b) 3 tangents\n(c) 2 tangents\n(d) 1 tangent\n\nColumn II:\n(i) Internally touching\n(ii) External, not touching\n(iii) Intersecting at two points\n(iv) Externally touching",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "4=external not touching=(ii). 3=externally touching=(iv). 2=intersecting=(iii). 1=internally touching=(i). Option B wrong. Option C swaps (b)(c). Option D wrong."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Tangent-chord angle at point of tangency is 50 degrees. Inscribed angle in alternate segment:",
+      "options": [
+        "130 degrees",
+        "50 degrees",
+        "100 degrees",
+        "40 degrees"
+      ],
+      "correctAnswer": "50 degrees",
+      "explanation": "Alternate segment theorem: equal. =50. 130 wrong. 40 wrong. 100 wrong."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Tangents PA and PB from P. PA=12 cm. PB equals:",
+      "options": [
+        "24 cm",
+        "6 cm",
+        "12 cm",
+        "Cannot determine"
+      ],
+      "correctAnswer": "12 cm",
+      "explanation": "Equal tangents from external point. PB=12. 24 wrong. 6 wrong. Cannot determine wrong."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) A line intersects circle at most at 2 points.\n(ii) A secant intersects at exactly 2 points.\n(iii) Through 3 non-collinear points, one circle passes.\n(iv) Centre lies on every chord.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE. (ii) TRUE. (iii) TRUE. (iv) FALSE: Centre on perp bisector not chord. Option A wrong (ii correct). Option C wrong (iv false). Option D wrong (iv false)."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "The following data: Radius=10 cm, chord distance from centre=6 cm.\n\nChord length is:",
+      "options": [
+        "12 cm",
+        "14 cm",
+        "16 cm",
+        "20 cm"
+      ],
+      "correctAnswer": "16 cm",
+      "explanation": "Half=sqrt(100-36)=8. Full=16. 12 wrong. 14 wrong. 20 wrong (diameter)."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Arc subtends 100 degrees at centre. Angle at point on major arc:",
+      "options": [
+        "100 degrees",
+        "50 degrees",
+        "80 degrees",
+        "200 degrees"
+      ],
+      "correctAnswer": "50 degrees",
+      "explanation": "Circumference=100/2=50. 100 wrong (centre). 200 wrong. 80 wrong."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Concentric circles have no common tangent.\nReason (R): Any tangent to the outer circle crosses the inner circle, so it cannot be tangent to both.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct: 0 tangents. (R) correct. (R) explains (A). Option A wrong (R correct). Option B wrong (R IS explanation). Option D wrong (A correct)."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Chord subtends 60 degrees at centre, radius=10 cm. Chord length:",
+      "options": [
+        "5 cm",
+        "15 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "Triangle with two radii and 60 degrees is equilateral. Chord=radius=10. 5 wrong. 15 wrong. 20 wrong."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Which of the following are true about the alternate segment theorem?\n\n(i) Tangent-chord angle = inscribed angle in alternate segment.\n(ii) It applies only to right angles.\n(iii) It helps find angles with tangents and chords.\n(iv) It relates tangent-chord angle to central angle.",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) TRUE. (ii) FALSE: Any angle. (iii) TRUE. (iv) FALSE: Inscribed not central. Option B wrong (ii false). Option C wrong (iv false). Option D wrong."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Cyclic quadrilateral PQRS: angle P=85, angle Q=75. Angles R and S:",
+      "options": [
+        "95 and 105 degrees",
+        "105 and 95 degrees",
+        "85 and 75 degrees",
+        "75 and 85 degrees"
+      ],
+      "correctAnswer": "95 and 105 degrees",
+      "explanation": "R=180-85=95. S=180-75=105. Option B swaps. Option C wrong. Option D wrong."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Distance from centre to chord=4 cm, radius=5 cm. Chord length is __________.",
+      "options": [
+        "8 cm",
+        "3 cm",
+        "10 cm",
+        "6 cm"
+      ],
+      "correctAnswer": "6 cm",
+      "explanation": "Half=sqrt(25-16)=3. Full=6. 8 wrong. 3 wrong (half). 10 wrong."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Two tangents from P at 90 degrees. Radius=5. Distance OP:",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "5 sqrt(2) cm",
+        "10 sqrt(2) cm"
+      ],
+      "correctAnswer": "5 sqrt(2) cm",
+      "explanation": "In right triangle: OP=r/sin45=5sqrt2. 5 wrong (radius). 10 wrong. 10sqrt2 wrong."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Inscribed angle = half central angle for same arc.\n(ii) Inscribed angles on same arc are equal.\n(iii) Angle in major arc (subtending minor arc) is acute.\n(iv) Angle in minor arc (subtending major arc) is obtuse.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "All TRUE. (i) Theorem. (ii) Same arc same angle. (iii) Minor arc means centre angle<180, inscribed<90. (iv) Major arc means centre>180, inscribed>90. Option A wrong (iii,iv correct). Option C wrong (ii correct). Option D wrong (i,ii correct)."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Match circle positions in Column I with tangent count in Column II:\n\nColumn I:\n(a) One inside other (not touching)\n(b) Intersecting at two points\n(c) Externally tangent\n(d) Separate, not touching\n\nColumn II:\n(i) 4\n(ii) 0\n(iii) 2\n(iv) 3",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) Inside=0=(ii). (b) Intersecting=2=(iii). (c) Ext tangent=3=(iv). (d) Separate=4=(i). Others wrong."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Perpendicular bisector of every chord passes through centre.\nReason (R): Centre is equidistant from both endpoints of any chord.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) correct. (R) correct. (R) explains (A): equidistant point on perp bisector. Option B wrong (R correct). Option C wrong (A correct). Option D wrong (R IS explanation)."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Angles subtended by same chord on same side of chord are equal.\n(ii) Angles subtended by same chord on opposite sides are supplementary.\n(iii) If a chord subtends 35 degrees at major arc, it subtends 145 degrees at minor arc.\n(iv) If a chord subtends 35 degrees at major arc, it subtends 70 degrees at centre.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) TRUE: Same segment theorem. (ii) TRUE: Opposite arcs supplementary. (iii) TRUE: 180-35=145. (iv) TRUE: Centre angle=2x circumference=70. All correct. Option B wrong (iv correct). Option C wrong (ii,iv correct). Option D wrong (i,iii correct)."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Circle radius=10, chord=12 cm. Distance from centre:",
+      "options": [
+        "6 cm",
+        "4 cm",
+        "5 cm",
+        "8 cm"
+      ],
+      "correctAnswer": "8 cm",
+      "explanation": "Half=6. d=sqrt(100-36)=sqrt(64)=8. 6 wrong (half chord). 4 wrong. 5 wrong."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Angle AOB=90 (O centre). Angle ACB (C on major arc):",
+      "options": [
+        "90 degrees",
+        "135 degrees",
+        "60 degrees",
+        "45 degrees"
+      ],
+      "correctAnswer": "45 degrees",
+      "explanation": "Inscribed=90/2=45. 90 wrong (central). 135 wrong. 60 wrong."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Which of the following are correct about tangent properties?\n\n(i) Touches at exactly one point.\n(ii) Only one tangent at each point on circle.\n(iii) Perpendicular to radius at contact.\n(iv) Tangent parallel to any chord can be drawn.",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "All TRUE. (iv): Tangent at arc midpoint is parallel to chord. Option A wrong (iv correct). Option B wrong (ii,iv correct). Option C wrong (i,iii correct)."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Equal chords cut equal arcs.\n(ii) Arc subtending 90 at centre = 1/4 circumference.\n(iii) Minor arc < semicircle.\n(iv) Congruent arcs have equal chords.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "All TRUE. Option A wrong (ii,iv correct). Option B wrong (iv correct). Option C wrong (i,ii correct)."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The following data is given:\n\nCircle 1: radius=8 cm, Circle 2: radius=3 cm, Distance between centres=13 cm\n\nLength of direct common tangent:",
+      "options": [
+        "10 cm",
+        "11 cm",
+        "12 cm",
+        "14 cm"
+      ],
+      "correctAnswer": "12 cm",
+      "explanation": "Direct tangent=sqrt(d^2-(r1-r2)^2)=sqrt(169-25)=sqrt(144)=12. 10 wrong. 11 wrong. 14 wrong."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "Chord AB=16 cm, distance from centre=6 cm. Radius:",
+      "options": [
+        "8 cm",
+        "12 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "Half=8. r=sqrt(64+36)=sqrt(100)=10. 8 wrong (half). 12 wrong. 14 wrong."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "The exterior angle of a cyclic quadrilateral ABCD at vertex A is 110 degrees. The interior angle at vertex C is:",
+      "options": [
+        "70 degrees",
+        "110 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswer": "110 degrees",
+      "explanation": "Exterior at A = 180 - interior A = 110, so interior A = 70. Opposite angle C = 180 - 70 = 110. 70 wrong (that is angle A). 90 wrong. 120 wrong."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Two parallel chords of a circle are 6 cm and 8 cm long. If the radius is 5 cm, the distance between the chords (on same side of centre) is:",
+      "options": [
+        "7 cm",
+        "1 cm",
+        "3 cm",
+        "2 cm"
+      ],
+      "correctAnswer": "1 cm",
+      "explanation": "Chord 6: half=3, dist from centre=sqrt(25-9)=4. Chord 8: half=4, dist=sqrt(25-16)=3. Same side: distance between=4-3=1 cm. 7 wrong (4+3 for opposite sides). 3 wrong. 2 wrong."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Match theorems in Column I with statements in Column II:\n\nColumn I:\n(a) Thales theorem\n(b) Alternate segment theorem\n(c) Tangent-radius theorem\n(d) Equal chords theorem\n\nColumn II:\n(i) Equal chords equidistant from centre\n(ii) Angle in semicircle=90\n(iii) Tangent-chord angle=inscribed angle in alternate segment\n(iv) Tangent perpendicular to radius",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a)=semicircle=(ii). (b)=alternate segment=(iii). (c)=perpendicular=(iv). (d)=equidistant=(i). Others wrong."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Angle between two radii=130 degrees. Angle between tangents at endpoints:",
+      "options": [
+        "130 degrees",
+        "65 degrees",
+        "100 degrees",
+        "50 degrees"
+      ],
+      "correctAnswer": "50 degrees",
+      "explanation": "360-130-90-90=50. 130 wrong. 65 wrong. 100 wrong."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "A circle has radius 15 cm and a chord of length 24 cm. The distance from the centre to the chord is:",
+      "options": [
+        "12 cm",
+        "6 cm",
+        "10 cm",
+        "9 cm"
+      ],
+      "correctAnswer": "9 cm",
+      "explanation": "Half=12. d=sqrt(225-144)=sqrt(81)=9. 12 wrong (half chord). 6 wrong. 10 wrong."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "The following data: Radius=5 cm, tangent PA=12 cm.\n\nDistance OP:",
+      "options": [
+        "17 cm",
+        "10 cm",
+        "13 cm",
+        "15 cm"
+      ],
+      "correctAnswer": "13 cm",
+      "explanation": "OP=sqrt(25+144)=sqrt(169)=13. 17 wrong. 10 wrong. 15 wrong."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Two circles intersect at most at 2 points.\n(ii) Two circles with 3 common points are coincident.\n(iii) Chord of larger circle tangent to smaller concentric circle is bisected at tangent point.\n(iv) Radical axis is perpendicular to line of centres.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "All TRUE. Option A wrong (iii,iv correct). Option B wrong (iv correct). Option C wrong (i,ii correct)."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Match the circle configurations in Column I with the distance between centres in Column II:\n\nColumn I:\n(a) Two circles (radii 5, 12) touching externally\n(b) Two circles (radii 8, 3) touching internally\n(c) Two circles (radii 6, 4) with 4 common tangents (d=12)\n(d) Two circles (radii 7, 7) touching externally\n\nColumn II:\n(i) 14\n(ii) 5\n(iii) 12\n(iv) 17",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "(a) External touch: d=5+12=17=(iv). (b) Internal touch: d=8-3=5=(ii). (c) Given d=12=(iii). (d) External touch: d=7+7=14=(i). Option B swaps (a)(c). Option C swaps (b)(c). Option D swaps (a)(b)."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Two equal chords PQ and RS, each 10 cm long, are drawn in a circle of radius 13 cm. The distance of each chord from the centre is:",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "8 cm",
+        "12 cm"
+      ],
+      "correctAnswer": "12 cm",
+      "explanation": "Half=5. d=sqrt(169-25)=sqrt(144)=12. 5 wrong (half chord). 10 wrong. 8 wrong."
+    }
+  ]
+}

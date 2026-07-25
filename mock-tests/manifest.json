@@ -338,7 +338,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "22_test_C_averages.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 23,
@@ -353,7 +353,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "23_test_D_spellings.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 24,
@@ -368,7 +368,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "24_test_E_circles.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 25,

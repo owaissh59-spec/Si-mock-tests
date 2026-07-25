@@ -73,9 +73,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 22 | Morning | C — Quantitative Aptitude | Averages | 30 | foundation | Topic-wise | ⬜ |
-| 23 | Afternoon | D — English Comprehension | Spellings & Detecting Misspelt Words | 40 | foundation | Topic-wise | ⬜ |
-| 24 | Late | E — Mathematical Abilities | Geometry: Circles (Chords, Tangents, Angles) | 50 | foundation | Topic-wise | ⬜ |
+| 22 | Morning | C — Quantitative Aptitude | Averages | 30 | foundation | Topic-wise | ✅ |
+| 23 | Afternoon | D — English Comprehension | Spellings & Detecting Misspelt Words | 40 | foundation | Topic-wise | ✅ |
+| 24 | Late | E — Mathematical Abilities | Geometry: Circles (Chords, Tangents, Angles) | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 9
 
