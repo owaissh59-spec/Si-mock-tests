@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Geometry: Triangles (Centres, Congruence, Similarity)",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "In a triangle ABC, the medians AD, BE and CF intersect at point G. If AD = 12 cm, what is the length of AG?",
+      "options": [
+        "8 cm",
+        "6 cm",
+        "4 cm",
+        "9 cm"
+      ],
+      "correctAnswer": "8 cm",
+      "explanation": "The centroid divides each median in the ratio 2:1 from the vertex. So AG = (2/3) × AD = (2/3) × 12 = 8 cm. Option '6 cm' wrongly uses 1:1 ratio. Option '4 cm' uses 1:2 from vertex (the GD part). Option '9 cm' uses 3:1 ratio incorrectly."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about the centres of a triangle:\n\n(i) The circumcentre is equidistant from all three vertices.\n(ii) The incentre is equidistant from all three sides.\n(iii) The orthocentre always lies inside the triangle.\n(iv) The centroid divides each median in the ratio 2:1 from the vertex.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Correct: Circumcentre is the centre of the circumscribed circle, equidistant from all vertices. (ii) Correct: Incentre is the centre of the inscribed circle, equidistant from all sides. (iii) Incorrect: In an obtuse triangle, the orthocentre lies outside the triangle. (iv) Correct: Centroid always divides medians 2:1 from vertex. Option '(i), (ii), (iii) and (iv)' is wrong because (iii) fails for obtuse triangles. Option '(i) and (ii) only' excludes the correct statement (iv). Option '(ii), (iii) and (iv) only' excludes (i) which is correct and includes (iii) which is incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two triangles are congruent if two sides and the included angle of one triangle are equal to two sides and the included angle of the other triangle.\nReason (R): This is known as the SAS (Side-Angle-Side) congruence criterion.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: SAS is a valid congruence criterion. (R) is correct: The criterion described is indeed called SAS. R directly names and explains the assertion. Option 'Both correct but NOT explanation' is wrong because R is precisely the name and justification of A. Option '(A) correct but (R) not correct' is wrong since R is factually accurate. Option '(A) not correct but (R) correct' is wrong since A states a valid theorem."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "In △ABC, if AB = 5 cm, BC = 6 cm, AC = 7 cm, and in △PQR, PQ = 5 cm, QR = 6 cm, PR = 7 cm, then by which criterion are the two triangles congruent?",
+      "options": [
+        "SAS",
+        "ASA",
+        "AAS",
+        "SSS"
+      ],
+      "correctAnswer": "SSS",
+      "explanation": "All three sides of △ABC are equal to the corresponding three sides of △PQR (AB=PQ, BC=QR, AC=PR), so by SSS criterion they are congruent. Option 'SAS' requires two sides and the included angle. Option 'ASA' requires two angles and the included side. Option 'AAS' requires two angles and a non-included side. None of these apply when only side information is given."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following are properties of similar triangles?\n\n(i) Corresponding angles are equal.\n(ii) Corresponding sides are in proportion.\n(iii) The ratio of their areas equals the ratio of corresponding sides.\n(iv) The ratio of their areas equals the square of the ratio of corresponding sides.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Correct: Similar triangles have equal corresponding angles. (ii) Correct: Corresponding sides are proportional. (iii) Incorrect: The ratio of areas equals the SQUARE of the ratio of corresponding sides, not the simple ratio. (iv) Correct: Area ratio = (side ratio)². Option '(i), (ii) and (iii) only' includes the incorrect statement (iii). Option '(i) and (ii) only' misses the correct statement (iv). Option 'all four' includes the incorrect statement (iii)."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "The circumcentre of a right-angled triangle lies at:",
+      "options": [
+        "the vertex of the right angle",
+        "inside the triangle",
+        "the midpoint of the hypotenuse",
+        "outside the triangle"
+      ],
+      "correctAnswer": "the midpoint of the hypotenuse",
+      "explanation": "In a right-angled triangle, the hypotenuse is the diameter of the circumscribed circle, so the circumcentre is at the midpoint of the hypotenuse. Option 'vertex of right angle' confuses with orthocentre location. Option 'inside the triangle' is true for acute triangles only. Option 'outside the triangle' is true for obtuse triangles only."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Match Column I with Column II:\n\nColumn I:\n(a) Centroid\n(b) Orthocentre\n(c) Circumcentre\n(d) Incentre\n\nColumn II:\n(i) Intersection of altitudes\n(ii) Intersection of medians\n(iii) Intersection of angle bisectors\n(iv) Intersection of perpendicular bisectors of sides",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Centroid = intersection of medians (ii). Orthocentre = intersection of altitudes (i). Circumcentre = intersection of perpendicular bisectors of sides (iv). Incentre = intersection of angle bisectors (iii). Option '(a)-(i), (b)-(ii)...' swaps centroid and orthocentre. Option '(a)-(ii), (b)-(iv)...' swaps orthocentre and circumcentre. Option '(a)-(iii), (b)-(i)...' swaps centroid and incentre."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "In △ABC, D is a point on BC such that AD ⊥ BC. If AB = 13 cm, AD = 12 cm and BD = 5 cm, find DC if AC = 15 cm.",
+      "options": [
+        "7 cm",
+        "9 cm",
+        "8 cm",
+        "10 cm"
+      ],
+      "correctAnswer": "9 cm",
+      "explanation": "In right △ADC: AC² = AD² + DC². So 15² = 12² + DC² → 225 = 144 + DC² → DC² = 81 → DC = 9 cm. Verification in △ADB: AB² = AD² + BD² → 13² = 12² + 5² → 169 = 144 + 25 ✓. Option '7 cm' results from subtracting 13−6. Option '8 cm' from √(225−169). Option '10 cm' from wrongly computing 225−125."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In an equilateral triangle, the centroid, orthocentre, circumcentre and incentre all coincide.\nReason (R): An equilateral triangle has all sides equal.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: Due to perfect symmetry, all four centres coincide in an equilateral triangle. (R) is correct: By definition all sides are equal. R explains A because equal sides create the symmetry that forces medians, altitudes, perpendicular bisectors and angle bisectors to be the same lines. Option 'Both correct but NOT explanation' is wrong because R's property of equal sides directly causes the coincidence. Option '(A) correct but (R) not correct' is wrong since R is factually true. Option '(A) not correct but (R) correct' is wrong since A is a well-known theorem."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "In △ABC, a line DE is drawn parallel to BC such that D lies on AB and E lies on AC. If AD = 4 cm, DB = 6 cm and AE = 3 cm, find EC.",
+      "options": [
+        "4 cm",
+        "6 cm",
+        "5 cm",
+        "4.5 cm"
+      ],
+      "correctAnswer": "4.5 cm",
+      "explanation": "By Basic Proportionality Theorem (Thales' theorem), if DE ∥ BC then AD/DB = AE/EC. So 4/6 = 3/EC → EC = 3 × 6/4 = 4.5 cm. Option '4 cm' wrongly uses AD/AB = AE/EC. Option '5 cm' from error 3×10/6. Option '6 cm' from incorrectly setting EC = DB."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "In △ABC, ∠A = 90°, AB = 9 cm and AC = 12 cm. The length of the hypotenuse BC (in cm) is:",
+      "options": [
+        "21",
+        "15",
+        "18",
+        "10.5"
+      ],
+      "correctAnswer": "15",
+      "explanation": "By Pythagoras theorem, BC² = AB² + AC² = 81 + 144 = 225. BC = √225 = 15 cm. Option '21' wrongly adds 9+12. Option '18' from √(81+144) computed wrongly as √324. Option '10.5' from (9+12)/2."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Consider the following statements about congruence criteria:\n\n(i) SSS is a valid congruence criterion.\n(ii) AAA is a valid congruence criterion.\n(iii) RHS is valid only for right-angled triangles.\n(iv) ASS (or SSA) is always a valid congruence criterion.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) Correct: SSS is a valid criterion. (ii) Incorrect: AAA proves similarity, not congruence; triangles can have same angles but different sizes. (iii) Correct: RHS (Right angle-Hypotenuse-Side) applies only to right-angled triangles. (iv) Incorrect: SSA (or ASS) is not a valid criterion in general as it can give ambiguous cases. Option '(i), (ii) and (iii) only' includes incorrect AAA. Option '(i), (iii) and (iv) only' includes incorrect SSA. Option '(i) and (iv) only' includes incorrect SSA and misses correct (iii)."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Match Column I with Column II:\n\nColumn I:\n(a) AA criterion\n(b) SSS criterion for similarity\n(c) SAS criterion for similarity\n(d) Basic Proportionality Theorem\n\nColumn II:\n(i) If a line is parallel to one side of a triangle, it divides the other two sides proportionally\n(ii) Two triangles are similar if two angles of one are equal to two angles of the other\n(iii) Two triangles are similar if all three pairs of corresponding sides are in proportion\n(iv) Two triangles are similar if one pair of angles is equal and the sides including that angle are proportional",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "AA criterion: two angles equal → similar (ii). SSS for similarity: all three pairs of sides proportional (iii). SAS for similarity: one pair of equal angles with proportional including sides (iv). BPT: parallel line divides sides proportionally (i). Option '(a)-(iii)...' swaps AA and SSS. Option '(a)-(ii), (b)-(iv)...' swaps SSS and SAS. Option '(a)-(iv)...' swaps AA and SAS."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Two similar triangles have sides in the ratio 3:5. If the area of the smaller triangle is 36 cm², the area of the larger triangle (in cm²) is:",
+      "options": [
+        "60",
+        "100",
+        "80",
+        "90"
+      ],
+      "correctAnswer": "100",
+      "explanation": "For similar triangles, ratio of areas = (ratio of sides)² = (3/5)² = 9/25. So 36/Area₂ = 9/25 → Area₂ = 36 × 25/9 = 100 cm². Option '60' uses simple ratio 36×5/3. Option '80' from wrong calculation. Option '90' from 36×25/10."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "In △ABC, the exterior angle at C is 120°. If ∠A = 50°, find ∠B.",
+      "options": [
+        "60°",
+        "70°",
+        "80°",
+        "50°"
+      ],
+      "correctAnswer": "70°",
+      "explanation": "By exterior angle theorem, exterior angle = sum of two non-adjacent interior angles. So 120° = ∠A + ∠B = 50° + ∠B → ∠B = 70°. Option '60°' from 180°−120°. Option '80°' from 180°−50°−50°. Option '50°' incorrectly assumes ∠B = ∠A."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which of the following are true about the centroid of a triangle?\n\n(i) It always lies inside the triangle.\n(ii) It divides each median in ratio 2:1 from vertex.\n(iii) It is the point of concurrency of altitudes.\n(iv) The coordinates of centroid are the average of vertices' coordinates.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Correct: The centroid always lies inside any triangle. (ii) Correct: Centroid divides each median 2:1 from vertex. (iii) Incorrect: Altitudes meet at the orthocentre, not the centroid. (iv) Correct: Centroid = ((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3). Option 'all four' includes the incorrect (iii). Option '(i) and (ii) only' misses the correct (iv). Option '(ii) and (iv) only' misses the correct (i)."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The centroid of a triangle with vertices A(2, 4), B(6, 2) and C(4, 6) is at the point __________.",
+      "options": [
+        "(3, 3)",
+        "(6, 6)",
+        "(5, 5)",
+        "(4, 4)"
+      ],
+      "correctAnswer": "(4, 4)",
+      "explanation": "Centroid = ((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3) = ((2+6+4)/3, (4+2+6)/3) = (12/3, 12/3) = (4, 4). Option '(3, 3)' from averaging only two coordinates. Option '(5, 5)' from adding 1 to each coordinate. Option '(6, 6)' from taking sum without dividing by 3 properly."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If two triangles are congruent, then they are also similar.\nReason (R): Similar triangles always have equal corresponding sides.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: Congruent triangles have equal sides and angles, so they satisfy similarity conditions (with ratio 1:1). (R) is incorrect: Similar triangles have proportional corresponding sides, not necessarily equal ones. Only congruent triangles have equal sides. Option 'Both correct and R explains A' is wrong since R is false. Option '(A) not correct but (R) correct' is wrong since A is true and R is false. Option 'Both correct but NOT explanation' is wrong since R is not correct."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Which of the following are true for an isosceles triangle with AB = AC?\n\n(i) ∠B = ∠C\n(ii) The altitude from A bisects BC.\n(iii) The median from A is also the angle bisector of ∠A.\n(iv) All three medians are equal in length.\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) Correct: Base angles of an isosceles triangle are equal. (ii) Correct: The altitude from the vertex angle bisects the base. (iii) Correct: In an isosceles triangle, the median from the vertex angle coincides with the altitude and the angle bisector. (iv) Incorrect: Only the median from A has special properties; the medians from B and C are equal to each other but not to the one from A. Option '(i) and (ii) only' misses valid (iii). Option 'all four' includes incorrect (iv). Option '(i), (iii) and (iv) only' includes incorrect (iv) and misses correct (ii)."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "In the given figure, DE ∥ BC, AD = 3 cm, AB = 9 cm, and the area of △ADE = 16 cm². The area of △ABC is:",
+      "options": [
+        "48 cm²",
+        "96 cm²",
+        "144 cm²",
+        "108 cm²"
+      ],
+      "correctAnswer": "144 cm²",
+      "explanation": "Since DE ∥ BC, △ADE ~ △ABC. Ratio of sides = AD/AB = 3/9 = 1/3. Ratio of areas = (1/3)² = 1/9. So Area(△ABC) = 16 × 9 = 144 cm². Option '48 cm²' uses simple ratio 16×3. Option '96 cm²' uses ratio 16×6. Option '108 cm²' from wrong square computation."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) If in two triangles, corresponding angles are equal, the triangles are similar.\n(ii) If in two triangles, corresponding sides are proportional, the triangles are similar.\n(iii) If one angle of a triangle is equal to one angle of the other and sides including these angles are proportional, the triangles are similar.\n(iv) If the hypotenuse and one side of one right triangle are proportional to the hypotenuse and one side of another, the triangles are similar.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) Correct: AA similarity criterion. (ii) Correct: SSS similarity criterion. (iii) Correct: SAS similarity criterion. (iv) Correct: In right triangles, if hypotenuse and one side are proportional, the triangles are similar (since the right angle is common and sides including it are proportional). Option '(i) and (ii) only' misses valid (iii) and (iv). Option '(i), (ii) and (iii) only' misses valid (iv). Option '(i), (iii) and (iv) only' misses valid (ii)."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "In △ABC, ∠B = 90°, AB = 8 cm and BC = 6 cm. The length of the median from B to AC is:",
+      "options": [
+        "4 cm",
+        "7 cm",
+        "6 cm",
+        "5 cm"
+      ],
+      "correctAnswer": "5 cm",
+      "explanation": "First, AC = √(AB² + BC²) = √(64 + 36) = √100 = 10 cm. The median from the right-angle vertex to the hypotenuse = half the hypotenuse = 10/2 = 5 cm. Option '4 cm' from AC/2 with wrong AC. Option '6 cm' confuses with BC. Option '7 cm' from average of 8 and 6."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Match Column I with Column II:\n\nColumn I:\n(a) Orthocentre of an acute triangle\n(b) Orthocentre of a right triangle\n(c) Orthocentre of an obtuse triangle\n(d) Circumcentre of a right triangle\n\nColumn II:\n(i) Lies at the vertex of the right angle\n(ii) Lies inside the triangle\n(iii) Lies outside the triangle\n(iv) Lies at the midpoint of the hypotenuse",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "Orthocentre of acute triangle: inside (ii). Orthocentre of right triangle: at the right-angle vertex (i). Orthocentre of obtuse triangle: outside (iii). Circumcentre of right triangle: midpoint of hypotenuse (iv). Option '(a)-(ii), (b)-(iv)...' swaps orthocentre and circumcentre of right triangle. Option '(a)-(iii)...' puts acute orthocentre outside. Option '(a)-(ii), (b)-(i), (c)-(iv)...' swaps obtuse orthocentre with circumcentre."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "In △ABC and △DEF, AB/DE = BC/EF = CA/FD = 2/3. If the perimeter of △ABC is 24 cm, find the perimeter of △DEF.",
+      "options": [
+        "30 cm",
+        "48 cm",
+        "36 cm",
+        "32 cm"
+      ],
+      "correctAnswer": "36 cm",
+      "explanation": "Since all sides are in ratio 2:3, the perimeters are also in ratio 2:3. So Perimeter(△DEF) = 24 × 3/2 = 36 cm. Option '30 cm' from 24+6. Option '48 cm' from doubling 24. Option '32 cm' from 24 × 4/3."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "In an equilateral triangle with side length 6 cm, the length of each median is:",
+      "options": [
+        "3 cm",
+        "3√3 cm",
+        "6√3 cm",
+        "4√3 cm"
+      ],
+      "correctAnswer": "3√3 cm",
+      "explanation": "In an equilateral triangle with side a, the median = (√3/2)a = (√3/2)×6 = 3√3 cm. Option '3 cm' uses half the side (a/2). Option '6√3 cm' uses √3 × a without dividing by 2. Option '4√3 cm' from incorrect formula."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Basic Proportionality Theorem states that if a line is drawn parallel to one side of a triangle, it divides the other two sides in the same ratio.\nReason (R): This theorem is also known as the Midpoint Theorem.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: BPT (Thales' theorem) states exactly this. (R) is incorrect: BPT is known as Thales' theorem, not the Midpoint Theorem. The Midpoint Theorem is a special case where the line joins midpoints. Option 'Both correct and R explains A' is wrong since R is factually incorrect. Option 'Both correct but NOT explanation' is wrong since R is incorrect. Option '(A) not correct but (R) correct' is wrong since A is correct and R is incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "In △ABC, DE ∥ BC where D is on AB and E is on AC. If AD/DB = 3/5 and AC = 16 cm, then AE equals:",
+      "options": [
+        "5 cm",
+        "8 cm",
+        "10 cm",
+        "6 cm"
+      ],
+      "correctAnswer": "6 cm",
+      "explanation": "By BPT, AD/DB = AE/EC = 3/5. So AE/EC = 3/5. Also AE + EC = AC = 16. Let AE = 3k, EC = 5k, then 8k = 16, k = 2. AE = 6 cm. Option '8 cm' from 16/2 (midpoint). Option '10 cm' from 5k with wrong k. Option '5 cm' from confusing ratio parts."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "A data table shows the measurements of two triangles:\n\nTriangle 1: Sides = 6 cm, 8 cm, 10 cm\nTriangle 2: Sides = 9 cm, 12 cm, 15 cm\n\nBased on this data, which conclusion is correct?",
+      "options": [
+        "The triangles are congruent",
+        "The triangles are similar with ratio 3:4",
+        "The triangles are neither similar nor congruent",
+        "The triangles are similar with ratio 2:3"
+      ],
+      "correctAnswer": "The triangles are similar with ratio 2:3",
+      "explanation": "Check ratios: 6/9 = 8/12 = 10/15 = 2/3. All pairs of corresponding sides are in the same ratio 2:3, so by SSS similarity criterion, the triangles are similar with ratio 2:3. Option 'congruent' is wrong since sides aren't equal. Option 'neither similar nor congruent' is wrong since ratios are equal. Option 'ratio 3:4' gives wrong ratio."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following are sufficient conditions for two triangles to be congruent?\n\n(i) Three pairs of equal angles (AAA)\n(ii) Two pairs of equal sides and equal included angle (SAS)\n(iii) Two pairs of equal angles and equal included side (ASA)\n(iv) One pair of equal sides and two pairs of equal angles (AAS)\n\nSelect the correct answer:",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii) and (iii) only"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) Incorrect: AAA ensures similarity only, not congruence. (ii) Correct: SAS is a valid congruence criterion. (iii) Correct: ASA is a valid congruence criterion. (iv) Correct: AAS is a valid congruence criterion. Option 'all four' includes invalid AAA. Option '(i), (ii) and (iii) only' includes invalid AAA. Option '(ii) and (iii) only' misses the valid AAS criterion."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about an isosceles triangle ABC where AB = AC and ∠A = 40°:\n\n(i) ∠B = 70°\n(ii) ∠C = 70°\n(iii) The triangle is acute-angled.\n(iv) The triangle is obtuse-angled.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Since AB = AC, base angles ∠B = ∠C. Sum: 40° + 2∠B = 180° → ∠B = 70°. (i) Correct: ∠B = 70°. (ii) Correct: ∠C = 70°. (iii) Correct: All angles (40°, 70°, 70°) are less than 90°, so it's acute. (iv) Incorrect: No angle exceeds 90°. Option '(i), (ii) and (iv)' wrongly claims obtuse. Option '(i) and (ii) only' misses that the triangle is acute. Option 'all four' includes contradictory (iii) and (iv)."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) The incentre of a triangle always lies inside the triangle.\n(ii) The circumcentre of an obtuse triangle lies outside the triangle.\n(iii) The centroid of a triangle lies outside the triangle for obtuse triangles.\n(iv) The orthocentre of an acute triangle lies inside the triangle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Correct: The incentre always lies inside any triangle. (ii) Correct: For obtuse triangles, circumcentre lies outside. (iii) Incorrect: The centroid ALWAYS lies inside, regardless of triangle type. (iv) Correct: The orthocentre of an acute triangle lies inside. Option 'all four' includes incorrect (iii). Option '(i) and (iv) only' misses correct (ii). Option '(i), (ii) and (iii) only' includes incorrect (iii) and misses correct (iv)."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "If △ABC ~ △PQR with AB/PQ = 4/7, and the altitude from A in △ABC is 8 cm, then the corresponding altitude from P in △PQR is:",
+      "options": [
+        "12 cm",
+        "16 cm",
+        "14 cm",
+        "10 cm"
+      ],
+      "correctAnswer": "14 cm",
+      "explanation": "In similar triangles, corresponding altitudes are in the same ratio as corresponding sides. Altitude from P / Altitude from A = PQ/AB = 7/4. Altitude from P = 8 × 7/4 = 14 cm. Option '12 cm' from 8×3/2. Option '16 cm' from 8×2. Option '10 cm' from 8+2."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "In △ABC, the perpendicular bisectors of sides AB and BC meet at point O. Then O is equidistant from:",
+      "options": [
+        "all three vertices A, B and C",
+        "vertices A and B only",
+        "sides AB and BC only",
+        "all three sides"
+      ],
+      "correctAnswer": "all three vertices A, B and C",
+      "explanation": "The point of concurrency of perpendicular bisectors is the circumcentre, which is equidistant from all three vertices (OA = OB = OC = circumradius). Option 'A and B only' is incomplete; the third perpendicular bisector also passes through O. Option 'sides AB and BC only' confuses circumcentre with incentre properties. Option 'all three sides' describes the incentre, not circumcentre."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "In △ABC and △PQR, ∠A = ∠P = 60° and ∠B = ∠Q = 80°. Which similarity criterion confirms that △ABC ~ △PQR?",
+      "options": [
+        "AA",
+        "SAS",
+        "SSS",
+        "RHS"
+      ],
+      "correctAnswer": "AA",
+      "explanation": "When two angles of one triangle equal two angles of another, the triangles are similar by AA (Angle-Angle) criterion. The third angle is automatically equal (∠C = ∠R = 40°). Option 'SSS' requires all sides proportional. Option 'SAS' requires an angle between two proportional sides. Option 'RHS' is for congruence in right triangles only."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Match Column I with Column II:\n\nColumn I:\n(a) CPCT\n(b) BPT\n(c) Angle sum property\n(d) Exterior angle theorem\n\nColumn II:\n(i) Sum of angles of a triangle is 180°\n(ii) Corresponding Parts of Congruent Triangles are equal\n(iii) Exterior angle equals sum of two non-adjacent interior angles\n(iv) A line parallel to one side divides other two sides proportionally",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "CPCT = Corresponding Parts of Congruent Triangles (ii). BPT = line parallel to one side divides other sides proportionally (iv). Angle sum property = sum of angles is 180° (i). Exterior angle theorem = exterior angle equals sum of non-adjacent interior angles (iii). Option '(a)-(iv)...' swaps CPCT and BPT. Option '(a)-(ii), (b)-(iv), (c)-(iii)...' swaps angle sum and exterior angle. Option '(a)-(ii), (b)-(i)...' swaps BPT and angle sum."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "A survey recorded the following data about triangle XYZ:\n∠X = 50°, ∠Y = 60°, XY = 7 cm.\nAnother triangle PQR has ∠P = 50°, ∠Q = 60°, PQ = 7 cm.\nWhat can be concluded about the two triangles?",
+      "options": [
+        "They are similar but not congruent",
+        "They are congruent by ASA criterion",
+        "They are congruent by SAS criterion",
+        "No conclusion can be drawn"
+      ],
+      "correctAnswer": "They are congruent by ASA criterion",
+      "explanation": "∠X = ∠P = 50°, ∠Y = ∠Q = 60°, and XY = PQ = 7 cm (included side between the equal angles). By ASA criterion, △XYZ ≅ △PQR. Option 'similar but not congruent' is wrong because they are actually congruent (same size). Option 'SAS criterion' is wrong because SAS requires two sides and included angle, not two angles and included side. Option 'no conclusion' is wrong since ASA clearly applies."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "In a triangle, if a line segment joins the midpoints of two sides, then it is:",
+      "options": [
+        "equal to the third side",
+        "parallel to the third side and half its length",
+        "perpendicular to the third side",
+        "parallel to the third side and equal to it"
+      ],
+      "correctAnswer": "parallel to the third side and half its length",
+      "explanation": "By the Midpoint Theorem, the line segment joining midpoints of two sides of a triangle is parallel to the third side and half its length. Option 'equal to the third side' gives wrong length. Option 'perpendicular to the third side' is incorrect in general. Option 'parallel and equal' gives wrong length (it's half, not equal)."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "In △ABC, if ∠A = 90°, AB = 6 cm, AC = 8 cm, and AD is the altitude from A to BC, then the length of AD is __________.",
+      "options": [
+        "3.6 cm",
+        "4.8 cm",
+        "5.0 cm",
+        "4.0 cm"
+      ],
+      "correctAnswer": "4.8 cm",
+      "explanation": "BC = √(AB² + AC²) = √(36 + 64) = 10 cm. Area of △ABC = ½ × AB × AC = ½ × 6 × 8 = 24 cm². Also Area = ½ × BC × AD = ½ × 10 × AD. So 24 = 5 × AD → AD = 24/5 = 4.8 cm. Option '3.6 cm' from 36/10. Option '5.0 cm' from BC/2. Option '4.0 cm' from wrong area calculation."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "In two triangles △ABC and △DEF, AB = 4 cm, BC = 6 cm, ∠B = 50°, DE = 8 cm, EF = 12 cm, and ∠E = 50°. The triangles are:",
+      "options": [
+        "similar by SAS criterion",
+        "congruent by SAS",
+        "neither similar nor congruent",
+        "similar by AA criterion"
+      ],
+      "correctAnswer": "similar by SAS criterion",
+      "explanation": "AB/DE = 4/8 = 1/2, BC/EF = 6/12 = 1/2, and included angle ∠B = ∠E = 50°. Since two pairs of sides are proportional and included angles are equal, the triangles are similar by SAS similarity criterion. Option 'congruent by SAS' is wrong because sides are not equal (only proportional). Option 'neither similar nor congruent' is wrong because SAS similarity clearly holds. Option 'AA criterion' is wrong because we aren't given two pairs of angles."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Two triangles with equal areas are always congruent.\n(ii) Two congruent triangles always have equal areas.\n(iii) If two triangles are similar with ratio 1:1, they are congruent.\n(iv) Two equilateral triangles are always similar.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) Incorrect: Two triangles can have equal areas without being congruent (e.g., different shapes with same area). (ii) Correct: Congruent triangles are identical, so they have equal areas. (iii) Correct: If similarity ratio is 1:1, all corresponding sides are equal, making them congruent. (iv) Correct: All equilateral triangles have angles 60°-60°-60°, so they are always similar (by AA). Option 'all four' includes incorrect (i). Option '(i), (ii) and (iii) only' includes incorrect (i) and misses correct (iv). Option '(i) and (iv) only' includes incorrect (i) and misses correct (ii) and (iii)."
+    }
+  ]
+}

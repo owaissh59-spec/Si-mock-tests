@@ -1,0 +1,657 @@
+{
+  "subject": "F",
+  "topic": "Windows OS, Explorer & Keyboard Shortcuts",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "Which keyboard shortcut is used to open File Explorer directly in Windows?",
+      "options": [
+        "Win + E",
+        "Win + F",
+        "Ctrl + E",
+        "Alt + E"
+      ],
+      "correctAnswer": "Win + E",
+      "explanation": "Win + E is the dedicated shortcut to launch File Explorer (Windows Explorer) in all modern versions of Windows. Win + F is wrong because it opens the Feedback Hub (or Search in older versions). Ctrl + E is wrong because within Explorer it focuses the search bar, but does not open Explorer. Alt + E is wrong because it is not a standard Windows shortcut for opening Explorer."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Windows Taskbar:\n\n(i) The Taskbar displays currently open applications and pinned programs.\n(ii) The System Tray (Notification Area) is located on the left side of the Taskbar by default.\n(iii) The Taskbar can be moved to any edge of the screen in Windows 10.\n(iv) Right-clicking the Taskbar provides access to Task Manager.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — the Taskbar shows running applications and allows pinning frequently used programs. (iii) is correct — in Windows 10, the Taskbar can be repositioned to the top, bottom, left, or right edge of the screen via Taskbar settings. (iv) is correct — right-clicking the Taskbar shows a context menu that includes the option to open Task Manager. (ii) is wrong because the System Tray (Notification Area) is located on the right side of the Taskbar by default, not the left."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "The keyboard shortcut Ctrl + Z is used to:",
+      "options": [
+        "Redo the last action",
+        "Close the current window",
+        "Undo the last action",
+        "Zoom in on the screen"
+      ],
+      "correctAnswer": "Undo the last action",
+      "explanation": "Ctrl + Z is the universal Windows shortcut for undoing the most recent action in most applications. Redo the last action is wrong because Ctrl + Y is used for redo. Close the current window is wrong because Alt + F4 closes a window. Zoom in on the screen is wrong because Ctrl + Plus (+) or the magnifier tool is used for zooming."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Recycle Bin stores deleted files temporarily before permanent deletion.\nReason (R): Files deleted using Shift + Delete bypass the Recycle Bin and are permanently deleted.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — the Recycle Bin holds files deleted by the normal Delete key until the bin is emptied or files are restored. (R) is correct — Shift + Delete permanently removes files without sending them to the Recycle Bin. However, (R) does not explain why the Recycle Bin stores files temporarily; it describes an alternative deletion method. The reason the Recycle Bin stores files is to provide a safety net for accidental deletions, not because of Shift + Delete."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Which of the following are valid file systems supported by Windows?\n\n(i) NTFS\n(ii) FAT32\n(iii) ext4\n(iv) exFAT\n\nSelect the correct answer:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iv)",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) NTFS is correct — it is the default modern file system for Windows with support for large files, permissions, and encryption. (ii) FAT32 is correct — Windows supports FAT32 for backward compatibility with USB drives and older devices. (iv) exFAT is correct — Windows supports exFAT for flash drives and external storage with large file support. (iii) ext4 is wrong because ext4 is a Linux file system and is not natively supported by Windows for reading or writing."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "Match the following keyboard shortcuts in Column I with their functions in Column II:\n\nColumn I:\n(a) Alt + Tab\n(b) Win + D\n(c) Win + L\n(d) Alt + F4\n\nColumn II:\n(i) Lock the computer\n(ii) Show/hide desktop\n(iii) Close current window\n(iv) Switch between open windows",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Alt + Tab switches between open application windows (iv). Win + D toggles showing/hiding the desktop by minimizing all windows (ii). Win + L locks the computer and shows the lock screen (i). Alt + F4 closes the currently active window or application (iii). The other options incorrectly pair these well-known shortcuts with wrong functions."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "The __________ in Windows File Explorer shows the full path of the current folder location and allows users to type a path directly.",
+      "options": [
+        "Navigation Pane",
+        "Status Bar",
+        "Search Box",
+        "Address Bar"
+      ],
+      "correctAnswer": "Address Bar",
+      "explanation": "The Address Bar in File Explorer displays the current folder path in breadcrumb format and allows users to click on any part of the path or type a full path to navigate directly. Navigation Pane is wrong because it is the left-side panel showing folder tree, drives, and Quick Access. Search Box is wrong because it is used to search for files within the current location. Status Bar is wrong because it is at the bottom showing item count and view options."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "Consider the following statements about Windows Task Manager:\n\n(i) It can be opened using the keyboard shortcut Ctrl + Shift + Esc.\n(ii) It displays running processes and their resource usage.\n(iii) It allows users to end unresponsive programs.\n(iv) It can only be accessed through the Start Menu.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Ctrl + Shift + Esc directly opens Task Manager. (ii) is correct — Task Manager shows all running processes, apps, and background tasks with CPU, memory, disk, and network usage. (iii) is correct — users can select an unresponsive program and click 'End Task' to force close it. (iv) is wrong because Task Manager can be accessed through multiple methods: Ctrl + Shift + Esc, Ctrl + Alt + Delete screen, right-clicking the Taskbar, or the Start Menu."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "Which Windows feature allows users to view two application windows side by side by dragging a window to the edge of the screen?",
+      "options": [
+        "Task View",
+        "Snap Assist",
+        "Virtual Desktop",
+        "Action Center"
+      ],
+      "correctAnswer": "Snap Assist",
+      "explanation": "Snap Assist allows users to snap windows to halves or quarters of the screen by dragging them to the edges or using Win + Arrow keys, enabling side-by-side multitasking. Task View is wrong because it shows all open windows and virtual desktops as thumbnails for switching. Virtual Desktop is wrong because it creates separate desktop workspaces, not side-by-side arrangements. Action Center is wrong because it is the notification panel showing alerts and quick settings."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): NTFS is the preferred file system for Windows system drives over FAT32.\nReason (R): NTFS supports file-level permissions, encryption, and files larger than 4 GB.\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — NTFS is the default and preferred file system for the Windows operating system partition. (R) is correct — NTFS supports security features like file/folder permissions (ACLs), BitLocker encryption, journaling, and handles files larger than 4 GB (FAT32 has a 4 GB file size limit). (R) is the correct explanation because these advanced features are precisely why NTFS is preferred over FAT32 for system drives."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "The keyboard shortcut Win + R is used to:",
+      "options": [
+        "Refresh the desktop",
+        "Open the Run dialog box",
+        "Open the Settings app",
+        "Record the screen"
+      ],
+      "correctAnswer": "Open the Run dialog box",
+      "explanation": "Win + R opens the Run dialog box, which allows users to type commands like 'cmd', 'notepad', 'regedit', or file paths to quickly launch programs. Refresh the desktop is wrong because F5 refreshes. Open the Settings app is wrong because Win + I opens Settings. Record the screen is wrong because Win + G opens the Game Bar for recording."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "Which of the following are functions of the Windows Action Center?\n\n(i) Displays system notifications and alerts\n(ii) Provides quick access to settings like Wi-Fi, Bluetooth, and brightness\n(iii) Allows creating new virtual desktops\n(iv) Shows recent notifications from apps\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — Action Center collects and displays system notifications like updates, security alerts, and maintenance messages. (ii) is correct — the lower portion of Action Center has Quick Action tiles for toggling Wi-Fi, Bluetooth, brightness, Airplane mode, etc. (iv) is correct — app notifications from email, messaging apps, and other programs appear in the Action Center. (iii) is wrong because creating virtual desktops is done through Task View (Win + Tab), not Action Center."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "In Windows File Explorer, what does the F2 key do when a file is selected?",
+      "options": [
+        "Deletes the file",
+        "Opens the file properties",
+        "Renames the file",
+        "Copies the file"
+      ],
+      "correctAnswer": "Renames the file",
+      "explanation": "Pressing F2 with a file or folder selected activates the rename mode, allowing the user to type a new name. Deletes the file is wrong because the Delete key is used for deletion. Opens the file properties is wrong because Alt + Enter opens properties. Copies the file is wrong because Ctrl + C copies."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "Match the following Windows components in Column I with their descriptions in Column II:\n\nColumn I:\n(a) Control Panel\n(b) Settings App\n(c) Device Manager\n(d) System Properties\n\nColumn II:\n(i) Modern interface for configuring Windows 10/11 preferences\n(ii) Shows computer name, domain, workgroup, and Windows activation status\n(iii) Legacy interface with detailed system configuration categories\n(iv) Lists and manages hardware drivers and connected devices",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Control Panel is the legacy (classic) interface with detailed configuration categories like Network, Programs, Hardware etc. (iii). Settings App is the modern Windows 10/11 interface for system preferences (i). Device Manager lists all hardware devices and their drivers, allowing updates, disabling, or troubleshooting (iv). System Properties displays the computer name, workgroup/domain info, and Windows activation status (ii)."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "What happens when you press Ctrl + Shift + Esc on a Windows computer?",
+      "options": [
+        "Opens the System Configuration utility",
+        "Opens the Control Panel",
+        "Locks the computer screen",
+        "Opens Task Manager directly"
+      ],
+      "correctAnswer": "Opens Task Manager directly",
+      "explanation": "Ctrl + Shift + Esc is the direct keyboard shortcut to open Task Manager without any intermediate screen. Opens the System Configuration utility is wrong because 'msconfig' in Run opens System Configuration. Locks the computer screen is wrong because Win + L locks the screen. Opens the Control Panel is wrong because there is no single shortcut; it is accessed via Start Menu or Run command 'control'."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "Consider the following statements about Quick Access in Windows File Explorer:\n\n(i) Quick Access shows frequently used folders and recently opened files.\n(ii) Users can pin specific folders to Quick Access.\n(iii) Quick Access replaced 'My Computer' as the default opening view in Windows 10.\n(iv) Quick Access can only display a maximum of 5 folders.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i) and (ii) only",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Quick Access automatically shows frequently accessed folders and recent files for quick navigation. (ii) is correct — users can right-click any folder and select 'Pin to Quick Access' to keep it permanently visible there. (iii) is correct — in Windows 10, File Explorer opens to Quick Access by default (instead of 'This PC'/'My Computer'). (iv) is wrong because Quick Access can display many more than 5 folders; there is no hard limit of 5 pinned items."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "The keyboard shortcut used to select all items in a window or document is:",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + A",
+        "Ctrl + E",
+        "Ctrl + D"
+      ],
+      "correctAnswer": "Ctrl + A",
+      "explanation": "Ctrl + A selects all items in the current context — all files in a folder, all text in a document, etc. Ctrl + S is wrong because it saves the current document. Ctrl + E is wrong because it opens the search bar in File Explorer or centers text in some applications. Ctrl + D is wrong because it deletes selected items in Explorer or adds a bookmark in browsers."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Windows allows users to create multiple virtual desktops.\nReason (R): Virtual desktops help organize work by grouping different sets of open applications on separate desktops.\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Windows 10 and later allow creating multiple virtual desktops through Task View (Win + Tab) or Win + Ctrl + D. (R) is correct — the purpose of virtual desktops is to organize workflows, such as having one desktop for work apps and another for personal apps. (R) explains (A) because the organizational benefit is the reason Windows provides the virtual desktop feature."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "Which of the following file extensions represents an executable program in Windows?",
+      "options": [
+        ".txt",
+        ".exe",
+        ".pdf",
+        ".jpg"
+      ],
+      "correctAnswer": ".exe",
+      "explanation": ".exe stands for 'executable' and is the standard file extension for programs and applications that can be run directly in Windows. .txt is wrong because it is a plain text file. .pdf is wrong because it is a Portable Document Format file for documents. .jpg is wrong because it is an image format file."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "Match the following file operations in Column I with their keyboard shortcuts in Column II:\n\nColumn I:\n(a) Copy\n(b) Cut\n(c) Paste\n(d) Undo\n\nColumn II:\n(i) Ctrl + V\n(ii) Ctrl + X\n(iii) Ctrl + Z\n(iv) Ctrl + C",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Copy = Ctrl + C (iv), Cut = Ctrl + X (ii), Paste = Ctrl + V (i), Undo = Ctrl + Z (iii). These are fundamental editing shortcuts used across all Windows applications. The other options mix up the pairings incorrectly."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Windows Start Menu:\n\n(i) It provides access to installed applications and system settings.\n(ii) It includes a power button for Shut Down, Restart, and Sleep options.\n(iii) In Windows 10, the Start Menu combines a traditional app list with live tiles.\n(iv) The Start Menu can only be opened by clicking the Start button with the mouse.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the Start Menu is the primary gateway to all installed programs, system settings, and user account options. (ii) is correct — the power button within the Start Menu offers Shut Down, Restart, Sleep, and sometimes Hibernate options. (iii) is correct — Windows 10 redesigned the Start Menu to include both the alphabetical app list and customizable live tiles. (iv) is wrong because the Start Menu can also be opened by pressing the Windows key on the keyboard."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "What is the function of the Print Screen (PrtScn) key in Windows?",
+      "options": [
+        "Prints the current document",
+        "Opens the printer settings",
+        "Captures a screenshot of the entire screen to the clipboard",
+        "Saves a screenshot directly to the Pictures folder"
+      ],
+      "correctAnswer": "Captures a screenshot of the entire screen to the clipboard",
+      "explanation": "The Print Screen key captures an image of the entire screen and copies it to the clipboard, which can then be pasted into an image editor or document. Prints the current document is wrong because Ctrl + P is used to print. Opens the printer settings is wrong because PrtScn has nothing to do with printer configuration. Saves a screenshot directly to the Pictures folder is wrong because that requires Win + PrtScn (the additional Win key modifier), not PrtScn alone."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "Which of the following are ways to create a shortcut to a file or folder in Windows?\n\n(i) Right-click the item and select 'Create shortcut'\n(ii) Right-click on desktop, select New > Shortcut, and browse to the target\n(iii) Drag the item with the right mouse button and select 'Create shortcuts here'\n(iv) Press Ctrl + K on the selected file\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — right-clicking any file or folder shows a 'Create shortcut' option in the context menu. (ii) is correct — right-clicking the desktop and choosing New > Shortcut opens a wizard to browse and create a shortcut to any target. (iii) is correct — right-dragging a file and releasing shows a menu with 'Create shortcuts here'. (iv) is wrong because Ctrl + K is not a Windows shortcut for creating file shortcuts; it is typically used for inserting hyperlinks in some applications."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "The __________ feature in Windows 10 allows users to access notifications and quick settings like Wi-Fi, Bluetooth, and Night Light from a slide-out panel.",
+      "options": [
+        "Task View",
+        "Start Menu",
+        "Action Center",
+        "Control Panel"
+      ],
+      "correctAnswer": "Action Center",
+      "explanation": "Action Center is a slide-out panel on the right side of the screen that displays notifications and provides Quick Action buttons for toggling Wi-Fi, Bluetooth, Night Light, Airplane mode, etc. Task View is wrong because it shows virtual desktops and open app windows. Start Menu is wrong because it provides access to apps and power options. Control Panel is wrong because it is a legacy settings interface, not a notification panel."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "In Windows, what is the maximum file size supported by the FAT32 file system?",
+      "options": [
+        "2 GB",
+        "4 GB",
+        "8 GB",
+        "16 GB"
+      ],
+      "correctAnswer": "4 GB",
+      "explanation": "FAT32 has a maximum individual file size limit of 4 GB (specifically 4 GB minus 1 byte). This is a well-known limitation that makes FAT32 unsuitable for large video files or disk images. 2 GB is wrong as that was the limit for FAT16. 8 GB and 16 GB are wrong as they exceed FAT32's actual file size limit."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Pressing F5 in Windows refreshes the current window or desktop.\nReason (R): F5 is a universal refresh key that reloads content in browsers, File Explorer, and the desktop.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — pressing F5 refreshes the current active window, whether it is the desktop, File Explorer, or a web browser. (R) is correct — F5 serves as a standard refresh/reload key across multiple Windows applications including browsers (reloads page), Explorer (refreshes folder view), and desktop (refreshes icons). (R) explains (A) because the universal nature of F5 as a refresh key is why it works for refreshing the current window."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "Which of the following is NOT a valid way to open the Control Panel in Windows 10?",
+      "options": [
+        "Press Win + C",
+        "Type 'control' in the Run dialog (Win + R)",
+        "Type 'Control Panel' in the Start Menu search",
+        "Search for it in the Settings app"
+      ],
+      "correctAnswer": "Press Win + C",
+      "explanation": "Win + C does not open the Control Panel; in Windows 10, it opens Cortana in listening mode (if enabled), and in Windows 11 it opens Microsoft Teams chat. Typing 'Control Panel' in Start Menu search is valid — it appears in search results. Typing 'control' in the Run dialog is valid — it directly launches Control Panel. Searching in the Settings app is valid — typing 'Control Panel' in Windows Settings search shows a link to it."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "Consider the following statements about file extensions in Windows:\n\n(i) .docx represents a Microsoft Word document.\n(ii) .xlsx represents a Microsoft Excel spreadsheet.\n(iii) .pptx represents a Microsoft Access database.\n(iv) File extensions are hidden by default in Windows File Explorer.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — .docx is the extension for Microsoft Word documents (the 'x' indicates the XML-based format). (ii) is correct — .xlsx is the extension for Microsoft Excel spreadsheets. (iv) is correct — by default, Windows hides known file extensions in File Explorer; users must enable 'File name extensions' in the View tab to see them. (iii) is wrong because .pptx represents a Microsoft PowerPoint presentation, not an Access database (Access uses .accdb or .mdb)."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "The keyboard shortcut to permanently delete a file (bypassing the Recycle Bin) in Windows is:",
+      "options": [
+        "Ctrl + Delete",
+        "Alt + Delete",
+        "Shift + Delete",
+        "Win + Delete"
+      ],
+      "correctAnswer": "Shift + Delete",
+      "explanation": "Shift + Delete permanently deletes the selected file(s) without sending them to the Recycle Bin. A confirmation dialog appears before permanent deletion. Ctrl + Delete is wrong because it is not a standard file deletion shortcut (in text editing, it deletes the word after the cursor). Alt + Delete is wrong because it is not a recognized Windows shortcut for deletion. Win + Delete is wrong because it is not a standard Windows shortcut."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "Match the following Windows versions in Column I with their notable features in Column II:\n\nColumn I:\n(a) Windows XP\n(b) Windows 7\n(c) Windows 8\n(d) Windows 10\n\nColumn II:\n(i) Introduced live tiles and removed the traditional Start Menu\n(ii) Introduced the Start Menu with live tiles and virtual desktops\n(iii) Known for its blue-green Luna theme and high stability\n(iv) Introduced Aero interface with Snap and improved Taskbar",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Windows XP was known for the blue-green Luna theme and exceptional stability (iii). Windows 7 introduced the Aero glass interface, Snap feature for window management, and an improved Taskbar with jump lists (iv). Windows 8 introduced the Metro/Modern UI with live tiles and controversially removed the traditional Start Menu (i). Windows 10 brought back the Start Menu combining traditional list with live tiles and added virtual desktops feature (ii)."
+    },
+    {
+      "id": "31",
+      "subject": "F",
+      "questionText": "What does the Windows keyboard shortcut Win + I open?",
+      "options": [
+        "Internet Explorer",
+        "System Information",
+        "Windows Settings",
+        "File Inspector"
+      ],
+      "correctAnswer": "Windows Settings",
+      "explanation": "Win + I opens the Windows Settings app, which is the modern interface for configuring system preferences including display, network, accounts, updates, etc. Internet Explorer is wrong because there is no dedicated shortcut Win + I for it. System Information is wrong because 'msinfo32' in Run opens it. File Inspector is wrong because no such feature exists with this shortcut."
+    },
+    {
+      "id": "32",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Windows Desktop:\n\n(i) Desktop icons can be arranged by name, size, type, or date modified.\n(ii) The desktop wallpaper can be changed through Personalization settings.\n(iii) Right-clicking the desktop provides options like View, Sort by, and New.\n(iv) The desktop cannot display any widgets or gadgets.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — right-clicking the desktop and selecting 'Sort by' allows arranging icons by Name, Size, Item type, or Date modified. (ii) is correct — wallpaper can be changed via right-click > Personalize or Settings > Personalization > Background. (iii) is correct — the desktop right-click context menu includes View (icon size), Sort by, New (folder, shortcut, etc.), and other options. (iv) is wrong because Windows 7 had desktop gadgets, and Windows 11 reintroduced Widgets as a feature."
+    },
+    {
+      "id": "33",
+      "subject": "F",
+      "questionText": "Which of the following are features of Windows File Explorer's Navigation Pane?\n\n(i) Shows Quick Access pinned folders\n(ii) Displays available drives under 'This PC'\n(iii) Provides access to Network locations\n(iv) Allows direct editing of system registry\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the Navigation Pane shows Quick Access at the top with pinned and frequently accessed folders. (ii) is correct — 'This PC' in the Navigation Pane expands to show all local drives (C:, D:, etc.) and removable drives. (iii) is correct — the Navigation Pane includes a 'Network' section showing available network computers and shared folders. (iv) is wrong because the system registry is edited through the Registry Editor (regedit), not through File Explorer's Navigation Pane."
+    },
+    {
+      "id": "34",
+      "subject": "F",
+      "questionText": "The keyboard shortcut Ctrl + P is used to:",
+      "options": [
+        "Paste content from clipboard",
+        "Open Properties of a file",
+        "Pin a program to Taskbar",
+        "Open the Print dialog"
+      ],
+      "correctAnswer": "Open the Print dialog",
+      "explanation": "Ctrl + P opens the Print dialog in most Windows applications, allowing users to select a printer and configure print settings. Paste content from clipboard is wrong because Ctrl + V is used for pasting. Pin a program to Taskbar is wrong because pinning is done by right-clicking and selecting 'Pin to Taskbar'. Open Properties of a file is wrong because Alt + Enter opens file properties in Explorer."
+    },
+    {
+      "id": "35",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): User Account Control (UAC) in Windows displays a prompt when programs try to make changes to the system.\nReason (R): UAC is a security feature that prevents unauthorized software from making system-level modifications without the user's consent.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — UAC displays a dimmed screen with a permission prompt whenever a program attempts to make changes that require administrator-level access. (R) is correct — UAC is designed as a security mechanism to ensure that system modifications only occur with explicit user approval. (R) correctly explains (A) because the security purpose of preventing unauthorized changes is the reason UAC shows the prompt."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "In Windows File Explorer, what does the Ctrl + F shortcut do?",
+      "options": [
+        "Creates a new folder",
+        "Opens the Find/Search box",
+        "Opens File properties",
+        "Moves the file to a folder"
+      ],
+      "correctAnswer": "Opens the Find/Search box",
+      "explanation": "Ctrl + F activates the search/find functionality in most Windows applications, including File Explorer where it focuses the search box to find files and folders. Creates a new folder is wrong because Ctrl + Shift + N creates a new folder in Explorer. Opens File properties is wrong because Alt + Enter opens properties. Moves the file to a folder is wrong because there is no such shortcut for moving."
+    },
+    {
+      "id": "37",
+      "subject": "F",
+      "questionText": "Which utility in Windows allows users to view and manage startup programs, services, and boot configuration?",
+      "options": [
+        "Registry Editor",
+        "System Configuration (msconfig)",
+        "Disk Management",
+        "Computer Management"
+      ],
+      "correctAnswer": "System Configuration (msconfig)",
+      "explanation": "System Configuration (accessed by typing 'msconfig' in Run) provides tabs for managing Boot options, Services, Startup items, and system tools. Registry Editor is wrong because it edits the Windows registry directly but is not designed as a startup management tool. Disk Management is wrong because it manages disk partitions and volumes. Computer Management is wrong because while it contains various system tools, msconfig is the specific utility designed for startup and boot configuration."
+    },
+    {
+      "id": "38",
+      "subject": "F",
+      "questionText": "Consider the following statements about sorting files in Windows File Explorer:\n\n(i) Files can be sorted by Name, Date modified, Type, and Size.\n(ii) Clicking a column header toggles between ascending and descending order.\n(iii) Sorting can only be done in the Details view.\n(iv) Files can be grouped by any column attribute.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — File Explorer supports sorting by Name, Date modified, Type, Size, and other attributes. (ii) is correct — clicking a column header sorts by that column, and clicking again reverses the order (ascending/descending). (iv) is correct — right-clicking in the file area allows 'Group by' any attribute like Name, Date, Type, or Size. (iii) is wrong because sorting is available in all views (Icons, List, Details, Tiles) through the View > Sort by menu or right-click context menu, not just Details view."
+    },
+    {
+      "id": "39",
+      "subject": "F",
+      "questionText": "The keyboard shortcut Win + S is used to:",
+      "options": [
+        "Open Windows Search",
+        "Take a screenshot",
+        "Open System Settings",
+        "Put the computer to Sleep"
+      ],
+      "correctAnswer": "Open Windows Search",
+      "explanation": "Win + S opens the Windows Search interface where users can search for apps, files, settings, and web results. Open System Settings is wrong because Win + I opens Settings. Take a screenshot is wrong because PrtScn or Win + Shift + S is used for screenshots. Put the computer to Sleep is wrong because there is no keyboard shortcut Win + S for sleep; sleep is accessed through the Start Menu power options."
+    },
+    {
+      "id": "40",
+      "subject": "F",
+      "questionText": "Match the following Windows features in Column I with their purposes in Column II:\n\nColumn I:\n(a) Recycle Bin\n(b) Task Manager\n(c) Device Manager\n(d) Disk Cleanup\n\nColumn II:\n(i) Monitors running processes and system performance\n(ii) Temporarily stores deleted files for possible recovery\n(iii) Removes temporary files to free up disk space\n(iv) Manages hardware devices and their drivers",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Recycle Bin temporarily stores deleted files allowing recovery (ii). Task Manager monitors running processes, applications, and system performance metrics like CPU/memory usage (i). Device Manager lists hardware components and their drivers for management and troubleshooting (iv). Disk Cleanup scans for and removes temporary files, cached data, and other unnecessary files to free disk space (iii)."
+    },
+    {
+      "id": "41",
+      "subject": "F",
+      "questionText": "What is the default location where screenshots are saved when pressing Win + PrtScn in Windows?",
+      "options": [
+        "Pictures > Screenshots folder",
+        "Documents folder",
+        "Desktop",
+        "Downloads folder"
+      ],
+      "correctAnswer": "Pictures > Screenshots folder",
+      "explanation": "When Win + PrtScn is pressed, Windows captures the entire screen and automatically saves the screenshot as a PNG file in the Pictures > Screenshots folder. Desktop is wrong because screenshots are not saved there by default. Documents folder is wrong because it is not the default save location. Downloads folder is wrong because it is meant for downloaded files from the internet."
+    },
+    {
+      "id": "42",
+      "subject": "F",
+      "questionText": "Which of the following are types of user accounts available in Windows 10?\n\n(i) Administrator account\n(ii) Standard user account\n(iii) Guest account\n(iv) Root account\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Administrator accounts have full control over the system and can install software, change settings, and manage other users. (ii) is correct — Standard user accounts can use the computer but cannot make system-wide changes without administrator approval. (iii) is correct — Guest account provides temporary limited access without requiring a password (though disabled by default in Windows 10). (iv) is wrong because 'Root account' is a Linux/Unix concept, not a Windows user account type."
+    },
+    {
+      "id": "43",
+      "subject": "F",
+      "questionText": "The Ctrl + Alt + Delete key combination in Windows provides access to:",
+      "options": [
+        "Only the Task Manager",
+        "The BIOS setup",
+        "A security screen with options including Lock, Switch User, Sign Out, and Task Manager",
+        "The Windows Recovery Environment"
+      ],
+      "correctAnswer": "A security screen with options including Lock, Switch User, Sign Out, and Task Manager",
+      "explanation": "Ctrl + Alt + Delete in Windows brings up a security screen (also called the Windows Security screen) with options to Lock the PC, Switch User, Sign Out, Change Password, and open Task Manager. Only the Task Manager is wrong because Ctrl + Shift + Esc opens Task Manager directly; Ctrl + Alt + Del shows multiple options. The BIOS setup is wrong because BIOS is accessed during boot (usually F2, Del, or F12 depending on manufacturer). The Windows Recovery Environment is wrong because it is accessed through special boot methods."
+    },
+    {
+      "id": "44",
+      "subject": "F",
+      "questionText": "Consider the following statements about Windows Snap features:\n\n(i) Dragging a window to the left or right edge snaps it to half the screen.\n(ii) Win + Left Arrow snaps the current window to the left half.\n(iii) Dragging a window to a corner snaps it to a quarter of the screen.\n(iv) Snap feature was first introduced in Windows XP.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — dragging a window to the left or right screen edge triggers Snap and resizes the window to occupy half the screen. (ii) is correct — Win + Left Arrow is the keyboard shortcut equivalent of dragging to the left edge. (iii) is correct — in Windows 10 and later, dragging to a screen corner snaps the window to one quarter of the display. (iv) is wrong because the Snap feature was first introduced in Windows 7, not Windows XP."
+    },
+    {
+      "id": "45",
+      "subject": "F",
+      "questionText": "What is the purpose of the Ctrl + S keyboard shortcut in Windows applications?",
+      "options": [
+        "Save the current file or document",
+        "Open the Search function",
+        "Select all text",
+        "Switch between open applications"
+      ],
+      "correctAnswer": "Save the current file or document",
+      "explanation": "Ctrl + S is the universal Save shortcut in Windows applications, saving the current state of a file or document to disk. Select all text is wrong because Ctrl + A selects all. Open the Search function is wrong because Ctrl + F opens Find/Search. Switch between open applications is wrong because Alt + Tab switches between apps."
+    },
+    {
+      "id": "46",
+      "subject": "F",
+      "questionText": "In Windows, which of the following correctly describes the difference between 'Settings' and 'Control Panel'?",
+      "options": [
+        "Settings is for advanced users while Control Panel is for beginners",
+        "Settings is the modern interface for common tasks while Control Panel is the legacy interface with more detailed options",
+        "Control Panel was removed completely in Windows 10",
+        "Settings and Control Panel are two names for the same application"
+      ],
+      "correctAnswer": "Settings is the modern interface for common tasks while Control Panel is the legacy interface with more detailed options",
+      "explanation": "Settings (introduced in Windows 8, expanded in Windows 10) is the modern, simplified interface for everyday configuration, while Control Panel is the traditional interface with detailed administrative tools and applets from older Windows versions. Settings is for advanced users while Control Panel is for beginners is wrong because it's the opposite — Control Panel offers more advanced/granular control. Control Panel was removed completely in Windows 10 is wrong because Control Panel still exists in Windows 10/11. They are the same application is wrong because they are separate utilities with different interfaces."
+    },
+    {
+      "id": "47",
+      "subject": "F",
+      "questionText": "Which built-in Windows feature allows users to compress files into a ZIP archive without installing third-party software?",
+      "options": [
+        "Disk Cleanup",
+        "Send to > Compressed (zipped) folder",
+        "File History",
+        "Storage Sense"
+      ],
+      "correctAnswer": "Send to > Compressed (zipped) folder",
+      "explanation": "Windows has built-in ZIP support accessed by right-clicking files and selecting 'Send to > Compressed (zipped) folder', which creates a .zip archive without needing WinRAR or 7-Zip. Disk Cleanup is wrong because it removes temporary files to free space, not compress files into archives. File History is wrong because it creates backup copies of files, not compressed archives. Storage Sense is wrong because it automatically frees disk space by deleting temporary files, not by compressing user files."
+    },
+    {
+      "id": "48",
+      "subject": "F",
+      "questionText": "The keyboard shortcut to open a new File Explorer window is:",
+      "options": [
+        "Win + N",
+        "Ctrl + Shift + N",
+        "Ctrl + N (when File Explorer is active)",
+        "Alt + N"
+      ],
+      "correctAnswer": "Ctrl + N (when File Explorer is active)",
+      "explanation": "Ctrl + N opens a new window of the currently active application. When File Explorer is focused, it opens a new Explorer window at the same location. Ctrl + Shift + N is wrong because it creates a new folder within the current Explorer location. Win + N is wrong because it opens the Notification Center (Windows 11) or has no function. Alt + N is wrong because it is not a standard shortcut for opening new windows."
+    },
+    {
+      "id": "49",
+      "subject": "F",
+      "questionText": "Which of the following statements about the Windows Recycle Bin is correct?",
+      "options": [
+        "Files deleted from a USB flash drive go to the Recycle Bin",
+        "The Recycle Bin has a fixed size that cannot be changed",
+        "Files in the Recycle Bin still occupy disk space",
+        "Emptying the Recycle Bin moves files to a hidden archive folder"
+      ],
+      "correctAnswer": "Files in the Recycle Bin still occupy disk space",
+      "explanation": "Files moved to the Recycle Bin are not truly deleted — they remain on the disk and continue to consume storage space until the Recycle Bin is emptied. Files deleted from a USB flash drive go to the Recycle Bin is wrong because files deleted from removable/external drives are permanently deleted immediately. The Recycle Bin has a fixed size that cannot be changed is wrong because users can configure the maximum size through Recycle Bin Properties. Emptying the Recycle Bin moves files to a hidden archive folder is wrong because emptying permanently deletes the files from disk."
+    },
+    {
+      "id": "50",
+      "subject": "F",
+      "questionText": "In Windows, what is the function of the 'Open with' option when right-clicking a file?",
+      "options": [
+        "It permanently changes the file extension",
+        "It moves the file to another folder",
+        "It allows choosing a different application to open the file",
+        "It creates a backup copy of the file"
+      ],
+      "correctAnswer": "It allows choosing a different application to open the file",
+      "explanation": "'Open with' lets users select an alternative program to open a file, either for one time or as the new default for that file type. It permanently changes the file extension is wrong because 'Open with' does not modify the file extension at all. It moves the file to another folder is wrong because the file stays in its original location. It creates a backup copy of the file is wrong because 'Open with' simply opens the file in a different program without creating copies."
+    }
+  ]
+}

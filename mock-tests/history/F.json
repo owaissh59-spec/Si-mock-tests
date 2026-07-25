@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 100,
+  "count": 150,
   "questions": [
     {
       "test": 6,
@@ -502,6 +502,256 @@
       "test": 12,
       "stem": "which cpu register holds the address of the memory location from which",
       "key": "Memory Address Register (MAR)"
+    },
+    {
+      "test": 18,
+      "stem": "which keyboard shortcut is used to open file explorer directly in windows?",
+      "key": "Win + E"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about the windows taskbar: (i) the taskbar displays",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut ctrl + z is used to:",
+      "key": "Undo the last action"
+    },
+    {
+      "test": 18,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following are valid file systems supported by windows? (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 18,
+      "stem": "match the following keyboard shortcuts in column i with their functions in",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 18,
+      "stem": "the __________ in windows file explorer shows the full path of the",
+      "key": "Address Bar"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about windows task manager: (i) it can be",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "which windows feature allows users to view two application windows side by",
+      "key": "Snap Assist"
+    },
+    {
+      "test": 18,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut win + r is used to:",
+      "key": "Open the Run dialog box"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following are functions of the windows action center? (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 18,
+      "stem": "in windows file explorer, what does the f2 key do when a",
+      "key": "Renames the file"
+    },
+    {
+      "test": 18,
+      "stem": "match the following windows components in column i with their descriptions in",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 18,
+      "stem": "what happens when you press ctrl + shift + esc on a",
+      "key": "Opens Task Manager directly"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about quick access in windows file explorer: (i)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut used to select all items in a window or",
+      "key": "Ctrl + A"
+    },
+    {
+      "test": 18,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following file extensions represents an executable program in windows?",
+      "key": ".exe"
+    },
+    {
+      "test": 18,
+      "stem": "match the following file operations in column i with their keyboard shortcuts",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about the windows start menu: (i) it provides",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "what is the function of the print screen (prtscn) key in windows?",
+      "key": "Captures a screenshot of the entire screen to the clipboard"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following are ways to create a shortcut to a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "the __________ feature in windows 10 allows users to access notifications and",
+      "key": "Action Center"
+    },
+    {
+      "test": 18,
+      "stem": "in windows, what is the maximum file size supported by the fat32",
+      "key": "4 GB"
+    },
+    {
+      "test": 18,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following is not a valid way to open the",
+      "key": "Press Win + C"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about file extensions in windows: (i) .docx represents",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut to permanently delete a file (bypassing the recycle bin)",
+      "key": "Shift + Delete"
+    },
+    {
+      "test": 18,
+      "stem": "match the following windows versions in column i with their notable features",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 18,
+      "stem": "what does the windows keyboard shortcut win + i open?",
+      "key": "Windows Settings"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about the windows desktop: (i) desktop icons can",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following are features of windows file explorer's navigation pane?",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut ctrl + p is used to:",
+      "key": "Open the Print dialog"
+    },
+    {
+      "test": 18,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 18,
+      "stem": "in windows file explorer, what does the ctrl + f shortcut do?",
+      "key": "Opens the Find/Search box"
+    },
+    {
+      "test": 18,
+      "stem": "which utility in windows allows users to view and manage startup programs,",
+      "key": "System Configuration (msconfig)"
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about sorting files in windows file explorer: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut win + s is used to:",
+      "key": "Open Windows Search"
+    },
+    {
+      "test": 18,
+      "stem": "match the following windows features in column i with their purposes in",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 18,
+      "stem": "what is the default location where screenshots are saved when pressing win",
+      "key": "Pictures > Screenshots folder"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following are types of user accounts available in windows",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "the ctrl + alt + delete key combination in windows provides access",
+      "key": "A security screen with options including Lock, Switch User, Sign Out, and Tas..."
+    },
+    {
+      "test": 18,
+      "stem": "consider the following statements about windows snap features: (i) dragging a window",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 18,
+      "stem": "what is the purpose of the ctrl + s keyboard shortcut in",
+      "key": "Save the current file or document"
+    },
+    {
+      "test": 18,
+      "stem": "in windows, which of the following correctly describes the difference between 'settings'",
+      "key": "Settings is the modern interface for common tasks while Control Panel is the ..."
+    },
+    {
+      "test": 18,
+      "stem": "which built-in windows feature allows users to compress files into a zip",
+      "key": "Send to > Compressed (zipped) folder"
+    },
+    {
+      "test": 18,
+      "stem": "the keyboard shortcut to open a new file explorer window is:",
+      "key": "Ctrl + N (when File Explorer is active)"
+    },
+    {
+      "test": 18,
+      "stem": "which of the following statements about the windows recycle bin is correct?",
+      "key": "Files in the Recycle Bin still occupy disk space"
+    },
+    {
+      "test": 18,
+      "stem": "in windows, what is the function of the 'open with' option when",
+      "key": "It allows choosing a different application to open the file"
     }
   ]
 }

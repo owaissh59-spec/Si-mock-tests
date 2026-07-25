@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 80,
+  "count": 120,
   "questions": [
     {
       "test": 5,
@@ -402,6 +402,206 @@
       "test": 11,
       "stem": "the graph of y = −3x + 9 crosses the x-axis at",
       "key": "3"
+    },
+    {
+      "test": 17,
+      "stem": "in a triangle abc, the medians ad, be and cf intersect at",
+      "key": "8 cm"
+    },
+    {
+      "test": 17,
+      "stem": "consider the following statements about the centres of a triangle: (i) the",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 17,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, if ab = 5 cm, bc = 6 cm, ac",
+      "key": "SSS"
+    },
+    {
+      "test": 17,
+      "stem": "which of the following are properties of similar triangles? (i) corresponding angles",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 17,
+      "stem": "the circumcentre of a right-angled triangle lies at:",
+      "key": "the midpoint of the hypotenuse"
+    },
+    {
+      "test": 17,
+      "stem": "match column i with column ii: column i: (a) centroid (b) orthocentre",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, d is a point on bc such that ad ⊥",
+      "key": "9 cm"
+    },
+    {
+      "test": 17,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, a line de is drawn parallel to bc such that",
+      "key": "4.5 cm"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, ∠a = 90°, ab = 9 cm and ac =",
+      "key": "15"
+    },
+    {
+      "test": 17,
+      "stem": "consider the following statements about congruence criteria: (i) sss is a valid",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 17,
+      "stem": "match column i with column ii: column i: (a) aa criterion (b)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 17,
+      "stem": "two similar triangles have sides in the ratio 3:5. if the area",
+      "key": "100"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, the exterior angle at c is 120°. if ∠a =",
+      "key": "70°"
+    },
+    {
+      "test": 17,
+      "stem": "which of the following are true about the centroid of a triangle?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 17,
+      "stem": "the centroid of a triangle with vertices a(2, 4), b(6, 2) and",
+      "key": "(4, 4)"
+    },
+    {
+      "test": 17,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 17,
+      "stem": "which of the following are true for an isosceles triangle with ab",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 17,
+      "stem": "in the given figure, de ∥ bc, ad = 3 cm, ab",
+      "key": "144 cm²"
+    },
+    {
+      "test": 17,
+      "stem": "consider the following statements: (i) if in two triangles, corresponding angles are",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, ∠b = 90°, ab = 8 cm and bc =",
+      "key": "5 cm"
+    },
+    {
+      "test": 17,
+      "stem": "match column i with column ii: column i: (a) orthocentre of an",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc and △def, ab/de = bc/ef = ca/fd = 2/3. if",
+      "key": "36 cm"
+    },
+    {
+      "test": 17,
+      "stem": "in an equilateral triangle with side length 6 cm, the length of",
+      "key": "3√3 cm"
+    },
+    {
+      "test": 17,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, de ∥ bc where d is on ab and e",
+      "key": "6 cm"
+    },
+    {
+      "test": 17,
+      "stem": "a data table shows the measurements of two triangles: triangle 1: sides",
+      "key": "The triangles are similar with ratio 2:3"
+    },
+    {
+      "test": 17,
+      "stem": "which of the following are sufficient conditions for two triangles to be",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 17,
+      "stem": "consider the following statements about an isosceles triangle abc where ab =",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 17,
+      "stem": "consider the following statements: (i) the incentre of a triangle always lies",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 17,
+      "stem": "if △abc ~ △pqr with ab/pq = 4/7, and the altitude from",
+      "key": "14 cm"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, the perpendicular bisectors of sides ab and bc meet at",
+      "key": "all three vertices A, B and C"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc and △pqr, ∠a = ∠p = 60° and ∠b =",
+      "key": "AA"
+    },
+    {
+      "test": 17,
+      "stem": "match column i with column ii: column i: (a) cpct (b) bpt",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 17,
+      "stem": "a survey recorded the following data about triangle xyz: ∠x = 50°,",
+      "key": "They are congruent by ASA criterion"
+    },
+    {
+      "test": 17,
+      "stem": "in a triangle, if a line segment joins the midpoints of two",
+      "key": "parallel to the third side and half its length"
+    },
+    {
+      "test": 17,
+      "stem": "in △abc, if ∠a = 90°, ab = 6 cm, ac =",
+      "key": "4.8 cm"
+    },
+    {
+      "test": 17,
+      "stem": "in two triangles △abc and △def, ab = 4 cm, bc =",
+      "key": "similar by SAS criterion"
+    },
+    {
+      "test": 17,
+      "stem": "consider the following statements: (i) two triangles with equal areas are always",
+      "key": "(ii), (iii) and (iv) only"
     }
   ]
 }

@@ -57,9 +57,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 16 | Morning | D — English Comprehension | Homonyms & One-Word Substitution | 30 | foundation | Topic-wise | ⬜ |
-| 17 | Afternoon | E — Mathematical Abilities | Geometry: Triangles (Centres, Congruence, Similarity) | 40 | foundation | Topic-wise | ⬜ |
-| 18 | Late | F — Computer Proficiency | Windows OS, Explorer & Keyboard Shortcuts | 50 | foundation | Topic-wise | ⬜ |
+| 16 | Morning | D — English Comprehension | Homonyms & One-Word Substitution | 30 | foundation | Topic-wise | ✅ |
+| 17 | Afternoon | E — Mathematical Abilities | Geometry: Triangles (Centres, Congruence, Similarity) | 40 | foundation | Topic-wise | ✅ |
+| 18 | Late | F — Computer Proficiency | Windows OS, Explorer & Keyboard Shortcuts | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 7
 

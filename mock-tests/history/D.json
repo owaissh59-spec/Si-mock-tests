@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 60,
+  "count": 90,
   "questions": [
     {
       "test": 4,
@@ -302,6 +302,156 @@
       "test": 10,
       "stem": "consider the following statements: (i) the antonym of 'candor' is 'duplicity'. (ii)",
       "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 16,
+      "stem": "in which of the following sentences is the word 'bark' used to",
+      "key": "The bark of the old oak was rough and cracked"
+    },
+    {
+      "test": 16,
+      "stem": "consider the following statements: (i) 'misanthrope' means a person who hates mankind.",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a government run by the people' is:",
+      "key": "Democracy"
+    },
+    {
+      "test": 16,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 16,
+      "stem": "which of the following are correct one-word substitutions? (i) omnivore — an",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the word 'fair' in the sentence 'the village fair attracted thousands of",
+      "key": "A gathering for amusement and trade"
+    },
+    {
+      "test": 16,
+      "stem": "match the following one-word substitutions with their meanings: column i: (a) somnambulism",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a person who speaks many languages' is:",
+      "key": "Polyglot"
+    },
+    {
+      "test": 16,
+      "stem": "in the sentence 'the pitcher threw a perfect strike', the word 'pitcher'",
+      "key": "A baseball player who throws the ball"
+    },
+    {
+      "test": 16,
+      "stem": "consider the following statements: (i) 'regicide' means the killing of a king.",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the word 'mole' can mean all of the following except:",
+      "key": "A young horse"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a place where dead bodies are kept for",
+      "key": "Morgue"
+    },
+    {
+      "test": 16,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 16,
+      "stem": "in which sentence does the word 'crane' refer to a bird?",
+      "key": "A graceful crane stood motionless in the shallow marsh"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'worship of idols' is:",
+      "key": "Idolatry"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a word or law no longer in use'",
+      "key": "Obsolete"
+    },
+    {
+      "test": 16,
+      "stem": "match the following homonyms with their correct pair of meanings: column i:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a person who is easily deceived or tricked'",
+      "key": "Dupe"
+    },
+    {
+      "test": 16,
+      "stem": "which of the following are correct one-word substitutions? (i) epitaph — an",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the sentence 'the bank was steep and covered in wildflowers' uses 'bank'",
+      "key": "The sloping side of a river or hill"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'that which cannot be corrected or reformed' is:",
+      "key": "Incorrigible"
+    },
+    {
+      "test": 16,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a place where birds are kept' is:",
+      "key": "Aviary"
+    },
+    {
+      "test": 16,
+      "stem": "consider the following statements: (i) the word 'cell' can mean a small",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a speech delivered without preparation' is:",
+      "key": "Extempore"
+    },
+    {
+      "test": 16,
+      "stem": "the word 'patient' in the sentence 'the doctor attended to each patient",
+      "key": "A noun meaning a person receiving medical treatment"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'government by the wealthy' is __________.",
+      "key": "Plutocracy"
+    },
+    {
+      "test": 16,
+      "stem": "match the following one-word substitutions with their meanings: column i: (a) cosmopolitan",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 16,
+      "stem": "which of the following are correct pairs of homonym meanings for the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 16,
+      "stem": "the one-word substitution for 'a study of the origin and history of",
+      "key": "Etymology"
     }
   ]
 }

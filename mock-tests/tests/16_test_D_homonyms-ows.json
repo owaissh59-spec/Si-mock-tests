@@ -1,0 +1,397 @@
+{
+  "subject": "D",
+  "topic": "Homonyms & One-Word Substitution",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "In which of the following sentences is the word 'bark' used to mean the outer covering of a tree?",
+      "options": [
+        "The bark of the old oak was rough and cracked",
+        "The dog began to bark loudly at midnight",
+        "The captain steered the bark through rough waters",
+        "His bark was worse than his bite"
+      ],
+      "correctAnswer": "The bark of the old oak was rough and cracked",
+      "explanation": "The word 'bark' is a homonym with multiple meanings: (1) the sound a dog makes, (2) the outer covering of a tree, (3) a type of sailing vessel. In 'The bark of the old oak was rough and cracked', bark refers to the tree's outer covering. Option A uses bark as the sound a dog makes. Option B uses bark as a sailing vessel. Option C uses bark metaphorically for a harsh voice/manner."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Misanthrope' means a person who hates mankind.\n(ii) 'Philatelist' means a person who collects coins.\n(iii) 'Bibliophile' means a person who loves books.\n(iv) 'Entomologist' means a person who studies insects.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct: a misanthrope is indeed a person who dislikes humankind. Statement (iii) is correct: a bibliophile is a person who collects or has a great love of books. Statement (iv) is correct: an entomologist is a scientist who studies insects. Statement (ii) is INCORRECT: a philatelist collects postage stamps, not coins. A person who collects coins is called a numismatist."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a government run by the people' is:",
+      "options": [
+        "Democracy",
+        "Autocracy",
+        "Oligarchy",
+        "Theocracy"
+      ],
+      "correctAnswer": "Democracy",
+      "explanation": "Democracy comes from Greek 'demos' (people) and 'kratos' (rule), meaning government by the people. Autocracy is wrong because it means government by a single person with absolute power. Oligarchy is wrong because it means government by a small group of powerful people. Theocracy is wrong because it means government by religious leaders claiming divine authority."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'lead' is a homonym because it has different meanings depending on context.\nReason (R): 'Lead' can mean a metallic element (noun, pronounced 'led') or to guide someone (verb, pronounced 'leed').\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: 'lead' is indeed a homonym with multiple meanings. Reason (R) is also correct and explains why it is a homonym \u2014 it demonstrates the different meanings (a metal vs. to guide) and different pronunciations. The reason directly explains the assertion by providing evidence of the multiple meanings. Option B is wrong because R directly explains A. Option C is wrong because R is factually accurate. Option D is wrong because A is also correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Which of the following are correct one-word substitutions?\n\n(i) Omnivore \u2014 An animal that eats both plants and animals\n(ii) Herbivore \u2014 An animal that eats only meat\n(iii) Insomniac \u2014 A person who cannot sleep\n(iv) Amnesia \u2014 Loss of memory\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Pair (i) is correct: an omnivore is an animal that feeds on both plants and animals. Pair (iii) is correct: an insomniac is a person who is regularly unable to sleep. Pair (iv) is correct: amnesia is a partial or total loss of memory. Pair (ii) is INCORRECT: a herbivore eats only plants, not meat. An animal that eats only meat is called a carnivore."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "The word 'fair' in the sentence 'The village fair attracted thousands of visitors' means:",
+      "options": [
+        "Just and equitable",
+        "A gathering for amusement and trade",
+        "Light in colour or complexion",
+        "Moderately good"
+      ],
+      "correctAnswer": "A gathering for amusement and trade",
+      "explanation": "'Fair' is a homonym with multiple meanings. In this sentence, it refers to a periodic gathering for buying/selling goods and entertainment. 'Just and equitable' is another meaning of fair (as in fair treatment) but doesn't apply here. 'Light in colour' is yet another meaning (as in fair skin) but is irrelevant to this context. 'Moderately good' is another usage (as in fair performance) but doesn't fit this sentence."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Match the following one-word substitutions with their meanings:\n\nColumn I:\n(a) Somnambulism\n(b) Philanthropy\n(c) Infanticide\n(d) Plagiarism\n\nColumn II:\n(i) Killing of an infant\n(ii) Sleepwalking\n(iii) Copying another's work as one's own\n(iv) Love for mankind shown through charitable acts\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Somnambulism means sleepwalking (from Latin 'somnus'=sleep, 'ambulare'=walk). Philanthropy means love of humanity expressed through charitable giving (from Greek 'philos'=loving, 'anthropos'=human). Infanticide means the killing of an infant. Plagiarism means taking someone else's work or ideas and passing them off as one's own. Option A incorrectly pairs Somnambulism with love for mankind. Option C incorrectly pairs Philanthropy with copying work. Option D incorrectly pairs Infanticide with copying work."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a person who speaks many languages' is:",
+      "options": [
+        "Translator",
+        "Polyglot",
+        "Bilingual",
+        "Linguist"
+      ],
+      "correctAnswer": "Polyglot",
+      "explanation": "A polyglot is a person who knows and is able to use several languages. While 'linguist' can also mean someone knowledgeable about languages, the precise one-word substitution for 'a person who speaks many languages' is polyglot (from Greek 'poly'=many, 'glotta'=tongue). Translator is wrong because it refers to someone who converts text from one language to another. Bilingual is wrong because it means speaking only two languages, not many."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "In the sentence 'The pitcher threw a perfect strike', the word 'pitcher' refers to:",
+      "options": [
+        "A large container for holding liquids",
+        "A type of plant that traps insects",
+        "A baseball player who throws the ball",
+        "A street vendor selling beverages"
+      ],
+      "correctAnswer": "A baseball player who throws the ball",
+      "explanation": "'Pitcher' is a homonym. In this context about throwing a strike, it clearly refers to the baseball player whose role is to throw the ball to the batter. A large container for liquids is another meaning of pitcher but doesn't fit the context of throwing a strike. A pitcher plant traps insects but is unrelated to this context. A street vendor is not a standard meaning of the word pitcher."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Regicide' means the killing of a king.\n(ii) 'Fratricide' means the killing of one's father.\n(iii) 'Genocide' means the deliberate killing of a large group of people.\n(iv) 'Suicide' means killing oneself.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct: regicide refers to the killing of a king (from Latin 'rex'=king). Statement (iii) is correct: genocide means the deliberate killing of a large group, especially an ethnic or national group. Statement (iv) is correct: suicide means the act of killing oneself. Statement (ii) is INCORRECT: fratricide means the killing of one's brother (from Latin 'frater'=brother), not one's father. Killing one's father is called patricide."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "The word 'mole' can mean all of the following EXCEPT:",
+      "options": [
+        "A burrowing mammal",
+        "A unit of measurement in chemistry",
+        "A type of Mexican sauce",
+        "A young horse"
+      ],
+      "correctAnswer": "A young horse",
+      "explanation": "'Mole' is a homonym with multiple meanings: (1) a small burrowing mammal, (2) a unit in chemistry (Avogadro's number of particles), (3) a Mexican sauce made with chili peppers and chocolate, and (4) a dark spot on the skin, or a spy within an organization. A young horse is called a 'foal' or 'colt', not a mole. Therefore 'a young horse' is NOT a meaning of the word mole."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a place where dead bodies are kept for identification' is:",
+      "options": [
+        "Cemetery",
+        "Crematorium",
+        "Morgue",
+        "Mortuary"
+      ],
+      "correctAnswer": "Morgue",
+      "explanation": "A morgue is specifically a place where dead bodies are kept temporarily for identification or until they are buried or cremated. While 'mortuary' also refers to a place where dead bodies are kept, the specific one-word substitution for keeping bodies for identification purposes is morgue. Cemetery is wrong because it is a burial ground. Crematorium is wrong because it is a place where dead bodies are burned."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Calligraphy' is the one-word substitution for the art of beautiful handwriting.\nReason (R): The word 'calligraphy' is derived from Greek words 'kallos' meaning beauty and 'graphein' meaning to write.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: calligraphy indeed means the art of beautiful handwriting. Reason (R) is also correct: the word derives from Greek 'kallos' (beauty) and 'graphein' (to write). The etymology in (R) directly explains why calligraphy means beautiful writing, making it the correct explanation of (A). Option A is wrong because R does directly explain A. Option C is wrong because R is factually correct. Option D is wrong because A is correct."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "In which sentence does the word 'crane' refer to a bird?",
+      "options": [
+        "A graceful crane stood motionless in the shallow marsh",
+        "The construction crane lifted heavy steel beams",
+        "She had to crane her neck to see over the crowd",
+        "He operated the crane with great precision"
+      ],
+      "correctAnswer": "A graceful crane stood motionless in the shallow marsh",
+      "explanation": "'Crane' is a homonym meaning: (1) a large wading bird with long legs and neck, (2) a machine for lifting heavy objects, (3) to stretch one's neck to see something. In 'A graceful crane stood motionless in the shallow marsh', the crane refers to the bird, as indicated by context words like 'graceful', 'stood motionless', and 'shallow marsh'. Options A and C refer to the mechanical crane. Option B uses crane as a verb meaning to stretch the neck."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'worship of idols' is:",
+      "options": [
+        "Atheism",
+        "Monotheism",
+        "Idolatry",
+        "Agnosticism"
+      ],
+      "correctAnswer": "Idolatry",
+      "explanation": "Idolatry means the worship of idols or images as divine beings. Atheism is wrong because it means the absence of belief in God or gods. Monotheism is wrong because it means the belief in a single god. Agnosticism is wrong because it means the belief that the existence of God is unknown or unknowable."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a word or law no longer in use' is:",
+      "options": [
+        "Archaic",
+        "Redundant",
+        "Extinct",
+        "Obsolete"
+      ],
+      "correctAnswer": "Obsolete",
+      "explanation": "Obsolete means no longer produced or used; out of date. It is the precise one-word substitution for something (word, law, practice) that is no longer in use. Archaic is close but specifically means very old or old-fashioned \u2014 it may still be partially in use. Redundant means no longer needed or useful, not necessarily 'no longer in use'. Extinct means no longer existing (typically used for species), not typically for words or laws."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Match the following homonyms with their correct pair of meanings:\n\nColumn I:\n(a) Bow\n(b) Tender\n(c) Palm\n(d) Draft\n\nColumn II:\n(i) Soft/gentle AND a formal offer or proposal\n(ii) A tree AND the inner surface of the hand\n(iii) A weapon for arrows AND the front of a ship\n(iv) A preliminary version AND a current of cool air\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Bow means both a weapon for shooting arrows AND the front part of a ship. Tender means both soft/gentle AND a formal offer (as in legal tender or a tender for contract). Palm means both a tropical tree AND the inner surface of the hand. Draft means both a preliminary version of a document AND a current of cool air. Option A incorrectly pairs Bow with soft/gentle. Option B incorrectly pairs Tender with palm/hand meanings. Option D incorrectly pairs Bow with draft meanings."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a person who is easily deceived or tricked' is:",
+      "options": [
+        "Sycophant",
+        "Charlatan",
+        "Dupe",
+        "Gullible"
+      ],
+      "correctAnswer": "Dupe",
+      "explanation": "A dupe is a person who is easily deceived or fooled. While 'gullible' is an adjective meaning easily deceived, the one-word substitution (noun) for the person is 'dupe'. Sycophant is wrong because it means a person who flatters someone important. Charlatan is wrong because it means a fraud or fake \u2014 the person doing the deceiving, not the one being deceived."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following are correct one-word substitutions?\n\n(i) Epitaph \u2014 An inscription on a tombstone\n(ii) Epilogue \u2014 An introduction to a literary work\n(iii) Autobiography \u2014 A life story written by the person themselves\n(iv) Manuscript \u2014 A handwritten or typed document before printing\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Pair (i) is correct: an epitaph is an inscription written on a tomb in memory of the person buried there. Pair (iii) is correct: an autobiography is an account of a person's life written by that person. Pair (iv) is correct: a manuscript is a book, document, or piece of music written by hand or typed (before being printed). Pair (ii) is INCORRECT: an epilogue is a concluding section, not an introduction. An introduction to a literary work is called a prologue or preface."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The sentence 'The bank was steep and covered in wildflowers' uses 'bank' to mean:",
+      "options": [
+        "The sloping side of a river or hill",
+        "A financial institution",
+        "A reserve or store",
+        "A row of similar things"
+      ],
+      "correctAnswer": "The sloping side of a river or hill",
+      "explanation": "'Bank' is a homonym with multiple meanings. In this context, 'steep and covered in wildflowers' clearly indicates a natural landform \u2014 the sloping side of a river, hill, or lake. A financial institution wouldn't be described as steep or covered in wildflowers. A reserve/store (as in blood bank) doesn't fit the physical description. A row of similar things (as in a bank of switches) also doesn't match the context."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'that which cannot be corrected or reformed' is:",
+      "options": [
+        "Infallible",
+        "Inevitable",
+        "Invincible",
+        "Incorrigible"
+      ],
+      "correctAnswer": "Incorrigible",
+      "explanation": "Incorrigible means not able to be corrected, improved, or reformed. Infallible is wrong because it means incapable of making mistakes or being wrong. Inevitable is wrong because it means certain to happen; unavoidable. Invincible is wrong because it means too powerful to be defeated or overcome."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The words 'knight' and 'night' are homophones.\nReason (R): Homophones are words that have the same pronunciation but different meanings and usually different spellings.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: 'knight' (a medieval warrior) and 'night' (the dark period) are pronounced the same way (/na\u026at/) but have different meanings and spellings. Reason (R) is also correct: it accurately defines homophones. R explains A because knight and night qualify as homophones precisely because they share pronunciation but differ in meaning and spelling. Option B is wrong because R directly explains A. Option C is wrong because R is factually correct. Option D is wrong because A is also correct."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a place where birds are kept' is:",
+      "options": [
+        "Aquarium",
+        "Apiary",
+        "Kennel",
+        "Aviary"
+      ],
+      "correctAnswer": "Aviary",
+      "explanation": "An aviary is a large enclosure for keeping birds. Aquarium is wrong because it is a place where fish and other aquatic animals are kept. Apiary is wrong because it is a place where bees are kept. Kennel is wrong because it is a place where dogs are housed or bred."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The word 'cell' can mean a small room in a prison or a basic unit of a living organism.\n(ii) The word 'light' can mean electromagnetic radiation or not heavy in weight.\n(iii) The word 'spring' can mean only a season of the year.\n(iv) The word 'ring' can mean a piece of jewellery or the sound of a bell.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: 'cell' is a homonym meaning both a prison room and a biological unit. Statement (ii) is correct: 'light' means both electromagnetic radiation/illumination and not heavy. Statement (iv) is correct: 'ring' means both a circular band of jewellery and the sound made by a bell. Statement (iii) is INCORRECT: 'spring' has multiple meanings \u2014 a season, a coiled metal device, a natural water source, and the act of jumping. It does NOT mean only a season."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a speech delivered without preparation' is:",
+      "options": [
+        "Extempore",
+        "Soliloquy",
+        "Monologue",
+        "Prologue"
+      ],
+      "correctAnswer": "Extempore",
+      "explanation": "Extempore means spoken or done without preparation; impromptu. Soliloquy is wrong because it means an act of speaking one's thoughts aloud when by oneself, especially in a play. Monologue is wrong because it means a long speech by one person, which may or may not be prepared. Prologue is wrong because it means an introductory section of a literary or musical work."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "The word 'patient' in the sentence 'The doctor attended to each patient carefully' is used as:",
+      "options": [
+        "An adjective meaning calm and tolerant",
+        "A noun meaning a person receiving medical treatment",
+        "A verb meaning to endure difficulties",
+        "An adverb meaning in a tolerant manner"
+      ],
+      "correctAnswer": "A noun meaning a person receiving medical treatment",
+      "explanation": "'Patient' is a homonym that functions as different parts of speech: (1) as an adjective meaning able to wait calmly, and (2) as a noun meaning a person under medical care. In this sentence, 'the doctor attended to each patient' clearly uses patient as a noun \u2014 the person receiving medical treatment. It is not used as an adjective here (which would modify another noun). 'Patient' is never used as a verb or adverb in standard English."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'government by the wealthy' is __________.",
+      "options": [
+        "Bureaucracy",
+        "Aristocracy",
+        "Meritocracy",
+        "Plutocracy"
+      ],
+      "correctAnswer": "Plutocracy",
+      "explanation": "Plutocracy means government by the wealthy (from Greek 'ploutos'=wealth, 'kratos'=rule). Bureaucracy is wrong because it means government by officials following fixed rules and procedures. Aristocracy is wrong because it means government by the nobility or upper class (not necessarily the wealthiest). Meritocracy is wrong because it means a system where power is given to those with talent and ability."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Match the following one-word substitutions with their meanings:\n\nColumn I:\n(a) Cosmopolitan\n(b) Contemporaries\n(c) Posthumous\n(d) Anonymous\n\nColumn II:\n(i) Occurring after death\n(ii) Persons living at the same time\n(iii) A person who is at home in all countries\n(iv) A work of unknown authorship\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "Cosmopolitan means a person who is familiar with and at ease in many countries. Contemporaries means people living or working at the same time. Posthumous means occurring or awarded after death. Anonymous means of unknown authorship or identity. Option A incorrectly pairs Cosmopolitan with persons living at the same time. Option B incorrectly pairs Contemporaries with occurring after death. Option C incorrectly pairs Cosmopolitan with unknown authorship."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Which of the following are correct pairs of homonym meanings for the word 'bat'?\n\n(i) A flying nocturnal mammal\n(ii) A wooden implement used in cricket\n(iii) A type of boat\n(iv) To blink one's eyelids\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The word 'bat' has multiple meanings: (i) a nocturnal flying mammal \u2014 correct. (ii) a wooden implement for hitting balls in cricket or baseball \u2014 correct. (iv) to flutter or blink one's eyelids (as in 'didn't bat an eyelid') \u2014 correct. (iii) is INCORRECT: 'bat' does not mean a type of boat. A small boat is called a 'dinghy', 'skiff', or 'canoe', not a bat."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "The one-word substitution for 'a study of the origin and history of words' is:",
+      "options": [
+        "Morphology",
+        "Phonology",
+        "Philology",
+        "Etymology"
+      ],
+      "correctAnswer": "Etymology",
+      "explanation": "Etymology is the study of the origin of words and the way in which their meanings have changed throughout history. Philology is wrong because it means the study of language in written historical sources (broader than just word origins). Morphology is wrong because it means the study of the form and structure of words. Phonology is wrong because it means the study of the sound systems of languages."
+    }
+  ]
+}
