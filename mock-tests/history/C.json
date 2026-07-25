@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 100,
+  "count": 150,
   "questions": [
     {
       "test": 3,
@@ -502,6 +502,256 @@
       "test": 9,
       "stem": "a company's revenue increased from ₹40 lakh in q1 to ₹55 lakh",
       "key": "37.5%"
+    },
+    {
+      "test": 15,
+      "stem": "if a:b = 3:5 and b:c = 4:7, what is a:c?",
+      "key": "12:35"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements about ratios: (i) the ratio 2:3 is the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 15,
+      "stem": "divide ₹1800 among a, b and c in the ratio 2:3:4. what",
+      "key": "₹600"
+    },
+    {
+      "test": 15,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 15,
+      "stem": "if 15 workers can complete a task in 24 days, how many",
+      "key": "18"
+    },
+    {
+      "test": 15,
+      "stem": "which of the following are examples of quantities in direct proportion? (i)",
+      "key": "(ii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "the ratio of two numbers is 5:7 and their sum is 180.",
+      "key": "75"
+    },
+    {
+      "test": 15,
+      "stem": "match the following: column i: (a) mean proportional of 3 and 27",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 15,
+      "stem": "a sum of ₹5400 is divided between x and y in the",
+      "key": "₹900"
+    },
+    {
+      "test": 15,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements about direct proportion: (i) if 5 kg of",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements about proportion: (i) if a:b = c:d, then",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 15,
+      "stem": "the compound ratio of 2:3, 4:5 and 5:8 is:",
+      "key": "1:3"
+    },
+    {
+      "test": 15,
+      "stem": "a and b invest in a business in the ratio 3:4. if",
+      "key": "₹2800"
+    },
+    {
+      "test": 15,
+      "stem": "match the following types of proportion with their definitions: column i: (a)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 15,
+      "stem": "if 8 men can build a wall in 10 days, how many",
+      "key": "16"
+    },
+    {
+      "test": 15,
+      "stem": "the ages of two persons are in the ratio 5:7. if the",
+      "key": "30 years"
+    },
+    {
+      "test": 15,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements: (i) if a:b = 3:4, then 2a:3b =",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 15,
+      "stem": "which of the following ratios are in proportion? (i) 3:4 and 9:12",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 15,
+      "stem": "if x:y = 4:7, find the value of (3x + 2y):(5x +",
+      "key": "26:27"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements about the ratio 4:6:10: (i) the simplified form",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "the third proportional to 8 and 12 is:",
+      "key": "18"
+    },
+    {
+      "test": 15,
+      "stem": "a data set shows the following production figures for three factories: factory",
+      "key": "Factory R"
+    },
+    {
+      "test": 15,
+      "stem": "if the ratio of incomes of a and b is 5:4 and",
+      "key": "₹5000"
+    },
+    {
+      "test": 15,
+      "stem": "match the following problems with their answers: column i: (a) simplify 125:200",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 15,
+      "stem": "two numbers are in the ratio 3:5. if 10 is added to",
+      "key": "15 and 25"
+    },
+    {
+      "test": 15,
+      "stem": "if a:b = 3:4, b:c = 6:5 and c:d = 10:9, find",
+      "key": "1:1"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements: (i) the duplicate ratio of 2:3 is 4:9.",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "a car travels 240 km using 16 litres of petrol. how many",
+      "key": "30"
+    },
+    {
+      "test": 15,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 15,
+      "stem": "which of the following pairs of ratios are equal? (i) 6:14 and",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 15,
+      "stem": "the monthly salaries of two persons are in the ratio 4:5. if",
+      "key": "₹15000"
+    },
+    {
+      "test": 15,
+      "stem": "a data interpretation problem: the following table shows the ratio of boys",
+      "key": "67"
+    },
+    {
+      "test": 15,
+      "stem": "if 2/3 of a = 3/4 of b, find a:b.",
+      "key": "9:8"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements: (i) if a/b = c/d, then (a+c)/(b+d) =",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "in a mixture of milk and water, the ratio of milk to",
+      "key": "50 litres"
+    },
+    {
+      "test": 15,
+      "stem": "the fourth proportional to 5, 8 and 15 is:",
+      "key": "24"
+    },
+    {
+      "test": 15,
+      "stem": "match the following ratios with their simplified forms: column i: (a) 0.4",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 15,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 15,
+      "stem": "the ratio of pocket money of a and b is 5:3. if",
+      "key": "₹180"
+    },
+    {
+      "test": 15,
+      "stem": "a father's age is 45 years and his son's age is 15",
+      "key": "15 years"
+    },
+    {
+      "test": 15,
+      "stem": "if a:b = 2:3 and b:c = 4:5, find a:b:c.",
+      "key": "8:12:15"
+    },
+    {
+      "test": 15,
+      "stem": "which of the following are true about inverse proportion? (i) if speed",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "the present ratio of ages of father and son is 7:2. after",
+      "key": "35 years"
+    },
+    {
+      "test": 15,
+      "stem": "consider the following statements: (i) if 3x = 4y = 6z, then",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 15,
+      "stem": "which of the following are correct applications of ratio and proportion? (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 15,
+      "stem": "a data interpretation problem: in a school, the ratio of teachers to",
+      "key": "12"
+    },
+    {
+      "test": 15,
+      "stem": "if the ratio of the areas of two circles is 16:25, what",
+      "key": "4:5"
+    },
+    {
+      "test": 15,
+      "stem": "match the following word problems with their solutions: column i: (a) divide",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
     }
   ]
 }

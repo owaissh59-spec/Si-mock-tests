@@ -49,9 +49,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 13 | Morning | A — General Intelligence & Reasoning | Series (Semantic, Number, Figural) | 30 | foundation | Topic-wise | ⬜ |
-| 14 | Afternoon | B — General Awareness | Modern Indian History & Freedom Struggle | 40 | foundation | Topic-wise | ⬜ |
-| 15 | Late | C — Quantitative Aptitude | Ratio & Proportion | 50 | foundation | Topic-wise | ⬜ |
+| 13 | Morning | A — General Intelligence & Reasoning | Series (Semantic, Number, Figural) | 30 | foundation | Topic-wise | ✅ |
+| 14 | Afternoon | B — General Awareness | Modern Indian History & Freedom Struggle | 40 | foundation | Topic-wise | ✅ |
+| 15 | Late | C — Quantitative Aptitude | Ratio & Proportion | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 6
 

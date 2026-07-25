@@ -203,7 +203,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "13_test_A_series.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 14,
@@ -218,7 +218,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "14_test_B_modern-history.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 15,
@@ -233,7 +233,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "15_test_C_ratio-proportion.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 16,

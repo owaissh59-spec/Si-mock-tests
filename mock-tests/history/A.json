@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 60,
+  "count": 90,
   "questions": [
     {
       "test": 1,
@@ -302,6 +302,156 @@
       "test": 7,
       "stem": "in the group {igneous, sedimentary, metamorphic, __________}, one term does not belong.",
       "key": "Calcium"
+    },
+    {
+      "test": 13,
+      "stem": "find the next number in the series: 2, 6, 18, 54, __",
+      "key": "162"
+    },
+    {
+      "test": 13,
+      "stem": "consider the following statements: (i) in the series 3, 9, 27, 81,",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 13,
+      "stem": "complete the word series: january, march, may, july, __",
+      "key": "September"
+    },
+    {
+      "test": 13,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 13,
+      "stem": "find the missing number in the series: 7, 14, 28, ?, 112,",
+      "key": "56"
+    },
+    {
+      "test": 13,
+      "stem": "match the series in column i with their correct next terms in",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 13,
+      "stem": "find the next term in the series: 5, 11, 23, 47, 95,",
+      "key": "191"
+    },
+    {
+      "test": 13,
+      "stem": "which of the following are correct completions of their respective number series?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 13,
+      "stem": "which of the following are correct identifications of the pattern rule in",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 13,
+      "stem": "find the next number in the series: 1, 4, 13, 40, 121,",
+      "key": "364"
+    },
+    {
+      "test": 13,
+      "stem": "complete the semantic series: bud, flower, fruit, __",
+      "key": "Seed"
+    },
+    {
+      "test": 13,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 13,
+      "stem": "find the next term in the series: z, x, v, t, r,",
+      "key": "P"
+    },
+    {
+      "test": 13,
+      "stem": "consider the following statements: (i) in the series 2, 3, 5, 8,",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 13,
+      "stem": "in a number series where each term equals 3 times the previous",
+      "key": "124"
+    },
+    {
+      "test": 13,
+      "stem": "match the type of series in column i with the correct example",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 13,
+      "stem": "consider the following statements about number series patterns: (i) in the series",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 13,
+      "stem": "find the missing term in the series: 11, 13, 17, 19, 23,",
+      "key": "37"
+    },
+    {
+      "test": 13,
+      "stem": "complete the word series: infant, child, adolescent, adult, __",
+      "key": "Elderly"
+    },
+    {
+      "test": 13,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 13,
+      "stem": "find the next term in the series: 6, 11, 21, 36, 56,",
+      "key": "81"
+    },
+    {
+      "test": 13,
+      "stem": "a student observes the following pattern in a number series experiment: term",
+      "key": "107"
+    },
+    {
+      "test": 13,
+      "stem": "which of the following are valid next terms in their respective series?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 13,
+      "stem": "find the next term in the letter series: az, by, cx, dw,",
+      "key": "EV"
+    },
+    {
+      "test": 13,
+      "stem": "consider the following statements: (i) the series 1, 3, 6, 10, 15",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 13,
+      "stem": "in the series 3, 8, 18, 33, 53, __________, the number that",
+      "key": "78"
+    },
+    {
+      "test": 13,
+      "stem": "the following data represents the number of tiles in each row of",
+      "key": "64"
+    },
+    {
+      "test": 13,
+      "stem": "match the word series in column i with their correct next terms",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 13,
+      "stem": "find the next term in the series: 2, 5, 11, 23, 47,",
+      "key": "95"
+    },
+    {
+      "test": 13,
+      "stem": "consider the following statements: (i) in the series 144, 121, 100, 81,",
+      "key": "(i), (ii) and (iii) only"
     }
   ]
 }

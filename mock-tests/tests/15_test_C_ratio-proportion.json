@@ -1,0 +1,657 @@
+{
+  "subject": "C",
+  "topic": "Ratio & Proportion",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "If A:B = 3:5 and B:C = 4:7, what is A:C?",
+      "options": [
+        "15:28",
+        "12:28",
+        "3:7",
+        "12:35"
+      ],
+      "correctAnswer": "12:35",
+      "explanation": "A:B = 3:5, B:C = 4:7. To combine, make B common: A:B = 12:20, B:C = 20:35. So A:C = 12:35. 3:7 is wrong because it incorrectly combines the first terms only. 12:28 is wrong because it uses B:C = 4:7 as 20:28 without adjusting properly. 15:28 is wrong because it multiplies A by 5 and C by 4 incorrectly."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about ratios:\n\n(i) The ratio 2:3 is the same as 4:6.\n(ii) If a:b = 5:8, then b:a = 8:5.\n(iii) The ratio 0.5:1.5 in simplest form is 1:3.\n(iv) Ratios can be negative numbers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: 2:3 = 4:6 (multiply both by 2). (ii) TRUE: Inverting a ratio inverts the terms. (iii) TRUE: 0.5:1.5 = 5:15 = 1:3. (iv) FALSE: Ratios compare magnitudes and are expressed as positive quantities. '(i) and (ii) only' is wrong because (iii) is also correct. '(i), (ii), (iii) and (iv)' is wrong because (iv) is false. '(ii) and (iii) only' is wrong because (i) is also correct."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "Divide ₹1800 among A, B and C in the ratio 2:3:4. What is B's share?",
+      "options": [
+        "₹400",
+        "₹500",
+        "₹800",
+        "₹600"
+      ],
+      "correctAnswer": "₹600",
+      "explanation": "Total parts = 2+3+4 = 9. B's share = (3/9) × 1800 = ₹600. ₹400 is wrong because that is A's share (2/9 × 1800). ₹800 is wrong because that is C's share (4/9 × 1800). ₹500 is wrong because it results from dividing by an incorrect total of parts."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If 4:x = x:9, then x = 6.\nReason (R): The mean proportional between a and b is √(ab).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "From 4:x = x:9, x² = 36, x = 6. Mean proportional between 4 and 9 = √(4×9) = √36 = 6. Both statements are correct and R explains why A is true. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "If 15 workers can complete a task in 24 days, how many days will 20 workers take to complete the same task (assuming equal efficiency)?",
+      "options": [
+        "32",
+        "16",
+        "20",
+        "18"
+      ],
+      "correctAnswer": "18",
+      "explanation": "This is inverse proportion. Workers × Days = constant. 15 × 24 = 20 × d → d = 360/20 = 18 days. 20 is wrong because it assumes a direct subtraction approach. 16 is wrong because it uses 24 × 15/20 incorrectly with rounding error or wrong formula. 32 is wrong because it incorrectly uses direct proportion (more workers = more days)."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Which of the following are examples of quantities in direct proportion?\n\n(i) Speed and time taken for a fixed distance\n(ii) Number of items purchased and total cost at fixed price\n(iii) Number of workers and time to finish a job\n(iv) Distance covered and fuel consumed at constant mileage",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "(i) FALSE: Speed and time are inversely proportional for fixed distance. (ii) TRUE: More items at fixed price means proportionally higher cost. (iii) FALSE: More workers means less time (inverse proportion). (iv) TRUE: More distance at constant mileage means more fuel proportionally. '(i) and (iii) only' is wrong because both are inverse proportion examples. '(i), (ii) and (iv)' is wrong because (i) is inverse. '(ii), (iii) and (iv)' is wrong because (iii) is inverse."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "The ratio of two numbers is 5:7 and their sum is 180. The smaller number is __________.",
+      "options": [
+        "105",
+        "90",
+        "75",
+        "80"
+      ],
+      "correctAnswer": "75",
+      "explanation": "Let numbers be 5x and 7x. Sum = 12x = 180, so x = 15. Smaller number = 5 × 15 = 75. 105 is wrong because that is the larger number (7 × 15). 90 is wrong because it divides 180 by 2 assuming equal numbers. 80 is wrong because it uses an incorrect multiplier."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "Match the following:\n\nColumn I:\n(a) Mean proportional of 3 and 27\n(b) Third proportional to 4 and 12\n(c) Fourth proportional to 2, 5 and 6\n(d) Duplicate ratio of 3:4\n\nColumn II:\n(i) 36\n(ii) 9\n(iii) 15\n(iv) 9:16",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) Mean proportional of 3 and 27 = √(3×27) = √81 = 9 → (ii). (b) Third proportional to 4 and 12: 4:12 = 12:x, x = 144/4 = 36 → (i). (c) Fourth proportional to 2, 5 and 6: 2:5 = 6:x, x = 30/2 = 15 → (iii). (d) Duplicate ratio of 3:4 = 3²:4² = 9:16 → (iv). Option 2 is wrong because it swaps (a) and (c). Option 3 is wrong because it swaps (b) and (c). Option 4 is wrong because it mismatches (a) and (d)."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "A sum of ₹5400 is divided between X and Y in the ratio 7:5. How much more does X receive than Y?",
+      "options": [
+        "₹1050",
+        "₹900",
+        "₹750",
+        "₹1200"
+      ],
+      "correctAnswer": "₹900",
+      "explanation": "Total parts = 12. X's share = (7/12)×5400 = ₹3150. Y's share = (5/12)×5400 = ₹2250. Difference = 3150 − 2250 = ₹900. Alternatively, difference ratio = 2 parts, each part = 5400/12 = 450, so difference = 2×450 = ₹900. ₹1200 is wrong because it uses difference of 8/12 × something incorrectly. ₹750 is wrong because it divides 5400 by a wrong factor. ₹1050 is wrong because it miscalculates the per-part value."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a:b = 2:3 and b:c = 5:7, then a:b:c = 10:15:21.\nReason (R): To find a combined ratio, we equalize the common term by finding its LCM.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "a:b = 2:3, b:c = 5:7. LCM of b-values (3 and 5) = 15. Multiply first ratio by 5: a:b = 10:15. Multiply second by 3: b:c = 15:21. Combined a:b:c = 10:15:21. Both A and R are correct, and R explains the method used to get A. Option 2 is wrong because R directly explains the process in A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Consider the following statements about direct proportion:\n\n(i) If 5 kg of rice costs ₹200, then 8 kg costs ₹320.\n(ii) If a car travels 60 km in 1 hour, it travels 150 km in 2.5 hours.\n(iii) If 3 workers earn ₹900 per day, then 7 workers earn ₹2000 per day.\n(iv) If 4 metres of cloth costs ₹500, then 10 metres costs ₹1250.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 200/5 = 40 per kg, 8×40 = 320. (ii) TRUE: 60 km/hr × 2.5 = 150 km. (iii) FALSE: 900/3 = 300 per worker, 7×300 = 2100, not 2000. (iv) TRUE: 500/4 = 125 per metre, 10×125 = 1250. \"(i) and (ii) only\" is wrong because (iv) is also correct. \"(i), (ii), (iii) and (iv)\" is wrong because (iii) is false. \"(i), (iii) and (iv) only\" is wrong because (iii) is false."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Consider the following statements about proportion:\n\n(i) If a:b = c:d, then a+b:b = c+d:d (componendo).\n(ii) If a:b = c:d, then a−b:b = c−d:d (dividendo).\n(iii) If a:b = c:d, then a:c = b:d (alternendo).\n(iv) If a:b = c:d, then a×d = b+c.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: Componendo theorem. (ii) TRUE: Dividendo theorem. (iii) TRUE: Alternendo theorem. (iv) FALSE: The correct relation is a×d = b×c (cross multiplication), not a×d = b+c. '(i) and (iii) only' is wrong because (ii) is also correct. '(i), (ii), (iii) and (iv)' is wrong because (iv) is false. '(ii) and (iv) only' is wrong because (iv) is false and (i), (iii) are also correct."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "The compound ratio of 2:3, 4:5 and 5:8 is:",
+      "options": [
+        "40:120",
+        "1:3",
+        "2:5",
+        "8:15"
+      ],
+      "correctAnswer": "1:3",
+      "explanation": "Compound ratio = (2×4×5):(3×5×8) = 40:120 = 1:3. 2:5 is wrong because it incorrectly multiplies partial products. 40:120 is not in simplest form but is equivalent — however the simplest form 1:3 is the correct answer. 8:15 is wrong because it omits one pair from multiplication."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "A and B invest in a business in the ratio 3:4. If the total profit is ₹4900, what is B's share of profit?",
+      "options": [
+        "₹2600",
+        "₹2800",
+        "₹2450",
+        "₹2100"
+      ],
+      "correctAnswer": "₹2800",
+      "explanation": "Total parts = 3+4 = 7. B's share = (4/7) × 4900 = ₹2800. ₹2100 is wrong because that is A's share (3/7 × 4900). ₹2450 is wrong because it divides equally by 2. ₹2600 is wrong because it uses an incorrect ratio calculation."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "Match the following types of proportion with their definitions:\n\nColumn I:\n(a) Direct proportion\n(b) Inverse proportion\n(c) Mean proportional\n(d) Continued proportion\n\nColumn II:\n(i) a:b = b:c (b is the geometric mean)\n(ii) x increases as y increases, with x/y constant\n(iii) a:b = b:c where b = √(ac)\n(iv) x increases as y decreases, with xy constant",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) Direct proportion: x/y = constant, both increase together → (ii). (b) Inverse proportion: xy = constant, one increases as other decreases → (iv). (c) Mean proportional: b = √(ac) → (iii). (d) Continued proportion: a:b = b:c where b is geometric mean → (i). Option 2 swaps (a) and (b). Option 3 swaps (c) and (d). Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "If 8 men can build a wall in 10 days, how many men are needed to build it in 5 days?",
+      "options": [
+        "16",
+        "4",
+        "20",
+        "12"
+      ],
+      "correctAnswer": "16",
+      "explanation": "Inverse proportion: Men × Days = constant. 8 × 10 = m × 5 → m = 80/5 = 16. 12 is wrong because it adds 4 men instead of doubling. 4 is wrong because it halves the men (using direct proportion incorrectly). 20 is wrong because it adds 8+10+2 or uses some other flawed logic."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "The ages of two persons are in the ratio 5:7. If the difference of their ages is 12 years, the age of the younger person is __________.",
+      "options": [
+        "24 years",
+        "35 years",
+        "42 years",
+        "30 years"
+      ],
+      "correctAnswer": "30 years",
+      "explanation": "Let ages be 5x and 7x. Difference = 7x − 5x = 2x = 12 → x = 6. Younger person's age = 5 × 6 = 30 years. 42 years is wrong because that is the elder's age (7×6). 35 years is wrong because it uses 7×5 without finding x. 24 years is wrong because it uses 4×6 or some other incorrect multiplier."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The ratio 15:25 in simplest form is 3:5.\nReason (R): A ratio is simplified by dividing both terms by their HCF.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "HCF of 15 and 25 is 5. Dividing both by 5: 15/5 : 25/5 = 3:5. Both A and R are correct, and R is the method that gives A. Option 2 is wrong because R directly explains the simplification in A. Option 3 is wrong because R is a correct mathematical rule. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) If a:b = 3:4, then 2a:3b = 1:2.\n(ii) The ratio 250 ml to 2 litres is 1:8.\n(iii) If x:y = 5:6, then (x+y):y = 11:6.\n(iv) The ratio of 45 minutes to 1.5 hours is 1:3.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: If a:b = 3:4, then 2a:3b = 2×3:3×4 = 6:12 = 1:2. (ii) TRUE: 250 ml to 2000 ml = 250:2000 = 1:8. (iii) TRUE: x:y = 5:6, so (x+y):y = (5+6):6 = 11:6. (iv) FALSE: 45 minutes to 1.5 hours = 45:90 = 1:2, not 1:3. \"(ii), (iii) and (iv) only\" is wrong because (iv) is false and (i) is true. \"(i), (ii), (iii) and (iv)\" is wrong because (iv) is false. \"(i) and (iii) only\" is wrong because (ii) is also correct."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Which of the following ratios are in proportion?\n\n(i) 3:4 and 9:12\n(ii) 5:8 and 15:20\n(iii) 2:7 and 6:21\n(iv) 4:9 and 12:25",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) 3:4 = 9:12 → 3×12 = 36 = 4×9 = 36, TRUE. (ii) 5:8 and 15:20 → 5×20 = 100 ≠ 8×15 = 120, FALSE (15:20 = 3:4, not 5:8). (iii) 2:7 and 6:21 → 2×21 = 42 = 7×6 = 42, TRUE. (iv) 4:9 and 12:25 → 4×25 = 100 ≠ 9×12 = 108, FALSE. '(i), (ii) and (iii) only' is wrong because (ii) is false. '(i), (iii) and (iv) only' is wrong because (iv) is false. '(i) and (ii) only' is wrong because (ii) is false."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "If x:y = 4:7, find the value of (3x + 2y):(5x + y).",
+      "options": [
+        "24:27",
+        "22:27",
+        "26:27",
+        "26:29"
+      ],
+      "correctAnswer": "26:27",
+      "explanation": "Let x = 4k, y = 7k. 3x + 2y = 12k + 14k = 26k. 5x + y = 20k + 7k = 27k. Ratio = 26:27. 24:27 is wrong because it uses 3×4 + 2×6 with an error in y's coefficient. 26:29 is wrong because it computes 5x + y as 5×4 + 9 incorrectly. 22:27 is wrong because it uses 2x + 2y in the numerator."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "Consider the following statements about the ratio 4:6:10:\n\n(i) The simplified form is 2:3:5.\n(ii) The sum of all parts is 20.\n(iii) If this ratio represents a distribution of 100 items, the largest share is 50 items.\n(iv) The ratio of the smallest to the largest term is 2:5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: 4:6:10 ÷ 2 = 2:3:5. (ii) FALSE: Sum of parts in simplified form = 2+3+5 = 10 (not 20; the original sum 4+6+10 = 20, but in ratio terms we use simplified parts). However, note: the sum of original terms is 20, but ratio 'parts' are 2+3+5 = 10. (iii) TRUE: Largest share = (5/10)×100 = 50. (iv) TRUE: Smallest:Largest = 2:5. '(i) and (iv) only' is wrong because (iii) is also correct. '(i), (ii) and (iv) only' is wrong because (ii) is ambiguous but the standard interpretation of ratio parts gives 10 not 20. '(i), (ii), (iii) and (iv)' is wrong because (ii) is incorrect when referring to ratio parts."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "The third proportional to 8 and 12 is:",
+      "options": [
+        "16",
+        "18",
+        "24",
+        "20"
+      ],
+      "correctAnswer": "18",
+      "explanation": "If a, b, c are in continued proportion, then a:b = b:c, so c = b²/a = 12²/8 = 144/8 = 18. 16 is wrong because it doubles 8 rather than using the proportion formula. 24 is wrong because it doubles 12. 20 is wrong because it adds the difference (12-8=4) twice to 12."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "A data set shows the following production figures for three factories:\n\nFactory P: 240 units per day with 60 workers\nFactory Q: 350 units per day with 100 workers\nFactory R: 225 units per day with 45 workers\n\nWhich factory has the highest per-worker productivity?",
+      "options": [
+        "Factory Q",
+        "Factory P",
+        "Factory R",
+        "All have equal productivity"
+      ],
+      "correctAnswer": "Factory R",
+      "explanation": "Per-worker productivity: P = 240/60 = 4 units/worker, Q = 350/100 = 3.5 units/worker, R = 225/45 = 5 units/worker. Factory R has the highest productivity at 5 units per worker. Factory P is wrong because its productivity is 4, less than R's 5. Factory Q is wrong because its productivity is 3.5, the lowest. 'All have equal productivity' is wrong because all three have different values."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "If the ratio of incomes of A and B is 5:4 and ratio of their expenditures is 3:2, and each saves ₹2000, what is A's income?",
+      "options": [
+        "₹4000",
+        "₹5000",
+        "₹10000",
+        "₹6000"
+      ],
+      "correctAnswer": "₹5000",
+      "explanation": "Let incomes be 5x and 4x, expenditures be 3y and 2y. Savings: 5x − 3y = 2000 and 4x − 2y = 2000. From equation 2: 2x − y = 1000 → y = 2x − 1000. Substituting in equation 1: 5x − 3(2x−1000) = 2000 → 5x − 6x + 3000 = 2000 → −x = −1000 → x = 1000. A's income = 5×1000 = ₹5000. ₹4000 is wrong because that is B's income. ₹6000 is wrong because it uses x = 1200 from a calculation error. ₹10000 is wrong because it doubles A's income incorrectly."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Match the following problems with their answers:\n\nColumn I:\n(a) Simplify 125:200\n(b) Divide 360 in ratio 2:3:4\n(c) Mean proportional of 5 and 45\n(d) If 3:7 = x:28, find x\n\nColumn II:\n(i) 80, 120, 160\n(ii) 15\n(iii) 5:8\n(iv) 12",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) 125:200 = 125/25 : 200/25 = 5:8 → (iii). (b) Total parts = 9. Shares: 360×2/9=80, 360×3/9=120, 360×4/9=160 → (i). (c) √(5×45) = √225 = 15 → (ii). (d) 3/7 = x/28, x = 3×28/7 = 12 → (iv). Option 2 swaps (b) and (d). Option 3 swaps (a) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Two numbers are in the ratio 3:5. If 10 is added to each number, the new ratio becomes 5:7. The original numbers are:",
+      "options": [
+        "15 and 25",
+        "30 and 50",
+        "9 and 15",
+        "12 and 20"
+      ],
+      "correctAnswer": "15 and 25",
+      "explanation": "Let numbers be 3x and 5x. After adding 10: (3x+10)/(5x+10) = 5/7. Cross multiply: 7(3x+10) = 5(5x+10) → 21x+70 = 25x+50 → 20 = 4x → x = 5. Numbers = 3×5=15 and 5×5=25. Check: (15+10)/(25+10) = 25/35 = 5/7. Correct. 12 and 20 is wrong because ratio 12:20 = 3:5 but (12+10)/(20+10) = 22/30 = 11/15 ≠ 5/7. 9 and 15 is wrong because (9+10)/(15+10) = 19/25 ≠ 5/7. 30 and 50 is wrong because (30+10)/(50+10) = 40/60 = 2/3 ≠ 5/7."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "If a:b = 3:4, b:c = 6:5 and c:d = 10:9, find a:d.",
+      "options": [
+        "1:1",
+        "9:10",
+        "3:9",
+        "2:1"
+      ],
+      "correctAnswer": "1:1",
+      "explanation": "a:b = 3:4, b:c = 6:5, c:d = 10:9. a/b × b/c × c/d = a/d. So a/d = (3/4)×(6/5)×(10/9) = 180/180 = 1. Therefore a:d = 1:1. 3:9 is wrong because it takes only the first terms. 2:1 is wrong because it incorrectly multiplies. 9:10 is wrong because it takes only the last ratio's inverse."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The duplicate ratio of 2:3 is 4:9.\n(ii) The sub-duplicate ratio of 16:25 is 4:5.\n(iii) The triplicate ratio of 2:3 is 6:9.\n(iv) The reciprocal ratio of 5:7 is 7:5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: Duplicate ratio of a:b = a²:b² = 4:9. (ii) TRUE: Sub-duplicate ratio of a:b = √a:√b = 4:5. (iii) FALSE: Triplicate ratio of 2:3 = 2³:3³ = 8:27 (not 6:9). (iv) TRUE: Reciprocal ratio of a:b = b:a = 7:5. '(i), (ii), (iii) and (iv)' is wrong because (iii) is false. '(i) and (ii) only' is wrong because (iv) is also correct. '(ii) and (iv) only' is wrong because (i) is also correct."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "A car travels 240 km using 16 litres of petrol. How many litres are needed to travel 450 km at the same rate?",
+      "options": [
+        "32",
+        "28",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "30",
+      "explanation": "Direct proportion: 240/16 = 450/x → x = (16×450)/240 = 7200/240 = 30 litres. 28 is wrong because it uses 450/16 rounded incorrectly. 32 is wrong because it uses an incorrect cross-multiplication. 25 is wrong because it rounds 450/18 or some other wrong calculation."
+    },
+    {
+      "id": "31",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The ratio of speeds of two trains is 3:5. If the slower train takes 2.5 hours to cover a distance, the faster train takes 1.5 hours.\nReason (R): Speed and time are in inverse proportion for a fixed distance.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Speed ratio = 3:5, so time ratio (inverse) = 5:3. If slower takes 2.5 hours (corresponding to 5 parts), one part = 0.5 hours, faster takes 3 × 0.5 = 1.5 hours. A is correct. R is correct as speed and time are inversely proportional for fixed distance, and this directly explains A. Option 2 is wrong because R explains A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "Which of the following pairs of ratios are equal?\n\n(i) 6:14 and 9:21\n(ii) 8:12 and 10:14\n(iii) 15:35 and 21:49\n(iv) 4:10 and 7:15",
+      "options": [
+        "(iii) and (iv) only",
+        "(i), (ii) and (iii)",
+        "(i) and (iii) only",
+        "(i) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) 6:14 = 3:7, and 9:21 = 3:7 → EQUAL. (ii) 8:12 = 2:3, and 10:14 = 5:7 → NOT EQUAL. (iii) 15:35 = 3:7, and 21:49 = 3:7 → EQUAL. (iv) 4:10 = 2:5, and 7:15 → NOT EQUAL. '(i), (ii) and (iii)' is wrong because (ii) is not equal. '(i) only' is wrong because (iii) is also equal. '(iii) and (iv) only' is wrong because (iv) is not equal and (i) is."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "The monthly salaries of two persons are in the ratio 4:5. If each receives an increment of ₹2000, the new ratio becomes 14:17. What was the original salary of the person earning more?",
+      "options": [
+        "₹15000",
+        "₹20000",
+        "₹10000",
+        "₹12000"
+      ],
+      "correctAnswer": "₹15000",
+      "explanation": "Let salaries be 4x and 5x. After increment: (4x+2000)/(5x+2000) = 14/17. Cross multiply: 68x+34000 = 70x+28000 → 2x = 6000 → x = 3000. Higher salary = 5×3000 = ₹15000. Verification: (12000+2000)/(15000+2000) = 14000/17000 = 14/17. Correct. ₹20000 is wrong because it uses x = 4000. ₹12000 is wrong because that is the lower salary (4×3000). ₹10000 is wrong because it uses x = 2000."
+    },
+    {
+      "id": "34",
+      "subject": "C",
+      "questionText": "A data interpretation problem: The following table shows the ratio of boys to girls in three classes:\n\nClass VI: Boys:Girls = 3:2, Total students = 45\nClass VII: Boys:Girls = 5:4, Total students = 54\nClass VIII: Boys:Girls = 7:5, Total students = 60\n\nWhat is the total number of girls across all three classes?",
+      "options": [
+        "72",
+        "63",
+        "70",
+        "67"
+      ],
+      "correctAnswer": "67",
+      "explanation": "Class VI: Girls = (2/5)×45 = 18. Class VII: Girls = (4/9)×54 = 24. Class VIII: Girls = (5/12)×60 = 25. Total girls = 18+24+25 = 67. 72 is wrong because it miscalculates one class's girls count. 63 is wrong because it uses wrong fractions. 70 is wrong because it overestimates one or more values."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "If 2/3 of A = 3/4 of B, find A:B.",
+      "options": [
+        "8:9",
+        "3:4",
+        "9:8",
+        "2:3"
+      ],
+      "correctAnswer": "9:8",
+      "explanation": "2A/3 = 3B/4. Cross multiply: 8A = 9B → A/B = 9/8. So A:B = 9:8. 8:9 is wrong because it inverts the ratio. 2:3 is wrong because it takes only the numerators of the fractions. 3:4 is wrong because it takes only the denominators."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) If a/b = c/d, then (a+c)/(b+d) = a/b (addendo property).\n(ii) If three quantities are in continued proportion, the middle term equals the arithmetic mean of the extremes.\n(iii) The ratio 5:3 is greater than 3:2.\n(iv) If a:b = 2:5, then (a+b):b = 7:5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: Addendo property states if a/b = c/d then (a+c)/(b+d) = a/b = c/d. (ii) FALSE: In continued proportion, the middle term is the geometric mean (not arithmetic mean) of the extremes. (iii) TRUE: 5/3 ≈ 1.67 and 3/2 = 1.5, so 5:3 > 3:2. (iv) TRUE: a:b = 2:5, so (a+b):b = (2+5):5 = 7:5. '(i) and (iv) only' is wrong because (iii) is also correct. '(i), (ii) and (iv) only' is wrong because (ii) is false. '(i), (ii), (iii) and (iv)' is wrong because (ii) is false."
+    },
+    {
+      "id": "37",
+      "subject": "C",
+      "questionText": "In a mixture of milk and water, the ratio of milk to water is 7:3. If 10 litres of water is added, the new ratio becomes 7:5. What was the original quantity of the mixture?",
+      "options": [
+        "45 litres",
+        "40 litres",
+        "35 litres",
+        "50 litres"
+      ],
+      "correctAnswer": "50 litres",
+      "explanation": "Let milk = 7x, water = 3x. After adding 10L water: 7x/(3x+10) = 7/5. Cross multiply: 35x = 7(3x+10) = 21x+70 → 14x = 70 → x = 5. Original mixture = 7×5 + 3×5 = 35+15 = 50 litres. 35 litres is wrong because it only counts the milk. 40 litres is wrong because it uses x = 4 incorrectly. 45 litres is wrong because it subtracts rather than adds the water."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "The fourth proportional to 5, 8 and 15 is:",
+      "options": [
+        "18",
+        "24",
+        "25",
+        "20"
+      ],
+      "correctAnswer": "24",
+      "explanation": "Fourth proportional: 5:8 = 15:x → x = (8×15)/5 = 120/5 = 24. 20 is wrong because it uses 15+5=20. 25 is wrong because it uses 15×5/3. 18 is wrong because it uses 15×8/something else incorrectly."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "Match the following ratios with their simplified forms:\n\nColumn I:\n(a) 0.4 : 0.6\n(b) 1/3 : 1/5\n(c) 2.5 : 3.5\n(d) 3/8 : 5/8\n\nColumn II:\n(i) 5:3\n(ii) 3:5\n(iii) 2:3\n(iv) 5:7",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "(a) 0.4:0.6 = 4:6 = 2:3 → (iii). (b) 1/3 : 1/5 = 5:3 (multiply both by 15) → (i). (c) 2.5:3.5 = 25:35 = 5:7 → (iv). (d) 3/8 : 5/8 = 3:5 → (ii). Option 2 swaps (b) and (d). Option 3 swaps (a) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If 2, x, 18 are in continued proportion, then x = 6.\nReason (R): In continued proportion a:b = b:c, so b² = ac.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "In continued proportion: x² = 2×18 = 36, so x = 6. R correctly states the rule b² = ac which directly gives the value in A. Both are correct and R explains A. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "41",
+      "subject": "C",
+      "questionText": "The ratio of pocket money of A and B is 5:3. If A gets ₹120 more than B, how much does B get?",
+      "options": [
+        "₹300",
+        "₹150",
+        "₹200",
+        "₹180"
+      ],
+      "correctAnswer": "₹180",
+      "explanation": "Let A = 5x, B = 3x. A − B = 2x = 120 → x = 60. B = 3 × 60 = ₹180. ₹300 is wrong because that is A's amount (5×60). ₹200 is wrong because it uses x = 200/3 or some other incorrect value. ₹150 is wrong because it uses 120 + 30 arbitrarily."
+    },
+    {
+      "id": "42",
+      "subject": "C",
+      "questionText": "A father's age is 45 years and his son's age is 15 years. After how many years will the ratio of their ages be 2:1?",
+      "options": [
+        "30 years",
+        "20 years",
+        "10 years",
+        "15 years"
+      ],
+      "correctAnswer": "15 years",
+      "explanation": "Let after x years: (45+x)/(15+x) = 2/1. Cross multiply: 45+x = 2(15+x) → 45+x = 30+2x → 15 = x. After 15 years: father = 60, son = 30. Ratio = 60:30 = 2:1. Correct. 10 years is wrong because (45+10)/(15+10) = 55/25 = 11/5 ≠ 2/1. 20 years is wrong because (45+20)/(15+20) = 65/35 = 13/7 ≠ 2/1. 30 years is wrong because (45+30)/(15+30) = 75/45 = 5/3 ≠ 2/1."
+    },
+    {
+      "id": "43",
+      "subject": "C",
+      "questionText": "If a:b = 2:3 and b:c = 4:5, find a:b:c.",
+      "options": [
+        "8:12:20",
+        "8:12:15",
+        "2:3:5",
+        "6:9:15"
+      ],
+      "correctAnswer": "8:12:15",
+      "explanation": "a:b = 2:3, b:c = 4:5. LCM of b-values (3 and 4) = 12. Multiply first ratio by 4: a:b = 8:12. Multiply second ratio by 3: b:c = 12:15. So a:b:c = 8:12:15. 2:3:5 is wrong because it simply places the numbers side by side without equalization. 6:9:15 is wrong because it multiplies first ratio by 3 but second by different factor. 8:12:20 is wrong because it multiplies the second ratio by 4 instead of 3."
+    },
+    {
+      "id": "44",
+      "subject": "C",
+      "questionText": "Which of the following are true about inverse proportion?\n\n(i) If speed doubles, time to cover the same distance is halved.\n(ii) More pipes filling a tank means more time to fill it.\n(iii) Product of the two quantities remains constant in inverse proportion.\n(iv) If 6 workers finish a job in 12 days, 4 workers finish it in 18 days.",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: Double speed halves time (inverse proportion). (ii) FALSE: More pipes means less time to fill (not more). (iii) TRUE: In inverse proportion, xy = constant. (iv) TRUE: 6×12 = 72 = 4×18. '(i) and (iii) only' is wrong because (iv) is also correct. '(i), (ii), (iii) and (iv)' is wrong because (ii) is false. '(i), (ii) and (iv) only' is wrong because (ii) is false."
+    },
+    {
+      "id": "45",
+      "subject": "C",
+      "questionText": "The present ratio of ages of father and son is 7:2. After 10 years, the ratio will be 9:4. What is the present age of the father?",
+      "options": [
+        "40 years",
+        "35 years",
+        "42 years",
+        "28 years"
+      ],
+      "correctAnswer": "35 years",
+      "explanation": "Let father's age = 7x, son's age = 2x. After 10 years: (7x+10)/(2x+10) = 9/4. Cross multiply: 4(7x+10) = 9(2x+10) → 28x+40 = 18x+90 → 10x = 50 → x = 5. Father's present age = 7×5 = 35 years. 40 years is wrong because it uses x = 40/7. 42 years is wrong because it uses x = 6. 28 years is wrong because it uses 4×7 = 28."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) If 3x = 4y = 6z, then x:y:z = 4:3:2.\n(ii) If a:b = 3:5, then (2a+3b):(3a+5b) = 21:34.\n(iii) The sub-duplicate ratio of 9:16 is 3:4.\n(iv) If x/3 = y/4 = z/7, then (x+y+z)/(3+4+7) = x/3.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) TRUE: Let 3x = 4y = 6z = k. Then x = k/3, y = k/4, z = k/6. x:y:z = 1/3:1/4:1/6 = 4:3:2 (multiply by 12). (ii) TRUE: Let a = 3k, b = 5k. 2a+3b = 6k+15k = 21k. 3a+5b = 9k+25k = 34k. Ratio = 21:34. (iii) TRUE: Sub-duplicate of 9:16 = √9:√16 = 3:4. (iv) TRUE: This is the property of equal ratios (addendo). All statements are correct. '(i) and (iii) only' is wrong because (ii) and (iv) are also correct. '(i), (iii) and (iv) only' is wrong because (ii) is also correct. '(ii), (iii) and (iv) only' is wrong because (i) is also correct."
+    },
+    {
+      "id": "47",
+      "subject": "C",
+      "questionText": "Which of the following are correct applications of ratio and proportion?\n\n(i) A map with scale 1:25000 shows 4 cm between two points, so actual distance is 1 km.\n(ii) If a shadow of 6m pole is 4m, a 15m pole casts a 10m shadow at the same time.\n(iii) Mixing paint in ratio 2:5 means using 6 litres of colour A with 20 litres of colour B.\n(iv) If 3 pumps empty a pool in 12 hours, 4 pumps take 9 hours.",
+      "options": [
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 4 cm × 25000 = 100000 cm = 1000 m = 1 km. (ii) TRUE: 6/4 = 15/10 = 3/2. Proportional. (iii) FALSE: Ratio 2:5 with 6 litres of A needs 6×5/2 = 15 litres of B, not 20. (iv) TRUE: Inverse proportion: 3×12 = 36 = 4×9. Correct. \"(i) and (ii) only\" is wrong because (iv) is also correct. \"(i), (ii), (iii) and (iv)\" is wrong because (iii) is false. \"(ii), (iii) and (iv) only\" is wrong because (iii) is false and (i) is missing."
+    },
+    {
+      "id": "48",
+      "subject": "C",
+      "questionText": "A data interpretation problem: In a school, the ratio of teachers to students is 1:25. The ratio of male teachers to female teachers is 2:3. If there are 500 students, how many female teachers are in the school?",
+      "options": [
+        "8",
+        "20",
+        "12",
+        "15"
+      ],
+      "correctAnswer": "12",
+      "explanation": "Teachers:Students = 1:25. With 500 students, teachers = 500/25 = 20. Male:Female teachers = 2:3. Total parts = 5. Female teachers = (3/5) × 20 = 12. 8 is wrong because it uses 2/5 × 20 (male teachers count). 20 is wrong because it gives total teachers, not female only. 15 is wrong because it uses 3/4 × 20."
+    },
+    {
+      "id": "49",
+      "subject": "C",
+      "questionText": "If the ratio of the areas of two circles is 16:25, what is the ratio of their radii?",
+      "options": [
+        "16:25",
+        "2:5",
+        "4:5",
+        "8:10"
+      ],
+      "correctAnswer": "4:5",
+      "explanation": "Area ratio = πr₁²:πr₂² = r₁²:r₂² = 16:25. So r₁:r₂ = √16:√25 = 4:5. 16:25 is wrong because that is the area ratio, not the radius ratio. 8:10 is wrong — while it simplifies to 4:5, the simplest form is 4:5 which is the listed correct answer. 2:5 is wrong because it takes the square root of only the first term."
+    },
+    {
+      "id": "50",
+      "subject": "C",
+      "questionText": "Match the following word problems with their solutions:\n\nColumn I:\n(a) Divide ₹630 in ratio 2:3:4\n(b) 5 taps fill a tank in 6 hours; time for 3 taps\n(c) Ratio of two numbers whose sum is 72 and difference is 12\n(d) Fourth proportional to 3, 7, 12\n\nColumn II:\n(i) 10 hours\n(ii) ₹140, ₹210, ₹280\n(iii) 7:5\n(iv) 28",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) Total parts = 9. Shares: 630×2/9=140, 630×3/9=210, 630×4/9=280 → (ii). (b) Inverse proportion: 5×6 = 3×t → t = 30/3 = 10 hours → (i). (c) Sum = 72, Diff = 12. Numbers: (72+12)/2=42 and (72-12)/2=30. Ratio = 42:30 = 7:5 → (iii). (d) 3:7 = 12:x → x = 84/3 = 28 → (iv). Option 2 swaps (b) and (c). Option 3 swaps (a) and (d). Option 4 swaps (c) and (d)."
+    }
+  ]
+}

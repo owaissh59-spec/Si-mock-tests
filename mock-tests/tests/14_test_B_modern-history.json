@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "Modern Indian History & Freedom Struggle",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Battle of Plassey (1757) was fought between the British East India Company and:",
+      "options": [
+        "Hyder Ali of Mysore",
+        "Siraj-ud-Daulah of Bengal",
+        "Shuja-ud-Daulah of Awadh",
+        "Tipu Sultan of Mysore"
+      ],
+      "correctAnswer": "Siraj-ud-Daulah of Bengal",
+      "explanation": "The Battle of Plassey (1757) was fought between Robert Clive's forces and Siraj-ud-Daulah, the last independent Nawab of Bengal. Hyder Ali is wrong because he was the ruler of Mysore and fought in the First and Second Anglo-Mysore Wars (1767–1782). Shuja-ud-Daulah is wrong because he was the Nawab of Awadh who fought at the Battle of Buxar in 1764, not Plassey. Tipu Sultan is wrong because he fought against the British in the Anglo-Mysore Wars much later (1767–1799)."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Which of the following are associated with the Non-Cooperation Movement (1920–1922)?\n\n(i) Surrender of titles and honorary offices\n(ii) Boycott of legislative councils\n(iii) Mass production of salt by breaking the salt law\n(iv) Boycott of government schools and courts\n\nSelect the correct answer:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — surrendering titles was a key part of the Non-Cooperation Movement. (ii) is correct — boycott of legislative councils was a central feature of NCM. (iv) is correct — boycott of government educational institutions and law courts was an integral part of NCM. (iii) is wrong because breaking the salt law was the hallmark of the Civil Disobedience Movement (1930), not the Non-Cooperation Movement."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Rowlatt Act of 1919 was widely opposed by Indian nationalists.\nReason (R): The Act allowed the government to imprison any person without trial and without the right of appeal.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. The Rowlatt Act (also called the Black Act) was vehemently opposed by Indian leaders including Gandhi, who called it 'legislation designed to rob the people of real freedom'. The reason correctly explains the opposition — the Act authorized preventive detention without trial and curtailed civil liberties, which directly caused the widespread nationalist opposition. Hence (R) is the correct explanation of (A)."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "The permanent settlement of Bengal (1793) was introduced by:",
+      "options": [
+        "Warren Hastings",
+        "Lord Wellesley",
+        "Lord Cornwallis",
+        "Lord Dalhousie"
+      ],
+      "correctAnswer": "Lord Cornwallis",
+      "explanation": "The Permanent Settlement (also known as the Zamindari System) was introduced in Bengal in 1793 by Lord Cornwallis. Warren Hastings is wrong because although he preceded Cornwallis as Governor-General, he did not introduce the Permanent Settlement. Lord Wellesley is wrong because he is known for the Subsidiary Alliance system, not the Permanent Settlement. Lord Dalhousie is wrong because he served as Governor-General much later (1848–1856) and is known for the Doctrine of Lapse."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian National Congress:\n\n(i) It was founded in 1885 at Bombay.\n(ii) W.C. Bonnerjee was the first president of the Indian National Congress.\n(iii) A.O. Hume, a retired British civil servant, played a key role in its formation.\n(iv) The first session was attended by over 5000 delegates from all provinces.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay. (ii) is correct — Womesh Chunder Bonnerjee presided over the first session. (iii) is correct — Allan Octavian Hume, a retired ICS officer, was instrumental in founding the Congress. (iv) is wrong because the first session was attended by only 72 delegates, not 5000."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Match the following Governor-Generals with their associated reforms/policies:\n\nColumn I:\n(a) Lord William Bentinck\n(b) Lord Dalhousie\n(c) Lord Ripon\n(d) Lord Curzon\n\nColumn II:\n(i) Doctrine of Lapse\n(ii) Abolition of Sati\n(iii) Partition of Bengal (1905)\n(iv) Local Self-Government Act (1882)",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Lord William Bentinck abolished Sati in 1829 (a-ii). Lord Dalhousie introduced the Doctrine of Lapse to annex princely states (b-i). Lord Ripon introduced the Local Self-Government Act in 1882, earning the title 'Father of Local Self-Government in India' (c-iv). Lord Curzon partitioned Bengal in 1905, which sparked the Swadeshi Movement (d-iii)."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "The __________ was the first major uprising against British rule in India, which began in May 1857 at Meerut.",
+      "options": [
+        "Deccan Riots",
+        "Revolt of 1857",
+        "Indigo Revolt",
+        "Santhal Rebellion"
+      ],
+      "correctAnswer": "Revolt of 1857",
+      "explanation": "The Revolt of 1857 (also called the First War of Independence or Sepoy Mutiny) began at Meerut in May 1857 when Indian soldiers (sepoys) refused greased cartridges and revolted. The Deccan Riots is wrong because these were agrarian riots in Maharashtra in 1875 against moneylenders. The Indigo Revolt is wrong because it was an 1859–60 peasant uprising in Bengal against indigo planters. The Santhal Rebellion is wrong because it occurred in 1855–56 in the Rajmahal Hills against British revenue policies and was prior to 1857."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The Jallianwala Bagh massacre took place on 13 April 1919 in which city?",
+      "options": [
+        "Lahore",
+        "Delhi",
+        "Lucknow",
+        "Amritsar"
+      ],
+      "correctAnswer": "Amritsar",
+      "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919 in Amritsar, Punjab, when General Dyer ordered his troops to fire on a peaceful gathering, killing hundreds. Lahore is wrong because although Lahore was the capital of Punjab, the massacre happened in Amritsar. Delhi is wrong because the event took place in Punjab, not Delhi. Lucknow is wrong because Lucknow is in Uttar Pradesh and was not the site of this tragedy."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Quit India Movement (1942):\n\n(i) Mahatma Gandhi gave the call 'Do or Die' during this movement.\n(ii) The movement was launched at the Bombay session of the All India Congress Committee.\n(iii) The British immediately accepted the demand and began negotiations.\n(iv) Underground radio stations operated by leaders like Usha Mehta supported the movement.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Gandhi's famous 'Do or Die' slogan was given during the Quit India Movement on 8 August 1942. (ii) is correct — the resolution was passed at the AICC session at Gowalia Tank Maidan in Bombay. (iv) is correct — Usha Mehta operated a secret Congress Radio that broadcast for several months. (iii) is wrong because the British response was severe repression — all major Congress leaders were arrested immediately and the movement was crushed; no negotiations took place."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Swadeshi Movement (1905–1908) promoted the use of indigenous goods.\nReason (R): The Swadeshi Movement was a response to Lord Curzon's decision to partition Bengal.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. The Swadeshi Movement promoted boycott of British goods and use of Indian-made products. It arose directly as a protest against Lord Curzon's partition of Bengal in 1905, which divided Bengal on communal lines. Since the partition was the direct cause that triggered the Swadeshi Movement, (R) is the correct explanation of (A)."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Indian Independence Act was passed by the British Parliament in:",
+      "options": [
+        "July 1947",
+        "March 1947",
+        "August 1947",
+        "June 1947"
+      ],
+      "correctAnswer": "July 1947",
+      "explanation": "The Indian Independence Act was passed by the British Parliament on 18 July 1947, which provided for the creation of two independent dominions — India and Pakistan — from 15 August 1947. June 1947 is wrong because the Mountbatten Plan was announced on 3 June 1947, but the Act was passed in July. March 1947 is wrong because Lord Mountbatten arrived in India in March 1947 but the Act came much later. August 1947 is wrong because that is when independence took effect, not when the Act was passed."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Which of the following are correctly associated with Subhas Chandra Bose?\n\n(i) Formation of the Forward Bloc within the Indian National Congress\n(ii) Establishment of the Azad Hind Government in Singapore\n(iii) The slogan 'Give me blood, and I shall give you freedom'\n(iv) Launching of the Dandi March in 1930\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Bose formed the Forward Bloc in 1939 after his differences with Gandhi. (ii) is correct — Bose established the Provisional Government of Free India (Azad Hind) in Singapore in October 1943. (iii) is correct — this was Bose's famous call to the Indian National Army. (iv) is wrong because the Dandi March (Salt March) was launched by Mahatma Gandhi in 1930, not by Subhas Chandra Bose."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Match the following movements with their leaders:\n\nColumn I:\n(a) Champaran Satyagraha (1917)\n(b) Bardoli Satyagraha (1928)\n(c) Kheda Satyagraha (1918)\n(d) Individual Satyagraha (1940)\n\nColumn II:\n(i) Vinoba Bhave (first satyagrahi)\n(ii) Mahatma Gandhi\n(iii) Sardar Vallabhbhai Patel\n(iv) Mahatma Gandhi",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Champaran Satyagraha (1917) was Gandhi's first satyagraha in India, dealing with indigo farmers' exploitation (a-ii). Bardoli Satyagraha (1928) was led by Sardar Vallabhbhai Patel against enhanced revenue assessments (b-iii). Kheda Satyagraha (1918) was led by Gandhi to support peasants unable to pay revenue after crop failure (c-iv). Individual Satyagraha (1940) was launched by Gandhi with Vinoba Bhave as the first satyagrahi (d-i)."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "The doctrine of 'Paramountcy' as applied by the British to Indian princely states meant:",
+      "options": [
+        "The British Crown was supreme and could intervene in the affairs of princely states",
+        "Princely states had complete sovereignty in external affairs",
+        "The princely states could make alliances with foreign powers",
+        "Princely states were equal partners with the British Crown"
+      ],
+      "correctAnswer": "The British Crown was supreme and could intervene in the affairs of princely states",
+      "explanation": "The doctrine of Paramountcy asserted British supremacy over Indian princely states, giving the British the right to intervene in their internal affairs. 'Making alliances with foreign powers' is wrong because princely states were prohibited from independent diplomatic relations. 'Complete sovereignty in external affairs' is wrong because princely states had to conduct foreign affairs through the British. 'Equal partners' is wrong because the relationship was explicitly one of subordination."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Morley-Minto Reforms (1909):\n\n(i) They introduced separate electorates for Muslims.\n(ii) They allowed Indians to be appointed to the Viceroy's Executive Council for the first time.\n(iii) They introduced direct elections on the basis of universal adult franchise.\n(iv) Satyendra Prasanno Sinha became the first Indian member of the Viceroy's Executive Council.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the Morley-Minto Reforms introduced separate electorates for Muslims, which was seen as a 'divide and rule' policy. (ii) is correct — for the first time, an Indian could be appointed to the Viceroy's Executive Council. (iv) is correct — S.P. Sinha was appointed as the first Indian member of the Viceroy's Executive Council (Law Member). (iii) is wrong because universal adult franchise was not introduced until the Indian Constitution of 1950; the 1909 reforms had very limited and restricted franchise based on property qualifications."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Khilafat Movement (1919–1924) brought Hindu-Muslim unity in India.\nReason (R): Mahatma Gandhi supported the Khilafat cause to forge a united front against British imperialism.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are correct. The Khilafat Movement did achieve unprecedented Hindu-Muslim unity (at least temporarily). Gandhi saw the Khilafat issue (concerning the dismemberment of the Ottoman Empire) as an opportunity to unite Hindus and Muslims against British rule. His strategic support for the Muslim cause was precisely aimed at forging this unified front, making (R) the correct explanation of (A)."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The 'Drain of Wealth' theory, which argued that Britain was draining India's resources without adequate return, was propounded by:",
+      "options": [
+        "Dadabhai Naoroji",
+        "Surendranath Banerjee",
+        "Gopal Krishna Gokhale",
+        "Pherozeshah Mehta"
+      ],
+      "correctAnswer": "Dadabhai Naoroji",
+      "explanation": "Dadabhai Naoroji, known as the 'Grand Old Man of India', propounded the Drain of Wealth theory in his book 'Poverty and Un-British Rule in India' (1901). Gopal Krishna Gokhale is wrong because although he was a prominent Moderate leader and economist, he did not originate this theory. Surendranath Banerjee is wrong because he was known as 'Indian Burke' for his oratory but did not develop this economic theory. Pherozeshah Mehta is wrong because he was a prominent Bombay leader known as the 'Lion of Bombay' but not associated with this theory."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Match the following revolutionary leaders with their associated organizations:\n\nColumn I:\n(a) Bhagat Singh\n(b) Surya Sen (Masterda)\n(c) Rash Behari Bose\n(d) V.D. Savarkar\n\nColumn II:\n(i) Chittagong Armoury Raid\n(ii) Hindustan Socialist Republican Association\n(iii) Abhinav Bharat Society\n(iv) Indian Independence League",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Bhagat Singh was a key member of the Hindustan Socialist Republican Association (HSRA), founded in 1928 (a-ii). Surya Sen (Masterda) led the Chittagong Armoury Raid in 1930 (b-i). Rash Behari Bose established the Indian Independence League in East Asia and later handed over the INA leadership to Subhas Chandra Bose (c-iv). V.D. Savarkar founded the Abhinav Bharat Society, a secret revolutionary society (d-iii)."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Ilbert Bill controversy (1883) was related to:",
+      "options": [
+        "The abolition of press censorship in India",
+        "The right of Indian judges to try European offenders",
+        "The introduction of local self-government",
+        "The reform of the Indian Civil Service examinations"
+      ],
+      "correctAnswer": "The right of Indian judges to try European offenders",
+      "explanation": "The Ilbert Bill, introduced by Law Member C.P. Ilbert under Lord Ripon's viceroyalty, sought to allow Indian judges to try European offenders in criminal cases. It faced fierce opposition from the European community in India. 'Abolition of press censorship' is wrong because that relates to the Vernacular Press Act repeal. 'Introduction of local self-government' is wrong because that was a separate reform by Ripon. 'Reform of ICS examinations' is wrong because that was a different issue concerning simultaneous examinations in India and England."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The __________ of 1935 introduced provincial autonomy and a federal structure for British India.",
+      "options": [
+        "Indian Councils Act",
+        "Regulating Act",
+        "Government of India Act",
+        "Charter Act"
+      ],
+      "correctAnswer": "Government of India Act",
+      "explanation": "The Government of India Act of 1935 introduced provincial autonomy, a federal structure (which never came into effect), and abolished dyarchy in provinces. The Indian Councils Act is wrong because the Indian Councils Acts (1861, 1892, 1909) dealt with expanding legislative councils, not provincial autonomy. The Regulating Act is wrong because it was passed in 1773 to regulate the East India Company's affairs. The Charter Act is wrong because Charter Acts (1813, 1833, 1853) dealt with the Company's charter renewal and related reforms."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Who among the following is known as the 'Father of the Indian Renaissance'?",
+      "options": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Ishwar Chandra Vidyasagar",
+        "Swami Dayananda Saraswati"
+      ],
+      "correctAnswer": "Raja Ram Mohan Roy",
+      "explanation": "Raja Ram Mohan Roy is regarded as the 'Father of the Indian Renaissance' for his pioneering role in social and religious reform, including the abolition of Sati and promotion of modern education. Swami Vivekananda is wrong because he is known for bringing Hindu philosophy to the West (Parliament of Religions, 1893) but came a generation later. Ishwar Chandra Vidyasagar is wrong because although he championed widow remarriage and women's education, he is not specifically called the Father of Indian Renaissance. Swami Dayananda Saraswati is wrong because he founded the Arya Samaj (1875) and advocated 'Back to the Vedas', but the title belongs to Roy."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Lucknow Pact (1916):\n\n(i) It was an agreement between the Indian National Congress and the Muslim League.\n(ii) The Congress accepted separate electorates for Muslims under this pact.\n(iii) It was brokered by Bal Gangadhar Tilak and Muhammad Ali Jinnah.\n(iv) It demanded dominion status for India within the British Commonwealth.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Lucknow Pact was a landmark agreement between Congress and Muslim League in 1916. (ii) is correct — Congress conceded the principle of separate electorates for Muslims. (iii) is correct — Tilak and Jinnah (then called 'Ambassador of Hindu-Muslim Unity') were the key architects of the pact. (iv) is wrong because the Lucknow Pact demanded self-government, not dominion status; the dominion status demand came later through the Nehru Report (1928)."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The Subsidiary Alliance system was introduced by:",
+      "options": [
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Hastings",
+        "Lord Clive"
+      ],
+      "correctAnswer": "Lord Wellesley",
+      "explanation": "The Subsidiary Alliance system was introduced by Lord Wellesley (Governor-General, 1798–1805) to bring Indian states under British control without direct annexation. Lord Cornwallis is wrong because he is known for the Permanent Settlement (1793) and the Cornwallis Code. Lord Hastings is wrong because he expanded British dominion but did not originate the Subsidiary Alliance system. Lord Clive is wrong because he established British political control in Bengal after Plassey (1757) but predated the Subsidiary Alliance policy."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Chauri Chaura incident (1922) led Gandhi to call off the Non-Cooperation Movement.\nReason (R): A violent mob set fire to a police station at Chauri Chaura, killing 22 policemen.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are factually correct. On 4 February 1922, a mob set fire to the Chauri Chaura police station in Gorakhpur district, killing 22 policemen. Gandhi, committed to non-violence, called off the entire Non-Cooperation Movement on 12 February 1922 because of this violence. The violent incident (R) was the direct cause of Gandhi's decision (A), making it the correct explanation."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The Vernacular Press Act of 1878, which imposed restrictions on Indian language newspapers, was enacted during the viceroyalty of:",
+      "options": [
+        "Lord Lytton",
+        "Lord Mayo",
+        "Lord Curzon",
+        "Lord Ripon"
+      ],
+      "correctAnswer": "Lord Lytton",
+      "explanation": "The Vernacular Press Act (1878) was passed during Lord Lytton's viceroyalty to curtail the freedom of Indian language press. Lord Ripon is wrong because he actually repealed this Act in 1882. Lord Mayo is wrong because he served as Viceroy from 1869–1872 and was assassinated in the Andaman Islands. Lord Curzon is wrong because he served later (1899–1905) and is known for the partition of Bengal."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Which of the following are features of the Montagu-Chelmsford Reforms (1919)?\n\n(i) Introduction of dyarchy in provinces\n(ii) Division of subjects into Central and Provincial lists\n(iii) Extension of franchise based on property qualifications\n(iv) Abolition of separate electorates for Muslims\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Dyarchy (dual government) was introduced in provinces, dividing subjects into 'reserved' and 'transferred'. (ii) is correct — subjects were divided between the Centre and Provinces for the first time. (iii) is correct — the franchise was extended, though still restricted to property owners and taxpayers. (iv) is wrong because the reforms actually retained and expanded separate electorates for Muslims and added them for Sikhs and Indian Christians."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The Indian leader who presided over the Lahore Congress session (1929) where the demand for 'Purna Swaraj' (complete independence) was made was:",
+      "options": [
+        "Mahatma Gandhi",
+        "Motilal Nehru",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": "Jawaharlal Nehru",
+      "explanation": "Jawaharlal Nehru presided over the historic Lahore session of the INC in December 1929, where the resolution for Purna Swaraj was passed and 26 January 1930 was declared Independence Day. Mahatma Gandhi is wrong because although he was the guiding force, he did not preside over this session. Motilal Nehru is wrong because he presided over the 1928 Calcutta session where the Nehru Report was discussed. Subhas Chandra Bose is wrong because he presided over the 1938 Haripura and 1939 Tripuri sessions."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Match the following events with their years:\n\nColumn I:\n(a) Formation of Muslim League\n(b) Jallianwala Bagh Massacre\n(c) Simon Commission visit to India\n(d) Cabinet Mission Plan\n\nColumn II:\n(i) 1946\n(ii) 1906\n(iii) 1928\n(iv) 1919",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "The Muslim League was formed at Dhaka in 1906 (a-ii). The Jallianwala Bagh Massacre occurred on 13 April 1919 (b-iv). The Simon Commission arrived in India in 1928 and was boycotted with the slogan 'Simon Go Back' (c-iii). The Cabinet Mission came to India in 1946 to discuss transfer of power (d-i)."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The Regulating Act of 1773 was significant because it:",
+      "options": [
+        "Abolished the East India Company's trading monopoly",
+        "Introduced direct Crown rule over India",
+        "Granted self-governance to Indian provinces",
+        "Established the Supreme Court at Calcutta and created the post of Governor-General of Bengal"
+      ],
+      "correctAnswer": "Established the Supreme Court at Calcutta and created the post of Governor-General of Bengal",
+      "explanation": "The Regulating Act of 1773 was the first step by the British Parliament to regulate the Company's affairs. It established the Supreme Court at Calcutta and designated the Governor of Bengal as 'Governor-General of Bengal'. 'Abolished trading monopoly' is wrong because that happened under the Charter Act of 1813. 'Direct Crown rule' is wrong because that was introduced by the Government of India Act 1858 (after the Revolt of 1857). 'Self-governance to provinces' is wrong because provincial autonomy came much later with the Government of India Act 1935."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Poona Pact (1932):\n\n(i) It was an agreement between Mahatma Gandhi and Dr. B.R. Ambedkar.\n(ii) It replaced separate electorates for Depressed Classes with reserved seats within the general electorate.\n(iii) It was signed in response to the Communal Award of Ramsay MacDonald.\n(iv) It reduced the number of seats for Depressed Classes compared to the Communal Award.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Poona Pact was signed between Gandhi (who was on a fast-unto-death) and Ambedkar in September 1932. (ii) is correct — it replaced separate electorates with reserved seats in a joint electorate system. (iii) is correct — it was a response to Ramsay MacDonald's Communal Award which had granted separate electorates to Depressed Classes. (iv) is wrong because the Poona Pact actually increased reserved seats for Depressed Classes from 71 (Communal Award) to 147."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The first Indian to become a member of the British Parliament was:",
+      "options": [
+        "W.C. Bonnerjee",
+        "Pherozeshah Mehta",
+        "Dadabhai Naoroji",
+        "Mancherjee Bhownagree"
+      ],
+      "correctAnswer": "Dadabhai Naoroji",
+      "explanation": "Dadabhai Naoroji was the first Indian (and Asian) to be elected to the British House of Commons in 1892, representing the Central Finsbury constituency for the Liberal Party. W.C. Bonnerjee is wrong because although he was the first president of INC, he never served in the British Parliament. Pherozeshah Mehta is wrong because he was a prominent Bombay leader but served in Indian legislative bodies, not the British Parliament. Mancherjee Bhownagree is wrong because he was elected later (1895) from Bethnal Green for the Conservative Party."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Which of the following are correctly paired — socio-religious reform movement and its founder?\n\n(i) Brahmo Samaj — Raja Ram Mohan Roy\n(ii) Arya Samaj — Swami Dayananda Saraswati\n(iii) Theosophical Society in India — Annie Besant\n(iv) Prarthana Samaj — Atmaram Pandurang\n\nSelect the correct answer:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Raja Ram Mohan Roy founded the Brahmo Samaj in 1828. (ii) is correct — Swami Dayananda Saraswati founded the Arya Samaj in 1875 in Bombay. (iv) is correct — Atmaram Pandurang founded the Prarthana Samaj in 1867 in Bombay. (iii) is wrong because the Theosophical Society was originally founded by H.P. Blavatsky and H.S. Olcott in 1875 in New York; Annie Besant became president in 1907 and popularized it in India, but she was not its founder."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The Cripps Mission (1942) came to India with the proposal to:",
+      "options": [
+        "Offer dominion status after World War II with the right to frame a constitution",
+        "Grant immediate independence to India",
+        "Partition India into Hindu and Muslim states",
+        "Establish a responsible government at the Centre immediately"
+      ],
+      "correctAnswer": "Offer dominion status after World War II with the right to frame a constitution",
+      "explanation": "The Cripps Mission, led by Sir Stafford Cripps, proposed dominion status for India after the war, with a constituent assembly to frame a constitution. It also allowed provinces to opt out. 'Immediate independence' is wrong because the offer was conditional and postwar. 'Partition into Hindu and Muslim states' is wrong because that was essentially the Mountbatten Plan of 1947. 'Responsible government immediately' is wrong because the Cripps proposals were for the postwar period and retained the Viceroy's executive authority during the war."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "The leader who is known as 'Lokmanya' and was a prominent Extremist in the Indian National Congress was:",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Aurobindo Ghosh",
+        "Bipin Chandra Pal",
+        "Lala Lajpat Rai"
+      ],
+      "correctAnswer": "Bal Gangadhar Tilak",
+      "explanation": "Bal Gangadhar Tilak was given the title 'Lokmanya' (accepted by the people) and was the foremost Extremist leader who declared 'Swaraj is my birthright'. Lala Lajpat Rai is wrong because he was called 'Punjab Kesari' (Lion of Punjab) and while an Extremist, was not titled 'Lokmanya'. Aurobindo Ghosh is wrong because he was a revolutionary nationalist who later became a spiritual leader, but was never called 'Lokmanya'. Bipin Chandra Pal is wrong because although he was part of the Lal-Bal-Pal trio of Extremists, the title 'Lokmanya' belonged to Tilak."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Partition of India (1947):\n\n(i) The Radcliffe Line demarcated the boundary between India and Pakistan.\n(ii) Punjab and Bengal were the two provinces that were partitioned.\n(iii) The princely states were given the option to join India, Pakistan, or remain independent.\n(iv) Lord Mountbatten was the last Viceroy of British India.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Sir Cyril Radcliffe drew the boundary line (Radcliffe Line) between India and Pakistan. (ii) is correct — Punjab and Bengal were partitioned based on Muslim and non-Muslim majority districts. (iv) is correct — Lord Mountbatten served as the last Viceroy and then became India's first Governor-General after independence. (iii) is wrong because while technically princely states had the option, the Indian government (through Sardar Patel and V.P. Menon) made it clear that remaining independent was not a practical option, and Mountbatten also advised them to join either India or Pakistan based on geographical contiguity."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The Revolt of 1857 was led in Delhi by:",
+      "options": [
+        "Nana Sahib",
+        "Tantia Tope",
+        "Bahadur Shah Zafar",
+        "Kunwar Singh"
+      ],
+      "correctAnswer": "Bahadur Shah Zafar",
+      "explanation": "Bahadur Shah Zafar, the last Mughal emperor, was proclaimed the leader of the revolt in Delhi and became its symbolic head. Nana Sahib is wrong because he led the revolt at Kanpur, not Delhi. Tantia Tope is wrong because he was the military commander under Nana Sahib and operated in central India. Kunwar Singh is wrong because he led the revolt in Bihar (Jagdishpur)."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The Home Rule Movement (1916) was led by:",
+      "options": [
+        "Mahatma Gandhi and Jawaharlal Nehru",
+        "Gopal Krishna Gokhale and Surendranath Banerjee",
+        "Annie Besant and Bal Gangadhar Tilak",
+        "Lala Lajpat Rai and Bipin Chandra Pal"
+      ],
+      "correctAnswer": "Annie Besant and Bal Gangadhar Tilak",
+      "explanation": "The Home Rule Movement (1916) was launched through two Home Rule Leagues — one by Tilak (April 1916, covering Maharashtra, Karnataka, Berar, and Central Provinces) and another by Annie Besant (September 1916, covering the rest of India). Gandhi and Nehru is wrong because Gandhi was involved in localized satyagrahas at this time and Nehru was not yet prominent. Gokhale and Banerjee is wrong because Gokhale had died in 1915 and Banerjee was a Moderate who did not support the movement. Lajpat Rai and Pal is wrong because they were not the organizers of the Home Rule Leagues."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The Wood's Despatch of 1854, which is considered the 'Magna Carta of English Education in India', recommended:",
+      "options": [
+        "Education exclusively in Sanskrit and Persian",
+        "Education to be imparted only to the upper castes",
+        "Abolition of all traditional Indian educational institutions",
+        "Establishment of universities in Calcutta, Bombay, and Madras based on the London University model"
+      ],
+      "correctAnswer": "Establishment of universities in Calcutta, Bombay, and Madras based on the London University model",
+      "explanation": "Wood's Despatch (1854), named after Charles Wood (President of the Board of Control), recommended establishing universities in the three presidency towns modeled on London University, creating a graded school system, and promoting both English and vernacular education. 'Education exclusively in Sanskrit and Persian' is wrong because the Despatch promoted English alongside vernaculars. 'Only upper castes' is wrong because the Despatch recommended spreading education widely, including mass education. 'Abolition of traditional institutions' is wrong because the Despatch did not call for their abolition."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The leader who is credited with the integration of princely states into the Indian Union after independence was:",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel",
+        "C. Rajagopalachari"
+      ],
+      "correctAnswer": "Sardar Vallabhbhai Patel",
+      "explanation": "Sardar Vallabhbhai Patel, as the first Deputy Prime Minister and Home Minister, along with V.P. Menon, is credited with the integration of over 560 princely states into the Indian Union. Jawaharlal Nehru is wrong because while he was Prime Minister, the task of princely state integration was handled by Patel. Dr. B.R. Ambedkar is wrong because he was the Chairman of the Drafting Committee of the Constitution, not involved in princely state integration. C. Rajagopalachari is wrong because he served as Governor-General after Mountbatten but did not handle the integration."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The leader known as 'Frontier Gandhi' who organized the Khudai Khidmatgar movement in the North-West Frontier Province was:",
+      "options": [
+        "Khan Abdul Ghaffar Khan",
+        "Maulana Abul Kalam Azad",
+        "Muhammad Ali Jauhar",
+        "Hakim Ajmal Khan"
+      ],
+      "correctAnswer": "Khan Abdul Ghaffar Khan",
+      "explanation": "Khan Abdul Ghaffar Khan, known as 'Frontier Gandhi' or 'Badshah Khan', organized the Khudai Khidmatgar (Servants of God) movement — a non-violent resistance movement of Pashtun people in NWFP. Maulana Abul Kalam Azad is wrong because he was the Congress President (youngest ever) and a scholar, not associated with Khudai Khidmatgar. Muhammad Ali Jauhar is wrong because he was a Khilafat Movement leader, not associated with NWFP's Khudai Khidmatgar. Hakim Ajmal Khan is wrong because he was a physician and Congress/Khilafat leader from Delhi."
+    }
+  ]
+}

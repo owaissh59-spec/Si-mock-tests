@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 80,
+  "count": 120,
   "questions": [
     {
       "test": 2,
@@ -402,6 +402,206 @@
       "test": 8,
       "stem": "the medieval indian ruler who introduced the 'iqta' system (land revenue assignments",
       "key": "Iltutmish"
+    },
+    {
+      "test": 14,
+      "stem": "the battle of plassey (1757) was fought between the british east india",
+      "key": "Siraj-ud-Daulah of Bengal"
+    },
+    {
+      "test": 14,
+      "stem": "which of the following are associated with the non-cooperation movement (1920–1922)? (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 14,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 14,
+      "stem": "the permanent settlement of bengal (1793) was introduced by:",
+      "key": "Lord Cornwallis"
+    },
+    {
+      "test": 14,
+      "stem": "consider the following statements about the indian national congress: (i) it was",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 14,
+      "stem": "match the following governor-generals with their associated reforms/policies: column i: (a) lord",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 14,
+      "stem": "the __________ was the first major uprising against british rule in india,",
+      "key": "Revolt of 1857"
+    },
+    {
+      "test": 14,
+      "stem": "the jallianwala bagh massacre took place on 13 april 1919 in which",
+      "key": "Amritsar"
+    },
+    {
+      "test": 14,
+      "stem": "consider the following statements about the quit india movement (1942): (i) mahatma",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 14,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 14,
+      "stem": "the indian independence act was passed by the british parliament in:",
+      "key": "July 1947"
+    },
+    {
+      "test": 14,
+      "stem": "which of the following are correctly associated with subhas chandra bose? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 14,
+      "stem": "match the following movements with their leaders: column i: (a) champaran satyagraha",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 14,
+      "stem": "the doctrine of 'paramountcy' as applied by the british to indian princely",
+      "key": "The British Crown was supreme and could intervene in the affairs of princely ..."
+    },
+    {
+      "test": 14,
+      "stem": "consider the following statements about the morley-minto reforms (1909): (i) they introduced",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 14,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 14,
+      "stem": "the 'drain of wealth' theory, which argued that britain was draining india's",
+      "key": "Dadabhai Naoroji"
+    },
+    {
+      "test": 14,
+      "stem": "match the following revolutionary leaders with their associated organizations: column i: (a)",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 14,
+      "stem": "the ilbert bill controversy (1883) was related to:",
+      "key": "The right of Indian judges to try European offenders"
+    },
+    {
+      "test": 14,
+      "stem": "the __________ of 1935 introduced provincial autonomy and a federal structure for",
+      "key": "Government of India Act"
+    },
+    {
+      "test": 14,
+      "stem": "who among the following is known as the 'father of the indian",
+      "key": "Raja Ram Mohan Roy"
+    },
+    {
+      "test": 14,
+      "stem": "consider the following statements about the lucknow pact (1916): (i) it was",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 14,
+      "stem": "the subsidiary alliance system was introduced by:",
+      "key": "Lord Wellesley"
+    },
+    {
+      "test": 14,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 14,
+      "stem": "the vernacular press act of 1878, which imposed restrictions on indian language",
+      "key": "Lord Lytton"
+    },
+    {
+      "test": 14,
+      "stem": "which of the following are features of the montagu-chelmsford reforms (1919)? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 14,
+      "stem": "the indian leader who presided over the lahore congress session (1929) where",
+      "key": "Jawaharlal Nehru"
+    },
+    {
+      "test": 14,
+      "stem": "match the following events with their years: column i: (a) formation of",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 14,
+      "stem": "the regulating act of 1773 was significant because it:",
+      "key": "Established the Supreme Court at Calcutta and created the post of Governor-Ge..."
+    },
+    {
+      "test": 14,
+      "stem": "consider the following statements about the poona pact (1932): (i) it was",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 14,
+      "stem": "the first indian to become a member of the british parliament was:",
+      "key": "Dadabhai Naoroji"
+    },
+    {
+      "test": 14,
+      "stem": "which of the following are correctly paired — socio-religious reform movement and",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 14,
+      "stem": "the cripps mission (1942) came to india with the proposal to:",
+      "key": "Offer dominion status after World War II with the right to frame a constitution"
+    },
+    {
+      "test": 14,
+      "stem": "the leader who is known as 'lokmanya' and was a prominent extremist",
+      "key": "Bal Gangadhar Tilak"
+    },
+    {
+      "test": 14,
+      "stem": "consider the following statements about the partition of india (1947): (i) the",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 14,
+      "stem": "the revolt of 1857 was led in delhi by:",
+      "key": "Bahadur Shah Zafar"
+    },
+    {
+      "test": 14,
+      "stem": "the home rule movement (1916) was led by:",
+      "key": "Annie Besant and Bal Gangadhar Tilak"
+    },
+    {
+      "test": 14,
+      "stem": "the wood's despatch of 1854, which is considered the 'magna carta of",
+      "key": "Establishment of universities in Calcutta, Bombay, and Madras based on the Lo..."
+    },
+    {
+      "test": 14,
+      "stem": "the leader who is credited with the integration of princely states into",
+      "key": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "test": 14,
+      "stem": "the leader known as 'frontier gandhi' who organized the khudai khidmatgar movement",
+      "key": "Khan Abdul Ghaffar Khan"
     }
   ]
 }

@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Series (Semantic, Number, Figural)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Find the next number in the series: 2, 6, 18, 54, __",
+      "options": [
+        "162",
+        "156",
+        "108",
+        "148"
+      ],
+      "correctAnswer": "162",
+      "explanation": "This is a geometric series where each term is multiplied by 3. 2×3=6, 6×3=18, 18×3=54, 54×3=162. 108 is wrong because it multiplies by 2 instead of 3. 156 is wrong because it incorrectly adds 102 to the previous term rather than multiplying by 3. 148 is wrong because it has no consistent pattern relationship with the series."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the series 3, 9, 27, 81, each term is obtained by multiplying the previous term by 3.\n(ii) In the series 5, 10, 20, 40, the common ratio is 2.\n(iii) In the series 1, 4, 9, 16, 25, the pattern follows consecutive prime numbers.\n(iv) In the series 2, 3, 5, 7, 11, each term is a prime number.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — 3×3=9, 9×3=27, 27×3=81 confirms multiplication by 3. (ii) is correct — 5×2=10, 10×2=20, 20×2=40 confirms common ratio of 2. (iv) is correct — 2, 3, 5, 7, 11 are the first five prime numbers. (iii) is wrong because 1, 4, 9, 16, 25 are squares of consecutive natural numbers (1², 2², 3², 4², 5²), not consecutive prime numbers. Option 1 is wrong because (iii) is incorrect. Option 3 is wrong because it includes (iii). Option 4 is wrong because it includes (iii) and excludes (i)."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Complete the word series: January, March, May, July, __",
+      "options": [
+        "October",
+        "August",
+        "September",
+        "November"
+      ],
+      "correctAnswer": "September",
+      "explanation": "The series lists every alternate month: January (1st), March (3rd), May (5th), July (7th), so the next is September (9th). October is wrong because it is the 10th month, not following the odd-position pattern. August is wrong because it is the 8th month and would be consecutive rather than alternate. November is wrong because it is the 11th month, skipping September which should come first."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the series 1, 1, 2, 3, 5, 8, 13, the next term is 21.\nReason (R): This is the Fibonacci series where each term is the sum of the two preceding terms.\n\nChoose the correct option:",
+      "options": [
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because 8+13=21, which is indeed the next term. (R) is correct because the Fibonacci series is defined by adding the two previous terms. (R) directly explains (A) because the rule of adding two preceding terms (8+13=21) is exactly why 21 is the next term. Option 2 is wrong because (R) is the precise explanation for (A). Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Find the missing number in the series: 7, 14, 28, ?, 112, 224",
+      "options": [
+        "56",
+        "48",
+        "64",
+        "42"
+      ],
+      "correctAnswer": "56",
+      "explanation": "Each term is multiplied by 2: 7×2=14, 14×2=28, 28×2=56, 56×2=112, 112×2=224. 48 is wrong because it would require adding 20 to 28, which doesn't match the doubling pattern. 64 is wrong because it is 2⁶ but doesn't follow from 28×2. 42 is wrong because it would require multiplying 28 by 1.5 rather than 2."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the series in Column I with their correct next terms in Column II.\n\nColumn I:\n(a) 4, 9, 16, 25, 36\n(b) 1, 8, 27, 64, 125\n(c) 2, 5, 10, 17, 26\n(d) 3, 6, 12, 24, 48\n\nColumn II:\n(i) 216\n(ii) 37\n(iii) 96\n(iv) 49",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "(a) 4,9,16,25,36 are squares of 2,3,4,5,6 — next is 7²=49=(iv). (b) 1,8,27,64,125 are cubes of 1,2,3,4,5 — next is 6³=216=(i). (c) 2,5,10,17,26 follow n²+1 for n=1,2,3,4,5 — next is 6²+1=37=(ii). (d) 3,6,12,24,48 is a geometric series ×2 — next is 48×2=96=(iii). Option 1 is wrong because it maps (a) to 37 and (b) to 49. Option 3 is wrong because it maps (b) to 96 instead of 216. Option 4 is wrong because it maps (a) to 216 and reverses all pairs."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Find the next term in the series: 5, 11, 23, 47, 95, __",
+      "options": [
+        "189",
+        "193",
+        "191",
+        "185"
+      ],
+      "correctAnswer": "191",
+      "explanation": "The pattern is ×2+1: 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95, 95×2+1=191. 185 is wrong because it would mean ×2−5 applied to 95. 189 is wrong because it would mean ×2−1 applied to 95. 193 is wrong because it would mean ×2+3 applied to 95."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Which of the following are correct completions of their respective number series?\n\n(i) 100, 95, 85, 70, 50, next is 25 (differences decrease by 5 each time: −5, −10, −15, −20, −25)\n(ii) 3, 12, 48, 192, next is 768 (each term multiplied by 4)\n(iii) 1, 2, 6, 24, 120, next is 720 (factorials: 1!, 2!, 3!, 4!, 5!, 6!)\n(iv) 4, 7, 13, 25, 49, next is 87 (differences double: +3, +6, +12, +24, +38)\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — differences are −5, −10, −15, −20, −25 so next term is 50−25=25. (ii) is correct — 3×4=12, 12×4=48, 48×4=192, 192×4=768. (iii) is correct — 1!=1, 2!=2, 3!=6, 4!=24, 5!=120, 6!=720. (iv) is wrong because if differences double (+3, +6, +12, +24), the next difference should be +48, making the next term 49+48=97, not 87. Option 2 is wrong because (iv) is incorrect. Option 3 is wrong because (iv) is incorrect. Option 4 is wrong because it excludes (i) which is correct."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Which of the following are correct identifications of the pattern rule in their respective series?\n\n(i) 2, 6, 18, 54: each term is multiplied by 3\n(ii) 5, 8, 13, 20, 29: differences increase by 2 each time (3, 5, 7, 9)\n(iii) 1, 4, 10, 22, 46: each term is doubled and then 2 is added\n(iv) 7, 10, 15, 22, 31: differences are consecutive prime numbers (3, 5, 7, 9)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 2×3=6, 6×3=18, 18×3=54. (ii) is correct — differences: 3, 5, 7, 9 (increasing by 2). (iii) is correct — 1×2+2=4, 4×2+2=10, 10×2+2=22, 22×2+2=46. (iv) is wrong — differences are 3, 5, 7, 9 but 9 is not a prime number, so the characterization as 'consecutive prime numbers' is incorrect; they are consecutive odd numbers. Option 2 is wrong because (iv) is incorrect. Option 3 is wrong because it excludes (iii) which is correct. Option 4 is wrong because (iv) is incorrect."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Find the next number in the series: 1, 4, 13, 40, 121, __",
+      "options": [
+        "356",
+        "364",
+        "370",
+        "342"
+      ],
+      "correctAnswer": "364",
+      "explanation": "The pattern is ×3+1: 1×3+1=4, 4×3+1=13, 13×3+1=40, 40×3+1=121, 121×3+1=364. 356 is wrong because it incorrectly uses ×3−7. 342 is wrong because it uses a subtraction pattern not consistent with the series. 370 is wrong because it would require ×3+7 which doesn't match earlier terms."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Complete the semantic series: Bud, Flower, Fruit, __",
+      "options": [
+        "Leaf",
+        "Root",
+        "Seed",
+        "Stem"
+      ],
+      "correctAnswer": "Seed",
+      "explanation": "This is a life-cycle series of a flowering plant in chronological order: Bud → Flower → Fruit → Seed. Leaf is wrong because a leaf is not part of the reproductive cycle sequence that follows fruit. Root is wrong because a root is a vegetative structure, not part of the flower-to-fruit-to-seed progression. Stem is wrong because a stem is a structural part of the plant, not the stage after fruit in reproduction."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the series 2, 6, 12, 20, 30, 42, the differences between consecutive terms form an arithmetic progression.\nReason (R): The series represents n(n+1) for n = 1, 2, 3, 4, 5, 6, which always produces terms whose successive differences increase by a constant value of 2.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — differences are 4, 6, 8, 10, 12 which form an AP with common difference 2. (R) is correct — 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42, and for quadratic expressions n(n+1)=n²+n, the second differences are always constant (=2). (R) explains (A) because the n(n+1) formula guarantees that first differences increase by 2. Option 1 is wrong because (R) directly explains why the differences form an AP. Option 2 is wrong because (R) is factually correct. Option 3 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Find the next term in the series: Z, X, V, T, R, __",
+      "options": [
+        "P",
+        "O",
+        "Q",
+        "N"
+      ],
+      "correctAnswer": "P",
+      "explanation": "The series moves backward through the alphabet skipping one letter each time: Z(26), X(24), V(22), T(20), R(18), next is P(16). Each term decreases by 2 positions. O is wrong because it is position 15, which would mean a decrease of 3 from R. Q is wrong because it is position 17, decreasing by only 1 from R. N is wrong because it is position 14, decreasing by 4 from R."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the series 2, 3, 5, 8, 12, 17, the differences between consecutive terms are 1, 2, 3, 4, 5.\n(ii) In the series 1, 4, 9, 16, 25, the next term is 36.\n(iii) The series 10, 20, 40, 80 has a common difference of 10.\n(iv) In an arithmetic progression, the difference between any two consecutive terms is constant.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — 3−2=1, 5−3=2, 8−5=3, 12−8=4, 17−12=5. (ii) is correct — these are perfect squares (1², 2², 3², 4², 5²) and next is 6²=36. (iv) is correct — this is the definition of an arithmetic progression. (iii) is wrong because 10, 20, 40, 80 is a geometric progression with common ratio 2, not a series with common difference 10 (20−10=10, but 40−20=20≠10). Option 1 is wrong because (iii) is incorrect. Option 2 is wrong because it includes (iii). Option 3 is wrong because it excludes (i) and includes (iii)."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "In a number series where each term equals 3 times the previous term minus 5, and the first term is 4, what is the 5th term of the series? (Series: 4, 7, 16, 43, ...)",
+      "options": [
+        "119",
+        "113",
+        "124",
+        "127"
+      ],
+      "correctAnswer": "124",
+      "explanation": "Using the rule: next = 3×previous − 5. Term 1: 4, Term 2: 3×4−5=7, Term 3: 3×7−5=16, Term 4: 3×16−5=43, Term 5: 3×43−5=124. 119 is wrong because it uses 3×43−10. 113 is wrong because it uses 3×43−16. 127 is wrong because it uses 3×43+2−5."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Match the type of series in Column I with the correct example in Column II.\n\nColumn I:\n(a) Arithmetic Series\n(b) Geometric Series\n(c) Fibonacci-type Series\n(d) Square Number Series\n\nColumn II:\n(i) 1, 1, 2, 3, 5, 8, 13\n(ii) 3, 7, 11, 15, 19, 23\n(iii) 4, 16, 64, 256, 1024\n(iv) 1, 4, 9, 16, 25, 36",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) Arithmetic Series has constant difference — (ii) 3,7,11,15,19,23 has common difference 4. (b) Geometric Series has constant ratio — (iii) 4,16,64,256,1024 has common ratio 4. (c) Fibonacci-type has each term as sum of two preceding — (i) 1,1,2,3,5,8,13. (d) Square Number Series — (iv) 1,4,9,16,25,36 = 1²,2²,3²,4²,5²,6². Option 1 is wrong because it maps arithmetic to geometric. Option 2 is wrong because it maps Fibonacci to geometric. Option 4 is wrong because it maps (a) to squares and (d) to arithmetic."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Consider the following statements about number series patterns:\n\n(i) In the series 2, 6, 18, 54, 162, the common ratio is 3.\n(ii) The series 1, 4, 9, 16, 25, 36 represents squares of consecutive natural numbers starting from 1.\n(iii) In the series 3, 5, 9, 15, 23, 33, the second differences are constant and equal to 2.\n(iv) The series 1, 8, 27, 64, 125 represents cubes of the first five even numbers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 6/2=3, 18/6=3, 54/18=3, 162/54=3. (ii) is correct — 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36. (iii) is correct — differences are 2,4,6,8,10 and second differences are 2,2,2,2 (constant). (iv) is wrong because 1,8,27,64,125 are cubes of 1,2,3,4,5 (consecutive natural numbers), not the first five even numbers (which would be 8,64,216,512,1000). Option 2 is wrong because (iv) is incorrect. Option 3 is wrong because it includes (iv) and excludes (ii). Option 4 is wrong because it includes (iv) and excludes (i)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Find the missing term in the series: 11, 13, 17, 19, 23, 29, 31, __",
+      "options": [
+        "33",
+        "37",
+        "35",
+        "39"
+      ],
+      "correctAnswer": "37",
+      "explanation": "This is the series of consecutive prime numbers: 11, 13, 17, 19, 23, 29, 31, and the next prime after 31 is 37. 33 is wrong because 33=3×11 is not prime. 35 is wrong because 35=5×7 is not prime. 39 is wrong because 39=3×13 is not prime."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Complete the word series: Infant, Child, Adolescent, Adult, __",
+      "options": [
+        "Retired",
+        "Ancient",
+        "Elderly",
+        "Newborn"
+      ],
+      "correctAnswer": "Elderly",
+      "explanation": "This is a semantic series representing stages of human life in order: Infant → Child → Adolescent → Adult → Elderly. Retired is wrong because retirement is an occupational status, not a life stage. Ancient is wrong because it refers to historical time periods, not human developmental stages. Newborn is wrong because it is a stage before infant, not after adult."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The next term in the series 1, 3, 7, 15, 31 is 63.\nReason (R): Each term in the series is obtained by the formula 2ⁿ − 1, where n is the position of the term.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the pattern shows each term is (previous term ×2)+1: 1,3,7,15,31,63. (R) is correct — 2¹−1=1, 2²−1=3, 2³−1=7, 2⁴−1=15, 2⁵−1=31, 2⁶−1=63. (R) explains (A) because applying the formula for n=6 gives 2⁶−1=63, which is exactly the next term. Option 1 is wrong because (R) directly explains why the next term is 63. Option 2 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Find the next term in the series: 6, 11, 21, 36, 56, __",
+      "options": [
+        "81",
+        "78",
+        "84",
+        "72"
+      ],
+      "correctAnswer": "81",
+      "explanation": "The differences between terms are: 5, 10, 15, 20. These differences increase by 5 each time. Next difference = 25, so next term = 56 + 25 = 81. 78 is wrong because it assumes the next difference is 22. 84 is wrong because it assumes the next difference is 28. 72 is wrong because it assumes the next difference is 16."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "A student observes the following pattern in a number series experiment:\n\nTerm 1: 5\nTerm 2: 12\nTerm 3: 23\nTerm 4: 38\nTerm 5: 57\n\nThe differences between consecutive terms are 7, 11, 15, 19. If this pattern continues, what will be the value of Term 7?",
+      "options": [
+        "103",
+        "107",
+        "80",
+        "111"
+      ],
+      "correctAnswer": "107",
+      "explanation": "The differences increase by 4 each time: 7, 11, 15, 19, 23, 27. Term 6 = 57 + 23 = 80. Term 7 = 80 + 27 = 107. 103 is wrong because it assumes the difference increases by 3 instead of 4. 80 is wrong because that's the value of Term 6, not Term 7. 111 is wrong because it assumes the difference increases by 5."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Which of the following are valid next terms in their respective series?\n\n(i) Series: 4, 12, 36, 108 — next term is 324\n(ii) Series: 1, 5, 14, 30, 55 — next term is 91\n(iii) Series: 7, 11, 19, 31, 47 — next term is 67\n(iv) Series: 10, 13, 19, 28, 40 — next term is 57\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — geometric series ×3: 4,12,36,108,324. (ii) is correct — these are pentagonal numbers: 1,5,14,30,55,91 (formula: n(3n−1)/2). (iii) is correct — differences are 4,8,12,16 (increasing by 4), next difference is 20, so 47+20=67. (iv) is wrong — differences are 3,6,9,12 (increasing by 3), next difference should be 15, giving 40+15=55, not 57. Option 1 is wrong because (iv) is incorrect. Option 2 is wrong because it excludes (iii) which is correct. Option 3 is wrong because (iv) is incorrect."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Find the next term in the letter series: AZ, BY, CX, DW, __",
+      "options": [
+        "EU",
+        "FV",
+        "EW",
+        "EV"
+      ],
+      "correctAnswer": "EV",
+      "explanation": "The first letters go forward: A, B, C, D, E. The second letters go backward: Z, Y, X, W, V. So the next pair is EV. EU is wrong because U is two positions back from W, not one. FV is wrong because F would be the 6th letter, not the 5th which follows D. EW is wrong because W is the previous term's second letter, not the next in the backward sequence."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) The series 1, 3, 6, 10, 15 represents triangular numbers.\n(ii) In the series 2, 6, 14, 30, 62, each term follows the pattern 2ⁿ − 2 for n = 2, 3, 4, 5, 6.\n(iii) The series 1, 2, 4, 8, 16 is an arithmetic series with common difference doubling.\n(iv) The series 0, 1, 3, 7, 15, 31 follows the pattern 2ⁿ − 1 for n = 0, 1, 2, 3, 4, 5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — triangular numbers are n(n+1)/2: 1, 3, 6, 10, 15 for n=1,2,3,4,5. (ii) is correct — 2²−2=2, 2³−2=6, 2⁴−2=14, 2⁵−2=30, 2⁶−2=62. (iv) is correct — 2⁰−1=0, 2¹−1=1, 2²−1=3, 2³−1=7, 2⁴−1=15, 2⁵−1=31. (iii) is wrong because 1, 2, 4, 8, 16 is a geometric series with common ratio 2, not an arithmetic series. An arithmetic series has constant difference, but differences here are 1, 2, 4, 8. Option 2 is wrong because (iii) is incorrect. Option 3 is wrong because it includes (iii). Option 4 is wrong because it excludes (i) and includes (iii)."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "In the series 3, 8, 18, 33, 53, __________, the number that fills the blank is:",
+      "options": [
+        "83",
+        "78",
+        "73",
+        "68"
+      ],
+      "correctAnswer": "78",
+      "explanation": "Differences: 5, 10, 15, 20. The differences increase by 5. Next difference = 25, so 53 + 25 = 78. 73 is wrong because it uses a difference of 20 (same as previous). 83 is wrong because it uses a difference of 30 (increasing by 10). 68 is wrong because it uses a difference of 15 (same as two steps ago)."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "The following data represents the number of tiles in each row of a triangular floor pattern:\n\nRow 1: 1 tile\nRow 2: 3 tiles\nRow 3: 5 tiles\nRow 4: 7 tiles\nRow 5: 9 tiles\n\nIf a craftsman needs to calculate the total number of tiles required for 8 complete rows, what is the total?",
+      "options": [
+        "49",
+        "56",
+        "64",
+        "72"
+      ],
+      "correctAnswer": "64",
+      "explanation": "Each row has (2n−1) tiles: 1, 3, 5, 7, 9, 11, 13, 15 for rows 1−8. The sum of first 8 odd numbers = 8² = 64. Alternatively: 1+3+5+7+9+11+13+15 = 64. 49 is wrong because it's the sum of first 7 odd numbers (7²). 56 is wrong because it incorrectly sums 8 terms of a different series. 72 is wrong because it adds an extra row's tiles."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Match the word series in Column I with their correct next terms in Column II.\n\nColumn I:\n(a) Mercury, Venus, Earth, Mars\n(b) Monday, Wednesday, Friday\n(c) Hydrogen, Helium, Lithium, Beryllium\n(d) Century, Decade, Year, Month\n\nColumn II:\n(i) Sunday\n(ii) Boron\n(iii) Week\n(iv) Jupiter",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "(a) Planets in order from the Sun: Mercury, Venus, Earth, Mars, next is Jupiter=(iv). (b) Alternate days of the week: Monday, Wednesday, Friday, next is Sunday=(i). (c) Elements by atomic number: H(1), He(2), Li(3), Be(4), next is Boron(5)=(ii). (d) Decreasing time units: Century, Decade, Year, Month, next is Week=(iii). Option 1 is wrong because it maps planets to Boron. Option 2 is wrong because it maps days to Week instead of Sunday. Option 4 is wrong because it completely jumbles all mappings."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Find the next term in the series: 2, 5, 11, 23, 47, __",
+      "options": [
+        "95",
+        "93",
+        "91",
+        "97"
+      ],
+      "correctAnswer": "95",
+      "explanation": "The pattern is ×2+1: 2×2+1=5, 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95. 93 is wrong because it would mean ×2−1 applied to 47. 91 is wrong because it would mean 47+44, no consistent pattern. 97 is wrong because it would mean ×2+3 applied to 47."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) In the series 144, 121, 100, 81, 64, the pattern is squares of decreasing consecutive numbers: 12², 11², 10², 9², 8².\n(ii) The next term after 64 in the above series would be 49.\n(iii) In the series 1, 4, 10, 20, 35, the differences are 3, 6, 10, 15 which are triangular numbers.\n(iv) In the series 5, 15, 45, 135, the common ratio is 5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 12²=144, 11²=121, 10²=100, 9²=81, 8²=64. (ii) is correct — next is 7²=49. (iii) is correct — differences are 3, 6, 10, 15 which are triangular numbers T(2)=3, T(3)=6, T(4)=10, T(5)=15. (iv) is wrong because 5×3=15, 15×3=45, 45×3=135 — the common ratio is 3, not 5. Option 1 is wrong because (iv) is incorrect. Option 2 is wrong because it includes (iv) and excludes (ii). Option 3 is wrong because it excludes (i) and includes (iv)."
+    }
+  ]
+}
