@@ -97,7 +97,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 31 | Morning | F — Computer Proficiency | MS Excel | 30 | foundation | Topic-wise | ✅ |
+| 31 | Morning | F — Computer Proficiency | MS Excel | 30 | foundation | Topic-wise | ⬜ |
 | 32 | Afternoon | A — General Intelligence & Reasoning | Word Building, Numerical & Symbolic Operations | 40 | foundation | Topic-wise | ⬜ |
 | 33 | Late | B — General Awareness | Physical & World Geography | 50 | foundation | Topic-wise | ⬜ |
 
@@ -105,7 +105,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 34 | Morning | C — Quantitative Aptitude | Simple Interest | 30 | foundation | Topic-wise | ✅ |
+| 34 | Morning | C — Quantitative Aptitude | Simple Interest | 30 | foundation | Topic-wise | ⬜ |
 | 35 | Afternoon | D — English Comprehension | Spot the Error | 40 | foundation | Topic-wise | ⬜ |
 | 36 | Late | E — Mathematical Abilities | Mensuration: 3D Solids | 50 | foundation | Topic-wise | ⬜ |
 
@@ -113,7 +113,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 37 | Morning | F — Computer Proficiency | MS PowerPoint | 30 | foundation | Topic-wise | ✅ |
+| 37 | Morning | F — Computer Proficiency | MS PowerPoint | 30 | foundation | Topic-wise | ⬜ |
 | 38 | Afternoon | A — General Intelligence & Reasoning | Venn Diagrams & Syllogism | 40 | foundation | Topic-wise | ⬜ |
 | 39 | Late | B — General Awareness | Geography of Jammu & Kashmir | 50 | foundation | Topic-wise | ⬜ |
 
@@ -121,7 +121,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 40 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | foundation | Topic-wise | ✅ |
+| 40 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | foundation | Topic-wise | ⬜ |
 | 41 | Afternoon | D — English Comprehension | Improvement of Sentences | 40 | foundation | Topic-wise | ⬜ |
 | 42 | Late | FULL | Cumulative revision — Week 2 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
 
@@ -129,7 +129,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 43 | Morning | E — Mathematical Abilities | Trigonometry: Ratios & Complementary Angles | 30 | foundation | Topic-wise | ✅ |
+| 43 | Morning | E — Mathematical Abilities | Trigonometry: Ratios & Complementary Angles | 30 | foundation | Topic-wise | ⬜ |
 | 44 | Afternoon | F — Computer Proficiency | Internet, Web, Email & e-Banking | 40 | foundation | Topic-wise | ⬜ |
 | 45 | Late | A — General Intelligence & Reasoning | Statement-Conclusion & Drawing Inferences | 50 | foundation | Topic-wise | ⬜ |
 
@@ -137,7 +137,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 46 | Morning | B — General Awareness | Indian Polity & Constitution | 30 | foundation | Topic-wise | ✅ |
+| 46 | Morning | B — General Awareness | Indian Polity & Constitution | 30 | foundation | Topic-wise | ⬜ |
 | 47 | Afternoon | C — Quantitative Aptitude | Profit, Loss & Discount | 40 | foundation | Topic-wise | ⬜ |
 | 48 | Late | D — English Comprehension | Fill in the Blanks | 50 | foundation | Topic-wise | ⬜ |
 
@@ -145,7 +145,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 49 | Morning | E — Mathematical Abilities | Heights & Distances | 30 | standard | Topic-wise | ✅ |
+| 49 | Morning | E — Mathematical Abilities | Heights & Distances | 30 | standard | Topic-wise | ⬜ |
 | 50 | Afternoon | F — Computer Proficiency | Networking Devices & Protocols | 40 | standard | Topic-wise | ⬜ |
 | 51 | Late | A — General Intelligence & Reasoning | Space Orientation, Visualization, Embedded & Paper Folding | 50 | standard | Topic-wise | ⬜ |
 
@@ -153,7 +153,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 52 | Morning | B — General Awareness | Economics & General Policy (India) | 30 | standard | Topic-wise | ✅ |
+| 52 | Morning | B — General Awareness | Economics & General Policy (India) | 30 | standard | Topic-wise | ⬜ |
 | 53 | Afternoon | C — Quantitative Aptitude | Partnership Business | 40 | standard | Topic-wise | ⬜ |
 | 54 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ⬜ |
 
@@ -161,7 +161,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 55 | Morning | E — Mathematical Abilities | Statistics: Tables, Graphs & Central Tendency | 30 | standard | Topic-wise | ✅ |
+| 55 | Morning | E — Mathematical Abilities | Statistics: Tables, Graphs & Central Tendency | 30 | standard | Topic-wise | ⬜ |
 | 56 | Afternoon | F — Computer Proficiency | Cyber Security: Threats & Prevention | 40 | standard | Topic-wise | ⬜ |
 | 57 | Late | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 50 | standard | Topic-wise | ⬜ |
 
@@ -169,7 +169,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 58 | Morning | B — General Awareness | J&K Economy, Culture & Administration | 30 | standard | Topic-wise | ✅ |
+| 58 | Morning | B — General Awareness | J&K Economy, Culture & Administration | 30 | standard | Topic-wise | ⬜ |
 | 59 | Afternoon | C — Quantitative Aptitude | Mixture & Alligation | 40 | standard | Topic-wise | ⬜ |
 | 60 | Late | D — English Comprehension | Direct/Indirect Narration | 50 | standard | Topic-wise | ⬜ |
 
@@ -177,7 +177,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 61 | Morning | E — Mathematical Abilities | Probability (Simple) | 30 | standard | Topic-wise | ✅ |
+| 61 | Morning | E — Mathematical Abilities | Probability (Simple) | 30 | standard | Topic-wise | ⬜ |
 | 62 | Afternoon | A — General Intelligence & Reasoning | Indexing, Address/Date-City Matching, Code Classification, Letters/Numbers | 40 | standard | Topic-wise | ⬜ |
 | 63 | Late | FULL | Cumulative revision — Week 3 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
 
@@ -185,7 +185,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 64 | Morning | B — General Awareness | General Science: Physics | 30 | standard | Topic-wise | ✅ |
+| 64 | Morning | B — General Awareness | General Science: Physics | 30 | standard | Topic-wise | ⬜ |
 | 65 | Afternoon | C — Quantitative Aptitude | Time, Speed & Distance | 40 | standard | Topic-wise | ⬜ |
 | 66 | Late | D — English Comprehension | Sentence & Paragraph Shuffling (Para Jumbles) | 50 | standard | Topic-wise | ⬜ |
 
@@ -193,7 +193,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 67 | Morning | A — General Intelligence & Reasoning | Critical Thinking, Emotional & Social Intelligence, Observation, Trends | 30 | standard | Topic-wise | ✅ |
+| 67 | Morning | A — General Intelligence & Reasoning | Critical Thinking, Emotional & Social Intelligence, Observation, Trends | 30 | standard | Topic-wise | ⬜ |
 | 68 | Afternoon | B — General Awareness | General Science: Chemistry | 40 | standard | Topic-wise | ⬜ |
 | 69 | Late | C — Quantitative Aptitude | Time & Work | 50 | standard | Topic-wise | ⬜ |
 
@@ -201,7 +201,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 70 | Morning | D — English Comprehension | Cloze Passage | 30 | standard | Topic-wise | ✅ |
+| 70 | Morning | D — English Comprehension | Cloze Passage | 30 | standard | Topic-wise | ⬜ |
 | 71 | Afternoon | B — General Awareness | General Science: Biology | 40 | standard | Topic-wise | ⬜ |
 | 72 | Late | D — English Comprehension | Comprehension Passage | 50 | standard | Topic-wise | ⬜ |
 
@@ -209,7 +209,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 73 | Morning | B — General Awareness | Scientific Research & Everyday Science | 30 | standard | Topic-wise | ✅ |
+| 73 | Morning | B — General Awareness | Scientific Research & Everyday Science | 30 | standard | Topic-wise | ⬜ |
 | 74 | Afternoon | B — General Awareness | Sports | 40 | standard | Topic-wise | ⬜ |
 | 75 | Late | B — General Awareness | Static GK (Books, Awards, Days, Institutions) | 50 | standard | Topic-wise | ⬜ |
 
@@ -217,7 +217,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 76 | Morning | B — General Awareness | National Current Affairs & People in News | 30 | standard | Topic-wise | ✅ |
+| 76 | Morning | B — General Awareness | National Current Affairs & People in News | 30 | standard | Topic-wise | ⬜ |
 | 77 | Afternoon | B — General Awareness | International & J&K Current Affairs | 40 | standard | Topic-wise | ⬜ |
 | 78 | Late | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 50 | standard | Topic-wise | ⬜ |
 
@@ -225,7 +225,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 79 | Morning | B — General Awareness | Medieval Indian History | 30 | standard | Topic-wise | ✅ |
+| 79 | Morning | B — General Awareness | Medieval Indian History | 30 | standard | Topic-wise | ⬜ |
 | 80 | Afternoon | C — Quantitative Aptitude | Ratio & Proportion | 40 | standard | Topic-wise | ⬜ |
 | 81 | Late | D — English Comprehension | Spellings & Detecting Misspelt Words | 50 | standard | Topic-wise | ⬜ |
 
@@ -233,7 +233,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 82 | Morning | A — General Intelligence & Reasoning | Problem Solving & Arithmetical Reasoning | 30 | standard | Topic-wise | ✅ |
+| 82 | Morning | A — General Intelligence & Reasoning | Problem Solving & Arithmetical Reasoning | 30 | standard | Topic-wise | ⬜ |
 | 83 | Afternoon | B — General Awareness | Physical & World Geography | 40 | standard | Topic-wise | ⬜ |
 | 84 | Late | FULL | Cumulative revision — Week 4 topics (ABCD) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
 
@@ -241,7 +241,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 85 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | standard | Topic-wise | ✅ |
+| 85 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | standard | Topic-wise | ⬜ |
 | 86 | Afternoon | E — Mathematical Abilities | Heights & Distances | 40 | standard | Topic-wise | ⬜ |
 | 87 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ⬜ |
 
@@ -249,7 +249,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 88 | Morning | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 30 | standard | Topic-wise | ✅ |
+| 88 | Morning | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 30 | standard | Topic-wise | ⬜ |
 | 89 | Afternoon | B — General Awareness | General Science: Physics | 40 | standard | Topic-wise | ⬜ |
 | 90 | Late | F — Computer Proficiency | Windows OS, Explorer & Keyboard Shortcuts | 50 | standard | Topic-wise | ⬜ |
 
@@ -257,7 +257,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 91 | Morning | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 30 | standard | Topic-wise | ✅ |
+| 91 | Morning | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 30 | standard | Topic-wise | ⬜ |
 | 92 | Afternoon | B — General Awareness | Medieval Indian History | 40 | standard | Topic-wise | ⬜ |
 | 93 | Late | C — Quantitative Aptitude | Ratio & Proportion | 50 | standard | Topic-wise | ⬜ |
 
@@ -265,7 +265,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 94 | Morning | D — English Comprehension | Spellings & Detecting Misspelt Words | 30 | standard | Topic-wise | ✅ |
+| 94 | Morning | D — English Comprehension | Spellings & Detecting Misspelt Words | 30 | standard | Topic-wise | ⬜ |
 | 95 | Afternoon | A — General Intelligence & Reasoning | Problem Solving & Arithmetical Reasoning | 40 | standard | Topic-wise | ⬜ |
 | 96 | Late | B — General Awareness | Physical & World Geography | 50 | standard | Topic-wise | ⬜ |
 
@@ -273,7 +273,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 97 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | standard | Topic-wise | ✅ |
+| 97 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | standard | Topic-wise | ⬜ |
 | 98 | Afternoon | E — Mathematical Abilities | Heights & Distances | 40 | standard | Topic-wise | ⬜ |
 | 99 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ⬜ |
 
@@ -281,7 +281,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 100 | Morning | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 30 | standard | Topic-wise | ✅ |
+| 100 | Morning | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 30 | standard | Topic-wise | ⬜ |
 | 101 | Afternoon | B — General Awareness | General Science: Physics | 40 | standard | Topic-wise | ⬜ |
 | 102 | Late | F — Computer Proficiency | Windows OS, Explorer & Keyboard Shortcuts | 50 | standard | Topic-wise | ⬜ |
 
@@ -289,7 +289,7 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 103 | Morning | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 30 | standard | Topic-wise | ✅ |
+| 103 | Morning | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 30 | standard | Topic-wise | ⬜ |
 | 104 | Afternoon | B — General Awareness | Medieval Indian History | 40 | standard | Topic-wise | ⬜ |
 | 105 | Late | FULL | Cumulative revision — Week 5 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
 
