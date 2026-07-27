@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 320,
+  "count": 329,
   "questions": [
     {
       "test": 2,
@@ -1602,6 +1602,51 @@
       "test": 39,
       "stem": "match the following districts of j&k ut with an important geographical feature",
       "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 42,
+      "stem": "the karakoram pass, historically important on the trans-himalayan trade route, lies on",
+      "key": "Ladakh and Xinjiang (China)"
+    },
+    {
+      "test": 42,
+      "stem": "which of the following is the largest producer of coal in india",
+      "key": "Chhattisgarh"
+    },
+    {
+      "test": 42,
+      "stem": "the deccan plateau in india lies mainly between:",
+      "key": "The Western Ghats and Eastern Ghats"
+    },
+    {
+      "test": 42,
+      "stem": "the amazon river basin, the largest in the world, lies primarily in",
+      "key": "South America"
+    },
+    {
+      "test": 42,
+      "stem": "the tropic of cancer passes through how many indian states?",
+      "key": "8"
+    },
+    {
+      "test": 42,
+      "stem": "consider the following statements about jammu & kashmir: (i) the kashmir valley",
+      "key": "All of the above"
+    },
+    {
+      "test": 42,
+      "stem": "the 'deccan trap' physical feature is famous for its extensive deposits of:",
+      "key": "Basaltic (volcanic) lava rock"
+    },
+    {
+      "test": 42,
+      "stem": "which of the following is the deepest ocean on earth?",
+      "key": "Pacific Ocean"
+    },
+    {
+      "test": 42,
+      "stem": "the 'ring of fire', an area of intense volcanic and earthquake activity,",
+      "key": "The Pacific Ocean"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 217,
+  "count": 265,
   "questions": [
     {
       "test": 4,
@@ -1087,6 +1087,246 @@
       "test": 35,
       "stem": "consider the following statements: (i) the quality of the mangoes were not",
       "key": "(i) and (iii) only"
+    },
+    {
+      "test": 41,
+      "stem": "choose the option that best improves the underlined portion of the sentence:",
+      "key": "never give up"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"neither the teacher nor",
+      "key": "were"
+    },
+    {
+      "test": 41,
+      "stem": "consider the following four versions of a sentence: (i) the committee has",
+      "key": "(iii) only"
+    },
+    {
+      "test": 41,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"if i ___was___ you,",
+      "key": "were"
+    },
+    {
+      "test": 41,
+      "stem": "match the following original sentences (with the underlined error) with the type",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"he has been working",
+      "key": "for ten years"
+    },
+    {
+      "test": 41,
+      "stem": "which of the following are grammatically correct sentences? (i) one of my",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"the prime minister, along",
+      "key": "has arrived"
+    },
+    {
+      "test": 41,
+      "stem": "consider the following statements about the sentence 'she said that she will",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 41,
+      "stem": "the construction 'more better' is grammatically incorrect because it is an example",
+      "key": "double comparative"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"he is senior ___than___",
+      "key": "to"
+    },
+    {
+      "test": 41,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"hardly had he sat",
+      "key": "when the phone rang"
+    },
+    {
+      "test": 41,
+      "stem": "match the following incorrect sentences with the correction rule that applies: column",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"the reason for his",
+      "key": "that"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"everyone ___are___ expected to",
+      "key": "is"
+    },
+    {
+      "test": 41,
+      "stem": "which of the following sentences are correctly improved versions? (i) original: 'he",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"he gave me ___a",
+      "key": "advice"
+    },
+    {
+      "test": 41,
+      "stem": "the rule that governs the correction 'he is knowing the answer' →",
+      "key": "stative"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"ram is elder ___than___",
+      "key": "to"
+    },
+    {
+      "test": 41,
+      "stem": "consider the following statements about improving sentences: (i) 'different from' is preferred",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"if it rains tomorrow,",
+      "key": "will cancel"
+    },
+    {
+      "test": 41,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"not only he is",
+      "key": "but also hardworking"
+    },
+    {
+      "test": 41,
+      "stem": "match the following incorrect sentences with the specific error type: column i:",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"neither he ___nor his",
+      "key": "nor his brothers are"
+    },
+    {
+      "test": 41,
+      "stem": "the correct improvement of 'i am going to purchase a __________ of",
+      "key": "pair"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"he is not only",
+      "key": "but also a good dancer"
+    },
+    {
+      "test": 41,
+      "stem": "which of the following sentences are grammatically correct after improvement? (i) he",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"he has ordered ___a",
+      "key": "some milk"
+    },
+    {
+      "test": 41,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"the teacher explained ___the",
+      "key": "to the students"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"by the time you",
+      "key": "will have finished"
+    },
+    {
+      "test": 41,
+      "stem": "match the following commonly confused pairs with the correct use in the",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"scarcely had he entered",
+      "key": "when"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"he returned to home",
+      "key": "after two years"
+    },
+    {
+      "test": 41,
+      "stem": "which of the following are grammatically correct improvements? (i) 'he does not",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 41,
+      "stem": "the verb 'lie' (to recline) is followed in the past tense by",
+      "key": "'lay' and 'laid'"
+    },
+    {
+      "test": 41,
+      "stem": "choose the best improvement of the underlined portion: \"the old man died",
+      "key": "of"
+    },
+    {
+      "test": 42,
+      "stem": "choose the correctly spelt word:",
+      "key": "Occasion"
+    },
+    {
+      "test": 42,
+      "stem": "choose the meaning of the idiom: 'to let the cat out of",
+      "key": "To reveal a secret unintentionally"
+    },
+    {
+      "test": 42,
+      "stem": "identify the part of the sentence that has an error: \"each of",
+      "key": "have submitted"
+    },
+    {
+      "test": 42,
+      "stem": "choose the meaning of the idiom: 'to burn the midnight oil'",
+      "key": "To work or study late into the night"
+    },
+    {
+      "test": 42,
+      "stem": "choose the correctly improved sentence: original: 'he is more taller than his",
+      "key": "He is taller than his brother."
+    },
+    {
+      "test": 42,
+      "stem": "choose the correctly spelt word:",
+      "key": "Accommodation"
+    },
+    {
+      "test": 42,
+      "stem": "choose the best improvement of the underlined portion: \"the quality of these",
+      "key": "is"
+    },
+    {
+      "test": 42,
+      "stem": "choose the meaning of the idiom: 'a blessing in disguise'",
+      "key": "A good thing that appears bad at first"
     }
   ]
 }

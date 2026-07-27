@@ -121,9 +121,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 40 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | foundation | Topic-wise | ⬜ |
-| 41 | Afternoon | D — English Comprehension | Improvement of Sentences | 40 | foundation | Topic-wise | ⬜ |
-| 42 | Late | FULL | Cumulative revision — Week 2 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
+| 40 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | foundation | Topic-wise | ✅ |
+| 41 | Afternoon | D — English Comprehension | Improvement of Sentences | 40 | foundation | Topic-wise | ✅ |
+| 42 | Late | FULL | Cumulative revision — Week 2 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ✅ |
 
 ### Day 15
 

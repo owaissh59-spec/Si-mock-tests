@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 278,
+  "count": 286,
   "questions": [
     {
       "test": 5,
@@ -1392,6 +1392,46 @@
       "test": 36,
       "stem": "a cylindrical road roller has the following specifications: length of the roller",
       "key": "4400 m^2"
+    },
+    {
+      "test": 42,
+      "stem": "the area of a rectangle is 240 sq.m. if its length is",
+      "key": "56 m"
+    },
+    {
+      "test": 42,
+      "stem": "the perpendicular from the centre of a circle to a chord __________",
+      "key": "bisects"
+    },
+    {
+      "test": 42,
+      "stem": "the volume of a right circular cylinder of radius 7 cm and",
+      "key": "1,540 cm³"
+    },
+    {
+      "test": 42,
+      "stem": "the area of an equilateral triangle with side 10 cm is (in",
+      "key": "25√3"
+    },
+    {
+      "test": 42,
+      "stem": "the lateral surface area of a cone with radius 7 cm and",
+      "key": "220 cm²"
+    },
+    {
+      "test": 42,
+      "stem": "in a right-angled triangle, if the two legs are 6 cm and",
+      "key": "10 cm"
+    },
+    {
+      "test": 42,
+      "stem": "the circumference of a circle with radius 14 cm is (take π",
+      "key": "88 cm"
+    },
+    {
+      "test": 42,
+      "stem": "the angle subtended by a diameter at any point on the circumference",
+      "key": "90°"
     }
   ]
 }

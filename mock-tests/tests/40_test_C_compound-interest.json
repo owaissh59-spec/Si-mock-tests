@@ -1,0 +1,297 @@
+{
+  "subject": "C",
+  "topic": "Compound Interest",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "Find the compound interest on ₹10,000 for 2 years at 10% per annum, compounded annually.",
+      "options": ["₹2,000", "₹2,050", "₹2,100", "₹2,150"],
+      "correctAnswer": "₹2,100",
+      "explanation": "Amount A = P(1 + R/100)^n = 10000 × (1.1)^2 = 10000 × 1.21 = ₹12,100. Therefore CI = 12,100 − 10,000 = ₹2,100. '₹2,000' is the simple interest for 2 years at 10% — a classic trap that ignores compounding. '₹2,050' is the average of SI and full amount, not a real formula outcome. '₹2,150' overshoots the correct result by ₹50, likely from using an extra half-year of interest."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about compound interest:\n\n(i) Compound interest is always greater than or equal to simple interest for the same principal, rate and time (t ≥ 1 year).\n(ii) When interest is compounded annually, the amount after t years is P(1 + R/100)^t.\n(iii) For a given principal, rate and time, compound interest is the same whether the interest is compounded annually or half-yearly.\n(iv) When R and t are equal to 1, CI = SI.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct because at t = 1 year CI = SI, and for t > 1 CI grows faster due to interest-on-interest. (ii) is the standard formula for annual compounding — correct. (iv) is correct because at t = 1 year, CI is simply P·R/100 = SI (no compounding cycle has elapsed). (iii) is INCORRECT: for the same nominal rate, half-yearly compounding gives a larger effective rate (R/2 per period, 2t periods), so CI is larger, not equal. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "A sum of ₹5,000 is invested for 2 years at 8% per annum, compounded annually. What is the amount at the end of 2 years?",
+      "options": ["₹5,800", "₹5,864", "₹5,900", "₹5,832"],
+      "correctAnswer": "₹5,832",
+      "explanation": "A = 5000 × (1.08)^2 = 5000 × 1.1664 = ₹5,832. '₹5,800' is the amount using simple interest (5000 + 800), ignoring compounding altogether. '₹5,864' overshoots by ₹32, typically from adding an extra period's rounding. '₹5,900' assumes 9% or 4½ compounding periods, both wrong."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The compound interest on a sum for the first year is always equal to the simple interest on the same sum for one year at the same rate.\nReason (R): During the first year, interest has not yet been added back to the principal, so the interest computation is identical for both SI and CI.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: after 1 year, both SI and CI (annual) work out to P·R/100 because compounding requires at least one completed compounding period before any 'interest on interest' begins. (R) is correct: the first year's interest has not yet been capitalized, so no interest-on-interest exists yet. (R) explains (A) precisely — CI diverges from SI only after the first compounding, which is the reason for their equality in year 1. Option 2 wrongly denies the explanatory link. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "Match the following compounding periods with their formula for amount A (given principal P, rate R% per annum, time t years):\n\nColumn I:\n(a) Compounded annually\n(b) Compounded half-yearly\n(c) Compounded quarterly\n(d) Compounded monthly\n\nColumn II:\n(i) A = P(1 + R/400)^{4t}\n(ii) A = P(1 + R/200)^{2t}\n(iii) A = P(1 + R/1200)^{12t}\n(iv) A = P(1 + R/100)^{t}\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "For annual compounding the period is 1 year with rate R% per period → (a)-(iv). Half-yearly halves the rate and doubles the number of periods → (b)-(ii). Quarterly divides rate by 4 and quadruples the periods → (c)-(i). Monthly divides rate by 12 and multiplies periods by 12 → (d)-(iii). The distractor (a)-(ii) treats annual as half-yearly, which changes both rate and periods incorrectly. (a)-(iii) treats annual as monthly, wildly wrong. (c)-(iii) confuses quarterly with monthly."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "The difference between the compound interest and the simple interest on a sum for 2 years at 10% per annum is ₹50. Find the sum.",
+      "options": ["₹4,000", "₹4,500", "₹5,000", "₹5,500"],
+      "correctAnswer": "₹5,000",
+      "explanation": "For 2 years, the CI–SI gap = P × (R/100)^2. So 50 = P × (10/100)^2 = P × 0.01, giving P = 5,000. '₹4,000' assumes 50 = P × (10/100), which is a wrong 1-year formula. '₹4,500' has no clean derivation and is a mid-range distractor. '₹5,500' would require the gap to be ₹55, not ₹50 — it comes from confusing the formula direction."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Which of the following statements are correct about compound interest?\n\n(i) If R is the annual rate compounded annually, the effective annual rate is R%.\n(ii) If R is the annual rate compounded half-yearly, the effective annual rate is more than R%.\n(iii) The formula A = P(1 + R/100)^n assumes annual compounding.\n(iv) Compound interest for the second year equals the simple interest for the first year.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — with annual compounding once per year, the effective rate equals the nominal rate. (ii) is correct — compounding more frequently than once a year raises the effective rate above the nominal rate (e.g., 10% compounded half-yearly gives an effective rate of 10.25%). (iii) is correct — the standard formula assumes annual compounding. (iv) is INCORRECT — CI for the second year is P·R/100 + (interest on first year's interest) = SI × (1 + R/100), which is strictly greater than the SI for one year. Any option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "The population of a town increases at the rate of 5% per annum. If the current population is 50,000, what will it be after 2 years (assuming compound growth)?",
+      "options": ["₹52,500", "55,000", "55,125", "56,000"],
+      "correctAnswer": "55,125",
+      "explanation": "Population after 2 years = 50000 × (1.05)^2 = 50000 × 1.1025 = 55,125. '52,500' uses only 1 year's growth. '55,000' applies simple interest style (5000 × 2 added), ignoring compounding. '56,000' overshoots by treating the rate as 6% or by adding an extra half-year, both wrong. Note: the answer is a population count, but option 1 is deliberately written with the ₹ prefix as a distractor to test attention."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "The compound interest formula for amount when compounded __________ is A = P(1 + R/200)^{2t}, where R is the annual rate and t is the number of years.",
+      "options": ["half-yearly", "annually", "quarterly", "monthly"],
+      "correctAnswer": "half-yearly",
+      "explanation": "R/200 = (R/2)/100 means the per-period rate is half the annual rate, and 2t means there are two periods per year → this is half-yearly compounding. Annual compounding uses R/100 and t periods, not R/200 and 2t. Quarterly compounding uses R/400 and 4t periods. Monthly compounding uses R/1200 and 12t periods. Only the half-yearly form matches R/200 and 2t exactly."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "A sum of money doubles itself in 4 years at compound interest. In how many years will it become 4 times of itself at the same rate?",
+      "options": ["6 years", "10 years", "12 years", "8 years"],
+      "correctAnswer": "8 years",
+      "explanation": "Doubling in 4 years means P(1 + R/100)^4 = 2P, so (1 + R/100)^4 = 2. For the amount to become 4P = 2^2·P we need (1 + R/100)^n = 4 = 2^2 = ((1+R/100)^4)^2 = (1 + R/100)^8. Hence n = 8 years. '6 years' incorrectly adds 2 to the doubling time. '10 years' assumes tripling then adding, not exponential. '12 years' (3× the doubling time) would make the amount 2^3 = 8P, not 4P."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Consider the following statements about the relationship between CI and SI:\n\n(i) For the same P, R, and 1 year, CI = SI when interest is compounded annually.\n(ii) For 2 years at rate R% per annum compounded annually, CI − SI = P(R/100)^2.\n(iii) For 3 years at rate R% per annum, CI − SI = P × R²/100² × (3 + R/100).\n(iv) The excess of CI over SI increases as the compounding frequency decreases.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — one year of annual compounding has no interest-on-interest, so CI = SI. (ii) is the well-known 2-year formula CI − SI = P(R/100)^2. (iii) is the standard 3-year expression obtained by algebraic expansion of (1 + R/100)^3 − 1 − 3R/100. (iv) is INCORRECT — MORE frequent compounding (not less) increases CI, so the excess of CI over SI grows with compounding frequency, not decreases. Any option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "The compound interest on ₹6,000 at 15% per annum for 2 years, compounded annually, is:",
+      "options": ["₹1,800", "₹1,935", "₹2,100", "₹2,250"],
+      "correctAnswer": "₹1,935",
+      "explanation": "A = 6000 × (1.15)^2 = 6000 × 1.3225 = ₹7,935. CI = 7,935 − 6,000 = ₹1,935. '₹1,800' is the simple interest for 2 years at 15% (6000 × 0.15 × 2), ignoring compounding. '₹2,100' overshoots by ₹165, likely from adding rate twice on the compounded principal. '₹2,250' is an over-approximation that treats CI as being ~1.5 × SI — much higher than the real gap."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A sum invested at a fixed rate under compound interest grows faster than the same sum under simple interest as time increases.\nReason (R): Under compound interest, each period's interest is added to the principal and earns further interest, while under simple interest only the original principal earns interest.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — CI grows exponentially while SI grows linearly; the gap widens with time. (R) is correct — this is the very definition distinguishing the two interest models. (R) explains (A) directly, since 'interest earning interest' is the mechanism that causes faster growth. Option 2 wrongly denies the explanatory link. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "The compound interest on ₹8,000 for 1½ years at 10% per annum, compounded half-yearly, is:",
+      "options": ["₹1,200", "₹1,261", "₹1,300", "₹1,331"],
+      "correctAnswer": "₹1,261",
+      "explanation": "Half-yearly compounding: R/2 = 5% per half-year, and 1½ years = 3 half-years. A = 8000 × (1.05)^3 = 8000 × 1.157625 = ₹9,261. CI = 9,261 − 8,000 = ₹1,261. '₹1,200' is the SI for 1½ years at 10% (8000 × 0.10 × 1.5), ignoring compounding. '₹1,300' overshoots by ~₹39, roughly what one gets by adding an extra half-year. '₹1,331' is the CI for 2 full years at 10% annual compounding, wrong for both the time and compounding period given."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "A sum of ₹15,625 is lent at 4% per annum, compounded annually. What is the amount at the end of 3 years?",
+      "options": ["₹17,500", "₹17,576", "₹17,650", "₹17,725"],
+      "correctAnswer": "₹17,576",
+      "explanation": "A = 15625 × (1.04)^3 = 15625 × 1.124864 = ₹17,576 (approx). '₹17,500' comes from taking simple interest at 4% for 3 years (~₹1,875 added), which underestimates by ~₹76. '₹17,650' overshoots by ~₹74, likely from using 4.15% instead of 4%. '₹17,725' would correspond to nearly 4.5% compounding, not 4%."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Which of the following investments earns the largest amount after one year on a principal of ₹1,000 at a nominal 12% per annum?\n\n(i) Compounded annually\n(ii) Compounded half-yearly\n(iii) Compounded quarterly\n(iv) Compounded monthly\n\nSelect the correct combination in order of increasing amount:",
+      "options": [
+        "(i) < (ii) < (iii) < (iv)",
+        "(iv) < (iii) < (ii) < (i)",
+        "(i) < (iii) < (ii) < (iv)",
+        "(ii) < (i) < (iv) < (iii)"
+      ],
+      "correctAnswer": "(i) < (ii) < (iii) < (iv)",
+      "explanation": "The more frequent the compounding, the greater the amount (effective rate rises with frequency). At 12% nominal for 1 year: annual gives 1,120, half-yearly ~1,123.6, quarterly ~1,125.5, monthly ~1,126.8. So (i) < (ii) < (iii) < (iv). Option 2 reverses the order, treating annual as the highest — wrong. Option 3 flips (ii) and (iii). Option 4 places (ii) as the smallest — but half-yearly is greater than annual, so this is wrong."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "The simple interest on a sum of money for 2 years at 5% per annum is ₹500. What is the compound interest on the same sum for the same period at the same rate?",
+      "options": ["₹500.00", "₹525.00", "₹537.50", "₹512.50"],
+      "correctAnswer": "₹512.50",
+      "explanation": "SI for 2 years = P·R·t/100 = P × 5 × 2 / 100 = 500 ⇒ P = 5,000. CI on 5,000 at 5% for 2 years = 5000 × (1.05^2 − 1) = 5000 × 0.1025 = ₹512.50. '₹500.00' equals SI itself — impossible for CI at t > 1. '₹525.00' overshoots by ~₹12.50, doubling the CI–SI gap. '₹537.50' overshoots even more, roughly by adding a third year of compounding."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "A sum grows to ₹6,655 in 3 years at 10% per annum, compounded annually. Find the principal.",
+      "options": ["₹5,000", "₹5,500", "₹6,000", "₹6,050"],
+      "correctAnswer": "₹5,000",
+      "explanation": "A = P(1.10)^3 ⇒ 6655 = P × 1.331 ⇒ P = 6655 / 1.331 = ₹5,000. '₹5,500' would give 5500 × 1.331 = 7,320.5, not 6,655. '₹6,000' would give 6000 × 1.331 = 7,986, too high. '₹6,050' would give 6050 × 1.331 ≈ 8,053, far too high. Only ₹5,000 matches exactly."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "Match the following scenarios with their approximate compound interest for 2 years (compounded annually):\n\nColumn I:\n(a) P = ₹1,000, R = 10%\n(b) P = ₹2,000, R = 5%\n(c) P = ₹1,000, R = 20%\n(d) P = ₹5,000, R = 10%\n\nColumn II:\n(i) ₹205\n(ii) ₹210\n(iii) ₹440\n(iv) ₹1,050\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) 1000×(1.1²−1) = 1000×0.21 = ₹210 → (a)-(ii). (b) 2000×(1.05²−1) = 2000×0.1025 = ₹205 → (b)-(i). (c) 1000×(1.2²−1) = 1000×0.44 = ₹440 → (c)-(iii). (d) 5000×(1.1²−1) = 5000×0.21 = ₹1,050 → (d)-(iv). The distractor (a)-(i) mixes up 10% (a) with 5% (b). (c)-(iv) puts the 5000 sum onto (c). (a)-(iii) puts 20% CI onto (a)."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "The compound interest on ₹4,000 at 10% per annum, compounded annually, for 2 years is invested along with a simple interest scheme of ₹4,000 at 10% for 2 years. What is the total interest earned from both schemes together?",
+      "options": ["₹1,600", "₹1,640", "₹1,680", "₹1,720"],
+      "correctAnswer": "₹1,640",
+      "explanation": "CI on ₹4,000 at 10% for 2 years = 4000 × (1.1² − 1) = 4000 × 0.21 = ₹840. SI on ₹4,000 at 10% for 2 years = 4000 × 0.10 × 2 = ₹800. Total = 840 + 800 = ₹1,640. '₹1,600' assumes both are SI (₹800 + ₹800). '₹1,680' would need CI on both (₹840 + ₹840). '₹1,720' overshoots — likely by treating CI as 22% instead of 21% for 2 years."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "The following table shows the amount accumulated on ₹10,000 at 10% per annum compounded annually for different periods.\n\nYear      Amount\n1         ₹11,000\n2         ₹12,100\n3         ₹13,310\n4         ₹14,641\n\nBased on this data, what is the compound interest earned in the third year alone (i.e., interest for year 3)?",
+      "options": ["₹1,000", "₹1,100", "₹1,210", "₹1,331"],
+      "correctAnswer": "₹1,210",
+      "explanation": "Interest earned in year 3 = Amount at end of year 3 − Amount at end of year 2 = 13,310 − 12,100 = ₹1,210. '₹1,000' is the interest for year 1 only (11,000 − 10,000). '₹1,100' is the interest for year 2 (12,100 − 11,000). '₹1,331' is the interest for year 4 (14,641 − 13,310), not year 3."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "A sum of ₹12,000 is invested at 8% per annum compounded annually. What will be the amount at the end of the 3rd year (approx)?",
+      "options": ["₹14,000", "₹14,400", "₹15,000", "₹15,113"],
+      "correctAnswer": "₹15,113",
+      "explanation": "A = 12000 × (1.08)^3 = 12000 × 1.259712 ≈ ₹15,113. '₹14,000' uses only 2 years of compounding or ignores rate. '₹14,400' comes from SI for ~3 years (12000 × 0.24 = 2,880, giving 14,880 — close but not this value; a rounding trap). '₹15,000' is a rough round number that ignores the compounding effect."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "The difference between the compound interest for 2 years and the simple interest for 2 years on a sum of ₹8,000 at 5% per annum is:",
+      "options": ["₹15", "₹25", "₹40", "₹20"],
+      "correctAnswer": "₹20",
+      "explanation": "CI − SI (2 years) = P × (R/100)^2 = 8000 × (0.05)^2 = 8000 × 0.0025 = ₹20. '₹15' would need P × (R/100)^2 = 6000 × 0.0025, off principal. '₹25' would need P = 10,000, again wrong principal. '₹40' would need R = ~7.07% or P = 16,000, both incorrect."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): For a fixed principal and time, doubling the annual rate more than doubles the compound interest.\nReason (R): Compound interest grows linearly with the rate of interest.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — for t > 1, doubling R makes (1+2R/100)^t grow faster than double, because compounding is nonlinear in R. (For example, at t = 2 and R = 10%, CI is 21%; at R = 20%, CI is 44% — more than double.) (R) is INCORRECT — CI is a nonlinear (exponential) function of R, not linear. Options 1 and 2 wrongly accept (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "The compound interest on a certain sum for 2 years is ₹410 and simple interest is ₹400. What is the rate of interest per annum?",
+      "options": ["4%", "5%", "6%", "8%"],
+      "correctAnswer": "5%",
+      "explanation": "SI/year = 400/2 = ₹200. Difference CI − SI = 10 = SI × R/100, so 10 = 200 × R/100 ⇒ R = 5%. Alternatively, (CI − SI)/SI × 100 gives R directly = 10/200 × 100 = 5%. '4%' would produce SI = 200 → CI − SI = 8, not 10. '6%' would give a difference of 12, not 10. '8%' would give a difference of 16, far larger than 10."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Consider the following statements about doubling and tripling times under compound interest:\n\n(i) At 10% per annum compounded annually, a sum roughly doubles in about 7.3 years.\n(ii) A useful shortcut is the 'Rule of 72': doubling time ≈ 72 / R years.\n(iii) A sum triples faster than it doubles, at the same rate.\n(iv) The tripling time is approximately 1.585 times the doubling time (since log₂3 ≈ 1.585).\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — ln(2)/ln(1.10) ≈ 0.693/0.0953 ≈ 7.27 years, roughly 7.3. (ii) is the standard Rule of 72 rough estimate for doubling time. (iv) is correct — since 3 = 2^{log₂3} and log₂3 ≈ 1.585, tripling takes ~1.585× the doubling time. (iii) is INCORRECT — tripling requires the sum to grow by a larger factor, so at the same rate it takes LONGER than doubling, not shorter. Any option including (iii) is wrong."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "A sum of ₹8,000 is invested at 10% per annum, compounded half-yearly. What is the compound interest earned in 1 year?",
+      "options": ["₹800", "₹810", "₹840", "₹820"],
+      "correctAnswer": "₹820",
+      "explanation": "Half-yearly compounding at 10% p.a. gives 5% per half-year for 2 half-years. A = 8000 × (1.05)^2 = 8000 × 1.1025 = ₹8,820. CI = 8,820 − 8,000 = ₹820. '₹800' is the simple interest for 1 year at 10% (8000 × 0.10), ignoring compounding altogether. '₹810' halves the compounding gap — a common rounding trap. '₹840' overshoots — it treats the year as containing three half-year periods or uses ~5.2% per half-year."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "The compound interest on a sum for 3 years at 10% per annum, compounded annually, is ₹1,655. Find the principal.",
+      "options": ["₹4,500", "₹4,800", "₹5,000", "₹5,500"],
+      "correctAnswer": "₹5,000",
+      "explanation": "A/P − 1 = (1.10)^3 − 1 = 1.331 − 1 = 0.331 ⇒ CI = 0.331 × P. So P = 1655 / 0.331 = ₹5,000. '₹4,500' × 0.331 = ₹1,489.5, not 1,655. '₹4,800' × 0.331 = ₹1,588.8, still not 1,655. '₹5,500' × 0.331 = ₹1,820.5, overshoots."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "The effective annual rate for a nominal rate of 8% per annum, compounded quarterly, is closest to:",
+      "options": ["8.00%", "8.16%", "8.24%", "8.30%"],
+      "correctAnswer": "8.24%",
+      "explanation": "Effective rate = (1 + 0.08/4)^4 − 1 = (1.02)^4 − 1 = 1.08243 − 1 = 0.08243 ≈ 8.24%. '8.00%' is the nominal rate — it would only equal the effective rate under annual compounding. '8.16%' is the effective rate for 8% compounded half-yearly (1.04² − 1), not quarterly. '8.30%' overshoots and is close to the effective rate under monthly compounding (~8.30%)."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "The following table shows compound interest values on principal ₹10,000 at 10% per annum (annual compounding):\n\nYear   CI (cumulative)\n1      ₹1,000\n2      ₹2,100\n3      ₹3,310\n4      ₹4,641\n\nBased on this data, by what percentage does the cumulative CI at the end of year 4 exceed the cumulative CI at end of year 2?",
+      "options": ["100%", "121%", "150%", "221%"],
+      "correctAnswer": "121%",
+      "explanation": "Year-4 CI = 4,641; year-2 CI = 2,100. Percentage excess = (4641 − 2100) / 2100 × 100 = 2541/2100 × 100 ≈ 121%. '100%' would need year-4 CI to be exactly 4,200 (double 2,100), which is not the case. '150%' would need year-4 CI = 5,250, higher than actual. '221%' equals 4641/2100 × 100 approximately, but that is the ratio, not the percentage excess (which subtracts 100%)."
+    }
+  ]
+}

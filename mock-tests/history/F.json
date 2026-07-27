@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 247,
+  "count": 255,
   "questions": [
     {
       "test": 6,
@@ -1237,6 +1237,46 @@
       "test": 37,
       "stem": "consider the following statements about slide size and orientation in ms powerpoint:",
       "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 42,
+      "stem": "in ms excel, which function returns the current date only (without time)?",
+      "key": "=TODAY()"
+    },
+    {
+      "test": 42,
+      "stem": "the keyboard shortcut ctrl + shift + l in ms word is",
+      "key": "Apply the default bullet list style"
+    },
+    {
+      "test": 42,
+      "stem": "which of the following is not a valid file extension for a",
+      "key": ".psx"
+    },
+    {
+      "test": 42,
+      "stem": "in ms word, which keyboard shortcut opens the find and replace dialog",
+      "key": "Ctrl + H"
+    },
+    {
+      "test": 42,
+      "stem": "in ms excel, the formula =sum(a1:a5) computes:",
+      "key": "The sum of cells A1 through A5 inclusive"
+    },
+    {
+      "test": 42,
+      "stem": "the 'slide sorter' view in ms powerpoint is used to:",
+      "key": "Show all slides as thumbnails to reorder or delete them"
+    },
+    {
+      "test": 42,
+      "stem": "in ms word, which shortcut is used to insert the current date",
+      "key": "Alt + Shift + D"
+    },
+    {
+      "test": 42,
+      "stem": "the __________ function in ms excel counts the number of cells in",
+      "key": "COUNTIF"
     }
   ]
 }

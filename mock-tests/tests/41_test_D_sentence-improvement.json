@@ -1,0 +1,467 @@
+{
+  "subject": "D",
+  "topic": "Improvement of Sentences",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the option that best improves the underlined portion of the sentence:\n\n\"He is one of those students who ___never gives up___.\"",
+      "options": [
+        "have never gave up",
+        "never gives up",
+        "never has given up",
+        "never give up"
+      ],
+      "correctAnswer": "never give up",
+      "explanation": "The relative pronoun 'who' refers back to 'students' (plural), so the verb must be plural: 'never give up'. 'Never gives up' treats the singular 'one' as the antecedent, but in the pattern 'one of those [plural] who...' the verb agrees with the plural noun after 'those'. 'Have never gave up' is a double-past error — after 'have' we need the past participle 'given', not 'gave'. 'Never has given up' shifts the subject to singular and inverts word order awkwardly, and again disagrees with the plural antecedent."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Neither the teacher nor the students ___was___ present in the classroom.\"",
+      "options": ["was", "were", "have been", "has been"],
+      "correctAnswer": "were",
+      "explanation": "With 'neither... nor' the verb agrees with the noun nearest to it. Here the nearest is 'students' (plural), so the verb must be 'were'. 'Was' agrees with 'teacher' but grammar requires proximity agreement, not the first subject. 'Have been' uses present perfect where the sentence is in the simple past. 'Has been' is singular and again present perfect — doubly wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Consider the following four versions of a sentence:\n\n(i) The committee has taken their decision.\n(ii) The committee have taken its decision.\n(iii) The committee has taken its decision.\n(iv) The committee are taken his decision.\n\nWhich of these is grammatically correct?",
+      "options": [
+        "(i) only",
+        "(ii) only",
+        "(iii) only",
+        "(iv) only"
+      ],
+      "correctAnswer": "(iii) only",
+      "explanation": "'Committee' as a collective noun treated as a single unit takes a singular verb 'has' and a singular pronoun 'its'. (iii) matches these throughout — correct. (i) has a singular verb 'has' but plural pronoun 'their' — inconsistent. (ii) reverses this: plural verb 'have' with singular 'its' — again inconsistent. (iv) uses passive-like 'are taken' with a wrong pronoun 'his' for the neuter committee — doubly wrong."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'Each of the boys have finished their homework', the verb 'have' must be replaced by 'has'.\nReason (R): 'Each' is a distributive pronoun that is always treated as singular in standard English usage.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: 'Each of the boys' has singular sense and needs the singular verb 'has'. (R) is correct: 'each' (like 'every', 'either') is a distributive singular. (R) explains (A) directly — the reason we replace 'have' with 'has' is precisely that 'each' is singular in agreement. Option 2 wrongly denies the explanatory link. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"If I ___was___ you, I would apologize immediately.\"",
+      "options": ["was", "were", "am", "have been"],
+      "correctAnswer": "were",
+      "explanation": "'If I were you' is the standard subjunctive form used for hypothetical or contrary-to-fact conditions — the correct improvement is 'were'. 'Was' is informal and grammatically incorrect in the subjunctive mood for hypotheticals in standard written English. 'Am' produces an indicative present that changes the meaning to a real condition, which contradicts the counter-factual sense. 'Have been' is present perfect and shifts the time-frame — inappropriate for a hypothetical situation."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following original sentences (with the underlined error) with the type of grammatical error:\n\nColumn I:\n(a) He don't know the answer.\n(b) She is more taller than her sister.\n(c) I am living here since 2010.\n(d) The scenery of Kashmir are beautiful.\n\nColumn II:\n(i) Wrong use of present continuous instead of present perfect continuous\n(ii) Double comparative\n(iii) Subject–verb agreement error\n(iv) Wrong number of an uncountable noun\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 'He don't' should be 'He doesn't' — subject–verb agreement → (a)-(iii). (b) 'more taller' is a double comparative — 'more' with '-er' → (b)-(ii). (c) 'I am living' with 'since 2010' should be present perfect continuous 'I have been living' → (c)-(i). (d) 'Scenery' is uncountable — 'are' should be 'is' → (d)-(iv). The distractor (a)-(ii) misreads a simple SV error as a comparative issue. (b)-(iv) treats a comparative error as a countability issue. (a)-(iv) mislabels a verb agreement error as a countability error."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"He has been working here ___since ten years___.\"",
+      "options": [
+        "since ten years",
+        "from ten years",
+        "for ten years",
+        "in ten years"
+      ],
+      "correctAnswer": "for ten years",
+      "explanation": "'Since' is used with a specific point of time (since 2015, since Monday); 'for' is used with a duration/length of time (for 10 years). Therefore the correct improvement is 'for ten years'. 'Since ten years' is a common Indian-English error — 'ten years' is a duration, not a point in time. 'From ten years' is also incorrect for a duration; 'from' marks a starting point paired with 'to' or 'till'. 'In ten years' shifts the meaning to 'within a period of ten years', usually about completion — not the meaning intended here."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are grammatically CORRECT sentences?\n\n(i) One of my friends is coming tomorrow.\n(ii) The number of accidents have decreased.\n(iii) A pair of scissors is on the table.\n(iv) Mathematics are my favourite subject.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct: 'one of my friends' has singular 'one' as subject → 'is'. (iii) is correct: 'a pair of scissors' is treated as a single unit → 'is'. (ii) is INCORRECT: 'The number of' takes a singular verb (contrast with 'A number of' which takes plural), so it should be 'has decreased', not 'have decreased'. (iv) is INCORRECT: subject names ending in '-ics' like mathematics, physics, economics take a singular verb when referring to the subject — 'Mathematics is my favourite subject'. Any option including (ii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"The Prime Minister, along with his ministers, ___have arrived___ at the venue.\"",
+      "options": [
+        "have arrived",
+        "were arrived",
+        "has arrived",
+        "are arriving"
+      ],
+      "correctAnswer": "has arrived",
+      "explanation": "When two subjects are joined by phrases like 'along with', 'as well as', 'together with', or 'in addition to', the verb agrees with the FIRST subject only. Here 'Prime Minister' is singular, so the verb is 'has arrived'. 'Have arrived' wrongly treats the ministers phrase as adding to the subject. 'Were arrived' uses a passive-like construction that does not exist for 'arrive' (an intransitive verb). 'Are arriving' shifts tense to present continuous and pluralizes — doubly wrong."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about the sentence 'She said that she will meet me the next day':\n\n(i) In reported speech following a past reporting verb, 'will' typically changes to 'would'.\n(ii) The pronoun 'me' in reported speech should shift to 'her' if not the current speaker.\n(iii) 'The next day' is the correct temporal shift for 'tomorrow' in indirect speech.\n(iv) The sentence as written is already fully grammatical in standard English.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: in indirect speech following a past reporting verb ('said'), 'will' generally shifts to 'would'. (ii) is correct: reported speech usually shifts first-/second-person pronouns based on the current speaker context. (iii) is correct: 'tomorrow' in direct speech becomes 'the next day' or 'the following day' in reported speech. (iv) is INCORRECT — the sentence still uses 'will' after 'said', which violates the back-shift rule, so the sentence is NOT already correct. Any option including (iv) is wrong."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "The construction 'more better' is grammatically incorrect because it is an example of a __________.",
+      "options": [
+        "split infinitive",
+        "dangling modifier",
+        "double comparative",
+        "run-on sentence"
+      ],
+      "correctAnswer": "double comparative",
+      "explanation": "'Better' is already the comparative of 'good/well'; adding 'more' produces a double comparative — one comparative marker is enough. A 'split infinitive' involves an adverb between 'to' and a verb (e.g., 'to boldly go') — not applicable here. A 'dangling modifier' is a modifier that lacks a clear noun to modify (e.g., 'Running fast, the finish line came into view'). A 'run-on sentence' is two independent clauses joined without proper punctuation — again unrelated."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"He is senior ___than___ me in this office.\"",
+      "options": ["than", "to", "over", "from"],
+      "correctAnswer": "to",
+      "explanation": "Latin-origin comparatives 'senior', 'junior', 'superior', 'inferior', 'prior', 'anterior' take 'to', not 'than'. So the correct improvement is 'senior to'. 'Than' is used with regular English comparatives (older than, taller than) but not with these Latin adjectives. 'Over' is a preposition of position, not of comparison. 'From' is used with 'differ from' or 'derived from', not for seniority comparison."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'I have been to Delhi last year' is grammatically incorrect.\nReason (R): The present perfect tense ('have been') cannot be used with a definite past time reference like 'last year'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: the sentence should be 'I went to Delhi last year' (simple past) because a definite past time frame is stated. (R) is correct: standard English disallows present perfect with adverbials naming a specific past time. (R) explains (A) precisely — the incorrectness of the sentence is exactly because present perfect clashes with 'last year'. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Hardly had he sat down ___when the phone rang___.\"",
+      "options": [
+        "then the phone rang",
+        "than the phone rang",
+        "and the phone rang",
+        "when the phone rang"
+      ],
+      "correctAnswer": "when the phone rang",
+      "explanation": "The correlative pair with 'hardly... had' is 'when' — 'Hardly had he sat down WHEN the phone rang' is the standard idiom. 'Then' is used with 'no sooner... than' — not with 'hardly'. 'Than' is the pairing partner of 'no sooner', not 'hardly'. 'And' loses the temporal contrast that 'hardly... when' expresses."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Match the following incorrect sentences with the correction rule that applies:\n\nColumn I:\n(a) I have visited Paris last summer.\n(b) He is knowing the answer.\n(c) The both boys are here.\n(d) She said me a story.\n\nColumn II:\n(i) Stative verbs are not used in continuous tenses\n(ii) Present perfect cannot be used with a definite past time\n(iii) 'Both' precedes 'the', not the other way round\n(iv) 'Tell' takes an indirect object without 'to'; 'say' does not take a person as direct object\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) uses present perfect with 'last summer' — that's the present-perfect-with-definite-past-time error → (a)-(ii). (b) 'is knowing' uses continuous with the stative verb 'know' → (b)-(i). (c) 'the both' should be 'both the' → (c)-(iii). (d) 'said me a story' should be 'told me a story' — 'say' does not take a person as direct object; 'tell' does → (d)-(iv). The distractor (a)-(i) mislabels a tense-time clash as a stative error. (b)-(ii) mislabels a stative error as a tense-time clash. (a)-(iii) mislabels a tense error as a word-order issue."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"The reason for his failure is ___because___ he did not prepare well.\"",
+      "options": ["because", "that", "as", "since"],
+      "correctAnswer": "that",
+      "explanation": "'The reason is because' is redundant, as 'reason' and 'because' both convey causality — the correct construction is 'the reason is THAT'. 'Because' produces the redundancy problem. 'As' and 'since' are subordinators of cause but they too duplicate the meaning already in 'reason', so 'the reason is as/since' is equally faulty in standard usage. Only 'that' introduces a noun clause after 'reason' without redundancy."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Everyone ___are___ expected to complete the assignment on time.\"",
+      "options": ["are", "were", "have been", "is"],
+      "correctAnswer": "is",
+      "explanation": "'Everyone', 'everybody', 'someone', 'nobody' are indefinite pronouns that always take a SINGULAR verb — so 'is'. 'Are' wrongly treats 'everyone' as plural. 'Were' is also plural and adds a past-tense shift. 'Have been' is plural present perfect — again both wrong number and wrong tense."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Which of the following sentences are correctly improved versions?\n\n(i) Original: 'He is more wiser than his brother.' → Improved: 'He is wiser than his brother.'\n(ii) Original: 'Neither of the two boys are guilty.' → Improved: 'Neither of the two boys is guilty.'\n(iii) Original: 'I asked him that where he was going.' → Improved: 'I asked him that where was he going.'\n(iv) Original: 'The furniture in the room are new.' → Improved: 'The furniture in the room is new.'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) removes the double comparative 'more wiser' → correctly improved. (ii) uses singular verb 'is' after 'neither of' → correctly improved. (iv) uses singular verb 'is' for the uncountable 'furniture' → correctly improved. (iii) is INCORRECT — indirect speech should NOT invert the subject-verb order; the correct form is 'I asked him where he was going' (no 'that', no inversion). Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"He gave me ___a advice___ on my career.\"",
+      "options": ["a advice", "an advice", "advice", "advices"],
+      "correctAnswer": "advice",
+      "explanation": "'Advice' is an uncountable noun in English — it takes no article 'a/an' and has no plural form. So the correct usage is just 'advice' (or 'a piece of advice' for a countable unit). 'A advice' fails on two counts: article before a vowel-sound word (should be 'an') AND uncountability. 'An advice' fixes the a/an issue but still wrongly treats 'advice' as countable. 'Advices' pluralizes an uncountable noun, which is ungrammatical."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The rule that governs the correction 'He is knowing the answer' → 'He knows the answer' is called the __________ verb rule.",
+      "options": ["auxiliary", "modal", "stative", "phrasal"],
+      "correctAnswer": "stative",
+      "explanation": "Stative verbs (know, believe, own, love, contain, seem, understand) describe states rather than actions and are NOT usually used in continuous/progressive tenses. Hence 'is knowing' is corrected to 'knows'. 'Auxiliary' verbs (be, have, do, will, shall) are helper verbs — the correction isn't about auxiliaries. 'Modal' verbs (can, may, must) express possibility/obligation — again not relevant. 'Phrasal' verbs are verb-plus-particle combinations (put up, get over) — unrelated to the stative-continuous restriction."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Ram is elder ___than___ his brother.\"",
+      "options": ["than", "from", "to", "over"],
+      "correctAnswer": "to",
+      "explanation": "'Elder' (like 'senior', 'junior', 'superior') is followed by 'to' — 'elder to' — when used as a comparative for age within a family. 'Than' is used with 'older', not with 'elder' in this idiomatic sense. 'From' does not compare people. 'Over' is a preposition of position or superiority in rank, not age."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Consider the following statements about improving sentences:\n\n(i) 'Different from' is preferred over 'different than' in standard British English.\n(ii) 'Prevent from doing' is the standard construction (as in 'The rain prevented us from playing').\n(iii) 'Comprises of' is the correct construction (as in 'The team comprises of eleven players').\n(iv) 'Discuss about' is grammatically correct (as in 'We discussed about the plan').\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "(i) is correct: 'different from' is the standard preposition; 'different than' is considered informal or American. (ii) is correct: 'prevent someone from doing something' is the standard collocation. (iii) is INCORRECT: 'comprise' is transitive — 'the team comprises eleven players' (no 'of'). (iv) is INCORRECT: 'discuss' is also transitive — 'we discussed the plan' (no 'about'). Any option including (iii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"If it rains tomorrow, we ___will cancel___ the picnic.\"",
+      "options": [
+        "would cancel",
+        "would have cancelled",
+        "will have cancelled",
+        "will cancel"
+      ],
+      "correctAnswer": "will cancel",
+      "explanation": "This is a Type-1 conditional (real possibility): 'If + present simple, subject + will + base verb'. Since 'rains' is present simple, the main clause needs 'will cancel'. 'Would cancel' is Type-2 conditional (hypothetical), requiring 'If it rained' in the if-clause. 'Would have cancelled' is Type-3 (past unreal), requiring 'If it had rained'. 'Will have cancelled' is future perfect and shifts the timing to completion before some future point — not the sense here."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'Being a hot day, we stayed indoors' contains a dangling modifier.\nReason (R): The introductory participial phrase 'Being a hot day' has no proper noun-subject to attach to, since 'we' cannot be 'a hot day'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: the introductory participle 'Being a hot day' should modify a noun that CAN be 'a hot day' — the subject of the main clause is 'we', which cannot be a hot day, so the modifier dangles. Corrected: 'It being a hot day, we stayed indoors', or 'Because it was a hot day, we stayed indoors'. (R) is correct and gives the exact reason for the dangle. (R) therefore explains (A). Option 2 denies the causal link wrongly. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Not only he is intelligent ___but also he is hardworking___.\"",
+      "options": [
+        "but also he is hardworking",
+        "but also hardworking",
+        "but also is hardworking",
+        "and hardworking"
+      ],
+      "correctAnswer": "but also hardworking",
+      "explanation": "Correlative conjunctions 'not only ... but also' require parallel structure on both sides. Since the left side is 'intelligent' (an adjective), the right side must also be an adjective — 'hardworking'. 'But also he is hardworking' repeats the subject and verb, breaking parallelism. 'But also is hardworking' still keeps 'is' on only one side. 'And hardworking' loses the emphasis of the correlative pair and changes the meaning slightly."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match the following incorrect sentences with the specific error type:\n\nColumn I:\n(a) He was punished for stealing the money by his father.\n(b) Being a rainy day, we cancelled the trip.\n(c) The book which I bought it is expensive.\n(d) He is more intelligent than any student in the class.\n\nColumn II:\n(i) Dangling modifier\n(ii) Redundant pronoun after relative pronoun\n(iii) Comparison excludes the subject itself (should be 'any other')\n(iv) Ambiguous placement of prepositional phrase\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "(a) 'punished for stealing the money by his father' has the 'by his father' phrase placed ambiguously — is he stealing 'by his father' or being punished 'by his father'? → misplaced/ambiguous prepositional phrase, (a)-(iv). (b) 'Being a rainy day' dangles because 'we' cannot be a rainy day → (b)-(i). (c) 'the book which I bought it' redundantly repeats the object 'it' after the relative pronoun 'which' → (c)-(ii). (d) 'more intelligent than any student' includes the subject in the comparison; correct is 'any OTHER student' → (d)-(iii). The distractor (a)-(ii) mislabels an ambiguity as a redundant pronoun. (a)-(iii) mislabels an ambiguity as a comparison scope issue."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Neither he ___nor his brothers is___ coming to the party.\"",
+      "options": [
+        "nor his brothers is",
+        "nor his brothers are",
+        "or his brothers are",
+        "nor his brother is"
+      ],
+      "correctAnswer": "nor his brothers are",
+      "explanation": "In 'neither... nor' constructions the verb agrees with the noun nearest to it. Here the nearest is 'his brothers' (plural), so 'are' is correct → 'nor his brothers are'. 'Nor his brothers is' keeps the singular verb — wrong number. 'Or his brothers are' replaces the required 'nor' with 'or', breaking the correlative pair. 'Nor his brother is' changes the noun to singular AND keeps singular verb — semantically different from the original."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "The correct improvement of 'I am going to purchase a __________ of shoes' uses the collective noun for footwear.",
+      "options": ["set", "couple", "duo", "pair"],
+      "correctAnswer": "pair",
+      "explanation": "Shoes conventionally come in twos and are counted with the collective noun 'pair' — 'a pair of shoes'. 'Set' is used for larger collections of items intended to go together (a set of tools, a set of dishes), not for a symmetrical two. 'Couple' technically means two but is colloquial and normally applied to people or events, not shoes. 'Duo' is a musical or theatrical pairing (a comedy duo) and is not idiomatic for shoes."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"He is not only a good singer ___but a good dancer also___.\"",
+      "options": [
+        "but a good dancer also",
+        "but also a good dancer",
+        "and also a good dancer",
+        "but he is a good dancer also"
+      ],
+      "correctAnswer": "but also a good dancer",
+      "explanation": "The correlative 'not only ... but also' must have 'but also' immediately paired for symmetry — 'not only a good singer BUT ALSO a good dancer'. 'But a good dancer also' splits the correlative, weakening the parallel. 'And also' abandons the correlative altogether. 'But he is a good dancer also' inserts a redundant subject-verb and again splits 'but also'."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Which of the following sentences are grammatically CORRECT after improvement?\n\n(i) He asked me what my name was.\n(ii) There are many informations in this book.\n(iii) The team is playing well this season.\n(iv) She has been suffering from fever since three days.\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — indirect speech with no subject-verb inversion. (iii) is correct — 'team' as a unit takes 'is playing'. (ii) is INCORRECT — 'information' is uncountable and cannot be pluralized; correct is 'much information'. (iv) is INCORRECT — 'since three days' should be 'for three days' because 'three days' is a duration, not a point of time. Any option including (ii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"He has ordered ___a milk___ at the café.\"",
+      "options": ["a milk", "some milk", "an milk", "milks"],
+      "correctAnswer": "some milk",
+      "explanation": "'Milk' is an uncountable noun; we cannot say 'a milk' as if counting individual units. For an indefinite quantity we use 'some milk' (or 'a glass/cup of milk' for a countable serving). 'A milk' incorrectly uses the indefinite article with uncountable 'milk'. 'An milk' fails the a/an rule (milk starts with a consonant sound) AND still treats milk as countable. 'Milks' pluralizes an uncountable noun, which is ungrammatical in this generic context."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Between you and I, this is a secret' should be improved to 'Between you and me, this is a secret'.\nReason (R): Prepositions like 'between' take pronouns in the objective case, not the subjective case.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: 'between you and I' is a well-known hypercorrection; the correct form is 'between you and me' (objective case after the preposition). (R) is correct: all English prepositions require the objective case for pronouns (with me, for him, to us, between you and me). (R) explains (A) precisely — the correction is required exactly because 'between' is a preposition. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"The teacher explained ___the students___ the difficult topic.\"",
+      "options": [
+        "the students",
+        "for the students",
+        "with the students",
+        "to the students"
+      ],
+      "correctAnswer": "to the students",
+      "explanation": "'Explain' is one of the verbs that takes 'to' before the indirect object (like 'describe', 'suggest', 'introduce', 'admit'). So the correct form is 'explained TO the students the difficult topic'. Without 'to', 'the students' becomes a direct object, which 'explain' does not allow. 'For the students' changes the meaning to purpose/benefit rather than recipient. 'With the students' implies collaboration, not directing information to them."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"By the time you arrive, I ___will have finished___ my work.\"",
+      "options": [
+        "will finish",
+        "have finished",
+        "would finish",
+        "will have finished"
+      ],
+      "correctAnswer": "will have finished",
+      "explanation": "'By the time + present simple' pairs with future perfect ('will have + past participle') to show completion before a future point — so 'will have finished' is correct as it stands. 'Will finish' is simple future and does not convey completion before your arrival. 'Have finished' is present perfect — the arrival is future, so this tense mismatch is wrong. 'Would finish' shifts to a hypothetical conditional, which does not fit the real-future frame."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Match the following commonly confused pairs with the correct use in the sentence template:\n\nColumn I:\n(a) Its / It's\n(b) Their / There / They're\n(c) Affect / Effect\n(d) Principal / Principle\n\nColumn II:\n(i) 'The rain will ___ the crop yield.' (verb, 'influence')\n(ii) '___ the leader of the school.' (noun, chief person)\n(iii) '___ raining outside.' (contraction of 'it is')\n(iv) '___ house is at the corner.' (possessive of they)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "'It's raining' uses the contraction 'it's' = 'it is' → (a)-(iii). 'Their house' uses the possessive 'their' → (b)-(iv). 'Affect the crop yield' uses 'affect' as a verb meaning 'influence' → (c)-(i). 'Principal the leader' uses 'principal' as the noun for the head of a school → (d)-(ii). The distractor (a)-(iv) confuses 'it's' with 'their'. (c)-(ii) misuses 'affect' as a noun. (a)-(i) plugs the contraction into a verb slot needing 'affect'."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"Scarcely had he entered the room ___than___ the lights went out.\"",
+      "options": ["than", "when", "then", "and"],
+      "correctAnswer": "when",
+      "explanation": "'Scarcely / Hardly / Barely + had + subject + past participle' pairs with 'when' as its correlative → 'when'. 'Than' is the correlative of 'no sooner' (No sooner had he entered THAN...). 'Then' is a simple adverb and does not form the correlative construction. 'And' loses the sequential-temporal contrast the 'scarcely... when' pair is designed to express."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"He returned to home ___after two years___.\"",
+      "options": [
+        "since two years",
+        "for two years",
+        "from two years",
+        "after two years"
+      ],
+      "correctAnswer": "after two years",
+      "explanation": "'After + duration' means 'at the end of/subsequent to that duration' — 'after two years' correctly describes returning at the end of a two-year absence, so the sentence is already fine (though 'to home' should be just 'home' — but the underlined portion is only the time phrase). 'Since two years' is wrong because 'since' takes a point in time. 'For two years' would mean he stayed home for two years, changing the meaning. 'From two years' does not correspond to any standard temporal construction in English."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Which of the following are grammatically correct improvements?\n\n(i) 'He does not know swimming.' → 'He does not know how to swim.'\n(ii) 'Please avoid to eat junk food.' → 'Please avoid eating junk food.'\n(iii) 'I look forward to hear from you.' → 'I look forward to hearing from you.'\n(iv) 'He suggested me a good plan.' → 'He suggested me a good plan.'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correctly improved — 'know swimming' is not standard; 'know how to swim' is. (ii) is correctly improved — 'avoid' takes gerund (-ing), not to-infinitive. (iii) is correctly improved — 'look forward to' is a phrasal verb where 'to' is a preposition, so the gerund 'hearing' is required. (iv) is INCORRECT — 'suggested me' is still wrong even after 'improvement'; the correct form is 'suggested a good plan TO me' or 'suggested that I follow a good plan'. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The verb 'lie' (to recline) is followed in the past tense by __________, whereas 'lay' (to place something) is followed in the past tense by __________.",
+      "options": [
+        "'lied' and 'laid'",
+        "'laid' and 'lay'",
+        "'lay' and 'laid'",
+        "'lay' and 'lied'"
+      ],
+      "correctAnswer": "'lay' and 'laid'",
+      "explanation": "The intransitive verb 'lie' (recline) has past tense 'lay' (I lay on the bed yesterday). The transitive verb 'lay' (place something) has past tense 'laid' (She laid the book on the table). So the correct pair is 'lay' and 'laid'. 'Lied' is the past of 'lie' meaning 'to tell an untruth', not to recline — a common trap. The pair '(laid, lay)' reverses the two forms. The pair '(lay, lied)' correctly identifies past of 'recline' but wrongly uses 'lied' for the transitive verb."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Choose the best improvement of the underlined portion:\n\n\"The old man died ___from___ cancer last year.\"",
+      "options": ["from", "with", "of", "by"],
+      "correctAnswer": "of",
+      "explanation": "'Die of' is the standard collocation for cause of death by a disease — 'died OF cancer'. 'Die from' is often used for injuries or accidents (died from a fall, died from wounds), less standard for diseases. 'Die with' is not a standard cause-of-death preposition. 'Die by' is used for violent or self-inflicted means (died by hanging, died by his own hand), not for illnesses."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 248,
+  "count": 286,
   "questions": [
     {
       "test": 3,
@@ -1242,6 +1242,196 @@
       "test": 34,
       "stem": "if a certain sum had been lent at 8% per annum instead",
       "key": "Rs. 8,000"
+    },
+    {
+      "test": 40,
+      "stem": "find the compound interest on ₹10,000 for 2 years at 10% per",
+      "key": "₹2,100"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about compound interest: (i) compound interest is always",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 40,
+      "stem": "a sum of ₹5,000 is invested for 2 years at 8% per",
+      "key": "₹5,832"
+    },
+    {
+      "test": 40,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 40,
+      "stem": "match the following compounding periods with their formula for amount a (given",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 40,
+      "stem": "the difference between the compound interest and the simple interest on a",
+      "key": "₹5,000"
+    },
+    {
+      "test": 40,
+      "stem": "which of the following statements are correct about compound interest? (i) if",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 40,
+      "stem": "the population of a town increases at the rate of 5% per",
+      "key": "55,125"
+    },
+    {
+      "test": 40,
+      "stem": "the compound interest formula for amount when compounded __________ is a =",
+      "key": "half-yearly"
+    },
+    {
+      "test": 40,
+      "stem": "a sum of money doubles itself in 4 years at compound interest.",
+      "key": "8 years"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about the relationship between ci and si: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 40,
+      "stem": "the compound interest on ₹6,000 at 15% per annum for 2 years,",
+      "key": "₹1,935"
+    },
+    {
+      "test": 40,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 40,
+      "stem": "the compound interest on ₹8,000 for 1½ years at 10% per annum,",
+      "key": "₹1,261"
+    },
+    {
+      "test": 40,
+      "stem": "a sum of ₹15,625 is lent at 4% per annum, compounded annually.",
+      "key": "₹17,576"
+    },
+    {
+      "test": 40,
+      "stem": "which of the following investments earns the largest amount after one year",
+      "key": "(i) < (ii) < (iii) < (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "the simple interest on a sum of money for 2 years at",
+      "key": "₹512.50"
+    },
+    {
+      "test": 40,
+      "stem": "a sum grows to ₹6,655 in 3 years at 10% per annum,",
+      "key": "₹5,000"
+    },
+    {
+      "test": 40,
+      "stem": "match the following scenarios with their approximate compound interest for 2 years",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 40,
+      "stem": "the compound interest on ₹4,000 at 10% per annum, compounded annually, for",
+      "key": "₹1,640"
+    },
+    {
+      "test": 40,
+      "stem": "the following table shows the amount accumulated on ₹10,000 at 10% per",
+      "key": "₹1,210"
+    },
+    {
+      "test": 40,
+      "stem": "a sum of ₹12,000 is invested at 8% per annum compounded annually.",
+      "key": "₹15,113"
+    },
+    {
+      "test": 40,
+      "stem": "the difference between the compound interest for 2 years and the simple",
+      "key": "₹20"
+    },
+    {
+      "test": 40,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 40,
+      "stem": "the compound interest on a certain sum for 2 years is ₹410",
+      "key": "5%"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about doubling and tripling times under compound interest:",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 40,
+      "stem": "a sum of ₹8,000 is invested at 10% per annum, compounded half-yearly.",
+      "key": "₹820"
+    },
+    {
+      "test": 40,
+      "stem": "the compound interest on a sum for 3 years at 10% per",
+      "key": "₹5,000"
+    },
+    {
+      "test": 40,
+      "stem": "the effective annual rate for a nominal rate of 8% per annum,",
+      "key": "8.24%"
+    },
+    {
+      "test": 40,
+      "stem": "the following table shows compound interest values on principal ₹10,000 at 10%",
+      "key": "121%"
+    },
+    {
+      "test": 42,
+      "stem": "the square root of 5,184 is:",
+      "key": "72"
+    },
+    {
+      "test": 42,
+      "stem": "the simple interest on a certain sum for 3 years at 10%",
+      "key": "₹5,000"
+    },
+    {
+      "test": 42,
+      "stem": "the average age of 30 students in a class is 14 years.",
+      "key": "45 years"
+    },
+    {
+      "test": 42,
+      "stem": "a sum of ₹5,000 is invested at 8% per annum simple interest",
+      "key": "₹1,800"
+    },
+    {
+      "test": 42,
+      "stem": "the compound interest on ₹10,000 for 2 years at 5% per annum,",
+      "key": "₹1,025"
+    },
+    {
+      "test": 42,
+      "stem": "the average of first 20 natural numbers is:",
+      "key": "10.5"
+    },
+    {
+      "test": 42,
+      "stem": "simple interest on ₹8,000 at 12.5% per annum for 4 years is:",
+      "key": "₹4,000"
+    },
+    {
+      "test": 42,
+      "stem": "the difference between simple interest and compound interest on ₹4,000 at 10%",
+      "key": "₹40"
     }
   ]
 }
