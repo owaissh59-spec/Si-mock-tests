@@ -145,9 +145,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 49 | Morning | E — Mathematical Abilities | Heights & Distances | 30 | standard | Topic-wise | ⬜ |
-| 50 | Afternoon | F — Computer Proficiency | Networking Devices & Protocols | 40 | standard | Topic-wise | ⬜ |
-| 51 | Late | A — General Intelligence & Reasoning | Space Orientation, Visualization, Embedded & Paper Folding | 50 | standard | Topic-wise | ⬜ |
+| 49 | Morning | E — Mathematical Abilities | Heights & Distances | 30 | standard | Topic-wise | ✅ |
+| 50 | Afternoon | F — Computer Proficiency | Networking Devices & Protocols | 40 | standard | Topic-wise | ✅ |
+| 51 | Late | A — General Intelligence & Reasoning | Space Orientation, Visualization, Embedded & Paper Folding | 50 | standard | Topic-wise | ✅ |
 
 ### Day 18
 

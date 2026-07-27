@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 309,
+  "count": 359,
   "questions": [
     {
       "test": 1,
@@ -1547,6 +1547,256 @@
       "test": 45,
       "stem": "match the following premise-conclusion pairs with the logical status of the inference:",
       "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 51,
+      "stem": "a person walks 5 km north, then 3 km east, then 5",
+      "key": "3 km"
+    },
+    {
+      "test": 51,
+      "stem": "if a person is facing north and turns 90° clockwise, then 90°",
+      "key": "South"
+    },
+    {
+      "test": 51,
+      "stem": "consider the following statements about mirror images: (i) in a plane mirror",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted red on all 6 faces and then cut",
+      "key": "6"
+    },
+    {
+      "test": 51,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all faces and cut into 64 smaller",
+      "key": "8"
+    },
+    {
+      "test": 51,
+      "stem": "a person facing east turns 45° to the right (clockwise), then 90°",
+      "key": "45° North of East"
+    },
+    {
+      "test": 51,
+      "stem": "in the alphabet, if l, m, n, o are in that order,",
+      "key": "West"
+    },
+    {
+      "test": 51,
+      "stem": "a square piece of paper is folded once along its vertical midline,",
+      "key": "4"
+    },
+    {
+      "test": 51,
+      "stem": "a sheet of paper is folded along its diagonal. if a small",
+      "key": "A diamond/rhombus shape"
+    },
+    {
+      "test": 51,
+      "stem": "in an embedded figure problem, a smaller shape must be identified as",
+      "key": "Careful visual tracing along the boundaries of the smaller shape within the l..."
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all faces and cut into 125 smaller",
+      "key": "36"
+    },
+    {
+      "test": 51,
+      "stem": "consider the following statements about paper folding and cutting problems: (i) the",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 51,
+      "stem": "the mirror image of the number '1961' viewed in a plane mirror",
+      "key": "1691"
+    },
+    {
+      "test": 51,
+      "stem": "a person is standing at a point facing south. he walks 10",
+      "key": "West"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all faces and cut into 64 smaller",
+      "key": "8"
+    },
+    {
+      "test": 51,
+      "stem": "a rectangular piece of paper is folded in half twice (once horizontally",
+      "key": "4"
+    },
+    {
+      "test": 51,
+      "stem": "in space visualization, the process of mentally moving or rotating a 3d",
+      "key": "Mental rotation / mental visualization"
+    },
+    {
+      "test": 51,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 51,
+      "stem": "the water image (reflection in still water, i.e. horizontal reflection) of the",
+      "key": "The letter 'V' (V-shaped)"
+    },
+    {
+      "test": 51,
+      "stem": "a student rotates a square by 90° clockwise about its center. which",
+      "key": "The square looks identical to its original position"
+    },
+    {
+      "test": 51,
+      "stem": "in a cube net (unfolded flat pattern) with 6 squares arranged in",
+      "key": "Faces separated by one square in a straight line"
+    },
+    {
+      "test": 51,
+      "stem": "a square is folded once along the diagonal, then the folded triangle",
+      "key": "4"
+    },
+    {
+      "test": 51,
+      "stem": "consider the following statements about space orientation: (i) a person facing north",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 51,
+      "stem": "a cube has six faces numbered 1-6. faces 1 and 6 are",
+      "key": "4"
+    },
+    {
+      "test": 51,
+      "stem": "a piece of paper is folded three times in a row (each",
+      "key": "8"
+    },
+    {
+      "test": 51,
+      "stem": "the __________ figures test asks the candidate to identify a given smaller",
+      "key": "embedded"
+    },
+    {
+      "test": 51,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 51,
+      "stem": "the image formed by two perpendicular plane mirrors, when a point is",
+      "key": "3"
+    },
+    {
+      "test": 51,
+      "stem": "a cube of side 6 cm is painted on all faces and",
+      "key": "216"
+    },
+    {
+      "test": 51,
+      "stem": "a cube painted on all six faces is cut into 216 smaller",
+      "key": "96"
+    },
+    {
+      "test": 51,
+      "stem": "a person walks 10 m north, then 20 m east, then 10",
+      "key": "20 m"
+    },
+    {
+      "test": 51,
+      "stem": "in a paper-folding problem, a paper folded once and pierced with a",
+      "key": "Two holes symmetric about the fold line"
+    },
+    {
+      "test": 51,
+      "stem": "match the following geometric solids with their number of edges: column i:",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 51,
+      "stem": "if a paper is folded twice (once vertically and once horizontally) and",
+      "key": "4"
+    },
+    {
+      "test": 51,
+      "stem": "a person is facing east. he turns 135° clockwise. which direction is",
+      "key": "South-West"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all faces and cut into 27 cubes",
+      "key": "12"
+    },
+    {
+      "test": 51,
+      "stem": "the __________ view of a 3d solid is the shape you would",
+      "key": "top view (plan)"
+    },
+    {
+      "test": 51,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 51,
+      "stem": "consider the following statements about mental rotation: (i) the time to identify",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted red on all 6 faces and then cut",
+      "key": "64"
+    },
+    {
+      "test": 51,
+      "stem": "a rectangular paper is folded once along its longer side (bringing the",
+      "key": "A diamond (kite shape)"
+    },
+    {
+      "test": 51,
+      "stem": "a person is standing at the center of a room. he walks",
+      "key": "5 m"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all 6 faces. it is then cut",
+      "key": "54"
+    },
+    {
+      "test": 51,
+      "stem": "match the following spatial-reasoning task types with their descriptions: column i: (a)",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all faces and cut into 64 smaller",
+      "key": "24"
+    },
+    {
+      "test": 51,
+      "stem": "a person facing north walks 5 m forward, turns 90° right and",
+      "key": "West"
+    },
+    {
+      "test": 51,
+      "stem": "which shape has the highest number of axes of symmetry among the",
+      "key": "Circle"
+    },
+    {
+      "test": 51,
+      "stem": "a cube is painted on all 6 faces. if we look at",
+      "key": "4"
+    },
+    {
+      "test": 51,
+      "stem": "in an unfolded net of a cube, if squares a, b, c,",
+      "key": "D"
     }
   ]
 }

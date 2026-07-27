@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 316,
+  "count": 346,
   "questions": [
     {
       "test": 5,
@@ -1582,6 +1582,156 @@
       "test": 43,
       "stem": "the value of cot 30° · tan 60° is:",
       "key": "3"
+    },
+    {
+      "test": 49,
+      "stem": "a tower stands vertically on the ground. the angle of elevation of",
+      "key": "30√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of elevation of the top of a building from a",
+      "key": "50 m"
+    },
+    {
+      "test": 49,
+      "stem": "consider the following statements about angles of elevation and depression: (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of elevation of the top of a tower from a",
+      "key": "20√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 49,
+      "stem": "a ladder 10 m long leans against a wall. if it makes",
+      "key": "5√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "match the following trigonometric ratios with their standard values at the given",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 49,
+      "stem": "the shadow of a vertical pole is √3 times its height. find",
+      "key": "30°"
+    },
+    {
+      "test": 49,
+      "stem": "a kite is flying at a height of 60 m from the",
+      "key": "120 m"
+    },
+    {
+      "test": 49,
+      "stem": "the angles of elevation of the top of a tower from two",
+      "key": "6 m"
+    },
+    {
+      "test": 49,
+      "stem": "a boat is 100 m away from the base of a lighthouse.",
+      "key": "100/√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of depression of a point a on the ground from",
+      "key": "150 m"
+    },
+    {
+      "test": 49,
+      "stem": "consider the following statements about heights & distances: (i) if two objects",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of elevation of the top of a vertical pole from",
+      "key": "5√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "a man standing at the top of a building 60 m high",
+      "key": "60 m"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of elevation of a cloud from a point 60 m",
+      "key": "120 m"
+    },
+    {
+      "test": 49,
+      "stem": "the __________ of an object below the horizontal from an observer's eye",
+      "key": "angle below (measured downwards)"
+    },
+    {
+      "test": 49,
+      "stem": "a person standing on the top of a 30 m high building",
+      "key": "(30 + 30√3) m"
+    },
+    {
+      "test": 49,
+      "stem": "a tree breaks due to a storm and the broken part bends",
+      "key": "20(√3 + 1)/√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of elevation of the top of a hill from a",
+      "key": "50(3 + √3) m"
+    },
+    {
+      "test": 49,
+      "stem": "from a point on the ground, the angle of elevation of the",
+      "key": "60(√3 − 1) m"
+    },
+    {
+      "test": 49,
+      "stem": "a pole 10 m high casts a shadow of length 10/√3 m",
+      "key": "60°"
+    },
+    {
+      "test": 49,
+      "stem": "the tops of two poles of heights 20 m and 14 m",
+      "key": "12 m"
+    },
+    {
+      "test": 49,
+      "stem": "two boats are on either side of a lighthouse of height 100",
+      "key": "100 + 100√3 m"
+    },
+    {
+      "test": 49,
+      "stem": "which of the following are true statements about the applications of trigonometry",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 49,
+      "stem": "a ladder leaning against a wall makes an angle of 60° with",
+      "key": "10 m"
+    },
+    {
+      "test": 49,
+      "stem": "match the following scenarios with the correct trigonometric ratio to use: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 49,
+      "stem": "from the top of a lighthouse 75 m high, two ships are",
+      "key": "25(3 − √3) m"
+    },
+    {
+      "test": 49,
+      "stem": "the angle of elevation of the top of a tower from a",
+      "key": "30√3 m"
     }
   ]
 }

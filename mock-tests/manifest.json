@@ -743,7 +743,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "49_test_E_heights-distances.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 50,
@@ -758,7 +758,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "50_test_F_networking.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 51,
@@ -773,7 +773,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "51_test_A_spatial.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 52,

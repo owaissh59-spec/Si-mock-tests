@@ -1,0 +1,432 @@
+{
+  "subject": "F",
+  "topic": "Networking Devices & Protocols",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "Which of the following devices operates at the Physical layer (Layer 1) of the OSI model?",
+      "options": ["Router", "Switch", "Hub", "Firewall"],
+      "correctAnswer": "Hub",
+      "explanation": "A hub is a Layer-1 device that simply repeats incoming electrical signals to all connected ports without inspecting frames. A router works at Layer 3 (Network layer) using IP addresses. A switch works at Layer 2 (Data-link layer) using MAC addresses. A firewall generally operates at Layer 3/4 (Network/Transport) or higher, inspecting packets and traffic policies."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about network devices:\n\n(i) A hub broadcasts data to all its ports.\n(ii) A switch forwards data based on MAC addresses.\n(iii) A router forwards data based on IP addresses.\n(iv) A modem is used to connect two Ethernet LANs together.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii), (iii) match the standard definitions. (iv) is INCORRECT — a modem MODulates/DEMODulates signals for transmission over analog lines (like DSL, cable) and does not itself connect two Ethernet LANs; a bridge or router does that. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "The full form of 'DNS' in networking is:",
+      "options": [
+        "Domain Number System",
+        "Data Naming Service",
+        "Distributed Node Service",
+        "Domain Name System"
+      ],
+      "correctAnswer": "Domain Name System",
+      "explanation": "DNS = Domain Name System, the internet's phone book that resolves human-readable domain names into IP addresses. 'Domain Number System' does not exist. 'Data Naming Service' is not a standard term. 'Distributed Node Service' has no such meaning."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Which protocol is used for reliable, connection-oriented communication between two hosts?",
+      "options": ["TCP", "UDP", "ICMP", "ARP"],
+      "correctAnswer": "TCP",
+      "explanation": "TCP (Transmission Control Protocol) is connection-oriented and reliable, using three-way handshakes, ACKs and retransmissions. UDP (User Datagram Protocol) is connectionless and unreliable — best-effort delivery. ICMP (Internet Control Message Protocol) is used for diagnostic/error messages (like ping), not general data transport. ARP (Address Resolution Protocol) maps IP addresses to MAC addresses on a local network — not a transport protocol."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Switches are preferred over hubs in modern Ethernet networks.\nReason (R): A switch forwards a frame only to the port where the destination MAC address lives, reducing collisions and improving efficiency compared to a hub which broadcasts everything.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — hubs are obsolete for modern LANs. (R) is correct — a switch maintains a MAC address table and forwards frames selectively, reducing broadcast traffic and creating separate collision domains per port. (R) explains (A) directly: selective forwarding is exactly why switches beat hubs. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "Match the following networking devices with their OSI layer:\n\nColumn I:\n(a) Hub\n(b) Switch\n(c) Router\n(d) Gateway (application-layer)\n\nColumn II:\n(i) Layer 2 (Data-link)\n(ii) Layer 1 (Physical)\n(iii) Layer 7 (Application)\n(iv) Layer 3 (Network)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Hub is Layer 1 → (a)-(ii). Switch is Layer 2 → (b)-(i). Router is Layer 3 → (c)-(iv). An application-layer gateway (like a proxy that understands HTTP payloads) works at Layer 7 → (d)-(iii). The distractor (a)-(i) puts hub at Layer 2. (a)-(iv) puts hub at Layer 3. (a)-(iii) puts hub at Layer 7 — all wrong."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "The default port number for HTTP is:",
+      "options": ["21", "23", "443", "80"],
+      "correctAnswer": "80",
+      "explanation": "HTTP uses TCP port 80 by default. Port 21 is for FTP (control channel). Port 23 is for Telnet. Port 443 is for HTTPS (HTTP over SSL/TLS), not plain HTTP."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "Which of the following are examples of application-layer protocols?\n\n(i) HTTP\n(ii) FTP\n(iii) DNS\n(iv) IP\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "HTTP, FTP and DNS all operate at the Application layer of the TCP/IP model. (iv) IP (Internet Protocol) operates at the Network layer, NOT the Application layer. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "The 32-bit numeric address used to uniquely identify a device on an IPv4 network is called:",
+      "options": ["MAC address", "Port number", "Subnet mask", "IP address"],
+      "correctAnswer": "IP address",
+      "explanation": "IPv4 uses 32-bit IP addresses (e.g., 192.168.1.1). MAC addresses are 48-bit hardware addresses on network cards. Port numbers are 16-bit identifiers for application endpoints (e.g., 80, 443). Subnet masks divide an IP address into network and host portions but are not themselves the device identifier."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "The MAC address of a network interface card is:",
+      "options": ["16 bits long", "32 bits long", "48 bits long", "64 bits long"],
+      "correctAnswer": "48 bits long",
+      "explanation": "A MAC address is 48 bits (6 bytes), typically written as six hex pairs like AA:BB:CC:DD:EE:FF. '16 bits' is the size of port numbers. '32 bits' is the size of IPv4 addresses. '64 bits' is the size of IPv6 subnet interface IDs but not MAC addresses themselves."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "Which of the following IP address ranges is reserved for private use in IPv4?",
+      "options": [
+        "10.0.0.0 – 10.255.255.255",
+        "127.0.0.0 – 127.255.255.255",
+        "168.0.0.0 – 168.255.255.255",
+        "224.0.0.0 – 239.255.255.255"
+      ],
+      "correctAnswer": "10.0.0.0 – 10.255.255.255",
+      "explanation": "10.0.0.0/8, 172.16.0.0/12 and 192.168.0.0/16 are private IPv4 ranges (RFC 1918). 127.0.0.0/8 is reserved for loopback (localhost). 168.0.0.0 range is public. 224.0.0.0/4 is reserved for multicast, not private use."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "The __________ protocol resolves IP addresses to MAC addresses on a local Ethernet network.",
+      "options": ["DHCP", "DNS", "SNMP", "ARP"],
+      "correctAnswer": "ARP",
+      "explanation": "ARP (Address Resolution Protocol) maps a known IP address to the corresponding MAC address on a local network. DHCP (Dynamic Host Configuration Protocol) assigns IP addresses to hosts. DNS resolves hostnames to IP addresses. SNMP (Simple Network Management Protocol) is used for network device monitoring/management, not address resolution."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): HTTPS is more secure than HTTP for browsing sensitive websites.\nReason (R): HTTPS encrypts communication between the browser and the server using SSL/TLS, while HTTP transmits data in plaintext.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — HTTPS is the secure form. (R) is correct — HTTPS = HTTP over SSL/TLS, which encrypts payload and authenticates the server; plain HTTP is in plaintext. (R) directly explains (A) — encryption is exactly the reason for HTTPS's superior security. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "The default port for HTTPS is:",
+      "options": ["22", "80", "443", "8080"],
+      "correctAnswer": "443",
+      "explanation": "HTTPS uses TCP port 443 by default. Port 22 is for SSH. Port 80 is for plain HTTP. Port 8080 is an alternative, unofficial HTTP proxy or testing port — not HTTPS."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "Which network topology connects every node to every other node with dedicated links?",
+      "options": ["Bus", "Star", "Ring", "Mesh"],
+      "correctAnswer": "Mesh",
+      "explanation": "A full mesh topology has direct links between every pair of nodes — providing maximum redundancy but at high cost. Bus uses a single common backbone. Star has a central device with each node connected only to the center. Ring connects nodes in a closed loop, where each node has just two neighbors."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "Which of the following are transport-layer protocols?\n\n(i) TCP\n(ii) UDP\n(iii) HTTP\n(iv) IP\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "TCP and UDP are the two main transport-layer protocols. HTTP is application-layer; IP is network-layer. Any option including HTTP (iii) or IP (iv) in the transport-layer list is therefore wrong."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "The abbreviation 'LAN' stands for:",
+      "options": [
+        "Local Address Network",
+        "Long Area Network",
+        "Loop Area Network",
+        "Local Area Network"
+      ],
+      "correctAnswer": "Local Area Network",
+      "explanation": "LAN = Local Area Network — a network spanning a small geographic area like a home, school or office. 'Local Address Network' is not a standard term. 'Long Area Network' is invented (contrast with WAN — Wide Area Network). 'Loop Area Network' has no standard meaning."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "The device that connects two DIFFERENT networks (e.g., a home LAN to the Internet) and forwards packets between them based on IP addresses is a:",
+      "options": ["Hub", "Bridge", "Switch", "Router"],
+      "correctAnswer": "Router",
+      "explanation": "A router forwards packets between different IP networks — the classic 'connect to the Internet' device. A hub simply broadcasts on a single Layer-1 segment. A bridge connects two LAN segments at Layer 2 (still one broadcast domain effectively). A switch is an intelligent multi-port Layer-2 device but generally within a single LAN, not between different IP networks."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "The command 'ping' commonly uses which protocol underneath?",
+      "options": ["TCP", "UDP", "ICMP", "ARP"],
+      "correctAnswer": "ICMP",
+      "explanation": "The 'ping' utility sends ICMP Echo Request packets and expects ICMP Echo Reply — using the Internet Control Message Protocol. TCP is a reliable stream protocol, not what ping uses. UDP is a connectionless transport, also not used by classic ping. ARP resolves IP-to-MAC and is unrelated to reachability testing."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "Consider the following statements about IPv4 addresses:\n\n(i) An IPv4 address is 32 bits long, divided into four octets separated by dots.\n(ii) Class C IPv4 addresses have a default subnet mask of 255.255.255.0.\n(iii) The IPv4 address 255.255.255.255 is the local broadcast address.\n(iv) IPv4 supports a maximum of 2^128 unique addresses.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii), (iii) are all correct textbook facts. (iv) is INCORRECT — IPv4 has 2^32 (~4.3 billion) addresses, not 2^128. It is IPv6 that provides 2^128 addresses. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "The IPv6 address length is:",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "correctAnswer": "128 bits",
+      "explanation": "IPv6 uses 128-bit addresses (written as 8 groups of 4 hex digits). 32 bits is IPv4. 64 bits is often the interface identifier portion in IPv6 subnets but not the full address. 256 bits is not a standard address length."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "A device that connects an Ethernet LAN to an incoming analog telephone line (or cable line) for internet access is a:",
+      "options": [
+        "Hub",
+        "Switch",
+        "Modem",
+        "Router-only device"
+      ],
+      "correctAnswer": "Modem",
+      "explanation": "A modem (MODulator-DEMODulator) converts digital signals from a LAN to/from analog signals for transmission on a phone or cable line. A hub is a Layer-1 signal repeater within a LAN — no modulation. A switch is a Layer-2 forwarding device within a LAN. A pure router (without an integrated modem) needs a modem in front of it for such analog-line access."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "The __________ command is used in Windows to display the IP configuration of all network interfaces.",
+      "options": ["ping", "tracert", "ipconfig", "netstat"],
+      "correctAnswer": "ipconfig",
+      "explanation": "'ipconfig' (Windows) or 'ifconfig'/'ip a' (Linux) shows network interface configuration — IP addresses, gateways, DNS. 'ping' tests reachability. 'tracert' traces the route packets take. 'netstat' shows active connections and listening ports."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "Which of the following is a wireless networking standard set by the IEEE?",
+      "options": ["802.3", "802.5", "802.15.4 (weak wireless)", "802.11"],
+      "correctAnswer": "802.11",
+      "explanation": "IEEE 802.11 is the family of Wi-Fi standards for wireless LANs. 802.3 is Ethernet (wired). 802.5 was Token Ring (wired, largely obsolete). 802.15.4 is a low-rate wireless PAN standard (Zigbee/Thread base) — it IS a wireless standard but 802.11 is the specific Wi-Fi answer expected."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Match the following ports with their default protocols:\n\nColumn I:\n(a) Port 22\n(b) Port 25\n(c) Port 53\n(d) Port 110\n\nColumn II:\n(i) DNS\n(ii) SSH\n(iii) POP3\n(iv) SMTP\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Port 22 = SSH → (a)-(ii). Port 25 = SMTP → (b)-(iv). Port 53 = DNS → (c)-(i). Port 110 = POP3 → (d)-(iii). The distractor (a)-(iv) swaps SSH with SMTP. (a)-(iii) makes 22 = POP3, wrong. (a)-(i) makes 22 = DNS, wrong."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "Which protocol is responsible for automatically assigning IP addresses to devices on a network?",
+      "options": ["ARP", "DNS", "ICMP", "DHCP"],
+      "correctAnswer": "DHCP",
+      "explanation": "DHCP (Dynamic Host Configuration Protocol) automatically leases IP addresses, subnet masks, gateways and DNS servers to hosts. ARP maps IP to MAC on a LAN. DNS resolves hostnames to IPs. ICMP is used for diagnostics/error reporting (ping, unreachable messages)."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "Which of the following are correctly-matched port-service pairs?\n\n(i) 21 → FTP\n(ii) 23 → Telnet\n(iii) 80 → HTTPS\n(iv) 443 → HTTPS\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) 21 = FTP (control) — correct. (ii) 23 = Telnet — correct. (iv) 443 = HTTPS — correct. (iii) is INCORRECT — port 80 is HTTP, NOT HTTPS. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "In OSI model layering, the Data-link layer is:",
+      "options": [
+        "Layer 1",
+        "Layer 2",
+        "Layer 3",
+        "Layer 4"
+      ],
+      "correctAnswer": "Layer 2",
+      "explanation": "OSI layers, from bottom to top: 1-Physical, 2-Data-link, 3-Network, 4-Transport, 5-Session, 6-Presentation, 7-Application. Data-link is Layer 2. Layer 1 is Physical. Layer 3 is Network (IP). Layer 4 is Transport (TCP/UDP)."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "The subnet mask 255.255.255.0 corresponds to which CIDR notation?",
+      "options": ["/8", "/16", "/24", "/32"],
+      "correctAnswer": "/24",
+      "explanation": "255.255.255.0 in binary is 24 ones followed by 8 zeros — hence /24. /8 is 255.0.0.0. /16 is 255.255.0.0. /32 is 255.255.255.255 (a single-host mask)."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A firewall can block traffic based on port numbers and IP addresses.\nReason (R): A firewall inspects incoming and outgoing packets and applies a rule set to permit or deny each packet.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — firewalls filter traffic by source/destination IP and port, among other fields. (R) is correct — firewalls do exactly this rule-based packet inspection (stateless firewalls do per-packet, stateful firewalls track connection state). (R) directly explains (A). Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "31",
+      "subject": "F",
+      "questionText": "Which of the following is NOT a valid IPv4 address?",
+      "options": [
+        "192.168.1.1",
+        "10.0.0.255",
+        "256.1.1.1",
+        "127.0.0.1"
+      ],
+      "correctAnswer": "256.1.1.1",
+      "explanation": "Each octet of an IPv4 address must be 0-255. 256 is out of range, so 256.1.1.1 is invalid. 192.168.1.1 is a common private LAN address. 10.0.0.255 is a valid host in a /24 or broadcast in /24 depending on mask. 127.0.0.1 is the loopback address."
+    },
+    {
+      "id": "32",
+      "subject": "F",
+      "questionText": "The __________ protocol is used to send emails from a client to the mail server.",
+      "options": ["POP3", "IMAP", "SMTP", "SNMP"],
+      "correctAnswer": "SMTP",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send/submit outgoing email. POP3 is for downloading (and typically deleting) received mail from a server. IMAP is for reading/managing received mail while keeping it on the server. SNMP is for network device management, unrelated to email."
+    },
+    {
+      "id": "33",
+      "subject": "F",
+      "questionText": "The typical range of a Class B IPv4 network is:",
+      "options": [
+        "0.0.0.0 – 127.255.255.255",
+        "128.0.0.0 – 191.255.255.255",
+        "192.0.0.0 – 223.255.255.255",
+        "224.0.0.0 – 239.255.255.255"
+      ],
+      "correctAnswer": "128.0.0.0 – 191.255.255.255",
+      "explanation": "Class B IPv4 addresses use the leading bits '10', giving a first octet range of 128–191 with a /16 default mask. Class A is 0–127 (first bit 0). Class C is 192–223 (leading bits '110'). Class D is 224–239 (multicast, leading bits '1110')."
+    },
+    {
+      "id": "34",
+      "subject": "F",
+      "questionText": "The primary purpose of a NAT (Network Address Translation) device is to:",
+      "options": [
+        "Translate private internal IP addresses to a public IP address (and vice versa)",
+        "Encrypt all outbound traffic",
+        "Store cached web content for faster loading",
+        "Assign MAC addresses to devices"
+      ],
+      "correctAnswer": "Translate private internal IP addresses to a public IP address (and vice versa)",
+      "explanation": "NAT allows a private network (using RFC 1918 addresses) to share a single or few public IPs when accessing the Internet. Encryption is done by protocols like TLS or IPsec — not NAT. Caching web content is a proxy/CDN function. MAC address assignment is done by the NIC manufacturer, not by NAT."
+    },
+    {
+      "id": "35",
+      "subject": "F",
+      "questionText": "Consider the following statements about networking:\n\n(i) A router breaks up broadcast domains between different subnets.\n(ii) A switch typically has multiple broadcast domains, one per port.\n(iii) VLANs allow a single physical switch to segment traffic logically into multiple broadcast domains.\n(iv) Hubs create separate collision domains for each connected port.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — routers separate broadcast domains. (iii) is correct — VLANs logically segment a switch into multiple broadcast domains. (ii) is INCORRECT — a standard switch (without VLANs) has ONE broadcast domain covering all its ports; each port is a separate COLLISION domain, not broadcast. (iv) is INCORRECT — a hub creates ONE big collision domain shared by all its ports (opposite of what (iv) claims). Any option containing (ii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "The 'ping' utility is primarily used to:",
+      "options": [
+        "Send an email test message",
+        "Check network reachability and round-trip latency between two hosts",
+        "Assign an IP address to a device",
+        "Encrypt data before transmission"
+      ],
+      "correctAnswer": "Check network reachability and round-trip latency between two hosts",
+      "explanation": "'ping' sends ICMP Echo Requests and measures the round-trip time; if a reply arrives, reachability is confirmed. Sending email tests uses SMTP, not ping. IP assignment is done by DHCP. Encryption is done by TLS/IPsec — not ping."
+    },
+    {
+      "id": "37",
+      "subject": "F",
+      "questionText": "Which topology has each device connected to a central hub or switch?",
+      "options": ["Star", "Bus", "Ring", "Mesh"],
+      "correctAnswer": "Star",
+      "explanation": "In a star topology, every node has its own connection to a central device (hub/switch); if one connection fails, others are unaffected. Bus uses a single shared cable. Ring connects nodes in a circular loop. Mesh has direct links between every pair of nodes."
+    },
+    {
+      "id": "38",
+      "subject": "F",
+      "questionText": "The maximum theoretical data rate of Gigabit Ethernet (1000BASE-T) is:",
+      "options": [
+        "100 Mbps",
+        "1 Gbps",
+        "10 Gbps",
+        "100 Gbps"
+      ],
+      "correctAnswer": "1 Gbps",
+      "explanation": "Gigabit Ethernet gives 1 Gbps (1000 Mbps). 100 Mbps is Fast Ethernet (100BASE-TX). 10 Gbps is 10-Gigabit Ethernet (10GBASE-T etc.). 100 Gbps is 100-Gigabit Ethernet, faster than Gigabit Ethernet."
+    },
+    {
+      "id": "39",
+      "subject": "F",
+      "questionText": "The __________ layer of the OSI model is responsible for end-to-end error control and flow control between hosts.",
+      "options": ["Physical", "Data-link", "Network", "Transport"],
+      "correctAnswer": "Transport",
+      "explanation": "Transport layer (Layer 4, TCP/UDP) provides end-to-end reliability, error control (via ACK/retransmit), and flow control (via windows). Physical layer handles bits and signals. Data-link handles hop-by-hop framing and MAC addressing. Network layer handles routing (IP addressing) — not end-to-end flow control."
+    },
+    {
+      "id": "40",
+      "subject": "F",
+      "questionText": "Which of the following is a wide-area network (WAN) protocol used for legacy point-to-point serial links?",
+      "options": ["PPP (Point-to-Point Protocol)", "Ethernet", "Bluetooth", "Zigbee"],
+      "correctAnswer": "PPP (Point-to-Point Protocol)",
+      "explanation": "PPP is a Layer-2 protocol used on serial dial-up and other point-to-point WAN links, commonly seen on legacy dial-up modems and some DSL configurations. Ethernet is a LAN standard for shared/twisted-pair. Bluetooth is a short-range PAN standard. Zigbee is a low-rate wireless PAN protocol for IoT and sensor networks."
+    }
+  ]
+}

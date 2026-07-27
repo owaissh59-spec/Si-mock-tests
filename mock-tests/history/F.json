@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 295,
+  "count": 335,
   "questions": [
     {
       "test": 6,
@@ -1477,6 +1477,206 @@
       "test": 44,
       "stem": "the primary role of the 'address bar' in a web browser is",
       "key": "Display and accept the URL of the current or next web page"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following devices operates at the physical layer (layer 1)",
+      "key": "Hub"
+    },
+    {
+      "test": 50,
+      "stem": "consider the following statements about network devices: (i) a hub broadcasts data",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 50,
+      "stem": "the full form of 'dns' in networking is:",
+      "key": "Domain Name System"
+    },
+    {
+      "test": 50,
+      "stem": "which protocol is used for reliable, connection-oriented communication between two hosts?",
+      "key": "TCP"
+    },
+    {
+      "test": 50,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 50,
+      "stem": "match the following networking devices with their osi layer: column i: (a)",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 50,
+      "stem": "the default port number for http is:",
+      "key": "80"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following are examples of application-layer protocols? (i) http (ii)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 50,
+      "stem": "the 32-bit numeric address used to uniquely identify a device on an",
+      "key": "IP address"
+    },
+    {
+      "test": 50,
+      "stem": "the mac address of a network interface card is:",
+      "key": "48 bits long"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following ip address ranges is reserved for private use",
+      "key": "10.0.0.0 – 10.255.255.255"
+    },
+    {
+      "test": 50,
+      "stem": "the __________ protocol resolves ip addresses to mac addresses on a local",
+      "key": "ARP"
+    },
+    {
+      "test": 50,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 50,
+      "stem": "the default port for https is:",
+      "key": "443"
+    },
+    {
+      "test": 50,
+      "stem": "which network topology connects every node to every other node with dedicated",
+      "key": "Mesh"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following are transport-layer protocols? (i) tcp (ii) udp (iii)",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 50,
+      "stem": "the abbreviation 'lan' stands for:",
+      "key": "Local Area Network"
+    },
+    {
+      "test": 50,
+      "stem": "the device that connects two different networks (e.g., a home lan to",
+      "key": "Router"
+    },
+    {
+      "test": 50,
+      "stem": "the command 'ping' commonly uses which protocol underneath?",
+      "key": "ICMP"
+    },
+    {
+      "test": 50,
+      "stem": "consider the following statements about ipv4 addresses: (i) an ipv4 address is",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 50,
+      "stem": "the ipv6 address length is:",
+      "key": "128 bits"
+    },
+    {
+      "test": 50,
+      "stem": "a device that connects an ethernet lan to an incoming analog telephone",
+      "key": "Modem"
+    },
+    {
+      "test": 50,
+      "stem": "the __________ command is used in windows to display the ip configuration",
+      "key": "ipconfig"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following is a wireless networking standard set by the",
+      "key": "802.11"
+    },
+    {
+      "test": 50,
+      "stem": "match the following ports with their default protocols: column i: (a) port",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 50,
+      "stem": "which protocol is responsible for automatically assigning ip addresses to devices on",
+      "key": "DHCP"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following are correctly-matched port-service pairs? (i) 21 → ftp",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 50,
+      "stem": "in osi model layering, the data-link layer is:",
+      "key": "Layer 2"
+    },
+    {
+      "test": 50,
+      "stem": "the subnet mask 255.255.255.0 corresponds to which cidr notation?",
+      "key": "/24"
+    },
+    {
+      "test": 50,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following is not a valid ipv4 address?",
+      "key": "256.1.1.1"
+    },
+    {
+      "test": 50,
+      "stem": "the __________ protocol is used to send emails from a client to",
+      "key": "SMTP"
+    },
+    {
+      "test": 50,
+      "stem": "the typical range of a class b ipv4 network is:",
+      "key": "128.0.0.0 – 191.255.255.255"
+    },
+    {
+      "test": 50,
+      "stem": "the primary purpose of a nat (network address translation) device is to:",
+      "key": "Translate private internal IP addresses to a public IP address (and vice versa)"
+    },
+    {
+      "test": 50,
+      "stem": "consider the following statements about networking: (i) a router breaks up broadcast",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 50,
+      "stem": "the 'ping' utility is primarily used to:",
+      "key": "Check network reachability and round-trip latency between two hosts"
+    },
+    {
+      "test": 50,
+      "stem": "which topology has each device connected to a central hub or switch?",
+      "key": "Star"
+    },
+    {
+      "test": 50,
+      "stem": "the maximum theoretical data rate of gigabit ethernet (1000base-t) is:",
+      "key": "1 Gbps"
+    },
+    {
+      "test": 50,
+      "stem": "the __________ layer of the osi model is responsible for end-to-end error",
+      "key": "Transport"
+    },
+    {
+      "test": 50,
+      "stem": "which of the following is a wide-area network (wan) protocol used for",
+      "key": "PPP (Point-to-Point Protocol)"
     }
   ]
 }
