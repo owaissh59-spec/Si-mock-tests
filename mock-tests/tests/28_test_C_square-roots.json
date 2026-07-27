@@ -1,0 +1,262 @@
+{
+  "subject": "C",
+  "topic": "Square Roots & Surds",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "What is the square root of 144?",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": "12",
+      "explanation": "12 is correct because 12 × 12 = 144. 11 is wrong because 11² = 121. 13 is wrong because 13² = 169. 14 is wrong because 14² = 196."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) Every perfect square number ends in 0, 1, 4, 5, 6, or 9.\n(ii) A number ending in 2, 3, 7, or 8 is never a perfect square.\n(iii) The square of an even number is always even.\n(iv) The square of an odd number is always even.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(ii), (iii) and (iv) only", "(i) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — perfect squares can only end in 0, 1, 4, 5, 6, or 9. (ii) is correct — no perfect square ends in 2, 3, 7, or 8. (iii) is correct — (2n)² = 4n² which is always even. (iv) is wrong — the square of an odd number is always odd, e.g., 3² = 9, 5² = 25."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "Simplify: √50",
+      "options": ["5√2", "2√5", "25√2", "10√5"],
+      "correctAnswer": "5√2",
+      "explanation": "√50 = √(25 × 2) = √25 × √2 = 5√2. 2√5 is wrong because (2√5)² = 4 × 5 = 20, not 50. 25√2 is wrong because (25√2)² = 625 × 2 = 1250. 10√5 is wrong because (10√5)² = 100 × 5 = 500."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): √2 is an irrational number.\nReason (R): The square root of any prime number is always irrational.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — √2 cannot be expressed as p/q and is irrational. (R) is correct — for any prime p, √p is always irrational (provable by contradiction). (R) explains (A) because 2 is a prime number, so by the rule in (R), √2 is irrational. Option 2 is wrong because (R) directly explains why √2 is irrational. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "What is the value of 3√2 + 5√2?",
+      "options": ["8√2", "8√4", "15√2", "8√2²"],
+      "correctAnswer": "8√2",
+      "explanation": "Like surds can be added: 3√2 + 5√2 = (3+5)√2 = 8√2. 8√4 is wrong because √4 = 2, so 8√4 = 16, while 8√2 ≈ 11.31. 15√2 is wrong because we add coefficients (3+5=8), not multiply them. 8√2² is wrong because √2² = 2, giving 16, not the correct value."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Match the following:\n\nColumn I:\n(a) √196\n(b) √225\n(c) √289\n(d) √324\n\nColumn II:\n(i) 15\n(ii) 18\n(iii) 14\n(iv) 17\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "√196 = 14 = (iii); √225 = 15 = (i); √289 = 17 = (iv); √324 = 18 = (ii). Option 2 is wrong because it assigns √196 = 15 which is incorrect. Option 3 is wrong because it assigns √196 = 17 which is incorrect. Option 4 is wrong because it assigns √225 = 17 which is incorrect."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Which of the following are irrational numbers?\n\n(i) √16\n(ii) √7\n(iii) √81\n(iv) √11\n\nWhich of the following are correct?",
+      "options": ["(i) and (iii) only", "(ii) and (iv) only", "(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)"],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "(ii) √7 is irrational because 7 is not a perfect square. (iv) √11 is irrational because 11 is not a perfect square. (i) is wrong because √16 = 4, a rational number. (iii) is wrong because √81 = 9, a rational number."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "Find the square root of 7056 by prime factorization method.",
+      "options": ["84", "82", "86", "88"],
+      "correctAnswer": "84",
+      "explanation": "7056 = 2⁴ × 3² × 7² = (2² × 3 × 7)² = (4 × 3 × 7)² = 84². So √7056 = 84. 82 is wrong because 82² = 6724. 86 is wrong because 86² = 7396. 88 is wrong because 88² = 7744."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "The value of √(32) + √(18) is:",
+      "options": ["7√2", "5√2", "50", "√50"],
+      "correctAnswer": "7√2",
+      "explanation": "√32 = √(16×2) = 4√2 and √18 = √(9×2) = 3√2. So 4√2 + 3√2 = 7√2. 5√2 is wrong because it incorrectly adds the radicands. 50 is wrong because 7√2 ≈ 9.9, not 50. √50 = 5√2 ≈ 7.07, which is not equal to 7√2 ≈ 9.9."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The sum of first n odd natural numbers equals n².\n(ii) 1 + 3 + 5 + 7 + 9 = 25 = 5².\n(iii) If a perfect square is expressed as sum of consecutive odd numbers starting from 1, the number of odd numbers equals the square root.\n(iv) The sum 1 + 3 + 5 + 7 = 20.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(ii) and (iv) only", "(i) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the sum of first n odd numbers is n². (ii) is correct — 1+3+5+7+9 = 25 = 5². (iii) is correct — for n², we need exactly n consecutive odd numbers from 1. (iv) is wrong — 1+3+5+7 = 16, not 20."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Rationalize the denominator: 1/√5",
+      "options": ["√5/5", "5/√5", "1/5", "√5/25"],
+      "correctAnswer": "√5/5",
+      "explanation": "1/√5 × (√5/√5) = √5/5. 5/√5 is wrong because 5/√5 = 5×√5/5 = √5 ≈ 2.24, not 1/√5 ≈ 0.447. 1/5 = 0.2 is wrong because 1/√5 ≈ 0.447. √5/25 ≈ 0.089 is wrong because it divides by 25 instead of 5."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The cube root of 27 is 3.\nReason (R): Cube root of a number n is the value which when multiplied by itself three times gives n.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because 3 × 3 × 3 = 27. (R) is correct as it states the definition of cube root. (R) explains (A) because applying the definition: 3 × 3 × 3 = 27, so ∛27 = 3. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is a correct definition. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "What is the value of √(12) × √(3)?",
+      "options": ["6", "√36", "3√4", "Both 6 and √36"],
+      "correctAnswer": "6",
+      "explanation": "√12 × √3 = √(12×3) = √36 = 6. While √36 also equals 6, the simplified numerical value is 6. '√36' is not fully simplified. '3√4' = 3×2 = 6 is equivalent but not in simplest form. 'Both 6 and √36' is misleading as only one option should be the answer and 6 is the simplest form."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "The square root of 2025 by division method is:",
+      "options": ["45", "55", "35", "40"],
+      "correctAnswer": "45",
+      "explanation": "Using the long division method: 2025 ÷ steps give 45 (since 45² = 2025). 55 is wrong because 55² = 3025. 35 is wrong because 35² = 1225. 40 is wrong because 40² = 1600."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "The value of __________ when simplified gives 4√3.",
+      "options": ["√48", "√36", "√12", "√24"],
+      "correctAnswer": "√48",
+      "explanation": "√48 = √(16×3) = 4√3. √36 = 6 which is not 4√3. √12 = 2√3 which is not 4√3. √24 = 2√6 which is not 4√3."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "If √x = 13, then x equals:",
+      "options": ["169", "26", "143", "156"],
+      "correctAnswer": "169",
+      "explanation": "If √x = 13, then x = 13² = 169. 26 is wrong (13 × 2 = 26, confusing multiplication with squaring). 143 is wrong (13 × 11 = 143, a common arithmetic mistake). 156 is wrong (13 × 12 = 156, another multiplication error)."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "Which of the following surds are in their simplest form?\n\n(i) 3√2\n(ii) 2√8\n(iii) 5√3\n(iv) 4√12\n\nWhich of the following are correct?",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii) only", "(ii) and (iv) only", "(i), (ii), (iii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) 3√2 is in simplest form as 2 has no perfect square factors. (iii) 5√3 is in simplest form as 3 has no perfect square factors. (ii) is wrong because 2√8 = 2×2√2 = 4√2, not simplified. (iv) is wrong because 4√12 = 4×2√3 = 8√3, not simplified."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): √2 × √3 = √6\nReason (R): For any two positive numbers a and b, √a × √b = √(a+b).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — √2 × √3 = √(2×3) = √6. (R) is incorrect — the correct rule is √a × √b = √(ab), not √(a+b). For example, √4 × √9 = 6, but √(4+9) = √13 ≈ 3.6. Option 1 is wrong because (R) states a false rule. Option 2 is wrong because (R) is not correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "Rationalize the denominator of 6/(√3 + √2):",
+      "options": ["6(√3 − √2)", "6/(√3 − √2)", "6√3 − 6√2", "3√3 − 3√2"],
+      "correctAnswer": "6(√3 − √2)",
+      "explanation": "Multiply by conjugate: 6/(√3+√2) × (√3−√2)/(√3−√2) = 6(√3−√2)/(3−2) = 6(√3−√2)/1 = 6(√3−√2). Note: 6(√3−√2) = 6√3−6√2, but the standard form keeps the factor outside. '6/(√3−√2)' is wrong as it doesn't rationalize. '6√3−6√2' is the expanded equivalent but '6(√3−√2)' is the factored answer given. '3√3−3√2' is wrong as it divides by 2 incorrectly."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "The following data shows the areas of four squares:\n\nSquare P: Area = 625 cm²\nSquare Q: Area = 484 cm²\nSquare R: Area = 784 cm²\nSquare S: Area = 576 cm²\n\nWhat is the sum of sides of the square with the largest side and the square with the smallest side?",
+      "options": ["50 cm", "28 cm + 22 cm = 50 cm", "22 cm + 24 cm = 46 cm", "28 cm + 25 cm = 53 cm"],
+      "correctAnswer": "28 cm + 22 cm = 50 cm",
+      "explanation": "Side of P = √625 = 25 cm; Side of Q = √484 = 22 cm; Side of R = √784 = 28 cm; Side of S = √576 = 24 cm. Largest side = 28 cm (R), smallest side = 22 cm (Q). Sum = 28 + 22 = 50 cm. '50 cm' alone doesn't show the breakdown. '22+24 = 46' incorrectly picks S as the largest. '28+25 = 53' incorrectly picks P's side as 25 for the smallest."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "What is the value of √(0.0049)?",
+      "options": ["0.07", "0.7", "0.007", "7"],
+      "correctAnswer": "0.07",
+      "explanation": "0.0049 = 49/10000 = 49 × 10⁻⁴. √(0.0049) = 7 × 10⁻² = 0.07. 0.7 is wrong because 0.7² = 0.49. 0.007 is wrong because 0.007² = 0.000049. 7 is wrong because 7² = 49."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "Which is greater: 3√2 or 2√3?",
+      "options": ["3√2", "2√3", "Both are equal", "Cannot be determined"],
+      "correctAnswer": "3√2",
+      "explanation": "3√2 = √(9×2) = √18 ≈ 4.243. 2√3 = √(4×3) = √12 ≈ 3.464. Since √18 > √12, we have 3√2 > 2√3. 'Both are equal' is wrong since √18 ≠ √12. 'Cannot be determined' is wrong as we can compare their squares: (3√2)² = 18 > (2√3)² = 12."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Match the following surds with their simplified forms:\n\nColumn I:\n(a) √72\n(b) √98\n(c) √128\n(d) √200\n\nColumn II:\n(i) 8√2\n(ii) 6√2\n(iii) 10√2\n(iv) 7√2\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "√72 = √(36×2) = 6√2 = (ii); √98 = √(49×2) = 7√2 = (iv); √128 = √(64×2) = 8√2 = (i); √200 = √(100×2) = 10√2 = (iii). Option 2 swaps (a) and (b). Option 3 swaps (c) and (d). Option 4 has multiple incorrect pairings."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) √(a²b) = a√b for a > 0.\n(ii) √(a/b) = √a/√b for b > 0.\n(iii) (√a)² = a for a ≥ 0.\n(iv) √(a + b) = √a + √b for all positive a, b.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — √(a²b) = a√b by extracting a² from under the radical. (ii) is correct — quotient rule for square roots. (iii) is correct — squaring and square root are inverse operations. (iv) is wrong — √(a+b) ≠ √a + √b in general; e.g., √(9+16) = √25 = 5, but √9 + √16 = 3 + 4 = 7."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Estimate the square root of 50 to one decimal place:",
+      "options": ["7.1", "7.5", "6.9", "7.3"],
+      "correctAnswer": "7.1",
+      "explanation": "Since 7² = 49 and 8² = 64, √50 is slightly more than 7. More precisely, 7.07² = 49.98 ≈ 50, so √50 ≈ 7.1 (to one decimal). 7.5 is wrong because 7.5² = 56.25, too large. 6.9 is wrong because 6.9² = 47.61, too small. 7.3 is wrong because 7.3² = 53.29, too large."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "The value of (√5 + √3)(√5 − √3) is:",
+      "options": ["2", "8", "√15", "4"],
+      "correctAnswer": "2",
+      "explanation": "Using the identity (a+b)(a−b) = a²−b²: (√5+√3)(√5−√3) = (√5)²−(√3)² = 5−3 = 2. 8 is wrong (incorrectly computing 5+3). √15 is wrong (incorrectly multiplying √5×√3). 4 is wrong (a common arithmetic error)."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "A student calculated √(5²+12²). The numerical value of the result is __________.",
+      "options": ["13", "17", "√169", "Both 13 and √169"],
+      "correctAnswer": "13",
+      "explanation": "√(5²+12²) = √(25+144) = √169 = 13. 17 is wrong because 5+12 = 17, but √(a²+b²) ≠ a+b. √169 is not the final numerical value (it simplifies to 13). 'Both 13 and √169' is misleading — the numerical value is simply 13."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Match the following operations with their results:\n\nColumn I:\n(a) √8 × √2\n(b) √75 ÷ √3\n(c) (√6)²\n(d) √(4/9)\n\nColumn II:\n(i) 5\n(ii) 2/3\n(iii) 6\n(iv) 4\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "√8×√2 = √16 = 4 = (iv); √75÷√3 = √(75/3) = √25 = 5 = (i); (√6)² = 6 = (iii); √(4/9) = 2/3 = (ii). Option 2 assigns (a)=6 which is wrong. Option 3 assigns (b)=6 which is wrong. Option 4 has all pairings incorrect."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "The following table shows the land area of four farms:\n\nFarm A: 1764 m²\nFarm B: 2304 m²\nFarm C: 1296 m²\nFarm D: 1936 m²\n\nIf each farm is a perfect square, what is the difference in side lengths between the largest and smallest farm?",
+      "options": ["12 m", "6 m", "8 m", "10 m"],
+      "correctAnswer": "12 m",
+      "explanation": "Side A = √1764 = 42 m; Side B = √2304 = 48 m; Side C = √1296 = 36 m; Side D = √1936 = 44 m. Largest = 48 m (B), Smallest = 36 m (C). Difference = 48 − 36 = 12 m. 6 m is wrong (difference between D and C = 8, or some other miscalculation). 8 m is wrong (44−36 = 8 picks wrong largest). 10 m is wrong (a common arithmetic error)."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) The cube root of 64 is 4.\n(ii) The cube root of 125 is 5.\n(iii) The cube root of 216 is 8.\n(iv) ∛(a³) = a for all positive numbers a.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iv) only", "(i) and (ii) only", "(iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — 4³ = 64, so ∛64 = 4. (ii) is correct — 5³ = 125, so ∛125 = 5. (iv) is correct — by definition, ∛(a³) = a. (iii) is wrong — ∛216 = 6 (since 6³ = 216), not 8 (8³ = 512)."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 137,
+  "count": 177,
   "questions": [
     {
       "test": 4,
@@ -687,6 +687,206 @@
       "test": 23,
       "stem": "choose the correctly spelt word:",
       "key": "Manoeuvre"
+    },
+    {
+      "test": 29,
+      "stem": "what does the idiom 'break the ice' mean?",
+      "key": "To initiate conversation in an awkward situation"
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'burn the midnight oil' means to work",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 29,
+      "stem": "choose the correct meaning of the idiom 'hit the nail on the",
+      "key": "To describe exactly what is causing a situation"
+    },
+    {
+      "test": 29,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'spill the beans' means:",
+      "key": "To reveal a secret"
+    },
+    {
+      "test": 29,
+      "stem": "match the following idioms with their meanings: column i: (a) the ball",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 29,
+      "stem": "which of the following sentences use idioms correctly? (i) he let the",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'cut corners' means:",
+      "key": "To do something in the easiest or cheapest way, often sacrificing quality"
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'get out of hand' means a situation",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 29,
+      "stem": "'through thick and thin' means:",
+      "key": "In good times and bad times"
+    },
+    {
+      "test": 29,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 29,
+      "stem": "fill in the blank with the correct idiom: \"the project seemed impossible",
+      "key": "a piece of cake"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'when pigs fly' is used to express:",
+      "key": "Something that will never happen"
+    },
+    {
+      "test": 29,
+      "stem": "match the following idioms with their correct meanings: column i: (a) tip",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 29,
+      "stem": "choose the correct meaning of 'add fuel to the fire':",
+      "key": "To make a bad situation worse"
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'a penny for your thoughts' is used",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 29,
+      "stem": "in which situation would you use the idiom 'the last straw'?",
+      "key": "When a final small event causes a strong reaction after a series of problems"
+    },
+    {
+      "test": 29,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 29,
+      "stem": "what does the idiom 'steal someone's thunder' mean?",
+      "key": "To take credit for someone else's idea or achievement"
+    },
+    {
+      "test": 29,
+      "stem": "fill in the blank with the correct idiom: \"don't count your chickens",
+      "key": "hatch"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'a hot potato' refers to:",
+      "key": "A controversial or sensitive issue that is difficult to deal with"
+    },
+    {
+      "test": 29,
+      "stem": "match the following idioms with their correct meanings: column i: (a) pull",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 29,
+      "stem": "which of the following correctly describe the idiom 'the elephant in the",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'burning bridges' means:",
+      "key": "Destroying relationships or possibilities permanently"
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'throw in the towel' means to give",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 29,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 29,
+      "stem": "what does 'to have cold feet' mean?",
+      "key": "To be nervous or anxious about something you planned to do"
+    },
+    {
+      "test": 29,
+      "stem": "choose the sentence where 'throw caution to the wind' is used correctly:",
+      "key": "She threw caution to the wind and invested all her savings in the risky venture."
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'put all your eggs in one basket'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'a leopard cannot change its spots' means:",
+      "key": "People cannot change their fundamental nature"
+    },
+    {
+      "test": 29,
+      "stem": "match the following idioms with their meanings: column i: (a) a storm",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 29,
+      "stem": "which of the following idioms means 'to be very busy'? (i) to",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'a wild goose chase' means:",
+      "key": "A hopeless or pointless pursuit"
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'to move heaven and earth' means to",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 29,
+      "stem": "what does the idiom 'the writing is on the wall' mean?",
+      "key": "There are clear signs that something bad is going to happen"
+    },
+    {
+      "test": 29,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 29,
+      "stem": "complete the idiom: 'every cloud has a __________ lining.'",
+      "key": "silver"
+    },
+    {
+      "test": 29,
+      "stem": "consider the following statements: (i) 'to be on thin ice' means to",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 29,
+      "stem": "the idiom 'to play devil's advocate' means:",
+      "key": "To argue against a position one does not necessarily disagree with, to test i..."
+    },
+    {
+      "test": 29,
+      "stem": "which of the following idioms relates to keeping a secret? (i) keep",
+      "key": "(i), (ii) and (iii) only"
     }
   ]
 }

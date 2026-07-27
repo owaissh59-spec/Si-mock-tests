@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 188,
+  "count": 218,
   "questions": [
     {
       "test": 3,
@@ -942,6 +942,156 @@
       "test": 22,
       "stem": "the average of 4 numbers is 20. one number is replaced by",
       "key": "20"
+    },
+    {
+      "test": 28,
+      "stem": "what is the square root of 144?",
+      "key": "12"
+    },
+    {
+      "test": 28,
+      "stem": "consider the following statements: (i) every perfect square number ends in 0,",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 28,
+      "stem": "simplify: √50",
+      "key": "5√2"
+    },
+    {
+      "test": 28,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 28,
+      "stem": "what is the value of 3√2 + 5√2?",
+      "key": "8√2"
+    },
+    {
+      "test": 28,
+      "stem": "match the following: column i: (a) √196 (b) √225 (c) √289 (d)",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 28,
+      "stem": "which of the following are irrational numbers? (i) √16 (ii) √7 (iii)",
+      "key": "(ii) and (iv) only"
+    },
+    {
+      "test": 28,
+      "stem": "find the square root of 7056 by prime factorization method.",
+      "key": "84"
+    },
+    {
+      "test": 28,
+      "stem": "the value of √(32) + √(18) is:",
+      "key": "7√2"
+    },
+    {
+      "test": 28,
+      "stem": "consider the following statements: (i) the sum of first n odd natural",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 28,
+      "stem": "rationalize the denominator: 1/√5",
+      "key": "√5/5"
+    },
+    {
+      "test": 28,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 28,
+      "stem": "what is the value of √(12) × √(3)?",
+      "key": "6"
+    },
+    {
+      "test": 28,
+      "stem": "the square root of 2025 by division method is:",
+      "key": "45"
+    },
+    {
+      "test": 28,
+      "stem": "the value of __________ when simplified gives 4√3.",
+      "key": "√48"
+    },
+    {
+      "test": 28,
+      "stem": "if √x = 13, then x equals:",
+      "key": "169"
+    },
+    {
+      "test": 28,
+      "stem": "which of the following surds are in their simplest form? (i) 3√2",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 28,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 28,
+      "stem": "rationalize the denominator of 6/(√3 + √2):",
+      "key": "6(√3 − √2)"
+    },
+    {
+      "test": 28,
+      "stem": "the following data shows the areas of four squares: square p: area",
+      "key": "28 cm + 22 cm = 50 cm"
+    },
+    {
+      "test": 28,
+      "stem": "what is the value of √(0.0049)?",
+      "key": "0.07"
+    },
+    {
+      "test": 28,
+      "stem": "which is greater: 3√2 or 2√3?",
+      "key": "3√2"
+    },
+    {
+      "test": 28,
+      "stem": "match the following surds with their simplified forms: column i: (a) √72",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 28,
+      "stem": "consider the following statements: (i) √(a²b) = a√b for a > 0.",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 28,
+      "stem": "estimate the square root of 50 to one decimal place:",
+      "key": "7.1"
+    },
+    {
+      "test": 28,
+      "stem": "the value of (√5 + √3)(√5 − √3) is:",
+      "key": "2"
+    },
+    {
+      "test": 28,
+      "stem": "a student calculated √(5²+12²). the numerical value of the result is __________.",
+      "key": "13"
+    },
+    {
+      "test": 28,
+      "stem": "match the following operations with their results: column i: (a) √8 ×",
+      "key": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    },
+    {
+      "test": 28,
+      "stem": "the following table shows the land area of four farms: farm a:",
+      "key": "12 m"
+    },
+    {
+      "test": 28,
+      "stem": "consider the following statements: (i) the cube root of 64 is 4.",
+      "key": "(i), (ii) and (iv) only"
     }
   ]
 }

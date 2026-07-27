@@ -1,0 +1,657 @@
+{
+  "subject": "E",
+  "topic": "Mensuration: 2D Figures",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "The base of a triangle is 12 cm and its corresponding height is 9 cm. Its area is:",
+      "options": [
+        "108 cm²",
+        "54 cm²",
+        "21 cm²",
+        "72 cm²"
+      ],
+      "correctAnswer": "54 cm²",
+      "explanation": "Area of a triangle = ½ × base × height = ½ × 12 × 9 = 54 cm², so 54 cm² is correct. 108 cm² is wrong because it is 12 × 9, i.e. the ½ factor has been forgotten. 21 cm² is wrong because it simply adds 12 + 9 instead of multiplying. 72 cm² is wrong because it uses ½ × 12 × 12, taking the base twice instead of using the height 9 cm."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) The area of a square of side a is a².\n(ii) The perimeter of a rectangle of length l and breadth b is 2(l + b).\n(iii) The area of a parallelogram is ½ × base × height.\n(iv) The diagonals of a rhombus are perpendicular to each other.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: area of a square = side × side = a². (ii) TRUE: perimeter of a rectangle = 2(l + b). (iii) FALSE: the area of a parallelogram is base × height, not half of it; the ½ factor belongs to the triangle. (iv) TRUE: the diagonals of a rhombus bisect each other at right angles. Hence (i), (ii) and (iv) only. '(i), (ii) and (iii) only' is wrong because it includes the false statement (iii) and drops the true (iv). '(i), (iii) and (iv) only' is wrong because it includes the false (iii) and omits the true (ii). '(i), (ii), (iii) and (iv)' is wrong because statement (iii) is false."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The circumference of a circle of radius 21 cm is (take π = 22/7):",
+      "options": [
+        "132 cm",
+        "66 cm",
+        "1386 cm",
+        "44 cm"
+      ],
+      "correctAnswer": "132 cm",
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 21 = 132 cm, so 132 cm is correct. 66 cm is wrong because it is πr (half the circumference), the factor 2 having been omitted. 1386 cm is wrong because 1386 is the area πr² = 22/7 × 441 in cm², not a length. 44 cm is wrong because it is the circumference of a circle of radius 7 cm, not 21 cm."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The area of an equilateral triangle of side 8 cm is 16√3 cm².\nReason (R): The area of an equilateral triangle of side a is (√3/4)a².\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(R) is the standard correct formula: area = (√3/4)a². Applying it, (√3/4) × 8² = (√3/4) × 64 = 16√3 cm², so (A) is also correct, and (R) is exactly the rule used to obtain (A) — hence (R) is the correct explanation. '(A) is correct but (R) is not correct' is wrong because (R) is the accepted formula. '(A) is not correct but (R) is correct' is wrong because the computed value 16√3 cm² matches (A). 'Both correct but (R) is NOT the explanation' is wrong because (A) is derived directly by substituting a = 8 into (R)."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "The diagonals of a rhombus are 16 cm and 12 cm. Its area is:",
+      "options": [
+        "192 cm²",
+        "28 cm²",
+        "48 cm²",
+        "96 cm²"
+      ],
+      "correctAnswer": "96 cm²",
+      "explanation": "Area of a rhombus = ½ × d₁ × d₂ = ½ × 16 × 12 = 96 cm², so 96 cm² is correct. 192 cm² is wrong because it is 16 × 12, with the ½ factor forgotten. 28 cm² is wrong because it adds the diagonals (16 + 12) instead of multiplying them. 48 cm² is wrong because it uses the half-diagonals 8 and 12 incorrectly (8 × 12 ÷ 2), mixing full and half lengths."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Match the figures in Column I with their area formulae in Column II:\n\nColumn I:\n(a) Trapezium\n(b) Circle\n(c) Rhombus\n(d) Parallelogram\n\nColumn II:\n(i) ½ × (sum of parallel sides) × height\n(ii) πr²\n(iii) ½ × d₁ × d₂\n(iv) base × height",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "explanation": "A trapezium has area ½ × (sum of parallel sides) × height, so (a)-(i). A circle has area πr², so (b)-(ii). A rhombus has area ½ × product of diagonals, so (c)-(iii). A parallelogram has area base × height, so (d)-(iv). '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' is wrong because it interchanges the trapezium and rhombus formulae. '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' is wrong because it gives the circle the diagonal formula and the rhombus πr². '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' is wrong because it swaps the trapezium and parallelogram formulae."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The area of a circle whose diameter is 14 cm is (take π = 22/7):",
+      "options": [
+        "616 cm²",
+        "154 cm²",
+        "44 cm²",
+        "77 cm²"
+      ],
+      "correctAnswer": "154 cm²",
+      "explanation": "Diameter 14 cm gives radius r = 7 cm, so area = 22/7 × 7 × 7 = 154 cm², making 154 cm² correct. 616 cm² is wrong because it uses the diameter 14 as the radius (22/7 × 196). 44 cm² is wrong because 44 is the circumference 2πr in cm, not the area. 77 cm² is wrong because it is half the correct area, i.e. the area of a semicircle of radius 7 cm."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Which of the following are correct relations for a circle of radius r and diameter d?\n\n(i) Circumference = 2πr\n(ii) Area = πd²\n(iii) Area = ½ × circumference × radius\n(iv) Circumference = πd",
+      "options": [
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: circumference = 2πr by definition. (ii) FALSE: since d = 2r, πd² = 4πr², which is four times the actual area; the correct form is πd²/4. (iii) TRUE: ½ × 2πr × r = πr², the area. (iv) TRUE: 2πr = π(2r) = πd. So (i), (iii) and (iv) only. '(i) and (iv) only' is wrong because it omits the valid relation (iii). '(i), (ii) and (iii) only' is wrong because it includes the false (ii) and drops the true (iv). '(i), (ii), (iii) and (iv)' is wrong because (ii) is false."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "The length of the arc of a sector of angle 90° in a circle of radius 14 cm is __________ (take π = 22/7).",
+      "options": [
+        "22 cm",
+        "44 cm",
+        "11 cm",
+        "88 cm"
+      ],
+      "correctAnswer": "22 cm",
+      "explanation": "Arc length = (θ/360) × 2πr = (90/360) × 2 × 22/7 × 14 = ¼ × 88 = 22 cm, so 22 cm is correct. 44 cm is wrong because it is half the full circumference, i.e. it treats the sector as 180° instead of 90°. 11 cm is wrong because it is the quarter arc of a circle of radius 7 cm, not 14 cm. 88 cm is wrong because it is the full circumference, ignoring the (90/360) fraction."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Using Heron's formula, the area of a triangle whose sides are 13 cm, 14 cm and 15 cm is:",
+      "options": [
+        "42 cm²",
+        "84 cm²",
+        "168 cm²",
+        "91 cm²"
+      ],
+      "correctAnswer": "84 cm²",
+      "explanation": "s = (13 + 14 + 15)/2 = 21, so area = √(21 × 8 × 7 × 6) = √7056 = 84 cm², making 84 cm² correct. 42 cm² is wrong because it is half of 84, obtained by wrongly inserting an extra ½ factor. 168 cm² is wrong because it is twice 84, as would come from using s = 42 (the full perimeter) instead of the semi-perimeter. 91 cm² is wrong because it comes from ½ × 13 × 14, treating two sides as base and height, which is invalid for a non-right triangle."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Heron's formula can be used when all three sides of a triangle are known.\n(ii) In Heron's formula, s denotes the perimeter of the triangle.\n(iii) Heron's formula is Area = √(s(s − a)(s − b)(s − c)).\n(iv) Heron's formula is valid for a scalene triangle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) TRUE: the formula needs only the three side lengths. (ii) FALSE: s is the semi-perimeter (a + b + c)/2, not the perimeter. (iii) TRUE: that is the standard statement of the formula. (iv) TRUE: it applies to every triangle, including scalene ones. Hence (i), (iii) and (iv) only. '(i) and (iii) only' is wrong because it leaves out the true statement (iv). '(ii), (iii) and (iv) only' is wrong because it includes the false (ii) and drops the true (i). '(i), (ii), (iii) and (iv)' is wrong because (ii) is false."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The dimensions of three rectangular plots of equal area are recorded as follows:\n\nPlot P: 25 m × 16 m\nPlot Q: 20 m × 20 m\nPlot R: 40 m × 10 m\n\nWhich plot needs the greatest length of fencing, and what is that length?",
+      "options": [
+        "Plot P, 82 m",
+        "Plot Q, 80 m",
+        "Plot R, 100 m",
+        "Plot R, 50 m"
+      ],
+      "correctAnswer": "Plot R, 100 m",
+      "explanation": "All three plots have area 400 m², but fencing depends on perimeter 2(l + b): P = 2(41) = 82 m, Q = 2(40) = 80 m, R = 2(50) = 100 m. The greatest is Plot R with 100 m. 'Plot P, 82 m' is wrong because 82 m is less than R's 100 m. 'Plot Q, 80 m' is wrong because the square shape gives the least perimeter for a fixed area, not the greatest. 'Plot R, 50 m' names the right plot but 50 m is only (l + b); the perimeter must double it to 100 m."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The area of a sector of a circle of radius 21 cm with central angle 60° is (take π = 22/7):",
+      "options": [
+        "1386 cm²",
+        "231 cm²",
+        "462 cm²",
+        "77 cm²"
+      ],
+      "correctAnswer": "231 cm²",
+      "explanation": "Area of sector = (θ/360) × πr² = (60/360) × 22/7 × 441 = (1/6) × 1386 = 231 cm², so 231 cm² is correct. 1386 cm² is wrong because it is the area of the whole circle, ignoring the (60/360) fraction. 462 cm² is wrong because it is one-third of the circle, i.e. it uses 120° instead of 60°. 77 cm² is wrong because it comes from using radius 7 cm in a quadrant-type calculation, not radius 21 cm with 60°."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the radius of a circle is doubled, its area becomes four times the original area.\nReason (R): The area of a circle is directly proportional to the square of its radius.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(R) is correct because area = πr², so area ∝ r². (A) is correct because replacing r by 2r gives π(2r)² = 4πr², i.e. four times the area — and this follows directly from the squared proportionality in (R), so (R) explains (A). 'Both correct but (R) is NOT the explanation' is wrong because the squaring in (R) is precisely the cause of the factor 4. '(A) is correct but (R) is not correct' is wrong because area ∝ r² is a true relation. '(A) is not correct but (R) is correct' is wrong because the area genuinely becomes four times, not two times."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "The perimeter of a square is 64 cm. Its area is:",
+      "options": [
+        "4096 cm²",
+        "128 cm²",
+        "32 cm²",
+        "256 cm²"
+      ],
+      "correctAnswer": "256 cm²",
+      "explanation": "Side = 64/4 = 16 cm, so area = 16² = 256 cm², making 256 cm² correct. 4096 cm² is wrong because it squares the perimeter (64²) instead of the side. 128 cm² is wrong because it is 2 × 64, a length-based calculation, not an area. 32 cm² is wrong because it is half the perimeter (the sum of two sides), which is a length, not an area."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Match Column I with Column II (take π = 22/7):\n\nColumn I:\n(a) Area of a circle of radius 7 cm\n(b) Circumference of a circle of radius 7 cm\n(c) Area of a square of side 7 cm\n(d) Perimeter of a square of side 7 cm\n\nColumn II:\n(i) 28 cm\n(ii) 49 cm²\n(iii) 154 cm²\n(iv) 44 cm",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) 22/7 × 49 = 154 cm², so (a)-(iii). (b) 2 × 22/7 × 7 = 44 cm, so (b)-(iv). (c) 7 × 7 = 49 cm², so (c)-(ii). (d) 4 × 7 = 28 cm, so (d)-(i). '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' is wrong because it interchanges the circle's area (154 cm²) with the square's area (49 cm²). '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' is wrong because it swaps the circumference 44 cm with the square's perimeter 28 cm. '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' is wrong because it matches areas to lengths and lengths to areas throughout."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Two concentric circles have radii 14 cm and 7 cm. Find the area of the ring (annulus) between them (take π = 22/7).",
+      "options": [
+        "154 cm²",
+        "462 cm²",
+        "616 cm²",
+        "231 cm²"
+      ],
+      "correctAnswer": "462 cm²",
+      "explanation": "Area of ring = π(R² − r²) = 22/7 × (196 − 49) = 22/7 × 147 = 462 cm², so 462 cm² is correct. 154 cm² is wrong because it is only the area of the inner circle of radius 7 cm. 616 cm² is wrong because it is the area of the outer circle alone, without subtracting the inner circle. 231 cm² is wrong because it comes from using π(R − r)² = 22/7 × 49 style reasoning halved — squaring the difference of radii instead of taking the difference of the squares."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "The parallel sides of a trapezium are 12 cm and 8 cm and the distance between them is 5 cm. Its area is:",
+      "options": [
+        "50 cm²",
+        "100 cm²",
+        "25 cm²",
+        "480 cm²"
+      ],
+      "correctAnswer": "50 cm²",
+      "explanation": "Area = ½ × (12 + 8) × 5 = ½ × 20 × 5 = 50 cm², so 50 cm² is correct. 100 cm² is wrong because it is (12 + 8) × 5 with the ½ factor omitted. 25 cm² is wrong because it uses only the difference of the parallel sides (½ × 10 × 5). 480 cm² is wrong because it multiplies 12 × 8 × 5, treating the figure as if all three lengths were multiplied together."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Consider the following statements about a right triangle whose legs are 6 cm and 8 cm:\n\n(i) Its area is 24 cm².\n(ii) Its hypotenuse is 10 cm.\n(iii) Its perimeter is 20 cm.\n(iv) An isosceles triangle with equal sides 5 cm and base 6 cm has area 12 cm².\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: ½ × 6 × 8 = 24 cm². (ii) TRUE: √(36 + 64) = 10 cm. (iii) FALSE: the perimeter is 6 + 8 + 10 = 24 cm, not 20 cm. (iv) TRUE: height = √(25 − 9) = 4 cm, so area = ½ × 6 × 4 = 12 cm². Hence (i), (ii) and (iv) only. '(i) and (ii) only' is wrong because it omits the true statement (iv). '(ii), (iii) and (iv) only' is wrong because it includes the false (iii) and drops the true (i). '(i), (ii), (iii) and (iv)' is wrong because (iii) is false."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which of the following are true for a rectangle of length 18 cm and breadth 8 cm?\n\n(i) Its area is 144 cm².\n(ii) Its perimeter is 52 cm.\n(iii) Its diagonal is 20 cm.\n(iv) A square having the same perimeter has area 169 cm².",
+      "options": [
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 18 × 8 = 144 cm². (ii) TRUE: 2(18 + 8) = 52 cm. (iii) FALSE: the diagonal is √(324 + 64) = √388 ≈ 19.7 cm, not exactly 20 cm. (iv) TRUE: a square of perimeter 52 cm has side 13 cm and area 169 cm². Hence (i), (ii) and (iv) only. '(i) and (ii) only' is wrong because it omits the true statement (iv). '(ii), (iii) and (iv) only' is wrong because it includes the false (iii) and drops the true (i). '(i), (ii), (iii) and (iv)' is wrong because (iii) is false."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "A parallelogram has base 15 cm and corresponding height 8 cm. Its area is:",
+      "options": [
+        "60 cm²",
+        "120 cm²",
+        "46 cm²",
+        "240 cm²"
+      ],
+      "correctAnswer": "120 cm²",
+      "explanation": "Area of a parallelogram = base × height = 15 × 8 = 120 cm², so 120 cm² is correct. 60 cm² is wrong because it wrongly applies the triangle's ½ factor to a parallelogram. 46 cm² is wrong because it is the perimeter-style sum 2(15 + 8), a length, not an area. 240 cm² is wrong because it doubles the area, as if the parallelogram were two full copies of itself."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The radii of four circular flower beds in a park are recorded as:\n\nBed W: 7 m\nBed X: 10.5 m\nBed Y: 14 m\nBed Z: 3.5 m\n\nUsing π = 22/7, the combined area of beds W and Z is:",
+      "options": [
+        "192.5 m²",
+        "115.5 m²",
+        "154 m²",
+        "38.5 m²"
+      ],
+      "correctAnswer": "192.5 m²",
+      "explanation": "Bed W: 22/7 × 7² = 154 m²; Bed Z: 22/7 × 3.5² = 22/7 × 12.25 = 38.5 m². Combined = 154 + 38.5 = 192.5 m², so 192.5 m² is correct. 115.5 m² is wrong because it is the difference 154 − 38.5 instead of the sum. 154 m² is wrong because it is the area of bed W alone. 38.5 m² is wrong because it is the area of bed Z alone."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The circumference of a circle is 44 cm. Its area is (take π = 22/7):",
+      "options": [
+        "616 cm²",
+        "44 cm²",
+        "1936 cm²",
+        "154 cm²"
+      ],
+      "correctAnswer": "154 cm²",
+      "explanation": "2 × 22/7 × r = 44 gives r = 7 cm, so area = 22/7 × 49 = 154 cm², making 154 cm² correct. 616 cm² is wrong because it uses r = 14 cm, i.e. it treats the diameter as the radius. 44 cm² is wrong because it simply repeats the circumference value as an area. 1936 cm² is wrong because it squares the circumference (44²), which has no geometric meaning here."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The perimeter of a circle of radius 7 cm is 154 cm (take π = 22/7).\nReason (R): The circumference of a circle of radius r is 2πr.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: circumference = 2πr. Using it, the perimeter is 2 × 22/7 × 7 = 44 cm, not 154 cm, so (A) is not correct — 154 cm² is in fact the area of this circle, confused here with perimeter. 'Both correct and (R) explains (A)' is wrong because (A) states a false value. 'Both correct but (R) is NOT the explanation' is wrong for the same reason — (A) is false. '(A) is correct but (R) is not correct' is wrong on both counts: (A) is false and (R) is the standard true formula."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Consider the following statements about regular polygons:\n\n(i) A regular hexagon of side a can be divided into 6 equilateral triangles of side a.\n(ii) The area of a regular hexagon of side a is (3√3/2)a².\n(iii) Each interior angle of a regular hexagon is 120°.\n(iv) The perimeter of a regular pentagon of side 8 cm is 48 cm.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: joining the centre to all vertices gives 6 equilateral triangles of side a. (ii) TRUE: 6 × (√3/4)a² = (3√3/2)a². (iii) TRUE: interior angle = (6 − 2) × 180/6 = 120°. (iv) FALSE: a pentagon has 5 sides, so the perimeter is 5 × 8 = 40 cm, not 48 cm (48 would need 6 sides). Hence (i), (ii) and (iii) only. '(i) and (iii) only' is wrong because it omits the true statement (ii). '(ii), (iii) and (iv) only' is wrong because it includes the false (iv) and drops the true (i). '(i), (ii), (iii) and (iv)' is wrong because (iv) is false."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "The area of a regular hexagon of side 6 cm is:",
+      "options": [
+        "27√3 cm²",
+        "36√3 cm²",
+        "54√3 cm²",
+        "108√3 cm²"
+      ],
+      "correctAnswer": "54√3 cm²",
+      "explanation": "Area = (3√3/2)a² = (3√3/2) × 36 = 54√3 cm², so 54√3 cm² is correct. 27√3 cm² is wrong because it is half the correct value, as if only 3 of the 6 equilateral triangles were counted. 36√3 cm² is wrong because it comes from using (√3)a² without the 3/2 factor. 108√3 cm² is wrong because it doubles the area, using 3√3 × a² instead of (3√3/2)a²."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Match Column I with Column II:\n\nColumn I:\n(a) Arc length of a sector of angle θ\n(b) Area of a sector of angle θ\n(c) Area of a ring between radii R and r\n(d) Area of a semicircle\n\nColumn II:\n(i) (θ/360) × πr²\n(ii) π(R² − r²)\n(iii) (θ/360) × 2πr\n(iv) ½πr²",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Arc length is a fraction of the circumference, so (a)-(iii). Sector area is the same fraction of πr², so (b)-(i). A ring's area is the difference of the two circle areas, π(R² − r²), so (c)-(ii). A semicircle is half a circle, ½πr², so (d)-(iv). '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' is wrong because it gives arc length an area formula and sector area a length formula. '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' is wrong because it assigns the ring formula to the sector. '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)' is wrong because it matches arc length with the semicircle area and the semicircle with an arc formula."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "A circle is inscribed in a square of side 14 cm. The area of the shaded region between the square and the circle is (take π = 22/7):",
+      "options": [
+        "154 cm²",
+        "42 cm²",
+        "196 cm²",
+        "98 cm²"
+      ],
+      "correctAnswer": "42 cm²",
+      "explanation": "The inscribed circle has diameter 14 cm, so r = 7 cm. Shaded area = 196 − 154 = 42 cm², making 42 cm² correct. 154 cm² is wrong because it is the circle's area alone, not the leftover region. 196 cm² is wrong because it is the whole square's area, with the circle not subtracted. 98 cm² is wrong because it is half the square (196 ÷ 2), which ignores the actual circle area of 154 cm²."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following are correct statements about a trapezium?\n\n(i) It has exactly one pair of parallel sides.\n(ii) Its area is ½ × (sum of the parallel sides) × the distance between them.\n(iii) Every trapezium is a parallelogram.\n(iv) In an isosceles trapezium the non-parallel sides are equal.",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: that is the defining property of a trapezium. (ii) TRUE: this is the standard area formula. (iii) FALSE: a parallelogram needs both pairs of opposite sides parallel, so a trapezium is generally not a parallelogram. (iv) TRUE: equal non-parallel sides define an isosceles trapezium. Hence (i), (ii) and (iv) only. '(i) and (ii) only' is wrong because it omits the true statement (iv). '(i), (ii), (iii) and (iv)' is wrong because (iii) is false. '(ii), (iii) and (iv) only' is wrong because it includes the false (iii) and drops the true (i)."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "A rectangular garden is 50 m long and 40 m wide. A path 2 m wide runs all around it on the outside. The area of the path is:",
+      "options": [
+        "360 m²",
+        "376 m²",
+        "2376 m²",
+        "188 m²"
+      ],
+      "correctAnswer": "376 m²",
+      "explanation": "Outer rectangle = (50 + 4) × (40 + 4) = 54 × 44 = 2376 m²; garden = 2000 m²; path = 2376 − 2000 = 376 m², so 376 m² is correct. 360 m² is wrong because it adds only 2 m (not 2 m on each side), using 52 × 42 − 2000 style reasoning. 2376 m² is wrong because it is the whole outer area, with the garden not subtracted. 188 m² is wrong because it is half of 376, as if the path ran along only two sides."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about a uniform path of width w around a rectangular field of length l and breadth b:\n\n(i) If the path is outside, the outer dimensions are (l + 2w) and (b + 2w).\n(ii) The area of such an outside path is 2w(l + b + 2w).\n(iii) If the path runs inside the field, the outer dimensions remain l and b.\n(iv) The area of the path does not depend on its width.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: the width w is added on both opposite sides, giving l + 2w and b + 2w. (ii) TRUE: (l + 2w)(b + 2w) − lb = 2wl + 2wb + 4w² = 2w(l + b + 2w). (iii) TRUE: an internal path lies within the field, so the outer boundary is unchanged. (iv) FALSE: the area is directly proportional to w in the leading terms, so it certainly depends on the width. Hence (i), (ii) and (iii) only. '(i) and (ii) only' is wrong because it omits the true statement (iii). '(ii), (iii) and (iv) only' is wrong because it includes the false (iv) and drops the true (i). '(i), (ii), (iii) and (iv)' is wrong because (iv) is false."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "The area of the circular ring formed by two concentric circles of radii 10 cm and 6 cm is __________ π cm².",
+      "options": [
+        "16",
+        "136",
+        "64",
+        "32"
+      ],
+      "correctAnswer": "64",
+      "explanation": "Ring area = π(R² − r²) = π(100 − 36) = 64π cm², so 64 is correct. 16 is wrong because it comes from π(R − r)² = π(4)², squaring the difference of the radii instead of subtracting their squares. 136 is wrong because it adds the squares (100 + 36) instead of subtracting. 32 is wrong because it is half of 64, as if only half the ring were counted."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "The diagonal of a square is 10 cm. Its area is:",
+      "options": [
+        "100 cm²",
+        "25 cm²",
+        "50 cm²",
+        "200 cm²"
+      ],
+      "correctAnswer": "50 cm²",
+      "explanation": "Area of a square = d²/2 = 100/2 = 50 cm², so 50 cm² is correct. 100 cm² is wrong because it squares the diagonal without halving, i.e. it treats the diagonal as the side. 25 cm² is wrong because it uses (d/2)² = 5², taking half the diagonal as the side. 200 cm² is wrong because it doubles d² instead of halving it, inverting the formula."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The area of a circle of radius 7 cm is 154 cm² (take π = 22/7).\nReason (R): The circumference of a circle of radius 7 cm is 44 cm.\n\nChoose the correct option:",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: 22/7 × 49 = 154 cm². (R) is also correct: 2 × 22/7 × 7 = 44 cm. However (R) merely states another true fact about the same circle; the area in (A) follows from the formula πr², not from the circumference value, so (R) does not explain (A). '(A) is correct but (R) is not correct' is wrong because 44 cm is the right circumference. 'Both correct and (R) explains (A)' is wrong because a circumference value is not the reason for the area formula. '(A) is not correct but (R) is correct' is wrong because 154 cm² is the right area."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The length of the arc of a sector of angle 120° in a circle of radius 21 cm is (take π = 22/7):",
+      "options": [
+        "22 cm",
+        "66 cm",
+        "132 cm",
+        "44 cm"
+      ],
+      "correctAnswer": "44 cm",
+      "explanation": "Arc = (120/360) × 2 × 22/7 × 21 = (1/3) × 132 = 44 cm, so 44 cm is correct. 22 cm is wrong because it is one-sixth of the circumference, i.e. it uses 60° instead of 120°. 66 cm is wrong because it is half the circumference, corresponding to 180°. 132 cm is wrong because it is the full circumference, ignoring the (120/360) fraction."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Match the triangles in Column I with their areas in Column II:\n\nColumn I:\n(a) Base 10 cm, height 6 cm\n(b) Sides 3 cm, 4 cm and 5 cm\n(c) Equilateral triangle of side 2 cm\n(d) Right triangle with legs 8 cm and 9 cm\n\nColumn II:\n(i) √3 cm²\n(ii) 6 cm²\n(iii) 30 cm²\n(iv) 36 cm²",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) ½ × 10 × 6 = 30 cm², so (a)-(iii). (b) 3-4-5 is right-angled, area = ½ × 3 × 4 = 6 cm², so (b)-(ii). (c) (√3/4) × 4 = √3 cm², so (c)-(i). (d) ½ × 8 × 9 = 36 cm², so (d)-(iv). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' is wrong because it interchanges the areas 30 cm² and 36 cm². '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' is wrong because it swaps 6 cm² and √3 cm² between the 3-4-5 triangle and the equilateral triangle. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' is wrong because every pairing is misplaced."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "A wire bent in the form of a circle of radius 14 cm is straightened and rebent into a square. Find the side of the square (take π = 22/7).",
+      "options": [
+        "22 cm",
+        "44 cm",
+        "14 cm",
+        "11 cm"
+      ],
+      "correctAnswer": "22 cm",
+      "explanation": "Length of wire = circumference = 2 × 22/7 × 14 = 88 cm, which becomes the square's perimeter, so side = 88/4 = 22 cm; hence 22 cm is correct. 44 cm is wrong because it is half the wire length (88/2), i.e. dividing by 2 instead of 4. 14 cm is wrong because it just repeats the radius of the circle. 11 cm is wrong because it uses r = 7 cm, halving the given radius before computing."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "The cost of fencing a circular field of radius 35 m at ₹5 per metre is (take π = 22/7):",
+      "options": [
+        "₹550",
+        "₹1100",
+        "₹3850",
+        "₹19250"
+      ],
+      "correctAnswer": "₹1100",
+      "explanation": "Circumference = 2 × 22/7 × 35 = 220 m, so cost = 220 × 5 = ₹1100, making ₹1100 correct. ₹550 is wrong because it uses πr = 110 m (half the circumference). ₹3850 is wrong because 3850 is the field's area in m², and fencing depends on the boundary length, not the area. ₹19250 is wrong because it multiplies that area 3850 by ₹5, compounding the same area-instead-of-perimeter error."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) The area of a square is half the square of its diagonal.\n(ii) The perimeter of a rhombus of side 10 cm is 40 cm.\n(iii) A square of side 12 cm and a rectangle of 16 cm × 9 cm have equal areas.\n(iv) The perimeter of that square is greater than the perimeter of that rectangle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) TRUE: area = d²/2. (ii) TRUE: all four sides of a rhombus are equal, so 4 × 10 = 40 cm. (iii) TRUE: 12² = 144 cm² and 16 × 9 = 144 cm². (iv) FALSE: the square's perimeter is 48 cm while the rectangle's is 2(16 + 9) = 50 cm, so the square's is smaller. Hence (i), (ii) and (iii) only. '(i) and (ii) only' is wrong because it omits the true statement (iii). '(ii) and (iv) only' is wrong because it includes the false (iv) and drops the true (i) and (iii). '(i), (ii), (iii) and (iv)' is wrong because (iv) is false."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Which of the following are correct for a semicircle of radius 7 cm (take π = 22/7)?\n\n(i) Its area is 77 cm².\n(ii) The length of its curved boundary is 22 cm.\n(iii) Its complete perimeter is 22 cm.\n(iv) Its diameter is 14 cm.",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: ½ × 154 = 77 cm². (ii) TRUE: the curved part is ½ × 44 = 22 cm. (iii) FALSE: the complete perimeter also includes the diameter, giving 22 + 14 = 36 cm. (iv) TRUE: 2 × 7 = 14 cm. Hence (i), (ii) and (iv) only. '(i) and (ii) only' is wrong because it omits the true statement (iv). '(i), (ii), (iii) and (iv)' is wrong because (iii) is false. '(ii), (iii) and (iv) only' is wrong because it includes the false (iii) and drops the true (i)."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "The area of a quadrant of a circle of radius 14 cm is (take π = 22/7):",
+      "options": [
+        "154 cm²",
+        "308 cm²",
+        "616 cm²",
+        "77 cm²"
+      ],
+      "correctAnswer": "154 cm²",
+      "explanation": "Full area = 22/7 × 196 = 616 cm²; a quadrant is one-fourth, so 616/4 = 154 cm², making 154 cm² correct. 308 cm² is wrong because it is half the circle (a semicircle), not a quarter. 616 cm² is wrong because it is the entire circle's area. 77 cm² is wrong because it is one-eighth of the circle, obtained by halving the quadrant unnecessarily."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "The measurements of three fields are recorded as follows (take π = 22/7):\n\nField L: rectangle, 60 m × 45 m\nField M: square, side 50 m\nField N: circle, radius 35 m\n\nWhich field has the greatest area, and what is that area?",
+      "options": [
+        "Field L, 2700 m²",
+        "Field N, 3850 m²",
+        "Field M, 2500 m²",
+        "Field N, 220 m²"
+      ],
+      "correctAnswer": "Field N, 3850 m²",
+      "explanation": "L = 60 × 45 = 2700 m², M = 50² = 2500 m², N = 22/7 × 1225 = 3850 m². The greatest is Field N with 3850 m². 'Field L, 2700 m²' is wrong because 2700 m² is less than N's 3850 m². 'Field M, 2500 m²' is wrong because 2500 m² is the smallest of the three. 'Field N, 220 m²' identifies the right field but 220 m is its circumference, a length, not its area."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "The length of a rectangle is increased by 20% and its breadth is decreased by 20%. Its area:",
+      "options": [
+        "Increases by 4%",
+        "Remains unchanged",
+        "Decreases by 2%",
+        "Decreases by 4%"
+      ],
+      "correctAnswer": "Decreases by 4%",
+      "explanation": "New area = 1.2l × 0.8b = 0.96lb, a decrease of 4%; so 'Decreases by 4%' is correct. 'Increases by 4%' is wrong because 0.96 is below 1, indicating a fall, not a rise. 'Remains unchanged' is wrong because the percentage increase and decrease act multiplicatively, not additively, so they do not cancel. 'Decreases by 2%' is wrong because it averages the two percentage changes instead of multiplying the factors 1.2 and 0.8."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The area of an equilateral triangle of side 4 cm is 4√3 cm².\nReason (R): The area of an equilateral triangle equals ½ × side × side.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: (√3/4) × 4² = (√3/4) × 16 = 4√3 cm². (R) is not correct: ½ × side × side would give ½ × 16 = 8 cm², which applies to a right isosceles triangle, not an equilateral one whose height is (√3/2)a. 'Both correct and (R) explains (A)' is wrong because (R) is a false formula. '(A) is not correct but (R) is correct' is wrong on both counts. 'Both correct but (R) is NOT the explanation' is wrong because (R) is false, not merely unrelated."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) The area of a sector of angle 90° is one-fourth of the area of the circle.\n(ii) The arc length of a semicircular sector of radius r is πr.\n(iii) The area of a ring depends only on the outer radius.\n(iv) A sector of angle 360° is the whole circle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: 90/360 = ¼. (ii) TRUE: ½ × 2πr = πr. (iii) FALSE: the ring's area π(R² − r²) depends on both radii. (iv) TRUE: 360/360 = 1, giving the entire circle. Hence (i), (ii) and (iv) only. '(i) and (ii) only' is wrong because it omits the true statement (iv). '(ii), (iii) and (iv) only' is wrong because it includes the false (iii) and drops the true (i). '(i), (ii), (iii) and (iv)' is wrong because (iii) is false."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "From a rectangular sheet 20 cm long and 14 cm wide, two semicircles of diameter 14 cm are cut off, one from each of the two shorter sides. The area of the remaining sheet is (take π = 22/7):",
+      "options": [
+        "126 cm²",
+        "203 cm²",
+        "280 cm²",
+        "154 cm²"
+      ],
+      "correctAnswer": "126 cm²",
+      "explanation": "Rectangle = 20 × 14 = 280 cm². The two semicircles of radius 7 cm together form one full circle of area 154 cm², so the remainder is 280 − 154 = 126 cm²; hence 126 cm² is correct. 203 cm² is wrong because it subtracts only one semicircle (280 − 77). 280 cm² is wrong because nothing has been subtracted. 154 cm² is wrong because it is the area cut away, not the area left."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "Match Column I with Column II:\n\nColumn I:\n(a) Number of sides of a regular hexagon\n(b) Each interior angle of a regular hexagon\n(c) Sum of the interior angles of a pentagon\n(d) Each interior angle of a regular pentagon\n\nColumn II:\n(i) 108°\n(ii) 540°\n(iii) 6\n(iv) 120°",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "A hexagon has 6 sides, so (a)-(iii). Its interior angle is (6 − 2) × 180/6 = 120°, so (b)-(iv). A pentagon's interior angles sum to (5 − 2) × 180 = 540°, so (c)-(ii). Each interior angle of a regular pentagon is 540/5 = 108°, so (d)-(i). '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' is wrong because it interchanges 120° and 108° between the hexagon and pentagon. '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' is wrong because it makes the number of sides 120° and the angle 6. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is wrong because it gives the pentagon's angle sum as 108° and its single angle as 540°."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "The perimeter of a sector of a circle of radius 7 cm with central angle 90° is (take π = 22/7):",
+      "options": [
+        "11 cm",
+        "18 cm",
+        "25 cm",
+        "36 cm"
+      ],
+      "correctAnswer": "25 cm",
+      "explanation": "Arc = ¼ × 44 = 11 cm, and the perimeter of a sector also includes the two radii: 11 + 7 + 7 = 25 cm, so 25 cm is correct. 11 cm is wrong because it is only the arc, omitting both radii. 18 cm is wrong because it adds just one radius (11 + 7). 36 cm is wrong because it is the perimeter of a semicircle of radius 7 cm (22 + 14), using 180° instead of 90°."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Which of the following are correct about a parallelogram ABCD?\n\n(i) Its area equals base × the corresponding height.\n(ii) A diagonal divides it into two triangles of equal area.\n(iii) Its area equals ½ × the product of its diagonals.\n(iv) Its opposite sides are equal in length.",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) TRUE: area = base × height. (ii) TRUE: a diagonal gives two congruent triangles, hence equal areas. (iii) FALSE: the half-product-of-diagonals rule holds only when the diagonals are perpendicular, as in a rhombus, not for a general parallelogram. (iv) TRUE: opposite sides of a parallelogram are equal. Hence (i), (ii) and (iv) only. '(i) and (iv) only' is wrong because it omits the true statement (ii). '(i), (ii), (iii) and (iv)' is wrong because (iii) is false. '(ii), (iii) and (iv) only' is wrong because it includes the false (iii) and drops the true (i)."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) Two figures having equal areas must have equal perimeters.\n(ii) Two congruent figures have equal areas as well as equal perimeters.\n(iii) Area is measured in square units while perimeter is measured in linear units.\n(iv) If the side of a square is tripled, its area becomes 9 times the original.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) FALSE: a 4 × 9 rectangle and a 6 × 6 square both have area 36 but perimeters 26 and 24. (ii) TRUE: congruent figures are identical in shape and size, so both area and perimeter match. (iii) TRUE: area uses cm², m² etc. while perimeter uses cm, m etc. (iv) TRUE: (3a)² = 9a². Hence (ii), (iii) and (iv) only. '(i), (ii) and (iii) only' is wrong because it includes the false (i) and drops the true (iv). '(i), (iii) and (iv) only' is wrong because it includes the false (i) and omits the true (ii). '(i), (ii), (iii) and (iv)' is wrong because (i) is false."
+    }
+  ]
+}

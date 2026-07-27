@@ -1,0 +1,352 @@
+{
+  "subject": "D",
+  "topic": "Idioms & Phrases",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "What does the idiom 'break the ice' mean?",
+      "options": ["To break something fragile", "To initiate conversation in an awkward situation", "To cool down after an argument", "To destroy a relationship"],
+      "correctAnswer": "To initiate conversation in an awkward situation",
+      "explanation": "'Break the ice' means to do or say something to relieve tension or get conversation going in a stiff, awkward, or new social situation. 'To break something fragile' is wrong — it's a literal interpretation, not the idiomatic meaning. 'To cool down after an argument' is wrong — that would be 'cool off' or 'let off steam'. 'To destroy a relationship' is wrong — that would be 'burn bridges'."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Burn the midnight oil' means to work or study late into the night.\n(ii) 'A piece of cake' means something very difficult to accomplish.\n(iii) 'Bite the bullet' means to endure a painful situation bravely.\n(iv) 'Cost an arm and a leg' means something very expensive.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (iii) and (iv) only", "(ii) and (iii) only", "(i) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — 'burn the midnight oil' means studying/working late at night. (iii) is correct — 'bite the bullet' means facing difficulty with courage. (iv) is correct — 'cost an arm and a leg' means being extremely expensive. (ii) is wrong — 'a piece of cake' means something very EASY, not difficult."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Choose the correct meaning of the idiom 'hit the nail on the head':",
+      "options": ["To injure oneself accidentally", "To describe exactly what is causing a situation", "To hammer something correctly", "To criticize someone harshly"],
+      "correctAnswer": "To describe exactly what is causing a situation",
+      "explanation": "'Hit the nail on the head' means to be exactly right about something or to identify the precise cause. 'To injure oneself accidentally' is wrong — it takes the phrase literally. 'To hammer something correctly' is wrong — it's the literal meaning of the words, not the idiom. 'To criticize someone harshly' is wrong — that would be 'rip into someone' or 'tear apart'."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The idiom 'once in a blue moon' means something that happens very rarely.\nReason (R): A 'blue moon' refers to the second full moon in a calendar month, which occurs infrequently.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'once in a blue moon' means very rarely. (R) is correct — a blue moon (second full moon in one month) occurs roughly every 2.5 years, making it rare. (R) explains (A) because the rarity of an actual blue moon is the origin of the idiom's meaning. Option 2 is wrong because (R) directly explains the origin of (A). Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "The idiom 'spill the beans' means:",
+      "options": ["To waste food", "To reveal a secret", "To create a mess", "To cook a meal"],
+      "correctAnswer": "To reveal a secret",
+      "explanation": "'Spill the beans' means to reveal secret or confidential information. 'To waste food' is wrong — it's a literal interpretation. 'To create a mess' is wrong — that would be 'make a hash of'. 'To cook a meal' is wrong — it has no connection to the idiomatic meaning."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) The ball is in your court\n(b) Under the weather\n(c) Beat around the bush\n(d) Cry over spilt milk\n\nColumn II:\n(i) To feel unwell\n(ii) To regret something that cannot be changed\n(iii) It's your turn to take action\n(iv) To avoid talking about something directly\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "'The ball is in your court' = it's your turn to act (iii). 'Under the weather' = feeling unwell (i). 'Beat around the bush' = avoid the main topic (iv). 'Cry over spilt milk' = regret what can't be undone (ii). Option 2 swaps (a) and (b). Option 3 has all pairings incorrect. Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Which of the following sentences use idioms correctly?\n\n(i) He let the cat out of the bag about the surprise party.\n(ii) The exam was a blessing in disguise — she studied harder and got into a better college.\n(iii) After failing twice, he went back to square one and started fresh.\n(iv) She was barking up the wrong tree by accusing her brother of eating the cake.\n\nWhich of the following are correct?",
+      "options": ["(i) and (ii) only", "(i), (ii), (iii) and (iv)", "(ii) and (iii) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — 'let the cat out of the bag' (reveal a secret) is used correctly since the surprise was revealed. (ii) is correct — 'blessing in disguise' (something bad that turns out good) fits the context. (iii) is correct — 'back to square one' (start over from the beginning) is used correctly. (iv) is correct — 'barking up the wrong tree' (accusing the wrong person) is used correctly. All four idioms are used appropriately."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "The idiom 'cut corners' means:",
+      "options": ["To take a shortcut while driving", "To do something in the easiest or cheapest way, often sacrificing quality", "To trim a piece of paper", "To avoid meeting someone"],
+      "correctAnswer": "To do something in the easiest or cheapest way, often sacrificing quality",
+      "explanation": "'Cut corners' means to do things in a way that saves time or money but reduces quality. 'To take a shortcut while driving' is wrong — it's too literal. 'To trim a piece of paper' is wrong — it's the literal meaning. 'To avoid meeting someone' is wrong — that would be 'give someone the slip'."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Get out of hand' means a situation becomes difficult to control.\n(ii) 'Kill two birds with one stone' means to solve two problems with one action.\n(iii) 'Miss the boat' means to miss an opportunity.\n(iv) 'Sit on the fence' means to refuse to take a clear position.\n\nWhich of the statements given above are correct?",
+      "options": ["(i) and (iii) only", "(ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — 'get out of hand' means losing control. (ii) is correct — 'kill two birds with one stone' means achieving two things simultaneously. (iii) is correct — 'miss the boat' means to miss an opportunity or be too late. (iv) is correct — 'sit on the fence' means to remain neutral or undecided."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "'Through thick and thin' means:",
+      "options": ["Through dense forests", "In good times and bad times", "Regardless of body weight", "Through various weather conditions"],
+      "correctAnswer": "In good times and bad times",
+      "explanation": "'Through thick and thin' means through all circumstances, whether favorable or unfavorable — staying loyal regardless of difficulty. 'Through dense forests' is wrong — a literal interpretation of 'thick'. 'Regardless of body weight' is wrong — an incorrect literal interpretation. 'Through various weather conditions' is wrong — weather is not the subject of this idiom."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Turn a blind eye' means to pretend not to notice something.\nReason (R): The idiom is attributed to Admiral Nelson who held a telescope to his blind eye to avoid seeing a signal to retreat.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'turn a blind eye' means to deliberately ignore something. (R) is correct — the idiom's origin is attributed to Admiral Nelson at the Battle of Copenhagen (1801). (R) explains (A) because Nelson's action of deliberately not seeing gives rise to the meaning of the idiom. Option 2 is wrong because (R) directly explains the origin of (A). Option 3 is wrong because (R) is historically accepted. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Fill in the blank with the correct idiom:\n\n\"The project seemed impossible at first, but it turned out to be __________; we finished it in just two hours.\"",
+      "options": ["a piece of cake", "a hard nut to crack", "the tip of the iceberg", "a storm in a teacup"],
+      "correctAnswer": "a piece of cake",
+      "explanation": "'A piece of cake' means something very easy — fits perfectly since they finished quickly despite initial doubt. 'A hard nut to crack' is wrong — it means something difficult, contradicting 'finished in two hours'. 'The tip of the iceberg' is wrong — it means a small visible part of a larger problem. 'A storm in a teacup' is wrong — it means an overreaction to a minor issue."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "The idiom 'when pigs fly' is used to express:",
+      "options": ["A miraculous event", "Something that will never happen", "A flying object", "An animal crossing the road"],
+      "correctAnswer": "Something that will never happen",
+      "explanation": "'When pigs fly' is used sarcastically to say that something is impossible or will never happen. 'A miraculous event' is wrong — while related to impossibility, the idiom specifically denotes disbelief, not miracles. 'A flying object' is wrong — it's a literal interpretation. 'An animal crossing the road' is wrong — it's completely unrelated to the meaning."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Match the following idioms with their correct meanings:\n\nColumn I:\n(a) Tip of the iceberg\n(b) A blessing in disguise\n(c) Back to square one\n(d) Barking up the wrong tree\n\nColumn II:\n(i) Pursuing a mistaken course of action\n(ii) A small, visible part of a much larger problem\n(iii) Something bad that turns out to have good results\n(iv) Returning to the starting point\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "'Tip of the iceberg' = small visible part of bigger issue (ii). 'A blessing in disguise' = bad thing with good outcome (iii). 'Back to square one' = returning to start (iv). 'Barking up the wrong tree' = wrong course of action (i). Option 2 swaps (a) and (b). Option 3 swaps all pairings. Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Choose the correct meaning of 'add fuel to the fire':",
+      "options": ["To put out a fire quickly", "To make a bad situation worse", "To start a campfire", "To provide energy to someone"],
+      "correctAnswer": "To make a bad situation worse",
+      "explanation": "'Add fuel to the fire' (or 'add fuel to the flames') means to worsen an already bad situation by saying or doing something provocative. 'To put out a fire quickly' is wrong — that's the opposite meaning. 'To start a campfire' is wrong — it's a literal interpretation. 'To provide energy to someone' is wrong — it's an incorrect metaphorical interpretation."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'A penny for your thoughts' is used to ask someone what they are thinking.\n(ii) 'Actions speak louder than words' means what you do is more important than what you say.\n(iii) 'The best of both worlds' means getting advantages of two different things simultaneously.\n(iv) 'A bird in the hand is worth two in the bush' means something uncertain is better than something certain.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'a penny for your thoughts' is a gentle way of asking what's on someone's mind. (ii) is correct — this proverb emphasizes deeds over words. (iii) is correct — 'best of both worlds' means enjoying advantages from two different things. (iv) is wrong — the idiom means the OPPOSITE: something certain (bird in hand) is better than something uncertain (two in bush)."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "In which situation would you use the idiom 'the last straw'?",
+      "options": ["When drinking the final sip of a beverage", "When a final small event causes a strong reaction after a series of problems", "When picking up hay from a field", "When finishing a difficult task"],
+      "correctAnswer": "When a final small event causes a strong reaction after a series of problems",
+      "explanation": "'The last straw' (from 'the straw that broke the camel's back') refers to a final minor event that makes the whole situation unbearable after accumulated frustrations. 'Drinking the final sip' is wrong — literal interpretation of 'straw'. 'Picking up hay' is wrong — another literal misinterpretation. 'Finishing a difficult task' is wrong — that would be 'the home stretch'."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Kick the bucket' is a euphemism for dying.\nReason (R): All English idioms are derived from literal actions involving objects mentioned in them.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — 'kick the bucket' is indeed a colloquial/informal way to say 'to die'. (R) is incorrect — NOT all idioms derive from literal actions involving mentioned objects; many idioms have figurative, historical, or unclear origins (e.g., 'raining cats and dogs' has nothing to do with actual animals falling). Option 1 is wrong because (R) is false. Option 2 is wrong because (R) is false. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "What does the idiom 'steal someone's thunder' mean?",
+      "options": ["To take credit for someone else's idea or achievement", "To cause a thunderstorm", "To speak very loudly", "To frighten someone"],
+      "correctAnswer": "To take credit for someone else's idea or achievement",
+      "explanation": "'Steal someone's thunder' means to take credit for or attention from someone else's accomplishment. 'To cause a thunderstorm' is wrong — a literal interpretation. 'To speak very loudly' is wrong — that would be 'raise one's voice'. 'To frighten someone' is wrong — that would be 'put the fear of God into someone'."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Fill in the blank with the correct idiom:\n\n\"Don't count your chickens before they __________; the deal hasn't been finalized yet.\"",
+      "options": ["hatch", "fly", "run away", "grow up"],
+      "correctAnswer": "hatch",
+      "explanation": "The idiom is 'don't count your chickens before they hatch' — meaning don't assume success before it actually happens. 'Fly' is wrong — chickens don't fly well and it's not the idiom. 'Run away' is wrong — not the correct phrasing of this idiom. 'Grow up' is wrong — not the standard version of this expression."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "The idiom 'a hot potato' refers to:",
+      "options": ["A freshly cooked vegetable", "A controversial or sensitive issue that is difficult to deal with", "Someone who is very popular", "A fast-moving object"],
+      "correctAnswer": "A controversial or sensitive issue that is difficult to deal with",
+      "explanation": "'A hot potato' is an issue or topic that is controversial, difficult, and that people want to avoid dealing with. 'A freshly cooked vegetable' is wrong — it's the literal meaning. 'Someone who is very popular' is wrong — that would be 'the talk of the town'. 'A fast-moving object' is wrong — it has no connection to the idiom."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Match the following idioms with their correct meanings:\n\nColumn I:\n(a) Pull someone's leg\n(b) Hit the sack\n(c) Let sleeping dogs lie\n(d) Bite off more than you can chew\n\nColumn II:\n(i) To go to bed\n(ii) To joke with someone or tease them\n(iii) To take on more than one can handle\n(iv) To avoid interfering with a situation that may cause trouble\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "'Pull someone's leg' = tease/joke with someone (ii). 'Hit the sack' = go to bed (i). 'Let sleeping dogs lie' = don't disturb a settled situation (iv). 'Bite off more than you can chew' = take on too much (iii). Option 2 swaps (a) and (b). Option 3 has all pairings wrong. Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Which of the following correctly describe the idiom 'the elephant in the room'?\n\n(i) An obvious problem that no one wants to discuss.\n(ii) A very large piece of furniture.\n(iii) Something everyone is aware of but pretends doesn't exist.\n(iv) A topic that is deliberately being ignored because it's uncomfortable.\n\nWhich of the following are correct?",
+      "options": ["(i), (iii) and (iv) only", "(i) and (ii) only", "(ii), (iii) and (iv) only", "(i), (ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — 'elephant in the room' is an obvious problem no one addresses. (iii) is correct — everyone is aware but pretends it doesn't exist. (iv) is correct — the topic is deliberately avoided due to discomfort. (ii) is wrong — 'a very large piece of furniture' is a literal interpretation and not the meaning of the idiom."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "The idiom 'burning bridges' means:",
+      "options": ["Setting fire to a bridge", "Destroying relationships or possibilities permanently", "Building new connections", "Crossing a dangerous river"],
+      "correctAnswer": "Destroying relationships or possibilities permanently",
+      "explanation": "'Burning bridges' means doing something that makes it impossible to return to a previous situation or relationship. 'Setting fire to a bridge' is wrong — it's the literal meaning. 'Building new connections' is wrong — it's the opposite meaning. 'Crossing a dangerous river' is wrong — it's unrelated to the idiom's meaning."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Throw in the towel' means to give up or quit.\n(ii) 'On cloud nine' means to be extremely happy.\n(iii) 'Raining cats and dogs' means light drizzling.\n(iv) 'See eye to eye' means to agree with someone.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(iii) and (iv) only", "(i) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — 'throw in the towel' (from boxing) means to surrender or give up. (ii) is correct — 'on cloud nine' means ecstatic or extremely happy. (iv) is correct — 'see eye to eye' means to be in full agreement. (iii) is wrong — 'raining cats and dogs' means raining very HEAVILY, not light drizzling."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Break a leg' is used to wish someone good luck, especially in the performing arts.\nReason (R): In theatre tradition, wishing someone 'good luck' directly was considered bad luck, so performers used the opposite expression.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'break a leg' is a standard way to wish performers good luck. (R) is correct — theatre superstition holds that saying 'good luck' directly brings bad luck, hence the opposite phrase. (R) explains (A) because the superstition is precisely why the seemingly negative phrase is used as a good luck wish. Option 2 is wrong because (R) directly explains the origin of (A). Option 3 is wrong because (R) is an accepted explanation. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "What does 'to have cold feet' mean?",
+      "options": ["To feel physically cold", "To be nervous or anxious about something you planned to do", "To walk barefoot in winter", "To be insensitive or heartless"],
+      "correctAnswer": "To be nervous or anxious about something you planned to do",
+      "explanation": "'To have cold feet' means to become nervous or scared about something you were going to do, often leading to backing out. 'To feel physically cold' is wrong — it's the literal interpretation. 'To walk barefoot in winter' is wrong — another literal misinterpretation. 'To be insensitive or heartless' is wrong — that would be 'cold-hearted'."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Choose the sentence where 'throw caution to the wind' is used correctly:",
+      "options": ["She threw caution to the wind and invested all her savings in the risky venture.", "He threw caution to the wind by wearing a seatbelt.", "They threw caution to the wind and carefully planned their trip.", "She threw caution to the wind by refusing the free skydiving offer."],
+      "correctAnswer": "She threw caution to the wind and invested all her savings in the risky venture.",
+      "explanation": "'Throw caution to the wind' means to act recklessly without thinking about consequences. Investing all savings in a risky venture shows reckless abandon. 'Wearing a seatbelt' is wrong — that's being cautious, the opposite. 'Carefully planned their trip' is wrong — careful planning contradicts the idiom. 'Refusing a free offer' is wrong — refusing a risky activity is cautious, not reckless."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Put all your eggs in one basket' means to risk everything on a single venture.\n(ii) 'Burning the candle at both ends' means working excessively hard, often at the cost of health.\n(iii) 'To have an axe to grind' means to have a personal reason or motive for doing something.\n(iv) 'To let the grass grow under one's feet' means to act quickly and decisively.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'put all eggs in one basket' means concentrating all resources on one plan. (ii) is correct — 'burning the candle at both ends' means exhausting oneself with overwork. (iii) is correct — 'have an axe to grind' means having a hidden personal agenda. (iv) is wrong — 'let the grass grow under one's feet' means to DELAY or be idle, not to act quickly. The idiom is usually used negatively: 'don't let the grass grow under your feet' = don't be idle."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "The idiom 'a leopard cannot change its spots' means:",
+      "options": ["Leopards have permanent markings", "People cannot change their fundamental nature", "Animals adapt to their environment", "One should accept others as they are"],
+      "correctAnswer": "People cannot change their fundamental nature",
+      "explanation": "'A leopard cannot change its spots' means a person's true character remains the same regardless of attempts to change. 'Leopards have permanent markings' is wrong — it's the literal zoological fact, not the idiom's meaning. 'Animals adapt to their environment' is wrong — the idiom says the opposite about changing nature. 'One should accept others as they are' is wrong — while related, the idiom is about the inability to change, not about acceptance."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) A storm in a teacup\n(b) To be in the same boat\n(c) To have a green thumb\n(d) To bury the hatchet\n\nColumn II:\n(i) To make peace or end a conflict\n(ii) To be skilled at gardening\n(iii) An overreaction to a minor issue\n(iv) To be in the same difficult situation as others\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "'A storm in a teacup' = an exaggerated reaction to something trivial (iii). 'In the same boat' = sharing the same difficult circumstances (iv). 'Green thumb' = talent for gardening (ii). 'Bury the hatchet' = make peace (i). Option 2 swaps (a) and (b). Option 3 has all wrong. Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Which of the following idioms means 'to be very busy'?\n\n(i) To have one's hands full\n(ii) To be up to one's ears\n(iii) To be snowed under\n(iv) To be on cloud nine\n\nWhich of the following are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iv) only", "(ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'hands full' means being very busy with many tasks. (ii) is correct — 'up to one's ears' means overwhelmed with work. (iii) is correct — 'snowed under' means buried in too much work. (iv) is wrong — 'on cloud nine' means extremely happy, not busy."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "The idiom 'a wild goose chase' means:",
+      "options": ["Hunting wild geese", "A hopeless or pointless pursuit", "An exciting adventure", "A group activity in a park"],
+      "correctAnswer": "A hopeless or pointless pursuit",
+      "explanation": "'A wild goose chase' means a foolish, fruitless, or hopeless search or pursuit. 'Hunting wild geese' is wrong — it's the literal meaning. 'An exciting adventure' is wrong — the idiom implies futility, not excitement. 'A group activity in a park' is wrong — it's completely unrelated to the meaning."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'To move heaven and earth' means to make every possible effort.\n(ii) 'To eat humble pie' means to admit one's error and apologize.\n(iii) 'A feather in one's cap' means an achievement to be proud of.\n(iv) 'To read between the lines' means to understand only the literal meaning.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i) and (iv) only", "(ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'move heaven and earth' means to do everything possible. (ii) is correct — 'eat humble pie' means to acknowledge a mistake with humility. (iii) is correct — 'feather in one's cap' is an accomplishment to be proud of. (iv) is wrong — 'read between the lines' means to understand the HIDDEN or implied meaning, not the literal one."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "What does the idiom 'the writing is on the wall' mean?",
+      "options": ["Someone has vandalized a wall", "There are clear signs that something bad is going to happen", "A notice has been posted publicly", "Someone is practicing calligraphy"],
+      "correctAnswer": "There are clear signs that something bad is going to happen",
+      "explanation": "'The writing is on the wall' (from the Biblical story of Belshazzar's feast) means there are clear, unmistakable signs of impending doom or failure. 'Someone has vandalized a wall' is wrong — it's a literal interpretation. 'A notice has been posted publicly' is wrong — it confuses the idiom with a public announcement. 'Someone is practicing calligraphy' is wrong — completely unrelated."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The phrase 'to burn one's boats' means to commit irreversibly to a course of action.\nReason (R): Historically, military commanders burned their own boats after landing to ensure their troops could not retreat.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'burn one's boats' means making retreat impossible, committing fully. (R) is correct — historical accounts describe commanders like Hernán Cortés burning ships to prevent retreat. (R) explains (A) because the military practice is the origin of the idiom. Option 2 is wrong because (R) directly explains (A)'s origin. Option 3 is wrong because (R) is historically attested. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Complete the idiom: 'Every cloud has a __________ lining.'",
+      "options": ["silver", "golden", "dark", "bright"],
+      "correctAnswer": "silver",
+      "explanation": "The correct idiom is 'every cloud has a silver lining' — meaning every bad situation has some positive aspect. 'Golden' is wrong — though positive, the standard idiom uses 'silver'. 'Dark' is wrong — it contradicts the optimistic message. 'Bright' is wrong — while close in meaning, 'silver' is the only correct word in this idiom."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'To be on thin ice' means to be in a risky or dangerous situation.\n(ii) 'Straight from the horse's mouth' means information from the most reliable source.\n(iii) 'To make a mountain out of a molehill' means to exaggerate a minor issue.\n(iv) 'To jump on the bandwagon' means to start a new trend.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'on thin ice' means in a precarious or risky position. (ii) is correct — 'straight from the horse's mouth' means from the original or most authoritative source. (iii) is correct — 'make a mountain out of a molehill' means to exaggerate something trivial. (iv) is wrong — 'jump on the bandwagon' means to JOIN an existing popular trend or activity, not to START one."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The idiom 'to play devil's advocate' means:",
+      "options": ["To support evil actions", "To argue against a position one does not necessarily disagree with, to test its validity", "To act as a lawyer in court", "To worship the devil"],
+      "correctAnswer": "To argue against a position one does not necessarily disagree with, to test its validity",
+      "explanation": "'Play devil's advocate' means to argue the opposing side for the sake of debate or to examine an issue more thoroughly. 'To support evil actions' is wrong — it confuses 'devil' literally with evil. 'To act as a lawyer in court' is wrong — 'advocate' here means arguing a position, not legal representation. 'To worship the devil' is wrong — it's a completely literal misinterpretation."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Which of the following idioms relates to keeping a secret?\n\n(i) Keep it under your hat\n(ii) Mum's the word\n(iii) Button your lip\n(iv) Wear your heart on your sleeve\n\nWhich of the following are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iv) only", "(ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'keep it under your hat' means to keep something secret. (ii) is correct — 'mum's the word' means don't tell anyone. (iii) is correct — 'button your lip' means to keep quiet about something. (iv) is wrong — 'wear your heart on your sleeve' means to openly show your emotions, the OPPOSITE of keeping secrets."
+    }
+  ]
+}
