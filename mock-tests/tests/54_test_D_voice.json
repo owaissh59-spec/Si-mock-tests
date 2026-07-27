@@ -1,0 +1,642 @@
+{
+  "subject": "D",
+  "topic": "Active/Passive Voice",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the passive form of: 'She writes a letter.'",
+      "options": [
+        "A letter is being written by her.",
+        "A letter is written by her.",
+        "A letter has been written by her.",
+        "A letter was written by her."
+      ],
+      "correctAnswer": "A letter is written by her.",
+      "explanation": "'She writes' is simple present active. The passive form uses is/am/are + past participle: 'A letter IS WRITTEN by her'. 'Is being written' is present continuous passive (active: 'She is writing'). 'Has been written' is present perfect passive (active: 'She has written'). 'Was written' is simple past passive (active: 'She wrote')."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "The passive form of 'The teacher will explain the lesson' is:",
+      "options": [
+        "The lesson will explain by the teacher.",
+        "The lesson is explained by the teacher.",
+        "The lesson will be explained by the teacher.",
+        "The lesson has been explained by the teacher."
+      ],
+      "correctAnswer": "The lesson will be explained by the teacher.",
+      "explanation": "Simple future active → simple future passive: will + be + past participle. 'The lesson will be explained by the teacher' is the correct transformation. The first option is ungrammatical. The second changes future to present tense. The fourth changes future to present perfect."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Consider the following statements about active and passive voice:\n\n(i) In the active voice, the subject performs the action.\n(ii) In the passive voice, the subject receives the action.\n(iii) The passive voice always uses a form of 'to be' + past participle.\n(iv) A sentence in the active voice cannot be converted to passive if it lacks an object.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i), (ii), (iii) are core definitions of active/passive voice. (iv) is correct — only transitive verbs (which take an object) can be converted from active to passive. Intransitive sentences (like 'He runs fast') generally cannot be converted. All four statements are correct."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "The passive form of 'They are playing football' is:",
+      "options": [
+        "Football is played by them.",
+        "Football is being played by them.",
+        "Football has been played by them.",
+        "Football was played by them."
+      ],
+      "correctAnswer": "Football is being played by them.",
+      "explanation": "'They are playing' is present continuous active. The passive form uses is/am/are + being + past participle: 'Football IS BEING PLAYED by them'. The first option shifts to simple present passive. The third is present perfect passive. The fourth is simple past passive."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Sentences in the passive voice are often used when the doer of the action is unknown or unimportant.\nReason (R): The passive voice allows the sentence structure to focus on the receiver of the action rather than the doer.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — passive voice is preferred when the agent is unknown (e.g., 'My car was stolen') or unimportant (e.g., 'The report was published in 2020'). (R) is correct — passive structure moves the receiver to the subject position and de-emphasizes the doer. (R) directly explains (A). Option 2 wrongly denies the explanatory link. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Change the following to passive voice: 'He has finished his homework.'",
+      "options": [
+        "His homework has finished by him.",
+        "His homework is finished by him.",
+        "His homework was finished by him.",
+        "His homework has been finished by him."
+      ],
+      "correctAnswer": "His homework has been finished by him.",
+      "explanation": "Present perfect active ('has + past participle') → present perfect passive ('has been + past participle'). Hence: 'His homework HAS BEEN FINISHED by him'. The first option is ungrammatical. The second is simple present passive. The third is simple past passive."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Match the following active tenses with their corresponding passive forms:\n\nColumn I:\n(a) Simple present active (V1)\n(b) Simple past active (V2)\n(c) Present continuous active (is/am/are + V-ing)\n(d) Simple future active (will + V1)\n\nColumn II:\n(i) was/were + V3\n(ii) is/am/are + V3\n(iii) will be + V3\n(iv) is/am/are being + V3\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Simple present passive = is/am/are + V3 → (a)-(ii). Simple past passive = was/were + V3 → (b)-(i). Present continuous passive = is/am/are being + V3 → (c)-(iv). Simple future passive = will be + V3 → (d)-(iii). The distractor (a)-(i) confuses present with past. (a)-(iv) confuses simple present with continuous. (a)-(iii) confuses simple present with future."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "The passive form of 'Someone broke the window' is:",
+      "options": [
+        "The window is broken.",
+        "The window was broken (by someone).",
+        "The window has been broken.",
+        "The window is being broken."
+      ],
+      "correctAnswer": "The window was broken (by someone).",
+      "explanation": "'Someone broke' is simple past active. Passive: was/were + past participle → 'The window WAS BROKEN (by someone)'. When the agent is 'someone' or 'people', the 'by' phrase is often omitted. Options 1, 3, 4 are different tenses (simple present, present perfect, present continuous respectively)."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "The active voice sentence 'The children were reciting the poem' becomes in passive voice:",
+      "options": [
+        "The poem was recited by the children.",
+        "The poem is recited by the children.",
+        "The poem was being recited by the children.",
+        "The poem has been recited by the children."
+      ],
+      "correctAnswer": "The poem was being recited by the children.",
+      "explanation": "'Were reciting' is past continuous active. Past continuous passive = was/were + being + V3 → 'The poem WAS BEING RECITED by the children'. Option 1 is simple past passive. Option 2 is simple present passive. Option 4 is present perfect passive."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "The passive of 'Please close the door' is:",
+      "options": [
+        "The door is closed by you.",
+        "Let the door be closed.",
+        "The door will be closed.",
+        "The door has been closed."
+      ],
+      "correctAnswer": "Let the door be closed.",
+      "explanation": "Imperative sentences (commands/requests) convert to passive using 'Let + object + be + past participle'. So 'Please close the door' → 'Let the door be closed' (or 'You are requested to close the door' for polite alternatives). The other options change the mood from imperative to declarative/future/perfect, altering meaning."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "The passive form of 'Why did she scold the child?' is:",
+      "options": [
+        "Why was the child scolded by her?",
+        "Why is the child scolded by her?",
+        "Why did the child scold her?",
+        "Why has the child been scolded by her?"
+      ],
+      "correctAnswer": "Why was the child scolded by her?",
+      "explanation": "'Did she scold' is simple past active (interrogative). Passive: 'Was + subject + past participle' → 'Why WAS THE CHILD SCOLDED by her?' Option 2 changes to present tense. Option 3 reverses subject and object, changing the meaning. Option 4 changes to present perfect."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "The __________ voice is preferred in scientific writing to describe experimental procedures.",
+      "options": ["active", "passive", "imperative", "interrogative"],
+      "correctAnswer": "passive",
+      "explanation": "In science writing, the passive voice ('The mixture was heated', 'The samples were collected') is common because it emphasizes the procedure rather than the researcher. Active voice ('We heated the mixture') is also used in modern journals but passive still dominates methods sections. Imperative and interrogative are not voice categories."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "The passive of 'Rita told me a story' is:",
+      "options": [
+        "I was told a story by Rita.",
+        "A story was told to me by Rita.",
+        "Both (a) and (b) are correct.",
+        "None of the above."
+      ],
+      "correctAnswer": "Both (a) and (b) are correct.",
+      "explanation": "Since 'told' takes two objects (indirect: me; direct: a story), either object can become the subject of the passive: 'I was told a story by Rita' (indirect object as subject) or 'A story was told to me by Rita' (direct object as subject). Both are grammatical. The 'None of the above' option is incorrect since both (a) and (b) are valid."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'The book was read by John' can be reduced to 'The book was read' without losing grammatical validity.\nReason (R): In passive constructions, the 'by + agent' phrase is often optional and can be omitted when the agent is unimportant or clear from context.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — dropping the 'by John' agent leaves a grammatical sentence. (R) is correct — omission of the agent is a common feature of passive constructions, especially when the doer is unimportant. (R) directly explains (A). Option 2 wrongly denies the explanatory link. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Change the following to passive: 'The chef will prepare the meal.'",
+      "options": [
+        "The meal is prepared by the chef.",
+        "The meal was prepared by the chef.",
+        "The meal will be prepared by the chef.",
+        "The meal has been prepared by the chef."
+      ],
+      "correctAnswer": "The meal will be prepared by the chef.",
+      "explanation": "Simple future active → simple future passive: will + be + V3 → 'The meal WILL BE PREPARED by the chef'. Option 1 is simple present passive. Option 2 is simple past passive. Option 4 is present perfect passive."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "The active sentence 'He can solve the problem' is expressed in passive as:",
+      "options": [
+        "The problem can be solved by him.",
+        "The problem is solved by him.",
+        "The problem has been solved by him.",
+        "The problem was solved by him."
+      ],
+      "correctAnswer": "The problem can be solved by him.",
+      "explanation": "Modal + verb active → modal + be + V3 passive → 'The problem CAN BE SOLVED by him'. Option 2 is simple present passive. Option 3 is present perfect passive. Option 4 is simple past passive. Only the first preserves the modal 'can'."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "The active voice sentence 'Do not open the door' becomes in passive:",
+      "options": [
+        "The door should not be opened.",
+        "Let the door not be opened.",
+        "Both (a) and (b) are correct.",
+        "The door is not opened."
+      ],
+      "correctAnswer": "Both (a) and (b) are correct.",
+      "explanation": "Negative imperative to passive can use 'Let + object + not + be + V3' or 'X should not be + V3'. Both 'Let the door not be opened' and 'The door should not be opened' are grammatical passive forms. Option 4 changes to simple present, losing the imperative sense."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements about the passive voice:\n\n(i) The past participle (V3) form is always used in the passive.\n(ii) 'By + agent' is optional and can be dropped when unnecessary.\n(iii) Passive voice reverses the subject-object roles in the sentence.\n(iv) All English verbs can be converted to passive.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii), (iii) are correct standard rules. (iv) is INCORRECT — only TRANSITIVE verbs can be converted to passive. Intransitive verbs (like 'sleep', 'die', 'go', 'happen') cannot form standard passives. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "The passive form of 'One should always speak the truth' is:",
+      "options": [
+        "The truth is spoken.",
+        "The truth should always be spoken.",
+        "The truth was spoken.",
+        "One should be spoken the truth."
+      ],
+      "correctAnswer": "The truth should always be spoken.",
+      "explanation": "'Should + speak' active → 'should + be + spoken' passive → 'The truth SHOULD ALWAYS BE SPOKEN'. Option 1 loses the modal 'should'. Option 3 changes to past tense. Option 4 has awkward word order and reverses roles."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Change to passive: 'They were building a bridge.'",
+      "options": [
+        "A bridge was built.",
+        "A bridge was being built by them.",
+        "A bridge is being built.",
+        "A bridge has been built."
+      ],
+      "correctAnswer": "A bridge was being built by them.",
+      "explanation": "Past continuous active ('were + V-ing') → past continuous passive ('was/were + being + V3') → 'A bridge WAS BEING BUILT by them'. Option 1 is simple past passive. Option 3 is present continuous passive. Option 4 is present perfect passive."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "The passive voice of 'They have completed the project' is:",
+      "options": [
+        "The project is completed by them.",
+        "The project was completed by them.",
+        "The project has been completed by them.",
+        "The project will be completed by them."
+      ],
+      "correctAnswer": "The project has been completed by them.",
+      "explanation": "Present perfect active ('have + V3') → present perfect passive ('has/have been + V3') → 'The project HAS BEEN COMPLETED by them'. Option 1 is simple present. Option 2 is simple past. Option 4 is simple future."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "The active sentence 'The students had submitted the assignments' becomes in passive:",
+      "options": [
+        "The assignments were submitted by the students.",
+        "The assignments have been submitted by the students.",
+        "The assignments had been submitted by the students.",
+        "The assignments will be submitted by the students."
+      ],
+      "correctAnswer": "The assignments had been submitted by the students.",
+      "explanation": "Past perfect active ('had + V3') → past perfect passive ('had been + V3') → 'The assignments HAD BEEN SUBMITTED by the students'. Option 1 is simple past. Option 2 is present perfect. Option 4 is simple future."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The __________ voice generally makes sentences longer than the active voice.",
+      "options": ["active", "passive", "imperative", "subjunctive"],
+      "correctAnswer": "passive",
+      "explanation": "Passive constructions typically add auxiliary verbs (is/was/has been etc.) and often a 'by + agent' phrase, making them longer than active equivalents. Active is naturally more concise. Imperative and subjunctive are moods, not directly comparable in length in this specific way."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Change to passive: 'The postman has delivered the parcel.'",
+      "options": [
+        "The parcel is delivered by the postman.",
+        "The parcel was delivered by the postman.",
+        "The parcel has been delivered by the postman.",
+        "The parcel had been delivered by the postman."
+      ],
+      "correctAnswer": "The parcel has been delivered by the postman.",
+      "explanation": "Present perfect active → present perfect passive. 'Has delivered' → 'has been delivered'. The parcel HAS BEEN DELIVERED by the postman. Option 1 is simple present. Option 2 is simple past. Option 4 is past perfect."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "The passive voice of 'They will not tolerate any misbehaviour' is:",
+      "options": [
+        "Any misbehaviour is not tolerated by them.",
+        "Any misbehaviour was not tolerated by them.",
+        "Any misbehaviour will not be tolerated by them.",
+        "Any misbehaviour has not been tolerated by them."
+      ],
+      "correctAnswer": "Any misbehaviour will not be tolerated by them.",
+      "explanation": "Simple future negative active → simple future negative passive: 'will not be + V3'. 'Any misbehaviour WILL NOT BE TOLERATED by them'. Option 1 is present. Option 2 is past. Option 4 is present perfect. Only Option 3 preserves the future tense with negation."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match the following active sentence types with their passive form pattern:\n\nColumn I:\n(a) Imperative (order/request)\n(b) Modal verb + main verb\n(c) Simple present active\n(d) Simple past active\n\nColumn II:\n(i) Modal + be + V3\n(ii) Let + object + be + V3\n(iii) is/am/are + V3\n(iv) was/were + V3\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "Imperative passive uses 'Let + obj + be + V3' → (a)-(ii). Modal-verb passive uses 'modal + be + V3' → (b)-(i). Simple present passive uses is/am/are + V3 → (c)-(iii). Simple past passive uses was/were + V3 → (d)-(iv). The distractor (a)-(iii) treats imperative as simple present. (a)-(iv) treats imperative as past. (a)-(i) treats imperative as modal."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Change to passive: 'People believe that he is a genius.'",
+      "options": [
+        "He is believed to be a genius.",
+        "It is believed that he is a genius.",
+        "Both (a) and (b) are acceptable.",
+        "None of the above."
+      ],
+      "correctAnswer": "Both (a) and (b) are acceptable.",
+      "explanation": "Sentences with 'People believe/think/say that + clause' can be transformed into passive in two accepted ways: 'It is believed that...' or 'He is believed to be...'. Both are grammatical. Hence both (a) and (b) are correct."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "The passive of 'Mother is cooking dinner' is:",
+      "options": [
+        "Dinner is cooked by Mother.",
+        "Dinner is being cooked by Mother.",
+        "Dinner was cooked by Mother.",
+        "Dinner has been cooked by Mother."
+      ],
+      "correctAnswer": "Dinner is being cooked by Mother.",
+      "explanation": "Present continuous active → present continuous passive: 'is/am/are + being + V3' → 'Dinner IS BEING COOKED by Mother'. Option 1 is simple present passive. Option 3 is simple past passive. Option 4 is present perfect passive."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "The active voice sentence 'The gardener waters the plants daily' becomes in passive:",
+      "options": [
+        "The plants are watered by the gardener daily.",
+        "The plants were watered by the gardener daily.",
+        "The plants have been watered by the gardener daily.",
+        "The plants are being watered by the gardener daily."
+      ],
+      "correctAnswer": "The plants are watered by the gardener daily.",
+      "explanation": "Simple present active → simple present passive: 'is/am/are + V3' → 'The plants ARE WATERED by the gardener daily'. Option 2 is simple past. Option 3 is present perfect. Option 4 is present continuous."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Change to passive: 'He was writing a novel.'",
+      "options": [
+        "A novel was being written by him.",
+        "A novel was written by him.",
+        "A novel is being written by him.",
+        "A novel has been written by him."
+      ],
+      "correctAnswer": "A novel was being written by him.",
+      "explanation": "Past continuous active → past continuous passive: 'was/were + being + V3' → 'A novel WAS BEING WRITTEN by him'. Option 2 is simple past. Option 3 is present continuous. Option 4 is present perfect."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "The passive form of 'They constructed the building in six months' is:",
+      "options": [
+        "The building was constructed in six months.",
+        "The building is constructed in six months.",
+        "The building has been constructed in six months.",
+        "The building will be constructed in six months."
+      ],
+      "correctAnswer": "The building was constructed in six months.",
+      "explanation": "Simple past active → simple past passive: 'was/were + V3' → 'The building WAS CONSTRUCTED (by them) in six months'. Option 2 is simple present. Option 3 is present perfect. Option 4 is simple future."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "The passive of 'Nobody helped me' is:",
+      "options": [
+        "I was helped by nobody.",
+        "I was not helped (by anyone).",
+        "I have not been helped.",
+        "Both (a) and (b) are acceptable."
+      ],
+      "correctAnswer": "Both (a) and (b) are acceptable.",
+      "explanation": "'Nobody helped me' can be transformed as 'I was helped by nobody' (literal) or 'I was not helped (by anyone)' (more natural). Both are acceptable in passive voice. Option 3 changes tense to present perfect. Option 4 rightly accepts both natural forms."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "The passive form of 'The manager has approved the proposal' is:",
+      "options": [
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal has been approved by the manager.",
+        "The proposal will be approved by the manager."
+      ],
+      "correctAnswer": "The proposal has been approved by the manager.",
+      "explanation": "Present perfect active → present perfect passive: 'has/have + been + V3' → 'The proposal HAS BEEN APPROVED by the manager'. Option 1 is simple present. Option 2 is simple past. Option 4 is simple future."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Sentences with the verb 'have' meaning 'possess' generally cannot be converted to passive voice.\nReason (R): 'Have' in the sense of possession is a stative verb whose meaning is preserved only in the active construction.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'She has two brothers' does NOT convert to '*Two brothers are had by her' — this is ungrammatical. (R) is correct — 'have' as a stative possession verb typically resists passivization. (R) directly explains (A). Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "The passive of 'Who broke the vase?' is:",
+      "options": [
+        "By whom was the vase broken?",
+        "Who was broken by the vase?",
+        "The vase was broken by whom?",
+        "Both (a) and (c) are acceptable."
+      ],
+      "correctAnswer": "Both (a) and (c) are acceptable.",
+      "explanation": "Interrogative 'Who' (subject) becomes 'By whom' in passive with the verb form 'was + broken'. Both 'By whom was the vase broken?' (formal) and 'The vase was broken by whom?' (more colloquial) are used and understood. Option 2 reverses roles nonsensically. Hence both (a) and (c) are acceptable."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "The active voice sentence 'The dog is chasing the cat' becomes in passive:",
+      "options": [
+        "The cat is chased by the dog.",
+        "The cat is being chased by the dog.",
+        "The cat was chased by the dog.",
+        "The cat has been chased by the dog."
+      ],
+      "correctAnswer": "The cat is being chased by the dog.",
+      "explanation": "Present continuous active → present continuous passive: 'is/am/are + being + V3' → 'The cat IS BEING CHASED by the dog'. Option 1 is simple present. Option 3 is simple past. Option 4 is present perfect."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Which of the following are grammatical passive-voice conversions of the given active sentences?\n\n(i) 'She sings a song.' → 'A song is sung by her.'\n(ii) 'They will call the meeting.' → 'The meeting is called by them.'\n(iii) 'The teacher taught us.' → 'We were taught by the teacher.'\n(iv) 'He is watching a movie.' → 'A movie is being watched by him.'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i), (iii), (iv) correctly match the tense of the original. (ii) is INCORRECT — the active 'will call' is future, so passive should be 'The meeting will be called by them', NOT 'is called' (simple present). Any option including (ii) is therefore wrong."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Change to passive: 'They must complete the assignment by Monday.'",
+      "options": [
+        "The assignment must be completed by Monday.",
+        "The assignment is completed by Monday.",
+        "The assignment was completed by Monday.",
+        "The assignment has been completed by Monday."
+      ],
+      "correctAnswer": "The assignment must be completed by Monday.",
+      "explanation": "Modal + verb active → modal + be + V3 passive → 'The assignment MUST BE COMPLETED by Monday'. Option 2 loses the modal 'must'. Option 3 changes to past. Option 4 changes to present perfect. Only Option 1 preserves the modal 'must'."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The passive of 'The workers are painting the walls' is:",
+      "options": [
+        "The walls are painted by the workers.",
+        "The walls were being painted by the workers.",
+        "The walls are being painted by the workers.",
+        "The walls have been painted by the workers."
+      ],
+      "correctAnswer": "The walls are being painted by the workers.",
+      "explanation": "Present continuous active → present continuous passive: 'are + being + V3' → 'The walls ARE BEING PAINTED by the workers'. Option 1 is simple present. Option 2 is past continuous. Option 4 is present perfect."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The __________ voice is more direct and generally preferred in modern professional and journalistic writing.",
+      "options": ["active", "passive", "reflexive", "middle"],
+      "correctAnswer": "active",
+      "explanation": "Active voice is more direct, uses fewer words, and clearly identifies the doer — hence preferred in most modern professional and journalistic writing. Passive is often used for scientific procedures or when the agent is unknown. Reflexive and middle voices are grammatical categories that don't fit the direct vs. indirect distinction here."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Change to passive: 'He does not tell lies.'",
+      "options": [
+        "Lies are not told by him.",
+        "Lies are told by him.",
+        "Lies were not told by him.",
+        "Lies have not been told by him."
+      ],
+      "correctAnswer": "Lies are not told by him.",
+      "explanation": "Simple present negative active → simple present negative passive: 'is/am/are + not + V3'. 'He does not tell' → 'Lies ARE NOT TOLD by him'. Option 2 removes negation. Option 3 changes to past. Option 4 changes to present perfect."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "The passive form of 'The company will launch a new product next month' is:",
+      "options": [
+        "A new product is launched by the company next month.",
+        "A new product was launched by the company next month.",
+        "A new product will be launched by the company next month.",
+        "A new product has been launched by the company next month."
+      ],
+      "correctAnswer": "A new product will be launched by the company next month.",
+      "explanation": "Simple future active → simple future passive: 'will be + V3' → 'A new product WILL BE LAUNCHED by the company next month'. Option 1 is simple present. Option 2 is simple past. Option 4 is present perfect."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "The active voice sentence 'The judge sentenced the criminal' becomes in passive:",
+      "options": [
+        "The criminal is sentenced by the judge.",
+        "The criminal was sentenced by the judge.",
+        "The criminal has been sentenced by the judge.",
+        "The criminal will be sentenced by the judge."
+      ],
+      "correctAnswer": "The criminal was sentenced by the judge.",
+      "explanation": "Simple past active → simple past passive: 'was/were + V3' → 'The criminal WAS SENTENCED by the judge'. Option 1 is simple present. Option 3 is present perfect. Option 4 is simple future."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "The passive of 'Where does she live?' is:",
+      "options": [
+        "Where is she lived by?",
+        "Where does she live? (not convertible)",
+        "Where is her living?",
+        "By whom is she lived?"
+      ],
+      "correctAnswer": "Where does she live? (not convertible)",
+      "explanation": "'Live' is an intransitive verb — no object. Intransitive-verb sentences generally cannot be converted to passive. Hence 'Where does she live?' remains unchanged (option 2 acknowledges this). The other options are ungrammatical attempts to force passive on an intransitive verb."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Consider the following statements about voice conversion:\n\n(i) An intransitive verb generally cannot be converted from active to passive.\n(ii) The 'to be' verb form in passive matches the tense of the active verb.\n(iii) The subject of the active becomes the object of 'by' in the passive.\n(iv) Modal verbs remain unchanged in position when converted to passive.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i), (ii), (iii), (iv) are all correct rules about voice conversion. Intransitive verbs generally can't be converted; the 'to be' verb matches the tense of the active; the active subject moves to the 'by + agent' phrase; and modals stay put (e.g., 'can + verb' → 'can + be + V3'). All four are true."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "The passive form of 'I did not attend the meeting' is:",
+      "options": [
+        "The meeting is not attended by me.",
+        "The meeting was not attended by me.",
+        "The meeting has not been attended by me.",
+        "The meeting will not be attended by me."
+      ],
+      "correctAnswer": "The meeting was not attended by me.",
+      "explanation": "Simple past negative active → simple past negative passive: 'was/were + not + V3' → 'The meeting WAS NOT ATTENDED by me'. Option 1 is simple present. Option 3 is present perfect. Option 4 is simple future."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Change to passive: 'They should follow the rules strictly.'",
+      "options": [
+        "The rules are followed strictly.",
+        "The rules should be followed strictly.",
+        "The rules were followed strictly.",
+        "The rules must be followed strictly."
+      ],
+      "correctAnswer": "The rules should be followed strictly.",
+      "explanation": "Modal 'should' + verb active → 'should + be + V3' passive → 'The rules SHOULD BE FOLLOWED strictly'. Option 1 loses 'should'. Option 3 changes to past. Option 4 changes the modal to 'must' — changing meaning."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "The passive of 'Somebody has stolen my bag' is:",
+      "options": [
+        "My bag has been stolen (by somebody).",
+        "My bag was stolen.",
+        "My bag is stolen.",
+        "My bag will be stolen."
+      ],
+      "correctAnswer": "My bag has been stolen (by somebody).",
+      "explanation": "Present perfect active → present perfect passive: 'has/have + been + V3'. 'Has stolen' → 'has been stolen'. When the agent is 'somebody', it may be omitted. So 'My bag HAS BEEN STOLEN (by somebody)'. Option 2 is simple past. Option 3 is simple present (state). Option 4 is future."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "The active voice sentence 'The chef is preparing the meal now' becomes in passive:",
+      "options": [
+        "The meal is prepared by the chef now.",
+        "The meal is being prepared by the chef now.",
+        "The meal was prepared by the chef now.",
+        "The meal has been prepared by the chef now."
+      ],
+      "correctAnswer": "The meal is being prepared by the chef now.",
+      "explanation": "Present continuous active → present continuous passive: 'is/am/are + being + V3' → 'The meal IS BEING PREPARED by the chef now'. Option 1 is simple present. Option 3 is simple past. Option 4 is present perfect."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Match the following active sentences with their correct passive forms:\n\nColumn I:\n(a) 'She reads a book.'\n(b) 'She has read a book.'\n(c) 'She is reading a book.'\n(d) 'She will read a book.'\n\nColumn II:\n(i) A book is being read by her.\n(ii) A book has been read by her.\n(iii) A book will be read by her.\n(iv) A book is read by her.\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "(a) Simple present active → simple present passive: 'A book IS READ' → (a)-(iv). (b) Present perfect active → present perfect passive: 'A book HAS BEEN READ' → (b)-(ii). (c) Present continuous active → present continuous passive: 'A book IS BEING READ' → (c)-(i). (d) Simple future active → simple future passive: 'A book WILL BE READ' → (d)-(iii). The distractor (a)-(i) confuses simple present with continuous. (a)-(ii) confuses simple present with perfect. (a)-(iii) confuses simple present with future."
+    }
+  ]
+}

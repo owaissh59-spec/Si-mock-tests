@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 359,
+  "count": 389,
   "questions": [
     {
       "test": 2,
@@ -1797,6 +1797,156 @@
       "test": 46,
       "stem": "the concept of 'judicial review' in the indian constitution is inspired mainly",
       "key": "The Constitution of the United States of America"
+    },
+    {
+      "test": 52,
+      "stem": "the reserve bank of india (rbi) was established under the rbi act",
+      "key": "1935"
+    },
+    {
+      "test": 52,
+      "stem": "consider the following statements about the indian economy: (i) india is classified",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 52,
+      "stem": "gdp stands for:",
+      "key": "Gross Domestic Product"
+    },
+    {
+      "test": 52,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 52,
+      "stem": "the 'green revolution' in india, associated with the widespread adoption of high-yielding",
+      "key": "M. S. Swaminathan"
+    },
+    {
+      "test": 52,
+      "stem": "match the following economic terms with their definitions: column i: (a) inflation",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 52,
+      "stem": "the 'fiscal deficit' of a country is best defined as:",
+      "key": "The gap between government revenue and expenditure"
+    },
+    {
+      "test": 52,
+      "stem": "which of the following are public sector undertakings (psus) in india? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 52,
+      "stem": "the main objective of the goods and services tax (gst), implemented in",
+      "key": "Replace multiple indirect taxes with a unified national tax"
+    },
+    {
+      "test": 52,
+      "stem": "the nabard (national bank for agriculture and rural development) was established in",
+      "key": "1982"
+    },
+    {
+      "test": 52,
+      "stem": "the __________ is the highest measure of a country's economic size, including",
+      "key": "GDP"
+    },
+    {
+      "test": 52,
+      "stem": "the 'repo rate' in indian monetary policy is the rate at which:",
+      "key": "Commercial banks borrow money from the RBI against government securities"
+    },
+    {
+      "test": 52,
+      "stem": "consider the following statements about the indian budget: (i) the union budget",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 52,
+      "stem": "the 'pmjdy' (pradhan mantri jan dhan yojana), launched in 2014, aims to:",
+      "key": "Achieve universal financial inclusion through zero-balance bank accounts"
+    },
+    {
+      "test": 52,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 52,
+      "stem": "the 'crr' (cash reserve ratio) is the percentage of:",
+      "key": "A bank's net demand and time liabilities that must be maintained as cash with..."
+    },
+    {
+      "test": 52,
+      "stem": "the indian rupee was decimalized (with 100 paise = 1 rupee) in",
+      "key": "1957"
+    },
+    {
+      "test": 52,
+      "stem": "which of the following are direct taxes in india? (i) income tax",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 52,
+      "stem": "the msp (minimum support price) system in india is used to:",
+      "key": "Ensure a guaranteed price to farmers for specified agricultural crops"
+    },
+    {
+      "test": 52,
+      "stem": "the 'hdi' (human development index) is published annually by:",
+      "key": "UNDP"
+    },
+    {
+      "test": 52,
+      "stem": "consider the following statements about the 'priority sector lending' norms of the",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 52,
+      "stem": "the 'blue revolution' in india refers to increased production in:",
+      "key": "Fisheries/Aquaculture"
+    },
+    {
+      "test": 52,
+      "stem": "match the following economic institutions with their headquarters: column i: (a) rbi",
+      "key": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 52,
+      "stem": "the 'national income' of a country is the sum of:",
+      "key": "GDP + Net factor income from abroad"
+    },
+    {
+      "test": 52,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 52,
+      "stem": "the 'twelfth five year plan' of india (2012-2017) was the __________ five",
+      "key": "Twelfth"
+    },
+    {
+      "test": 52,
+      "stem": "the 'statutory liquidity ratio' (slr) refers to:",
+      "key": "The minimum percentage of deposits a bank must maintain in liquid form (like ..."
+    },
+    {
+      "test": 52,
+      "stem": "india's 'look east policy', later evolved into the 'act east policy', focuses",
+      "key": "Southeast Asian nations"
+    },
+    {
+      "test": 52,
+      "stem": "the 'aatmanirbhar bharat abhiyan' (self-reliant india campaign) announced in 2020 focused on:",
+      "key": "Building the country's economic resilience and reducing dependence on imports"
+    },
+    {
+      "test": 52,
+      "stem": "the 'consumer price index' (cpi) is used to measure:",
+      "key": "Changes in retail prices of a basket of goods and services"
     }
   ]
 }

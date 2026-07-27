@@ -153,9 +153,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 52 | Morning | B — General Awareness | Economics & General Policy (India) | 30 | standard | Topic-wise | ⬜ |
-| 53 | Afternoon | C — Quantitative Aptitude | Partnership Business | 40 | standard | Topic-wise | ⬜ |
-| 54 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ⬜ |
+| 52 | Morning | B — General Awareness | Economics & General Policy (India) | 30 | standard | Topic-wise | ✅ |
+| 53 | Afternoon | C — Quantitative Aptitude | Partnership Business | 40 | standard | Topic-wise | ✅ |
+| 54 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ✅ |
 
 ### Day 19
 

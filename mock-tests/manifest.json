@@ -788,7 +788,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "52_test_B_economy.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 53,
@@ -803,7 +803,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "53_test_C_partnership.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 54,
@@ -818,7 +818,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "54_test_D_voice.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 55,

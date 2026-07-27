@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 315,
+  "count": 365,
   "questions": [
     {
       "test": 4,
@@ -1577,6 +1577,256 @@
       "test": 48,
       "stem": "fill in the blank: 'the judge exempted him __________ paying the fine.'",
       "key": "from"
+    },
+    {
+      "test": 54,
+      "stem": "choose the passive form of: 'she writes a letter.'",
+      "key": "A letter is written by her."
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'the teacher will explain the lesson' is:",
+      "key": "The lesson will be explained by the teacher."
+    },
+    {
+      "test": 54,
+      "stem": "consider the following statements about active and passive voice: (i) in the",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'they are playing football' is:",
+      "key": "Football is being played by them."
+    },
+    {
+      "test": 54,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 54,
+      "stem": "change the following to passive voice: 'he has finished his homework.'",
+      "key": "His homework has been finished by him."
+    },
+    {
+      "test": 54,
+      "stem": "match the following active tenses with their corresponding passive forms: column i:",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'someone broke the window' is:",
+      "key": "The window was broken (by someone)."
+    },
+    {
+      "test": 54,
+      "stem": "the active voice sentence 'the children were reciting the poem' becomes in",
+      "key": "The poem was being recited by the children."
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'please close the door' is:",
+      "key": "Let the door be closed."
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'why did she scold the child?' is:",
+      "key": "Why was the child scolded by her?"
+    },
+    {
+      "test": 54,
+      "stem": "the __________ voice is preferred in scientific writing to describe experimental procedures.",
+      "key": "passive"
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'rita told me a story' is:",
+      "key": "Both (a) and (b) are correct."
+    },
+    {
+      "test": 54,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 54,
+      "stem": "change the following to passive: 'the chef will prepare the meal.'",
+      "key": "The meal will be prepared by the chef."
+    },
+    {
+      "test": 54,
+      "stem": "the active sentence 'he can solve the problem' is expressed in passive",
+      "key": "The problem can be solved by him."
+    },
+    {
+      "test": 54,
+      "stem": "the active voice sentence 'do not open the door' becomes in passive:",
+      "key": "Both (a) and (b) are correct."
+    },
+    {
+      "test": 54,
+      "stem": "consider the following statements about the passive voice: (i) the past participle",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'one should always speak the truth' is:",
+      "key": "The truth should always be spoken."
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'they were building a bridge.'",
+      "key": "A bridge was being built by them."
+    },
+    {
+      "test": 54,
+      "stem": "the passive voice of 'they have completed the project' is:",
+      "key": "The project has been completed by them."
+    },
+    {
+      "test": 54,
+      "stem": "the active sentence 'the students had submitted the assignments' becomes in passive:",
+      "key": "The assignments had been submitted by the students."
+    },
+    {
+      "test": 54,
+      "stem": "the __________ voice generally makes sentences longer than the active voice.",
+      "key": "passive"
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'the postman has delivered the parcel.'",
+      "key": "The parcel has been delivered by the postman."
+    },
+    {
+      "test": 54,
+      "stem": "the passive voice of 'they will not tolerate any misbehaviour' is:",
+      "key": "Any misbehaviour will not be tolerated by them."
+    },
+    {
+      "test": 54,
+      "stem": "match the following active sentence types with their passive form pattern: column",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'people believe that he is a genius.'",
+      "key": "Both (a) and (b) are acceptable."
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'mother is cooking dinner' is:",
+      "key": "Dinner is being cooked by Mother."
+    },
+    {
+      "test": 54,
+      "stem": "the active voice sentence 'the gardener waters the plants daily' becomes in",
+      "key": "The plants are watered by the gardener daily."
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'he was writing a novel.'",
+      "key": "A novel was being written by him."
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'they constructed the building in six months' is:",
+      "key": "The building was constructed in six months."
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'nobody helped me' is:",
+      "key": "Both (a) and (b) are acceptable."
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'the manager has approved the proposal' is:",
+      "key": "The proposal has been approved by the manager."
+    },
+    {
+      "test": 54,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'who broke the vase?' is:",
+      "key": "Both (a) and (c) are acceptable."
+    },
+    {
+      "test": 54,
+      "stem": "the active voice sentence 'the dog is chasing the cat' becomes in",
+      "key": "The cat is being chased by the dog."
+    },
+    {
+      "test": 54,
+      "stem": "which of the following are grammatical passive-voice conversions of the given active",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'they must complete the assignment by monday.'",
+      "key": "The assignment must be completed by Monday."
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'the workers are painting the walls' is:",
+      "key": "The walls are being painted by the workers."
+    },
+    {
+      "test": 54,
+      "stem": "the __________ voice is more direct and generally preferred in modern professional",
+      "key": "active"
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'he does not tell lies.'",
+      "key": "Lies are not told by him."
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'the company will launch a new product next",
+      "key": "A new product will be launched by the company next month."
+    },
+    {
+      "test": 54,
+      "stem": "the active voice sentence 'the judge sentenced the criminal' becomes in passive:",
+      "key": "The criminal was sentenced by the judge."
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'where does she live?' is:",
+      "key": "Where does she live? (not convertible)"
+    },
+    {
+      "test": 54,
+      "stem": "consider the following statements about voice conversion: (i) an intransitive verb generally",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 54,
+      "stem": "the passive form of 'i did not attend the meeting' is:",
+      "key": "The meeting was not attended by me."
+    },
+    {
+      "test": 54,
+      "stem": "change to passive: 'they should follow the rules strictly.'",
+      "key": "The rules should be followed strictly."
+    },
+    {
+      "test": 54,
+      "stem": "the passive of 'somebody has stolen my bag' is:",
+      "key": "My bag has been stolen (by somebody)."
+    },
+    {
+      "test": 54,
+      "stem": "the active voice sentence 'the chef is preparing the meal now' becomes",
+      "key": "The meal is being prepared by the chef now."
+    },
+    {
+      "test": 54,
+      "stem": "match the following active sentences with their correct passive forms: column i:",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
     }
   ]
 }
