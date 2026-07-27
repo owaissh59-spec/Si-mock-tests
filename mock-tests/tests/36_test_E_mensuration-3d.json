@@ -1,0 +1,407 @@
+{
+  "subject": "E",
+  "topic": "Mensuration: 3D Solids",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "The volume of a cube whose each edge measures 9 cm is:",
+      "options": ["729 cm^3", "486 cm^3", "324 cm^3", "243 cm^3"],
+      "correctAnswer": "729 cm^3",
+      "explanation": "Volume of a cube = a^3 = 9 x 9 x 9 = 729 cm^3. Why the others are wrong: 486 cm^3 is the value of the total surface area 6a^2 = 6 x 81 = 486 (a surface-area formula wrongly used for volume, and the unit cm^3 is then also wrong); 324 cm^3 is the lateral surface area 4a^2 = 4 x 81 = 324, i.e. only the four side faces; 243 cm^3 comes from 3a^2 = 3 x 81, the error of multiplying the face area by 3 instead of cubing the edge."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about a cuboid whose length, breadth and height are 12 cm, 8 cm and 6 cm respectively:\n\n(i) Its volume is 576 cm^3.\n(ii) Its total surface area is 592 cm^2.\n(iii) Its lateral surface area is 240 cm^2.\n(iv) The length of its longest diagonal is 2 sqrt(61) cm.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "V = lbh = 12 x 8 x 6 = 576 cm^3, so (i) is correct. TSA = 2(lb + bh + hl) = 2(96 + 48 + 72) = 2 x 216 = 432 cm^2, not 592 cm^2, so (ii) is wrong (592 is what you get by adding an extra pair of 80 cm^2 faces). LSA = 2h(l + b) = 2 x 6 x 20 = 240 cm^2, so (iii) is correct. Diagonal = sqrt(l^2 + b^2 + h^2) = sqrt(144 + 64 + 36) = sqrt(244) = 2 sqrt(61) cm, so (iv) is correct. Hence the other options fail: '(i), (ii) and (iii) only' and '(i), (ii) and (iv) only' both wrongly accept the false TSA value 592 cm^2, and '(ii), (iii) and (iv) only' accepts that same false TSA while rejecting the correct volume 576 cm^3."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The curved surface area of a right circular cylinder of radius 7 cm and height 15 cm is (take pi = 22/7):",
+      "options": ["968 cm^2", "660 cm^2", "330 cm^2", "308 cm^2"],
+      "correctAnswer": "660 cm^2",
+      "explanation": "CSA of a cylinder = 2 pi r h = 2 x (22/7) x 7 x 15 = 660 cm^2. Why the others are wrong: 968 cm^2 is the total surface area 2 pi r(r + h) = 660 + 308, which includes the two circular ends and so answers a different question; 330 cm^2 comes from forgetting the factor 2 and computing pi r h = (22/7) x 7 x 15; 308 cm^2 is only the area of the two circular ends, 2 pi r^2 = 2 x 154, i.e. the flat faces and not the curved part."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a right circular cone, the slant height is always greater than the vertical height.\nReason (R): In a right circular cone, l^2 = r^2 + h^2, so l = sqrt(r^2 + h^2), which exceeds h for every positive radius r.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The radius, height and slant height of a right circular cone form a right triangle with l as the hypotenuse, so l^2 = r^2 + h^2 and l = sqrt(r^2 + h^2) > sqrt(h^2) = h whenever r > 0. Thus (A) is correct and (R) is exactly the Pythagorean reason behind it, so the first option is right. 'Both correct but (R) is NOT the correct explanation' is wrong because (R) is precisely the relation that forces l > h. '(A) is correct but (R) is not correct' is wrong because l^2 = r^2 + h^2 is the standard and valid cone relation. '(A) is not correct but (R) is correct' is wrong because (A) does hold for every genuine cone with r > 0."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "The surface area of a sphere is 616 cm^2. Its radius is (take pi = 22/7):",
+      "options": ["14 cm", "3.5 cm", "21 cm", "7 cm"],
+      "correctAnswer": "7 cm",
+      "explanation": "Surface area of a sphere = 4 pi r^2, so 4 x (22/7) x r^2 = 616, giving r^2 = 616 x 7 / 88 = 49 and r = 7 cm. Why the others are wrong: 14 cm is the diameter, obtained by solving for r and then forgetting that the answer already is the radius; 3.5 cm results from halving 7 cm once more, i.e. treating the computed radius as a diameter; 21 cm does not satisfy the equation at all, since 4 x (22/7) x 441 = 5544 cm^2, far more than 616 cm^2."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Match the solids in Column I with the correct formula in Column II:\n\nColumn I:\n(a) Volume of a right circular cone\n(b) Total surface area of a solid hemisphere\n(c) Surface area of a sphere\n(d) Volume of a right prism\n\nColumn II:\n(i) 4 pi r^2\n(ii) base area x height\n(iii) (1/3) pi r^2 h\n(iv) 3 pi r^2\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "A cone's volume is one-third that of the cylinder on the same base, so (a)-(iii) = (1/3) pi r^2 h. A solid hemisphere has curved area 2 pi r^2 plus a flat circular face pi r^2, giving TSA = 3 pi r^2, so (b)-(iv). A sphere has surface area 4 pi r^2, so (c)-(i). A right prism has volume = base area x height, so (d)-(ii). The other options are wrong: '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' gives the cone the prism formula and vice versa (it drops the 1/3 for the cone); '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' swaps the sphere and hemisphere areas, assigning 4 pi r^2 to the hemisphere and 3 pi r^2 to the sphere; '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' makes both of those mistakes at once."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "A room is 12 m long, 9 m broad and 8 m high. The length of the longest rod that can be placed inside the room is:",
+      "options": ["15 m", "29 m", "17 m", "16 m"],
+      "correctAnswer": "17 m",
+      "explanation": "The longest rod lies along the space diagonal, of length sqrt(l^2 + b^2 + h^2) = sqrt(144 + 81 + 64) = sqrt(289) = 17 m. Why the others are wrong: 15 m is the floor diagonal sqrt(144 + 81) = sqrt(225), which ignores the height altogether; 29 m is simply 12 + 9 + 8, the error of adding the three edges instead of combining their squares; 16 m arises from a slip in adding the squares (taking the sum as 256 instead of 289) and is shorter than the true diagonal."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Which of the following are correct for a solid right circular cylinder of radius 7 cm and height 20 cm (take pi = 22/7)?\n\n(i) Its curved surface area is 880 cm^2.\n(ii) Its volume is 3080 cm^3.\n(iii) Its total surface area is 1188 cm^2.\n(iv) The area of one circular end is 44 cm^2.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "CSA = 2 pi r h = 2 x (22/7) x 7 x 20 = 880 cm^2, so (i) is correct. V = pi r^2 h = (22/7) x 49 x 20 = 3080 cm^3, so (ii) is correct. TSA = CSA + 2 pi r^2 = 880 + 308 = 1188 cm^2, so (iii) is correct. The area of one circular end is pi r^2 = 154 cm^2; 44 cm^2 is the circumference 2 pi r, so (iv) is wrong. Therefore each of the other three options is wrong because each of them includes statement (iv), which confuses the circumference of the base with its area, and two of them additionally drop a correct statement."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "The volume of a right circular cone of base radius 7 cm and vertical height 12 cm is (take pi = 22/7):",
+      "options": ["616 cm^3", "1848 cm^3", "2464 cm^3", "924 cm^3"],
+      "correctAnswer": "616 cm^3",
+      "explanation": "V = (1/3) pi r^2 h = (1/3) x (22/7) x 49 x 12 = 616 cm^3. Why the others are wrong: 1848 cm^3 is pi r^2 h, the volume of the cylinder on the same base and height, i.e. the 1/3 factor has been forgotten; 2464 cm^3 comes from using the diameter 14 cm as the radius, since (1/3) x (22/7) x 196 x 12 = 2464; 924 cm^3 results from using 1/2 instead of 1/3 in the cone formula."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about a solid hemisphere of radius 14 cm (take pi = 22/7):\n\n(i) Its curved surface area is 1232 cm^2.\n(ii) Its total surface area is 1848 cm^2.\n(iii) Its total surface area is 1.5 times its curved surface area.\n(iv) Its curved surface area equals the surface area of a sphere of the same radius.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "CSA of a hemisphere = 2 pi r^2 = 2 x (22/7) x 196 = 1232 cm^2, so (i) is correct. TSA = 3 pi r^2 = 3 x 616 = 1848 cm^2, so (ii) is correct. Since TSA/CSA = 3 pi r^2 / 2 pi r^2 = 1.5, statement (iii) is correct. A sphere of radius 14 cm has surface area 4 pi r^2 = 2464 cm^2, which is twice 1232 cm^2, so (iv) is wrong. Hence '(i), (ii) and (iv) only' and '(i), (iii) and (iv) only' are wrong because they accept the false claim (iv), and '(ii), (iii) and (iv) only' is wrong both for accepting (iv) and for rejecting the correct CSA in (i)."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "A solid metallic sphere of radius 6 cm is melted and recast into a solid right circular cylinder of radius 4 cm. The height of the cylinder so formed is:",
+      "options": ["13.5 cm", "24 cm", "18 cm", "36 cm"],
+      "correctAnswer": "18 cm",
+      "explanation": "On recasting, volume is conserved: (4/3) pi R^3 = pi r^2 h, so (4/3) x 216 = 16h, i.e. 288 = 16h and h = 18 cm. Why the others are wrong: 13.5 cm comes from dropping the 4/3 factor and solving 216 = 16h; 24 cm comes from writing the cylinder's base area as 4 x 3 = 12 instead of 4^2 = 16, giving 288/12; 36 cm comes from using 2r = 8 in place of r^2 = 16, giving 288/8."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The four walls and the ceiling of a hall 20 m long, 15 m wide and 5 m high are to be white-washed at the rate of Rs 8 per m^2. The total cost of white-washing is:",
+      "options": ["Rs 2800", "Rs 7600", "Rs 2400", "Rs 5200"],
+      "correctAnswer": "Rs 5200",
+      "explanation": "Area of four walls = 2h(l + b) = 2 x 5 x 35 = 350 m^2 and area of ceiling = lb = 300 m^2, so the area to be white-washed is 650 m^2 and the cost is 650 x 8 = Rs 5200. Why the others are wrong: Rs 2800 covers the 350 m^2 of walls only, ignoring the ceiling; Rs 7600 uses the complete surface area 2(lb + bh + hl) = 950 m^2, which wrongly includes the floor as well; Rs 2400 pays only for the 300 m^2 ceiling and omits the walls."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the radius of a right circular cylinder is doubled while its height is halved, its volume becomes twice the original volume.\nReason (R): The volume of a right circular cylinder varies directly as its radius and directly as its height.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "New volume = pi (2r)^2 (h/2) = pi x 4r^2 x h/2 = 2 pi r^2 h, which is twice the original pi r^2 h, so (A) is correct. But V = pi r^2 h varies as the SQUARE of the radius, not directly as the radius, so (R) is not correct. Hence the third option is right. The first two options are wrong because they both declare (R) correct, whereas the r^2 dependence contradicts it; indeed if volume varied directly as r, doubling r and halving h would leave the volume unchanged, not doubled. The fourth option is wrong because the computation above shows (A) is definitely correct."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "A cylindrical metal pipe is 21 cm long. Its external diameter is 10 cm and the metal is 1 cm thick. The volume of metal used in the pipe is (take pi = 22/7):",
+      "options": ["1650 cm^3", "594 cm^3", "1056 cm^3", "1254 cm^3"],
+      "correctAnswer": "594 cm^3",
+      "explanation": "External radius R = 5 cm and internal radius r = R - thickness = 4 cm, so volume of metal = pi h (R^2 - r^2) = (22/7) x 21 x (25 - 16) = 66 x 9 = 594 cm^3. Why the others are wrong: 1650 cm^3 is the whole outer cylinder pi R^2 h = 66 x 25, ignoring the hollow inside; 1056 cm^3 is the hollow (air) space pi r^2 h = 66 x 16, which is what the metal encloses rather than the metal itself; 1254 cm^3 comes from using the external DIAMETER 10 cm as R and 9 cm as r, giving 66 x (100 - 81)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "A godown stores three types of closed rectangular wooden crates whose internal measurements are recorded below:\n\nCrate P: 1.2 m x 1 m x 0.5 m\nCrate Q: 1.5 m x 0.8 m x 0.5 m\nCrate R: 2 m x 0.6 m x 0.5 m\n\nAll three crates hold the same volume. Which crate needs the least plywood for its six faces, and how much plywood does it need?",
+      "options": ["Crate Q, 4.7 m^2", "Crate R, 5.0 m^2", "Crate P, 4.6 m^2", "Crate P, 2.3 m^2"],
+      "correctAnswer": "Crate P, 4.6 m^2",
+      "explanation": "Each crate has volume lbh = 0.6 m^3, so the deciding quantity is the total surface area 2(lb + bh + hl). For P: 2(1.2 + 0.5 + 0.6) = 4.6 m^2; for Q: 2(1.2 + 0.4 + 0.75) = 4.7 m^2; for R: 2(1.2 + 0.3 + 1.0) = 5.0 m^2. So P needs the least plywood, 4.6 m^2. Why the others are wrong: 'Crate Q, 4.7 m^2' quotes a correctly computed area but for the crate that is not the smallest; 'Crate R, 5.0 m^2' names the crate that needs the MOST plywood, the elongated shape being the least economical; 'Crate P, 2.3 m^2' identifies the right crate but forgets to double (lb + bh + hl), thus counting only three of the six faces."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "A rectangular sheet of paper 44 cm long and 18 cm wide is rolled along its length to form a hollow right circular cylinder. The volume of the cylinder so formed is (take pi = 22/7):",
+      "options": ["1386 cm^3", "5544 cm^3", "792 cm^3", "2772 cm^3"],
+      "correctAnswer": "2772 cm^3",
+      "explanation": "Rolling along the length makes 44 cm the circumference, so 2 pi r = 44 gives r = 44 x 7 / 44 = 7 cm, and the height is the other side, 18 cm. Hence V = pi r^2 h = (22/7) x 49 x 18 = 2772 cm^3. Why the others are wrong: 792 cm^3 is just 44 x 18, the area of the sheet, i.e. the curved surface area and not a volume at all; 1386 cm^3 comes from inserting a spurious factor 1/2 into pi r^2 h; 5544 cm^3 comes from using 2 pi r^2 h instead of pi r^2 h, doubling the correct result."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Match the solids in Column I with their volumes in Column II (take pi = 22/7):\n\nColumn I:\n(a) Cube of edge 7 cm\n(b) Cylinder of radius 7 cm and height 3 cm\n(c) Cone of radius 7 cm and height 6 cm\n(d) Cuboid of dimensions 7 cm x 6 cm x 5 cm\n\nColumn II:\n(i) 210 cm^3\n(ii) 462 cm^3\n(iii) 343 cm^3\n(iv) 308 cm^3\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) a^3 = 343 cm^3, so (a)-(iii). (b) pi r^2 h = (22/7) x 49 x 3 = 462 cm^3, so (b)-(ii). (c) (1/3) pi r^2 h = (1/3) x 154 x 6 = 308 cm^3, so (c)-(iv). (d) lbh = 7 x 6 x 5 = 210 cm^3, so (d)-(i). The other options are wrong: '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' interchanges the cylinder and the cone, which is exactly the error of omitting the 1/3 for the cone and inserting it for the cylinder; '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)' swaps the cube and the cuboid values 343 and 210; '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' gives the cube the cone's 308 cm^3 and the cone the cube's 343 cm^3."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about a right circular cone of base radius 5 cm and vertical height 12 cm:\n\n(i) Its slant height is 13 cm.\n(ii) Its curved surface area is (1320/7) cm^2 when pi is taken as 22/7.\n(iii) Its volume is 100 pi cm^3.\n(iv) Its total surface area exceeds its curved surface area by 25 pi cm^2.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "l = sqrt(r^2 + h^2) = sqrt(25 + 144) = 13 cm, so (i) is correct. CSA = pi r l = (22/7) x 5 x 13 = 1430/7 cm^2, not 1320/7 cm^2; the value 1320/7 comes from using the height 12 cm in place of the slant height 13 cm, so (ii) is wrong. V = (1/3) pi r^2 h = (1/3) x 25 x 12 x pi = 100 pi cm^3, so (iii) is correct. TSA - CSA = pi r^2 = 25 pi cm^2, so (iv) is correct. Hence '(i), (ii) and (iii) only' and '(i), (ii) and (iv) only' are wrong because both accept the flawed CSA of statement (ii), and '(ii), (iii) and (iv) only' is wrong for accepting (ii) while rejecting the correct slant height in (i)."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "A cuboidal tank 80 cm long and 50 cm wide contains water. A solid iron cube of edge 20 cm is completely submerged in it. By how much does the water level rise?",
+      "options": ["4 cm", "2 cm", "1 cm", "2.5 cm"],
+      "correctAnswer": "2 cm",
+      "explanation": "The submerged cube displaces its own volume, 20^3 = 8000 cm^3, which spreads over the base area 80 x 50 = 4000 cm^2, so the rise = 8000/4000 = 2 cm. Why the others are wrong: 4 cm comes from dividing by only half the base area (2000 cm^2), for instance by using 80 x 25; 1 cm comes from halving the correct rise, as if only half the cube were submerged; 2.5 cm comes from a slip in the base area, using 80 x 40 = 3200 cm^2 instead of 80 x 50."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which of the following are correct statements about a solid sphere and a solid hemisphere having the same radius r?\n\n(i) The volume of the sphere is twice the volume of the hemisphere.\n(ii) The curved surface area of the sphere is twice the curved surface area of the hemisphere.\n(iii) The total surface area of the hemisphere is three-fourths of the surface area of the sphere.\n(iv) The total surface area of the hemisphere is equal to the surface area of the sphere.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Sphere volume (4/3) pi r^3 divided by hemisphere volume (2/3) pi r^3 equals 2, so (i) is correct. Sphere area 4 pi r^2 divided by hemisphere curved area 2 pi r^2 equals 2, so (ii) is correct. The hemisphere's TOTAL surface area is 3 pi r^2, and 3 pi r^2 / 4 pi r^2 = 3/4, so (iii) is correct. Consequently (iv) is wrong, since 3 pi r^2 is only three-fourths of 4 pi r^2, not equal to it. Each of the other three options is wrong precisely because it includes (iv), the error of forgetting that the hemisphere's flat face adds pi r^2 and not 2 pi r^2; two of them also discard a correct statement."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The base of a regular right pyramid is a square of side 12 cm and its vertical height is 15 cm. Its volume is:",
+      "options": ["720 cm^3", "2160 cm^3", "1080 cm^3", "540 cm^3"],
+      "correctAnswer": "720 cm^3",
+      "explanation": "Volume of a pyramid = (1/3) x base area x height = (1/3) x 12^2 x 15 = (1/3) x 144 x 15 = 720 cm^3. Why the others are wrong: 2160 cm^3 is base area x height, the volume of the prism on the same base and height, so the 1/3 factor has been dropped; 1080 cm^3 uses 1/2 instead of 1/3; 540 cm^3 uses 1/4 instead of 1/3, an error borrowed from area formulas."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "If the radius of a sphere is doubled, its volume becomes __________ times the original volume.",
+      "options": ["4", "8", "6", "2"],
+      "correctAnswer": "8",
+      "explanation": "Volume of a sphere = (4/3) pi r^3, so replacing r by 2r gives (4/3) pi (2r)^3 = 8 x (4/3) pi r^3, i.e. 8 times the original volume. Why the others are wrong: 4 is the factor by which the SURFACE AREA 4 pi r^2 grows, since (2r)^2 = 4r^2, so it answers an area question; 6 comes from multiplying 2 by the 3 in the exponent instead of cubing 2; 2 assumes the volume scales in direct proportion to the radius, which ignores the cube in r^3."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The radii of two spheres are in the ratio 2 : 3. The ratio of their surface areas and the ratio of their volumes are respectively:",
+      "options": ["4 : 9 and 4 : 9", "2 : 3 and 4 : 9", "4 : 9 and 8 : 27", "8 : 27 and 4 : 9"],
+      "correctAnswer": "4 : 9 and 8 : 27",
+      "explanation": "Surface area varies as r^2, so the area ratio is 2^2 : 3^2 = 4 : 9; volume varies as r^3, so the volume ratio is 2^3 : 3^3 = 8 : 27. Why the others are wrong: '4 : 9 and 4 : 9' uses the squared ratio for the volume as well, forgetting that volume needs the cube; '2 : 3 and 4 : 9' uses the plain radius ratio for the surface areas, forgetting the square; '8 : 27 and 4 : 9' interchanges the two results, applying the cube to areas and the square to volumes."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A right circular cone and a right circular cylinder standing on the same base and having the same height have equal volumes.\nReason (R): The volume of a right circular cone is one-third of the volume of a right circular cylinder standing on the same base and having the same height.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "For the same base radius r and the same height h, the cone has volume (1/3) pi r^2 h while the cylinder has pi r^2 h, so their volumes are in the ratio 1 : 3 and are NOT equal; (A) is therefore false, while (R) states this 1 : 3 relation correctly. Hence the fourth option is right. The first two options are wrong because they assert that (A) is correct, which the formulas contradict. The third option is wrong because (R) is a standard, correct result, so it cannot be labelled incorrect. Notice that (R) is in fact the very statement that disproves (A)."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Consider the following statements about a cube of edge 6 cm:\n\n(i) Its total surface area is 216 cm^2.\n(ii) Its volume is 216 cm^3.\n(iii) The length of its diagonal is 6 sqrt(3) cm.\n(iv) Its lateral surface area is 144 cm^2.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "TSA = 6a^2 = 6 x 36 = 216 cm^2, so (i) is correct. V = a^3 = 6^3 = 216 cm^3, so (ii) is correct (the numerical coincidence 216 occurs only for a = 6, the units still differ). Diagonal = a sqrt(3) = 6 sqrt(3) cm, so (iii) is correct. LSA = 4a^2 = 4 x 36 = 144 cm^2, so (iv) is correct. All four hold, hence every other option is wrong because it discards a true statement: '(i), (ii) and (iii) only' rejects the correct LSA 144 cm^2, '(ii), (iii) and (iv) only' rejects the correct TSA 216 cm^2, and '(i), (iii) and (iv) only' rejects the correct volume 216 cm^3."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "A heap of sand is in the form of a right circular cone of base diameter 42 m and height 5 m. Its volume is (take pi = 22/7):",
+      "options": ["6930 m^3", "9240 m^3", "2310 m^3", "1155 m^3"],
+      "correctAnswer": "2310 m^3",
+      "explanation": "Radius = 42/2 = 21 m, so V = (1/3) pi r^2 h = (1/3) x (22/7) x 441 x 5 = 2310 m^3. Why the others are wrong: 6930 m^3 is pi r^2 h, i.e. the 1/3 factor of the cone has been omitted; 9240 m^3 comes from using the diameter 42 m as the radius, giving (1/3) x (22/7) x 1764 x 5; 1155 m^3 is half the correct value, from using 1/6 in place of 1/3 or from halving the height as well as the diameter."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Match each change in Column I with its effect in Column II:\n\nColumn I:\n(a) The edge of a cube is doubled\n(b) The radius of a sphere is trebled\n(c) The height of a cylinder is doubled, radius unchanged\n(d) The radius of a cylinder is doubled, height unchanged\n\nColumn II:\n(i) Volume becomes 2 times\n(ii) Volume becomes 8 times\n(iii) Volume becomes 4 times\n(iv) Volume becomes 27 times\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "(a) (2a)^3 = 8a^3, so 8 times, giving (a)-(ii). (b) (3r)^3 = 27r^3, so 27 times, giving (b)-(iv). (c) pi r^2 (2h) = 2 pi r^2 h, so 2 times, giving (c)-(i). (d) pi (2r)^2 h = 4 pi r^2 h, so 4 times, giving (d)-(iii). The other options are wrong: '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' interchanges the cube and the sphere factors, i.e. uses 27 for a doubling and 8 for a trebling; '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps the two cylinder cases, wrongly making height changes square and radius changes linear; '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' treats the cube's volume as squaring (4 times) and the cylinder's radius change as cubing (8 times)."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "The largest possible sphere is carved out of a solid cube of edge 14 cm. The surface area of that sphere is (take pi = 22/7):",
+      "options": ["1176 cm^2", "2464 cm^2", "154 cm^2", "616 cm^2"],
+      "correctAnswer": "616 cm^2",
+      "explanation": "The largest sphere inside a cube has diameter equal to the edge, so its radius is 14/2 = 7 cm and its surface area = 4 pi r^2 = 4 x (22/7) x 49 = 616 cm^2. Why the others are wrong: 1176 cm^2 is the cube's own total surface area 6 x 14^2, not the sphere's; 2464 cm^2 uses the edge 14 cm as the radius instead of the diameter, giving 4 x (22/7) x 196; 154 cm^2 is pi r^2, the area of one great circle of the sphere, i.e. a quarter of the correct answer."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following are correct for a solid right circular cone of base radius 6 cm and slant height 10 cm?\n\n(i) Its vertical height is 8 cm.\n(ii) Its curved surface area is 60 pi cm^2.\n(iii) Its volume is 96 pi cm^3.\n(iv) Its total surface area is 120 pi cm^2.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "From l^2 = r^2 + h^2, h = sqrt(100 - 36) = 8 cm, so (i) is correct. CSA = pi r l = pi x 6 x 10 = 60 pi cm^2, so (ii) is correct. V = (1/3) pi r^2 h = (1/3) pi x 36 x 8 = 96 pi cm^3, so (iii) is correct. TSA = pi r l + pi r^2 = 60 pi + 36 pi = 96 pi cm^2, not 120 pi cm^2 (120 pi would arise from doubling the curved surface area), so (iv) is wrong. Every other option is therefore wrong because it includes (iv), and two of them additionally leave out a correct statement about the height or the volume."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "A solid metallic sphere of radius 10.5 cm is melted and recast into small solid spherical balls, each of radius 3.5 cm. The number of balls obtained is:",
+      "options": ["9", "27", "3", "81"],
+      "correctAnswer": "27",
+      "explanation": "Volume is conserved, so number = (4/3) pi R^3 / (4/3) pi r^3 = (R/r)^3 = (10.5/3.5)^3 = 3^3 = 27. Why the others are wrong: 9 is (R/r)^2, the ratio one would get by comparing surface areas instead of volumes; 3 is the plain ratio R/r of the radii, ignoring that volume grows as the cube; 81 is 3^4, i.e. one extra factor of 3 applied to the correct 27."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "A cuboidal water tank has the following internal measurements:\n\nLength = 2.5 m\nBreadth = 2 m\nHeight = 1.6 m\n\nThe tank is filled with water up to a height of 1.2 m. How much water does it contain? (1 m^3 = 1000 litres)",
+      "options": ["8000 litres", "600 litres", "4800 litres", "6000 litres"],
+      "correctAnswer": "6000 litres",
+      "explanation": "Volume of water = length x breadth x depth of water = 2.5 x 2 x 1.2 = 6 m^3 = 6 x 1000 = 6000 litres. Why the others are wrong: 8000 litres uses the full height 1.6 m and so gives the capacity of the tank, not the water actually in it; 4800 litres comes from multiplying 2.5 x 1.6 x 1.2, i.e. using the tank height in place of the breadth; 600 litres comes from converting 6 m^3 with a factor of 100 instead of 1000."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Consider the following statements about a right prism:\n\n(i) Its volume equals the product of its base area and its height.\n(ii) Its lateral surface area equals the perimeter of its base multiplied by its height.\n(iii) Its total surface area equals its lateral surface area plus twice its base area.\n(iv) Its volume equals one-third of the product of its base area and its height.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "For a right prism, V = base area x height, so (i) is correct; the lateral faces unroll into a rectangle of width equal to the base perimeter and height equal to the prism's height, so LSA = perimeter x height and (ii) is correct; the prism has two congruent parallel bases, so TSA = LSA + 2 x base area and (iii) is correct. Statement (iv) is wrong because the factor 1/3 belongs to a pyramid or cone, not a prism; statements (i) and (iv) also directly contradict each other. Hence '(i), (ii) and (iv) only', '(ii), (iii) and (iv) only' and '(i), (iii) and (iv) only' are all wrong for accepting the pyramid formula (iv), and the last two of these also drop a correct statement."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "The base of a right prism is an equilateral triangle of side 8 cm and its height is 10 cm. Its volume is (take sqrt(3) = 1.73, and give the answer correct to one decimal place):",
+      "options": ["276.8 cm^3", "138.4 cm^3", "553.6 cm^3", "92.3 cm^3"],
+      "correctAnswer": "276.8 cm^3",
+      "explanation": "Base area of an equilateral triangle = (sqrt(3)/4) a^2 = (1.73/4) x 64 = 27.68 cm^2, so V = base area x height = 27.68 x 10 = 276.8 cm^3. Why the others are wrong: 138.4 cm^3 is half the correct value, from using (sqrt(3)/8) a^2 or from halving the base area a second time; 553.6 cm^3 is twice the correct value, from using (sqrt(3)/2) a^2 for the triangle; 92.3 cm^3 is one-third of the correct value, from applying the pyramid factor 1/3 to a prism."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The total surface area of a solid hemisphere of radius r is 3 pi r^2.\nReason (R): The volume of a hemisphere of radius r is (2/3) pi r^3.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: a solid hemisphere has curved area 2 pi r^2 plus the flat circular face pi r^2, giving 3 pi r^2. (R) is also correct: the hemisphere's volume is half of (4/3) pi r^3, that is (2/3) pi r^3. But a volume formula cannot explain a surface-area formula; the explanation of (A) is the addition of the flat face to the curved part. So the second option is right. The first option is wrong because (R) does not explain (A). The third option is wrong because (R) is a valid formula, and the fourth is wrong because (A) is a valid formula."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "A sector of a circle of radius 21 cm with central angle 120 degrees is folded so that its two bounding radii coincide, forming a right circular cone. The radius of the base of that cone is (take pi = 22/7):",
+      "options": ["21 cm", "14 cm", "7 cm", "10.5 cm"],
+      "correctAnswer": "7 cm",
+      "explanation": "The arc of the sector becomes the base circumference: arc = (120/360) x 2 x (22/7) x 21 = 44 cm, so 2 pi r = 44 gives r = 44 x 7 / 44 = 7 cm. Why the others are wrong: 21 cm is the radius of the original sector, which becomes the SLANT HEIGHT of the cone, not its base radius; 14 cm is the base diameter, obtained by forgetting to halve after using pi r = 44; 10.5 cm comes from simply halving the sector radius, ignoring the arc-length condition altogether."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Match the solids in Column I with their curved (lateral) surface areas in Column II (take pi = 22/7):\n\nColumn I:\n(a) Sphere of radius 7 cm\n(b) Hemisphere of radius 7 cm\n(c) Cylinder of radius 7 cm and height 10 cm\n(d) Cone of radius 7 cm and slant height 10 cm\n\nColumn II:\n(i) 440 cm^2\n(ii) 220 cm^2\n(iii) 616 cm^2\n(iv) 308 cm^2\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "(a) 4 pi r^2 = 4 x (22/7) x 49 = 616 cm^2, so (a)-(iii). (b) 2 pi r^2 = 308 cm^2, so (b)-(iv). (c) 2 pi r h = 2 x (22/7) x 7 x 10 = 440 cm^2, so (c)-(i). (d) pi r l = (22/7) x 7 x 10 = 220 cm^2, so (d)-(ii). The other options are wrong: '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' interchanges the hemisphere and the cylinder, assigning the cylinder value 440 to the hemisphere; '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' swaps the sphere and the cylinder, i.e. uses 2 pi r h for the sphere; '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' interchanges the hemisphere and the cone, which is the error of confusing 2 pi r^2 with pi r l."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "How many cubical boxes of edge 5 cm can be packed into a closed cuboidal carton whose internal dimensions are 30 cm x 25 cm x 20 cm?",
+      "options": ["150", "120", "96", "60"],
+      "correctAnswer": "120",
+      "explanation": "Along the three edges the boxes fit exactly: 30/5 = 6, 25/5 = 5 and 20/5 = 4, so the number of boxes = 6 x 5 x 4 = 120; the same result follows from 15000/125 = 120. Why the others are wrong: 150 comes from dividing the carton's volume by 5^2 = 100 instead of the box volume 5^3 = 125; 96 comes from a division slip along the breadth, using 25/5 = 4 so that 6 x 4 x 4 = 96; 60 counts only two layers of boxes in height (6 x 5 x 2) instead of four."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Consider the following statements about a regular right pyramid whose base is a square of side 10 cm and whose vertical height is 12 cm:\n\n(i) The slant height of each lateral face is 13 cm.\n(ii) Its lateral surface area is 260 cm^2.\n(iii) Its volume is 400 cm^3.\n(iv) Its total surface area is 460 cm^2.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "The slant height of a face is l = sqrt(h^2 + (a/2)^2) = sqrt(144 + 25) = 13 cm, so (i) is correct. LSA = (1/2) x base perimeter x l = (1/2) x 40 x 13 = 260 cm^2, so (ii) is correct. V = (1/3) x base area x h = (1/3) x 100 x 12 = 400 cm^3, so (iii) is correct. TSA = LSA + base area = 260 + 100 = 360 cm^2, not 460 cm^2 (460 would need a base of 200 cm^2, i.e. counting the base twice as in a prism), so (iv) is wrong. Hence '(ii), (iii) and (iv) only', '(i), (iii) and (iv) only' and '(i), (ii) and (iv) only' are all wrong for accepting the false TSA, and the first two of these also reject a correct statement."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "A cylindrical bucket of radius 21 cm and height 32 cm is full of sand. The sand is emptied on the ground and forms a conical heap of radius 42 cm. The height of the conical heap is:",
+      "options": ["8 cm", "16 cm", "32 cm", "24 cm"],
+      "correctAnswer": "24 cm",
+      "explanation": "Volume is unchanged: pi x 21^2 x 32 = (1/3) pi x 42^2 x h, so 14112 = 588h and h = 24 cm. Why the others are wrong: 8 cm comes from omitting the 1/3 in the cone formula, giving 14112/1764; 16 cm comes from using 1/2 instead of 1/3; 32 cm simply repeats the bucket's height, assuming wrongly that a wider cone of equal volume keeps the same height."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "A solid toy is in the form of a right circular cone of height 8 cm mounted on a hemisphere, both having the same radius 6 cm. The total volume of the toy is:",
+      "options": ["432 pi cm^3", "384 pi cm^3", "240 pi cm^3", "144 pi cm^3"],
+      "correctAnswer": "240 pi cm^3",
+      "explanation": "Volume = hemisphere + cone = (2/3) pi r^3 + (1/3) pi r^2 h = (2/3) pi x 216 + (1/3) pi x 36 x 8 = 144 pi + 96 pi = 240 pi cm^3. Why the others are wrong: 432 pi cm^3 comes from omitting the 1/3 in the cone, giving 144 pi + 288 pi; 384 pi cm^3 comes from using the full sphere volume (4/3) pi r^3 = 288 pi for the hemisphere, giving 288 pi + 96 pi; 144 pi cm^3 is the hemisphere alone, leaving out the cone completely."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "Which of the following are correct about a rectangular parallelepiped of dimensions 10 cm x 8 cm x 6 cm?\n\n(i) Its volume is 480 cm^3.\n(ii) Its total surface area is 376 cm^2.\n(iii) Its diagonal is 10 sqrt(2) cm.\n(iv) Its lateral surface area is 480 cm^2.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "V = lbh = 10 x 8 x 6 = 480 cm^3, so (i) is correct. TSA = 2(lb + bh + hl) = 2(80 + 48 + 60) = 376 cm^2, so (ii) is correct. Diagonal = sqrt(100 + 64 + 36) = sqrt(200) = 10 sqrt(2) cm, so (iii) is correct. LSA = 2h(l + b) = 2 x 6 x 18 = 216 cm^2, not 480 cm^2; the figure 480 is the volume being quoted with an area unit, so (iv) is wrong. Each of the other three options is wrong because it accepts (iv), and two of them also discard a correct result for the volume or the diagonal."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "A well of internal diameter 14 m is dug 12 m deep. The volume of earth taken out of it is (take pi = 22/7):",
+      "options": ["1848 m^3", "7392 m^3", "616 m^3", "3696 m^3"],
+      "correctAnswer": "1848 m^3",
+      "explanation": "The well is a cylinder of radius 14/2 = 7 m and height 12 m, so the earth removed = pi r^2 h = (22/7) x 49 x 12 = 1848 m^3. Why the others are wrong: 7392 m^3 uses the diameter 14 m as the radius, giving (22/7) x 196 x 12, four times too much; 616 m^3 applies the cone formula (1/3) pi r^2 h, but a well of uniform width is a cylinder; 3696 m^3 is twice the correct value, from using 2 pi r^2 h."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "A right circular cylinder, a right circular cone and a hemisphere all have the same radius, and the cylinder and the cone have height equal to that radius. The ratio of their volumes, taken in the order cylinder : cone : hemisphere, is __________.",
+      "options": ["1 : 2 : 3", "3 : 2 : 1", "2 : 1 : 3", "3 : 1 : 2"],
+      "correctAnswer": "3 : 1 : 2",
+      "explanation": "With h = r, the cylinder has volume pi r^3, the cone (1/3) pi r^3 and the hemisphere (2/3) pi r^3. Multiplying all three by 3/(pi r^3) gives 3 : 1 : 2. Why the others are wrong: '1 : 2 : 3' reverses the order, making the cylinder the smallest when it is in fact the largest; '3 : 2 : 1' interchanges the cone and the hemisphere, since the hemisphere's 2/3 is twice the cone's 1/3, not half of it; '2 : 1 : 3' assigns the hemisphere's factor 2/3 to the cylinder and the cylinder's 1 to the hemisphere."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Consider the following statements about a hollow cylindrical iron pipe of outer radius 8 cm, inner radius 6 cm and length 35 cm (take pi = 22/7):\n\n(i) The volume of iron in the pipe is 3080 cm^3.\n(ii) The area of its ring-shaped cross-section is 88 cm^2.\n(iii) Its inner curved surface area is 1320 cm^2.\n(iv) The volume of iron equals the outer volume minus the inner volume.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Volume of iron = pi h (R^2 - r^2) = (22/7) x 35 x (64 - 36) = 110 x 28 = 3080 cm^3, so (i) is correct. Cross-section is a ring of area pi (R^2 - r^2) = (22/7) x 28 = 88 cm^2, so (ii) is correct. Inner curved surface area = 2 pi r h = 2 x (22/7) x 6 x 35 = 1320 cm^2, so (iii) is correct. And (iv) simply restates the principle pi R^2 h - pi r^2 h = pi h (R^2 - r^2) used in (i), so it is correct too. All four are therefore true, and each other option is wrong because it omits a true statement: '(i), (ii) and (iii) only' rejects the valid subtraction principle, '(ii), (iii) and (iv) only' rejects the correct volume 3080 cm^3, and '(i), (iii) and (iv) only' rejects the correct ring area 88 cm^2."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "A medicine capsule is in the shape of a right circular cylinder with two hemispherical ends. Its total length is 21 mm and the diameter of the cylinder is 7 mm. Its total surface area is (take pi = 22/7):",
+      "options": ["462 mm^2", "616 mm^2", "308 mm^2", "385 mm^2"],
+      "correctAnswer": "462 mm^2",
+      "explanation": "Radius = 3.5 mm, so the cylindrical part has length 21 - 2 x 3.5 = 14 mm. TSA = 2 pi r h + 2 x (2 pi r^2) = 2 x (22/7) x 3.5 x 14 + 4 x (22/7) x 12.25 = 308 + 154 = 462 mm^2. Why the others are wrong: 616 mm^2 uses the full length 21 mm as the cylinder's height, forgetting that the two hemispheres occupy 7 mm of it; 308 mm^2 is only the cylinder's curved surface, leaving out both hemispheres; 385 mm^2 counts the cylinder plus just one hemisphere (308 + 77)."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When a solid is melted and recast into a solid of a different shape, its volume stays the same although its surface area usually changes.\nReason (R): The volume of a sphere of radius r is (4/3) pi r^3.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: recasting conserves the quantity of material, hence the volume, while the boundary is reshaped so the surface area generally changes. (R) is also correct as a formula. However (R) is only the volume formula for one particular solid and says nothing about why volume is conserved during recasting, so it cannot explain (A); the second option is right. The first option is wrong because (R) offers no causal link. The third option is wrong since (4/3) pi r^3 is the standard sphere volume, and the fourth is wrong since the conservation of volume in (A) is a valid principle."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) The diagonal of a cube of edge a is a sqrt(3).\n(ii) The volume of a rectangular parallelepiped of dimensions l, b and h is lbh.\n(iii) The lateral surface area of a cube of edge a is 6a^2.\n(iv) The longest rod that can be kept in a room of dimensions l, b and h has length sqrt(l^2 + b^2 + h^2).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "For a cube the space diagonal is sqrt(a^2 + a^2 + a^2) = a sqrt(3), so (i) is correct; a rectangular parallelepiped is a cuboid whose volume is lbh, so (ii) is correct; and the longest rod lies along the space diagonal sqrt(l^2 + b^2 + h^2), so (iv) is correct. Statement (iii) is wrong: the lateral surface area of a cube counts only the four vertical faces, 4a^2, while 6a^2 is the TOTAL surface area including top and bottom. Hence '(i), (ii) and (iii) only', '(ii), (iii) and (iv) only' and '(i), (iii) and (iv) only' are all wrong because each accepts the confusion of lateral with total surface area in (iii), and the last two also drop a correct statement."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Match the solids in Column I with their volumes in Column II, each solid having radius 21 cm (take pi = 22/7):\n\nColumn I:\n(a) Sphere\n(b) Hemisphere\n(c) Cone of height 21 cm\n(d) Cylinder of height 21 cm\n\nColumn II:\n(i) 19404 cm^3\n(ii) 9702 cm^3\n(iii) 29106 cm^3\n(iv) 38808 cm^3\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "With r = 21 cm: sphere = (4/3) pi r^3 = 38808 cm^3, so (a)-(iv); hemisphere = (2/3) pi r^3 = 19404 cm^3, exactly half of it, so (b)-(i); cone = (1/3) pi r^2 h = (1/3) x 29106 = 9702 cm^3, so (c)-(ii); cylinder = pi r^2 h = 29106 cm^3, so (d)-(iii). The other options are wrong: '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' interchanges the hemisphere and the cone, giving the cone the larger value 19404; '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' swaps the sphere and the cylinder, i.e. uses pi r^2 h for the sphere; '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' makes the hemisphere bigger than the sphere and the cone bigger than the cylinder, both impossible."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Which of the following are true when a solid sphere of radius 6 cm is melted and recast into three solid spheres of radii 3 cm, 4 cm and 5 cm?\n\n(i) The total volume is conserved in the process.\n(ii) Since 3^3 + 4^3 + 5^3 = 6^3, such a recasting is possible.\n(iii) The total surface area of the three new spheres is greater than the surface area of the original sphere.\n(iv) The total surface area also remains unchanged.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Melting conserves the material, hence the volume, so (i) is correct. Checking (ii): 27 + 64 + 125 = 216 = 6^3, so the three spheres indeed use exactly the available volume and (ii) is correct. For the areas, 4 pi (3^2 + 4^2 + 5^2) = 200 pi cm^2 against 4 pi x 36 = 144 pi cm^2 for the original, so the new total area is larger and (iii) is correct. Statement (iv) is therefore wrong, since 200 pi is not equal to 144 pi: surface area is not conserved when one solid is split into several. So each of the other three options is wrong for including (iv), and two of them also reject a statement shown above to be true."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "A cylindrical road roller has the following specifications:\n\nLength of the roller = 2 m\nDiameter of the roller = 1.4 m\nNumber of complete revolutions to level a playground once = 500\n\nTaking pi = 22/7, the area of the playground levelled is:",
+      "options": ["2200 m^2", "4400 m^2", "8800 m^2", "5940 m^2"],
+      "correctAnswer": "4400 m^2",
+      "explanation": "In one revolution the roller covers its curved surface area = 2 pi r h = 2 x (22/7) x 0.7 x 2 = 8.8 m^2, so in 500 revolutions it levels 8.8 x 500 = 4400 m^2. Why the others are wrong: 2200 m^2 comes from forgetting the factor 2 and using pi r h = 4.4 m^2 per revolution; 8800 m^2 comes from using the diameter 1.4 m as the radius, doubling the area per revolution; 5940 m^2 comes from using the total surface area 2 pi r h + 2 pi r^2 = 11.88 m^2 per revolution, but the flat circular ends never touch the ground."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "subject": "D",
+  "topic": "Spot the Error",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) One of the most important\n(b) discovery of the last century\n(c) was the structure of DNA,\n(d) which changed modern biology forever.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(b)",
+      "explanation": "Rule violated: 'one of the' must be followed by a PLURAL noun, because it picks out a single member from a group. Part (b) reads 'discovery of the last century'; the correct wording is 'discoveries of the last century'. Part (a) 'One of the most important' is correct, as the superlative 'most important' legitimately qualifies the plural noun that should follow. Part (c) 'was the structure of DNA' is correct, because the grammatical subject of the sentence is the singular word 'One', so the singular verb 'was' is right. Part (d) 'which changed modern biology forever' is correct, since the relative pronoun 'which' refers to the singular antecedent 'the structure of DNA' and the past-tense verb 'changed' matches the past-tense main clause."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) Each of the candidates was asked to submit two photographs.\n(ii) The number of applicants have increased sharply this year.\n(iii) Neither the principal nor the teachers were present at the meeting.\n(iv) A number of students has qualified for the final round.\n\nWhich of the sentences given above are grammatically correct?",
+      "options": ["(i) and (iii) only", "(ii) and (iv) only", "(i), (ii) and (iii) only", "(iii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "Sentence (i) is correct: 'each of + plural noun' takes a singular verb, so 'Each of the candidates was asked' is right. Sentence (iii) is correct by the proximity rule: with 'neither … nor', the verb agrees with the nearer subject, and the nearer subject 'teachers' is plural, so 'were present' is right. Sentence (ii) is wrong: 'the number of' denotes a single total and takes a singular verb, so 'have increased' must become 'has increased'. Sentence (iv) is wrong for the opposite reason: 'a number of' means 'many' and takes a plural verb, so 'has qualified' must become 'have qualified'. Hence the options containing (ii) or (iv) are all incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Which of the following four sentences is grammatically correct?",
+      "options": ["The committee discussed about the new policy for three hours.", "The committee discussed the new policy for nearly three hours.", "The committee was discussing on the new policy this morning.", "The committee discussed over the new policy with the members."],
+      "correctAnswer": "The committee discussed the new policy for nearly three hours.",
+      "explanation": "Rule: 'discuss' is a transitive verb and takes a direct object with NO preposition after it. Hence 'The committee discussed the new policy' is correct. 'The committee discussed about the new policy' is wrong because the preposition 'about' is superfluous after 'discuss' (one discusses a matter, not discusses about it). 'The committee was discussing on the new policy' is wrong for the same reason, the preposition 'on' being redundant after 'discussing'. 'The committee discussed over the new policy' is also wrong, since 'over' cannot be inserted between 'discuss' and its object; only nouns such as 'discussion' take a preposition ('a discussion on the policy')."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'He is senior than me by two years' is grammatically incorrect and should read 'He is senior to me by two years'.\nReason (R): Comparative adjectives borrowed from Latin, such as senior, junior, superior and inferior, are followed by 'to' and not by 'than'.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The Assertion is correct: 'senior than me' is faulty and the accepted form is 'senior to me'. The Reason is also correct and it states exactly the rule that makes the Assertion true, namely that Latin comparatives (senior, junior, superior, inferior, prior, preferable) are construed with 'to'. So the first option is right. The second option is wrong because (R) is not an unrelated true statement; it is precisely the rule the Assertion depends on. The third option is wrong because (R) is a genuine and accurately stated rule of standard usage, not an error. The fourth option is wrong because (A) is definitely correct; 'senior than' is never acceptable in standard written English."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) He is one of the\n(b) most talented players\n(c) in the team, and he\n(d) plays violin very well.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(d)",
+      "explanation": "Rule violated: the definite article 'the' is used before the names of musical instruments when we speak of playing them. Part (d) reads 'plays violin very well'; the correct wording is 'plays the violin very well'. Part (a) 'He is one of the' is correct, as 'one of the' properly introduces the plural noun phrase that follows. Part (b) 'most talented players' is correct, since the superlative 'most talented' qualifies the plural noun 'players', which is what 'one of the' requires. Part (c) 'in the team, and he' is correct, because 'in the team' is the normal collocation for membership of a team and the pronoun 'he' correctly refers back to the singular subject."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are examples of redundancy (use of superfluous words)?\n\n(i) He returned back from Delhi yesterday.\n(ii) She repeated the instructions again for the class.\n(iii) My cousin brother lives in Jammu.\n(iv) She explained the problem to the students clearly.\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Item (i) is redundant: 'return' already contains the sense of coming back, so 'returned back' must be reduced to 'returned'. Item (ii) is redundant: 'repeat' already means to say something again, so 'repeated … again' must be reduced to 'repeated'. Item (iii) is redundant and un-English: 'cousin' already indicates the relationship, so 'cousin brother' must become simply 'cousin'. Item (iv) is perfectly correct and contains no redundancy: 'explained the problem to the students' uses 'explain' with the object and the correct preposition 'to', and 'clearly' is a properly formed adverb of manner. Therefore every option containing (iv) is wrong, and the option omitting (i) or (ii) is wrong because those two sentences are indeed redundant."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Which of the following four sentences contains a grammatical error?",
+      "options": ["Scarcely had she finished her speech than the crowd applauded.", "Hardly had he entered the hall when all the lights went out.", "No sooner did the bell ring than the boys rushed out of class.", "Hardly had the train stopped when the porters rushed towards it."],
+      "correctAnswer": "Scarcely had she finished her speech than the crowd applauded.",
+      "explanation": "Rule violated: 'scarcely' and 'hardly' are followed by 'when' (or 'before'), never by 'than'; only 'no sooner' is followed by 'than'. Hence 'Scarcely had she finished her speech than the crowd applauded' must read 'Scarcely had she finished her speech when the crowd applauded'. 'Hardly had he entered the hall when all the lights went out' is correct, showing the required inversion after 'hardly' and the correlative 'when'. 'No sooner did the bell ring than the boys rushed out of class' is correct, since 'no sooner' takes 'than' and the inversion 'did the bell ring' is properly formed. 'Hardly had the train stopped when the porters rushed towards it' is correct for the same reasons as the second sentence: inversion after 'hardly' plus the correlative 'when'."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Match each erroneous sentence in Column I with the category of error it illustrates in Column II:\n\nColumn I:\n(a) She is married with a doctor from Srinagar.\n(b) Each of the boys have submitted his project.\n(c) Between you and I, the plan will not work.\n(d) He returned back home after two years.\n\nColumn II:\n(i) Error of subject-verb agreement\n(ii) Error of preposition\n(iii) Redundancy\n(iv) Error of pronoun case\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "(a) is an error of preposition: one is 'married to' a person, not 'married with', so it pairs with (ii). (b) is an error of subject-verb agreement: 'each of the boys' is singular and needs 'has submitted', so it pairs with (i). (c) is an error of pronoun case: after the preposition 'between' the objective case is required, giving 'Between you and me', so it pairs with (iv). (d) is redundancy: 'returned back' repeats the idea of 'back' already present in 'return', so it pairs with (iii). The first option is wrong because it swaps (b) and (c), treating an agreement error as a case error. The third option is wrong because it labels the 'married with' preposition error as redundancy and the 'returned back' redundancy as a preposition error. The fourth option is wrong because it labels the preposition error in (a) as an agreement error and the agreement error in (b) as a preposition error."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) Rahul has been working\n(b) in this department\n(c) since the last five years,\n(d) and he has never taken a single day off.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(c)",
+      "explanation": "Rule violated: 'since' is used with a POINT of time, while 'for' is used with a PERIOD of time. Part (c) reads 'since the last five years'; the correct wording is 'for the last five years'. Part (a) 'Rahul has been working' is correct, as the present perfect continuous is exactly the tense used for an action begun in the past and still going on. Part (b) 'in this department' is correct, 'in' being the normal preposition for working inside a department or office. Part (d) 'and he has never taken a single day off' is correct: the present perfect 'has never taken' suits a period stretching up to the present, and 'a single day off' is an idiomatic and grammatical noun phrase."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) He gave me many useful informations about the course.\n(ii) The furniture in the new office was delivered yesterday.\n(iii) She bought two new luggages for her long journey.\n(iv) My father gave me some valuable advice before the interview.\n\nWhich of the sentences given above are grammatically correct?",
+      "options": ["(i) and (iii) only", "(ii) and (iv) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "Sentence (ii) is correct: 'furniture' is an uncountable noun, so it takes no plural '-s' and is followed by the singular verb 'was delivered'. Sentence (iv) is correct: 'advice' is uncountable, so 'some valuable advice' with no plural marker is right. Sentence (i) is wrong because 'information' is uncountable and has no plural form; 'many useful informations' must become 'much useful information'. Sentence (iii) is wrong because 'luggage' is likewise uncountable; 'two new luggages' must become 'two new pieces of luggage'. Therefore every option that includes (i) or (iii) among the correct sentences is wrong."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Which of the following four sentences is grammatically correct?",
+      "options": ["He is much taller than I am, though he is two years younger.", "Between you and I, the arrangement seems rather doubtful.", "The letters were written by my brother and myself yesterday.", "Neither of the two brothers have paid his share of the rent."],
+      "correctAnswer": "He is much taller than I am, though he is two years younger.",
+      "explanation": "'He is much taller than I am' is correct because 'than' here introduces a clause whose subject must be in the nominative case, and the verb 'am' makes that clause complete. 'Between you and I' is wrong: 'between' is a preposition and must be followed by the objective case, so it should be 'Between you and me'. 'written by my brother and myself' is wrong because a reflexive pronoun can be used only when the subject and object refer to the same person; the objective 'me' is required here. 'Neither of the two brothers have paid' is wrong because 'neither of' is singular and requires 'has paid'."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) Hardly I had reached the office\n(b) when the power supply\n(c) failed and the whole\n(d) building was plunged into darkness.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(a)",
+      "explanation": "Rule violated: when a negative adverb such as 'hardly', 'scarcely', 'never' or 'seldom' begins a sentence, the auxiliary must be inverted before the subject. Part (a) reads 'Hardly I had reached the office'; the correct wording is 'Hardly had I reached the office'. Part (b) 'when the power supply' is correct, as 'hardly' takes the correlative 'when' and 'the power supply' is a properly formed singular subject. Part (c) 'failed and the whole' is correct, the singular past-tense verb 'failed' agreeing with the singular subject 'the power supply'. Part (d) 'building was plunged into darkness' is correct, the passive 'was plunged' being correctly formed with the past participle and 'into darkness' being the idiomatic prepositional phrase."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Fill in the blank with the only grammatically correct option:\n\nThe young officer was congratulated __________ his brilliant performance in the examination.",
+      "options": ["for", "at", "about", "on"],
+      "correctAnswer": "on",
+      "explanation": "Rule: the verb 'congratulate' is followed by the preposition 'on' (or 'upon') before the thing achieved, giving 'was congratulated on his brilliant performance'. 'for' is wrong because 'for' is used after verbs of thanking, praising or punishing ('thanked for', 'punished for'), not after 'congratulate' in standard usage. 'at' is wrong because 'at' after verbs of feeling expresses surprise or annoyance ('astonished at'), not congratulation. 'about' is wrong because 'about' introduces a topic of speech or thought ('talked about', 'worried about') and cannot follow 'congratulate'."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'He prefers coffee than tea' is incorrect and should be written as 'He prefers coffee to tea'.\nReason (R): The verb 'prefer' must always be followed by an infinitive when two things are compared.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "The Assertion is correct: when 'prefer' compares two nouns it takes 'to', so 'prefers coffee to tea' is the right form and 'prefers coffee than tea' is faulty. The Reason is not correct: 'prefer' is not 'always followed by an infinitive'; it takes nouns or gerunds ('prefers walking to cycling'), and the infinitive appears only in the pattern 'prefer to do something rather than do something'. Hence the third option is right. The first option is wrong because it treats the false Reason as true. The second option is wrong for the same reason, since it also requires (R) to be correct. The fourth option is wrong because (A) is definitely correct, 'prefer … than' being unacceptable in standard written English."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "In the sentence below the underlined part may contain an error. Choose the option that correctly replaces the underlined part.\n\nIf I was you, I would not accept such a risky offer.\n\nUnderlined part: 'If I was you'",
+      "options": ["If I am you", "If I were you", "If I had been you", "If I was you"],
+      "correctAnswer": "If I were you",
+      "explanation": "Rule: in an unreal or imaginary condition the past subjunctive 'were' is used for all persons, so the correct form is 'If I were you, I would not accept…'. 'If I am you' is wrong because the present indicative states a real, open condition, which contradicts the impossible supposition being made. 'If I had been you' is wrong because the past perfect belongs to the third conditional, which refers to an unfulfilled past condition and would require 'I would not have accepted' in the main clause. 'If I was you' is wrong because the past indicative 'was' cannot express an imaginary condition; only the subjunctive 'were' can."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Which of the following are examples of correct subject-verb agreement?\n\n(i) The number of accidents on this road has fallen sharply.\n(ii) Every one of the players was given a new kit.\n(iii) Ten miles are a long distance to walk in this heat.\n(iv) Mathematics is my favourite subject at school.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Item (i) is correct because 'the number of' refers to a single total and takes the singular 'has fallen'. Item (ii) is correct because 'every one of' is singular and takes 'was given'. Item (iv) is correct because 'mathematics', though ending in '-s', is the name of a single subject and takes the singular verb 'is'. Item (iii) is wrong: an expression of measurement or distance is treated as a single unit, so 'Ten miles are a long distance' must become 'Ten miles is a long distance'. Every option containing (iii) is therefore incorrect, and dropping (i), (ii) or (iv) is also incorrect since each of those three follows the agreement rules exactly."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "The sentence below is divided into three parts. Identify the part that contains a grammatical error. If the sentence has no error, choose 'No error'.\n\n(a) No sooner had the chief guest arrived\n(b) than the audience stood up\n(c) and greeted him with loud applause.",
+      "options": ["(a)", "(b)", "(c)", "No error"],
+      "correctAnswer": "No error",
+      "explanation": "The sentence is entirely correct, so 'No error' is the answer. Part (a) 'No sooner had the chief guest arrived' is correct because 'no sooner' at the head of a sentence requires the inversion 'had the chief guest arrived'. Part (b) 'than the audience stood up' is correct because the correlative of 'no sooner' is 'than' (not 'when'), and the collective noun 'audience', viewed as one body, properly takes the singular past-tense verb 'stood'. Part (c) 'and greeted him with loud applause' is correct because 'greeted' is coordinated with 'stood up' under the same subject, and 'with loud applause' is the idiomatic prepositional phrase of manner. Since no part breaks a rule, options (a), (b) and (c) are all wrong."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Match each incorrect expression in Column I with its corrected form in Column II:\n\nColumn I:\n(a) He is capable to solve this problem.\n(b) She insisted to pay the bill herself.\n(c) I am looking forward to meet you soon.\n(d) He is superior than all his colleagues.\n\nColumn II:\n(i) insisted on paying the bill herself\n(ii) capable of solving this problem\n(iii) superior to all his colleagues\n(iv) looking forward to meeting you soon\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "(a) must be 'capable of solving', because the adjective 'capable' takes 'of' followed by a gerund, so it pairs with (ii). (b) must be 'insisted on paying', because 'insist' takes 'on' followed by a gerund, so it pairs with (i). (c) must be 'looking forward to meeting', because in this phrase 'to' is a preposition and is followed by a gerund, not an infinitive, so it pairs with (iv). (d) must be 'superior to', since Latin comparatives take 'to' instead of 'than', so it pairs with (iii). The first option is wrong because it swaps the corrections for (b) and (c), giving 'insisted … looking forward' the wrong gerunds. The second option is wrong because it attaches the 'insist on' correction to 'capable' and the 'capable of' correction to 'insisted'. The third option is wrong because it pairs 'capable' with 'superior to' and 'superior' with 'capable of', which are corrections of entirely different expressions."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following four sentences is grammatically correct?",
+      "options": ["He asked me where was I going in such a tearing hurry.", "She said me that she was very tired after the long journey.", "The teacher told the boys not to waste their precious time.", "He said that he will meet me at the station next Monday."],
+      "correctAnswer": "The teacher told the boys not to waste their precious time.",
+      "explanation": "'The teacher told the boys not to waste their precious time' is correct: 'tell' takes a direct personal object without a preposition, and an imperative in reported speech is expressed by 'not to + infinitive'. 'He asked me where was I going' is wrong because an indirect question keeps the normal subject-verb order, giving 'where I was going'. 'She said me that…' is wrong because 'say' cannot take a personal object directly; it must be 'She told me that…' or 'She said to me that…'. 'He said that he will meet me' is wrong because the reporting verb is in the past tense, so the reported verb must be backshifted to 'would meet'."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) He is not only a fine batsman but also a brilliant fielder.\n(ii) Although he was tired, yet he continued to work.\n(iii) She worked hard lest she should fail in the examination.\n(iv) No sooner did he see the policeman than he ran away.\n\nWhich of the sentences given above are grammatically correct?",
+      "options": ["(i), (ii) and (iii) only", "(i) and (iii) only", "(i), (iii) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Sentence (i) is correct because the correlative pair 'not only … but also' joins two parallel noun phrases, 'a fine batsman' and 'a brilliant fielder'. Sentence (iii) is correct because 'lest' is followed by 'should' and never by a negative, 'lest' already carrying the negative sense. Sentence (iv) is correct because 'no sooner' takes 'than' and is followed by the inversion 'did he see'. Sentence (ii) is wrong because 'although' is a subordinating conjunction that must not be paired with 'yet' or 'but'; the correct form is 'Although he was tired, he continued to work'. Hence the options that include (ii) as a correct sentence, and the option that omits the faultless sentence (iv), are all incorrect."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) I would rather\n(b) to stay at home\n(c) than go out\n(d) in this heavy rain.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(b)",
+      "explanation": "Rule violated: 'would rather' is followed by a BARE infinitive, that is, an infinitive without 'to'. Part (b) reads 'to stay at home'; the correct wording is 'stay at home'. Part (a) 'I would rather' is correct, as 'would rather' is the standard expression of preference. Part (c) 'than go out' is correct, because the second member of the 'would rather … than' construction also takes a bare infinitive, and 'go' is exactly that. Part (d) 'in this heavy rain' is correct, 'in' being the normal preposition used with weather conditions such as rain, snow or sunshine."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'The scenery of Kashmir are very beautiful' is grammatically correct.\nReason (R): 'Scenery' is an uncountable noun and therefore takes a singular verb.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The Assertion is false: the given sentence uses the plural verb 'are' with the uncountable noun 'scenery', so it must be corrected to 'The scenery of Kashmir is very beautiful'. The Reason is true: 'scenery', like 'furniture', 'machinery' and 'luggage', is uncountable and always takes a singular verb. Hence the fourth option is right. The first option is wrong because (A) is not correct at all. The second option is wrong for the same reason, since it also requires (A) to be true. The third option reverses the actual position, wrongly treating the faulty sentence as correct and the sound rule as incorrect."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Which of the following four sentences contains a grammatical error?",
+      "options": ["He has been living in Jammu since 2015 with his whole family.", "She had finished her homework before the guests arrived home.", "I am knowing this officer for more than fifteen years now.", "They have been waiting for the bus for more than an hour."],
+      "correctAnswer": "I am knowing this officer for more than fifteen years now.",
+      "explanation": "Rule violated: 'know' is a stative verb and is not used in the continuous form; moreover a state continuing up to the present needs the present perfect. Hence 'I am knowing this officer for more than fifteen years' must become 'I have known this officer for more than fifteen years'. 'He has been living in Jammu since 2015' is correct, the present perfect continuous with 'since' plus a point of time being exactly right. 'She had finished her homework before the guests arrived' is correct, the past perfect marking the earlier of two past actions and the simple past marking the later one. 'They have been waiting for the bus for more than an hour' is correct, with the present perfect continuous and 'for' plus a period of time."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Which of the following are grammatically faultless sentences?\n\n(i) The police have arrested three suspects in the case.\n(ii) One should always keep his promises.\n(iii) He is one of the best players in the country.\n(iv) Each student were given a separate answer sheet.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii) and (iv) only", "(i), (iii) and (iv)", "(i) and (iii) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "Sentence (i) is correct because 'police' is a plural noun of multitude and takes the plural verb 'have arrested'. Sentence (iii) is correct because 'one of the' is followed by a superlative and a plural noun, 'best players', while the main verb 'is' agrees with the singular subject 'He'. Sentence (ii) is wrong because the indefinite pronoun 'one' must be continued by 'one's', giving 'One should always keep one's promises'. Sentence (iv) is wrong because 'each student' is singular and requires 'was given'. Hence every option containing (ii) or (iv) is incorrect."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) Although the second novel\n(b) sold more copies,\n(c) the first one was more better\n(d) in style and characterisation.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(c)",
+      "explanation": "Rule violated: a comparative degree must not be doubled. Part (c) reads 'the first one was more better'; since 'better' is already the comparative of 'good', the correct wording is 'the first one was better'. Part (a) 'Although the second novel' is correct, 'although' properly introducing a subordinate clause of contrast. Part (b) 'sold more copies' is correct, because 'more' here is a comparative determiner before the plural noun 'copies', which is standard usage and not a double comparative. Part (d) 'in style and characterisation' is correct, as 'in' is the right preposition for the respect in which the comparison is made, and the two nouns are properly coordinated."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match each erroneous sentence in Column I with the category of error it illustrates in Column II:\n\nColumn I:\n(a) He is the most cleverest boy in the class.\n(b) I did not see nobody in the corridor.\n(c) She sings very sweet in the school choir.\n(d) When I reached the platform, the train already left.\n\nColumn II:\n(i) Double negative\n(ii) Error of degree of comparison\n(iii) Error of tense\n(iv) Adjective used in place of an adverb\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "(a) is an error of degree: 'cleverest' is already superlative, so 'the most cleverest' is a double superlative and must be 'the cleverest', which matches (ii). (b) is a double negative: 'did not see nobody' uses two negatives where one is required, giving 'did not see anybody', which matches (i). (c) uses an adjective for an adverb: the verb 'sings' must be modified by 'sweetly', which matches (iv). (d) is an error of tense: the earlier of two past actions needs the past perfect, giving 'the train had already left', which matches (iii). The second option is wrong because it labels the double negative as an adverb error and the adverb error as a double negative. The third option is wrong because it calls the double superlative an adverb error and the adverb error a degree error. The fourth option is wrong because it labels the double negative as a tense error and the genuine tense error as a double negative."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Which of the following four sentences is grammatically correct?",
+      "options": ["While walking along the road, a snake bit him on his leg.", "Being a very hot day, we decided to stay indoors till evening.", "Opening the window, a cold breeze entered the small room.", "Having completed the report, she submitted it to the manager."],
+      "correctAnswer": "Having completed the report, she submitted it to the manager.",
+      "explanation": "Rule: a participial phrase must refer to the subject of the main clause. 'Having completed the report, she submitted it to the manager' is correct because the person who completed the report is 'she', who is also the subject of the main clause. 'While walking along the road, a snake bit him' is wrong because the participle attaches to 'a snake', absurdly making the snake the walker; it should be 'While he was walking along the road, a snake bit him'. 'Being a very hot day, we decided…' is wrong because 'we' were not the hot day; the correct form is 'It being a very hot day, we decided…'. 'Opening the window, a cold breeze entered…' is wrong because the breeze did not open the window; it should be 'When I opened the window, a cold breeze entered…'."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) He was elected the chairman of the society last week.\n(ii) Copper is a useful metal, and it is found in Rajasthan.\n(iii) The Sun rises in the east and sets in the west.\n(iv) He returned to the home after a stay of three months.\n\nWhich of the sentences given above are grammatically correct?",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(ii) and (iii) only"],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "Sentence (ii) is correct: a material noun such as 'copper' takes no article when used in a general sense, while 'a useful metal' correctly takes the indefinite article as a classifying complement. Sentence (iii) is correct: 'the' is used before unique objects such as 'the Sun' and before the points of the compass, 'the east' and 'the west'. Sentence (i) is wrong because the article is dropped before a noun denoting a unique office when it follows verbs like elect, appoint or make, so it must read 'He was elected chairman of the society'. Sentence (iv) is wrong because 'home' after a verb of motion is used adverbially without a preposition or article, giving 'He returned home'. Hence any option that counts (i) or (iv) as correct is wrong."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "The sentence below is divided into three parts. Identify the part that contains a grammatical error. If the sentence has no error, choose 'No error'.\n\n(a) The number of candidates appearing for the examination\n(b) has increased considerably\n(c) during the last three years.",
+      "options": ["(a)", "(b)", "(c)", "No error"],
+      "correctAnswer": "No error",
+      "explanation": "The sentence is faultless, so 'No error' is the answer. Part (a) 'The number of candidates appearing for the examination' is correct: the head of the subject is the singular 'number', and 'appearing for the examination' is a correctly formed participial phrase qualifying 'candidates'. Part (b) 'has increased considerably' is correct, because 'the number of' denotes one total and therefore takes the singular verb 'has increased', while 'considerably' is a properly formed adverb modifying the verb. Part (c) 'during the last three years' is correct, since 'during' is properly used with a stretch of time, whereas the tempting error 'since the last three years' has been avoided. As no part breaks a rule, options (a), (b) and (c) are all wrong."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Fill in the blank with the only grammatically correct option:\n\nHe is not only responsible for the loss __________ also unwilling to admit his mistake.",
+      "options": ["and", "but", "yet", "or"],
+      "correctAnswer": "but",
+      "explanation": "Rule: 'not only' is completed by the correlative 'but also', so the blank must be filled by 'but', giving 'not only responsible for the loss but also unwilling to admit his mistake'. 'and' is wrong because 'and' is not the correlative of 'not only'; 'not only … and also' is not an accepted pair. 'yet' is wrong because 'yet' expresses contrast after a positive statement and cannot combine with 'also' to complete 'not only'. 'or' is wrong because 'or' offers alternatives, whereas 'not only … but also' adds a second quality to the same subject."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Which of the following four sentences contains a grammatical error?",
+      "options": ["Neither the manager nor his assistants were available then.", "Either Ravi or his brothers will attend the meeting today.", "Not only the players but also the coach was felicitated.", "Both the sisters as well as their mother were invited too."],
+      "correctAnswer": "Both the sisters as well as their mother were invited too.",
+      "explanation": "Rule violated: 'both' is completed by 'and', never by 'as well as'. Hence 'Both the sisters as well as their mother were invited' must become 'Both the sisters and their mother were invited'. 'Neither the manager nor his assistants were available' is correct, because with 'neither … nor' the verb agrees with the nearer subject, and 'assistants' is plural. 'Either Ravi or his brothers will attend' is correct for the same proximity rule, the nearer subject 'brothers' being plural. 'Not only the players but also the coach was felicitated' is correct because the nearer subject is the singular 'coach', so the singular verb 'was' is right."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Which of the following are examples of the wrong use of a preposition?\n\n(i) He was accompanied with his younger brother.\n(ii) She is different than her elder sister in temperament.\n(iii) The thief was deprived of his liberty for six years.\n(iv) He entered into the classroom without permission.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Item (i) is wrong because a person is 'accompanied by' another person; 'with' is used only for things carried along. Item (ii) is wrong because the accepted construction is 'different from'. Item (iv) is wrong because 'enter' is transitive when it means to go into a place, so 'entered into the classroom' must be 'entered the classroom'; 'enter into' is used only of agreements and discussions. Item (iii) is perfectly correct: 'deprive' takes 'of', so 'was deprived of his liberty' needs no change. Hence every option containing (iii) is incorrect, and no option omitting (i), (ii) or (iv) can be right because all three do misuse prepositions."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "The sentence below is divided into three parts. Identify the part that contains a grammatical error. If the sentence has no error, choose 'No error'.\n\n(a) The Prime Minister, along with his ministers,\n(b) were welcomed at the airport\n(c) by a large crowd of supporters.",
+      "options": ["(a)", "(b)", "(c)", "No error"],
+      "correctAnswer": "(b)",
+      "explanation": "Rule violated: a phrase introduced by 'along with', 'as well as', 'together with' or 'besides' does not change the number of the subject. Part (b) reads 'were welcomed at the airport'; since the subject is the singular 'The Prime Minister', the correct wording is 'was welcomed at the airport'. Part (a) 'The Prime Minister, along with his ministers,' is correct: the parenthetical phrase is properly enclosed in commas and 'along with' is a legitimate connective. Part (c) 'by a large crowd of supporters' is correct, 'by' being the right preposition for the agent in a passive construction. 'No error' is wrong because part (b) clearly breaks the agreement rule."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'He has been ill since three days' must be corrected to 'He has been ill for three days'.\nReason (R): The present perfect continuous tense is used for an action that began in the past and is still continuing.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "The Assertion is correct: 'three days' is a period of time, and periods take 'for', not 'since', which is reserved for a point of time. The Reason is also a correct statement in itself about the present perfect continuous. However it does not explain the Assertion, first because the correction turns on the 'since versus for' distinction rather than on the choice of tense, and secondly because 'has been ill' is present perfect, not present perfect continuous. Hence the second option is right. The first option is wrong because it claims an explanatory link that does not exist. The third option is wrong because (R) is a true statement of grammar. The fourth option is wrong because (A) is undoubtedly correct."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Which of the following four sentences is grammatically correct?",
+      "options": ["He gave me a few pieces of advice before the interview began.", "There are less students in the class this year than last year.", "All the equipments were checked before the final inspection.", "The police was informed about the theft the very next morning."],
+      "correctAnswer": "He gave me a few pieces of advice before the interview began.",
+      "explanation": "'He gave me a few pieces of advice' is correct because 'advice' is uncountable and is counted by means of the phrase 'pieces of', while 'a few' correctly qualifies the countable word 'pieces'. 'There are less students in the class' is wrong because 'less' is used with uncountable quantities and countable nouns require 'fewer', giving 'fewer students'. 'All the equipments were checked' is wrong because 'equipment' is uncountable and has no plural form; the sentence should read 'All the equipment was checked'. 'The police was informed' is wrong because 'police' takes a plural verb, so it must be 'The police were informed'."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Match each erroneous sentence in Column I with the rule it violates in Column II:\n\nColumn I:\n(a) If he would have studied, he would have passed easily.\n(b) The letter has been wrote by the manager.\n(c) He said that he is very tired after the long journey.\n(d) The children was playing in the garden all evening.\n\nColumn II:\n(i) Wrong past participle in the passive voice\n(ii) Wrong verb form in the if-clause of a conditional\n(iii) Wrong sequence of tenses in reported speech\n(iv) Plural subject followed by a singular verb\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) violates the conditional rule: 'would' never appears in the if-clause, so 'If he would have studied' must be 'If he had studied', which matches (ii). (b) violates the passive rule: the passive needs the past participle 'written', not the past tense 'wrote', which matches (i). (c) violates the sequence of tenses: after the past reporting verb 'said', the reported verb must be backshifted to 'was very tired', which matches (iii). (d) violates agreement: the plural subject 'children' needs 'were playing', which matches (iv). The first option is wrong because it treats the conditional error as a passive error and the passive error as a conditional error. The second option is wrong because it labels the passive error as a narration error and the narration error as a passive error. The fourth option is wrong because it calls the conditional error a narration error and the narration error a conditional error."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "The sentence below is divided into four parts. Identify the part that contains a grammatical error.\n\n(a) Let you and I discuss\n(b) the matter with the principal\n(c) before the meeting begins\n(d) tomorrow morning.",
+      "options": ["(a)", "(b)", "(c)", "(d)"],
+      "correctAnswer": "(a)",
+      "explanation": "Rule violated: the verb 'let' is followed by pronouns in the objective case. Part (a) reads 'Let you and I discuss'; the correct wording is 'Let you and me discuss'. Part (b) 'the matter with the principal' is correct, since 'discuss' takes the direct object 'the matter' with no preposition, and 'with the principal' correctly names the person one talks to. Part (c) 'before the meeting begins' is correct, as an adverb clause of time introduced by 'before' takes the simple present when the main clause refers to the future. Part (d) 'tomorrow morning' is correct, this being the standard adverbial expression of future time and needing no preposition."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) He had better consult a specialist without further delay.\n(ii) She used to live alone in that big house near the river.\n(iii) I am not used to be treated in this rude manner.\n(iv) He denied to have taken the money from the drawer.\n\nWhich of the sentences given above are grammatically correct?",
+      "options": ["(i) and (ii) only", "(i), (ii) and (iii) only", "(ii) and (iv) only", "(i) and (iv) only"],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "Sentence (i) is correct because 'had better' is followed by a bare infinitive, giving 'had better consult'. Sentence (ii) is correct because 'used to' expressing a past habit is followed by the plain infinitive 'live'. Sentence (iii) is wrong because in 'be used to', meaning accustomed to, the word 'to' is a preposition and must be followed by a gerund, so it should read 'I am not used to being treated in this rude manner'. Sentence (iv) is wrong because 'deny' is followed by a gerund and not an infinitive, so it should read 'He denied having taken the money'. Hence every option that counts (iii) or (iv) as correct is wrong."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "In the sentence below the underlined part contains an error. Choose the option that correctly replaces the underlined part.\n\nThe teacher asked the boy that why he had not done his homework.\n\nUnderlined part: 'that why he had not done'",
+      "options": ["that why he did not do", "why had he not done", "why he had not done", "that why he has not done"],
+      "correctAnswer": "why he had not done",
+      "explanation": "Rule: in indirect speech a question introduced by a wh-word takes no conjunction 'that', and the word order stays subject before verb. The correct form is therefore 'The teacher asked the boy why he had not done his homework'. 'that why he did not do' is wrong because it keeps the superfluous 'that' and also drops the past perfect needed for an action prior to the asking. 'why had he not done' is wrong because it retains the interrogative inversion, which is dropped in reported speech. 'that why he has not done' is wrong on two counts: the redundant 'that' remains and the present perfect fails to backshift after the past reporting verb 'asked'."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The quality of the mangoes were not up to the mark.\n(ii) He is taller than any other boy in his class.\n(iii) The cost of all the items have risen this year.\n(iv) Each of the rooms was cleaned before the guests arrived.\n\nWhich of the sentences given above contain a grammatical error?",
+      "options": ["(i), (ii) and (iii) only", "(ii) and (iv) only", "(i) and (iii) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "Sentence (i) contains an error: the head of the subject is the singular 'quality', not the plural 'mangoes', so 'were not up to the mark' must become 'was not up to the mark'. Sentence (iii) contains an error for the same reason: the subject is the singular 'cost', so 'have risen' must become 'has risen'. Sentence (ii) is correct because a comparative used within the same class requires 'any other', which is exactly what it has. Sentence (iv) is correct because 'each of the rooms' is singular and takes 'was cleaned', while the simple past 'arrived' properly follows 'before'. Hence any option that counts (ii) or (iv) as erroneous is wrong."
+    }
+  ]
+}

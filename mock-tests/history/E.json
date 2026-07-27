@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 228,
+  "count": 278,
   "questions": [
     {
       "test": 5,
@@ -1142,6 +1142,256 @@
       "test": 30,
       "stem": "consider the following statements: (i) two figures having equal areas must have",
       "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 36,
+      "stem": "the volume of a cube whose each edge measures 9 cm is:",
+      "key": "729 cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a cuboid whose length, breadth and height",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 36,
+      "stem": "the curved surface area of a right circular cylinder of radius 7",
+      "key": "660 cm^2"
+    },
+    {
+      "test": 36,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 36,
+      "stem": "the surface area of a sphere is 616 cm^2. its radius is",
+      "key": "7 cm"
+    },
+    {
+      "test": 36,
+      "stem": "match the solids in column i with the correct formula in column",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 36,
+      "stem": "a room is 12 m long, 9 m broad and 8 m",
+      "key": "17 m"
+    },
+    {
+      "test": 36,
+      "stem": "which of the following are correct for a solid right circular cylinder",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "the volume of a right circular cone of base radius 7 cm",
+      "key": "616 cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a solid hemisphere of radius 14 cm",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "a solid metallic sphere of radius 6 cm is melted and recast",
+      "key": "18 cm"
+    },
+    {
+      "test": 36,
+      "stem": "the four walls and the ceiling of a hall 20 m long,",
+      "key": "Rs 5200"
+    },
+    {
+      "test": 36,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 36,
+      "stem": "a cylindrical metal pipe is 21 cm long. its external diameter is",
+      "key": "594 cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "a godown stores three types of closed rectangular wooden crates whose internal",
+      "key": "Crate P, 4.6 m^2"
+    },
+    {
+      "test": 36,
+      "stem": "a rectangular sheet of paper 44 cm long and 18 cm wide",
+      "key": "2772 cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "match the solids in column i with their volumes in column ii",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a right circular cone of base radius",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 36,
+      "stem": "a cuboidal tank 80 cm long and 50 cm wide contains water.",
+      "key": "2 cm"
+    },
+    {
+      "test": 36,
+      "stem": "which of the following are correct statements about a solid sphere and",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "the base of a regular right pyramid is a square of side",
+      "key": "720 cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "if the radius of a sphere is doubled, its volume becomes __________",
+      "key": "8"
+    },
+    {
+      "test": 36,
+      "stem": "the radii of two spheres are in the ratio 2 : 3.",
+      "key": "4 : 9 and 8 : 27"
+    },
+    {
+      "test": 36,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a cube of edge 6 cm: (i)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 36,
+      "stem": "a heap of sand is in the form of a right circular",
+      "key": "2310 m^3"
+    },
+    {
+      "test": 36,
+      "stem": "match each change in column i with its effect in column ii:",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 36,
+      "stem": "the largest possible sphere is carved out of a solid cube of",
+      "key": "616 cm^2"
+    },
+    {
+      "test": 36,
+      "stem": "which of the following are correct for a solid right circular cone",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "a solid metallic sphere of radius 10.5 cm is melted and recast",
+      "key": "27"
+    },
+    {
+      "test": 36,
+      "stem": "a cuboidal water tank has the following internal measurements: length = 2.5",
+      "key": "6000 litres"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a right prism: (i) its volume equals",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "the base of a right prism is an equilateral triangle of side",
+      "key": "276.8 cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 36,
+      "stem": "a sector of a circle of radius 21 cm with central angle",
+      "key": "7 cm"
+    },
+    {
+      "test": 36,
+      "stem": "match the solids in column i with their curved (lateral) surface areas",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 36,
+      "stem": "how many cubical boxes of edge 5 cm can be packed into",
+      "key": "120"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a regular right pyramid whose base is",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "a cylindrical bucket of radius 21 cm and height 32 cm is",
+      "key": "24 cm"
+    },
+    {
+      "test": 36,
+      "stem": "a solid toy is in the form of a right circular cone",
+      "key": "240 pi cm^3"
+    },
+    {
+      "test": 36,
+      "stem": "which of the following are correct about a rectangular parallelepiped of dimensions",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "a well of internal diameter 14 m is dug 12 m deep.",
+      "key": "1848 m^3"
+    },
+    {
+      "test": 36,
+      "stem": "a right circular cylinder, a right circular cone and a hemisphere all",
+      "key": "3 : 1 : 2"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements about a hollow cylindrical iron pipe of outer",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 36,
+      "stem": "a medicine capsule is in the shape of a right circular cylinder",
+      "key": "462 mm^2"
+    },
+    {
+      "test": 36,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 36,
+      "stem": "consider the following statements: (i) the diagonal of a cube of edge",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 36,
+      "stem": "match the solids in column i with their volumes in column ii,",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 36,
+      "stem": "which of the following are true when a solid sphere of radius",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 36,
+      "stem": "a cylindrical road roller has the following specifications: length of the roller",
+      "key": "4400 m^2"
     }
   ]
 }

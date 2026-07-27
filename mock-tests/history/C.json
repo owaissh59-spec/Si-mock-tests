@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 218,
+  "count": 248,
   "questions": [
     {
       "test": 3,
@@ -1092,6 +1092,156 @@
       "test": 28,
       "stem": "consider the following statements: (i) the cube root of 64 is 4.",
       "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 34,
+      "stem": "find the simple interest on rs. 6,000 at 5% per annum for",
+      "key": "Rs. 1,200"
+    },
+    {
+      "test": 34,
+      "stem": "consider the following statements about a sum of rs. 4,000 lent at",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 34,
+      "stem": "the simple interest on a certain sum for 4 years at 5%",
+      "key": "Rs. 1,440"
+    },
+    {
+      "test": 34,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 34,
+      "stem": "match each investment in column i with the simple interest it earns",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 34,
+      "stem": "in what time will rs. 9,000 yield rs. 2,160 as simple interest",
+      "key": "4 years"
+    },
+    {
+      "test": 34,
+      "stem": "which of the following are correct calculations of simple interest? (i) rs.",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 34,
+      "stem": "the simple interest on a certain sum at 9% per annum for",
+      "key": "Rs. 6,000"
+    },
+    {
+      "test": 34,
+      "stem": "consider the following statements about simple interest at 10% per annum: (i)",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 34,
+      "stem": "the table below shows four fixed deposits in a bank, each earning",
+      "key": "Deposit B, Rs. 1,800"
+    },
+    {
+      "test": 34,
+      "stem": "find the simple interest on rs. 12,000 at 10% per annum for",
+      "key": "Rs. 900"
+    },
+    {
+      "test": 34,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 34,
+      "stem": "a sum of rs. 10,000 is lent in two parts, one part",
+      "key": "Rs. 6,000"
+    },
+    {
+      "test": 34,
+      "stem": "which of the following are combinations of rate and time that will",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 34,
+      "stem": "match each rate of simple interest in column i with the time",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 34,
+      "stem": "a certain sum of money lent at simple interest amounts to rs.",
+      "key": "Rs. 6,000"
+    },
+    {
+      "test": 34,
+      "stem": "consider the following statements about a sum of rs. 9,000 lent at",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 34,
+      "stem": "a sum of rs. 8,000 is lent at simple interest at 5%",
+      "key": "Rs. 4,880"
+    },
+    {
+      "test": 34,
+      "stem": "at simple interest, a sum of money becomes 8/5 of itself in",
+      "key": "10%"
+    },
+    {
+      "test": 34,
+      "stem": "a man borrows rs. 50,000 at 6% per annum simple interest and",
+      "key": "Rs. 6,000"
+    },
+    {
+      "test": 34,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 34,
+      "stem": "consider the following statements about lending rs. 10,000 for one year at",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 34,
+      "stem": "at what rate per cent per annum of simple interest will a",
+      "key": "8%"
+    },
+    {
+      "test": 34,
+      "stem": "calculate the simple interest on rs. 15,000 at 7.5% per annum for",
+      "key": "Rs. 3,000"
+    },
+    {
+      "test": 34,
+      "stem": "which of the following are sums that earn exactly rs. 1,200 as",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 34,
+      "stem": "a sum of rs. 2,200 is divided into two parts such that",
+      "key": "Rs. 1,200"
+    },
+    {
+      "test": 34,
+      "stem": "match each sum and its amount at simple interest in column i",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 34,
+      "stem": "consider the following statements: (i) for a period of one year at",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 34,
+      "stem": "a bank branch sanctioned three loans in a year, all at simple",
+      "key": "Rs. 17,600"
+    },
+    {
+      "test": 34,
+      "stem": "if a certain sum had been lent at 8% per annum instead",
+      "key": "Rs. 8,000"
     }
   ]
 }

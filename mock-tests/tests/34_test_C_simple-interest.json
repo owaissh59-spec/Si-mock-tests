@@ -1,0 +1,247 @@
+{
+  "subject": "C",
+  "topic": "Simple Interest",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "Find the simple interest on Rs. 6,000 at 5% per annum for 4 years.",
+      "options": ["Rs. 600", "Rs. 1,200", "Rs. 2,400", "Rs. 7,200"],
+      "correctAnswer": "Rs. 1,200",
+      "explanation": "SI = PRT/100 = (6000 x 5 x 4)/100 = Rs. 1,200, so Rs. 1,200 is correct. Rs. 600 is the interest for only 2 years (6000 x 5 x 2/100) and results from halving the given time. Rs. 2,400 comes from misreading the rate as 10% instead of 5% (6000 x 10 x 4/100). Rs. 7,200 is the amount A = P + SI = 6000 + 1200, but the question asks for the interest alone, not the amount."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about a sum of Rs. 4,000 lent at 5% per annum simple interest:\n\n(i) The simple interest for 3 years is Rs. 600.\n(ii) The amount received back after 3 years is Rs. 4,600.\n(iii) The interest earned in each of the 3 years is the same, namely Rs. 200.\n(iv) The simple interest for 6 months is Rs. 200.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "SI for 3 years = (4000 x 5 x 3)/100 = Rs. 600, so (i) is correct. Amount = 4000 + 600 = Rs. 4,600, so (ii) is correct. Under simple interest the interest is always computed on the original principal, so each year yields (4000 x 5)/100 = Rs. 200, making (iii) correct. For 6 months, T = 6/12 = 0.5 year and SI = (4000 x 5 x 0.5)/100 = Rs. 100, not Rs. 200, so (iv) is wrong (Rs. 200 is the interest for a full year). Hence options containing (iv) - namely '(i), (ii) and (iv) only', '(ii), (iii) and (iv) only' and '(i), (iii) and (iv) only' - are all incorrect; the last two additionally drop a genuinely correct statement, (iii) and (ii) respectively."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "The simple interest on a certain sum for 4 years at 5% per annum is Rs. 1,600. What will be the simple interest on the same sum for 3 years at 6% per annum?",
+      "options": ["Rs. 1,200", "Rs. 1,440", "Rs. 1,600", "Rs. 1,920"],
+      "correctAnswer": "Rs. 1,440",
+      "explanation": "From SI = PRT/100, P = (1600 x 100)/(5 x 4) = Rs. 8,000. New SI = (8000 x 6 x 3)/100 = Rs. 1,440, so Rs. 1,440 is correct. Rs. 1,200 comes from scaling the old interest by the time ratio only (1600 x 3/4) while forgetting the rate changed. Rs. 1,920 comes from scaling by the rate ratio only (1600 x 6/5) while forgetting the time changed. Rs. 1,600 assumes the interest is unchanged, i.e. wrongly treating the products 4 x 5 = 20 and 3 x 6 = 18 as equal."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a sum of money doubles itself in 10 years at simple interest, the rate of interest is 10% per annum.\nReason (R): At simple interest a sum doubles itself exactly when the interest earned becomes equal to the original principal.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Doubling means SI = P, so P = (P x R x 10)/100, giving R = 100/10 = 10% per annum; (A) is correct. Doubling means the amount is 2P = P + SI, hence SI = P, exactly what (R) states, so (R) is correct and it is precisely the step used to derive (A) - therefore the first option is right. 'Both correct but (R) is NOT the explanation' is wrong because (R) is the very relation from which the 10% is computed. '(A) is correct but (R) is not correct' is wrong since SI = P is the standard doubling condition. '(A) is not correct but (R) is correct' is wrong because the computed rate 100/10 does equal 10%."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "Match each investment in Column I with the simple interest it earns in Column II:\n\nColumn I:\n(a) Rs. 5,000 at 4% per annum for 3 years\n(b) Rs. 8,000 at 5% per annum for 2 years\n(c) Rs. 6,000 at 10% per annum for 2 years\n(d) Rs. 4,000 at 12% per annum for 3 years\n\nColumn II:\n(i) Rs. 800\n(ii) Rs. 1,440\n(iii) Rs. 600\n(iv) Rs. 1,200\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Using SI = PRT/100: (a) = (5000 x 4 x 3)/100 = Rs. 600 = (iii); (b) = (8000 x 5 x 2)/100 = Rs. 800 = (i); (c) = (6000 x 10 x 2)/100 = Rs. 1,200 = (iv); (d) = (4000 x 12 x 3)/100 = Rs. 1,440 = (ii). So (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii) is correct. The option '(a)-(i), (b)-(iii), ...' interchanges (a) and (b), giving Rs. 800 to a 5,000-at-4%-for-3-years deposit. The option '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' interchanges (c) and (d), assigning Rs. 1,440 to the 6,000 deposit whose interest is only Rs. 1,200. The option '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' matches every pair wrongly, e.g. it gives Rs. 1,200 to (a) whose interest is Rs. 600."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "In what time will Rs. 9,000 yield Rs. 2,160 as simple interest at 6% per annum?",
+      "options": ["4 years", "3 years", "4.5 years", "6 years"],
+      "correctAnswer": "4 years",
+      "explanation": "T = (SI x 100)/(P x R) = (2160 x 100)/(9000 x 6) = 216000/54000 = 4 years, so 4 years is correct (check: 9000 x 6 x 4/100 = Rs. 2,160). 3 years is obtained by using a rate of 8% instead of the given 6%. 6 years is obtained by using a rate of 4% instead of 6%, i.e. halving the given rate. 4.5 years is obtained by misreading the principal as Rs. 8,000 instead of Rs. 9,000, since (2160 x 100)/(8000 x 6) = 4.5."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Which of the following are correct calculations of simple interest?\n\n(i) Rs. 2,000 at 5% per annum for 2 years gives Rs. 200.\n(ii) Rs. 3,000 at 4% per annum for 5 years gives Rs. 600.\n(iii) Rs. 1,500 at 8% per annum for 2 years gives Rs. 240.\n(iv) Rs. 5,000 at 6% per annum for 3 years gives Rs. 1,000.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) (2000 x 5 x 2)/100 = Rs. 200, correct. (ii) (3000 x 4 x 5)/100 = Rs. 600, correct. (iii) (1500 x 8 x 2)/100 = Rs. 240, correct. (iv) (5000 x 6 x 3)/100 = Rs. 900, not Rs. 1,000, so (iv) is wrong - Rs. 1,000 would need a rate of about 6.67% or a 10% rate for 2 years. Therefore every option containing (iv), namely '(i), (ii) and (iv) only', '(ii), (iii) and (iv) only' and '(i), (iii) and (iv) only', is incorrect; the first two also wrongly exclude a valid item, (iii) and (i) respectively."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "The simple interest on a certain sum at 9% per annum for 5 years is Rs. 2,700. Find the sum.",
+      "options": ["Rs. 5,400", "Rs. 6,000", "Rs. 6,750", "Rs. 7,500"],
+      "correctAnswer": "Rs. 6,000",
+      "explanation": "P = (SI x 100)/(R x T) = (2700 x 100)/(9 x 5) = 270000/45 = Rs. 6,000, so Rs. 6,000 is correct. Rs. 5,400 results from using a 10% rate instead of 9% (2700 x 100)/(10 x 5). Rs. 6,750 results from using 8% instead of 9% (2700 x 100)/(8 x 5). Rs. 7,500 results from taking the time as 4 years instead of 5 (2700 x 100)/(9 x 4). Only Rs. 6,000 reproduces the given interest, since (6000 x 9 x 5)/100 = Rs. 2,700."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "Consider the following statements about simple interest at 10% per annum:\n\n(i) A sum of money doubles itself in 10 years.\n(ii) A sum of money becomes three times itself in 15 years.\n(iii) A sum of money becomes 2.5 times itself in 15 years.\n(iv) The time taken by a sum to double itself depends on the size of the sum.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii) and (iv) only", "(i) and (iii) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) Doubling needs SI = P, so T = 100/10 = 10 years, correct. (ii) Becoming three times needs SI = 2P, so T = 200/10 = 20 years, not 15, so (ii) is wrong. (iii) Becoming 2.5 times needs SI = 1.5P, so T = 150/10 = 15 years, correct. (iv) In T = 100/R the principal cancels out, so the time is independent of the sum and (iv) is wrong. Hence '(i) and (iii) only' is right; '(i), (ii) and (iii) only' wrongly admits the 15-year tripling; '(ii) and (iv) only' contains two false statements and omits both true ones; '(i), (iii) and (iv) only' spoils a correct pair by adding the false claim that the doubling time depends on the principal."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "The table below shows four fixed deposits in a bank, each earning simple interest:\n\nDeposit | Principal | Rate per annum | Time\n(A) | Rs. 8,000 | 10% | 2 years\n(B) | Rs. 12,000 | 5% | 3 years\n(C) | Rs. 15,000 | 4% | 2 years\n(D) | Rs. 6,000 | 12% | 2 years\n\nWhich deposit earns the highest simple interest, and how much is it?",
+      "options": ["Deposit A, Rs. 1,600", "Deposit B, Rs. 1,800", "Deposit C, Rs. 1,200", "Deposit D, Rs. 1,440"],
+      "correctAnswer": "Deposit B, Rs. 1,800",
+      "explanation": "Computing SI = PRT/100 for each: A = (8000 x 10 x 2)/100 = Rs. 1,600; B = (12000 x 5 x 3)/100 = Rs. 1,800; C = (15000 x 4 x 2)/100 = Rs. 1,200; D = (6000 x 12 x 2)/100 = Rs. 1,440. The largest is Rs. 1,800, earned by Deposit B, so that option is correct. 'Deposit A, Rs. 1,600' is chosen by those who pick the highest rate-principal pair without multiplying by time (B runs for 3 years, A only 2). 'Deposit C, Rs. 1,200' is picked by looking only at the largest principal, ignoring its low 4% rate. 'Deposit D, Rs. 1,440' is picked by looking only at the highest rate of 12%, ignoring its small principal. Both stated amounts in the wrong options are themselves correct interests, but neither is the maximum."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Find the simple interest on Rs. 12,000 at 10% per annum for 9 months.",
+      "options": ["Rs. 800", "Rs. 900", "Rs. 1,080", "Rs. 1,200"],
+      "correctAnswer": "Rs. 900",
+      "explanation": "Time must be in years: 9 months = 9/12 = 0.75 year. SI = (12000 x 10 x 0.75)/100 = Rs. 900, so Rs. 900 is correct. Rs. 1,200 is the interest for a full year and results from ignoring the conversion of months altogether. Rs. 1,080 results from wrongly writing 9 months as 9/10 = 0.9 year instead of 9/12. Rs. 800 results from computing the interest for 8 months (12000 x 10 x 8/12)/100, an off-by-one slip in the month count."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The simple interest on Rs. 5,000 at 8% per annum for 6 months is Rs. 400.\nReason (R): In the formula SI = PRT/100 the time T must be expressed in years when the rate is given per annum.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "For 6 months, T = 6/12 = 0.5 year, so SI = (5000 x 8 x 0.5)/100 = Rs. 200. The figure Rs. 400 in (A) is what one gets by taking T = 1 year, i.e. by ignoring the very conversion (R) insists on; hence (A) is not correct while (R) is a correct statement of the formula's requirement - the fourth option. 'Both correct and (R) explains (A)' and 'Both correct but (R) is not the explanation' both fail because the value Rs. 400 is arithmetically wrong. '(A) is correct but (R) is not correct' fails on both counts: Rs. 400 is wrong and the rule that T be in years is a genuine requirement of the per annum rate."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "A sum of Rs. 10,000 is lent in two parts, one part at 6% per annum and the other at 8% per annum, both at simple interest. If the total interest received in one year is Rs. 720, the part lent at 8% per annum is:",
+      "options": ["Rs. 4,000", "Rs. 5,000", "Rs. 6,000", "Rs. 7,200"],
+      "correctAnswer": "Rs. 6,000",
+      "explanation": "Let the part at 8% be x, so the part at 6% is (10000 - x). Then 8x/100 + 6(10000 - x)/100 = 720, i.e. 600 + 0.02x = 720, giving x = Rs. 6,000. Check: 6000 at 8% gives Rs. 480 and 4000 at 6% gives Rs. 240, totalling Rs. 720. Rs. 4,000 is the other part, the one lent at 6%, so it answers the wrong half of the question. Rs. 5,000 assumes an equal split, which would yield only 300 + 400 = Rs. 700. Rs. 7,200 is obtained by treating the interest figure 720 as if it were 7.2% of a principal, mixing up interest with principal."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Which of the following are combinations of rate and time that will make a sum of money exactly double itself at simple interest?\n\n(i) 5% per annum for 25 years\n(ii) 8% per annum for 12.5 years\n(iii) 10% per annum for 10 years\n(iv) 4% per annum for 25 years\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "(i), (ii), (iii) and (iv)", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "A sum doubles when R x T = 100. (ii) 8 x 12.5 = 100, correct. (iii) 10 x 10 = 100, correct. (iv) 4 x 25 = 100, correct. (i) 5 x 25 = 125, so the sum becomes 2.25 times itself, not double - at 5% doubling needs 20 years. Hence '(ii), (iii) and (iv) only' is right. '(i), (ii) and (iii) only' wrongly admits (i) and drops the valid 4%-for-25-years case. '(i), (iii) and (iv) only' wrongly admits (i) and drops the valid 8%-for-12.5-years case. '(i), (ii), (iii) and (iv)' assumes every listed pair doubles the sum, which fails for (i) since its rate-time product is 125, not 100."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "Match each rate of simple interest in Column I with the time in which a sum of money doubles itself at that rate, given in Column II:\n\nColumn I:\n(a) 4% per annum\n(b) 5% per annum\n(c) 8% per annum\n(d) 10% per annum\n\nColumn II:\n(i) 12.5 years\n(ii) 25 years\n(iii) 10 years\n(iv) 20 years\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "For doubling, T = 100/R. (a) 100/4 = 25 years = (ii); (b) 100/5 = 20 years = (iv); (c) 100/8 = 12.5 years = (i); (d) 100/10 = 10 years = (iii). So (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii) is correct. The option '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' interchanges 5% and 8%, giving 12.5 years to 5% though 5 x 12.5 = 62.5, not 100. The option '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' interchanges 4% and 5%, giving 25 years to 5% (which would make the sum 2.25 times itself). The option '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' interchanges 8% and 10%, giving 12.5 years to 10% though 10 x 12.5 = 125, not 100."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "A certain sum of money lent at simple interest amounts to Rs. 6,720 in 3 years and to Rs. 7,200 in 5 years. The sum is:",
+      "options": ["Rs. 5,760", "Rs. 6,000", "Rs. 6,240", "Rs. 6,480"],
+      "correctAnswer": "Rs. 6,000",
+      "explanation": "The extra 2 years add 7200 - 6720 = Rs. 480 of interest, so the interest for 1 year is Rs. 240. Then P = 6720 - 3 x 240 = 6720 - 720 = Rs. 6,000 (and the rate is 240 x 100/6000 = 4% per annum, which checks out: 6000 + 5 x 240 = Rs. 7,200). Rs. 6,480 comes from subtracting only one year's interest from Rs. 6,720. Rs. 6,240 comes from subtracting two years' interest instead of three. Rs. 5,760 comes from subtracting four years' interest, i.e. using the 5-year figure's time with the 3-year amount."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "Consider the following statements about a sum of Rs. 9,000 lent at 8% per annum simple interest:\n\n(i) The interest for 9 months is Rs. 540.\n(ii) The interest for 146 days, taking a year as 365 days, is Rs. 288.\n(iii) The amount payable at the end of 5 years is Rs. 12,000.\n(iv) The interest for 2 years 6 months is Rs. 1,800.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Interest for one year = (9000 x 8)/100 = Rs. 720. (i) 9 months = 9/12 year, so interest = 720 x 0.75 = Rs. 540, correct. (ii) 146 days = 146/365 = 0.4 year, so interest = 720 x 0.4 = Rs. 288, correct. (iii) Interest for 5 years = 720 x 5 = Rs. 3,600, so the amount is 9000 + 3600 = Rs. 12,600, not Rs. 12,000, hence (iii) is wrong. (iv) 2 years 6 months = 2.5 years, so interest = 720 x 2.5 = Rs. 1,800, correct. Therefore '(i), (ii) and (iv) only' is right. '(i), (ii) and (iii) only' accepts the understated amount of (iii) and rejects the valid Rs. 1,800. '(ii), (iii) and (iv) only' accepts (iii) and rejects the valid 9-month figure. '(i) and (iv) only' needlessly rejects (ii), although 146/365 = 0.4 year gives exactly Rs. 288."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "A sum of Rs. 8,000 is lent at simple interest at 5% per annum for the first 3 years, at 8% per annum for the next 2 years and at 10% per annum for the period beyond 5 years. What is the total interest earned at the end of 8 years?",
+      "options": ["Rs. 4,080", "Rs. 6,400", "Rs. 4,880", "Rs. 5,120"],
+      "correctAnswer": "Rs. 4,880",
+      "explanation": "Interest = 8000 x [(5 x 3) + (8 x 2) + (10 x 3)]/100 = 8000 x (15 + 16 + 30)/100 = 8000 x 61/100 = Rs. 4,880, since 8 - 5 = 3 years fall in the 10% slab. Rs. 4,080 uses only 2 years in the last slab (15 + 16 + 20 = 51), i.e. it miscounts the period beyond 5 years. Rs. 6,400 applies 10% to all 8 years (8000 x 8 x 10/100), ignoring the two lower slabs. Rs. 5,120 comes from interchanging the first two rates, using 8% for 3 years and 5% for 2 years (24 + 10 + 30 = 64)."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "At simple interest, a sum of money becomes 8/5 of itself in 6 years. The rate of interest per annum is __________.",
+      "options": ["6.25%", "10%", "12%", "16.67%"],
+      "correctAnswer": "10%",
+      "explanation": "If the amount is 8P/5, the interest earned is 8P/5 - P = 3P/5. From SI = PRT/100, 3P/5 = (P x R x 6)/100, so R = (3/5) x 100/6 = 60/6 = 10% per annum. Check: at 10% for 6 years the interest is 0.6P, making the amount 1.6P = 8P/5. The value 6.25% comes from taking the gain as a fraction of the final amount (3/8) instead of the principal: (3/8) x 100/6. The value 12% comes from dividing by 5 years instead of 6, i.e. reading the denominator of 8/5 as the time. The value 16.67% is the rate at which a sum would double in 6 years (100/6), which is a bigger increase than 8/5 of itself."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "A man borrows Rs. 50,000 at 6% per annum simple interest and at once lends the whole of it to another person at 9% per annum simple interest. His total gain at the end of 4 years is:",
+      "options": ["Rs. 4,500", "Rs. 7,500", "Rs. 12,000", "Rs. 6,000"],
+      "correctAnswer": "Rs. 6,000",
+      "explanation": "His gain comes from the 9% - 6% = 3% spread: gain = (50000 x 3 x 4)/100 = Rs. 6,000 (he receives 50000 x 9 x 4/100 = Rs. 18,000 and pays 50000 x 6 x 4/100 = Rs. 12,000). Rs. 4,500 is the gain for only 3 years (50000 x 3 x 3/100). Rs. 7,500 is the gain for 5 years, an over-count of the period. Rs. 12,000 is the interest he himself pays on the borrowing, not his net gain."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): At 12.5% per annum simple interest a sum of money becomes three times itself in 16 years.\nReason (R): A sum becomes three times itself at simple interest when the interest earned equals three times the principal.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Becoming three times means the amount is 3P = P + SI, so SI = 2P and T = 200/R = 200/12.5 = 16 years; (A) is therefore correct. (R) states the interest must equal 3P, which is wrong - interest of 3P would make the amount 4P - so the third option is right. 'Both correct and (R) explains (A)' and 'Both correct but (R) is not the explanation' both fail because (R) itself is false. '(A) is not correct but (R) is correct' fails because 200/12.5 does equal 16 years, so (A) stands while (R) does not."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "Consider the following statements about lending Rs. 10,000 for one year at simple interest:\n\n(i) If half the sum is lent at 6% per annum and the other half at 9% per annum, the total interest is Rs. 700.\n(ii) If the whole sum is lent at 7.5% per annum, the interest is Rs. 750.\n(iii) If Rs. 4,000 is lent at 6% per annum and Rs. 6,000 at 9% per annum, the total interest is Rs. 780.\n(iv) If Rs. 6,000 is lent at 6% per annum and Rs. 4,000 at 9% per annum, the total interest is Rs. 720.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "(i), (ii), (iii) and (iv)", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(i) 5000 at 6% gives Rs. 300 and 5000 at 9% gives Rs. 450, a total of Rs. 750, not Rs. 700, so (i) is wrong. (ii) (10000 x 7.5 x 1)/100 = Rs. 750, correct - and equal to the half-and-half case because 7.5% is the average of 6% and 9% when the parts are equal. (iii) 4000 at 6% = Rs. 240 plus 6000 at 9% = Rs. 540, total Rs. 780, correct. (iv) 6000 at 6% = Rs. 360 plus 4000 at 9% = Rs. 360, total Rs. 720, correct. Hence '(ii), (iii) and (iv) only' is right. '(i), (ii) and (iii) only' accepts the understated Rs. 700 and rejects the valid Rs. 720 split. '(i), (iii) and (iv) only' accepts (i) and rejects the correct 7.5% single-rate figure. '(i), (ii), (iii) and (iv)' treats all four as correct, but the half-and-half split yields Rs. 750, not the Rs. 700 claimed in (i)."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "At what rate per cent per annum of simple interest will a sum of money become three times itself in 25 years?",
+      "options": ["8%", "4%", "10%", "12%"],
+      "correctAnswer": "8%",
+      "explanation": "Becoming three times means SI = 3P - P = 2P, so 2P = (P x R x 25)/100, giving R = 200/25 = 8% per annum, hence 8% is correct. 4% is the rate at which the sum would merely double in 25 years (100/25), i.e. it uses SI = P instead of SI = 2P. 12% comes from wrongly taking SI = 3P (300/25). 10% is too high for this period: at 10% the sum would triple in 200/10 = 20 years, not 25."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Calculate the simple interest on Rs. 15,000 at 7.5% per annum for 2 years 8 months.",
+      "options": ["Rs. 2,250", "Rs. 3,150", "Rs. 3,000", "Rs. 3,375"],
+      "correctAnswer": "Rs. 3,000",
+      "explanation": "Interest for one year = (15000 x 7.5)/100 = Rs. 1,125. Time = 2 years 8 months = 2 + 8/12 = 8/3 years, so SI = 1125 x 8/3 = Rs. 3,000. Rs. 2,250 is the interest for 2 years only, dropping the 8 months. Rs. 3,375 is the interest for a full 3 years, rounding the period up. Rs. 3,150 comes from writing 8 months as 0.8 year instead of 8/12, giving 1125 x 2.8."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Which of the following are sums that earn exactly Rs. 1,200 as simple interest?\n\n(i) Rs. 4,000 at 10% per annum for 3 years\n(ii) Rs. 6,000 at 5% per annum for 4 years\n(iii) Rs. 8,000 at 6% per annum for 2 years\n(iv) Rs. 10,000 at 4% per annum for 3 years\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(ii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) (4000 x 10 x 3)/100 = Rs. 1,200, qualifies. (ii) (6000 x 5 x 4)/100 = Rs. 1,200, qualifies. (iii) (8000 x 6 x 2)/100 = Rs. 960, which falls short of Rs. 1,200, so (iii) does not qualify - it would need 2.5 years. (iv) (10000 x 4 x 3)/100 = Rs. 1,200, qualifies. Hence '(i), (ii) and (iv) only' is right. '(i), (ii) and (iii) only' wrongly counts the Rs. 960 case and omits the 10,000-at-4% case. '(ii), (iii) and (iv) only' wrongly counts Rs. 960 and omits the 4,000-at-10% case. '(ii) and (iv) only' needlessly rejects (i), though 4000 x 10 x 3/100 is exactly Rs. 1,200."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "A sum of Rs. 2,200 is divided into two parts such that the simple interest on the first part at 5% per annum for 4 years is equal to the simple interest on the second part at 8% per annum for 3 years. The first part is:",
+      "options": ["Rs. 1,200", "Rs. 1,000", "Rs. 1,100", "Rs. 1,320"],
+      "correctAnswer": "Rs. 1,200",
+      "explanation": "Let the parts be x and (2200 - x). Then (x x 5 x 4)/100 = ((2200 - x) x 8 x 3)/100, i.e. 20x = 24(2200 - x), so 44x = 52800 and x = Rs. 1,200. Check: 1200 at 5% for 4 years gives Rs. 240 and 1000 at 8% for 3 years also gives Rs. 240. Rs. 1,000 is the second part, so it answers for the wrong portion. Rs. 1,100 assumes an equal division, which would give unequal interests of Rs. 220 and Rs. 264. Rs. 1,320 comes from splitting in the ratio 6 : 4 instead of the correct 24 : 20 = 6 : 5."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Match each sum and its amount at simple interest in Column I with the rate per annum in Column II:\n\nColumn I:\n(a) Rs. 2,000 amounts to Rs. 2,400 in 4 years\n(b) Rs. 5,000 amounts to Rs. 6,500 in 5 years\n(c) Rs. 4,000 amounts to Rs. 4,800 in 2 years\n(d) Rs. 6,000 amounts to Rs. 7,440 in 3 years\n\nColumn II:\n(i) 8%\n(ii) 10%\n(iii) 5%\n(iv) 6%\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Using R = (SI x 100)/(P x T): (a) SI = 400, R = 400 x 100/(2000 x 4) = 5% = (iii); (b) SI = 1500, R = 1500 x 100/(5000 x 5) = 6% = (iv); (c) SI = 800, R = 800 x 100/(4000 x 2) = 10% = (ii); (d) SI = 1440, R = 1440 x 100/(6000 x 3) = 8% = (i). So (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i) is correct. The option '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' interchanges (b) and (c), giving 10% to a deposit that grew by only 30% over 5 years. The option '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' interchanges (a) and (c), giving 10% to a sum that gained just 20% in 4 years. The option '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' interchanges the rates of (a) and (b), i.e. 6% and 5%."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) For a period of one year at the same rate, the simple interest and the compound interest (compounded annually) on a given sum are equal.\n(ii) For a period of two years at the same rate, the compound interest exceeds the simple interest by the interest on the first year's interest.\n(iii) If the simple interest on a sum for 2 years at 10% per annum is Rs. 800, the sum is Rs. 4,000.\n(iv) For a period of two years at the same rate, the simple interest on a sum is always greater than the compound interest.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) In the first year there is no accumulated interest to compound, so both give PR/100, correct. (ii) The excess for 2 years is exactly the interest earned on the first year's interest, correct. (iii) P = (800 x 100)/(10 x 2) = Rs. 4,000, correct, and this checks out since (4000 x 10 x 2)/100 = Rs. 800. (iv) is wrong: for 2 years the compound interest is greater, never smaller, because interest is charged on interest as well. Hence '(i), (ii) and (iii) only' is right, while '(i), (ii) and (iv) only', '(ii), (iii) and (iv) only' and '(i), (iii) and (iv) only' all include the reversed inequality of (iv) and each drops one true statement."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "A bank branch sanctioned three loans in a year, all at simple interest:\n\nLoan | Principal | Rate per annum | Term\nL1 | Rs. 40,000 | 7% | 2 years\nL2 | Rs. 25,000 | 8% | 3 years\nL3 | Rs. 30,000 | 5% | 4 years\n\nWhat is the total interest the branch will collect on the three loans over their full terms?",
+      "options": ["Rs. 17,600", "Rs. 16,100", "Rs. 18,400", "Rs. 19,100"],
+      "correctAnswer": "Rs. 17,600",
+      "explanation": "L1 = (40000 x 7 x 2)/100 = Rs. 5,600; L2 = (25000 x 8 x 3)/100 = Rs. 6,000; L3 = (30000 x 5 x 4)/100 = Rs. 6,000. Total = 5600 + 6000 + 6000 = Rs. 17,600, so that option is correct. Rs. 16,100 comes from using 6% instead of 8% on L2 (Rs. 4,500 in place of Rs. 6,000). Rs. 18,400 comes from interchanging the terms of L1 and L2, i.e. 3 years for L1 and 2 years for L2 (8400 + 4000 + 6000). Rs. 19,100 comes from taking L3 over 5 years instead of 4 (Rs. 7,500 in place of Rs. 6,000)."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "If a certain sum had been lent at 8% per annum instead of 5% per annum simple interest, it would have fetched Rs. 720 more interest in 3 years. The sum is:",
+      "options": ["Rs. 6,000", "Rs. 8,000", "Rs. 12,000", "Rs. 24,000"],
+      "correctAnswer": "Rs. 8,000",
+      "explanation": "The extra interest arises from a rate difference of 8% - 5% = 3% over 3 years, i.e. 9% of the sum: (P x 3 x 3)/100 = 720, so P = 72000/9 = Rs. 8,000. Check: 8000 at 8% for 3 years gives Rs. 1,920 while at 5% it gives Rs. 1,200, a difference of Rs. 720. Rs. 24,000 comes from ignoring the 3-year period altogether (720 x 100/3). Rs. 12,000 comes from taking the rate difference as 2% instead of 3% (720 x 100/(2 x 3)). Rs. 6,000 comes from taking the rate difference as 4% (720 x 100/(4 x 3))."
+    }
+  ]
+}

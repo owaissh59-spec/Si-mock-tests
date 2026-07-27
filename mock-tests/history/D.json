@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 177,
+  "count": 217,
   "questions": [
     {
       "test": 4,
@@ -887,6 +887,206 @@
       "test": 29,
       "stem": "which of the following idioms relates to keeping a secret? (i) keep",
       "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(b)"
+    },
+    {
+      "test": 35,
+      "stem": "consider the following statements: (i) each of the candidates was asked to",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences is grammatically correct?",
+      "key": "The committee discussed the new policy for nearly three hours."
+    },
+    {
+      "test": 35,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(d)"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following are examples of redundancy (use of superfluous words)?",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences contains a grammatical error?",
+      "key": "Scarcely had she finished her speech than the crowd applauded."
+    },
+    {
+      "test": 35,
+      "stem": "match each erroneous sentence in column i with the category of error",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(c)"
+    },
+    {
+      "test": 35,
+      "stem": "consider the following statements: (i) he gave me many useful informations about",
+      "key": "(ii) and (iv) only"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences is grammatically correct?",
+      "key": "He is much taller than I am, though he is two years younger."
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(a)"
+    },
+    {
+      "test": 35,
+      "stem": "fill in the blank with the only grammatically correct option: the young",
+      "key": "on"
+    },
+    {
+      "test": 35,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 35,
+      "stem": "in the sentence below the underlined part may contain an error. choose",
+      "key": "If I were you"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following are examples of correct subject-verb agreement? (i) the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into three parts. identify the part that",
+      "key": "No error"
+    },
+    {
+      "test": 35,
+      "stem": "match each incorrect expression in column i with its corrected form in",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences is grammatically correct?",
+      "key": "The teacher told the boys not to waste their precious time."
+    },
+    {
+      "test": 35,
+      "stem": "consider the following statements: (i) he is not only a fine batsman",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(b)"
+    },
+    {
+      "test": 35,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences contains a grammatical error?",
+      "key": "I am knowing this officer for more than fifteen years now."
+    },
+    {
+      "test": 35,
+      "stem": "which of the following are grammatically faultless sentences? (i) the police have",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(c)"
+    },
+    {
+      "test": 35,
+      "stem": "match each erroneous sentence in column i with the category of error",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences is grammatically correct?",
+      "key": "Having completed the report, she submitted it to the manager."
+    },
+    {
+      "test": 35,
+      "stem": "consider the following statements: (i) he was elected the chairman of the",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into three parts. identify the part that",
+      "key": "No error"
+    },
+    {
+      "test": 35,
+      "stem": "fill in the blank with the only grammatically correct option: he is",
+      "key": "but"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences contains a grammatical error?",
+      "key": "Both the sisters as well as their mother were invited too."
+    },
+    {
+      "test": 35,
+      "stem": "which of the following are examples of the wrong use of a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into three parts. identify the part that",
+      "key": "(b)"
+    },
+    {
+      "test": 35,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 35,
+      "stem": "which of the following four sentences is grammatically correct?",
+      "key": "He gave me a few pieces of advice before the interview began."
+    },
+    {
+      "test": 35,
+      "stem": "match each erroneous sentence in column i with the rule it violates",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 35,
+      "stem": "the sentence below is divided into four parts. identify the part that",
+      "key": "(a)"
+    },
+    {
+      "test": 35,
+      "stem": "consider the following statements: (i) he had better consult a specialist without",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 35,
+      "stem": "in the sentence below the underlined part contains an error. choose the",
+      "key": "why he had not done"
+    },
+    {
+      "test": 35,
+      "stem": "consider the following statements: (i) the quality of the mangoes were not",
+      "key": "(i) and (iii) only"
     }
   ]
 }

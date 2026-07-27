@@ -105,9 +105,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 34 | Morning | C — Quantitative Aptitude | Simple Interest | 30 | foundation | Topic-wise | ⬜ |
-| 35 | Afternoon | D — English Comprehension | Spot the Error | 40 | foundation | Topic-wise | ⬜ |
-| 36 | Late | E — Mathematical Abilities | Mensuration: 3D Solids | 50 | foundation | Topic-wise | ⬜ |
+| 34 | Morning | C — Quantitative Aptitude | Simple Interest | 30 | foundation | Topic-wise | ✅ |
+| 35 | Afternoon | D — English Comprehension | Spot the Error | 40 | foundation | Topic-wise | ✅ |
+| 36 | Late | E — Mathematical Abilities | Mensuration: 3D Solids | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 13
 
