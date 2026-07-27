@@ -137,9 +137,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 46 | Morning | B — General Awareness | Indian Polity & Constitution | 30 | foundation | Topic-wise | ⬜ |
-| 47 | Afternoon | C — Quantitative Aptitude | Profit, Loss & Discount | 40 | foundation | Topic-wise | ⬜ |
-| 48 | Late | D — English Comprehension | Fill in the Blanks | 50 | foundation | Topic-wise | ⬜ |
+| 46 | Morning | B — General Awareness | Indian Polity & Constitution | 30 | foundation | Topic-wise | ✅ |
+| 47 | Afternoon | C — Quantitative Aptitude | Profit, Loss & Discount | 40 | foundation | Topic-wise | ✅ |
+| 48 | Late | D — English Comprehension | Fill in the Blanks | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 17
 

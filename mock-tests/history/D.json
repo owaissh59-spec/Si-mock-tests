@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 265,
+  "count": 315,
   "questions": [
     {
       "test": 4,
@@ -1327,6 +1327,256 @@
       "test": 42,
       "stem": "choose the meaning of the idiom: 'a blessing in disguise'",
       "key": "A good thing that appears bad at first"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'she is very good __________ mathematics.'",
+      "key": "at"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the child was afraid __________ the dog.'",
+      "key": "of"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: '__________ hour has passed since the meeting started.'",
+      "key": "An"
+    },
+    {
+      "test": 48,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he congratulated me __________ my success.'",
+      "key": "on"
+    },
+    {
+      "test": 48,
+      "stem": "match the following verbs with their correct fixed prepositions: column i: (a)",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the train arrived __________ the station at 8",
+      "key": "at"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he was accused __________ theft.'",
+      "key": "of"
+    },
+    {
+      "test": 48,
+      "stem": "consider the following statements about the use of articles: (i) the indefinite",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'she has been living in this city __________",
+      "key": "since"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: '__________ he is poor, he is honest.'",
+      "key": "Although"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the professor is well versed __________ sanskrit literature.'",
+      "key": "in"
+    },
+    {
+      "test": 48,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'i prefer coffee __________ tea.'",
+      "key": "to"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he is entitled __________ a share of the",
+      "key": "to"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the doctor gave me some medicine __________ my",
+      "key": "for"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the building __________ we live is very old.'",
+      "key": "in which"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he has been suffering __________ malaria for a",
+      "key": "from"
+    },
+    {
+      "test": 48,
+      "stem": "which of the following are grammatically correct fill-in choices for the sentence",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'she kept __________ complaining despite our requests.'",
+      "key": "on"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the teacher was pleased __________ my performance in",
+      "key": "with"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'neither the students __________ the teacher was present",
+      "key": "nor"
+    },
+    {
+      "test": 48,
+      "stem": "consider the following statements about prepositions of time: (i) 'on' is used",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the little girl was named __________ her grandmother.'",
+      "key": "after"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he is a man __________ integrity.'",
+      "key": "of"
+    },
+    {
+      "test": 48,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'it was raining heavily when i got __________",
+      "key": "on"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he is not only intelligent __________ hardworking.'",
+      "key": "but also"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the results __________ the exam will be declared",
+      "key": "of"
+    },
+    {
+      "test": 48,
+      "stem": "match the following idiomatic phrases with the correct fill-in preposition: column i:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'she looks __________ her mother in appearance.'",
+      "key": "like"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the company has agreed __________ the terms of",
+      "key": "to"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the letter must be posted __________ tomorrow morning.'",
+      "key": "by"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'one should be careful __________ crossing a busy",
+      "key": "while"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'i am tired __________ waiting for you.'",
+      "key": "of"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'please refrain __________ smoking in this area.'",
+      "key": "from"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the country is famous __________ its silk products.'",
+      "key": "for"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he was punished __________ his fault.'",
+      "key": "for"
+    },
+    {
+      "test": 48,
+      "stem": "which of the following are grammatically correct ways to fill the blank",
+      "key": "(i) only"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he was aware __________ the risks involved.'",
+      "key": "of"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'she succeeded __________ her business venture.'",
+      "key": "in"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the book is dedicated __________ his late mother.'",
+      "key": "to"
+    },
+    {
+      "test": 48,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the old temple stands __________ the top of",
+      "key": "on"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'he was blamed __________ the accident.'",
+      "key": "for"
+    },
+    {
+      "test": 48,
+      "stem": "which of the following sentences correctly use the preposition to fill the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the workers agreed __________ the wage settlement.'",
+      "key": "on"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the soldier died __________ his country.'",
+      "key": "for"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'she is optimistic __________ her chances of winning.'",
+      "key": "about"
+    },
+    {
+      "test": 48,
+      "stem": "fill in the blank: 'the judge exempted him __________ paying the fine.'",
+      "key": "from"
     }
   ]
 }

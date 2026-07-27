@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 329,
+  "count": 359,
   "questions": [
     {
       "test": 2,
@@ -1647,6 +1647,156 @@
       "test": 42,
       "stem": "the 'ring of fire', an area of intense volcanic and earthquake activity,",
       "key": "The Pacific Ocean"
+    },
+    {
+      "test": 46,
+      "stem": "the constitution of india was adopted by the constituent assembly on:",
+      "key": "26 November 1949"
+    },
+    {
+      "test": 46,
+      "stem": "consider the following statements about the preamble of the indian constitution: (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 46,
+      "stem": "the fundamental rights in the indian constitution are contained in:",
+      "key": "Part III (Articles 12-35)"
+    },
+    {
+      "test": 46,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 46,
+      "stem": "match the following articles of the constitution with their subject matter: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 46,
+      "stem": "the number of fundamental duties currently listed under article 51a of the",
+      "key": "11"
+    },
+    {
+      "test": 46,
+      "stem": "the chief justice of the supreme court of india is appointed by",
+      "key": "President of India"
+    },
+    {
+      "test": 46,
+      "stem": "which of the following are 'writs' that can be issued by the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 46,
+      "stem": "the __________ is the head of the state government in an indian",
+      "key": "Governor"
+    },
+    {
+      "test": 46,
+      "stem": "the rajya sabha (council of states) has a maximum strength of:",
+      "key": "250"
+    },
+    {
+      "test": 46,
+      "stem": "consider the following statements about the parliament of india: (i) it consists",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 46,
+      "stem": "the word 'federal' does not appear in the indian constitution; instead, the",
+      "key": "Union"
+    },
+    {
+      "test": 46,
+      "stem": "the election commission of india was established under which article of the",
+      "key": "Article 324"
+    },
+    {
+      "test": 46,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 46,
+      "stem": "the directive principles of state policy in the indian constitution are borrowed",
+      "key": "Ireland"
+    },
+    {
+      "test": 46,
+      "stem": "match the following provisions with the constitution/country from which they were borrowed:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 46,
+      "stem": "the panchayati raj system was given constitutional status by the:",
+      "key": "73rd Amendment (1992)"
+    },
+    {
+      "test": 46,
+      "stem": "the maximum tenure of the lok sabha under normal circumstances is:",
+      "key": "5 years"
+    },
+    {
+      "test": 46,
+      "stem": "the concept of a 'single citizenship' for the whole of india is",
+      "key": "United Kingdom"
+    },
+    {
+      "test": 46,
+      "stem": "which of the following are considered 'money bills' under the indian constitution?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 46,
+      "stem": "the __________ amendment of 1976 is often called the 'mini constitution' because",
+      "key": "42nd"
+    },
+    {
+      "test": 46,
+      "stem": "the attorney-general for india, the chief legal advisor to the government of",
+      "key": "The President of India"
+    },
+    {
+      "test": 46,
+      "stem": "consider the following statements about the president of india: (i) the president",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 46,
+      "stem": "which of the following writs literally means 'we command' and is issued",
+      "key": "Mandamus"
+    },
+    {
+      "test": 46,
+      "stem": "the __________ of 1935 is one of the most important sources of",
+      "key": "Government of India Act, 1935"
+    },
+    {
+      "test": 46,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 46,
+      "stem": "the constitution of india originally provided how many fundamental rights?",
+      "key": "7"
+    },
+    {
+      "test": 46,
+      "stem": "the office of the lokpal at the central level was created under",
+      "key": "Lokpal and Lokayuktas Act, 2013"
+    },
+    {
+      "test": 46,
+      "stem": "match the following writs with their meaning/purpose: column i: (a) habeas corpus",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 46,
+      "stem": "the concept of 'judicial review' in the indian constitution is inspired mainly",
+      "key": "The Constitution of the United States of America"
     }
   ]
 }

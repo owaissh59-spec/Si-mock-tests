@@ -3,9 +3,9 @@
   "medium": "English",
   "exam_day": 70,
   "total_planned_tests": 207,
-  "test_counter": 45,
-  "next_test": 46,
-  "last_generated": "45_test_A_statement-conclusion.json",
+  "test_counter": 48,
+  "next_test": 49,
+  "last_generated": "48_test_D_fill-blanks.json",
   "updated_at": "2026-07-27",
   "duplicate_policy": "no-exact-and-no-near-duplicate (check subject history shard)",
   "history_shards": {

@@ -1,0 +1,462 @@
+{
+  "subject": "D",
+  "topic": "Fill in the Blanks",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'She is very good __________ mathematics.'",
+      "options": ["in", "at", "on", "for"],
+      "correctAnswer": "at",
+      "explanation": "'Good at' is the standard collocation with subjects, skills or activities. 'Good in' is used with a broader field or environment (e.g., 'good in a crisis'), not typically with specific subjects. 'Good on' is not standard for this meaning. 'Good for' means 'beneficial to' — a different sense (e.g., 'exercise is good for you')."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The child was afraid __________ the dog.'",
+      "options": ["from", "with", "of", "at"],
+      "correctAnswer": "of",
+      "explanation": "'Afraid of' is the fixed preposition combination expressing fear of something. 'Afraid from' is a common Indian-English error — not standard. 'Afraid with' has no accepted collocation. 'Afraid at' is not a standard combination."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Fill in the blank: '__________ hour has passed since the meeting started.'",
+      "options": ["A", "The", "Some", "An"],
+      "correctAnswer": "An",
+      "explanation": "The word 'hour' starts with a SILENT 'h' — pronounced 'our' — so it starts with a vowel sound, requiring 'An' rather than 'A'. 'A' is used before consonant sounds, not vowel sounds. 'The' would require a specific known hour (context-dependent). 'Some' is a quantifier suggesting an indeterminate amount, changing the meaning."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'He is capable ______ solving this problem', the correct preposition is 'of'.\nReason (R): The adjective 'capable' takes the fixed preposition 'of' before a gerund or noun.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'capable of' is the fixed collocation. (R) is correct — 'capable' invariably takes 'of' before a gerund (capable of solving) or noun (capable of leadership). (R) explains (A) directly: the choice of 'of' is dictated by this fixed adjective-preposition rule. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He congratulated me __________ my success.'",
+      "options": ["for", "on", "at", "in"],
+      "correctAnswer": "on",
+      "explanation": "'Congratulate someone on something' is the standard collocation for celebrating achievements. 'Congratulate for' is a common error — 'for' is not idiomatic here. 'Congratulate at' is not standard. 'Congratulate in' is also not idiomatic in this context."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following verbs with their correct fixed prepositions:\n\nColumn I:\n(a) Depend __________ someone/something\n(b) Consist __________ several parts\n(c) Approve __________ an idea\n(d) Complain __________ noise\n\nColumn II:\n(i) about\n(ii) of\n(iii) of\n(iv) on\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "'Depend on' is the standard preposition → (a)-(iv). 'Consist of' — (b)-(iii). 'Approve of' — (c)-(ii). 'Complain about' — (d)-(i). The distractor (a)-(iii) confuses 'depend' with 'consist'. (c)-(i) treats 'approve' as taking 'about'. (a)-(i) makes 'depend about', which is not idiomatic."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The train arrived __________ the station at 8 pm sharp.'",
+      "options": ["in", "on", "at", "to"],
+      "correctAnswer": "at",
+      "explanation": "'Arrived at' is used for specific points/places (stations, buildings, addresses). 'Arrived in' is used for larger areas (cities, countries) — e.g., 'arrived in Delhi'. 'Arrived on' is used for dates and days (arrived on Monday). 'Arrived to' is not standard for this sense."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He was accused __________ theft.'",
+      "options": ["for", "of", "in", "with"],
+      "correctAnswer": "of",
+      "explanation": "'Accused of' is the standard legal/general collocation — 'accused of a crime, of an offence, of a fault'. 'Accused for' is a common error and not standard. 'Accused in' has no idiomatic use. 'Accused with' is not the standard form for the offence itself (though 'charged with' is correct for legal charges)."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Consider the following statements about the use of articles:\n\n(i) The indefinite article 'a' is used before consonant sounds.\n(ii) The indefinite article 'an' is used before vowel sounds.\n(iii) The definite article 'the' is used with singular countable nouns only.\n(iv) The article 'the' is used with unique things like the sun, the moon, the earth.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii), (iv) are correct standard rules. (iii) is INCORRECT — 'the' can be used with singular countable, plural countable AND uncountable nouns (e.g., 'the books', 'the water'). It is not restricted to singular countable nouns. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'She has been living in this city __________ 2015.'",
+      "options": ["from", "for", "in", "since"],
+      "correctAnswer": "since",
+      "explanation": "'Since' is used with a specific point in time (2015, Monday, last week). 'From' is used for a starting point but usually paired with 'to' or 'till' (from... to...). 'For' is used with durations (for 10 years, for a week), not with a specific year. 'In' would just tell us the year but doesn't convey the 'starting point' meaning."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Fill in the blank: '__________ he is poor, he is honest.'",
+      "options": ["Because", "Since", "As", "Although"],
+      "correctAnswer": "Although",
+      "explanation": "The sentence contrasts poverty with honesty, so a concessive conjunction is needed — 'Although' fits perfectly. 'Because', 'Since' and 'As' all express cause/reason, which would wrongly imply 'poverty causes honesty' — the opposite of the intended contrast."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The professor is well versed __________ Sanskrit literature.'",
+      "options": ["with", "in", "at", "for"],
+      "correctAnswer": "in",
+      "explanation": "'Well versed in' is the fixed collocation — meaning thoroughly knowledgeable in a subject. 'Versed with' is a common non-standard variant. 'Versed at' and 'versed for' are not standard usages."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'The book is different ______ the one you gave me', the correct preposition is 'from'.\nReason (R): In standard British English, 'different' is followed by 'from', while 'different than' is considered informal or American.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'different from' is the preferred standard usage. (R) is correct — in British English usage 'different from' is standard; 'different than' is regarded as informal or American. (R) explains (A) directly. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'I prefer coffee __________ tea.'",
+      "options": ["than", "to", "from", "over"],
+      "correctAnswer": "to",
+      "explanation": "The verb 'prefer' is followed by 'to' when comparing two nouns/gerunds. 'Prefer than' is a very common error — 'than' is used with 'rather' ('I would rather have coffee than tea') but not with 'prefer'. 'Prefer from' is not standard. 'Prefer over' is used informally but 'to' is the classical, standard preposition."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He is entitled __________ a share of the property.'",
+      "options": ["for", "to", "on", "of"],
+      "correctAnswer": "to",
+      "explanation": "'Entitled to' is the fixed collocation, meaning 'having the right to'. 'Entitled for' is a common Indian-English error, not standard. 'Entitled on' has no idiomatic use. 'Entitled of' is not standard either."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The doctor gave me some medicine __________ my headache.'",
+      "options": ["of", "against", "to", "for"],
+      "correctAnswer": "for",
+      "explanation": "'Medicine for X' is the standard collocation — indicating the ailment the medicine is meant to treat. 'Medicine of' is not idiomatic in this sense. 'Medicine against' is unusual — 'against' is used for defence (e.g., 'vaccine against a disease'). 'Medicine to' would need a verb (e.g., 'medicine to cure X')."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The building __________ we live is very old.'",
+      "options": ["which", "where in", "on which", "in which"],
+      "correctAnswer": "in which",
+      "explanation": "'In which we live' correctly places the preposition 'in' with the relative pronoun 'which' — one can also say 'which we live in'. 'Which we live' alone is missing the preposition. 'Where in' is redundant when 'where' alone would suffice. 'On which' would suggest living ON the building (on the roof, etc.) — different meaning."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He has been suffering __________ malaria for a week.'",
+      "options": ["for", "of", "from", "with"],
+      "correctAnswer": "from",
+      "explanation": "'Suffering from' is the fixed collocation for illness or hardship — 'suffering from malaria/from fever/from poverty'. 'Suffering for' has a different sense (bearing a cost). 'Suffering of' is not standard. 'Suffering with' is casually used in some varieties but 'from' is the standard preposition."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following are grammatically correct fill-in choices for the sentence 'The manager is going __________ the office'?\n\n(i) to\n(ii) into\n(iii) at\n(iv) towards\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) 'going to the office' — direction/destination, standard. (ii) 'going into the office' — emphasis on entering the interior, standard. (iv) 'going towards the office' — direction, still moving in that direction. All three are idiomatic. (iii) 'going at the office' is not standard for movement toward a place; 'at' would describe a static location, not a direction of motion. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'She kept __________ complaining despite our requests.'",
+      "options": ["at", "for", "in", "on"],
+      "correctAnswer": "on",
+      "explanation": "'Kept on' is the standard phrasal verb meaning 'continued'. 'Kept at' can mean 'continued working on' with a slightly different sense (kept at his studies) but doesn't fit smoothly with 'complaining'. 'Kept for' has no idiomatic use here. 'Kept in' means restricted indoors, a different sense."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The teacher was pleased __________ my performance in the exam.'",
+      "options": ["from", "with", "for", "at"],
+      "correctAnswer": "with",
+      "explanation": "'Pleased with' is the fixed collocation for satisfaction with a thing/person's performance. 'Pleased at' can be used but is less common and more formal in a specific event sense ('pleased at the news'). 'Pleased from' is not standard. 'Pleased for' expresses being happy on someone else's behalf ('I'm pleased for you'), a different sense."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'Neither the students __________ the teacher was present in the class.'",
+      "options": ["and", "or", "nor", "but"],
+      "correctAnswer": "nor",
+      "explanation": "'Neither ... nor' is the fixed correlative pair. 'Neither ... and' is not a valid pair. 'Neither ... or' is a common error but not standard. 'Neither ... but' is not a valid conjunction pair."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Consider the following statements about prepositions of time:\n\n(i) 'On' is used with specific days and dates.\n(ii) 'In' is used with months, years, seasons and centuries.\n(iii) 'At' is used with specific times of the clock and expressions like 'at night', 'at noon'.\n(iv) 'Since' is used with a duration, and 'for' is used with a point in time.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard time-preposition rules. (iv) is INCORRECT — the rule is REVERSED: 'since' is used with a POINT in time (since 2015) and 'for' is used with DURATIONS (for 10 years). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The little girl was named __________ her grandmother.'",
+      "options": ["by", "from", "under", "after"],
+      "correctAnswer": "after",
+      "explanation": "'Named after' means given the name of someone (usually in honour of them). 'Named by' would indicate who did the naming, not who the girl is named for — different sense. 'Named from' is not standard for this meaning. 'Named under' has no idiomatic use in this sense."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He is a man __________ integrity.'",
+      "options": ["with", "of", "from", "for"],
+      "correctAnswer": "of",
+      "explanation": "'A man of integrity/of honour/of principle' — 'of' + abstract noun is the classic descriptive construction. 'A man with integrity' is also grammatical but less idiomatic in this fixed pattern. 'A man from integrity' has no meaning. 'A man for integrity' would suggest championing the cause, a very different sense."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'A' is used before words beginning with a consonant sound, and 'an' is used before words beginning with a vowel sound.\nReason (R): The choice between 'a' and 'an' depends on the pronunciation of the following word, not on its spelling.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the standard rule about consonant vs vowel sounds. (R) is correct — pronunciation (not spelling) determines a/an: e.g., 'an hour' (silent h), 'a university' (starts with 'yoo' sound). (R) explains (A) directly. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'It was raining heavily when I got __________ the bus.'",
+      "options": ["in", "into", "at", "on"],
+      "correctAnswer": "on",
+      "explanation": "For public transport (bus, train, plane, ship) the idiomatic preposition is 'get on' / 'get off'. 'Get in' is used for private cars/taxis. 'Get into' is possible but less idiomatic for a bus. 'Get at' has no idiomatic use for boarding transport."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He is not only intelligent __________ hardworking.'",
+      "options": ["and also", "or also", "yet also", "but also"],
+      "correctAnswer": "but also",
+      "explanation": "The correlative conjunction pair 'not only ... but also' is a fixed idiom. 'And also' breaks the pair. 'Or also' is not a valid pair. 'Yet also' is not a standard correlative pair either."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The results __________ the exam will be declared on Monday.'",
+      "options": ["of", "for", "from", "in"],
+      "correctAnswer": "of",
+      "explanation": "'Results of the exam' — 'of' introduces possession/attribution: the exam's results. 'Results for the exam' is less standard; 'for' would imply beneficiary. 'Results from' can be used but usually with a verb ('results resulting from...'), less naturally as an adjective phrase. 'Results in' would mean 'they result IN X' (a different sense of causation)."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Match the following idiomatic phrases with the correct fill-in preposition:\n\nColumn I:\n(a) Absent __________ class\n(b) Angry __________ someone (person)\n(c) Angry __________ something (event)\n(d) Aware __________ the risk\n\nColumn II:\n(i) with\n(ii) at\n(iii) from\n(iv) of\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Absent FROM class → (a)-(iii). Angry WITH a person → (b)-(i). Angry AT an event/situation → (c)-(ii). Aware OF the risk → (d)-(iv). The distractor (a)-(iv) turns 'absent' into 'absent of'. (b)-(iii) treats angry with a person as 'angry from'. (a)-(ii) puts absent with 'at' — not idiomatic."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'She looks __________ her mother in appearance.'",
+      "options": ["at", "as", "for", "like"],
+      "correctAnswer": "like",
+      "explanation": "'Look like' means 'resemble' — the standard comparison collocation. 'Look at' means 'gaze at', a different sense. 'Look as' is not standard (though 'look as if...' is used with a clause). 'Look for' means 'search for', a different sense."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The company has agreed __________ the terms of the contract.'",
+      "options": ["with", "on", "to", "at"],
+      "correctAnswer": "to",
+      "explanation": "'Agreed to' is used when one party accepts terms/conditions or a proposal — 'agreed to the plan/terms/proposal'. 'Agreed with' means to share the same opinion (agreed with him). 'Agreed on' is used when parties reach mutual agreement on a topic (agreed on a compromise). 'Agreed at' has no standard use."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The letter must be posted __________ tomorrow morning.'",
+      "options": ["till", "until", "by", "in"],
+      "correctAnswer": "by",
+      "explanation": "'By tomorrow morning' means 'no later than that time' — appropriate for a deadline. 'Till/until' means 'up to that time' with no interruption before — the letter would need to be sent continuously, which doesn't make sense. 'In tomorrow morning' is ungrammatical."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'One should be careful __________ crossing a busy road.'",
+      "options": ["with", "in", "while", "on"],
+      "correctAnswer": "while",
+      "explanation": "'While' introduces a simultaneous action; 'careful while crossing' is idiomatic. 'Careful with' + noun (careful with money), not typically with gerunds in this construction. 'Careful in' can be used but is less natural here. 'Careful on' would mean careful on the road, changing meaning."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'I am tired __________ waiting for you.'",
+      "options": ["for", "with", "of", "from"],
+      "correctAnswer": "of",
+      "explanation": "'Tired of' means 'bored/fed up with' — used with gerund (tired of waiting/eating/hearing). 'Tired from' means physically exhausted by (tired from running) — a different sense. 'Tired for' and 'tired with' are not standard collocations for the intended 'bored/fed up' meaning."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'Please refrain __________ smoking in this area.'",
+      "options": ["from", "of", "against", "for"],
+      "correctAnswer": "from",
+      "explanation": "'Refrain from' is the fixed collocation — meaning 'abstain from', usually followed by a gerund. 'Refrain of' has no standard use. 'Refrain against' does not exist as an idiom. 'Refrain for' is also not standard."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The country is famous __________ its silk products.'",
+      "options": ["by", "of", "for", "with"],
+      "correctAnswer": "for",
+      "explanation": "'Famous for' means 'well known because of a particular reason'. 'Famous by' is not standard. 'Famous of' has no idiomatic use. 'Famous with' can mean 'popular with' (a group), but 'famous for' + reason/quality is the standard construction requested here."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He was punished __________ his fault.'",
+      "options": ["at", "of", "for", "with"],
+      "correctAnswer": "for",
+      "explanation": "'Punished for X' — where X is the offence/wrong-doing — is the standard collocation. 'Punished at' has no such use. 'Punished of' is not standard. 'Punished with' is used to describe the punishment itself ('punished with detention'), not the offence."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Which of the following are grammatically CORRECT ways to fill the blank in 'She is fond __________ music'?\n\n(i) of\n(ii) with\n(iii) about\n(iv) at\n\nSelect the correct combination:",
+      "options": [
+        "(i) only",
+        "(i) and (iii) only",
+        "(i) and (ii) only",
+        "(ii) and (iii) only"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "'Fond of' is the standard fixed collocation. 'Fond with', 'fond about' and 'fond at' are not standard — 'fond' is invariably followed by 'of'. Hence only (i) is correct."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He was aware __________ the risks involved.'",
+      "options": ["about", "of", "with", "in"],
+      "correctAnswer": "of",
+      "explanation": "'Aware of' is the fixed collocation meaning 'having knowledge of'. 'Aware about' is a common Indian-English variant but 'of' is standard. 'Aware with' and 'aware in' are not standard collocations."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'She succeeded __________ her business venture.'",
+      "options": ["at", "in", "with", "on"],
+      "correctAnswer": "in",
+      "explanation": "'Succeed in' + gerund/noun is the standard construction (succeed in business, succeed in doing something). 'Succeed at' is used more commonly in American usage for specific tasks (succeed at a task) but 'in' is broadly correct. 'Succeed with' is not standard for this sense. 'Succeed on' has no idiomatic use here."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The book is dedicated __________ his late mother.'",
+      "options": ["for", "of", "to", "with"],
+      "correctAnswer": "to",
+      "explanation": "'Dedicated to' is the fixed collocation for expressing whom something (a book, poem, project) is dedicated to. 'Dedicated for' is not idiomatic. 'Dedicated of' and 'dedicated with' have no standard use here."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Since' should be used with a specific point in time and 'for' with a duration in expressions of time.\nReason (R): 'For + duration' expresses how long an action has continued, while 'since + point' expresses when the action started.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — this is the standard rule. (R) is correct — this precisely explains the semantic distinction between the two. (R) explains (A) directly because the durational/point distinction is the reason for the preposition choice. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The old temple stands __________ the top of the hill.'",
+      "options": ["at", "on", "in", "over"],
+      "correctAnswer": "on",
+      "explanation": "'On the top of' is the standard preposition for a location resting atop a surface (mountain, hill, roof). 'At the top of' is used more for position in a hierarchy or list (at the top of the list). 'In the top of' is not standard. 'Over the top of' means above and beyond, a different spatial sense."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'He was blamed __________ the accident.'",
+      "options": ["of", "for", "at", "with"],
+      "correctAnswer": "for",
+      "explanation": "'Blamed for X' — where X is the outcome/wrongdoing — is the standard collocation. 'Blamed of' is not standard. 'Blamed at' has no idiomatic use. 'Blamed with' is not standard (though 'charged with' is used for legal charges)."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Which of the following sentences correctly use the preposition to fill the blank?\n\n(i) He is anxious __________ his son's health. (about)\n(ii) I insisted __________ paying for the meal. (on)\n(iii) The medicine has an effect __________ him. (on)\n(iv) The mother is fond __________ her children. (at)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) 'anxious about' is standard. (ii) 'insist on' is standard. (iii) 'effect on' is standard. (iv) is INCORRECT — 'fond of' is the standard, not 'fond at' — 'at' is a common error. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The workers agreed __________ the wage settlement.'",
+      "options": ["with", "to", "on", "for"],
+      "correctAnswer": "on",
+      "explanation": "'Agreed on' is used when parties reach mutual agreement on a topic or outcome (agreed on a compromise, agreed on the terms). 'Agreed to' is used for accepting a proposal/terms (agreed to the plan). 'Agreed with' means share the same opinion as someone. Here 'wage settlement' suggests a mutual outcome, so 'on' is best."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The soldier died __________ his country.'",
+      "options": ["with", "of", "for", "in"],
+      "correctAnswer": "for",
+      "explanation": "'Died for' expresses the cause for which one lays down one's life (died for his country/for a cause). 'Died with' has no standard use. 'Died of' is used for cause of death by illness/disease (died of cancer). 'Died in' would specify a location or event (died in war), a different sense."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'She is optimistic __________ her chances of winning.'",
+      "options": ["about", "for", "of", "at"],
+      "correctAnswer": "about",
+      "explanation": "'Optimistic about' is the fixed collocation. 'Optimistic for' is a common non-standard variant. 'Optimistic of' is not standard either. 'Optimistic at' has no idiomatic use in this sense."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Fill in the blank: 'The judge exempted him __________ paying the fine.'",
+      "options": ["for", "of", "from", "with"],
+      "correctAnswer": "from",
+      "explanation": "'Exempt from' is the fixed collocation — meaning 'not liable to' or 'released from an obligation'. 'Exempt for' is not standard. 'Exempt of' is not standard. 'Exempt with' has no idiomatic use."
+    }
+  ]
+}

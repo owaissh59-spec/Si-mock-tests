@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 286,
+  "count": 326,
   "questions": [
     {
       "test": 3,
@@ -1432,6 +1432,206 @@
       "test": 42,
       "stem": "the difference between simple interest and compound interest on ₹4,000 at 10%",
       "key": "₹40"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper buys an article for ₹400 and sells it for ₹500.",
+      "key": "25%"
+    },
+    {
+      "test": 47,
+      "stem": "consider the following statements about profit and loss: (i) profit % is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 47,
+      "stem": "the cost price of an article is ₹600 and the selling price",
+      "key": "10%"
+    },
+    {
+      "test": 47,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 47,
+      "stem": "an article is marked at ₹800. if a discount of 15% is",
+      "key": "₹680"
+    },
+    {
+      "test": 47,
+      "stem": "match the following terms with their formulas: column i: (a) profit %",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 47,
+      "stem": "a person sells an article at 20% profit. if the cp is",
+      "key": "₹600"
+    },
+    {
+      "test": 47,
+      "stem": "an article is sold at a 10% loss for ₹450. what is",
+      "key": "₹500"
+    },
+    {
+      "test": 47,
+      "stem": "by selling an article at ₹960 a man loses 20%. what should",
+      "key": "₹1,440"
+    },
+    {
+      "test": 47,
+      "stem": "if the marked price of an article is 25% above its cost",
+      "key": "12.5%"
+    },
+    {
+      "test": 47,
+      "stem": "the __________ price is the price at which the shopkeeper displays or",
+      "key": "marked"
+    },
+    {
+      "test": 47,
+      "stem": "consider the following statements about markup and discount: (i) markup % is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 47,
+      "stem": "a trader marked his goods 40% above the cost price and gave",
+      "key": "5%"
+    },
+    {
+      "test": 47,
+      "stem": "two successive discounts of 20% and 10% are equivalent to a single",
+      "key": "28%"
+    },
+    {
+      "test": 47,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 47,
+      "stem": "which of the following situations result in a profit for the shopkeeper?",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper sells 12 chocolates for ₹120 and earns a profit of",
+      "key": "₹8.33"
+    },
+    {
+      "test": 47,
+      "stem": "by selling 100 pens at ₹8 each, a trader gains ₹200. what",
+      "key": "₹6"
+    },
+    {
+      "test": 47,
+      "stem": "an article is sold at 5% profit. had it been sold for",
+      "key": "₹500"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper uses a false weight of 900 grams for 1 kg",
+      "key": "11.11%"
+    },
+    {
+      "test": 47,
+      "stem": "a merchant buys goods for ₹1,000. he wants to make a profit",
+      "key": "₹1,333"
+    },
+    {
+      "test": 47,
+      "stem": "the cost price of 20 articles is equal to the selling price",
+      "key": "25%"
+    },
+    {
+      "test": 47,
+      "stem": "consider the following statements about profit/loss with equal quantities: (i) if a",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper offers a discount of 20% on the marked price and",
+      "key": "25:16"
+    },
+    {
+      "test": 47,
+      "stem": "a pen was sold at 4% loss. if the sp were ₹6",
+      "key": "₹75"
+    },
+    {
+      "test": 47,
+      "stem": "in a sale, a shopkeeper offers 'buy 3, get 1 free'. what",
+      "key": "25%"
+    },
+    {
+      "test": 47,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 47,
+      "stem": "a book is sold at ₹360 giving a profit of 20%. what",
+      "key": "₹390"
+    },
+    {
+      "test": 47,
+      "stem": "match the following situations with their outcomes: column i: (a) markup 20%,",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 47,
+      "stem": "a retailer buys a t-shirt for ₹400 and marks it 50% above",
+      "key": "20%"
+    },
+    {
+      "test": 47,
+      "stem": "the __________ price is the price at which an article is actually",
+      "key": "selling"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper allows a discount of 5% on the marked price on",
+      "key": "Cash, by ₹20"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper buys mangoes at 4 for ₹10 and sells them at",
+      "key": "20%"
+    },
+    {
+      "test": 47,
+      "stem": "which of the following are correct statements about markup and discount? (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 47,
+      "stem": "by what percentage should a merchant mark his goods above cost price",
+      "key": "50%"
+    },
+    {
+      "test": 47,
+      "stem": "the selling price of an item after allowing successive discounts of 25%",
+      "key": "₹337.50"
+    },
+    {
+      "test": 47,
+      "stem": "a merchant sells 100 pens at ₹200 apiece and gains an amount",
+      "key": "₹166.67"
+    },
+    {
+      "test": 47,
+      "stem": "the __________ is defined as the difference between the marked price and",
+      "key": "discount"
+    },
+    {
+      "test": 47,
+      "stem": "a trader marks his goods 30% above cost and offers a 20%",
+      "key": "4%"
+    },
+    {
+      "test": 47,
+      "stem": "a shopkeeper sold an article for ₹1,120 with a profit of 12%.",
+      "key": "₹1,200"
     }
   ]
 }

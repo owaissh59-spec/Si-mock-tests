@@ -698,7 +698,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "46_test_B_polity.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 47,
@@ -713,7 +713,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "47_test_C_profit-loss.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 48,
@@ -728,7 +728,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "48_test_D_fill-blanks.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 49,
