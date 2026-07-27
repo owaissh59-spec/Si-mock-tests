@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 210,
+  "count": 250,
   "questions": [
     {
       "test": 1,
@@ -1052,6 +1052,206 @@
       "test": 32,
       "stem": "consider the following statements about inserting arithmetic signs into the blanks of",
       "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 38,
+      "stem": "statements: all pens are pencils. all pencils are erasers. conclusions: (i) all",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 38,
+      "stem": "statements: some cats are dogs. all dogs are animals. conclusions: (i) some",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 38,
+      "stem": "statements: no bird is a fish. all fish are aquatic. conclusions: (i)",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 38,
+      "stem": "consider the following statements about venn diagram representation of categorical propositions: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 38,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 38,
+      "stem": "match the following types of categorical propositions with their standard forms: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 38,
+      "stem": "statements: all roses are flowers. some flowers are red. conclusions: (i) some",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 38,
+      "stem": "which of the following conclusions logically follow from the statements below? statements:",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 38,
+      "stem": "in a group of 100 people, 60 read english newspapers, 45 read",
+      "key": "The part of the English circle that does NOT overlap the Hindi circle, contai..."
+    },
+    {
+      "test": 38,
+      "stem": "statements: all poets are writers. no writer is a scientist. conclusions: (i)",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 38,
+      "stem": "in classical logic, the proposition of the form 'some s are not",
+      "key": "particular negative; O"
+    },
+    {
+      "test": 38,
+      "stem": "consider the following statements about the syllogistic square of opposition: (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 38,
+      "stem": "statements: only employees can enter the office. raj entered the office. conclusion:",
+      "key": "Raj is definitely an employee"
+    },
+    {
+      "test": 38,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 38,
+      "stem": "match the following syllogistic terms with their meanings: column i: (a) major",
+      "key": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    },
+    {
+      "test": 38,
+      "stem": "which venn diagram best represents the relationship among: vehicles, cars, bicycles?",
+      "key": "Two disjoint small circles (Cars and Bicycles) both entirely inside a large c..."
+    },
+    {
+      "test": 38,
+      "stem": "the venn diagram that shows two circles overlapping each other with a",
+      "key": "Doctors, Engineers, Human Beings"
+    },
+    {
+      "test": 38,
+      "stem": "which of the following are valid syllogisms (i.e., the conclusion definitely follows)?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 38,
+      "stem": "statements: some cups are plates. all plates are dishes. conclusions: (i) some",
+      "key": "Both (I) and (II) follow"
+    },
+    {
+      "test": 38,
+      "stem": "consider the following statements about venn diagrams: (i) 'all a are b'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 38,
+      "stem": "which venn diagram correctly represents the relationship among: musicians, guitarists, left-handed people?",
+      "key": "A small Guitarists circle entirely inside a Musicians circle, and a Left-hand..."
+    },
+    {
+      "test": 38,
+      "stem": "statements: all teachers are learned. some learned are honest. conclusion:",
+      "key": "None of the above conclusions definitely follows"
+    },
+    {
+      "test": 38,
+      "stem": "match the following venn-diagram regions with their interpretations for two overlapping circles",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 38,
+      "stem": "in the traditional square of opposition, the universal negative proposition 'no s",
+      "key": "E"
+    },
+    {
+      "test": 38,
+      "stem": "in a venn diagram problem, out of 200 students: 120 like tea,",
+      "key": "40"
+    },
+    {
+      "test": 38,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 38,
+      "stem": "which of the following pairs of propositions are contradictories in the traditional",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 38,
+      "stem": "statements: all actors are singers. no singer is a dancer. conclusion:",
+      "key": "No actor is a dancer"
+    },
+    {
+      "test": 38,
+      "stem": "in a class of 70 students: 35 play cricket, 25 play football",
+      "key": "The number of students who play only cricket is 25"
+    },
+    {
+      "test": 38,
+      "stem": "consider the following statements about syllogism validity: (i) a syllogism with both",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 38,
+      "stem": "statements: some dancers are singers. all singers are actors. conclusions: (i) some",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 38,
+      "stem": "which of the following venn-diagram scenarios illustrates 'some students are not sportspersons'?",
+      "key": "Two overlapping circles with a mark (×) placed in the part of Students that l..."
+    },
+    {
+      "test": 38,
+      "stem": "statements: all trees are plants. some plants are green. all green things",
+      "key": "Some plants are pleasant"
+    },
+    {
+      "test": 38,
+      "stem": "in a survey of 100 people, 60 use android, 40 use ios,",
+      "key": "45"
+    },
+    {
+      "test": 38,
+      "stem": "the venn diagram that has all three circles overlapping in one common",
+      "key": "Students, Teenagers, Cricket Players"
+    },
+    {
+      "test": 38,
+      "stem": "match the following syllogism moods (in the first figure) with their premise",
+      "key": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 38,
+      "stem": "statements: all politicians are honest. (assume premise is true.) some honest people",
+      "key": "None of the above definitely follows"
+    },
+    {
+      "test": 38,
+      "stem": "in a class of 80, 50 study physics, 40 study chemistry, and",
+      "key": "10"
+    },
+    {
+      "test": 38,
+      "stem": "statements: no book is a magazine. all magazines are periodicals. conclusions: (i)",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 38,
+      "stem": "the middle term in the syllogism 'all doctors are professionals; some doctors",
+      "key": "doctors"
     }
   ]
 }

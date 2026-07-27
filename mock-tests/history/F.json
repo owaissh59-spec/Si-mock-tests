@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 217,
+  "count": 247,
   "questions": [
     {
       "test": 6,
@@ -1087,6 +1087,156 @@
       "test": 31,
       "stem": "in ms excel, the wrap text command in the alignment group is",
       "key": "show long text on several lines within the same cell"
+    },
+    {
+      "test": 37,
+      "stem": "what is the default file extension of a presentation created and saved",
+      "key": ".pptx"
+    },
+    {
+      "test": 37,
+      "stem": "consider the following statements about slide layouts in ms powerpoint: (i) a",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 37,
+      "stem": "which keyboard shortcut starts the slideshow from the very first slide in",
+      "key": "F5"
+    },
+    {
+      "test": 37,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 37,
+      "stem": "match the following ms powerpoint ribbon tabs with the feature groups they",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 37,
+      "stem": "what is the primary purpose of the smartart feature in ms powerpoint?",
+      "key": "To insert professionally designed graphical layouts to represent information ..."
+    },
+    {
+      "test": 37,
+      "stem": "which of the following are valid slide transition effects available in ms",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 37,
+      "stem": "the slide sorter view in ms powerpoint is primarily used to:",
+      "key": "View all slides simultaneously as thumbnails to reorder or delete them"
+    },
+    {
+      "test": 37,
+      "stem": "consider the following statements about animations in ms powerpoint: (i) entrance animations",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 37,
+      "stem": "in ms powerpoint, the handout master is used to:",
+      "key": "Control the layout of printed audience handouts with multiple slides per page"
+    },
+    {
+      "test": 37,
+      "stem": "the __________ view in ms powerpoint is used to add and format",
+      "key": "Notes Page"
+    },
+    {
+      "test": 37,
+      "stem": "which keyboard shortcut starts the slideshow from the currently selected slide instead",
+      "key": "Shift + F5"
+    },
+    {
+      "test": 37,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 37,
+      "stem": "match the following ms powerpoint views with their primary purposes: column i:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 37,
+      "stem": "the 'custom slide show' feature in ms powerpoint allows a user to:",
+      "key": "Create a subset of slides from the presentation that can be shown to a specif..."
+    },
+    {
+      "test": 37,
+      "stem": "which of the following are valid print options available in ms powerpoint",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 37,
+      "stem": "the 'comments' feature in ms powerpoint is primarily used to:",
+      "key": "Add reviewer feedback attached to specific slides or objects without altering..."
+    },
+    {
+      "test": 37,
+      "stem": "consider the following statements about hyperlinks in ms powerpoint: (i) a hyperlink",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 37,
+      "stem": "the 'rehearse timings' feature in ms powerpoint is used to:",
+      "key": "Record the time spent on each slide so the slideshow can advance automatically"
+    },
+    {
+      "test": 37,
+      "stem": "the 'kiosk mode' in the set up slide show dialog is designed",
+      "key": "Loop continuously and can only be advanced by the audience via configured tri..."
+    },
+    {
+      "test": 37,
+      "stem": "to save a powerpoint presentation as a pdf file, the user should:",
+      "key": "Choose File > Export > Create PDF/XPS Document (or File > Save As and pick PDF)"
+    },
+    {
+      "test": 37,
+      "stem": "match the following animation categories in ms powerpoint with their descriptions: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 37,
+      "stem": "to insert automatic slide numbers on every slide of a presentation, the",
+      "key": "Insert > Header & Footer > tick 'Slide number' > Apply to All"
+    },
+    {
+      "test": 37,
+      "stem": "which of the following can be inserted into a slide using the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 37,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 37,
+      "stem": "consider the following statements about action buttons in ms powerpoint: (i) action",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 37,
+      "stem": "the zoom slider located at the bottom-right corner of the ms powerpoint",
+      "key": "Magnify or shrink the view of the slide within the editor without changing sl..."
+    },
+    {
+      "test": 37,
+      "stem": "the 'present online' (formerly broadcast slide show) feature in ms powerpoint enables",
+      "key": "Share the live slideshow over the internet so remote viewers can watch in a w..."
+    },
+    {
+      "test": 37,
+      "stem": "the presenter view in ms powerpoint shows the presenter:",
+      "key": "The current slide, next slide preview, speaker notes and an elapsed time counter"
+    },
+    {
+      "test": 37,
+      "stem": "consider the following statements about slide size and orientation in ms powerpoint:",
+      "key": "(i), (ii) and (iv) only"
     }
   ]
 }

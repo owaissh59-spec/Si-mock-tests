@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "Geography of Jammu & Kashmir",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "Which of the following rivers is regarded as the lifeline of the Kashmir Valley and drains it before entering Pakistan?",
+      "options": ["Chenab", "Indus", "Ravi", "Jhelum"],
+      "correctAnswer": "Jhelum",
+      "explanation": "The Jhelum rises at Verinag in south Kashmir, flows the entire length of the Kashmir Valley through Srinagar, drains into Wular Lake and then leaves the Valley near Baramulla — it is the primary river of the Valley. The Chenab flows through the Jammu region (Doda–Kishtwar), not through the Valley. The Indus flows mainly through Ladakh, not the Kashmir Valley. The Ravi only touches the extreme south of the Jammu region and does not drain the Kashmir Valley."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the physical divisions of Jammu & Kashmir:\n\n(i) The Great Himalayan Range separates the Kashmir Valley from Ladakh.\n(ii) The Pir Panjal Range separates the Kashmir Valley from the Jammu plains.\n(iii) The Shivalik (Outer Himalayas) forms the southernmost hilly zone of the Jammu region.\n(iv) The Zanskar Range lies south of the Pir Panjal.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: the Great Himalayan Range with peaks like Nun–Kun forms the barrier between the Kashmir Valley and Ladakh. (ii) is correct: the Pir Panjal separates the Valley from the Jammu region (crossed by the Banihal Pass / Jawahar Tunnel). (iii) is correct: the Shivaliks form the low-altitude outer hills fringing Jammu on the south. (iv) is incorrect: the Zanskar Range lies to the north of the Great Himalayan Range in Ladakh, not south of the Pir Panjal. Every option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Zoji La pass connects the Kashmir Valley with which of the following regions?",
+      "options": ["Jammu region", "Ladakh region (Kargil-Leh)", "Pakistan-occupied Kashmir", "Himachal Pradesh"],
+      "correctAnswer": "Ladakh region (Kargil-Leh)",
+      "explanation": "Zoji La (about 3,528 m) on National Highway 1D links Sonamarg (Kashmir Valley) with Dras and Kargil in Ladakh — the primary road gateway between the Valley and Ladakh. It does not link the Valley with the Jammu region; that connection is through the Banihal Pass / Jawahar Tunnel. It does not touch POK, which lies to the west of the Valley. It does not connect to Himachal Pradesh — that link uses the Rohtang / Baralacha route from Ladakh, not Zoji La."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Ladakh receives very little rainfall throughout the year.\nReason (R): Ladakh lies in the rain-shadow area to the north of the Great Himalayan Range, which blocks the south-west monsoon.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Ladakh is classified as a cold desert with typical annual precipitation under 100 mm at many stations, mostly as snow. (R) is correct — the Great Himalayan Range obstructs moisture-laden monsoon winds, and Ladakh lies on the leeward (rain-shadow) side. (R) directly explains (A): the aridity of Ladakh is caused precisely by this rain-shadow effect. Option 2 wrongly denies the causal link. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Match the following lakes with the region/district in which they are located:\n\nColumn I:\n(a) Wular Lake\n(b) Pangong Tso\n(c) Mansar Lake\n(d) Tso Moriri\n\nColumn II:\n(i) Samba/Jammu region\n(ii) Bandipora, Kashmir Valley\n(iii) Changthang plateau, eastern Ladakh (Leh district)\n(iv) Rupshu / Changthang, Leh district\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Wular is a large freshwater lake in Bandipora district of the Kashmir Valley → (a)-(ii). Pangong Tso is the famous long saline lake straddling the Changthang plateau in eastern Ladakh (Leh district) → (b)-(iii). Mansar Lake lies in the Jammu region (Samba district) → (c)-(i). Tso Moriri is another high-altitude lake in the Rupshu / Changthang area of Leh district → (d)-(iv). The distractor mapping (a)-(iii) misplaces Wular in Ladakh. (b)-(ii) misplaces Pangong in the Valley. (a)-(i) misplaces Wular in Jammu."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Nanga Parbat, one of the world's highest peaks (over 8,000 m), lies in the:",
+      "options": [
+        "Kashmir Valley of the J&K Union Territory",
+        "Pir Panjal Range south of Srinagar",
+        "Gilgit-Baltistan region (Pakistan-administered) of the erstwhile princely state",
+        "Zanskar Range in Kargil district"
+      ],
+      "correctAnswer": "Gilgit-Baltistan region (Pakistan-administered) of the erstwhile princely state",
+      "explanation": "Nanga Parbat (8,126 m) is the western anchor of the Himalayas and stands in the Gilgit-Baltistan region administered by Pakistan, which was part of the erstwhile princely state of Jammu & Kashmir. It does not lie in the Kashmir Valley — no peak in the Valley proper touches 8,000 m. The Pir Panjal is a much lower range (highest points around 4,700 m). Kargil district is in the Zanskar / Suru area but Nanga Parbat is far to the north-west, in Gilgit-Baltistan."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are correctly described as tributaries of the Chenab river within Jammu & Kashmir?\n\n(i) Marusudar\n(ii) Suru\n(iii) Tawi\n(iv) Ans\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "The Marusudar joins the Chenab near Bhandarkot in Kishtwar — (i) is correct. The Tawi (which flows through Jammu city) is a right-bank tributary of the Chenab downstream in the plains — (iii) is correct. The Ans is a smaller tributary of the Chenab in the Reasi-Ramban belt — (iv) is correct. The Suru, however, is a tributary of the INDUS system in Ladakh (joining the Shyok/Indus route), not of the Chenab. Any option containing (ii) is therefore wrong."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The Banihal Pass in the Pir Panjal Range links the Kashmir Valley with:",
+      "options": ["Ladakh", "Jammu region", "Muzaffarabad", "Gilgit"],
+      "correctAnswer": "Jammu region",
+      "explanation": "Banihal Pass, together with the Jawahar Tunnel (and now the Banihal-Qazigund rail/road tunnels), is the traditional gateway between the Kashmir Valley and the Jammu region on National Highway 44. It does NOT lead to Ladakh — that link is Zoji La. It does not link to Muzaffarabad (POK) — that side of the Valley uses the Uri-Muzaffarabad axis. It does not link to Gilgit, which is far to the north-west."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Kashmir Valley:\n\n(i) It is a longitudinal basin lying between the Great Himalayas and the Pir Panjal Range.\n(ii) The Jhelum river drains almost the entire Valley.\n(iii) The Valley is oval in shape and is approximately 135 km long and 32 km wide.\n(iv) The Valley experiences a tropical climate with hot summers throughout.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Valley is a synclinal / longitudinal basin between the Great Himalayas (north-east) and the Pir Panjal (south-west). (ii) is correct — the Jhelum and its tributaries drain almost the whole Valley into Wular. (iii) is correct — the Valley is oval and roughly 135 km × 32 km in extent. (iv) is incorrect — the Kashmir Valley has a temperate (sub-Mediterranean-like) climate with cold winters and mild summers, definitely not tropical. Any option containing (iv) is therefore wrong."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "The Siachen Glacier, one of the world's longest non-polar glaciers, is located in:",
+      "options": [
+        "The eastern Pir Panjal Range",
+        "The Karakoram Range in Ladakh",
+        "The Zanskar Range near Padum",
+        "The Shivalik Range in Kathua"
+      ],
+      "correctAnswer": "The Karakoram Range in Ladakh",
+      "explanation": "Siachen (about 76 km long) lies in the eastern Karakoram Range in Ladakh, north of the Nubra valley (Leh district). The Pir Panjal is a much lower range and holds only small glaciers. The Zanskar Range does have glaciers (Drang-Drung near Pensi La), but Siachen is not among them. The Shivaliks are the outer sub-Himalayan foothills of the Jammu region — they carry no glaciers at all."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The __________ is the largest freshwater lake in India and lies in Bandipora district of the Kashmir Valley.",
+      "options": ["Dal Lake", "Manasbal Lake", "Anchar Lake", "Wular Lake"],
+      "correctAnswer": "Wular Lake",
+      "explanation": "Wular Lake, fed and drained by the Jhelum, spreads over roughly 30-160 sq km depending on season and is India's largest freshwater lake, situated in Bandipora. Dal Lake is famous but far smaller and lies in Srinagar. Manasbal is a smaller deep freshwater lake in Ganderbal. Anchar Lake is a small marshy lake near Srinagar. Only Wular fits both descriptions — 'largest freshwater' and 'Bandipora'."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Saffron cultivation in the Kashmir Valley is most closely associated with which of the following areas?",
+      "options": ["Sopore", "Pampore (Pulwama district)", "Baramulla town", "Sonmarg meadows"],
+      "correctAnswer": "Pampore (Pulwama district)",
+      "explanation": "Pampore, on the Karewa uplands of Pulwama district, has been the traditional heart of Kashmiri saffron for centuries and has been granted a Geographical Indication (GI) tag as 'Kashmir Saffron'. Sopore in Baramulla is famous for apples, not saffron. Baramulla town lies in the lower Valley and is not a saffron belt. Sonmarg is a high alpine meadow — the elevation and soils are unsuitable for saffron corms."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The average altitude of the Kashmir Valley floor is approximately:",
+      "options": ["500 m", "1,600 m", "2,800 m", "3,500 m"],
+      "correctAnswer": "1,600 m",
+      "explanation": "The Valley floor (Srinagar etc.) lies at roughly 1,585-1,600 m above mean sea level. 500 m corresponds to Jammu-plain elevations, not the Valley. 2,800 m is the range of high alpine settlements like Gulmarg (2,650 m) or Sonmarg, not the general Valley floor. 3,500 m is typical of Ladakh (Leh is around 3,500 m), not the Kashmir Valley."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Which of the following are national parks located within the Union Territory of Jammu & Kashmir?\n\n(i) Dachigam National Park\n(ii) Kishtwar National Park\n(iii) Hemis National Park\n(iv) Salim Ali National Park (City Forest)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Dachigam National Park (habitat of the Hangul deer) is in Srinagar-Ganderbal, Kashmir — (i) is correct for the J&K UT. Kishtwar High Altitude National Park lies in the Kishtwar district of the J&K UT — (ii) is correct. Salim Ali (City Forest) National Park is a small park in Srinagar — (iv) is correct. Hemis National Park, however, lies in Leh district of the Ladakh Union Territory, not the J&K UT — so (iii) is wrong for this question. Every option including (iii) is therefore wrong."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Karewas of Kashmir are ideal for saffron cultivation.\nReason (R): The Karewas are ancient lacustrine (lake) deposits of clay, sand and gravel forming flat, well-drained terraces.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: Karewa terraces (Pampore etc.) are the classic saffron-growing zones of the Valley. (R) is correct: geologically, Karewas are Pleistocene lacustrine deposits — flat-topped terraces of clay, silt, sand and gravel with excellent drainage. (R) explains (A) directly — the well-drained fine-textured Karewa soil is precisely what saffron corms require, so the geological character IS the reason for the crop suitability. Option 2 wrongly denies the causal link. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "The Amarnath Cave shrine, an important Hindu pilgrimage site, is located in which district of Jammu & Kashmir?",
+      "options": ["Kulgam", "Kishtwar", "Doda", "Anantnag"],
+      "correctAnswer": "Anantnag",
+      "explanation": "The Amarnath Cave (about 3,888 m) lies in the Lidder valley of Anantnag district, approached from either Pahalgam (also in Anantnag) or Baltal (Ganderbal). Kulgam is a district south of Anantnag but does not contain the shrine. Kishtwar is in the Jammu division, far from Amarnath. Doda is also in the Chenab Valley of Jammu division, not near Amarnath."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The Great Himalayan Range in Jammu & Kashmir is popularly known by which local name in Ladakh?",
+      "options": ["Karakoram", "Zanskar", "Ladakh Range", "Pangi"],
+      "correctAnswer": "Zanskar",
+      "explanation": "In the Ladakh region, the section of the Great Himalaya running through the area (with peaks like Nun–Kun) is often referred to as the Zanskar Range, which acts as the southern rim of Ladakh. The Karakoram is a distinct, more northerly range (holds K2, Siachen) — not the Great Himalaya. The Ladakh Range is the range between the Indus and Nubra valleys, north of Leh — again a different range. 'Pangi' is a valley name in Himachal, not a range name in J&K/Ladakh."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Consider the following statements about the districts and administrative geography of the Jammu & Kashmir Union Territory (as reorganized in 2019):\n\n(i) The J&K Union Territory has 20 districts.\n(ii) Ladakh is a separate Union Territory with two districts: Leh and Kargil.\n(iii) Rajouri, Poonch and Reasi are districts of the Jammu division.\n(iv) Kupwara is a district of the Jammu division bordering Kashmir Valley.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: after the 2019 reorganization, the J&K UT has 20 districts. (ii) is correct: Ladakh UT has two districts — Leh and Kargil. (iii) is correct: Rajouri, Poonch and Reasi are all in the Jammu division. (iv) is INCORRECT — Kupwara is a district of the Kashmir division (northern Kashmir Valley), not the Jammu division. Every option including (iv) is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Chenab river is formed by the confluence of two streams in the Lahaul area of Himachal Pradesh; these are:",
+      "options": ["Beas and Sutlej", "Bhaga and Chandra", "Ravi and Suru", "Zanskar and Indus"],
+      "correctAnswer": "Bhaga and Chandra",
+      "explanation": "The Chenab (called Chandrabhaga in its upper course) is formed by the union of the Chandra and Bhaga rivers at Tandi in Lahaul, Himachal Pradesh, before entering J&K through Kishtwar. Beas and Sutlej are two separate major Punjab rivers, not tributaries of the Chenab. Ravi and Suru are unrelated: Ravi is a Punjab river and Suru is in Ladakh. Zanskar and Indus meet at Nimmo/Sangam in Ladakh — that is the Zanskar-Indus confluence, not the Chenab source."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The Vaishno Devi shrine, one of the most visited religious sites in India, is situated in the Trikuta Hills of which district?",
+      "options": ["Udhampur", "Reasi", "Kathua", "Rajouri"],
+      "correctAnswer": "Reasi",
+      "explanation": "Following the creation of Reasi district in 2007, the Vaishno Devi shrine on the Trikuta Hills near Katra falls in Reasi district. Udhampur was formerly the parent district but no longer contains the shrine after the 2007 reorganization. Kathua is farther south-east in the Jammu division. Rajouri lies west of Reasi and does not contain the shrine."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Match the following mountain passes with the region/route they serve:\n\nColumn I:\n(a) Zoji La\n(b) Khardung La\n(c) Banihal Pass\n(d) Pir Panjal Pass\n\nColumn II:\n(i) Srinagar to Jammu route (NH 44)\n(ii) Srinagar–Sonmarg to Ladakh (Kargil, Leh)\n(iii) Leh to Nubra Valley\n(iv) Historical Mughal Road route from Poonch/Rajouri to Kashmir\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Zoji La is the classic Kashmir Valley → Ladakh gateway on NH 1D — (a)-(ii). Khardung La links Leh with the Nubra Valley — (b)-(iii). Banihal Pass carries NH 44 between the Valley and Jammu — (c)-(i). Pir Panjal Pass on the Mughal Road connects Poonch/Rajouri (Jammu division) to Shopian in the Valley — (d)-(iv). The distractor (a)-(iii) misplaces Zoji La on the Nubra route. The distractor (b)-(iv) confuses Khardung La with the Mughal Road pass. The distractor (a)-(i) treats Zoji La as the Srinagar-Jammu link, which is Banihal's role."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The Zanskar river is a major tributary of which river?",
+      "options": ["Jhelum", "Chenab", "Ravi", "Indus"],
+      "correctAnswer": "Indus",
+      "explanation": "The Zanskar rises in Ladakh's Zanskar region (Padum area) and joins the Indus at Nimmu/Sangam, west of Leh — hence it is a tributary of the Indus. It is not a tributary of the Jhelum, which drains the Kashmir Valley on the southern side of the Great Himalayas. It does not join the Chenab, which flows through the Jammu region and Kishtwar. It has no connection to the Ravi in the Punjab plains."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The Karakoram Pass on the northernmost boundary of Ladakh historically connected India with:",
+      "options": ["Tibet (Lhasa route)", "Yarkand and Kashgar in Xinjiang (China)", "Kabul in Afghanistan", "Bhutan"],
+      "correctAnswer": "Yarkand and Kashgar in Xinjiang (China)",
+      "explanation": "The Karakoram Pass (about 5,540 m) was a key silk-route pass linking Leh with Yarkand and Kashgar in Xinjiang, historically used for the trans-Karakoram caravan trade. Tibet is reached from Ladakh via routes further east (like Chushul-Rudok toward the Lhasa side). Kabul is reached via the Khyber and Baroghil / Wakhan corridors from the west, not Karakoram Pass. Bhutan is on the eastern Himalayas — nowhere near Karakoram."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "The Wular Lake is drained (out-flow) by which river before it leaves the Valley?",
+      "options": ["Chenab", "Jhelum", "Ravi", "Neelum (Kishenganga)"],
+      "correctAnswer": "Jhelum",
+      "explanation": "The Jhelum enters Wular from the south and exits it near Sopore, continuing westward toward Baramulla and Uri. The Chenab flows through the Jammu region, not the Kashmir Valley — it does not enter or leave Wular. The Ravi never enters the Valley. The Kishenganga/Neelum flows through Kupwara / Gurez but joins the Jhelum only in POK; it is not the outlet of Wular."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Ladakh Union Territory:\n\n(i) It has two districts — Leh and Kargil.\n(ii) It shares an international border with both China and Pakistan.\n(iii) Its climate is described as 'cold desert'.\n(iv) It receives the bulk of India's south-west monsoon rainfall in July–August.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Ladakh UT is administratively divided into Leh and Kargil districts. (ii) is correct — Ladakh borders China (Line of Actual Control) and Pakistan (Line of Control). (iii) is correct — Ladakh's climate is a textbook cold desert with very low precipitation. (iv) is INCORRECT — Ladakh lies in the rain-shadow of the Great Himalayas and receives almost no south-west monsoon rain; whatever precipitation comes is mostly from western disturbances in winter as snow. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The Kolahoi Glacier, a major source of the Lidder river, is located near which town in the Kashmir Valley?",
+      "options": ["Sonmarg", "Gulmarg", "Yusmarg", "Pahalgam"],
+      "correctAnswer": "Pahalgam",
+      "explanation": "The Kolahoi Glacier lies at the head of the Lidder valley, above Aru meadow near Pahalgam in Anantnag district. Sonmarg is on the Sind river valley, not the Lidder. Gulmarg is on the Pir Panjal side (Baramulla district) and drains toward the Ferozpur nallah, not the Lidder. Yusmarg is on the western Pir Panjal flank near Charar-i-Sharief, again unrelated to the Lidder-Kolahoi system."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Kashmir Valley has a temperate climate despite lying in the general latitudinal belt of the tropics.\nReason (R): The Valley's elevation of about 1,600 m and its enclosure by high mountain ranges moderate summer temperatures and produce cold winters.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: the Valley experiences a temperate (sub-Mediterranean) climate — warm-but-not-hot summers and cold winters — even though its latitude is only about 34° N. (R) is correct: elevation drops temperature by about 6.5 °C per km, and the surrounding ranges keep out the hot northern-Indian tropical air. (R) explains (A) directly, since the temperate character is caused precisely by altitude and orographic enclosure. Option 2 wrongly denies the causal link. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "The Nubra Valley in Ladakh is best known for its double-humped Bactrian camels, sand dunes and monasteries at:",
+      "options": ["Alchi and Lamayuru", "Diskit and Hunder", "Thiksey and Hemis", "Spituk and Shey"],
+      "correctAnswer": "Diskit and Hunder",
+      "explanation": "The Nubra Valley (north of Khardung La) hosts the famous Diskit Monastery (with its giant Maitreya statue) and Hunder's sand-dune belt with Bactrian camels. Alchi and Lamayuru are historic monasteries but lie on the Leh–Kargil highway in the Indus valley, not in Nubra. Thiksey and Hemis are large monasteries near Leh in the Indus valley, again not in Nubra. Spituk and Shey are Leh-area monasteries, not Nubra."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Which of the following are important tributaries of the Jhelum river within the Kashmir Valley?\n\n(i) Lidder\n(ii) Sind\n(iii) Pohru\n(iv) Suru\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "The Lidder (from Pahalgam / Kolahoi) joins the Jhelum near Khanabal — (i) correct. The Sind (from Sonmarg / Amarnath area) joins the Jhelum near Shadipora — (ii) correct. The Pohru drains Kupwara and joins the Jhelum near Sopore — (iii) correct. The Suru, however, is in Ladakh and belongs to the Indus system, NOT the Jhelum. Every option including (iv) is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Which of the following districts of Jammu & Kashmir lies in the Chenab Valley of the Jammu division?",
+      "options": ["Anantnag", "Baramulla", "Doda", "Samba"],
+      "correctAnswer": "Doda",
+      "explanation": "Doda, along with Ramban and Kishtwar, lies in the Chenab Valley belt of the Jammu division. Anantnag is in the southern Kashmir Valley (Lidder catchment), drained by the Jhelum, not the Chenab. Baramulla is in the western Kashmir Valley on the Jhelum. Samba is a plains district south of Jammu on the Ravi-Basantar side, not the Chenab Valley."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The famous 'floating gardens' (Rad in local Kashmiri) are a distinctive feature of which water body?",
+      "options": ["Wular Lake", "Dal Lake", "Mansar Lake", "Pangong Tso"],
+      "correctAnswer": "Dal Lake",
+      "explanation": "Srinagar's Dal Lake is renowned for its floating vegetable gardens (Rad) built on rafts of reed and mud, where farmers grow tomatoes, cucumbers and greens. Wular is a much larger open lake and does not have this practice on a comparable scale. Mansar in Jammu is a small pilgrimage lake — no floating gardens. Pangong Tso is a high-altitude brackish lake in Ladakh where such cultivation is climatically impossible."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Pir Panjal Range:\n\n(i) It is a middle-Himalayan range separating the Kashmir Valley from the Jammu region.\n(ii) The Mughal Road crosses this range at Pir Panjal Pass.\n(iii) Its average altitude is higher than that of the Great Himalayan Range.\n(iv) The Banihal Pass and the Jawahar Tunnel cross this range.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — Pir Panjal is a middle-Himalayan (lesser-Himalayan) range separating the Valley from Jammu. (ii) is correct — the Mughal Road crosses the Pir Panjal Pass. (iv) is correct — Banihal Pass and the Jawahar Tunnel (now Banihal-Qazigund tunnel) pierce the Pir Panjal on NH 44. (iii) is INCORRECT — the Pir Panjal is on average LOWER than the Great Himalayan Range (whose Nun–Kun exceeds 7,000 m); the Pir Panjal averages around 4,000-5,000 m. Any option that includes (iii) is therefore wrong."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The K2 (Mount Godwin-Austen), the second-highest peak in the world, lies in which range and region of the erstwhile princely state of J&K?",
+      "options": [
+        "Great Himalayas, Kishtwar district",
+        "Karakoram Range, Gilgit-Baltistan (Pakistan-administered)",
+        "Zanskar Range, Ladakh UT",
+        "Pir Panjal Range, Rajouri district"
+      ],
+      "correctAnswer": "Karakoram Range, Gilgit-Baltistan (Pakistan-administered)",
+      "explanation": "K2 (8,611 m) rises in the Karakoram Range on the border of Gilgit-Baltistan (administered by Pakistan) and Xinjiang (China). No peak of that scale exists in the Great Himalayas of Kishtwar. The Zanskar Range in Ladakh UT has notable but lower peaks. The Pir Panjal in Rajouri is a middle-Himalayan range topping out around 4,700 m — far below K2's 8,611 m."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "The following table shows approximate altitudes:\n\nPlace                  Altitude (approx.)\nSrinagar                1,585 m\nGulmarg                  2,650 m\nLeh                      3,500 m\nSonmarg                  2,800 m\n\nBased on this data, which of the following inferences is correct?",
+      "options": [
+        "Srinagar is at a higher altitude than Sonmarg",
+        "Gulmarg is at a lower altitude than Srinagar",
+        "Leh is at the highest altitude among the four places listed",
+        "Sonmarg lies at exactly the same altitude as Leh"
+      ],
+      "correctAnswer": "Leh is at the highest altitude among the four places listed",
+      "explanation": "Reading the table, altitudes are 3,500 m (Leh) > 2,800 m (Sonmarg) > 2,650 m (Gulmarg) > 1,585 m (Srinagar). So Leh is the highest — the third option is correct. Srinagar (1,585 m) is lower than Sonmarg (2,800 m), so option 1 is wrong. Gulmarg (2,650 m) is higher than Srinagar (1,585 m), so option 2 is wrong. Sonmarg (2,800 m) is well below Leh (3,500 m), so option 4 is wrong."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "The Neelam / Kishenganga river, which flows through Gurez in Bandipora district, ultimately joins the Jhelum in:",
+      "options": ["Baramulla district", "Kupwara district", "Pakistan-administered Kashmir (near Muzaffarabad)", "Srinagar district"],
+      "correctAnswer": "Pakistan-administered Kashmir (near Muzaffarabad)",
+      "explanation": "The Kishenganga (called Neelam in POK) rises in Sonamarg-Gurez area, flows through Bandipora's Gurez valley, crosses the Line of Control and joins the Jhelum near Muzaffarabad in Pakistan-administered Kashmir. It does NOT confluence with the Jhelum in Baramulla — the Jhelum only leaves the Valley there. It does not join in Kupwara district (it just skirts the border there). It certainly does not join in Srinagar."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "Match the following geographical features with their locations in Jammu & Kashmir / Ladakh:\n\nColumn I:\n(a) Nun-Kun massif\n(b) Nubra Valley\n(c) Bhaderwah Valley\n(d) Gurez Valley\n\nColumn II:\n(i) Bandipora district (Kashmir)\n(ii) Doda district (Jammu division)\n(iii) Kargil district (Zanskar Range)\n(iv) Leh district, north of Khardung La\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Nun (7,135 m) and Kun (7,077 m) are twin peaks in the Zanskar Range in Kargil district — (a)-(iii). Nubra Valley lies north of Khardung La in Leh district — (b)-(iv). Bhaderwah is a scenic valley in Doda district of the Jammu division — (c)-(ii). Gurez Valley (through which the Kishenganga flows) is in Bandipora district — (d)-(i). The distractor (a)-(iv) misplaces Nun-Kun in Nubra. The distractor (c)-(iv) puts Bhaderwah in Ladakh, which is wrong. The distractor (a)-(i) misplaces Nun-Kun in Bandipora."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The Tawi river, which flows through Jammu city, is a tributary of the:",
+      "options": ["Jhelum", "Ravi", "Sutlej", "Chenab"],
+      "correctAnswer": "Chenab",
+      "explanation": "The Tawi rises in the Kailash Kund lake area of the Bhaderwah hills (Doda), flows through Udhampur and Jammu city, and ultimately joins the Chenab in Pakistani Punjab. It is not a tributary of the Jhelum (which drains the Kashmir Valley, on the other side of the Pir Panjal). It is not a Ravi tributary — the Ravi flows further south along the Kathua-Punjab border. It has no connection to the Sutlej, which is farther east/south of the Chenab basin."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Which of the following are true regarding Dal Lake, Srinagar?\n\n(i) It is divided into basins named Gagribal, Lokut Dal, Bod Dal and Nagin.\n(ii) It is fed primarily by the Telbal nallah from Marsar / Harwan.\n(iii) It has famous floating gardens and 'shikaras' as local boats.\n(iv) It is the largest freshwater lake in India.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — Dal is subdivided into Gagribal, Lokut Dal, Bod Dal and (informally) Nagin basins. (ii) is correct — Dal receives most of its inflow from the Telbal nallah originating in the Marsar-Harwan catchment. (iii) is correct — Dal is famous for floating vegetable gardens and shikaras. (iv) is INCORRECT — the largest freshwater lake in India is Wular, NOT Dal. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The __________ is the highest motorable pass in the Ladakh region on the Leh-Nubra route (approx. 5,359 m).",
+      "options": ["Zoji La", "Chang La", "Khardung La", "Umling La"],
+      "correctAnswer": "Khardung La",
+      "explanation": "Khardung La (about 5,359 m) sits on the road from Leh to the Nubra Valley and is one of Ladakh's most famous high-motorable passes. Zoji La is lower (about 3,528 m) and links Kashmir to Kargil, not Leh to Nubra. Chang La lies on the Leh-Pangong Tso route (about 5,360 m) — a different route, not the Leh-Nubra road. Umling La (about 5,883 m, Chumar-Demchok area) is even higher than Khardung La but is on the Chumar side, not on the Leh-Nubra route."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The town of Kargil, headquarters of Kargil district in Ladakh UT, lies primarily on the banks of which river?",
+      "options": ["Indus", "Zanskar", "Suru", "Shyok"],
+      "correctAnswer": "Suru",
+      "explanation": "Kargil town sits on the banks of the Suru river, a tributary of the Indus system flowing north from the Zanskar Range through Kargil town toward Sankhu-Chuktan. The Indus mainstream flows further east through Leh, not through Kargil town. The Zanskar river is further south, in the Zanskar valley proper (Padum). The Shyok is in the Nubra area (Leh district), well east and north of Kargil."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "The Salal Hydroelectric Project, one of the earliest major hydropower projects in Jammu & Kashmir, is built on which river?",
+      "options": ["Jhelum", "Tawi", "Indus", "Chenab"],
+      "correctAnswer": "Chenab",
+      "explanation": "Salal Dam / Salal HEP is built on the Chenab river in Reasi district, commissioned in the 1980s. Jhelum hosts other projects (Uri, Kishenganga) but not Salal. The Tawi has no major hydropower project of the Salal scale. The Indus in Ladakh has small hydropower plants but Salal is specifically on the Chenab, not the Indus."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Winter snowfall is essential for the water supply of the Kashmir Valley throughout the year.\nReason (R): The Jhelum and its tributaries are largely fed by the melting of snow and glaciers accumulated during winter.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: winter snow in the surrounding ranges is the primary annual water bank for the Valley. (R) is correct: the Jhelum and its tributaries (Sind, Lidder, Pohru) get most of their flow from snowmelt and glacial melt over spring and summer. (R) explains (A) precisely — without adequate snowfall, the rivers would run low in dry months. Option 2 wrongly denies the causal link. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "43",
+      "subject": "B",
+      "questionText": "The Boulevard road that skirts Dal Lake in Srinagar is dominated on its landward side by which hill?",
+      "options": ["Hari Parbat", "Zabarwan range", "Mahadev peak", "Shankaracharya hill (Takht-e-Sulaiman)"],
+      "correctAnswer": "Shankaracharya hill (Takht-e-Sulaiman)",
+      "explanation": "The Boulevard road runs along the southern shore of Dal Lake beneath the Shankaracharya hill (Takht-e-Sulaiman), which holds the famous Shankaracharya temple. Hari Parbat with the Mughal fort lies on the OTHER (western) side of Srinagar, above Nagin/old-city, not directly above the Boulevard. The Zabarwan range is the broader range of which Shankaracharya is only a spur — the immediate landmark on the Boulevard is specifically the Shankaracharya hill. Mahadev peak lies far behind, north-east of the city, and is not the immediate landmark along the Boulevard."
+    },
+    {
+      "id": "44",
+      "subject": "B",
+      "questionText": "Which of the following soil types is most characteristic of the Kashmir Valley floor, particularly around the Jhelum flood plain?",
+      "options": [
+        "Laterite soil",
+        "Regur (black cotton) soil",
+        "Alluvial soil",
+        "Cold desert / gravelly mountain soil"
+      ],
+      "correctAnswer": "Alluvial soil",
+      "explanation": "The Jhelum flood plain and central Valley floor are dominated by fertile alluvial soil deposited by the river — supporting paddy, vegetables and orchards. Laterite soil is a tropical weathering product (peninsular India, Western Ghats), not found in the temperate Kashmir Valley. Regur is the volcanic-origin black cotton soil of the Deccan, again absent in Kashmir. Cold desert / gravelly mountain soil is typical of Ladakh, not of the Valley floor."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Consider the following data of average annual rainfall (approximate):\n\nStation           Rainfall\nSrinagar          ~700 mm\nJammu             ~1,150 mm\nLeh               ~100 mm\nGulmarg           ~1,300 mm\n\nBased on this data, which of the following is a correct inference?",
+      "options": [
+        "Gulmarg receives less annual rainfall than Srinagar",
+        "Leh is the wettest station among those listed",
+        "Leh receives the least rainfall due to its rain-shadow position",
+        "Jammu is drier than Srinagar"
+      ],
+      "correctAnswer": "Leh receives the least rainfall due to its rain-shadow position",
+      "explanation": "The table shows Leh with about 100 mm, clearly the lowest — and this is because Leh sits in the rain-shadow of the Great Himalayas. So option 3 is correct. Option 1 (Gulmarg less than Srinagar) is wrong — Gulmarg at 1,300 mm is much wetter than Srinagar at 700 mm. Option 2 (Leh wettest) directly contradicts the data — 100 mm is the smallest, not the largest. Option 4 (Jammu drier than Srinagar) is wrong — Jammu at 1,150 mm is wetter than Srinagar at 700 mm."
+    },
+    {
+      "id": "46",
+      "subject": "B",
+      "questionText": "The Hangul (Kashmir stag), the state animal of Jammu & Kashmir, is chiefly found in which protected area?",
+      "options": ["Hemis National Park", "Kishtwar National Park", "Dachigam National Park", "Salim Ali National Park"],
+      "correctAnswer": "Dachigam National Park",
+      "explanation": "The Hangul (Kashmir stag), a critically endangered species, has its last significant wild population in Dachigam National Park (Srinagar/Ganderbal). Hemis National Park (Ladakh) is famous for the snow leopard, not Hangul. Kishtwar National Park hosts Himalayan brown bears and musk deer but is not the Hangul stronghold. Salim Ali National Park is a small city forest and not a viable Hangul habitat."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "The Manasbal Lake, known as the 'supreme gem' of all Kashmiri lakes for its clear water and lotus blooms, is located in which district?",
+      "options": ["Bandipora", "Ganderbal", "Srinagar", "Anantnag"],
+      "correctAnswer": "Ganderbal",
+      "explanation": "Manasbal is a small but deep lake situated in Ganderbal district, north of Srinagar; it is famous for its clarity and lotus (Nadru) beds. Bandipora hosts Wular Lake, not Manasbal. Srinagar district is home to Dal and Nigeen, but not Manasbal proper. Anantnag has Achabal springs and Verinag but no lake called Manasbal."
+    },
+    {
+      "id": "48",
+      "subject": "B",
+      "questionText": "The Doda district and the neighboring Kishtwar-Ramban belt are geologically most notable for large deposits of:",
+      "options": ["Coal", "Petroleum", "Sapphire (in Paddar-Kishtwar area)", "Iron ore"],
+      "correctAnswer": "Sapphire (in Paddar-Kishtwar area)",
+      "explanation": "The Paddar valley of Kishtwar (adjacent to Doda) is world-famous for its blue sapphires ('Kashmir sapphire'), among the most valuable gems in the trade. There are no commercial coal deposits in this belt — India's coal is mainly in Jharkhand/Odisha/Chhattisgarh. Petroleum is likewise absent — India's oil comes chiefly from Assam, Gujarat, offshore Bombay High. Iron ore is not a distinguishing mineral of the Doda-Kishtwar area; that industry is centred in Odisha, Jharkhand, Chhattisgarh."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Consider the following statements about the drainage of Ladakh:\n\n(i) The Indus is the master river of Ladakh, flowing generally from south-east to north-west.\n(ii) The Shyok is a tributary of the Indus and drains the Nubra Valley.\n(iii) The Zanskar joins the Indus at Nimmu (west of Leh).\n(iv) The Suru river is a tributary of the Jhelum.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — the Indus is Ladakh's master river, flowing from the Tibetan side into Ladakh in a broadly north-westerly direction. (ii) is correct — the Shyok drains Nubra and joins the Indus in Baltistan. (iii) is correct — the Zanskar meets the Indus at the Nimmu confluence (Sangam), west of Leh. (iv) is INCORRECT — the Suru drains Kargil and belongs to the Indus system (via the Suru-Dras-Indus network), not the Jhelum system. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "50",
+      "subject": "B",
+      "questionText": "Match the following districts of J&K UT with an important geographical feature located within them:\n\nColumn I:\n(a) Baramulla\n(b) Anantnag\n(c) Kishtwar\n(d) Bandipora\n\nColumn II:\n(i) Verinag spring (source of Jhelum)\n(ii) Wular Lake\n(iii) Gulmarg / Ferozpur nallah\n(iv) Kishtwar High Altitude National Park\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Gulmarg is in Baramulla district → (a)-(iii). Verinag spring, generally accepted as the source of the Jhelum, is in Anantnag district → (b)-(i). Kishtwar National Park is in Kishtwar district → (c)-(iv). Wular Lake lies in Bandipora district → (d)-(ii). The distractor (a)-(ii) misplaces Wular in Baramulla. The distractor (b)-(iii) misplaces Gulmarg in Anantnag. The distractor (a)-(i) misplaces the Verinag spring in Baramulla."
+    }
+  ]
+}

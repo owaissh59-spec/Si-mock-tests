@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 270,
+  "count": 320,
   "questions": [
     {
       "test": 2,
@@ -1352,6 +1352,256 @@
       "test": 33,
       "stem": "consider the following statements about the solstices and the equinoxes: (i) on",
       "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following rivers is regarded as the lifeline of the",
+      "key": "Jhelum"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following statements about the physical divisions of jammu & kashmir:",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "the zoji la pass connects the kashmir valley with which of the",
+      "key": "Ladakh region (Kargil-Leh)"
+    },
+    {
+      "test": 39,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 39,
+      "stem": "match the following lakes with the region/district in which they are located:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 39,
+      "stem": "nanga parbat, one of the world's highest peaks (over 8,000 m), lies",
+      "key": "Gilgit-Baltistan region (Pakistan-administered) of the erstwhile princely state"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following are correctly described as tributaries of the chenab",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 39,
+      "stem": "the banihal pass in the pir panjal range links the kashmir valley",
+      "key": "Jammu region"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following statements about the kashmir valley: (i) it is a",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "the siachen glacier, one of the world's longest non-polar glaciers, is located",
+      "key": "The Karakoram Range in Ladakh"
+    },
+    {
+      "test": 39,
+      "stem": "the __________ is the largest freshwater lake in india and lies in",
+      "key": "Wular Lake"
+    },
+    {
+      "test": 39,
+      "stem": "saffron cultivation in the kashmir valley is most closely associated with which",
+      "key": "Pampore (Pulwama district)"
+    },
+    {
+      "test": 39,
+      "stem": "the average altitude of the kashmir valley floor is approximately:",
+      "key": "1,600 m"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following are national parks located within the union territory",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 39,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 39,
+      "stem": "the amarnath cave shrine, an important hindu pilgrimage site, is located in",
+      "key": "Anantnag"
+    },
+    {
+      "test": 39,
+      "stem": "the great himalayan range in jammu & kashmir is popularly known by",
+      "key": "Zanskar"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following statements about the districts and administrative geography of the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "the chenab river is formed by the confluence of two streams in",
+      "key": "Bhaga and Chandra"
+    },
+    {
+      "test": 39,
+      "stem": "the vaishno devi shrine, one of the most visited religious sites in",
+      "key": "Reasi"
+    },
+    {
+      "test": 39,
+      "stem": "match the following mountain passes with the region/route they serve: column i:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 39,
+      "stem": "the zanskar river is a major tributary of which river?",
+      "key": "Indus"
+    },
+    {
+      "test": 39,
+      "stem": "the karakoram pass on the northernmost boundary of ladakh historically connected india",
+      "key": "Yarkand and Kashgar in Xinjiang (China)"
+    },
+    {
+      "test": 39,
+      "stem": "the wular lake is drained (out-flow) by which river before it leaves",
+      "key": "Jhelum"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following statements about the ladakh union territory: (i) it has",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "the kolahoi glacier, a major source of the lidder river, is located",
+      "key": "Pahalgam"
+    },
+    {
+      "test": 39,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 39,
+      "stem": "the nubra valley in ladakh is best known for its double-humped bactrian",
+      "key": "Diskit and Hunder"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following are important tributaries of the jhelum river within",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following districts of jammu & kashmir lies in the",
+      "key": "Doda"
+    },
+    {
+      "test": 39,
+      "stem": "the famous 'floating gardens' (rad in local kashmiri) are a distinctive feature",
+      "key": "Dal Lake"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following statements about the pir panjal range: (i) it is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 39,
+      "stem": "the k2 (mount godwin-austen), the second-highest peak in the world, lies in",
+      "key": "Karakoram Range, Gilgit-Baltistan (Pakistan-administered)"
+    },
+    {
+      "test": 39,
+      "stem": "the following table shows approximate altitudes: place altitude (approx.) srinagar 1,585 m",
+      "key": "Leh is at the highest altitude among the four places listed"
+    },
+    {
+      "test": 39,
+      "stem": "the neelam / kishenganga river, which flows through gurez in bandipora district,",
+      "key": "Pakistan-administered Kashmir (near Muzaffarabad)"
+    },
+    {
+      "test": 39,
+      "stem": "match the following geographical features with their locations in jammu & kashmir",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 39,
+      "stem": "the tawi river, which flows through jammu city, is a tributary of",
+      "key": "Chenab"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following are true regarding dal lake, srinagar? (i) it",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "the __________ is the highest motorable pass in the ladakh region on",
+      "key": "Khardung La"
+    },
+    {
+      "test": 39,
+      "stem": "the town of kargil, headquarters of kargil district in ladakh ut, lies",
+      "key": "Suru"
+    },
+    {
+      "test": 39,
+      "stem": "the salal hydroelectric project, one of the earliest major hydropower projects in",
+      "key": "Chenab"
+    },
+    {
+      "test": 39,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 39,
+      "stem": "the boulevard road that skirts dal lake in srinagar is dominated on",
+      "key": "Shankaracharya hill (Takht-e-Sulaiman)"
+    },
+    {
+      "test": 39,
+      "stem": "which of the following soil types is most characteristic of the kashmir",
+      "key": "Alluvial soil"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following data of average annual rainfall (approximate): station rainfall srinagar",
+      "key": "Leh receives the least rainfall due to its rain-shadow position"
+    },
+    {
+      "test": 39,
+      "stem": "the hangul (kashmir stag), the state animal of jammu & kashmir, is",
+      "key": "Dachigam National Park"
+    },
+    {
+      "test": 39,
+      "stem": "the manasbal lake, known as the 'supreme gem' of all kashmiri lakes",
+      "key": "Ganderbal"
+    },
+    {
+      "test": 39,
+      "stem": "the doda district and the neighboring kishtwar-ramban belt are geologically most notable",
+      "key": "Sapphire (in Paddar-Kishtwar area)"
+    },
+    {
+      "test": 39,
+      "stem": "consider the following statements about the drainage of ladakh: (i) the indus",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 39,
+      "stem": "match the following districts of j&k ut with an important geographical feature",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
     }
   ]
 }

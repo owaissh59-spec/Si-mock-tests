@@ -1,0 +1,377 @@
+{
+  "subject": "F",
+  "topic": "MS PowerPoint",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "What is the default file extension of a presentation created and saved in MS PowerPoint 2016?",
+      "options": [".pptx", ".ppt", ".ppsx", ".potx"],
+      "correctAnswer": ".pptx",
+      "explanation": "Since PowerPoint 2007, the default save format uses the Office Open XML format, whose extension for a standard editable presentation is .pptx. '.ppt' is the older binary format used up to PowerPoint 2003 and is not the default in 2016. '.ppsx' is a PowerPoint Show file that opens directly in slideshow mode, not the default editable format. '.potx' is a PowerPoint template file used to create new presentations from a design, not a normal saved presentation."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about slide layouts in MS PowerPoint:\n\n(i) A slide layout defines the placement of placeholders such as title, content, and footer on a slide.\n(ii) The 'Blank' layout contains no placeholders at all.\n(iii) Every slide in a presentation must use the same layout.\n(iv) Slide layouts are controlled by the Slide Master.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: a layout is precisely the arrangement of placeholders on a slide. (ii) is correct: the Blank layout intentionally has no placeholders, giving a clean canvas. (iv) is correct: layouts inherit formatting from and are managed under the Slide Master. (iii) is incorrect: different slides in the same presentation can use different layouts (Title, Title+Content, Two Content, etc.), which is why the option including (iii) is wrong. Only the option that omits (iii) — namely '(i), (ii) and (iv) only' — is correct; the other three options each include (iii) and are therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "Which keyboard shortcut starts the slideshow from the very first slide in MS PowerPoint?",
+      "options": ["Shift + F5", "Ctrl + F5", "Alt + F5", "F5"],
+      "correctAnswer": "F5",
+      "explanation": "Pressing F5 alone launches the slideshow from Slide 1, regardless of which slide is currently active. Shift + F5 is wrong because it starts the slideshow from the currently selected slide, not from the beginning. Ctrl + F5 is not a slideshow shortcut in PowerPoint (it restores a window in some Office apps). Alt + F5 opens Presenter View in newer PowerPoint versions but not the standard slideshow from Slide 1."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Changing the font on the Slide Master automatically changes the font on every slide that uses that master.\nReason (R): The Slide Master is the top-level slide that stores information about the theme and slide layouts of a presentation.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because slides inherit formatting from the master; changing a master font propagates to all slides that have not manually overridden the font. (R) is correct because the Slide Master is defined exactly as the top-level slide holding theme, colors, fonts, and layouts. (R) also correctly explains (A) — the reason master changes propagate is precisely that the master stores theme information the slides inherit. Option 2 is wrong because (R) IS the explanation. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is also factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Match the following MS PowerPoint ribbon tabs with the feature groups they primarily contain:\n\nColumn I:\n(a) Design\n(b) Transitions\n(c) Animations\n(d) Slide Show\n\nColumn II:\n(i) Add Animation, Animation Pane, Trigger\n(ii) Themes, Variants, Slide Size, Format Background\n(iii) From Beginning, Rehearse Timings, Set Up Slide Show\n(iv) Transition to This Slide, Effect Options, Duration\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Design tab houses Themes, Variants, and Slide Size / Background settings — so (a)-(ii). Transitions tab contains slide-to-slide effects (Fade, Push, etc.), Effect Options and Duration — so (b)-(iv). Animations tab has Add Animation, Animation Pane and Trigger which control object-level motion — so (c)-(i). Slide Show tab has From Beginning, Rehearse Timings and Set Up Slide Show — so (d)-(iii). The distractor mapping (a)-(iv) is wrong because Design does not run the slideshow. The distractor pairing (b)-(i) is wrong because Add Animation belongs to Animations, not Transitions. The distractor pairing (a)-(iii) is wrong because From Beginning is a Slide Show feature, not a Design feature."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "What is the primary purpose of the SmartArt feature in MS PowerPoint?",
+      "options": [
+        "To insert professionally designed graphical layouts to represent information visually",
+        "To automatically translate slide text into another language",
+        "To convert slides into a PDF format for sharing",
+        "To detect and correct spelling errors in a presentation"
+      ],
+      "correctAnswer": "To insert professionally designed graphical layouts to represent information visually",
+      "explanation": "SmartArt provides ready-made visual layouts (lists, processes, cycles, hierarchies, relationships, matrices, pyramids) so users can convert plain text into a diagram quickly. It has no built-in language translation function; that is handled by the Translate tool. Converting to PDF is done via Save As / Export, not SmartArt. Spelling detection is performed by the Spelling & Grammar (F7) tool, again unrelated to SmartArt."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "Which of the following are valid slide transition effects available in MS PowerPoint?\n\n(i) Fade\n(ii) Push\n(iii) Compile\n(iv) Wipe\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Fade, Push and Wipe are standard slide transitions found in the Transitions tab. 'Compile' is not a PowerPoint transition — it is a term used in software/programming for translating source code to machine code and has no place in the Transitions gallery. Therefore only (i), (ii) and (iv) are valid; every option that includes (iii) is wrong."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "The Slide Sorter view in MS PowerPoint is primarily used to:",
+      "options": [
+        "View all slides simultaneously as thumbnails to reorder or delete them",
+        "Present the slideshow to an audience in full screen",
+        "Type and format speaker notes for each slide",
+        "Edit the master slide that controls the entire presentation"
+      ],
+      "correctAnswer": "View all slides simultaneously as thumbnails to reorder or delete them",
+      "explanation": "Slide Sorter shows all slides as small thumbnails on one screen so the presenter can drag-and-drop to reorder, group by section, or delete slides efficiently. Presenting full screen is done in Slide Show view, not Slide Sorter. Typing speaker notes is done in Notes Page view or the Notes pane below the slide in Normal view. Editing the master is done in Slide Master view accessed from the View tab."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "Consider the following statements about animations in MS PowerPoint:\n\n(i) Entrance animations control how an object appears on the slide.\n(ii) The Animation Pane allows the user to reorder and time animations.\n(iii) An object can have at most one animation effect applied to it.\n(iv) A Motion Path animation moves an object along a defined path on the slide.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: entrance animations (Appear, Fly In, Fade) govern how the object enters the slide. (ii) is correct: the Animation Pane is a docked panel that lists animations and lets the user reorder, retime and adjust triggers. (iv) is correct: Motion Paths are a category of animations that move an object along a predefined or custom path. (iii) is incorrect: a single object can have multiple animations stacked (e.g., an entrance, an emphasis, and an exit), added via 'Add Animation'. Any option containing (iii) is therefore wrong."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "In MS PowerPoint, the Handout Master is used to:",
+      "options": [
+        "Design the transition timing between individual slides",
+        "Manage the animation triggers for embedded objects",
+        "Control the layout of printed audience handouts with multiple slides per page",
+        "Record audio narration synchronized with the slides"
+      ],
+      "correctAnswer": "Control the layout of printed audience handouts with multiple slides per page",
+      "explanation": "The Handout Master (View > Handout Master) defines how handouts look when printed — including slides-per-page, header, footer, page number and date placement. Transition timing is set on the Transitions tab, not the Handout Master. Animation triggers are configured in the Animation Pane. Audio narration is recorded from Slide Show > Record Slide Show, unrelated to handout printing."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "The __________ view in MS PowerPoint is used to add and format speaker notes that appear below the slide, which the presenter can refer to while presenting.",
+      "options": ["Slide Master", "Notes Page", "Reading", "Outline"],
+      "correctAnswer": "Notes Page",
+      "explanation": "Notes Page view (View > Notes Page) shows the slide at the top and a large notes area beneath where the presenter can type formatted speaker notes visible in Presenter View. Slide Master controls slide-level design, not per-slide notes. Reading view previews the presentation within the PowerPoint window but does not focus on notes editing. Outline view shows only slide titles and bullet text — it hides notes altogether."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "Which keyboard shortcut starts the slideshow from the currently selected slide instead of from the beginning?",
+      "options": ["F5", "Ctrl + F5", "Ctrl + Shift + F5", "Shift + F5"],
+      "correctAnswer": "Shift + F5",
+      "explanation": "Shift + F5 begins the slideshow from whichever slide is currently active in the editor — useful for previewing a specific slide during editing. F5 alone starts the slideshow from Slide 1, not the current slide. Ctrl + F5 is not a PowerPoint slideshow shortcut. Ctrl + Shift + F5 is not a defined shortcut for starting a slideshow in PowerPoint."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): SmartArt graphics automatically re-flow their layout when the amount of text in them is changed.\nReason (R): SmartArt graphics are static images imported from external sources into PowerPoint.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: SmartArt is a dynamic vector-based layout — adding or removing bullets from the Text Pane makes the shapes resize and reposition automatically so the diagram stays balanced. (R) is incorrect because SmartArt is generated inside PowerPoint from a text outline; it is not an imported static image. Options 1 and 2 are wrong because they claim (R) is correct. Option 4 is wrong because it denies (A), which is actually true."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "Match the following MS PowerPoint views with their primary purposes:\n\nColumn I:\n(a) Normal View\n(b) Slide Sorter View\n(c) Reading View\n(d) Outline View\n\nColumn II:\n(i) Displays only slide titles and text as a hierarchical outline for quick text edits\n(ii) Default editing view showing the current slide with thumbnails pane and notes pane\n(iii) Shows all slides as thumbnails arranged in a grid to reorder or delete them\n(iv) Plays the presentation inside the PowerPoint window rather than full screen\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Normal View is the default editing environment showing the active slide plus a thumbnail pane and notes pane — (a)-(ii). Slide Sorter arranges all slide thumbnails in a grid for reordering — (b)-(iii). Reading View plays the presentation within a resizable window rather than taking over the full screen — (c)-(iv). Outline View displays only titles and text as a text outline for fast text editing — (d)-(i). The distractor mapping (a)-(iii) is wrong because Slide Sorter shows the grid — that is not what Normal does. The distractor mapping (c)-(iii) is wrong because Reading View does not show a grid of thumbnails. The distractor (a)-(i) is wrong because Outline is title-and-text only, whereas Normal is the full editor."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "The 'Custom Slide Show' feature in MS PowerPoint allows a user to:",
+      "options": [
+        "Automatically translate slides into a different language during a live show",
+        "Create a subset of slides from the presentation that can be shown to a specific audience",
+        "Convert each slide into an editable Word document",
+        "Password-protect the presentation from unauthorized viewing"
+      ],
+      "correctAnswer": "Create a subset of slides from the presentation that can be shown to a specific audience",
+      "explanation": "Custom Slide Show (Slide Show > Custom Slide Show) lets the presenter pick specific slides and save them as a named sub-show that can be played independently without deleting slides from the master file. Automatic translation is not part of Custom Slide Show. Converting slides to Word documents is done via File > Export > Create Handouts in Word, not Custom Slide Show. Password protection is set through File > Info > Protect Presentation, again unrelated."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "Which of the following are valid print options available in MS PowerPoint when printing a presentation?\n\n(i) Full Page Slides\n(ii) Notes Pages\n(iii) Outline\n(iv) Reflection\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Under File > Print, the Print Layout dropdown offers Full Page Slides, Notes Pages, Outline and various Handouts. (i), (ii) and (iii) are all valid printable layouts. 'Reflection' is a shape/picture effect applied to objects on a slide — it is not a print layout, so any option that includes (iv) is wrong."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "The 'Comments' feature in MS PowerPoint is primarily used to:",
+      "options": [
+        "Insert speaker notes that appear in Presenter View during the show",
+        "Convert selected text into an animated caption",
+        "Encrypt the presentation with a password",
+        "Add reviewer feedback attached to specific slides or objects without altering the slide content"
+      ],
+      "correctAnswer": "Add reviewer feedback attached to specific slides or objects without altering the slide content",
+      "explanation": "Comments (Review > New Comment) let a reviewer attach notes to a slide or an object; they appear in a Comments pane and do not modify the slide itself. Speaker notes appear in the Notes pane and Presenter View, but those are different from comments — notes are for the presenter, comments are for reviewers. Comments do not create animations. Password encryption is done via File > Info > Protect Presentation, unrelated to Comments."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Consider the following statements about hyperlinks in MS PowerPoint:\n\n(i) A hyperlink can link to another slide within the same presentation.\n(ii) A hyperlink can open an email client with a pre-filled address using a mailto: link.\n(iii) A hyperlink cannot be attached to a shape; it works only on text.\n(iv) A hyperlink can open an external file on the local computer.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: PowerPoint hyperlinks can jump to any slide in the current presentation via 'Place in This Document'. (ii) is correct: an E-mail Address hyperlink launches the default mail client with the specified address (and optional subject) via mailto:. (iv) is correct: Existing File or Web Page in the Insert Hyperlink dialog lets a hyperlink open any local file. (iii) is incorrect: a hyperlink can be attached to a text run, a shape, an image, a chart or a SmartArt element — not only text. Any option containing (iii) is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "The 'Rehearse Timings' feature in MS PowerPoint is used to:",
+      "options": [
+        "Record the time spent on each slide so the slideshow can advance automatically",
+        "Change the default duration of slide transitions to a fixed value",
+        "Encrypt the timings of the presentation for security",
+        "Reset the file save timestamp to the current time"
+      ],
+      "correctAnswer": "Record the time spent on each slide so the slideshow can advance automatically",
+      "explanation": "Rehearse Timings (Slide Show > Rehearse Timings) runs the show while measuring how long you spend on each slide; those timings can then be saved and reused so the slideshow advances automatically. Setting a fixed transition duration is done in the Transitions tab under Duration, not Rehearse Timings. Encryption of timings is not a PowerPoint feature. The file save timestamp is set by the operating system when the file is saved, unrelated to Rehearse Timings."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "The 'Kiosk mode' in the Set Up Slide Show dialog is designed for presentations that:",
+      "options": [
+        "Are delivered by a presenter using a wireless clicker",
+        "Loop continuously and can only be advanced by the audience via configured triggers or hyperlinks",
+        "Are converted to a video file automatically after each play",
+        "Contain only text slides without any embedded media"
+      ],
+      "correctAnswer": "Loop continuously and can only be advanced by the audience via configured triggers or hyperlinks",
+      "explanation": "'Browsed at a kiosk (full screen)' — Kiosk mode — is intended for unattended booths where the show loops and does not respond to normal mouse clicks; navigation is possible only through action buttons or hyperlinks the author has placed. Presenter-driven delivery corresponds to the 'Presented by a speaker (full screen)' mode, not kiosk. Video conversion is done manually via File > Export > Create a Video, not by kiosk mode. There is no restriction in kiosk mode against embedded media; slides can contain images, video and audio."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "To save a PowerPoint presentation as a PDF file, the user should:",
+      "options": [
+        "Choose Insert > PDF Object and click Save",
+        "Press Ctrl + P and select 'Print to Excel'",
+        "Choose File > Export > Create PDF/XPS Document (or File > Save As and pick PDF)",
+        "Choose Review > Convert to PDF"
+      ],
+      "correctAnswer": "Choose File > Export > Create PDF/XPS Document (or File > Save As and pick PDF)",
+      "explanation": "File > Export > Create PDF/XPS Document is the standard route in PowerPoint 2013 and later; equivalently, Save As with PDF chosen in the file type dropdown works. Insert > PDF Object embeds a PDF into a slide rather than saving the presentation as a PDF. 'Print to Excel' is not an option — Ctrl + P opens the Print dialog and Excel is a spreadsheet application, not a PDF writer. There is no 'Convert to PDF' command on the Review tab; Review holds proofing, comments and comparison tools."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "Match the following animation categories in MS PowerPoint with their descriptions:\n\nColumn I:\n(a) Entrance\n(b) Emphasis\n(c) Exit\n(d) Motion Path\n\nColumn II:\n(i) The object leaves the slide (e.g., Fly Out, Fade Out)\n(ii) The object enters the slide (e.g., Fly In, Appear)\n(iii) The object moves along a defined trajectory on the slide\n(iv) The object draws attention while on the slide (e.g., Pulse, Spin)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Entrance animations bring the object onto the slide — (a)-(ii). Emphasis animations act on an object already visible to draw attention — (b)-(iv). Exit animations remove the object from view — (c)-(i). Motion Paths move an object along a custom line, curve or shape — (d)-(iii). The distractor mapping (a)-(iv) is wrong because Entrance describes appearing, not attention effects. The distractor (b)-(i) is wrong because Emphasis is not about exiting. The distractor (a)-(iii) is wrong because Entrance is not a motion path — motion paths are their own category."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "To insert automatic slide numbers on every slide of a presentation, the user should go to:",
+      "options": [
+        "Design > Slide Size > Custom",
+        "View > Slide Master > add a text box manually on each slide",
+        "File > Options > Save > Auto Number",
+        "Insert > Header & Footer > tick 'Slide number' > Apply to All"
+      ],
+      "correctAnswer": "Insert > Header & Footer > tick 'Slide number' > Apply to All",
+      "explanation": "The Header & Footer dialog on the Insert tab has a 'Slide number' checkbox; ticking it and clicking 'Apply to All' places the numbering placeholder from the master on every slide. Design > Slide Size only changes physical slide dimensions, not numbering. Editing the Slide Master and typing text boxes manually would put static text, not automatic per-slide numbers. File > Options > Save has no 'Auto Number' feature — that path controls autorecover and default save formats."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "Which of the following can be inserted into a slide using the Insert tab in MS PowerPoint?\n\n(i) Table\n(ii) Chart\n(iii) Video from PC\n(iv) BIOS firmware\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "The Insert tab contains Table, Chart and Video (from a PC file, from online, or a screen recording) — so (i), (ii) and (iii) are all valid. 'BIOS firmware' is low-level code embedded in a computer's motherboard ROM; it has nothing to do with PowerPoint slides and cannot be inserted through any menu. Every option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A theme in MS PowerPoint changes the colors, fonts, and effects applied throughout the presentation with a single click.\nReason (R): A template (.potx) and a theme (.thmx) serve the same purpose and are stored in the same file format.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: applying a theme instantly restyles color palette, font pairing and effect set across the whole deck. (R) is incorrect on two counts — a template (.potx) bundles slide layouts and content along with a theme, while a theme (.thmx) contains only the design (colors/fonts/effects); their file formats and purposes differ. Options 1 and 2 are wrong because they assert (R) is correct. Option 4 is wrong because it denies (A), which is actually true."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "Consider the following statements about action buttons in MS PowerPoint:\n\n(i) Action buttons are pre-designed shapes that can be assigned actions like 'Go to next slide' or 'Run a program'.\n(ii) Action buttons are available under Insert > Shapes.\n(iii) Action buttons work only in the editing view and not during a slideshow.\n(iv) An action button can play a sound when clicked.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: action buttons ship with pre-assigned intents like Next, Previous, Home, Return and Run Program. (ii) is correct: they appear at the bottom of the Insert > Shapes gallery. (iv) is correct: the Action Settings dialog has a 'Play sound' checkbox that plays a sound on click or mouseover. (iii) is incorrect — action buttons are triggered precisely during the slideshow (Mouse Click or Mouse Over); in editing view they behave like ordinary shapes. Any option containing (iii) is therefore wrong."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "The Zoom slider located at the bottom-right corner of the MS PowerPoint window is used to:",
+      "options": [
+        "Change the size of text in the current placeholder",
+        "Magnify or shrink the view of the slide within the editor without changing slide contents",
+        "Increase the physical size of the slide when printed",
+        "Compress embedded media to reduce file size"
+      ],
+      "correctAnswer": "Magnify or shrink the view of the slide within the editor without changing slide contents",
+      "explanation": "The Zoom slider is purely a view control — it scales what the user sees on screen while leaving the slide contents and their sizes on the actual slide untouched. It does not resize text in a placeholder; that requires selecting the text and changing the font size. It does not change print size — printing scales to page size independently. Compressing embedded media is done through File > Info > Compress Media or Picture Format > Compress Pictures, not the Zoom slider."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "The 'Present Online' (formerly Broadcast Slide Show) feature in MS PowerPoint enables the user to:",
+      "options": [
+        "Automatically upload the presentation to a printer queue",
+        "Convert slides into a PDF and email them as an attachment",
+        "Merge two open presentations into a single file",
+        "Share the live slideshow over the internet so remote viewers can watch in a web browser"
+      ],
+      "correctAnswer": "Share the live slideshow over the internet so remote viewers can watch in a web browser",
+      "explanation": "Present Online creates a temporary link (via the Office Presentation Service or a similar broadcast service) that remote attendees can open in a web browser to watch the show in real time. Uploading to a printer queue is done by the operating system's print system when a file is printed. Converting to PDF and emailing requires manual export and attachment, not Present Online. Merging two presentations is done with Home > New Slide > Reuse Slides or the Compare feature, not Present Online."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "The Presenter View in MS PowerPoint shows the presenter:",
+      "options": [
+        "Only the current slide identical to what the audience sees",
+        "The current slide, next slide preview, speaker notes and an elapsed time counter",
+        "A live editable copy of the slide during the show",
+        "A read-only PDF preview of the whole deck"
+      ],
+      "correctAnswer": "The current slide, next slide preview, speaker notes and an elapsed time counter",
+      "explanation": "Presenter View is designed so the audience sees only the current slide on the projector while the presenter's monitor shows the current slide, an upcoming-slide thumbnail, speaker notes and a timer/clock. Option 1 describes what the audience sees, not Presenter View. The current slide cannot be edited in Presenter View — edits require exiting to Normal View. Presenter View is not a PDF preview; it is a live rendering of the show with additional presenter aids."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "Consider the following statements about slide size and orientation in MS PowerPoint:\n\n(i) 'Widescreen (16:9)' is the default slide size in MS PowerPoint 2013 and later.\n(ii) Slide orientation can be either Portrait or Landscape.\n(iii) Every slide in the same presentation can have its own independent slide size.\n(iv) The Slide Size option is accessed from the Design tab.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: PowerPoint 2013 introduced 16:9 (Widescreen) as the default slide size, replacing the earlier 4:3 default. (ii) is correct: Portrait and Landscape are the two orientations available in Slide Size > Custom Slide Size. (iv) is correct: the Slide Size button lives on the Design tab in the Customize group. (iii) is incorrect: slide size is a presentation-level setting; every slide in a given presentation shares the same size and orientation. Any option that includes (iii) is therefore wrong."
+    }
+  ]
+}

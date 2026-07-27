@@ -113,9 +113,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 37 | Morning | F — Computer Proficiency | MS PowerPoint | 30 | foundation | Topic-wise | ⬜ |
-| 38 | Afternoon | A — General Intelligence & Reasoning | Venn Diagrams & Syllogism | 40 | foundation | Topic-wise | ⬜ |
-| 39 | Late | B — General Awareness | Geography of Jammu & Kashmir | 50 | foundation | Topic-wise | ⬜ |
+| 37 | Morning | F — Computer Proficiency | MS PowerPoint | 30 | foundation | Topic-wise | ✅ |
+| 38 | Afternoon | A — General Intelligence & Reasoning | Venn Diagrams & Syllogism | 40 | foundation | Topic-wise | ✅ |
+| 39 | Late | B — General Awareness | Geography of Jammu & Kashmir | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 14
 

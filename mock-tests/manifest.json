@@ -563,7 +563,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "37_test_F_ms-powerpoint.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 38,
@@ -578,7 +578,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "38_test_A_venn-syllogism.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 39,
@@ -593,7 +593,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "39_test_B_jk-geography.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 40,

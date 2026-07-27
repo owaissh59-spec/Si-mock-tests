@@ -1,0 +1,502 @@
+{
+  "subject": "A",
+  "topic": "Venn Diagrams & Syllogism",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Statements:\nAll pens are pencils.\nAll pencils are erasers.\n\nConclusions:\n(I) All pens are erasers.\n(II) All erasers are pens.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "By the transitive rule (All A are B, All B are C ⇒ All A are C), 'All pens are pencils' plus 'All pencils are erasers' forces 'All pens are erasers' — so (I) follows. Conclusion (II) reverses the class inclusion; from 'All pens are erasers' we cannot infer that all erasers are pens (there may be erasers that are not pens). Hence 'only (II)', 'both follow' and 'neither follows' are incorrect."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Statements:\nSome cats are dogs.\nAll dogs are animals.\n\nConclusions:\n(I) Some cats are animals.\n(II) All cats are animals.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "The cats that are dogs must be animals (since all dogs are animals). Therefore some cats are certainly animals — (I) follows. (II) claims ALL cats are animals, but the premises tell us only that the OVERLAPPING cats-that-are-dogs are animals; the cats that are not dogs are not covered. So (II) does not follow. 'Both' and 'neither' are wrong for the same reasons."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Statements:\nNo bird is a fish.\nAll fish are aquatic.\n\nConclusions:\n(I) No bird is aquatic.\n(II) Some aquatic are not birds.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "Fish are aquatic and no bird is a fish; so fish exist as at least one class of aquatic that are not birds — hence 'Some aquatic are not birds' is guaranteed and (II) follows. Conclusion (I) is not necessary: birds and fish are disjoint, but the class 'aquatic' is wider than fish and could still contain aquatic birds (like penguins in ordinary reasoning). So (I) does not necessarily follow. Therefore 'only (I)', 'both' and 'neither' are all wrong."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Consider the following statements about Venn diagram representation of categorical propositions:\n\n(i) In a Venn diagram, two overlapping circles show that some members of one class are also members of the other.\n(ii) A shaded region in a Venn diagram means the region is empty.\n(iii) A cross (×) placed in a region means that region has at least one member.\n(iv) Two completely disjoint circles indicate that ALL members of one class are members of the other.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: overlapping circles depict partial inclusion — i.e., some members are shared. (ii) is correct by standard Venn convention — shading = empty region. (iii) is correct by standard Venn convention — a × mark asserts existence of at least one member in that region. (iv) is incorrect: two completely disjoint (non-overlapping) circles indicate that NO member of one class is a member of the other (the 'No S is P' proposition), not that all are. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The syllogism 'No A is B; No B is C; therefore No A is C' is invalid.\nReason (R): A valid syllogism cannot have two negative premises.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: with 'No A is B' and 'No B is C' we cannot conclude anything definite about the relationship between A and C — they might overlap, be disjoint, or be identical. (R) is correct: one of the classical rules of syllogism states that no valid conclusion can be drawn from two negative (E or O) premises. (R) explains (A) precisely — because both premises here are negative, the syllogism is disqualified, which is exactly why (A) is true. Options 2 and 3 are wrong because they deny the explanatory link or the truth of (R). Option 4 is wrong because (A) is actually correct."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the following types of categorical propositions with their standard forms:\n\nColumn I:\n(a) Universal Affirmative (A)\n(b) Universal Negative (E)\n(c) Particular Affirmative (I)\n(d) Particular Negative (O)\n\nColumn II:\n(i) Some S are P\n(ii) All S are P\n(iii) Some S are not P\n(iv) No S is P\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "A-type = 'All S are P' (universal affirmative). E-type = 'No S is P' (universal negative). I-type = 'Some S are P' (particular affirmative). O-type = 'Some S are not P' (particular negative). This is standard Aristotelian classification. The distractor (a)-(i) is wrong because 'All' is universal, not 'some'. The distractor (b)-(i) is wrong because E-type is negative, not affirmative. The distractor (a)-(iv) reverses affirmative with negative and is therefore wrong."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Statements:\nAll roses are flowers.\nSome flowers are red.\n\nConclusions:\n(I) Some roses are red.\n(II) Some red are flowers.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "(II) is a direct conversion of 'Some flowers are red' — since some flowers are red, some red things must also be flowers. So (II) certainly follows. (I) is a common trap: from 'All roses are flowers' and 'Some flowers are red' we cannot conclude anything about roses specifically, because the 'some flowers' that are red need not overlap with the sub-class of roses. Hence 'only (I)', 'both' and 'neither' are all wrong."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Which of the following conclusions logically follow from the statements below?\n\nStatements:\nAll doctors are graduates.\nAll graduates are educated.\n\n(i) All doctors are educated.\n(ii) All educated persons are doctors.\n(iii) Some educated persons are doctors.\n(iv) Some graduates are educated.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) follows by transitivity: All doctors are graduates and all graduates are educated ⇒ all doctors are educated. (iii) follows because doctors are a subset of educated (a subset is 'some'). (iv) follows because 'All graduates are educated' immediately implies 'Some graduates are educated' (subalternation, assuming existential import). (ii) does NOT follow — from doctors ⊂ educated we cannot reverse and claim all educated are doctors; the class 'educated' may be much wider. Every option that includes (ii) is therefore wrong."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "In a group of 100 people, 60 read English newspapers, 45 read Hindi newspapers and 25 read both. Which Venn diagram best represents the readers of ONLY English newspapers (not Hindi)?",
+      "options": [
+        "The region outside both circles containing 20 people",
+        "The overlap region containing 25 people",
+        "The part of the English circle that does NOT overlap the Hindi circle, containing 35 people",
+        "The part of the Hindi circle that does NOT overlap the English circle, containing 20 people"
+      ],
+      "correctAnswer": "The part of the English circle that does NOT overlap the Hindi circle, containing 35 people",
+      "explanation": "Only-English = English − Both = 60 − 25 = 35, which is the non-overlapping portion of the English circle. The 20 people outside both circles are those who read neither newspaper — not only-English readers. The overlap region (25 people) reads BOTH newspapers, not English only. The 20 non-overlap portion of the Hindi circle represents only-Hindi readers (45 − 25 = 20), not only-English."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Statements:\nAll poets are writers.\nNo writer is a scientist.\n\nConclusions:\n(I) No poet is a scientist.\n(II) Some writers are not poets.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "(I) follows by classical syllogism (Camestres / Celarent style): All poets ⊂ writers and Writers ∩ Scientists = ∅, so Poets ∩ Scientists = ∅. Hence no poet is a scientist. (II) does NOT follow — from 'All poets are writers' and 'No writer is a scientist' we cannot deduce that some writers are not poets (writers could all be poets, for all the premises say). So 'only (II)', 'both' and 'neither' are all wrong."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "In classical logic, the proposition of the form 'Some S are not P' is called a __________ proposition and is denoted by the letter __________.",
+      "options": [
+        "universal negative; E",
+        "particular affirmative; I",
+        "particular negative; O",
+        "universal affirmative; A"
+      ],
+      "correctAnswer": "particular negative; O",
+      "explanation": "'Some S are not P' is a particular (not universal) and negative (has 'not') proposition, denoted by O in the traditional square of opposition. 'Universal negative; E' refers to 'No S is P' (all-negative), not 'some not'. 'Particular affirmative; I' means 'Some S are P' — affirmative, not negative. 'Universal affirmative; A' means 'All S are P' — universal, not particular."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Consider the following statements about the syllogistic square of opposition:\n\n(i) The A and E propositions are contraries — they cannot both be true simultaneously.\n(ii) The I and O propositions are subcontraries — they cannot both be false simultaneously.\n(iii) A and O are contradictories — exactly one is true.\n(iv) E and I are contraries — they cannot both be false simultaneously.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: A and E are contraries — both cannot be true at the same time, but both can be false. (ii) is correct: I and O are subcontraries — both cannot be false, but both can be true. (iii) is correct: A and O are contradictories — one negates the other, exactly one is true. (iv) is incorrect: E and I are contradictories (not contraries), meaning exactly one of them is true; also, the property described in (iv) ('cannot both be false') applies to subcontraries, not to E–I. Every option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Statements:\nOnly employees can enter the office.\nRaj entered the office.\n\nConclusion:",
+      "options": [
+        "Raj is definitely not an employee",
+        "Raj is definitely an employee",
+        "Raj may or may not be an employee",
+        "All employees entered the office"
+      ],
+      "correctAnswer": "Raj is definitely an employee",
+      "explanation": "The premise 'Only employees can enter' means the class of people who can enter is a subset of employees — i.e., anyone who enters must be an employee. Since Raj entered, Raj must be an employee. 'Definitely not' contradicts the premise. 'May or may not' is too weak — the premise makes it definite. 'All employees entered' cannot be inferred because 'only employees CAN enter' does not require every employee to have entered."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From the premises 'Some flowers are red' and 'Some red things are cars', we cannot conclude that 'Some flowers are cars'.\nReason (R): The middle term must be distributed at least once for a syllogism to be valid.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: the flowers that are red may be a totally different subset of red things than the red things that are cars, so the conclusion does not follow. (R) is correct: 'undistributed middle' is a classical fallacy — the middle term (here 'red') must be distributed in at least one premise. (R) explains (A) directly: the syllogism fails precisely because the middle term 'red' is undistributed in both particular affirmative premises. Options 2 and 3 wrongly deny the explanatory link or the correctness of (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Match the following syllogistic terms with their meanings:\n\nColumn I:\n(a) Major term\n(b) Minor term\n(c) Middle term\n(d) Distributed term\n\nColumn II:\n(i) The subject of the conclusion\n(ii) A term about which the proposition asserts something regarding every member of that class\n(iii) The term that appears in both premises but not in the conclusion\n(iv) The predicate of the conclusion\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "Major term = predicate of the conclusion → (a)-(iv). Minor term = subject of the conclusion → (b)-(i). Middle term = appears in both premises but never in the conclusion → (c)-(iii). Distributed term = the term is used to refer to every member of its class → (d)-(ii). The distractor (a)-(i) swaps major with minor. The distractor (c)-(iv) confuses middle term with major term. The distractor (c)-(i) confuses middle term with minor term."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Which Venn diagram best represents the relationship among: Vehicles, Cars, Bicycles?",
+      "options": [
+        "Three concentric circles",
+        "Two disjoint small circles (Cars and Bicycles) both entirely inside a large circle (Vehicles)",
+        "One big circle enclosing Cars and Bicycles that overlap each other",
+        "Three completely disjoint circles"
+      ],
+      "correctAnswer": "Two disjoint small circles (Cars and Bicycles) both entirely inside a large circle (Vehicles)",
+      "explanation": "Cars and Bicycles are two mutually exclusive types (no car is a bicycle), and both are entirely subsumed under the wider class Vehicles — so two disjoint smaller circles inside a larger enclosing circle is the correct picture. Three concentric circles would imply Cars ⊂ Bicycles ⊂ Vehicles (or the reverse), which is false since Cars and Bicycles do not include each other. Overlapping Cars and Bicycles is wrong because no car is a bicycle — they don't overlap. Three completely disjoint circles is wrong because both Cars and Bicycles ARE vehicles, so the Vehicles circle must contain them."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "The Venn diagram that shows two circles overlapping each other with a large third circle enclosing both represents the relationship among:",
+      "options": [
+        "Cats, Dogs, Animals",
+        "Doctors, Engineers, Human Beings",
+        "Fruits, Vegetables, Water",
+        "Boys, Girls, Children"
+      ],
+      "correctAnswer": "Doctors, Engineers, Human Beings",
+      "explanation": "The diagram described has two OVERLAPPING inner circles (meaning some members are common) both enclosed by an outer circle. Doctors and engineers CAN overlap (a person can be both), and both are subsets of Human Beings — so this fits. Cats and Dogs are disjoint (no cat is a dog), so their inner circles should NOT overlap — this option is wrong. Fruits and Vegetables are disjoint categories, and Water is neither of them, so this triple has no enclosing relationship. Boys and Girls are disjoint by definition, so their circles cannot overlap."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Which of the following are valid syllogisms (i.e., the conclusion definitely follows)?\n\n(i) All A are B; All B are C; therefore All A are C.\n(ii) No A is B; Some B are C; therefore Some C are not A.\n(iii) All A are B; No B is C; therefore No A is C.\n(iv) Some A are B; Some B are C; therefore Some A are C.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is valid by transitivity of universal affirmatives (Barbara). (ii) is valid — the B-that-are-C cannot be A (since no A is B), so there exist Cs that are not A (Ferio-family reasoning). (iii) is valid — All A ⊂ B and B ∩ C = ∅ ⇒ A ∩ C = ∅ (Celarent). (iv) is INVALID — the classic 'undistributed middle' fallacy: the A-that-are-B may be a different subset of B than the B-that-are-C, so no overlap of A with C is guaranteed. Any option containing (iv) is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Statements:\nSome cups are plates.\nAll plates are dishes.\n\nConclusions:\n(I) Some cups are dishes.\n(II) Some dishes are cups.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Both (I) and (II) follow",
+      "explanation": "The cups that are plates must be dishes (since all plates are dishes) — so 'Some cups are dishes' — (I) follows. By simple conversion of the I-type proposition 'Some cups are dishes', we also get 'Some dishes are cups' — (II) follows too. Therefore both conclusions follow, and 'only (I)', 'only (II)' and 'neither' are all wrong."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Consider the following statements about Venn diagrams:\n\n(i) 'All A are B' is drawn as a smaller circle A completely inside a larger circle B.\n(ii) 'No A is B' is drawn as two circles that do not touch or overlap.\n(iii) 'Some A are B' is drawn as two circles that overlap partially.\n(iv) 'Some A are not B' is drawn as one circle completely inside another.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct — 'All A are B' means A ⊂ B, drawn as circle A entirely inside circle B. (ii) is correct — 'No A is B' means the classes are disjoint, drawn as non-touching circles. (iii) is correct — 'Some A are B' means the classes share members, drawn as partially overlapping circles. (iv) is incorrect — 'Some A are not B' requires at least one A outside B; this is drawn as two overlapping circles with an × placed in the part of A that is outside B (not as complete containment, which would be the exact opposite claim 'All A are B'). Any option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Which Venn diagram correctly represents the relationship among: Musicians, Guitarists, Left-handed people?",
+      "options": [
+        "Three concentric circles with Left-handed as the innermost",
+        "A small Guitarists circle entirely inside a Musicians circle, and a Left-handed circle overlapping both partially",
+        "Three completely disjoint circles",
+        "One big circle enclosing three smaller disjoint circles"
+      ],
+      "correctAnswer": "A small Guitarists circle entirely inside a Musicians circle, and a Left-handed circle overlapping both partially",
+      "explanation": "All guitarists are musicians (so Guitarists ⊂ Musicians), and left-handedness is independent — some musicians (including some guitarists) can be left-handed while others are not. Hence Left-handed overlaps both Musicians and Guitarists partially. Three concentric circles would wrongly imply Left-handed ⊂ Guitarists ⊂ Musicians, which is false — most left-handed people are not guitarists. Three disjoint circles wrongly imply no musician is a guitarist or left-handed. The 'big circle enclosing three disjoint circles' has no enclosing super-class in this problem and does not capture Guitarists ⊂ Musicians."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Statements:\nAll teachers are learned.\nSome learned are honest.\n\nConclusion:",
+      "options": [
+        "All teachers are honest",
+        "Some teachers are honest",
+        "No teacher is honest",
+        "None of the above conclusions definitely follows"
+      ],
+      "correctAnswer": "None of the above conclusions definitely follows",
+      "explanation": "From 'All teachers are learned' and 'Some learned are honest' we cannot definitively locate teachers among the honest ones — the 'some learned that are honest' may or may not include teachers. Hence NOTHING about teachers being honest can be concluded. 'All teachers are honest' is far too strong. 'Some teachers are honest' is also unwarranted for the same reason. 'No teacher is honest' is not supported either. Only 'none of the above definitely follows' is correct."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Match the following Venn-diagram regions with their interpretations for two overlapping circles A and B:\n\nColumn I:\n(a) A ∩ B (the overlap)\n(b) A only (A minus overlap)\n(c) B only (B minus overlap)\n(d) Outside both circles\n\nColumn II:\n(i) Elements that are B but not A\n(ii) Elements that are A but not B\n(iii) Elements that are neither A nor B\n(iv) Elements that are both A and B\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "The overlap A ∩ B = elements in BOTH A and B → (a)-(iv). A only = elements in A but not in B → (b)-(ii). B only = elements in B but not in A → (c)-(i). Outside both = elements in neither → (d)-(iii). The distractor (a)-(ii) treats overlap as A-only, which is wrong. The distractor (a)-(iii) treats overlap as 'neither', the exact opposite. The distractor (b)-(i) confuses A-only with B-only."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "In the traditional square of opposition, the universal negative proposition 'No S is P' is denoted by the letter __________.",
+      "options": ["A", "I", "O", "E"],
+      "correctAnswer": "E",
+      "explanation": "The four categorical proposition letters come from the Latin verbs affirmo (I affirm) and nego (I deny): A = universal affirmative ('All S are P'), E = universal negative ('No S is P'), I = particular affirmative ('Some S are P'), O = particular negative ('Some S are not P'). 'A' denotes universal affirmative, not negative. 'I' denotes particular affirmative. 'O' denotes particular negative. Only 'E' matches the universal-negative form."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "In a Venn diagram problem, out of 200 students: 120 like tea, 90 like coffee, and 50 like both. How many students like neither tea nor coffee?",
+      "options": ["30", "40", "50", "60"],
+      "correctAnswer": "40",
+      "explanation": "Students liking at least one = 120 + 90 − 50 = 160 (inclusion–exclusion). So neither = 200 − 160 = 40. '30' comes from subtracting 170 instead of 160 (a common calculation slip). '50' is the count of 'both' — a trap. '60' likely comes from forgetting to subtract the overlap only once, i.e. computing 200 − (120 + 90 − 50 − 10) or a similar error."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The syllogism 'All A are B; Some C are A; therefore Some C are B' is valid.\nReason (R): Whatever is true of ALL members of a class is true of any of its subsets.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: this is a classic valid mood (Darii). Some C are A, all A are B — so those C-that-are-A must be B; hence some C are B. (R) is correct: the dictum de omni ('what is true of the whole is true of the part') is a foundational principle of syllogistic logic. (R) explains (A): the reason Darii works is exactly that being B is true of every A, and the C-that-are-A form a part of A. Option 2 is wrong because (R) IS the explanation. Option 3 wrongly denies (R). Option 4 wrongly denies (A)."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Which of the following pairs of propositions are contradictories in the traditional square of opposition?\n\n(i) 'All students are hardworking' and 'Some students are not hardworking'\n(ii) 'No teacher is dishonest' and 'Some teachers are dishonest'\n(iii) 'All roses are red' and 'No rose is red'\n(iv) 'Some birds fly' and 'Some birds do not fly'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "Contradictories are pairs where exactly one is true. A-and-O (All / Some-not) are contradictories — (i) is a valid pair. E-and-I (No / Some) are contradictories — (ii) is a valid pair. (iii) is A-and-E (All / No), which are CONTRARIES, not contradictories (both can be false when 'some are red and some are not'). (iv) is I-and-O (Some / Some-not), which are SUBCONTRARIES — both can be true — so not contradictories. Any option containing (iii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Statements:\nAll actors are singers.\nNo singer is a dancer.\n\nConclusion:",
+      "options": [
+        "All singers are actors",
+        "No actor is a dancer",
+        "Some actors are dancers",
+        "All dancers are actors"
+      ],
+      "correctAnswer": "No actor is a dancer",
+      "explanation": "All actors are singers and no singer is a dancer, so no actor can be a dancer (Celarent-type reasoning): Actors ⊂ Singers, Singers ∩ Dancers = ∅ ⇒ Actors ∩ Dancers = ∅. 'All singers are actors' reverses the first premise unjustifiably — there may be singers who are not actors. 'Some actors are dancers' directly contradicts the derivable conclusion. 'All dancers are actors' has no basis in the premises."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "In a class of 70 students: 35 play cricket, 25 play football and 10 play both games. Which of the following statements is correct?",
+      "options": [
+        "The number of students who play at least one of the games is 70",
+        "The number of students who play only cricket is 25",
+        "The number of students who play neither game is 10",
+        "The number of students who play only football is 25"
+      ],
+      "correctAnswer": "The number of students who play only cricket is 25",
+      "explanation": "Only cricket = Cricket − Both = 35 − 10 = 25 → this statement is correct. 'At least one' = 35 + 25 − 10 = 50 (not 70), so option 1 is wrong. 'Neither' = 70 − 50 = 20 (not 10), so option 3 is wrong. 'Only football' = 25 − 10 = 15 (not 25) — option 4 mistakenly quotes the raw football count rather than the only-football count."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Consider the following statements about syllogism validity:\n\n(i) A syllogism with both premises particular (I or O) can never be valid.\n(ii) A syllogism with a negative premise must have a negative conclusion.\n(iii) A syllogism with two universal premises must have a universal conclusion.\n(iv) In every valid syllogism the middle term appears in the conclusion.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "(i) is correct — a classical rule states no valid syllogism can be drawn from two particular premises. (ii) is correct — if either premise is negative, the conclusion must be negative (rule of quality). (iii) is INCORRECT — Darapti and Bramantip in classical syllogism have two universal premises but a particular conclusion (existential fallacy aside, classically valid). (iv) is INCORRECT — one of the strictest rules of syllogism is that the middle term must NEVER appear in the conclusion; it appears only in the premises. Any option containing (iii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Statements:\nSome dancers are singers.\nAll singers are actors.\n\nConclusions:\n(I) Some dancers are actors.\n(II) All dancers are actors.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "The dancers who are singers must be actors (since all singers are actors). Therefore some dancers (namely those who are singers) are actors — (I) follows. (II) claims ALL dancers are actors, but the dancers who are NOT singers are not covered by the premises — they may or may not be actors. Hence (II) does not follow. 'Only (II)', 'both' and 'neither' are consequently wrong."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Which of the following Venn-diagram scenarios illustrates 'Some students are not sportspersons'?",
+      "options": [
+        "One circle labeled Students completely inside another circle labeled Sportspersons",
+        "Two overlapping circles with a mark (×) placed in the part of Students that lies outside Sportspersons",
+        "Two completely disjoint circles labeled Students and Sportspersons",
+        "Two concentric circles with Sportspersons as the outer circle"
+      ],
+      "correctAnswer": "Two overlapping circles with a mark (×) placed in the part of Students that lies outside Sportspersons",
+      "explanation": "'Some students are not sportspersons' is a particular negative (O) — it asserts existence of at least one student outside the sportspersons class. Placing × in the Students-only region captures exactly this. Option 1 shows Students ⊂ Sportspersons (i.e., All students ARE sportspersons), which contradicts our claim. Option 3 (disjoint) claims NO student is a sportsperson — a stronger, different assertion. Option 4 (concentric with Sportspersons outer) is the same shape as 'All students are sportspersons', again the opposite of our proposition."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Statements:\nAll trees are plants.\nSome plants are green.\nAll green things are pleasant.\n\nWhich of the following conclusions must be true?",
+      "options": [
+        "Some trees are green",
+        "All plants are pleasant",
+        "Some plants are pleasant",
+        "All trees are pleasant"
+      ],
+      "correctAnswer": "Some plants are pleasant",
+      "explanation": "'Some plants are green' plus 'All green things are pleasant' guarantees that those green plants are pleasant — hence 'Some plants are pleasant' definitely follows. 'Some trees are green' is not derivable; the 'some plants' that are green may or may not include trees. 'All plants are pleasant' is too strong — only the green plants are guaranteed pleasant. 'All trees are pleasant' has no support because we don't know if all trees are green (or otherwise pleasant)."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "In a survey of 100 people, 60 use Android, 40 use iOS, and 15 use both. How many use ONLY Android?",
+      "options": ["25", "40", "45", "60"],
+      "correctAnswer": "45",
+      "explanation": "Only-Android = Android − Both = 60 − 15 = 45. '25' is only-iOS (40 − 15), a trap swapping the two categories. '40' is the raw iOS count. '60' is the raw Android count (including those who also use iOS) — but the question asks 'only Android', which requires subtracting the 15 who use both."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "The Venn diagram that has all three circles overlapping in one common region best represents:",
+      "options": [
+        "Doctors, Engineers, Bicycles",
+        "Fathers, Mothers, Sons",
+        "Students, Teenagers, Cricket Players",
+        "Cows, Chairs, Rivers"
+      ],
+      "correctAnswer": "Students, Teenagers, Cricket Players",
+      "explanation": "For all three circles to share a common overlap region, the three classes must be able to have at least one member in common. A teenage student who plays cricket is entirely plausible — hence Students ∩ Teenagers ∩ CricketPlayers ≠ ∅, giving the triple overlap. Doctors, Engineers and Bicycles cannot have a common member because a bicycle is not a person. Fathers, Mothers and Sons cannot share one member — a single person cannot be both mother and father, so there is no triple-overlap point. Cows, Chairs and Rivers are three disjoint categories with no member in common."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Match the following syllogism moods (in the first figure) with their premise pattern:\n\nColumn I:\n(a) Barbara\n(b) Celarent\n(c) Darii\n(d) Ferio\n\nColumn II:\n(i) All M are P; All S are M ⇒ All S are P\n(ii) No M is P; All S are M ⇒ No S is P\n(iii) All M are P; Some S are M ⇒ Some S are P\n(iv) No M is P; Some S are M ⇒ Some S are not P\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "explanation": "Barbara = AAA-1 (all universal affirmative) → (a)-(i). Celarent = EAE-1 (E premise, A premise, E conclusion) → (b)-(ii). Darii = AII-1 (A + I premises, I conclusion) → (c)-(iii). Ferio = EIO-1 (E + I premises, O conclusion) → (d)-(iv). The distractor (a)-(ii) swaps Barbara with Celarent. The distractor (a)-(iii) swaps Barbara with Darii. The distractor (c)-(ii) mislabels Darii as universal-negative."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Statements:\nAll politicians are honest. (Assume premise is true.)\nSome honest people are lawyers.\n\nConclusion:",
+      "options": [
+        "Some politicians are lawyers",
+        "All lawyers are politicians",
+        "All honest people are politicians",
+        "None of the above definitely follows"
+      ],
+      "correctAnswer": "None of the above definitely follows",
+      "explanation": "Politicians are contained inside 'honest people'. The 'some honest people who are lawyers' may lie entirely outside the politicians sub-region, so 'some politicians are lawyers' is not guaranteed. 'All lawyers are politicians' has no support — there is no premise about all lawyers. 'All honest people are politicians' reverses the first premise (politicians ⊂ honest), which is unjustified. Hence the only correct answer is 'none of the above definitely follows'."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "In a class of 80, 50 study Physics, 40 study Chemistry, and every student studies at least one of the two subjects. How many students study BOTH Physics and Chemistry?",
+      "options": ["20", "30", "40", "10"],
+      "correctAnswer": "10",
+      "explanation": "By inclusion–exclusion: n(P) + n(C) − n(P ∩ C) = n(P ∪ C). Everyone studies at least one subject, so n(P ∪ C) = 80. Therefore 50 + 40 − n(both) = 80, giving n(both) = 10. '20' results from computing 50 + 40 − 70, off by 10. '30' likely comes from confusing 'only Physics' with 'both'. '40' is the raw Chemistry count, unrelated to intersection."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Statements:\nNo book is a magazine.\nAll magazines are periodicals.\n\nConclusions:\n(I) Some periodicals are not books.\n(II) No book is a periodical.\n\nWhich of the conclusions logically follows?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (I) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "All magazines are periodicals and no book is a magazine — hence the magazines (which exist as periodicals) are NOT books. So there exist periodicals (the magazines) that are not books — (I) follows. (II) claims NO book is a periodical, but the premises say nothing about periodicals that aren't magazines; some periodicals might still be books. So (II) does not necessarily follow. Hence 'only (II)', 'both' and 'neither' are wrong."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "The middle term in the syllogism 'All doctors are professionals; Some doctors are wealthy; therefore Some professionals are wealthy' is:",
+      "options": ["professionals", "wealthy", "doctors", "some"],
+      "correctAnswer": "doctors",
+      "explanation": "The middle term is the term that appears in BOTH premises but not in the conclusion — here 'doctors' appears in both premises and does not appear in the conclusion. 'professionals' is the predicate of the first premise but IT DOES appear in the conclusion (as the subject), so it is the minor term, not the middle. 'wealthy' is the predicate of the second premise and appears in the conclusion, so it is the major term. 'some' is a quantifier, not a term at all."
+    }
+  ]
+}
