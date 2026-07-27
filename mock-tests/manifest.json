@@ -473,7 +473,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "31_test_F_ms-excel.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 32,
@@ -488,7 +488,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "32_test_A_word-symbol-ops.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 33,
@@ -503,7 +503,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "33_test_B_world-geography.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 34,

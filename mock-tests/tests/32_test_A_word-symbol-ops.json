@@ -1,0 +1,427 @@
+{
+  "subject": "A",
+  "topic": "Word Building, Numerical & Symbolic Operations",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Using only the letters available in the word 'TRANSPORTATION' (no letter may be used more times than it occurs), which one of the following words CANNOT be formed?",
+      "options": ["PATRIOTS", "ROTATION", "STRAINER", "NARRATION"],
+      "correctAnswer": "STRAINER",
+      "explanation": "The letter pool of TRANSPORTATION is T-3, R-2, A-2, N-2, O-2, S-1, P-1, I-1 — there is no letter E at all. STRAINER = S,T,R,A,I,N,E,R needs an E, so it can never be formed; this is the correct answer. PATRIOTS is wrong as a choice because P,A,T,R,I,O,T,S needs only T-2 and one each of P,A,R,I,O,S, all of which are available. ROTATION is wrong because R,O,T,A,T,I,O,N needs O-2 and T-2, and the pool supplies both. NARRATION is wrong because N,A,R,R,A,T,I,O,N needs N-2, A-2 and R-2, and the pool has exactly two of each, so it is formable."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements based on the operator code given below:\n\n'+' means '−', '−' means '×', '×' means '÷', and '÷' means '+'.\n\n(i) 12 + 4 × 2 − 3 gives 6.\n(ii) 20 − 5 + 10 gives 110.\n(iii) 18 ÷ 6 × 3 gives 20.\n(iv) 8 × 2 ÷ 6 gives 10.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Substituting the code and applying BODMAS: (i) 12 + 4 × 2 − 3 becomes 12 − 4 ÷ 2 × 3 = 12 − (2 × 3) = 6, so (i) is correct. (iii) 18 ÷ 6 × 3 becomes 18 + 6 ÷ 3 = 18 + 2 = 20, so (iii) is correct. (iv) 8 × 2 ÷ 6 becomes 8 ÷ 2 + 6 = 4 + 6 = 10, so (iv) is correct — hence (i), (iii) and (iv) only. The option '(i), (ii) and (iii) only' is wrong because (ii) 20 − 5 + 10 becomes 20 × 5 − 10 = 100 − 10 = 90, not 110. '(ii), (iii) and (iv) only' is wrong for the same reason — it admits the false statement (ii) and drops the true statement (i). '(i), (ii) and (iv) only' is wrong because it again includes the false (ii) while omitting the verified true statement (iii)."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "If '×' means '+', '+' means '÷', '−' means '×' and '÷' means '−', then what is the value of the following expression?\n\n16 × 4 + 2 − 3 ÷ 5",
+      "options": ["12", "17", "22", "25"],
+      "correctAnswer": "17",
+      "explanation": "Substituting the code, the expression becomes 16 + 4 ÷ 2 × 3 − 5. Under BODMAS, division and multiplication come first: 4 ÷ 2 = 2, then 2 × 3 = 6; so 16 + 6 − 5 = 17. The option 25 is wrong because it comes from working strictly left to right and ignoring BODMAS: 16 + 4 = 20, 20 ÷ 2 = 10, 10 × 3 = 30, 30 − 5 = 25. The option 22 is wrong because it is 16 + 6 with the final term '− 5' left out. The option 12 is wrong because it results from doing the subtraction first: 16 + 4 ÷ 2 × (3 − 5) = 16 + 2 × (−2) = 12."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If '@' means 'is greater than or equal to' and '©' means 'is equal to', then from the statement 'P @ Q © R' the conclusion 'P is greater than or equal to R' definitely follows.\nReason (R): A term joined by an equality sign can be replaced by the term it equals, so the equality passes the relation on to the next term.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Decoding, 'P @ Q © R' means P ≥ Q and Q = R. Since R is the same value as Q, P ≥ Q can be rewritten as P ≥ R, so (A) is correct. (R) states exactly the principle that makes this work — an equality lets one term be substituted for the other — so (R) is correct and is the reason behind (A). The option 'Both correct but (R) is NOT the explanation' is wrong because (R) is precisely the logical rule used to derive the conclusion, not an unrelated fact. '(A) is correct but (R) is not correct' is wrong because the substitution property of equality is a valid rule of coded-inequality solving. '(A) is not correct but (R) is correct' is wrong because the conclusion P ≥ R does follow from P ≥ Q = R."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "In a certain notation:\n'A $ B' means 'A is the brother of B'\n'A # B' means 'A is the mother of B'\n'A * B' means 'A is the father of B'\n'A % B' means 'A is the sister of B'\n\nWhich of the following expressions shows that M is the maternal uncle of N?",
+      "options": ["M % K # N", "M # K $ N", "M $ K * N", "M $ K # N"],
+      "correctAnswer": "M $ K # N",
+      "explanation": "A maternal uncle is the brother of a person's mother. 'M $ K # N' says M is the brother of K and K is the mother of N, which makes M the mother's brother, i.e. the maternal uncle of N. 'M % K # N' is wrong because '%' makes M the sister of the mother, giving a maternal aunt, not an uncle. 'M $ K * N' is wrong because '*' makes K the father of N, so M becomes the father's brother — a paternal uncle. 'M # K $ N' is wrong because it makes M the mother of K and K the brother of N, which makes M the mother of N rather than any kind of uncle."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Each group in Column I is a jumbled set of letters that forms exactly one meaningful English word. Match each group with the word it forms.\n\nColumn I:\n(a) TCOKRE\n(b) LNPEACI\n(c) RGDNEA\n(d) MHUBLE\n\nColumn II:\n(i) GARDEN\n(ii) PELICAN\n(iii) HUMBLE\n(iv) ROCKET\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Letter by letter: (a) TCOKRE contains T,C,O,K,R,E which rearranges to ROCKET (iv); (b) LNPEACI contains L,N,P,E,A,C,I which rearranges to PELICAN (ii); (c) RGDNEA contains R,G,D,N,E,A which rearranges to GARDEN (i); (d) MHUBLE contains M,H,U,B,L,E which rearranges to HUMBLE (iii). The option '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)' is wrong because GARDEN needs a G and a D, neither of which is in TCOKRE. The option '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' is wrong because HUMBLE needs U,B,M,H and the 7-letter group LNPEACI has none of B,U,H. The option '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' is wrong because PELICAN has seven letters while TCOKRE has only six, so the pairing is impossible on length alone."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Using only the letters of the word 'MAGNETISM' (and no letter more often than it occurs there), which one of the following words can be formed?",
+      "options": ["MEANINGS", "STAMINA", "MAGNETS", "GIANTESS"],
+      "correctAnswer": "MAGNETS",
+      "explanation": "MAGNETISM supplies M-2 and one each of A, G, N, E, T, I, S. MAGNETS needs M,A,G,N,E,T,S — one of each — and every one of them is available, so it can be formed. MEANINGS is wrong because it needs N twice (M-E-A-N-I-N-G-S) while only one N is available. STAMINA is wrong because it needs A twice (S-T-A-M-I-N-A) while only one A is available. GIANTESS is wrong because it needs S twice (G-I-A-N-T-E-S-S) while only one S is available."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Which of the following equations become correct when the signs '+' and '×' are interchanged with each other?\n\n(i) 5 × 4 + 3 = 17\n(ii) 6 + 2 × 3 = 15\n(iii) 9 × 3 + 2 = 15\n(iv) 7 + 5 × 2 = 40\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "After swapping '+' and '×' and applying BODMAS: (i) becomes 5 + 4 × 3 = 5 + 12 = 17, which matches the stated right side; (ii) becomes 6 × 2 + 3 = 12 + 3 = 15, which matches; (iii) becomes 9 + 3 × 2 = 9 + 6 = 15, which matches. So (i), (ii) and (iii) only are correct. The options '(i), (iii) and (iv) only', '(ii), (iii) and (iv) only' and '(i), (ii) and (iv) only' all include (iv), and (iv) fails: 7 + 5 × 2 = 40 becomes 7 × 5 + 2 = 35 + 2 = 37, not 40 (the value 40 would need the incorrect grouping (7 + 5) × 2 + 16). Each of those three options also drops one of the genuinely valid equations."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "If '&' means 'plus', '@' means 'minus', '#' means 'multiplied by' and '%' means 'divided by', then the value of 12 # 3 & 24 % 6 @ 5 is __________.",
+      "options": ["35", "31", "40", "45"],
+      "correctAnswer": "35",
+      "explanation": "Substituting the symbols gives 12 × 3 + 24 ÷ 6 − 5. Under BODMAS, multiplication and division are done first: 12 × 3 = 36 and 24 ÷ 6 = 4, leaving 36 + 4 − 5 = 35. The option 31 is wrong because it comes from 36 − 5 with the term 24 ÷ 6 = 4 accidentally dropped. The option 40 is wrong because it is 36 + 4 with the final '− 5' left out. The option 45 is wrong because it comes from misreading '@' as 'plus', giving 36 + 4 + 5."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Which set of arithmetic signs, placed in the three blanks in the given order, will make the following equation correct?\n\n24 __ 4 __ 3 __ 6 = 12",
+      "options": ["÷, × and +", "÷, × and −", "÷, − and ×", "×, ÷ and −"],
+      "correctAnswer": "÷, × and −",
+      "explanation": "With ÷, × and − the equation reads 24 ÷ 4 × 3 − 6. By BODMAS, 24 ÷ 4 = 6, then 6 × 3 = 18, then 18 − 6 = 12, which matches the right side. The set '÷, × and +' is wrong because it gives 24 ÷ 4 × 3 + 6 = 18 + 6 = 24. The set '÷, − and ×' is wrong because it gives 24 ÷ 4 − 3 × 6 = 6 − 18 = −12, which is the negative of the required value. The set '×, ÷ and −' is wrong because it gives 24 × 4 ÷ 3 − 6 = 32 − 6 = 26."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Consider the following statements about words that can be formed from the letters of the word 'PARLIAMENT', using no letter more times than it occurs in it:\n\n(i) The word 'PATTERN' can be formed.\n(ii) The word 'MENTAL' can be formed.\n(iii) The word 'PARENT' can be formed.\n(iv) The word 'TERMINAL' can be formed.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "PARLIAMENT supplies A-2 and one each of P, R, L, I, M, E, N, T. (ii) MENTAL needs M,E,N,T,A,L — all available, so it is correct. (iii) PARENT needs P,A,R,E,N,T — all available, so it is correct. (iv) TERMINAL needs T,E,R,M,I,N,A,L — all available, so it is correct. Hence (ii), (iii) and (iv) only. Every other option contains (i), which is false: PATTERN needs the letter T twice, but PARLIAMENT contains only one T. '(i), (ii), (iii) and (iv)' is wrong because it accepts all four including the impossible PATTERN. '(i), (ii) and (iii) only' is wrong because it admits PATTERN and also drops the formable TERMINAL. '(i), (iii) and (iv) only' is wrong because it admits PATTERN and wrongly omits MENTAL, every letter of which is available."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "In the following code, the symbols have the meanings shown:\n'@' means 'is greater than', '#' means 'is equal to', '$' means 'is less than', '%' means 'is greater than or equal to', and '&' means 'is less than or equal to'.\n\nGiven the statement: A % B $ C # D\n\nWhich of the following conclusions is definitely true?",
+      "options": ["A @ D", "A # C", "C & A", "B $ D"],
+      "correctAnswer": "B $ D",
+      "explanation": "Decoding the statement gives A ≥ B, B < C and C = D. Since C = D, the relation B < C becomes B < D, so 'B $ D' is definitely true. 'A @ D' (A > D) is wrong because A is only known to be at least B, and B is smaller than D, so A could be less than, equal to or greater than D. 'A # C' (A = C) is wrong because nothing links A and C except through the smaller term B, so equality cannot be established. 'C & A' (C ≤ A) is wrong for the same reason — the chain A ≥ B < C breaks at B, so C may well exceed A."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "If 'a © b' is defined as (a × b) − (a + b), then what is the value of (7 © 4) © 2?",
+      "options": ["11", "15", "17", "19"],
+      "correctAnswer": "15",
+      "explanation": "First the bracket: 7 © 4 = (7 × 4) − (7 + 4) = 28 − 11 = 17. Then 17 © 2 = (17 × 2) − (17 + 2) = 34 − 19 = 15. The option 17 is wrong because it is only the value of the inner bracket 7 © 4 — the second operation has not been carried out. The option 19 is wrong because it is the sum term (17 + 2) of the second step taken as the answer instead of subtracting it from 34. The option 11 is wrong because it is the sum term (7 + 4) of the first step, i.e. the product 28 was never used."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Which meaningful English word can be formed by rearranging the first five letters of the word 'ARCHITECTURE', using each of those letters exactly once?",
+      "options": ["CHAIR", "CHAIN", "CHART", "CHAIRS"],
+      "correctAnswer": "CHAIR",
+      "explanation": "The first five letters of ARCHITECTURE are A, R, C, H, I. Rearranged, these five letters spell CHAIR, which uses each letter exactly once. CHAIN is wrong because it needs the letter N, which is not among A,R,C,H,I. CHART is wrong because it needs the letter T, which appears only at the 6th position and so is outside the first five letters. CHAIRS is wrong because it needs a sixth letter S, which does not occur anywhere in ARCHITECTURE."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'CREATION' can be formed using only the letters of the word 'RECREATION'.\nReason (R): 'RECREATION' contains exactly the same set of letters as 'CREATION', with no letter repeated in either word.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "RECREATION supplies R-2, E-2 and one each of C, A, T, I, O, N. CREATION needs C,R,E,A,T,I,O,N — one of each — and all are available, so (A) is correct. (R) is factually wrong on two counts: RECREATION does repeat letters (two R's and two E's), and its letter multiset is therefore not identical to that of CREATION. Hence the answer is '(A) is correct but (R) is not correct'. 'Both (A) and (R) are correct and (R) is the correct explanation' is wrong because (R) contains false claims. 'Both (A) and (R) are correct but (R) is NOT the explanation' is wrong for the same reason. '(A) is not correct but (R) is correct' is wrong because CREATION is demonstrably formable."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Which two signs should be interchanged with each other to make the following equation correct?\n\n18 ÷ 3 + 6 × 2 − 4 = 18",
+      "options": ["× and −", "÷ and +", "+ and −", "÷ and −"],
+      "correctAnswer": "÷ and −",
+      "explanation": "As written the left side is 18 ÷ 3 + 6 × 2 − 4 = 6 + 12 − 4 = 14, so a swap is needed. Interchanging '÷' and '−' gives 18 − 3 + 6 × 2 ÷ 4 = 18 − 3 + 3 = 18, which equals the right side. '× and −' is wrong because it gives 18 ÷ 3 + 6 − 2 × 4 = 6 + 6 − 8 = 4. '÷ and +' is wrong because it gives 18 + 3 ÷ 6 × 2 − 4 = 18 + 1 − 4 = 15. '+ and −' is wrong because it gives 18 ÷ 3 − 6 × 2 + 4 = 6 − 12 + 4 = −2."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "In the following code, '@' means 'multiplied by', '#' means 'plus', '$' means 'minus' and '%' means 'divided by'. Match each expression in Column I with its value in Column II.\n\nColumn I:\n(a) 20 % 5 @ 3 # 4\n(b) 15 # 5 @ 2 $ 6\n(c) 30 % 6 # 8 @ 2\n(d) 9 @ 3 $ 12 % 4\n\nColumn II:\n(i) 19\n(ii) 24\n(iii) 16\n(iv) 21\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Applying BODMAS after substitution: (a) 20 ÷ 5 × 3 + 4 = 4 × 3 + 4 = 16, so (a)-(iii); (b) 15 + 5 × 2 − 6 = 15 + 10 − 6 = 19, so (b)-(i); (c) 30 ÷ 6 + 8 × 2 = 5 + 16 = 21, so (c)-(iv); (d) 9 × 3 − 12 ÷ 4 = 27 − 3 = 24, so (d)-(ii). The option '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' is wrong because it swaps (a) and (b): expression (a) evaluates to 16, not 19. The option '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is wrong because it swaps (b) and (c): (b) is 19, not 21. The option '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' is wrong because it gives (a) the value 21 and (c) the value 16, whereas the computed values are the other way round."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "In a certain symbol code:\n'$' means 'is greater than', '#' means 'is less than', '@' means 'is equal to', '%' means 'is greater than or equal to', and '&' means 'is less than or equal to'.\n\nWhich of the following coded statements is TRUE?",
+      "options": ["18 $ 15 # 13", "12 % 12 & 15", "19 # 17 @ 17", "16 @ 16 $ 19"],
+      "correctAnswer": "12 % 12 & 15",
+      "explanation": "'12 % 12 & 15' decodes to 12 ≥ 12 and 12 ≤ 15. Both parts hold (12 ≥ 12 is true because of the 'or equal to' part, and 12 ≤ 15 is true), so the whole statement is true. '18 $ 15 # 13' is wrong because although 18 > 15 is true, the second part 15 < 13 is false. '19 # 17 @ 17' is wrong because the first part 19 < 17 is false, even though 17 = 17 holds. '16 @ 16 $ 19' is wrong because 16 = 16 is true but 16 > 19 is false; a coded statement is true only when every link in it is true."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "A verification form records household relationships using the following notation:\n\nX + Y : X is the wife of Y\nX − Y : X is the brother of Y\nX × Y : X is the daughter of Y\nX ÷ Y : X is the father of Y\n\nThe entry for one household reads: P + Q, Q ÷ R, R − S\n\nOn the basis of this record only, which conclusion is correct?",
+      "options": [
+        "P is the mother of S",
+        "S is the sister of Q",
+        "R is the father of S",
+        "Q is the brother of P"
+      ],
+      "correctAnswer": "P is the mother of S",
+      "explanation": "Reading the record: P + Q means P is Q's wife; Q ÷ R means Q is R's father; R − S means R is S's brother, so S is another child of Q. As Q's wife, P is the mother of Q's children, hence P is the mother of S. 'S is the sister of Q' is wrong because S belongs to the next generation — S is Q's child, not Q's sibling. 'R is the father of S' is wrong because '−' was defined as 'brother of', so R is S's brother, not a parent. 'Q is the brother of P' is wrong because '+' establishes P as Q's wife, making Q the husband of P."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Consider the following statements based on the symbol code given below:\n\n'@' means 'is greater than'\n'#' means 'is less than'\n'$' means 'is equal to'\n'%' means 'is greater than or equal to'\n'&' means 'is less than or equal to'\n\n(i) If M @ N and N $ O, then M @ O follows.\n(ii) If M # N and N & O, then M @ O follows.\n(iii) If M % N and N @ O, then M @ O follows.\n(iv) If M & N and N $ O, then M & O follows.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) M > N and N = O give M > O, so 'M @ O' follows and (i) is correct. (iii) M ≥ N and N > O give M > O, so 'M @ O' follows and (iii) is correct. (iv) M ≤ N and N = O give M ≤ O, so 'M & O' follows and (iv) is correct. Hence (i), (iii) and (iv) only. The remaining options all include (ii), which is false: M < N and N ≤ O give M < O, i.e. 'M # O', which is the exact opposite of the claimed 'M @ O'. '(i), (ii) and (iii) only' and '(i), (ii) and (iv) only' each also omit one verified true statement, and '(ii), (iii) and (iv) only' wrongly discards (i), which is a straightforward valid chain."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Six of the seven letters of the word 'STRANGE' are to be rearranged to form a meaningful English word. Which of the following words CANNOT be obtained in this way?",
+      "options": ["GARNET", "ANGERS", "GARDEN", "GRANTS"],
+      "correctAnswer": "GARDEN",
+      "explanation": "STRANGE consists of the seven distinct letters S, T, R, A, N, G, E. GARDEN needs the letter D, which does not occur in STRANGE at all, so it can never be obtained — this is the correct answer. GARNET is wrong as a choice because dropping S leaves T,R,A,N,G,E, which rearranges exactly to GARNET. ANGERS is wrong because dropping T leaves S,R,A,N,G,E, which rearranges to ANGERS. GRANTS is wrong because dropping E leaves S,T,R,A,N,G, which rearranges to GRANTS."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Which of the following words are formable using only the letters of the word 'DEMONSTRATION', with no letter used more often than it occurs there?\n\n(i) MONASTERY\n(ii) TORNADOES\n(iii) DOMINATES\n(iv) RETENTION\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iv) only",
+        "(ii) and (iii) only",
+        "(i) and (iii) only",
+        "(iii) and (iv) only"
+      ],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "DEMONSTRATION supplies O-2, N-2, T-2 and one each of D, E, M, S, R, A, I. (ii) TORNADOES needs T,O,R,N,A,D,O,E,S — two O's and one of each other letter, all available. (iii) DOMINATES needs D,O,M,I,N,A,T,E,S — one of each, all available. So (ii) and (iii) only. '(i) and (iv) only' is wrong because MONASTERY needs the letter Y, which does not occur in DEMONSTRATION, and RETENTION needs E twice while only one E is available. '(i) and (iii) only' is wrong because of that same missing Y in MONASTERY. '(iii) and (iv) only' is wrong because RETENTION (R,E,T,E,N,T,I,O,N) demands a second E that the source word cannot supply."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Which set of operators, substituted for the three question marks in the given order, will balance the following equation?\n\n(16 ? 4) ? (3 ? 2) = 30",
+      "options": ["+, × and ÷", "−, × and +", "÷, × and +", "×, − and +"],
+      "correctAnswer": "+, × and ÷",
+      "explanation": "With +, × and ÷ the equation becomes (16 + 4) × (3 ÷ 2) = 20 × 1.5 = 30, which balances exactly. The set '−, × and +' is wrong because it gives (16 − 4) × (3 + 2) = 12 × 5 = 60, double the required value. The set '÷, × and +' is wrong because it gives (16 ÷ 4) × (3 + 2) = 4 × 5 = 20. The set '×, − and +' is wrong because it gives (16 × 4) − (3 + 2) = 64 − 5 = 59."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The value of the expression 8 + 12 ÷ 4 × 2 is 14.\nReason (R): In the BODMAS sequence, anything enclosed in brackets must be evaluated before any other operation in an expression.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: 12 ÷ 4 = 3, then 3 × 2 = 6, then 8 + 6 = 14. (R) is also a correct statement of the BODMAS rule — brackets do come first. However, the expression in (A) contains no brackets at all; the value 14 is obtained because division and multiplication outrank addition, not because of any bracket. So (R), while true, does not explain (A). 'Both correct and (R) is the correct explanation' is wrong precisely because the bracket rule is never used here. '(A) is correct but (R) is not correct' is wrong because the bracket-first rule is genuinely part of BODMAS. '(A) is not correct but (R) is correct' is wrong because 14 is the verified value of the expression."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "If 'a * b' means (a² + b) and 'a # b' means (a + b²), then what is the value of (3 * 4) # 2?",
+      "options": ["13", "19", "23", "17"],
+      "correctAnswer": "17",
+      "explanation": "First the bracket, using the '*' rule: 3 * 4 = 3² + 4 = 9 + 4 = 13. Then apply the '#' rule: 13 # 2 = 13 + 2² = 13 + 4 = 17. The option 13 is wrong because it is only the value of the inner bracket 3 * 4 — the '#' operation has not been performed. The option 19 is wrong because it comes from applying the '#' rule to the first step by mistake: 3 + 4² = 19. The option 23 is wrong because it continues that same error, taking 19 # 2 = 19 + 4 = 23."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "In the following code, '@' means 'is equal to', '#' means 'is greater than', '$' means 'is less than', '%' means 'is greater than or equal to' and '&' means 'is less than or equal to'. Match each pair of statements in Column I with the conclusion that definitely follows, in Column II.\n\nColumn I:\n(a) P # Q, Q @ R\n(b) P % Q, Q @ R\n(c) P $ Q, Q & R\n(d) P @ Q, Q & R\n\nColumn II:\n(i) P & R\n(ii) P # R\n(iii) P % R\n(iv) P $ R\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Decoding each chain: (a) P > Q and Q = R give P > R, i.e. 'P # R' (ii); (b) P ≥ Q and Q = R give P ≥ R, i.e. 'P % R' (iii); (c) P < Q and Q ≤ R give P < R, i.e. 'P $ R' (iv); (d) P = Q and Q ≤ R give P ≤ R, i.e. 'P & R' (i). The option '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' is wrong because it swaps (b) and (c): from P ≥ Q = R one cannot conclude P < R. The option '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' is wrong because it swaps (a) and (b): a strict '>' chained with '=' yields the strict 'P # R', not merely 'P % R'. The option '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' is wrong because it assigns 'P & R' to (a) and 'P # R' to (c), reversing the direction of both inequalities."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Consider the following statements about the equation given below:\n\n12 ÷ 4 + 6 × 3 − 5 = 16\n\n(i) The equation as written is correct under the BODMAS rule.\n(ii) If the signs '÷' and '×' are interchanged, the value of the left side becomes 22.\n(iii) If the signs '+' and '−' are interchanged, the value of the left side becomes −10.\n(iv) If the numbers 12 and 6 are interchanged, the value of the left side is no longer a whole number.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct: 12 ÷ 4 = 3 and 6 × 3 = 18, so 3 + 18 − 5 = 16, matching the right side. (iii) is correct: swapping '+' and '−' gives 12 ÷ 4 − 6 × 3 + 5 = 3 − 18 + 5 = −10. (iv) is correct: swapping 12 and 6 gives 6 ÷ 4 + 12 × 3 − 5 = 1.5 + 36 − 5 = 32.5, which is not a whole number. Hence (i), (iii) and (iv) only. Every other option includes (ii), which is false: swapping '÷' and '×' gives 12 × 4 + 6 ÷ 3 − 5 = 48 + 2 − 5 = 45, not 22. '(i), (ii) and (iii) only' and '(i), (ii) and (iv) only' each additionally drop one true statement, and '(ii), (iii) and (iv) only' wrongly rejects the original equation, which does check out."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "How many meaningful English words can be formed by using all four of the letters E, T, A and M exactly once in each word?",
+      "options": ["Four words", "Two words", "Three words", "Five words"],
+      "correctAnswer": "Four words",
+      "explanation": "Arranging the four letters E, T, A, M gives exactly four standard English words: MEAT, MATE, TEAM and TAME. So 'Four words' is correct. 'Two words' is wrong because it accounts for at most MEAT and MATE and misses TEAM and TAME. 'Three words' is wrong because it recognises three of the arrangements and still leaves one valid word unlisted. 'Five words' is wrong because none of the remaining twenty arrangements of these four letters (such as ETAM, AMET or TAEM) is a recognised English word, so a fifth word cannot be produced."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "The meaningful English word formed by rearranging the 1st, 2nd, 3rd, 6th and 7th letters of the word 'BARGAINS' is __________.",
+      "options": ["BRAGS", "BARNS", "GRAIN", "BRAIN"],
+      "correctAnswer": "BRAIN",
+      "explanation": "Numbering BARGAINS gives B(1) A(2) R(3) G(4) A(5) I(6) N(7) S(8), so the required letters are B, A, R, I and N, which rearrange to BRAIN. BRAGS is wrong because it needs G (position 4) and S (position 8), neither of which is among the selected positions. BARNS is wrong because it needs the letter S, again from position 8, which was not selected. GRAIN is wrong because it needs G from position 4 and has no B, so it does not use the extracted set of letters."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "If the signs '+' and '÷' are interchanged with each other, which one of the following equations becomes correct?",
+      "options": [
+        "16 + 4 ÷ 5 = 10",
+        "24 + 6 ÷ 3 = 8",
+        "18 + 3 ÷ 4 = 10",
+        "20 + 5 ÷ 6 = 11"
+      ],
+      "correctAnswer": "18 + 3 ÷ 4 = 10",
+      "explanation": "After swapping '+' and '÷', the equation '18 + 3 ÷ 4 = 10' reads 18 ÷ 3 + 4 = 6 + 4 = 10, which matches its right side. '16 + 4 ÷ 5 = 10' is wrong because it becomes 16 ÷ 4 + 5 = 4 + 5 = 9, one short of 10. '24 + 6 ÷ 3 = 8' is wrong because it becomes 24 ÷ 6 + 3 = 4 + 3 = 7, not 8. '20 + 5 ÷ 6 = 11' is wrong because it becomes 20 ÷ 5 + 6 = 4 + 6 = 10, not 11."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Which of the following conclusions are definitely true for the coded statement 'P % Q & R $ S', where '%' means 'is greater than', '&' means 'is equal to' and '$' means 'is less than'?\n\n(i) P is greater than R\n(ii) P is less than S\n(iii) Q is less than S\n(iv) S is greater than R\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Decoding gives P > Q, Q = R and R < S. (i) is true because P > Q and Q = R, so P > R. (iii) is true because Q = R and R < S, so Q < S. (iv) is true because R < S is exactly what the statement asserts, read the other way round. Hence (i), (iii) and (iv) only. Every other option includes (ii), which is not determinable: P is only known to be larger than Q, while S is also larger than Q, so P could be less than, equal to or greater than S. '(i), (ii) and (iii) only' and '(i), (ii) and (iv) only' each admit that undetermined relation, and '(ii), (iii) and (iv) only' additionally discards (i), which is a valid chain running through the equality Q = R."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "In a certain notation:\n'A + B' means 'A is the son of B'\n'A − B' means 'A is the wife of B'\n'A × B' means 'A is the sister of B'\n\nIn the expression 'P × Q + R − S', how is S related to P?",
+      "options": [
+        "S is the father of P",
+        "S is the uncle of P",
+        "S is the cousin of P",
+        "S is the brother of P"
+      ],
+      "correctAnswer": "S is the father of P",
+      "explanation": "Reading the expression: P × Q means P is Q's sister; Q + R means Q is R's son, so R is Q's parent; R − S means R is S's wife, so R is female and S is her husband. R is therefore Q's mother and S is Q's father, and since P is Q's sister, S is also P's father. 'S is the uncle of P' is wrong because S is married to P's mother, which makes him a parent rather than a parent's sibling. 'S is the cousin of P' is wrong because no sibling-of-parent link is given anywhere in the expression, only a marriage and a parent-child link. 'S is the brother of P' is wrong because S belongs to the previous generation, being the husband of P's mother."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "A worksheet used in a training class defines the operators as follows:\n'*' = add, '@' = subtract, '#' = multiply, '&' = divide.\n\nFour candidates submitted the following answers for the expression 36 & 6 # 4 * 10 @ 8:\nCandidate P : 34\nCandidate Q : 36\nCandidate R : 26\nCandidate S : 42\n\nWhose answer is correct?",
+      "options": ["Candidate P", "Candidate Q", "Candidate R", "Candidate S"],
+      "correctAnswer": "Candidate R",
+      "explanation": "Substituting gives 36 ÷ 6 × 4 + 10 − 8. By BODMAS: 36 ÷ 6 = 6, then 6 × 4 = 24, then 24 + 10 = 34, then 34 − 8 = 26. So Candidate R, who wrote 26, is correct. Candidate P (34) stopped one step early and never subtracted 8. Candidate Q (36) evaluated addition and subtraction first, computing 36 ÷ 6 × (4 + 10 − 8) = 6 × 6 = 36, which violates BODMAS. Candidate S (42) treated '@' as addition instead of subtraction, giving 24 + 10 + 8."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Consider the following statements about words that can be formed from the letters of the word 'COMPUTER', using no letter more times than it occurs in it:\n\n(i) The word 'COMPUTE' can be formed.\n(ii) The word 'COURT' can be formed.\n(iii) The word 'TEMPO' can be formed.\n(iv) The word 'TRUMPET' can be formed.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "COMPUTER has eight distinct letters: C, O, M, P, U, T, E, R, each occurring once. (i) COMPUTE uses C,O,M,P,U,T,E — all present once — so it is correct. (ii) COURT uses C,O,U,R,T — all present — so it is correct. (iii) TEMPO uses T,E,M,P,O — all present — so it is correct. Hence (i), (ii) and (iii) only. The other three options all include (iv), which is false: TRUMPET requires the letter T twice (T-R-U-M-P-E-T) while COMPUTER supplies only one T. Those options also each exclude one genuinely formable word — COMPUTE, COURT or TEMPO — despite every letter of it being available."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Four groups of five letters each are given below. Three of them can be rearranged into meaningful five-letter English words. Which group CANNOT be rearranged into a meaningful English word?",
+      "options": ["NEGRA", "GLIMN", "SUOHE", "TRPAY"],
+      "correctAnswer": "GLIMN",
+      "explanation": "GLIMN contains G, L, I, M, N — only one vowel for four consonants, and no arrangement of these five letters produces an English word, so it is the correct answer. NEGRA is wrong as a choice because A,E,G,N,R rearranges to RANGE (or ANGER). SUOHE is wrong because E,H,O,S,U rearranges to HOUSE. TRPAY is wrong because A,P,R,T,Y rearranges to PARTY."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If '$' means 'is less than' and '@' means 'is equal to', then from the statement 'M $ N @ O' the conclusion 'O $ M' definitely follows.\nReason (R): An equality sign transfers the relation of one term to the other, so a definite conclusion can be drawn between the two end terms of such a chain.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "'M $ N @ O' decodes to M < N and N = O, which gives M < O — that is, 'M $ O'. The assertion claims the reverse, 'O $ M' (O < M), so (A) is not correct. (R) is a correct general principle: an equality lets the relation pass to the equated term, so a definite conclusion between the end terms M and O can indeed be drawn — the error in (A) is only in the direction of the inequality. 'Both (A) and (R) are correct and (R) is the explanation' is wrong because the assertion reverses the inequality. 'Both correct but (R) is NOT the explanation' is wrong for the same reason. '(A) is correct but (R) is not correct' is wrong on both counts, since (A) is false and (R) is a valid rule."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "If 'x $ y' means (3x + 2y) and 'x @ y' means (x − y) ÷ 2, then what is the value of (8 $ 6) @ 12?",
+      "options": ["12", "11", "18", "24"],
+      "correctAnswer": "12",
+      "explanation": "First the bracket: 8 $ 6 = 3(8) + 2(6) = 24 + 12 = 36. Then 36 @ 12 = (36 − 12) ÷ 2 = 24 ÷ 2 = 12. The option 11 is wrong because it comes from reversing the '$' rule as 3(6) + 2(8) = 34, giving (34 − 12) ÷ 2 = 11. The option 18 is wrong because it is 36 ÷ 2 with the subtraction of 12 omitted. The option 24 is wrong because it is 36 − 12 with the final division by 2 left out."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Match each set of letter positions in Column I with the meaningful four-letter word those letters form when rearranged, given in Column II.\n\nColumn I:\n(a) 1st, 3rd, 5th and 7th letters of 'BUILDER'\n(b) 1st, 3rd, 5th and 6th letters of 'HYDRANT'\n(c) 1st, 3rd, 5th and 8th letters of 'GALLOPED'\n(d) 1st, 2nd, 5th and 6th letters of 'FINISHED'\n\nColumn II:\n(i) FISH\n(ii) GOLD\n(iii) BIRD\n(iv) HAND\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Extracting the letters: (a) B-U-I-L-D-E-R gives B, I, D, R → BIRD (iii); (b) H-Y-D-R-A-N-T gives H, D, A, N → HAND (iv); (c) G-A-L-L-O-P-E-D gives G, L, O, D → GOLD (ii); (d) F-I-N-I-S-H-E-D gives F, I, S, H → FISH (i). The option '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' is wrong because it swaps (b) and (d): HYDRANT has no F or S, so FISH is impossible there. The option '(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)' is wrong because BUILDER contains no F or S needed for FISH, and FINISHED contains no B or R needed for BIRD. The option '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' is wrong because it assigns HAND to BUILDER (which has no A or N) and GOLD to FINISHED (which has no G, O or L)."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Which of the following equations are correct when the signs '×' and '÷' are interchanged with each other?\n\n(i) 12 × 3 ÷ 2 = 8\n(ii) 24 ÷ 2 × 6 = 8\n(iii) 18 × 6 ÷ 3 = 9\n(iv) 20 ÷ 5 × 4 = 20\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "After swapping '×' and '÷' and working left to right within the same precedence level: (i) becomes 12 ÷ 3 × 2 = 4 × 2 = 8, which matches; (ii) becomes 24 × 2 ÷ 6 = 48 ÷ 6 = 8, which matches; (iii) becomes 18 ÷ 6 × 3 = 3 × 3 = 9, which matches. So (i), (ii) and (iii) only. The other three options all include (iv), which fails: 20 ÷ 5 × 4 = 20 becomes 20 × 5 ÷ 4 = 100 ÷ 4 = 25, not 20. '(i), (ii) and (iv) only' and '(i), (iii) and (iv) only' also each leave out one equation that does balance, and '(ii), (iii) and (iv) only' wrongly rejects (i), which balances exactly at 8."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Consider the following statements about inserting arithmetic signs into the blanks of the given expressions, in the order stated:\n\n(i) Inserting '+' and '×' in '8 __ 4 __ 3' gives 36.\n(ii) Inserting '÷' and '+' in '36 __ 9 __ 5' gives 9.\n(iii) Inserting '×' and '−' in '7 __ 3 __ 6' gives 15.\n(iv) Inserting '−' and '÷' in '30 __ 12 __ 4' gives 27.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Applying BODMAS: (ii) 36 ÷ 9 + 5 = 4 + 5 = 9, so (ii) is correct; (iii) 7 × 3 − 6 = 21 − 6 = 15, so (iii) is correct; (iv) 30 − 12 ÷ 4 = 30 − 3 = 27, so (iv) is correct. Hence (ii), (iii) and (iv) only. All the other options include (i), which is false: 8 + 4 × 3 = 8 + 12 = 20, not 36 — the value 36 would require the bracketed form (8 + 4) × 3, which the expression does not have. '(i), (ii), (iii) and (iv)' is wrong because it accepts that faulty insertion along with the three valid ones. '(i), (ii) and (iii) only' is wrong because it admits (i) and also drops (iv), which checks out at 27. '(i), (iii) and (iv) only' is wrong because it admits (i) and wrongly drops (ii), which evaluates exactly to 9."
+    }
+  ]
+}

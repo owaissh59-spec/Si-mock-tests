@@ -1,0 +1,407 @@
+{
+  "subject": "B",
+  "topic": "Physical & World Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "Which of the following is the deepest oceanic trench in the world, containing the Challenger Deep?",
+      "options": ["Tonga Trench", "Mariana Trench", "Kermadec Trench", "Philippine Trench"],
+      "correctAnswer": "Mariana Trench",
+      "explanation": "The Mariana Trench, in the western Pacific Ocean east of the Mariana Islands, reaches about 10,994 m at the Challenger Deep, making it the deepest known point of the ocean floor. The Tonga Trench is wrong because, although it is the second deepest trench (about 10,882 m at the Horizon Deep), it does not contain the Challenger Deep. The Kermadec Trench is wrong because it lies south of the Tonga Trench near New Zealand and is only about 10,047 m deep. The Philippine Trench is wrong because its greatest depth (the Galathea Depth, about 10,540 m) is still shallower than the Mariana Trench."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the motions of the earth:\n\n(i) The earth completes one rotation on its axis in about 23 hours 56 minutes.\n(ii) The earth's axis is inclined at an angle of 23.5 degrees to the plane of its orbit.\n(iii) The earth takes about 365 days and 6 hours to complete one revolution around the sun.\n(iv) The rotation of the earth on its axis is the cause of the sequence of seasons.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i) and (iii) only", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "Statement (i) is correct because one rotation with respect to the stars (a sidereal day) takes 23 hours 56 minutes 4 seconds. Statement (iii) is correct because a revolution takes about 365 days and 6 hours, and the extra six hours are adjusted by adding a leap day every fourth year. Hence '(i) and (iii) only' is right. The option '(i), (ii) and (iii)' is wrong because statement (ii) is false: the axis is inclined 66.5 degrees to the plane of the orbit, and 23.5 degrees to the perpendicular drawn to that plane. The option '(ii), (iii) and (iv)' is wrong because it contains both the false statement (ii) and the false statement (iv). The option '(i), (ii) and (iv)' is wrong because statement (iv) is false: seasons are caused by the revolution of the earth combined with the constant tilt of its axis, whereas rotation causes only day and night."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Strait of Hormuz connects the Persian Gulf with which of the following water bodies?",
+      "options": ["Gulf of Aqaba", "Gulf of Aden", "Gulf of Sidra", "Gulf of Oman"],
+      "correctAnswer": "Gulf of Oman",
+      "explanation": "The Strait of Hormuz, lying between Iran and the Musandam peninsula of Oman, links the Persian Gulf with the Gulf of Oman, which in turn opens into the Arabian Sea; it is the world's most important oil transit chokepoint. The Gulf of Aqaba is wrong because it is the north-eastern arm of the Red Sea, east of the Sinai Peninsula. The Gulf of Aden is wrong because it lies between Yemen and Somalia and is joined to the Red Sea by the Bab-el-Mandeb, not by Hormuz. The Gulf of Sidra is wrong because it is an inlet of the Mediterranean Sea on the coast of Libya, far from the Persian Gulf."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the following local winds with their correct description:\n\nColumn I:\n(a) Chinook\n(b) Sirocco\n(c) Harmattan\n(d) Mistral\n\nColumn II:\n(i) Cold dry wind blowing down the Rhone valley of France\n(ii) Hot dry wind blowing from the Sahara into Mediterranean Europe\n(iii) Warm dry wind descending the eastern slopes of the Rockies\n(iv) Dry dusty wind blowing from the Sahara over West Africa\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "The Chinook is a warm dry wind that descends the eastern (leeward) slopes of the Rocky Mountains and melts snow on the Prairies, so (a)-(iii) is right; the Sirocco is a hot dry dusty wind that blows northward from the Sahara across the Mediterranean, so (b)-(ii) is right; the Harmattan is the dry dusty wind that blows from the Sahara over West Africa, where it is called the 'Doctor', so (c)-(iv) is right; the Mistral is a cold dry wind that blows down the Rhone valley to the Gulf of Lions, so (d)-(i) is right. The option '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' is wrong because it interchanges the Chinook and Sirocco, making the North American Chinook a Saharan wind. The option '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' is wrong because it interchanges the Sirocco and Harmattan, wrongly sending the Sirocco over West Africa. The option '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' is wrong because it makes the Harmattan a French valley wind and the Mistral a Rocky Mountain wind."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "The ozone layer, which absorbs the harmful ultraviolet radiation of the sun, is found in which layer of the atmosphere?",
+      "options": ["Troposphere", "Mesosphere", "Stratosphere", "Thermosphere"],
+      "correctAnswer": "Stratosphere",
+      "explanation": "The ozone layer lies roughly between 15 km and 35 km of altitude, that is, within the stratosphere, and the absorption of ultraviolet rays there is the reason temperature rises with height in this layer. The troposphere is wrong because it is the lowest layer, containing almost all water vapour and dust, where clouds and weather phenomena occur. The mesosphere is wrong because it lies above the stratosphere and is the layer where meteors burn up and where the lowest atmospheric temperatures occur. The thermosphere is wrong because it is the layer containing the ionosphere, which reflects radio waves back to the earth, and it has no ozone concentration."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Winds are deflected towards their right in the northern hemisphere and towards their left in the southern hemisphere.\nReason (R): The rotation of the earth on its axis generates the Coriolis force, whose magnitude increases from the equator towards the poles.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The assertion states Ferrel's Law correctly, and the reason correctly describes the Coriolis force, which is zero at the equator and maximum at the poles; since this apparent force produced by the earth's rotation is precisely what causes the deflection, (R) explains (A), so the first option is correct. The second option is wrong because the two statements are directly causally linked, not merely both true. The third option is wrong because (R) is a factually accurate statement of the Coriolis effect. The fourth option is wrong because (A) is also accurate, as the deflection of the trade winds and westerlies demonstrates."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are cold ocean currents?\n\n(i) Labrador Current\n(ii) Canary Current\n(iii) Gulf Stream\n(iv) Benguela Current\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Labrador Current flows south from the Arctic along the coast of Canada, the Canary Current flows south along the north-west coast of Africa, and the Benguela Current flows north along the coast of Namibia, so all three are cold currents and '(i), (ii) and (iv)' is correct. The option '(i), (ii) and (iii)' is wrong because the Gulf Stream is a warm current that carries tropical water from the Gulf of Mexico north-eastward towards Europe. The option '(ii), (iii) and (iv)' is wrong for the same reason: it wrongly includes the warm Gulf Stream while leaving out the cold Labrador Current. The option '(i), (iii) and (iv)' is wrong because it again includes the warm Gulf Stream and omits the cold Canary Current."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Which international boundary line separates North Korea from South Korea?",
+      "options": ["Durand Line", "McMahon Line", "Radcliffe Line", "38th Parallel"],
+      "correctAnswer": "38th Parallel",
+      "explanation": "The 38th Parallel of north latitude was chosen in 1945 as the dividing line between North and South Korea and remains the basis of the demilitarised zone between the two states. The Durand Line is wrong because it is the boundary drawn in 1893 between Afghanistan and what is now Pakistan. The McMahon Line is wrong because it is the line drawn in 1914 as the boundary between India and Tibet (China) in the eastern Himalaya. The Radcliffe Line is wrong because it is the boundary demarcated in 1947 between India and Pakistan."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The imaginary line drawn roughly along the 180 degree meridian, on crossing which a traveller gains or loses one calendar day, is the __________.",
+      "options": ["Greenwich Prime Meridian", "International Date Line", "Tropic of Capricorn", "Standard Time Meridian"],
+      "correctAnswer": "International Date Line",
+      "explanation": "The International Date Line follows the 180 degree meridian, deviating around land areas such as the Aleutians, Fiji and Kiribati, and a traveller going eastward across it repeats a day while one going westward loses a day. The Greenwich Prime Meridian is wrong because it is the 0 degree meridian passing through Greenwich, from which longitude and Greenwich Mean Time are reckoned. The Tropic of Capricorn is wrong because it is a parallel of latitude at 23.5 degrees south, not a meridian, and has nothing to do with the change of date. The Standard Time Meridian is wrong because it is the central meridian a country selects to fix its own standard time, such as 82.5 degrees east or 0 degree, and crossing it does not change the date."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about earthquakes and seismic waves:\n\n(i) Primary (P) waves can travel through solid, liquid and gaseous media.\n(ii) Secondary (S) waves can pass through liquids as easily as through solids.\n(iii) Surface waves are the most destructive of all the seismic waves.\n(iv) The point on the earth's surface vertically above the focus is called the epicentre.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Statements (i), (iii) and (iv) are all correct: P waves are longitudinal and therefore travel through all three media, surface (L) waves travel along the crust and cause the greatest destruction, and the epicentre is by definition the point on the surface directly above the focus. The option '(i), (ii) and (iii) only' is wrong because statement (ii) is false, as S waves are transverse and are stopped completely by liquids. The option '(ii), (iii) and (iv) only' is wrong because it includes the false statement (ii) and drops the correct statement (i). The option '(i), (ii) and (iv) only' is wrong because it too retains the false statement about S waves passing through liquids and omits the correct statement about surface waves."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Mohorovicic discontinuity marks the zone of separation between which two layers of the earth's interior?",
+      "options": ["The mantle and the outer core", "The upper and the lower mantle", "The crust and the upper mantle", "The outer core and inner core"],
+      "correctAnswer": "The crust and the upper mantle",
+      "explanation": "The Mohorovicic discontinuity, or Moho, marks the base of the crust and the top of the mantle, where the velocity of seismic waves suddenly increases; it lies about 35 km deep under the continents and only about 5 km beneath the ocean floor. 'The mantle and the outer core' is wrong because that boundary, at a depth of about 2,900 km, is the Gutenberg discontinuity. 'The upper and the lower mantle' is wrong because the break between those two shells is the Repetti discontinuity. 'The outer core and inner core' is wrong because the transition from the liquid outer core to the solid inner core is marked by the Lehmann discontinuity."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The following climatic data were recorded at a station:\n\nMean temperature of the coldest month: 26.4 degrees Celsius\nMean temperature of the warmest month: 28.1 degrees Celsius\nTotal annual rainfall: 2,250 mm\nRainfall of the driest month: 105 mm\n\nOn the basis of these data, the station most probably belongs to which climatic type?",
+      "options": ["Tropical savanna climate (Aw)", "Tropical desert climate (BWh)", "Warm temperate humid climate (Cfa)", "Tropical rainforest climate (Af)"],
+      "correctAnswer": "Tropical rainforest climate (Af)",
+      "explanation": "Uniformly high temperatures with an annual range of less than two degrees, very heavy annual rainfall and no month receiving less than 60 mm are the defining marks of the equatorial or tropical rainforest (Af) type, so that is the correct reading of the data. The tropical savanna climate (Aw) is wrong because it must have a pronounced dry season with one or more nearly rainless months, whereas here even the driest month gets 105 mm. The tropical desert climate (BWh) is wrong because such stations receive very little rainfall, usually under 250 mm a year, and show a large diurnal and annual range of temperature. The warm temperate humid climate (Cfa) is wrong because it requires a distinctly cooler winter, with the coldest month well below 18 degrees Celsius, whereas the coldest month here is 26.4 degrees Celsius."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Which of the following is the largest lake in the world in terms of surface area?",
+      "options": ["Caspian Sea", "Lake Baikal", "Lake Superior", "Lake Victoria"],
+      "correctAnswer": "Caspian Sea",
+      "explanation": "The Caspian Sea, bordered by Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan, covers about 371,000 sq km and is the largest inland water body or lake on the earth. Lake Baikal is wrong because, although it is the deepest lake in the world and holds the greatest volume of fresh water, its surface area of about 31,700 sq km is far smaller. Lake Superior is wrong because it is only the largest freshwater lake by area, about 82,100 sq km. Lake Victoria is wrong because it is merely the largest lake of Africa, about 68,800 sq km, and ranks second among freshwater lakes by area."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Temperate cyclones generally cover a much larger area than tropical cyclones.\nReason (R): Tropical cyclones originate over warm ocean waters lying roughly between 5 degrees and 20 degrees of latitude in both hemispheres.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are factually true, but the reason merely states where tropical cyclones form; the larger extent of a temperate cyclone is due to its origin along a front where two contrasting air masses meet over a broad zone, not to the latitude of tropical cyclone formation. Hence the second option is correct. The first option is wrong because there is no cause-and-effect link between the two statements. The third option is wrong because (R) correctly gives the source region of tropical cyclones, which need sea surface temperatures above about 27 degrees Celsius and some Coriolis force. The fourth option is wrong because (A) is also correct, as temperate cyclones may extend over thousands of kilometres while tropical cyclones are far more compact."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Match the following temperate grasslands with the regions in which they lie:\n\nColumn I:\n(a) Prairies\n(b) Pampas\n(c) Veld\n(d) Downs\n\nColumn II:\n(i) South Africa\n(ii) Australia\n(iii) North America\n(iv) Argentina\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The Prairies are the temperate grasslands of the interior of North America, the Pampas are those of Argentina and Uruguay, the Veld is the grassland of the plateau of South Africa and the Downs are the grasslands of Australia, so '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is correct. The option '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' is wrong because it places the Pampas in South Africa and the Veld in Argentina. The option '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' is wrong because it interchanges the Prairies and the Pampas, shifting the Prairies to Argentina. The option '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' is wrong because it interchanges the Veld and the Downs, wrongly placing the Veld in Australia."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following canals connects the Mediterranean Sea with the Red Sea?",
+      "options": ["Panama Canal", "Kiel Canal", "Corinth Canal", "Suez Canal"],
+      "correctAnswer": "Suez Canal",
+      "explanation": "The Suez Canal, opened in 1869 across the Isthmus of Suez in Egypt, joins the Mediterranean Sea at Port Said with the Red Sea at Suez and greatly shortens the sea route between Europe and Asia. The Panama Canal is wrong because it cuts across the Isthmus of Panama and joins the Atlantic (Caribbean Sea) with the Pacific Ocean. The Kiel Canal is wrong because it lies in northern Germany and connects the North Sea with the Baltic Sea. The Corinth Canal is wrong because it cuts through the Isthmus of Corinth in Greece, linking the Gulf of Corinth with the Saronic Gulf of the Aegean Sea."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Consider the following statements about latitudes and longitudes:\n\n(i) All parallels of latitude are parallel to one another but are not equal in length.\n(ii) All meridians of longitude are equal in length and converge at the poles.\n(iii) The distance between two consecutive parallels of latitude is about 111 km.\n(iv) The distance between two consecutive meridians remains the same from the equator to the poles.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Statements (i), (ii) and (iii) are correct: parallels never meet but shorten away from the equator, meridians are semicircles of equal length meeting at the two poles, and one degree of latitude corresponds to roughly 111 km on the ground. The option '(i), (ii) and (iv) only' is wrong because statement (iv) is false, the gap between meridians being about 111 km at the equator but shrinking to zero at the poles. The option '(ii), (iii) and (iv) only' is wrong because it keeps the false statement (iv) and drops the correct statement (i). The option '(i), (iii) and (iv) only' is wrong because it too retains the false statement (iv) while omitting the correct statement about meridians converging at the poles."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Basalt, which forms the extensive lava plateaus of the world, is an example of which type of rock?",
+      "options": ["Intrusive igneous rock", "Foliated metamorphic rock", "Extrusive igneous rock", "Clastic sedimentary rock"],
+      "correctAnswer": "Extrusive igneous rock",
+      "explanation": "Basalt solidifies from lava poured out on the surface, and the rapid cooling gives it a very fine-grained texture, so it is an extrusive or volcanic igneous rock. 'Intrusive igneous rock' is wrong because such rocks, granite being the typical example, cool slowly deep within the crust and are coarsely crystalline. 'Foliated metamorphic rock' is wrong because that category covers rocks like slate, schist and gneiss, formed when existing rocks are altered by heat and pressure. 'Clastic sedimentary rock' is wrong because that describes rocks such as sandstone and shale, built up from cemented fragments of older rocks."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Which of the following are landforms produced by glacial erosion?\n\n(i) Cirque\n(ii) Yardang\n(iii) Hanging valley\n(iv) Roche moutonnee\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A cirque is the armchair-shaped hollow gouged at the head of a valley glacier, a hanging valley is a tributary valley left high above the over-deepened main glacial valley, and a roche moutonnee is a rock hummock smoothed on the up-glacier side and plucked on the other, so all three are glacial erosional forms. The option '(i), (ii) and (iii)' is wrong because a yardang is a ridge carved by wind abrasion in a desert, that is, an aeolian form. The option '(ii), (iii) and (iv)' is wrong for the same reason: it includes the aeolian yardang and leaves out the cirque. The option '(i), (ii) and (iv)' is wrong because it again includes the yardang and omits the hanging valley."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "Town P is situated at 60 degrees east longitude and town Q at 15 degrees west longitude. When the local time at P is 12:00 noon, what will be the local time at Q?",
+      "options": ["6:00 AM", "8:00 AM", "9:00 AM", "7:00 AM"],
+      "correctAnswer": "7:00 AM",
+      "explanation": "The difference of longitude between P and Q is 60 plus 15, that is 75 degrees; since the earth turns one degree in four minutes, 75 multiplied by 4 gives 300 minutes, or 5 hours. As Q lies to the west of P, its local time is behind, so 12:00 noon minus 5 hours gives 7:00 AM. The option 6:00 AM is wrong because it comes from wrongly taking the longitudinal difference as 90 degrees, giving 6 hours. The option 8:00 AM is wrong because it results from subtracting the two longitudes instead of adding them, giving only 60 degrees or 4 hours. The option 9:00 AM is wrong because it corresponds to a difference of just 45 degrees, or 3 hours."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Which of the following is the largest hot desert in the world?",
+      "options": ["Sahara Desert", "Arabian Desert", "Kalahari Desert", "Gobi Desert"],
+      "correctAnswer": "Sahara Desert",
+      "explanation": "The Sahara, stretching across northern Africa from the Atlantic to the Red Sea over about 9.2 million sq km, is by far the largest hot desert on the earth. The Arabian Desert is wrong because, though it is the second largest hot desert, it covers only about 2.3 million sq km of the Arabian Peninsula. The Kalahari Desert is wrong because it is a much smaller sandy basin of about 0.9 million sq km in southern Africa. The Gobi Desert is wrong because it is a cold desert of Mongolia and northern China, with freezing winters, and is far smaller than the Sahara."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Consider the following statements about volcanoes:\n\n(i) A volcano that is quiet at present but may erupt again in the future is described as dormant.\n(ii) The Pacific Ring of Fire accounts for a majority of the world's active volcanoes.\n(iii) Shield volcanoes are built up of highly viscous and acidic lava.\n(iv) Caldera lakes occupy the collapsed craters of dormant or extinct volcanoes.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statements (i), (ii) and (iv) are correct: a dormant volcano is one that is temporarily inactive, the circum-Pacific belt or Ring of Fire contains the greatest concentration of active volcanoes on the earth, and caldera lakes such as Crater Lake occupy huge collapsed craters. The option '(i), (ii) and (iii) only' is wrong because statement (iii) is false: shield volcanoes such as those of Hawaii are built of very fluid basic lava of low viscosity, which spreads far and gives gentle slopes. The option '(ii), (iii) and (iv) only' is wrong because it keeps the false statement about viscous lava and drops the correct statement (i). The option '(i), (iii) and (iv) only' is wrong because it also retains statement (iii) and omits the correct statement about the Ring of Fire."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Match the following rivers of the world with the cities situated on their banks:\n\nColumn I:\n(a) Thames\n(b) Danube\n(c) Tiber\n(d) Seine\n\nColumn II:\n(i) Rome\n(ii) Paris\n(iii) London\n(iv) Budapest\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "London stands on the Thames in England, Budapest on the Danube in Hungary, Rome on the Tiber in Italy and Paris on the Seine in France, so '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is correct. The option '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' is wrong because it places Rome on the Danube and Budapest on the Tiber. The option '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' is wrong because it puts Paris on the Thames and London on the Seine. The option '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' is wrong because it wrongly places Paris on the Tiber and Rome on the Seine."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Which of the following is a warm ocean current of the Pacific Ocean?",
+      "options": ["Oyashio Current", "Humboldt Current", "California Current", "Kuroshio Current"],
+      "correctAnswer": "Kuroshio Current",
+      "explanation": "The Kuroshio, or Japan Current, is a warm current that flows north-eastward along the eastern coast of Japan and moderates the climate of that coast, much as the Gulf Stream does in the Atlantic. The Oyashio Current is wrong because it is a cold current flowing south from the Bering Sea along the Kurile Islands, and its meeting with the Kuroshio causes dense fog. The Humboldt Current is wrong because it is the cold Peru Current flowing north along the western coast of South America. The California Current is wrong because it is a cold current flowing south along the western coast of North America."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Secondary (S) waves are not recorded on seismographs after they reach the outer core of the earth.\nReason (R): Secondary waves are transverse in nature and cannot be transmitted through a liquid medium.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and directly linked: because S waves are transverse they die out in liquids, and their disappearance below the Gutenberg discontinuity is the very evidence that the outer core is in a liquid state, so the first option is correct. The second option is wrong because the relationship here is strictly causal, not incidental. The third option is wrong because (R) correctly describes the transverse character of S waves. The fourth option is wrong because (A) is also correct, as the shadow zone recorded on seismographs demonstrates."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Which of the following straits separates the continent of Asia from North America?",
+      "options": ["Formosa Strait", "Bering Strait", "Bass Strait", "Davis Strait"],
+      "correctAnswer": "Bering Strait",
+      "explanation": "The Bering Strait separates the eastern tip of Siberia in Asia from Alaska in North America and connects the Arctic Ocean with the Bering Sea of the Pacific. The Formosa Strait is wrong because it separates the island of Taiwan from the mainland coast of China, both of which lie in Asia. The Bass Strait is wrong because it separates the mainland of Australia from the island of Tasmania. The Davis Strait is wrong because it lies between Greenland and Baffin Island, joining Baffin Bay with the Labrador Sea."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The table below gives the mean monthly temperature and rainfall of a station in the northern hemisphere:\n\nMonth - Temperature - Rainfall\nJanuary - 8 degrees Celsius - 85 mm\nApril - 14 degrees Celsius - 55 mm\nJuly - 23 degrees Celsius - 20 mm\nOctober - 16 degrees Celsius - 70 mm\n\nThe data indicate that the station belongs to which climatic type?",
+      "options": ["Tropical monsoon climate", "Equatorial rainforest climate", "Mediterranean climate type", "Humid continental climate"],
+      "correctAnswer": "Mediterranean climate type",
+      "explanation": "The station has mild winters, warm summers and, most tellingly, its maximum rainfall in the winter months with a very dry summer, which is the classic signature of the Mediterranean or warm temperate western margin type. The tropical monsoon climate is wrong because it receives the bulk of its rain in the hot summer months and has a dry winter, the exact reverse of this pattern. The equatorial rainforest climate is wrong because it shows uniformly high temperatures near 27 degrees Celsius and heavy rain in every month. The humid continental climate is wrong because it has severe winters with the coldest month well below freezing and its rainfall maximum in summer."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Which of the following are classified as fold mountains?\n\n(i) Alps\n(ii) Andes\n(iii) Vosges\n(iv) Rockies\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Alps, the Andes and the Rockies are all young fold mountains raised by the compression and folding of sediments along converging plate margins, so '(i), (ii) and (iv)' is correct. The option '(i), (ii) and (iii)' is wrong because the Vosges of France is a classic block mountain or horst, bounded by faults and formed with the Black Forest when the Rhine rift valley subsided. The option '(ii), (iii) and (iv)' is wrong for the same reason: it includes the block mountain Vosges and leaves out the folded Alps. The option '(i), (iii) and (iv)' is wrong because it again includes the Vosges while omitting the Andes, the longest fold mountain chain in the world."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The Great Barrier Reef, the largest coral reef system in the world, lies off the coast of which country?",
+      "options": ["Mexico", "Indonesia", "New Zealand", "Australia"],
+      "correctAnswer": "Australia",
+      "explanation": "The Great Barrier Reef stretches for over 2,000 km in the Coral Sea off the north-eastern coast of Queensland in Australia and is the largest structure built by living organisms. Mexico is wrong because the reef off its Yucatan coast forms part of the Mesoamerican Barrier Reef, which is only the second largest system in the world. Indonesia is wrong because, although its waters lie within the coral-rich Coral Triangle, they contain many scattered fringing reefs rather than a single continuous barrier reef. New Zealand is wrong because the seas around it are too cool for extensive reef-building corals, which need water warmer than about 20 degrees Celsius."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements about tides:\n\n(i) Spring tides occur when the sun, the moon and the earth lie almost in a straight line.\n(ii) Neap tides occur when the moon is in its first quarter or third quarter.\n(iii) Tides are caused mainly by the gravitational pull of the moon and the sun on the ocean water.\n(iv) The tidal range is greatest at the time of the moon's first quarter.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Statements (i), (ii) and (iii) are correct: spring tides occur at new and full moon when the three bodies are in line and the pulls reinforce each other, neap tides occur at the quarters when the pulls act at right angles, and the tide-generating force is the combined gravitational attraction of the moon and the sun. The option '(i), (ii) and (iv) only' is wrong because statement (iv) is false, the range being smallest, not greatest, at the first quarter. The option '(ii), (iii) and (iv) only' is wrong because it keeps that false statement and drops the correct statement (i) about spring tides. The option '(i), (iii) and (iv) only' is wrong because it also retains statement (iv) and omits the correct statement about neap tides."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "El Nino is associated with which of the following conditions?",
+      "options": ["Abnormal cooling of surface water off the Peruvian coast", "Strengthening of the south-east trade winds over the Pacific", "Abnormal warming of surface water off the Peruvian coast", "Abnormal warming of the surface water of the Arabian Sea"],
+      "correctAnswer": "Abnormal warming of surface water off the Peruvian coast",
+      "explanation": "El Nino is the appearance of an abnormally warm current off the coast of Peru and Ecuador every few years, which suppresses the upwelling of cold nutrient-rich water, ruins the anchovy catch and disturbs weather patterns across the world. The first option is wrong because abnormal cooling of that same water is the opposite phase, La Nina. The second option is wrong because El Nino is marked by a weakening, not a strengthening, of the south-east trade winds along with a fall in pressure over the eastern Pacific. The fourth option is wrong because warming of the Arabian Sea belongs to the Indian Ocean and relates to phenomena such as the Indian Ocean Dipole, not to El Nino, which is a Pacific event."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Match the following continents with their highest peaks:\n\nColumn I:\n(a) Africa\n(b) South America\n(c) Europe\n(d) North America\n\nColumn II:\n(i) Denali\n(ii) Mount Elbrus\n(iii) Mount Kilimanjaro\n(iv) Aconcagua\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Mount Kilimanjaro in Tanzania is the highest point of Africa, Aconcagua in Argentina of South America, Mount Elbrus in the Caucasus of Europe and Denali in Alaska of North America, so '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' is correct. The option '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' is wrong because it places Elbrus in South America and Aconcagua in Europe. The option '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' is wrong because it makes Aconcagua the highest peak of Africa and Kilimanjaro that of South America. The option '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is wrong because it interchanges Denali and Elbrus, putting the Alaskan peak in Europe."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The winds known as the 'Roaring Forties' are:",
+      "options": ["Westerly winds of the southern hemisphere near 40 to 50 degrees south", "Easterly winds of the southern hemisphere near 40 to 50 degrees south", "Westerly winds of the northern hemisphere near 40 to 50 degrees north", "Polar easterly winds blowing near 60 to 70 degrees south latitude"],
+      "correctAnswer": "Westerly winds of the southern hemisphere near 40 to 50 degrees south",
+      "explanation": "In the southern hemisphere the westerlies blow with great regularity and force because there is little land to obstruct them, and in the belt near 40 to 50 degrees south they are called the Roaring Forties, becoming the Furious Fifties and Shrieking Sixties further south. The second option is wrong because these winds blow from the west towards the east, not from the east. The third option is wrong because in the northern hemisphere the westerlies are broken up and weakened by the large landmasses, so no such name is used there. The fourth option is wrong because the winds blowing outward from the polar high in that zone are the polar easterlies, a different planetary wind belt."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the troposphere, temperature normally decreases with increasing altitude.\nReason (R): The troposphere is heated directly by the incoming short-wave radiation of the sun.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "The assertion is correct, since temperature falls at the normal lapse rate of about 6.5 degrees Celsius per 1,000 m in the troposphere, but the reason is false: the atmosphere is largely transparent to incoming short-wave radiation and the troposphere is heated from below by the long-wave terrestrial radiation given off by the earth's surface, which is exactly why the air grows cooler with height. Hence the third option is right. The first option is wrong because (R) is not a true statement at all. The second option is wrong for the same reason. The fourth option is wrong because (A) is a correct statement of the normal thermal structure of the troposphere."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "The strait of Bab-el-Mandeb connects the Red Sea with which of the following?",
+      "options": ["Gulf of Oman", "Gulf of Aden", "Gulf of Suez", "Gulf of Aqaba"],
+      "correctAnswer": "Gulf of Aden",
+      "explanation": "The Bab-el-Mandeb, lying between Yemen on the Arabian side and Djibouti and Eritrea on the African side, joins the southern end of the Red Sea with the Gulf of Aden, which opens into the Arabian Sea. The Gulf of Oman is wrong because it is joined to the Persian Gulf by the Strait of Hormuz and lies far to the east. The Gulf of Suez is wrong because it is the north-western arm of the Red Sea itself, leading to the Suez Canal. The Gulf of Aqaba is wrong because it is the north-eastern arm of the Red Sea, separated from the Gulf of Suez by the Sinai Peninsula."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "Consider the following statements about continental drift and plate tectonics:\n\n(i) The theory of continental drift was put forward by Alfred Wegener.\n(ii) Wegener named the single super-continent Pangaea and the surrounding ocean Panthalassa.\n(iii) Mid-oceanic ridges mark divergent boundaries where new crust is being created.\n(iv) The Pacific Plate is the largest of the continental plates of the earth.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Statements (i), (ii) and (iii) are correct: Wegener proposed continental drift in 1912, he called the original landmass Pangaea and the encircling ocean Panthalassa, and mid-oceanic ridges are constructive or divergent margins where sea-floor spreading adds new crust. The option '(i), (ii) and (iv) only' is wrong because statement (iv) is false: the Pacific Plate is indeed the largest plate, but it is almost entirely oceanic, not continental. The option '(ii), (iii) and (iv) only' is wrong because it keeps that false statement and drops the correct statement about Wegener. The option '(i), (iii) and (iv) only' is wrong because it also retains statement (iv) and omits the correct statement about Pangaea and Panthalassa."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Which of the following are landforms produced by the erosional work of underground water in limestone regions?\n\n(i) Sinkhole\n(ii) Stalactite\n(iii) Lapies\n(iv) Limestone cavern\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Sinkholes, lapies (the grooved and pitted limestone pavement left after solution along joints) and caverns are all formed by the solution and removal of limestone by percolating water, so '(i), (iii) and (iv)' is correct. The option '(i), (ii) and (iii)' is wrong because a stalactite is a depositional form, an icicle-like column of calcium carbonate that grows downward from a cave roof. The option '(ii), (iii) and (iv)' is wrong for the same reason: it includes the depositional stalactite and leaves out the sinkhole. The option '(i), (ii) and (iv)' is wrong because it again includes the stalactite while omitting lapies, a true karst erosional surface."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The Danube, one of the major rivers of Europe, finally drains into which sea?",
+      "options": ["North Sea", "Black Sea", "Caspian Sea", "Aegean Sea"],
+      "correctAnswer": "Black Sea",
+      "explanation": "The Danube rises in the Black Forest of Germany, flows eastward through ten countries and past Vienna, Bratislava, Budapest and Belgrade, and enters the Black Sea through a large delta in Romania. The North Sea is wrong because the rivers draining into it include the Rhine, the Elbe and the Thames, not the Danube. The Caspian Sea is wrong because its chief feeder is the Volga, the longest river of Europe, which lies entirely within Russia. The Aegean Sea is wrong because the rivers entering it are Balkan streams such as the Vardar and the Maritsa."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "On a weather map, the line joining all places having equal atmospheric pressure is called an __________.",
+      "options": ["isohyet", "isotherm", "isobar", "isohel"],
+      "correctAnswer": "isobar",
+      "explanation": "An isobar joins places of equal atmospheric pressure reduced to sea level, and the spacing of isobars shows the pressure gradient, which controls wind speed. 'Isohyet' is wrong because it joins places receiving equal amounts of rainfall. 'Isotherm' is wrong because it joins places having equal temperature. 'Isohel' is wrong because it joins places receiving equal duration of sunshine."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The temperature recorded at a coastal station at sea level is 30 degrees Celsius. Assuming the normal lapse rate of 6.5 degrees Celsius per 1,000 metres, what will be the approximate temperature at the summit of a hill 2,400 metres high nearby?",
+      "options": ["14.4 degrees Celsius", "15.6 degrees Celsius", "12.6 degrees Celsius", "18.4 degrees Celsius"],
+      "correctAnswer": "14.4 degrees Celsius",
+      "explanation": "The fall in temperature equals 6.5 multiplied by 2.4, that is 15.6 degrees Celsius, so the summit temperature is 30 minus 15.6, which gives 14.4 degrees Celsius. The value 15.6 degrees Celsius is wrong because it is merely the total fall in temperature, mistaken for the temperature itself. The value 12.6 degrees Celsius is wrong because it follows from using an inflated lapse rate of about 7.25 degrees Celsius per 1,000 m. The value 18.4 degrees Celsius is wrong because it follows from using too low a lapse rate, about 4.8 degrees Celsius per 1,000 m."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Which of the following pressure belts is characterised by calm air and ascending currents, and is known as the 'doldrums'?",
+      "options": ["Sub-tropical high pressure belt", "Sub-polar low pressure belt", "Polar high pressure belt", "Equatorial low pressure belt"],
+      "correctAnswer": "Equatorial low pressure belt",
+      "explanation": "The equatorial low pressure belt is a zone of intense heating where the trade winds converge and air rises vertically, so surface winds are feeble and variable, and sailing ships were often becalmed there, which gave it the name doldrums. The sub-tropical high pressure belt is wrong because that zone of descending air near 30 degrees latitude is called the horse latitudes. The sub-polar low pressure belt is wrong because it is a dynamically produced low near 60 degrees latitude where temperate cyclones develop and winds are strong. The polar high pressure belt is wrong because it is a region of intensely cold, dense, descending air from which the polar easterlies blow out."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "Consider the following statements about coral reefs:\n\n(i) Reef-building corals flourish best in shallow tropical seas roughly between 25 degrees north and 25 degrees south.\n(ii) The Great Barrier Reef is an example of a barrier reef.\n(iii) Corals grow luxuriantly in water carrying a very heavy load of silt and sediment.\n(iv) An atoll is a ring-shaped reef enclosing a shallow lagoon.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(ii), (iii) and (iv) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statements (i), (ii) and (iv) are correct: corals require warm, shallow, clear, salty water within the tropics, the Great Barrier Reef off Queensland is the classic barrier reef separated from land by a lagoon, and an atoll is a circular or horseshoe-shaped reef enclosing a lagoon, as in the Maldives. The option '(i), (ii) and (iii) only' is wrong because statement (iii) is false, since heavy silt clogs the polyps and kills them, which is why reefs are absent near the mouths of large muddy rivers. The option '(ii), (iii) and (iv) only' is wrong because it keeps that false statement and drops the correct statement about the tropical location of reefs. The option '(i), (iii) and (iv) only' is wrong because it also retains statement (iii) and omits the correct statement about the Great Barrier Reef."
+    },
+    {
+      "id": "43",
+      "subject": "B",
+      "questionText": "Match the following straits with the areas they separate:\n\nColumn I:\n(a) Strait of Gibraltar\n(b) Bass Strait\n(c) Strait of Malacca\n(d) Cook Strait\n\nColumn II:\n(i) Sumatra and the Malay Peninsula\n(ii) North Island and South Island of New Zealand\n(iii) Europe and Africa\n(iv) Australia and Tasmania\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The Strait of Gibraltar separates Spain in Europe from Morocco in Africa and links the Atlantic with the Mediterranean, the Bass Strait separates mainland Australia from Tasmania, the Strait of Malacca lies between Sumatra and the Malay Peninsula, and the Cook Strait divides the North and South Islands of New Zealand, so the first option is correct. The option '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' is wrong because it makes the Bass Strait an Indonesian channel and the Malacca Strait an Australian one. The option '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' is wrong because it places Gibraltar between Australia and Tasmania and the Bass Strait between Europe and Africa. The option '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' is wrong because it interchanges the Malacca and Cook straits, putting Malacca in New Zealand."
+    },
+    {
+      "id": "44",
+      "subject": "B",
+      "questionText": "Which of the following is a hot and dry local wind that descends the northern slopes of the Alps in Europe?",
+      "options": ["Mistral", "Foehn", "Bora", "Sirocco"],
+      "correctAnswer": "Foehn",
+      "explanation": "The Foehn is a warm dry wind that blows down the leeward northern slopes of the Alps in Switzerland after losing its moisture on the southern side, and it helps to ripen grapes and melt snow in the valleys. The Mistral is wrong because it is a cold dry wind that blows from the north down the Rhone valley towards the Gulf of Lions. The Bora is wrong because it is a cold dry wind that blows from the north-east over the Adriatic coast of the Balkans. The Sirocco is wrong because it is a hot dusty wind that rises over the Sahara and blows northward across the Mediterranean, not down the Alpine slopes."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The earth is at its greatest distance from the sun, that is at aphelion, in the first week of January.\nReason (R): The orbit of the earth around the sun is elliptical and not circular.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The assertion is false: in the first week of January, about 3 January, the earth is nearest the sun at perihelion, and it is farthest away at aphelion in the first week of July, about 4 July. The reason is true, since the elliptical orbit is precisely why the distance varies at all, so the fourth option is right. The first option is wrong because (A) is factually incorrect. The second option is wrong for the same reason. The third option is wrong because it reverses the position, treating the false statement as correct and the true statement as false."
+    },
+    {
+      "id": "46",
+      "subject": "B",
+      "questionText": "Which of the following water bodies records the highest salinity in the world?",
+      "options": ["Red Sea", "Baltic Sea", "Dead Sea", "Caspian Sea"],
+      "correctAnswer": "Dead Sea",
+      "explanation": "The Dead Sea, lying in a rift valley between Israel and Jordan, has a salinity of about 330 grams per litre because of very high evaporation in a hot desert setting, a lack of any outlet and inflow of salts from the Jordan river, which is why bathers float in it. The Red Sea is wrong because, although it has the highest salinity of any open sea at about 41 parts per thousand, that is only an eighth of the Dead Sea's figure. The Baltic Sea is wrong because it has one of the lowest salinities in the world, near 7 parts per thousand, owing to heavy river inflow and low evaporation. The Caspian Sea is wrong because its average salinity is only about 12 to 13 parts per thousand, less than that of normal ocean water."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "Study the following data relating to four countries:\n\nCountry - Population (in million) - Area (in thousand sq km)\nP - 210 - 300\nQ - 90 - 450\nR - 150 - 250\nS - 60 - 600\n\nOn the basis of these data, which country has the highest density of population?",
+      "options": ["Country P", "Country R", "Country Q", "Country S"],
+      "correctAnswer": "Country P",
+      "explanation": "Density is population divided by area, so for P it is 210 million over 300 thousand sq km, that is 700 persons per sq km, the highest of the four. Country R is wrong because its density works out to 150 divided by 250, or 600 persons per sq km, which is second highest but still lower than P. Country Q is wrong because its density is only 90 divided by 450, or 200 persons per sq km. Country S is wrong because, despite having the largest area, its density is the lowest at 60 divided by 600, or just 100 persons per sq km."
+    },
+    {
+      "id": "48",
+      "subject": "B",
+      "questionText": "Which of the following are correctly matched boundary lines and the countries they separate?\n\n(i) Durand Line - Afghanistan and Pakistan\n(ii) Maginot Line - France and Germany\n(iii) Oder-Neisse Line - Germany and Poland\n(iv) Hindenburg Line - Israel and Jordan\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Durand Line demarcated in 1893 divides Afghanistan from what is now Pakistan, the Maginot Line was the fortified line along the frontier of France with Germany, and the Oder-Neisse Line has formed the boundary between Germany and Poland since 1945, so '(i), (ii) and (iii)' is correct. The option '(i), (ii) and (iv)' is wrong because pair (iv) is false: the Hindenburg Line lay between Germany and Poland, and has no connection with Israel or Jordan. The option '(ii), (iii) and (iv)' is wrong for the same reason, and it also drops the correct Durand Line pair. The option '(i), (iii) and (iv)' is wrong because it too keeps the false Hindenburg pair while omitting the correct Maginot Line pair."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Tropical cyclones of the China Sea and the western Pacific Ocean are locally known as:",
+      "options": ["Hurricanes", "Willy-willies", "Typhoons", "Twisters"],
+      "correctAnswer": "Typhoons",
+      "explanation": "In the China Sea and the western Pacific, tropical cyclones that strike Japan, the Philippines and the coast of China are called typhoons. 'Hurricanes' is wrong because that name is used for the tropical cyclones of the Caribbean Sea, the Gulf of Mexico and the eastern Pacific. 'Willy-willies' is wrong because that is the local name for the tropical cyclones of north-western Australia. 'Twisters' is wrong because it is a popular name for tornadoes, which are not tropical cyclones at all but small, extremely violent funnel-shaped whirlwinds, most common in the interior plains of the United States."
+    },
+    {
+      "id": "50",
+      "subject": "B",
+      "questionText": "Consider the following statements about the solstices and the equinoxes:\n\n(i) On 21 June the sun's rays fall vertically on the Tropic of Cancer.\n(ii) On 22 December the southern hemisphere experiences its longest day.\n(iii) On 21 March and 23 September the sun shines vertically over the equator.\n(iv) At the time of the June solstice the Antarctic Circle experiences continuous daylight.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iii) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Statements (i), (ii) and (iii) are correct: at the summer solstice on 21 June the vertical rays fall on the Tropic of Cancer, at the winter solstice on 22 December they fall on the Tropic of Capricorn so the southern hemisphere then has its longest day, and at the two equinoxes day and night are equal everywhere because the rays are vertical over the equator. The option '(i), (ii) and (iv) only' is wrong because statement (iv) is false: in June the south polar area is turned away from the sun, so the Antarctic Circle then has continuous darkness while the Arctic Circle has continuous daylight. The option '(ii), (iii) and (iv) only' is wrong because it keeps that false statement and drops the correct statement about the Tropic of Cancer. The option '(i), (iii) and (iv) only' is wrong because it also retains statement (iv) and omits the correct statement about 22 December."
+    }
+  ]
+}

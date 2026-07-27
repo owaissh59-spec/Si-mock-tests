@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 187,
+  "count": 217,
   "questions": [
     {
       "test": 6,
@@ -937,6 +937,156 @@
       "test": 25,
       "stem": "in ms word, print preview allows you to:",
       "key": "See how the document will look when printed before actually printing"
+    },
+    {
+      "test": 31,
+      "stem": "in the ms excel window, which element displays the actual formula stored",
+      "key": "Formula Bar"
+    },
+    {
+      "test": 31,
+      "stem": "consider the following statements about cell references in ms excel: (i) a",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "which error value does ms excel display in a cell when a",
+      "key": "#DIV/0!"
+    },
+    {
+      "test": 31,
+      "stem": "match the ms excel functions in column i with the operation they",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 31,
+      "stem": "how many columns does a single worksheet contain in ms excel 2007",
+      "key": "16,384"
+    },
+    {
+      "test": 31,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 31,
+      "stem": "which of the following are text functions in ms excel? (i) left",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "in ms excel, pressing ctrl + ; (ctrl and semicolon) in the",
+      "key": "Inserts the current system date as a static value"
+    },
+    {
+      "test": 31,
+      "stem": "a worksheet contains the following entries: a1 = 12 a2 = 8",
+      "key": "3"
+    },
+    {
+      "test": 31,
+      "stem": "which ms excel feature keeps selected rows or columns locked and visible",
+      "key": "Freeze Panes"
+    },
+    {
+      "test": 31,
+      "stem": "consider the following statements about the vlookup function in ms excel: (i)",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "in the ms excel formula =2+3*4^2/8, which operation is performed first according",
+      "key": "Exponentiation (^)"
+    },
+    {
+      "test": 31,
+      "stem": "a worksheet contains b1 = 15, b2 = 5, b3 = 10",
+      "key": "25"
+    },
+    {
+      "test": 31,
+      "stem": "match the ms excel error values in column i with their usual",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 31,
+      "stem": "cell a1 contains 5 and cell a2 contains 10. both cells are",
+      "key": "15 and 20, continuing the linear number series"
+    },
+    {
+      "test": 31,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 31,
+      "stem": "consider the following statements about ms excel: (i) conditional formatting can change",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "which ms excel feature is used to summarise, group and cross-tabulate a",
+      "key": "PivotTable"
+    },
+    {
+      "test": 31,
+      "stem": "which of the following are chart types available in ms excel? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 31,
+      "stem": "in ms excel 2016, a workbook that contains macros must be saved",
+      "key": ".xlsm"
+    },
+    {
+      "test": 31,
+      "stem": "pressing ctrl + end in an ms excel worksheet moves the cell",
+      "key": "the last used cell of the current worksheet"
+    },
+    {
+      "test": 31,
+      "stem": "consider the following statements about printing in ms excel: (i) a print",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "the marks of five students are recorded in a worksheet as follows:",
+      "key": "3"
+    },
+    {
+      "test": 31,
+      "stem": "which of the following formulas returns the value 4.57 in ms excel?",
+      "key": "=ROUND(4.567,2)"
+    },
+    {
+      "test": 31,
+      "stem": "match the ms excel shortcut keys in column i with the action",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 31,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 31,
+      "stem": "a workbook contains the worksheets jan, feb and mar in that order.",
+      "key": "=SUM(Jan:Mar!C5)"
+    },
+    {
+      "test": 31,
+      "stem": "which of the following are valid worksheet functions in ms excel? (i)",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "consider the following statements about sorting and filtering in ms excel: (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 31,
+      "stem": "in ms excel, the wrap text command in the alignment group is",
+      "key": "show long text on several lines within the same cell"
     }
   ]
 }

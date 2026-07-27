@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 220,
+  "count": 270,
   "questions": [
     {
       "test": 2,
@@ -1102,6 +1102,256 @@
       "test": 27,
       "stem": "the total number of union territories in india is:",
       "key": "8"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following is the deepest oceanic trench in the world,",
+      "key": "Mariana Trench"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about the motions of the earth: (i) the",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 33,
+      "stem": "the strait of hormuz connects the persian gulf with which of the",
+      "key": "Gulf of Oman"
+    },
+    {
+      "test": 33,
+      "stem": "match the following local winds with their correct description: column i: (a)",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 33,
+      "stem": "the ozone layer, which absorbs the harmful ultraviolet radiation of the sun,",
+      "key": "Stratosphere"
+    },
+    {
+      "test": 33,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following are cold ocean currents? (i) labrador current (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 33,
+      "stem": "which international boundary line separates north korea from south korea?",
+      "key": "38th Parallel"
+    },
+    {
+      "test": 33,
+      "stem": "the imaginary line drawn roughly along the 180 degree meridian, on crossing",
+      "key": "International Date Line"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about earthquakes and seismic waves: (i) primary (p)",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 33,
+      "stem": "the mohorovicic discontinuity marks the zone of separation between which two layers",
+      "key": "The crust and the upper mantle"
+    },
+    {
+      "test": 33,
+      "stem": "the following climatic data were recorded at a station: mean temperature of",
+      "key": "Tropical rainforest climate (Af)"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following is the largest lake in the world in",
+      "key": "Caspian Sea"
+    },
+    {
+      "test": 33,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 33,
+      "stem": "match the following temperate grasslands with the regions in which they lie:",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following canals connects the mediterranean sea with the red",
+      "key": "Suez Canal"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about latitudes and longitudes: (i) all parallels of",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 33,
+      "stem": "basalt, which forms the extensive lava plateaus of the world, is an",
+      "key": "Extrusive igneous rock"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following are landforms produced by glacial erosion? (i) cirque",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 33,
+      "stem": "town p is situated at 60 degrees east longitude and town q",
+      "key": "7:00 AM"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following is the largest hot desert in the world?",
+      "key": "Sahara Desert"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about volcanoes: (i) a volcano that is quiet",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 33,
+      "stem": "match the following rivers of the world with the cities situated on",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following is a warm ocean current of the pacific",
+      "key": "Kuroshio Current"
+    },
+    {
+      "test": 33,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following straits separates the continent of asia from north",
+      "key": "Bering Strait"
+    },
+    {
+      "test": 33,
+      "stem": "the table below gives the mean monthly temperature and rainfall of a",
+      "key": "Mediterranean climate type"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following are classified as fold mountains? (i) alps (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 33,
+      "stem": "the great barrier reef, the largest coral reef system in the world,",
+      "key": "Australia"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about tides: (i) spring tides occur when the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 33,
+      "stem": "el nino is associated with which of the following conditions?",
+      "key": "Abnormal warming of surface water off the Peruvian coast"
+    },
+    {
+      "test": 33,
+      "stem": "match the following continents with their highest peaks: column i: (a) africa",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 33,
+      "stem": "the winds known as the 'roaring forties' are:",
+      "key": "Westerly winds of the southern hemisphere near 40 to 50 degrees south"
+    },
+    {
+      "test": 33,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 33,
+      "stem": "the strait of bab-el-mandeb connects the red sea with which of the",
+      "key": "Gulf of Aden"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about continental drift and plate tectonics: (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following are landforms produced by the erosional work of",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 33,
+      "stem": "the danube, one of the major rivers of europe, finally drains into",
+      "key": "Black Sea"
+    },
+    {
+      "test": 33,
+      "stem": "on a weather map, the line joining all places having equal atmospheric",
+      "key": "isobar"
+    },
+    {
+      "test": 33,
+      "stem": "the temperature recorded at a coastal station at sea level is 30",
+      "key": "14.4 degrees Celsius"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following pressure belts is characterised by calm air and",
+      "key": "Equatorial low pressure belt"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about coral reefs: (i) reef-building corals flourish best",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 33,
+      "stem": "match the following straits with the areas they separate: column i: (a)",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following is a hot and dry local wind that",
+      "key": "Foehn"
+    },
+    {
+      "test": 33,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following water bodies records the highest salinity in the",
+      "key": "Dead Sea"
+    },
+    {
+      "test": 33,
+      "stem": "study the following data relating to four countries: country - population (in",
+      "key": "Country P"
+    },
+    {
+      "test": 33,
+      "stem": "which of the following are correctly matched boundary lines and the countries",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 33,
+      "stem": "tropical cyclones of the china sea and the western pacific ocean are",
+      "key": "Typhoons"
+    },
+    {
+      "test": 33,
+      "stem": "consider the following statements about the solstices and the equinoxes: (i) on",
+      "key": "(i), (ii) and (iii) only"
     }
   ]
 }

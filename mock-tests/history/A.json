@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 170,
+  "count": 210,
   "questions": [
     {
       "test": 1,
@@ -852,6 +852,206 @@
       "test": 26,
       "stem": "match the following with answers: column i: (a) speed=60, time=2h. distance= (b)",
       "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 32,
+      "stem": "using only the letters available in the word 'transportation' (no letter may",
+      "key": "STRAINER"
+    },
+    {
+      "test": 32,
+      "stem": "consider the following statements based on the operator code given below: '+'",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 32,
+      "stem": "if '×' means '+', '+' means '÷', '−' means '×' and '÷'",
+      "key": "17"
+    },
+    {
+      "test": 32,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 32,
+      "stem": "in a certain notation: 'a $ b' means 'a is the brother",
+      "key": "M $ K # N"
+    },
+    {
+      "test": 32,
+      "stem": "each group in column i is a jumbled set of letters that",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 32,
+      "stem": "using only the letters of the word 'magnetism' (and no letter more",
+      "key": "MAGNETS"
+    },
+    {
+      "test": 32,
+      "stem": "which of the following equations become correct when the signs '+' and",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 32,
+      "stem": "if '&' means 'plus', '@' means 'minus', '#' means 'multiplied by' and",
+      "key": "35"
+    },
+    {
+      "test": 32,
+      "stem": "which set of arithmetic signs, placed in the three blanks in the",
+      "key": "÷, × and −"
+    },
+    {
+      "test": 32,
+      "stem": "consider the following statements about words that can be formed from the",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 32,
+      "stem": "in the following code, the symbols have the meanings shown: '@' means",
+      "key": "B $ D"
+    },
+    {
+      "test": 32,
+      "stem": "if 'a © b' is defined as (a × b) − (a",
+      "key": "15"
+    },
+    {
+      "test": 32,
+      "stem": "which meaningful english word can be formed by rearranging the first five",
+      "key": "CHAIR"
+    },
+    {
+      "test": 32,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 32,
+      "stem": "which two signs should be interchanged with each other to make the",
+      "key": "÷ and −"
+    },
+    {
+      "test": 32,
+      "stem": "in the following code, '@' means 'multiplied by', '#' means 'plus', '$'",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 32,
+      "stem": "in a certain symbol code: '$' means 'is greater than', '#' means",
+      "key": "12 % 12 & 15"
+    },
+    {
+      "test": 32,
+      "stem": "a verification form records household relationships using the following notation: x +",
+      "key": "P is the mother of S"
+    },
+    {
+      "test": 32,
+      "stem": "consider the following statements based on the symbol code given below: '@'",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 32,
+      "stem": "six of the seven letters of the word 'strange' are to be",
+      "key": "GARDEN"
+    },
+    {
+      "test": 32,
+      "stem": "which of the following words are formable using only the letters of",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 32,
+      "stem": "which set of operators, substituted for the three question marks in the",
+      "key": "+, × and ÷"
+    },
+    {
+      "test": 32,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 32,
+      "stem": "if 'a * b' means (a² + b) and 'a # b'",
+      "key": "17"
+    },
+    {
+      "test": 32,
+      "stem": "in the following code, '@' means 'is equal to', '#' means 'is",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 32,
+      "stem": "consider the following statements about the equation given below: 12 ÷ 4",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 32,
+      "stem": "how many meaningful english words can be formed by using all four",
+      "key": "Four words"
+    },
+    {
+      "test": 32,
+      "stem": "the meaningful english word formed by rearranging the 1st, 2nd, 3rd, 6th",
+      "key": "BRAIN"
+    },
+    {
+      "test": 32,
+      "stem": "if the signs '+' and '÷' are interchanged with each other, which",
+      "key": "18 + 3 ÷ 4 = 10"
+    },
+    {
+      "test": 32,
+      "stem": "which of the following conclusions are definitely true for the coded statement",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 32,
+      "stem": "in a certain notation: 'a + b' means 'a is the son",
+      "key": "S is the father of P"
+    },
+    {
+      "test": 32,
+      "stem": "a worksheet used in a training class defines the operators as follows:",
+      "key": "Candidate R"
+    },
+    {
+      "test": 32,
+      "stem": "consider the following statements about words that can be formed from the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 32,
+      "stem": "four groups of five letters each are given below. three of them",
+      "key": "GLIMN"
+    },
+    {
+      "test": 32,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 32,
+      "stem": "if 'x $ y' means (3x + 2y) and 'x @ y'",
+      "key": "12"
+    },
+    {
+      "test": 32,
+      "stem": "match each set of letter positions in column i with the meaningful",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 32,
+      "stem": "which of the following equations are correct when the signs '×' and",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 32,
+      "stem": "consider the following statements about inserting arithmetic signs into the blanks of",
+      "key": "(ii), (iii) and (iv) only"
     }
   ]
 }

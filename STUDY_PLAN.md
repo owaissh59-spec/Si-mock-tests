@@ -97,9 +97,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 31 | Morning | F — Computer Proficiency | MS Excel | 30 | foundation | Topic-wise | ⬜ |
-| 32 | Afternoon | A — General Intelligence & Reasoning | Word Building, Numerical & Symbolic Operations | 40 | foundation | Topic-wise | ⬜ |
-| 33 | Late | B — General Awareness | Physical & World Geography | 50 | foundation | Topic-wise | ⬜ |
+| 31 | Morning | F — Computer Proficiency | MS Excel | 30 | foundation | Topic-wise | ✅ |
+| 32 | Afternoon | A — General Intelligence & Reasoning | Word Building, Numerical & Symbolic Operations | 40 | foundation | Topic-wise | ✅ |
+| 33 | Late | B — General Awareness | Physical & World Geography | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 12
 

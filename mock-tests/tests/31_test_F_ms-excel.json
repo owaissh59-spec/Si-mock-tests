@@ -1,0 +1,397 @@
+{
+  "subject": "F",
+  "topic": "MS Excel",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "In the MS Excel window, which element displays the actual formula stored in the active cell instead of the calculated result that appears in the cell?",
+      "options": [
+        "Name Box",
+        "Formula Bar",
+        "Sheet Tab Bar",
+        "Status Bar"
+      ],
+      "correctAnswer": "Formula Bar",
+      "explanation": "The Formula Bar, located above the column headings, always shows the underlying entry of the active cell, so if a cell displays 250 but holds =A1*5, the Formula Bar shows =A1*5. 'Name Box' is wrong because that box lies to the left of the Formula Bar and shows only the address of the active cell (or a defined name), never its contents. 'Sheet Tab Bar' is wrong because it sits at the bottom of the window and only lists the worksheet tabs of the workbook for navigation. 'Status Bar' is wrong because it merely reports mode indicators such as Ready/Enter and quick statistics like Average, Count and Sum of a selection, not the cell's formula."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about cell references in MS Excel:\n\n(i) A relative reference such as A1 adjusts automatically when the formula is copied to another cell.\n(ii) An absolute reference is written as $A$1 and does not change when the formula is copied.\n(iii) A mixed reference written as A$1 locks the column and allows the row to change.\n(iv) The F4 key can be used while editing a formula to cycle a reference through relative, absolute and mixed forms.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statements (i), (ii) and (iv) are accurate: relative references shift with the copy direction, $A$1 freezes both column and row, and F4 toggles a selected reference between A1, $A$1, A$1 and $A1. Statement (iii) is wrong because in A$1 the dollar sign precedes the row number, so it is the ROW that is locked and the COLUMN that changes — the description is reversed. Therefore '(i), (ii) and (iii) only' is wrong as it includes the reversed statement (iii); '(ii), (iii) and (iv) only' is wrong because it both retains the false (iii) and drops the correct (i); '(i), (iii) and (iv) only' is wrong because it keeps the false (iii) and omits the correct (ii) about $A$1."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "Which error value does MS Excel display in a cell when a formula tries to divide a number by zero or by a blank cell?",
+      "options": [
+        "#DIV/0!",
+        "#VALUE!",
+        "#NAME?",
+        "#NUM!"
+      ],
+      "correctAnswer": "#DIV/0!",
+      "explanation": "#DIV/0! is displayed specifically when the divisor of a formula evaluates to zero or to an empty cell, as in =B1/B2 where B2 is blank. '#VALUE!' is wrong because it appears when an argument is of the wrong data type, for example adding a text entry to a number. '#NAME?' is wrong because it appears when Excel cannot recognise text in the formula, typically a misspelt function name such as =SUMM(A1:A5). '#NUM!' is wrong because it signals an invalid numeric argument or a result too large to represent, such as =SQRT(-9)."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Match the MS Excel functions in Column I with the operation they perform in Column II:\n\nColumn I:\n(a) COUNTA\n(b) COUNTIF\n(c) SUMIF\n(d) COUNTBLANK\n\nColumn II:\n(i) Adds only those cells in a range that satisfy a given condition\n(ii) Counts all non-empty cells in a range, including text entries\n(iii) Counts the empty cells within a specified range\n(iv) Counts the cells in a range that meet one stated condition\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "COUNTA counts every non-empty cell whatever its data type (ii); COUNTIF counts cells meeting one condition (iv); SUMIF adds the values that satisfy a condition (i); COUNTBLANK counts empty cells (iii). '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' is wrong because it makes COUNTIF add values and SUMIF count cells, exactly interchanging their roles. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is wrong because it treats COUNTA as a counter of blank cells and COUNTBLANK as a counter of filled cells, again a swap. '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' is wrong on every pair, most obviously in making COUNTBLANK a summing function, which it never is."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "How many columns does a single worksheet contain in MS Excel 2007 and later versions?",
+      "options": [
+        "1,048,576",
+        "65,536",
+        "32,768",
+        "16,384"
+      ],
+      "correctAnswer": "16,384",
+      "explanation": "A worksheet in the .xlsx format has 16,384 columns, the last being column XFD. '1,048,576' is wrong because that figure is the number of ROWS in the same worksheet, not the columns. '65,536' is wrong because 65,536 was the row limit of the older Excel 97-2003 (.xls) worksheet. '32,768' is wrong because no Excel version has ever used that limit; it is merely a power of 2 placed to look plausible beside the genuine limits."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When the formula =$B$2*C3 is copied from cell D3 to cell E4, it continues to multiply the value of cell B2 by a value taken from a different cell.\nReason (R): Placing a dollar sign before both the column letter and the row number makes a reference absolute, so it is not adjusted when the formula is copied.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The Assertion is true: copying =$B$2*C3 from D3 to E4 yields =$B$2*D4, so B2 is still used while the relative part moves. The Reason is also true and is precisely the cause — the $ signs on both parts of $B$2 make it absolute while C3 stays relative. Hence the option saying (R) is NOT the explanation is wrong, because the absoluteness of $B$2 is the direct and only reason the reference is preserved. '(A) is correct but (R) is not correct' is wrong because the stated rule about dollar signs is a standard, accurate Excel rule. '(A) is not correct but (R) is correct' is wrong because the copied formula demonstrably retains $B$2 and shifts C3 to D4, so the Assertion holds."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "Which of the following are text functions in MS Excel?\n\n(i) LEFT\n(ii) LEN\n(iii) ROUND\n(iv) MID\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "LEFT extracts characters from the start of a string, LEN returns the number of characters in a string and MID extracts characters from a stated position, so all three belong to the Text category. ROUND is not a text function at all — it is a Math & Trigonometry function that rounds a number to a given number of decimal places. Consequently '(i), (ii) and (iii) only' is wrong because it admits ROUND while dropping MID; '(ii), (iii) and (iv) only' is wrong because it admits ROUND while dropping LEFT; '(i), (iii) and (iv) only' is wrong because it admits ROUND while dropping LEN."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "In MS Excel, pressing Ctrl + ; (Ctrl and semicolon) in the active cell:",
+      "options": [
+        "Inserts the current system time as a static value",
+        "Inserts the =NOW() function into the active cell",
+        "Inserts the current system date as a static value",
+        "Copies the contents of the cell immediately above"
+      ],
+      "correctAnswer": "Inserts the current system date as a static value",
+      "explanation": "Ctrl + ; stamps today's date into the cell as a fixed (static) value that will not change when the workbook is reopened. 'Inserts the current system time as a static value' is wrong because time stamping is done by Ctrl + Shift + ; (Ctrl + Shift + colon). 'Inserts the =NOW() function into the active cell' is wrong because NOW() must be typed as a formula and, being volatile, it updates every recalculation, unlike the static stamp. 'Copies the contents of the cell immediately above' is wrong because that is the action of Ctrl + D (Fill Down)."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "A worksheet contains the following entries:\n\nA1 = 12\nA2 = 8\nA3 = (left blank)\nA4 = 20\nA5 = Absent\n\nWhat value will the formula =COUNT(A1:A5) return?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "correctAnswer": "3",
+      "explanation": "COUNT tallies only cells containing numeric values, so it counts 12, 8 and 20 and returns 3. '4' is wrong because 4 is what =COUNTA(A1:A5) would return, since COUNTA also counts the text entry 'Absent'. '5' is wrong because 5 is simply the number of cells in the range A1:A5, which COUNT would report only if every cell held a number. '2' is wrong because no cell of the range is excluded on grounds of value — the blank A3 and the text A5 are the only cells skipped, leaving three numbers, not two."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Which MS Excel feature keeps selected rows or columns locked and visible on screen while the remaining part of the worksheet is scrolled?",
+      "options": [
+        "Split Window",
+        "Protect Sheet",
+        "Group Rows",
+        "Freeze Panes"
+      ],
+      "correctAnswer": "Freeze Panes",
+      "explanation": "Freeze Panes (View tab) pins the rows above and columns left of the selection so headings stay in view during scrolling. 'Split Window' is wrong because Split creates two or four independently scrollable panes of the same sheet — each pane still scrolls, so nothing is locked. 'Protect Sheet' is wrong because it prevents editing of cells and has no effect on scrolling or display. 'Group Rows' is wrong because grouping only creates an outline that can collapse or expand rows, which hides data instead of keeping headings visible."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "Consider the following statements about the VLOOKUP function in MS Excel:\n\n(i) VLOOKUP searches for the lookup value in the first column of the table array supplied to it.\n(ii) Supplying TRUE as the fourth argument requests an exact match of the lookup value.\n(iii) VLOOKUP returns its result from a column lying to the right of the lookup column.\n(iv) If an exact match is requested and the lookup value is absent, VLOOKUP returns #N/A.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Statements (i), (iii) and (iv) describe VLOOKUP correctly: the lookup value must occupy the first column of the table array, the returned value is taken from a column to its right, and a failed exact match produces #N/A. Statement (ii) is wrong because TRUE (or an omitted fourth argument) asks for an APPROXIMATE match on sorted data; it is FALSE or 0 that demands an exact match. Hence '(i), (ii) and (iii) only' is wrong for accepting the TRUE claim and dropping the #N/A behaviour; '(ii), (iii) and (iv) only' is wrong for accepting it and dropping the definition in (i); '(i), (ii) and (iv) only' is wrong for accepting it and discarding the correct statement (iii) about looking rightwards."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "In the MS Excel formula =2+3*4^2/8, which operation is performed first according to the order of precedence?",
+      "options": [
+        "Addition (+)",
+        "Multiplication (*)",
+        "Division (/)",
+        "Exponentiation (^)"
+      ],
+      "correctAnswer": "Exponentiation (^)",
+      "explanation": "Excel evaluates in the order: parentheses, percentage, exponentiation, then multiplication and division (left to right), then addition and subtraction; so 4^2 = 16 is computed first, giving 2+3*16/8 = 2+6 = 8. 'Addition (+)' is wrong because addition has the lowest precedence here and is performed last. 'Multiplication (*)' is wrong because although 3* appears earlier in the written formula, multiplication ranks below exponentiation. 'Division (/)' is wrong for the same reason — it shares rank with multiplication and is evaluated only after 4^2 has been resolved."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "A worksheet contains B1 = 15, B2 = 5, B3 = 10 and B4 = 0.\n\nWhat value will the formula =MAX(B1:B4)+MIN(B1:B4)+AVERAGE(B1:B3) return?",
+      "options": [
+        "20",
+        "22.5",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25",
+      "explanation": "MAX(B1:B4) = 15, MIN(B1:B4) = 0 (the zero in B4 is a genuine number, not a blank), and AVERAGE(B1:B3) = (15+5+10)/3 = 10, so the total is 15+0+10 = 25. '20' is wrong because it comes from treating 5 as the minimum and then omitting the AVERAGE term (15+5). '22.5' is wrong because it results from averaging B1:B4 instead of B1:B3, giving 30/4 = 7.5 and 15+0+7.5 = 22.5. '30' is wrong because 30 is merely SUM(B1:B4), obtained by adding all four values and ignoring the three functions actually written in the formula."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "Match the MS Excel error values in Column I with their usual cause in Column II:\n\nColumn I:\n(a) #NAME?\n(b) #REF!\n(c) #VALUE!\n(d) #NUM!\n\nColumn II:\n(i) The formula refers to a cell that has been deleted\n(ii) A function name in the formula has been misspelt\n(iii) The result is a number too large for Excel to represent\n(iv) Text is supplied where the formula requires a number\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "#NAME? arises from unrecognised text such as a misspelt function (ii); #REF! arises when a referenced cell no longer exists (i); #VALUE! arises from a wrong data type such as text in arithmetic (iv); #NUM! arises from an invalid or oversized numeric result (iii). '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' is wrong because it blames #REF! on a data-type problem and #VALUE! on a deleted cell, interchanging the two. '(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)' is wrong because a deleted reference produces #REF!, not #NAME?. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' is wrong because it links #NAME? with an oversized number and #NUM! with a spelling mistake, exchanging those two causes."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "Cell A1 contains 5 and cell A2 contains 10. Both cells are selected together and the fill handle is dragged down to cell A4. What will cells A3 and A4 contain?",
+      "options": [
+        "10 and 5, repeating the two selected values",
+        "15 and 20, continuing the linear number series",
+        "5 and 10, repeating the two selected values",
+        "10 and 20, doubling the value of each cell"
+      ],
+      "correctAnswer": "15 and 20, continuing the linear number series",
+      "explanation": "When two or more numeric cells are selected, AutoFill detects the step between them (here +5) and extends the linear series, so A3 = 15 and A4 = 20. '10 and 5, repeating the two selected values' is wrong because AutoFill never reverses the order of the pattern it detects. '5 and 10, repeating the two selected values' is wrong because simple copying happens only if Ctrl is held or 'Copy Cells' is chosen from the AutoFill Options, not by default with a detected step. '10 and 20, doubling the value of each cell' is wrong because Excel's fill handle builds an arithmetic (additive) series by default; a geometric growth series has to be requested through Series > Growth."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): For the same range, =COUNTA(A1:A10) can return a larger value than =COUNT(A1:A10).\nReason (R): COUNTA counts only the cells that contain numeric values, whereas COUNT counts every cell that is not empty.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "The Assertion is true: if a range holds three numbers and two text entries, COUNTA returns 5 while COUNT returns 3. The Reason is false because the two definitions have been swapped — COUNT is the function restricted to numeric values, and COUNTA is the one that counts all non-empty cells including text, logical values and error values. Therefore both options beginning 'Both (A) and (R) are correct' must be rejected, since (R) states the definitions the wrong way round. '(A) is not correct but (R) is correct' is doubly wrong: it denies a demonstrable result and endorses the reversed definitions."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) Conditional formatting can change the font colour and fill colour of a cell according to the value it holds.\n(ii) Data bars and colour scales are available only inside a chart and not as formatting rules.\n(iii) Data Validation can restrict entries in a cell to whole numbers within a specified range.\n(iv) The Clear Rules command removes conditional formatting from the selected cells.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Statements (i), (iii) and (iv) are correct: rules can alter font and fill, Data Validation offers a 'Whole number' criterion with minimum and maximum limits, and Clear Rules deletes the applied formats. Statement (ii) is wrong because Data Bars, Colour Scales and Icon Sets are themselves conditional formatting styles applied directly to worksheet cells from the Home tab, not chart-only features. So '(i), (ii) and (iii) only' is wrong for admitting (ii) and dropping Clear Rules; '(ii), (iii) and (iv) only' is wrong for admitting (ii) and dropping the basic font/fill statement (i); '(i), (ii) and (iv) only' is wrong for admitting (ii) and discarding the accurate Data Validation statement (iii)."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Which MS Excel feature is used to summarise, group and cross-tabulate a large list of worksheet data interactively by dragging fields into rows, columns and values?",
+      "options": [
+        "Goal Seek",
+        "Data Validation",
+        "Advanced Filter",
+        "PivotTable"
+      ],
+      "correctAnswer": "PivotTable",
+      "explanation": "A PivotTable rearranges a data list into a summary report whose layout can be changed at any time by moving fields between the Rows, Columns, Values and Filters areas. 'Goal Seek' is wrong because it is a what-if tool that adjusts one input cell until a formula reaches a target value; it summarises nothing. 'Data Validation' is wrong because it only controls what may be typed into cells and produces no summary. 'Advanced Filter' is wrong because it extracts or hides records that match criteria but keeps the same row-wise layout and performs no grouping or cross-tabulation."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "Which of the following are chart types available in MS Excel?\n\n(i) Scatter (XY)\n(ii) Doughnut\n(iii) Waterfall\n(iv) Isometric\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Scatter (XY) plots pairs of numeric values, Doughnut shows parts of a whole in concentric rings, and Waterfall shows running cumulative effects of positive and negative values — all three are genuine Excel chart types. 'Isometric' is not an Excel chart type; it is a drawing projection term borrowed to look plausible. Hence '(i), (ii) and (iv) only' is wrong for admitting Isometric and dropping Waterfall; '(ii), (iii) and (iv) only' is wrong for admitting Isometric and dropping Scatter; '(i), (iii) and (iv) only' is wrong for admitting Isometric and dropping Doughnut."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "In MS Excel 2016, a workbook that contains macros must be saved with the file extension __________ instead of the ordinary workbook extension.",
+      "options": [
+        ".xltx",
+        ".xlsm",
+        ".xlsb",
+        ".xlsx"
+      ],
+      "correctAnswer": ".xlsm",
+      "explanation": "The .xlsm extension denotes a macro-enabled workbook, the only standard XML-based format in which VBA macro code is preserved. '.xltx' is wrong because it is an Excel template used to create new workbooks and it too cannot store macros (the macro-enabled template is .xltm). '.xlsb' is wrong because, although it can hold macros, it is the binary workbook format offered for large files, not the standard format prescribed for macro storage. '.xlsx' is wrong because it is precisely the ordinary workbook format that strips VBA code when the file is saved."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "Pressing Ctrl + End in an MS Excel worksheet moves the cell pointer to:",
+      "options": [
+        "the last used cell of the current worksheet",
+        "the last filled cell in the current row only",
+        "the very last cell of column XFD in row 1048576",
+        "cell A1 of the currently active worksheet"
+      ],
+      "correctAnswer": "the last used cell of the current worksheet",
+      "explanation": "Ctrl + End jumps to the intersection of the last used row and the last used column, that is, the bottom-right corner of the worksheet's used range. 'the last filled cell in the current row only' is wrong because that is achieved by Ctrl + Right Arrow, which stays within the active row. 'the very last cell of column XFD in row 1048576' is wrong because Excel goes to the used range, not to the absolute physical limit of the sheet. 'cell A1 of the currently active worksheet' is wrong because returning to A1 is the action of Ctrl + Home, the opposite shortcut."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "Consider the following statements about printing in MS Excel:\n\n(i) A Print Area, once defined for a worksheet, can never be removed or redefined afterwards.\n(ii) Print Titles can repeat selected rows or columns on every printed page of a long list.\n(iii) Worksheet gridlines are not printed unless the Gridlines Print check box is selected.\n(iv) Page orientation can be set to Portrait or Landscape from the Page Layout tab.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Statements (ii), (iii) and (iv) are correct: Print Titles repeats chosen heading rows or columns on each page, gridlines print only when the Print check box under Sheet Options is ticked, and orientation is chosen on the Page Layout tab. Statement (i) is wrong because Page Layout > Print Area > Clear Print Area removes the setting at any time, and a new selection can be set instead. Accordingly '(i), (ii) and (iii) only' is wrong for accepting the permanence claim while dropping orientation; '(i), (iii) and (iv) only' is wrong for accepting it while dropping Print Titles; '(i), (ii) and (iv) only' is wrong for accepting it while dropping the accurate gridlines statement (iii)."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "The marks of five students are recorded in a worksheet as follows:\n\nA1 = 45\nA2 = 68\nA3 = 32\nA4 = 55\nA5 = 71\n\nThe formula =COUNTIF(A1:A5,\">50\") is entered in cell B1. What result will cell B1 display?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3",
+      "explanation": "COUNTIF counts the cells satisfying the criterion \">50\", and the qualifying marks are 68, 55 and 71, so the result is 3. '2' is wrong because it counts only the marks above 60 (68 and 71), applying a stricter condition than the one written. '4' is wrong because it counts the marks above 40 (45, 68, 55 and 71), wrongly including 45 which is below 50. '5' is wrong because 5 is the total number of numeric entries, which is what =COUNT(A1:A5) returns when the condition is ignored altogether."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "Which of the following formulas returns the value 4.57 in MS Excel?",
+      "options": [
+        "=ROUNDUP(4.567,1)",
+        "=TRUNC(4.567,2)",
+        "=ROUND(4.567,2)",
+        "=ROUNDDOWN(4.567,2)"
+      ],
+      "correctAnswer": "=ROUND(4.567,2)",
+      "explanation": "=ROUND(4.567,2) rounds to two decimal places and, because the third decimal is 7 (5 or more), the second decimal rises from 6 to 7, giving 4.57. '=ROUNDUP(4.567,1)' is wrong because it rounds away from zero to one decimal place and returns 4.6. '=TRUNC(4.567,2)' is wrong because truncation simply discards the extra digits without rounding and returns 4.56. '=ROUNDDOWN(4.567,2)' is wrong because it always rounds towards zero and therefore also returns 4.56."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Match the MS Excel shortcut keys in Column I with the action they perform in Column II:\n\nColumn I:\n(a) Alt + Enter\n(b) F11\n(c) Ctrl + 1\n(d) Ctrl + R\n\nColumn II:\n(i) Opens the Format Cells dialog box\n(ii) Fills the selected cells to the right from the leftmost cell\n(iii) Starts a new line of text inside the same cell\n(iv) Creates a chart of the selected data on a separate chart sheet\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Alt + Enter inserts a line break within a cell (iii); F11 builds a chart on a new chart sheet (iv); Ctrl + 1 opens Format Cells (i); Ctrl + R fills rightwards (ii). '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' is wrong because it makes F11 open Format Cells and Ctrl + 1 create a chart, interchanging those two. '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' is wrong because Alt + Enter does not open a dialog box and Ctrl + 1 does not insert a line break. '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' is wrong because it makes Alt + Enter fill cells to the right and Ctrl + R insert a line break, which reverses their real effects."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A row of hash signs such as ###### may appear in a cell that holds a perfectly valid date or number.\nReason (R): When a column is too narrow to display the formatted value in full, Excel shows hash signs in place of the value.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and causally linked: ###### is a display symptom, not a calculation error, and it disappears the moment the column is widened or the number format is shortened, which is exactly what the Reason describes. The option saying (R) is NOT the explanation is wrong because insufficient column width is the sole standard cause of that display. '(A) is correct but (R) is not correct' is wrong because the width rule is accurate Excel behaviour. '(A) is not correct but (R) is correct' is wrong because the value behind ###### really is intact — the Formula Bar still shows the genuine date or number."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "A workbook contains the worksheets Jan, Feb and Mar in that order. Which formula correctly adds cell C5 of all three worksheets using a 3-D reference?",
+      "options": [
+        "=SUM(Jan!Mar!C5)",
+        "=SUM(Jan-Mar!C5)",
+        "=SUM(Jan:Mar!C5)",
+        "=SUM('Jan:Mar'.C5)"
+      ],
+      "correctAnswer": "=SUM(Jan:Mar!C5)",
+      "explanation": "A 3-D reference names the first and last sheet separated by a colon, then an exclamation mark before the cell address, so =SUM(Jan:Mar!C5) totals C5 across Jan, Feb and Mar. '=SUM(Jan!Mar!C5)' is wrong because the exclamation mark separates a sheet name from a cell address and cannot join two sheet names. '=SUM(Jan-Mar!C5)' is wrong because the hyphen is the subtraction operator in Excel and is never used to state a range of sheets. '=SUM('Jan:Mar'.C5)' is wrong because Excel separates a sheet reference from the cell with '!', not with a full stop, which belongs to other spreadsheet dialects."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "Which of the following are valid worksheet functions in MS Excel?\n\n(i) AVERAGEIF\n(ii) MEDIANIF\n(iii) COUNTIFS\n(iv) SUMPRODUCT\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "AVERAGEIF averages the values meeting one condition, COUNTIFS counts cells meeting several conditions, and SUMPRODUCT multiplies corresponding array elements and adds the products — all three exist in Excel. MEDIANIF does not exist; a conditional median must be built with MEDIAN combined with IF as an array formula. Therefore '(i), (ii) and (iii) only' is wrong for accepting MEDIANIF and dropping SUMPRODUCT; '(ii), (iii) and (iv) only' is wrong for accepting MEDIANIF and dropping AVERAGEIF; '(i), (ii) and (iv) only' is wrong for accepting MEDIANIF and dropping COUNTIFS."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "Consider the following statements about sorting and filtering in MS Excel:\n\n(i) AutoFilter hides the rows that do not satisfy the criteria instead of deleting them.\n(ii) A custom sort can sort data on more than one level, for example by Department and then by Salary.\n(iii) Sorting a list rearranges only the chosen column and leaves the remaining fields of each record where they were.\n(iv) Data can be sorted in ascending or descending order, and also by cell colour.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statements (i), (ii) and (iv) are correct: filtered-out rows are hidden and return when the filter is cleared, the Sort dialog allows several levels through 'Add Level', and Sort On offers Cell Colour and Font Colour besides values. Statement (iii) is wrong because when a proper list is sorted Excel moves each entire row together, keeping records intact; rearranging a single column alone would corrupt the data. So '(i), (ii) and (iii) only' is wrong for accepting the record-breaking claim and dropping sorting by colour; '(ii), (iii) and (iv) only' is wrong for accepting it and dropping the AutoFilter statement (i); '(i), (iii) and (iv) only' is wrong for accepting it and dropping multi-level sorting (ii)."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "In MS Excel, the Wrap Text command in the Alignment group is used to:",
+      "options": [
+        "combine several selected cells into one larger cell",
+        "reduce the font size until the text fits the column",
+        "move the extra text automatically into the next cell",
+        "show long text on several lines within the same cell"
+      ],
+      "correctAnswer": "show long text on several lines within the same cell",
+      "explanation": "Wrap Text keeps the entry in one cell but displays it on multiple lines, increasing the row height so that all the text is visible without widening the column. 'combine several selected cells into one larger cell' is wrong because that is the function of Merge & Centre. 'reduce the font size until the text fits the column' is wrong because that is the 'Shrink to fit' option of the Format Cells > Alignment tab. 'move the extra text automatically into the next cell' is wrong because Excel never transfers contents to a neighbouring cell; overflow text is only displayed across empty cells and is truncated as soon as the adjacent cell holds data."
+    }
+  ]
+}
