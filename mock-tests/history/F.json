@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 255,
+  "count": 295,
   "questions": [
     {
       "test": 6,
@@ -1277,6 +1277,206 @@
       "test": 42,
       "stem": "the __________ function in ms excel counts the number of cells in",
       "key": "COUNTIF"
+    },
+    {
+      "test": 44,
+      "stem": "the acronym 'http' in a web address stands for:",
+      "key": "Hyper Text Transfer Protocol"
+    },
+    {
+      "test": 44,
+      "stem": "consider the following statements about the internet: (i) the internet is a",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 44,
+      "stem": "in an email address 'user@example.com', 'example.com' is the:",
+      "key": "Domain name (mail server)"
+    },
+    {
+      "test": 44,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 44,
+      "stem": "match the following email-related terms with their functions: column i: (a) cc",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 44,
+      "stem": "a __________ is a small text file placed on a user's computer",
+      "key": "cookie"
+    },
+    {
+      "test": 44,
+      "stem": "which of the following is not a web browser?",
+      "key": "Windows Explorer"
+    },
+    {
+      "test": 44,
+      "stem": "which of the following are legitimate methods commonly used by banks for",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 44,
+      "stem": "the '.in' at the end of a web address like 'jkssb.nic.in' is",
+      "key": "top-level domain"
+    },
+    {
+      "test": 44,
+      "stem": "the 'https://' prefix in a url indicates that:",
+      "key": "The site is encrypted using SSL/TLS"
+    },
+    {
+      "test": 44,
+      "stem": "the protocol most commonly used to send outgoing email from a client",
+      "key": "SMTP"
+    },
+    {
+      "test": 44,
+      "stem": "consider the following statements about email: (i) the 'inbox' folder holds messages",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 44,
+      "stem": "the dns (domain name system) is used to:",
+      "key": "Translate domain names into IP addresses"
+    },
+    {
+      "test": 44,
+      "stem": "the 'padlock' icon shown in the browser address bar next to a",
+      "key": "The connection uses HTTPS with a valid SSL/TLS certificate"
+    },
+    {
+      "test": 44,
+      "stem": "the abbreviation 'ifsc' in indian banking stands for:",
+      "key": "Indian Financial System Code"
+    },
+    {
+      "test": 44,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 44,
+      "stem": "which of the following is a common electronic fund transfer service offered",
+      "key": "NEFT"
+    },
+    {
+      "test": 44,
+      "stem": "the primary purpose of a firewall in internet security is to:",
+      "key": "Monitor and filter incoming/outgoing network traffic based on rules"
+    },
+    {
+      "test": 44,
+      "stem": "the maximum size of a single email attachment on most major webmail",
+      "key": "25 MB"
+    },
+    {
+      "test": 44,
+      "stem": "the term '404 not found' returned by a web server indicates:",
+      "key": "The requested resource does not exist on the server"
+    },
+    {
+      "test": 44,
+      "stem": "which of the following are typical parts of a url like 'https://www.example.com/products/list.html'?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 44,
+      "stem": "the 'bcc' field in an email is used when:",
+      "key": "You want a copy sent to someone without other recipients knowing about them"
+    },
+    {
+      "test": 44,
+      "stem": "consider the following statements about internet security: (i) phishing is a fraudulent",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 44,
+      "stem": "the full form of 'url' is:",
+      "key": "Uniform Resource Locator"
+    },
+    {
+      "test": 44,
+      "stem": "match the following e-banking services with their descriptions: column i: (a) neft",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 44,
+      "stem": "the 'cvv' printed on the back of a debit / credit card",
+      "key": "Providing an additional verification during card-not-present online transactions"
+    },
+    {
+      "test": 44,
+      "stem": "the primary risk of clicking on suspicious links in emails is:",
+      "key": "Being redirected to phishing sites or downloading malware"
+    },
+    {
+      "test": 44,
+      "stem": "the '@' symbol in an email address separates the __________ from the",
+      "key": "username and domain name"
+    },
+    {
+      "test": 44,
+      "stem": "which of the following are typical warning signs of a phishing email?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 44,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 44,
+      "stem": "the abbreviation 'upi' in indian digital payments stands for:",
+      "key": "Unified Payments Interface"
+    },
+    {
+      "test": 44,
+      "stem": "which of the following are legitimate web browsers? (i) microsoft edge (ii)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 44,
+      "stem": "in a web address, the part 'www' before a domain name is",
+      "key": "subdomain"
+    },
+    {
+      "test": 44,
+      "stem": "the __________ is a technology that helps users create private, encrypted tunnels",
+      "key": "VPN"
+    },
+    {
+      "test": 44,
+      "stem": "the primary purpose of an 'mmid' in mobile banking is to:",
+      "key": "Identify a bank account for IMPS transfers using a 7-digit code"
+    },
+    {
+      "test": 44,
+      "stem": "the term 'cookies' in the context of a web browser refers to:",
+      "key": "Small text files stored on the user's computer by websites"
+    },
+    {
+      "test": 44,
+      "stem": "a 'search engine' is a web-based service that:",
+      "key": "Indexes web pages and returns relevant results for a user's query"
+    },
+    {
+      "test": 44,
+      "stem": "consider the following statements about e-banking: (i) internet banking allows users to",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 44,
+      "stem": "the service that lets a user host a website domain from their",
+      "key": "registration"
+    },
+    {
+      "test": 44,
+      "stem": "the primary role of the 'address bar' in a web browser is",
+      "key": "Display and accept the URL of the current or next web page"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 286,
+  "count": 316,
   "questions": [
     {
       "test": 5,
@@ -1432,6 +1432,156 @@
       "test": 42,
       "stem": "the angle subtended by a diameter at any point on the circumference",
       "key": "90°"
+    },
+    {
+      "test": 43,
+      "stem": "in a right-angled triangle, if sin θ = 3/5, what is the",
+      "key": "4/5"
+    },
+    {
+      "test": 43,
+      "stem": "the value of sin² 30° + cos² 60° is:",
+      "key": "1/2"
+    },
+    {
+      "test": 43,
+      "stem": "consider the following statements about trigonometric ratios in a right triangle: (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 43,
+      "stem": "the value of tan 45° × cot 45° is:",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 43,
+      "stem": "match the following standard trigonometric values: column i: (a) sin 0° (b)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 43,
+      "stem": "if sin θ + cos θ = √2, then the value of",
+      "key": "45°"
+    },
+    {
+      "test": 43,
+      "stem": "the value of sin 60° · cos 30° − cos 60° ·",
+      "key": "1/2"
+    },
+    {
+      "test": 43,
+      "stem": "for 0° < θ < 90°, the identity 1 + tan² θ",
+      "key": "sec² θ"
+    },
+    {
+      "test": 43,
+      "stem": "if cos θ = 12/13 in a right triangle, then sin θ",
+      "key": "5/13"
+    },
+    {
+      "test": 43,
+      "stem": "which of the following statements about complementary trigonometric ratios are correct? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 43,
+      "stem": "the value of sin 30° · cos 60° + cos 30° ·",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "the __________ of an angle in a right triangle is defined as",
+      "key": "cosine"
+    },
+    {
+      "test": 43,
+      "stem": "if sin(3θ) = cos(θ + 6°) where 3θ and θ + 6°",
+      "key": "21°"
+    },
+    {
+      "test": 43,
+      "stem": "the value of sin 15° · cos 75° + cos 15° ·",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 43,
+      "stem": "the value of (sec² θ − tan² θ) for any acute angle",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "the following table shows values of some standard trigonometric ratios. angle sin",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "if tan θ = 1, then the value of sin θ +",
+      "key": "√2"
+    },
+    {
+      "test": 43,
+      "stem": "which of the following pairs of trigonometric values are equal? (i) sin",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 43,
+      "stem": "the value of sin θ · cosec θ for any θ (where",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "in a right triangle, cot θ = 3/4. what is the value",
+      "key": "5/3"
+    },
+    {
+      "test": 43,
+      "stem": "match the following trigonometric ratios with their reciprocals: column i: (a) sin",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 43,
+      "stem": "the identity sin² θ + cos² θ = 1 is called the",
+      "key": "Pythagorean"
+    },
+    {
+      "test": 43,
+      "stem": "if sec θ = 5/3, then tan θ equals:",
+      "key": "4/3"
+    },
+    {
+      "test": 43,
+      "stem": "consider the following statements about trigonometric ratios of 0° and 90°: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 43,
+      "stem": "the value of (1 − sin² θ) · sec² θ is:",
+      "key": "1"
+    },
+    {
+      "test": 43,
+      "stem": "if cos a = sin(90° − a) for all a in [0°,",
+      "key": "sin 35°"
+    },
+    {
+      "test": 43,
+      "stem": "which of the following statements about the sine curve on [0°, 90°]",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 43,
+      "stem": "the value of cot 30° · tan 60° is:",
+      "key": "3"
     }
   ]
 }

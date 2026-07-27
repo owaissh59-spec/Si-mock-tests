@@ -1,0 +1,292 @@
+{
+  "subject": "E",
+  "topic": "Trigonometry: Ratios & Complementary Angles",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "In a right-angled triangle, if sin θ = 3/5, what is the value of cos θ?",
+      "options": ["3/4", "5/3", "4/5", "5/4"],
+      "correctAnswer": "4/5",
+      "explanation": "sin θ = 3/5 means opposite = 3 and hypotenuse = 5, so adjacent = √(25 − 9) = 4. Therefore cos θ = adjacent / hypotenuse = 4/5. '3/4' is tan θ (opposite / adjacent), not cos θ. '5/3' is cosec θ (hypotenuse / opposite), the reciprocal of sin θ. '5/4' is sec θ (hypotenuse / adjacent), the reciprocal of cos θ."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "The value of sin² 30° + cos² 60° is:",
+      "options": ["1/2", "1/4", "1", "0"],
+      "correctAnswer": "1/2",
+      "explanation": "sin 30° = 1/2 → sin² 30° = 1/4. cos 60° = 1/2 → cos² 60° = 1/4. Sum = 1/4 + 1/4 = 1/2. '1/4' comes from computing only one of the terms. '1' is the value of sin² θ + cos² θ (same angle), not this sum with different angles both equal to 30° and 60° respectively — but 30° ≠ 60°, so the identity doesn't apply directly. '0' has no basis in the numeric values."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Consider the following statements about trigonometric ratios in a right triangle:\n\n(i) sin θ = opposite / hypotenuse.\n(ii) cos θ = adjacent / hypotenuse.\n(iii) tan θ = adjacent / opposite.\n(iv) sec θ = 1 / cos θ.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — the standard definition of sine. (ii) is correct — the standard definition of cosine. (iv) is correct — sec θ is defined as the reciprocal of cos θ. (iii) is INCORRECT — tan θ = opposite / adjacent, NOT adjacent / opposite (which is cot θ). Any option that includes (iii) is therefore wrong."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "The value of tan 45° × cot 45° is:",
+      "options": ["0", "2", "√2", "1"],
+      "correctAnswer": "1",
+      "explanation": "tan 45° = 1 and cot 45° = 1, so tan 45° × cot 45° = 1 × 1 = 1. Also, tan θ × cot θ = 1 for any angle θ (they are reciprocals) — so this is 1 by identity. '0' would require one of them to be 0, which isn't true at 45°. '2' would need each to be √2, but they are both 1 at 45°. '√2' is the value of sec 45° or cosec 45°, not the product tan × cot."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): sin θ can never exceed 1 for a real angle θ.\nReason (R): In a right-angled triangle, the hypotenuse is always the longest side, so the ratio of any other side to the hypotenuse cannot exceed 1.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the range of sin θ is [−1, 1]. (R) is correct — the hypotenuse is by construction the longest side of a right triangle, so opposite/hypotenuse ≤ 1. (R) directly explains (A) because sin θ = opposite/hypotenuse. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Match the following standard trigonometric values:\n\nColumn I:\n(a) sin 0°\n(b) cos 90°\n(c) tan 45°\n(d) sin 90°\n\nColumn II:\n(i) 1\n(ii) 0\n(iii) 0\n(iv) 1\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "sin 0° = 0 → (a)-(ii). cos 90° = 0 → (b)-(iii). tan 45° = 1 → (c)-(i). sin 90° = 1 → (d)-(iv). Note (i) and (iv) both equal 1; (ii) and (iii) both equal 0, but the mapping preserves order. The distractor (a)-(i) puts sin 0° = 1 which is wrong. The distractor (b)-(iv) puts cos 90° = 1 which is wrong. The distractor (c)-(iv) makes tan 45° = 1 correct value but takes the wrong labelled slot."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "If sin θ + cos θ = √2, then the value of θ is:",
+      "options": ["30°", "60°", "90°", "45°"],
+      "correctAnswer": "45°",
+      "explanation": "sin θ + cos θ = √2·sin(θ + 45°). For this to equal √2, we need sin(θ + 45°) = 1, i.e., θ + 45° = 90°, giving θ = 45°. Check: sin 45° + cos 45° = √2/2 + √2/2 = √2 ✓. At 30°: 1/2 + √3/2 = (1+√3)/2 ≈ 1.37, not √2 ≈ 1.414. At 60°: √3/2 + 1/2 ≈ 1.37, again not √2. At 90°: 1 + 0 = 1, not √2."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "The value of sin 60° · cos 30° − cos 60° · sin 30° is:",
+      "options": ["0", "1/2", "√3/2", "1"],
+      "correctAnswer": "1/2",
+      "explanation": "This is the identity for sin(A − B) with A = 60°, B = 30°: sin 60° cos 30° − cos 60° sin 30° = sin(60° − 30°) = sin 30° = 1/2. '0' would result if the two angles were equal. '√3/2' equals sin 60° or cos 30°, not their difference-formula value. '1' equals sin 90° = sin(A + B) here, but the expression is A − B (a subtraction), so we get sin 30° = 1/2, not sin 90°."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "For 0° < θ < 90°, the identity 1 + tan² θ is equal to __________.",
+      "options": ["sin² θ", "cos² θ", "sec² θ", "cosec² θ"],
+      "correctAnswer": "sec² θ",
+      "explanation": "Dividing sin² θ + cos² θ = 1 by cos² θ gives tan² θ + 1 = sec² θ. So 1 + tan² θ = sec² θ. sin² θ and cos² θ are the two components of the fundamental identity, not this one. cosec² θ = 1 + cot² θ (obtained by dividing by sin² θ), which is a different Pythagorean identity."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "If cos θ = 12/13 in a right triangle, then sin θ is:",
+      "options": ["5/13", "12/13", "13/5", "13/12"],
+      "correctAnswer": "5/13",
+      "explanation": "sin² θ = 1 − cos² θ = 1 − 144/169 = 25/169, so sin θ = 5/13 (positive in the first quadrant). '12/13' is cos θ itself. '13/5' is cosec θ (reciprocal of sin θ). '13/12' is sec θ (reciprocal of cos θ)."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following statements about complementary trigonometric ratios are correct?\n\n(i) sin(90° − θ) = cos θ\n(ii) cos(90° − θ) = sin θ\n(iii) tan(90° − θ) = cot θ\n(iv) sec(90° − θ) = sec θ\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii), (iii) are the classic complementary-angle identities: sin ↔ cos, tan ↔ cot when the argument is replaced by its complement. (iv) is INCORRECT — sec(90° − θ) = cosec θ, NOT sec θ (secant and cosecant swap under the complementary shift, just like sin/cos do). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The value of sin 30° · cos 60° + cos 30° · sin 60° is:",
+      "options": ["0", "1/2", "√3/4", "1"],
+      "correctAnswer": "1",
+      "explanation": "Using sin(A + B) = sin A cos B + cos A sin B with A = 30°, B = 60°: sin 30° cos 60° + cos 30° sin 60° = sin(30° + 60°) = sin 90° = 1. Alternatively: (1/2)(1/2) + (√3/2)(√3/2) = 1/4 + 3/4 = 1. '0' would require the terms to cancel. '1/2' is sin 30° or cos 60°. '√3/4' is one component (sin 30° · cos 60° = 1/4; cos 30° · sin 60° = 3/4), not the whole sum."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The __________ of an angle in a right triangle is defined as the ratio of the length of the adjacent side to the length of the hypotenuse.",
+      "options": ["sine", "tangent", "cosine", "cosecant"],
+      "correctAnswer": "cosine",
+      "explanation": "cos θ = adjacent / hypotenuse — this is the standard definition. Sine is opposite / hypotenuse, not adjacent. Tangent is opposite / adjacent, not adjacent / hypotenuse. Cosecant is hypotenuse / opposite, the reciprocal of sine — again unrelated to the adjacent-over-hypotenuse ratio."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "If sin(3θ) = cos(θ + 6°) where 3θ and θ + 6° are both acute angles, find θ.",
+      "options": ["18°", "21°", "24°", "27°"],
+      "correctAnswer": "21°",
+      "explanation": "sin(3θ) = cos(θ + 6°) implies 3θ + (θ + 6°) = 90° (using sin x = cos(90° − x) for acute angles). So 4θ + 6° = 90°, giving 4θ = 84° and θ = 21°. '18°' would give 4(18) + 6 = 78°, not 90°. '24°' would give 4(24) + 6 = 102°, too large. '27°' would give 4(27) + 6 = 114°, still off."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "The value of sin 15° · cos 75° + cos 15° · sin 75° is:",
+      "options": ["0", "1/2", "√3/2", "1"],
+      "correctAnswer": "1",
+      "explanation": "Using sin(A + B) = sin A cos B + cos A sin B with A = 15°, B = 75°: sin 15° cos 75° + cos 15° sin 75° = sin(15° + 75°) = sin 90° = 1. '0' would need the two angles to be supplementary in some cancelling arrangement, which they aren't here. '1/2' equals sin 30°, not sin 90°. '√3/2' equals sin 60°, also not our sum."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): tan 90° is undefined.\nReason (R): The value of cos 90° is zero, and tan θ = sin θ / cos θ.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — tan 90° is undefined because it involves division by zero. (R) is correct — cos 90° = 0 and tan θ = sin θ / cos θ. (R) precisely explains (A): division by zero (which is what happens because cos 90° = 0) is exactly why tan 90° is undefined. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The value of (sec² θ − tan² θ) for any acute angle θ is:",
+      "options": ["0", "2", "tan² θ", "1"],
+      "correctAnswer": "1",
+      "explanation": "By the Pythagorean identity sec² θ − tan² θ = 1 for all valid θ. This is a direct consequence of 1 + tan² θ = sec² θ. '0' would require sec² θ = tan² θ, which never happens for real θ. '2' has no basis. 'tan² θ' is unrelated — the identity's value is a constant 1, not a function of θ."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "The following table shows values of some standard trigonometric ratios.\n\nAngle     sin        cos       tan\n0°        0          1         0\n30°       1/2        √3/2      1/√3\n45°       1/√2       1/√2      1\n60°       √3/2       1/2       √3\n\nBased on this data, the value of sin 30° + cos 60° is:",
+      "options": ["1/2", "√3/2", "1", "√3"],
+      "correctAnswer": "1",
+      "explanation": "From the table sin 30° = 1/2 and cos 60° = 1/2; sum = 1/2 + 1/2 = 1. '1/2' equals either individual term but not their sum. '√3/2' is sin 60° or cos 30°, unrelated to sin 30° + cos 60°. '√3' is tan 60°, again unrelated."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "If tan θ = 1, then the value of sin θ + cos θ is:",
+      "options": ["1", "2", "1/√2", "√2"],
+      "correctAnswer": "√2",
+      "explanation": "tan θ = 1 gives θ = 45° (in the first quadrant). At 45°, sin θ = cos θ = 1/√2, so sin θ + cos θ = 2/√2 = √2. '1' would require sin θ + cos θ = 1, e.g. at 90° or 0°, not 45°. '2' would require both to equal 1, impossible unless one is 0. '1/√2' is just the value of sin 45° or cos 45° alone."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which of the following pairs of trigonometric values are equal?\n\n(i) sin 30° and cos 60°\n(ii) tan 45° and cot 45°\n(iii) sec 60° and cosec 30°\n(iv) sin 60° and cos 60°\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) sin 30° = 1/2 and cos 60° = 1/2 — equal. (ii) tan 45° = 1 and cot 45° = 1 — equal. (iii) sec 60° = 2 and cosec 30° = 2 — equal (both are the reciprocal of 1/2). (iv) sin 60° = √3/2 (≈0.866) but cos 60° = 1/2 (= 0.5) — NOT equal. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The value of sin θ · cosec θ for any θ (where sin θ ≠ 0) is:",
+      "options": ["0", "sin² θ", "cosec² θ", "1"],
+      "correctAnswer": "1",
+      "explanation": "cosec θ = 1/sin θ by definition, so sin θ · cosec θ = sin θ · (1/sin θ) = 1. '0' would require sin θ = 0, but the problem restricts to sin θ ≠ 0. 'sin² θ' would result from sin θ · sin θ, not sin θ · cosec θ. 'cosec² θ' would result from cosec θ · cosec θ, again not the given product."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "In a right triangle, cot θ = 3/4. What is the value of sec θ?",
+      "options": ["4/5", "5/4", "5/3", "3/5"],
+      "correctAnswer": "5/3",
+      "explanation": "cot θ = adjacent/opposite = 3/4, so treat adjacent = 3 and opposite = 4. Hypotenuse = √(9 + 16) = 5. Therefore sec θ = hypotenuse/adjacent = 5/3. '4/5' is cos θ = adjacent/hypotenuse, not sec. '5/4' is sec θ if you swap adjacent and opposite (i.e., if cot were 4/3 instead of 3/4). '3/5' is sin θ multiplied incorrectly, actually the reciprocal reading — it equals 3/5 which is cos θ under an alternative labelling, not sec θ."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Match the following trigonometric ratios with their reciprocals:\n\nColumn I:\n(a) sin θ\n(b) cos θ\n(c) tan θ\n(d) sec θ\n\nColumn II:\n(i) cot θ\n(ii) cos θ\n(iii) cosec θ\n(iv) sec θ\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "sin θ reciprocal = cosec θ → (a)-(iii). cos θ reciprocal = sec θ → (b)-(iv). tan θ reciprocal = cot θ → (c)-(i). sec θ reciprocal = cos θ → (d)-(ii). The distractor (a)-(iv) mis-pairs sin with sec. (b)-(iii) mis-pairs cos with cosec. (a)-(i) pairs sin with cot, which is wrong."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "The identity sin² θ + cos² θ = 1 is called the __________ identity of trigonometry.",
+      "options": ["reciprocal", "Pythagorean", "complementary", "double angle"],
+      "correctAnswer": "Pythagorean",
+      "explanation": "sin² θ + cos² θ = 1 is derived directly from the Pythagorean theorem applied to a unit right triangle (or the unit circle) and is therefore called the Pythagorean identity. 'Reciprocal' identities relate ratios to their reciprocals (e.g., sin θ · cosec θ = 1). 'Complementary' identities relate θ with 90° − θ (e.g., sin(90° − θ) = cos θ). 'Double angle' identities involve 2θ (e.g., sin 2θ = 2 sin θ cos θ)."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "If sec θ = 5/3, then tan θ equals:",
+      "options": ["3/5", "3/4", "4/5", "4/3"],
+      "correctAnswer": "4/3",
+      "explanation": "sec² θ − tan² θ = 1 ⇒ tan² θ = sec² θ − 1 = 25/9 − 1 = 16/9, so tan θ = 4/3 (positive in first quadrant). Equivalently sec θ = 5/3 gives hyp = 5, adj = 3, so opp = 4 and tan = 4/3. '3/5' is cos θ. '3/4' is cot θ. '4/5' is sin θ."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Consider the following statements about trigonometric ratios of 0° and 90°:\n\n(i) sin 0° = 0 and sin 90° = 1.\n(ii) cos 0° = 1 and cos 90° = 0.\n(iii) tan 0° = 0 but tan 90° is undefined.\n(iv) sec 0° = 0 and sec 90° = 1.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are all standard textbook values. (iv) is INCORRECT — sec 0° = 1/cos 0° = 1/1 = 1 (not 0), and sec 90° = 1/cos 90° = 1/0 = undefined (not 1). Both values in (iv) are wrong. Any option that includes (iv) is therefore incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The value of (1 − sin² θ) · sec² θ is:",
+      "options": ["0", "1", "sin² θ", "tan² θ"],
+      "correctAnswer": "1",
+      "explanation": "1 − sin² θ = cos² θ (Pythagorean identity). So (1 − sin² θ) · sec² θ = cos² θ · (1/cos² θ) = 1. '0' would require cos² θ = 0, i.e., θ = 90°, which is a specific case only. 'sin² θ' and 'tan² θ' are unrelated to this simplification — the whole expression collapses to a constant 1 for any θ where sec θ is defined."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "If cos A = sin(90° − A) for all A in [0°, 90°], then cos 55° equals:",
+      "options": ["cos 35°", "sin 55°", "sin 35°", "cos 45°"],
+      "correctAnswer": "sin 35°",
+      "explanation": "Using the complementary identity cos A = sin(90° − A) with A = 55°: cos 55° = sin(90° − 55°) = sin 35°. 'cos 35°' is not equal to cos 55° (cos is not an even function around 45° in this direct way). 'sin 55°' is different from sin 35° — sin is monotonically increasing on this interval. 'cos 45°' is a specific fixed value 1/√2, unrelated to cos 55°."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following statements about the sine curve on [0°, 90°] are correct?\n\n(i) sin θ is strictly increasing on [0°, 90°].\n(ii) sin θ takes all values from 0 to 1 in this interval.\n(iii) sin 30° > sin 60°.\n(iv) sin 90° is the maximum value of sin θ in this interval.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — sine increases on [0°, 90°]. (ii) is correct — its range on this closed interval is [0, 1] and is continuous. (iv) is correct — the maximum on [0°, 90°] is sin 90° = 1. (iii) is INCORRECT — sin 30° = 0.5 < sin 60° ≈ 0.866, so sin 30° is LESS than sin 60°, not greater. Any option including (iii) is wrong."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "The value of cot 30° · tan 60° is:",
+      "options": ["1", "√3", "3", "√3/3"],
+      "correctAnswer": "3",
+      "explanation": "cot 30° = √3 and tan 60° = √3. Product = √3 × √3 = 3. '1' would be if cot 30° · tan 30°, or cot θ · tan θ = 1 for the same θ. '√3' is the individual value of either factor, not the product. '√3/3' equals 1/√3, the reciprocal of √3 — not related to this product."
+    }
+  ]
+}

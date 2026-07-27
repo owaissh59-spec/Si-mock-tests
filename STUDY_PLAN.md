@@ -129,9 +129,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 43 | Morning | E — Mathematical Abilities | Trigonometry: Ratios & Complementary Angles | 30 | foundation | Topic-wise | ⬜ |
-| 44 | Afternoon | F — Computer Proficiency | Internet, Web, Email & e-Banking | 40 | foundation | Topic-wise | ⬜ |
-| 45 | Late | A — General Intelligence & Reasoning | Statement-Conclusion & Drawing Inferences | 50 | foundation | Topic-wise | ⬜ |
+| 43 | Morning | E — Mathematical Abilities | Trigonometry: Ratios & Complementary Angles | 30 | foundation | Topic-wise | ✅ |
+| 44 | Afternoon | F — Computer Proficiency | Internet, Web, Email & e-Banking | 40 | foundation | Topic-wise | ✅ |
+| 45 | Late | A — General Intelligence & Reasoning | Statement-Conclusion & Drawing Inferences | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 16
 

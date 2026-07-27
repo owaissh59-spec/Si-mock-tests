@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 259,
+  "count": 309,
   "questions": [
     {
       "test": 1,
@@ -1297,6 +1297,256 @@
       "test": 42,
       "stem": "how many triangles are there in a figure made up of a",
       "key": "8"
+    },
+    {
+      "test": 45,
+      "stem": "statement: all companies that follow ethical practices earn long-term customer loyalty. conclusions:",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the population of a certain species of bird has decreased sharply",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "consider the following statement and conclusions: statement: most doctors in the city",
+      "key": "(II) only"
+    },
+    {
+      "test": 45,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 45,
+      "stem": "match the following statements with the type of logical error/fallacy that they",
+      "key": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a survey shows that 70% of the students in a school",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "statement: all successful entrepreneurs have taken calculated risks. conclusions: (i) anyone who",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a recent report shows that pollution levels in the city have",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "the __________ of the statement 'if it rains, the ground gets wet'",
+      "key": "contrapositive"
+    },
+    {
+      "test": 45,
+      "stem": "consider the following statement and conclusions: statement: the school has decided to",
+      "key": "(I) and (IV) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: most textbooks recommended by the university are available in the library.",
+      "key": "At least some recommended textbooks are available in the library."
+    },
+    {
+      "test": 45,
+      "stem": "statement: whenever it snows heavily, schools in the region close for the",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "which of the following pairs of statements are logically equivalent (i.e., always",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the government has increased subsidies on cooking gas cylinders for bpl",
+      "key": "Both (I) and (II) follow"
+    },
+    {
+      "test": 45,
+      "stem": "statement: in a certain state, only voters above 18 years of age",
+      "key": "Ram is above 18 years of age"
+    },
+    {
+      "test": 45,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the government has decided to make helmets mandatory for all two-wheeler",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "match the following logical operations with their descriptions: column i: (a) conjunction",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the demand for electric vehicles has surged due to rising fuel",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a hospital announces free health check-ups for senior citizens on every",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "which of the following are valid inferences from the statement 'no student",
+      "key": "(i) and (iv) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the public library will remain closed on the second saturday of",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "the logical form 'if p then q; not q; therefore not p'",
+      "key": "modus tollens"
+    },
+    {
+      "test": 45,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a newspaper report claims that eating 3 servings of vegetables daily",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the city administration has installed cctv cameras in all major public",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "consider the following statement and conclusions: statement: every book that is popular",
+      "key": "(I) and (IV) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the regional transport authority has fixed the maximum age of a",
+      "key": "Both (I) and (II) follow"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the examination will be conducted online only if the entire computer",
+      "key": "The examination cannot be conducted online today"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the government has doubled the budget for rural healthcare. conclusions: (i)",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "which of the following conclusions can logically be drawn from the statement",
+      "key": "(i) only"
+    },
+    {
+      "test": 45,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a study found that people who exercise regularly report higher levels",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "match the following logical relationships with examples: column i: (a) necessary condition",
+      "key": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: all engineers must have studied mathematics. conclusions: (i) someone who has",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "the __________ of an implication 'if p then q' is the statement",
+      "key": "inverse"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the metro service in the city was disrupted for two hours",
+      "key": "Only conclusion (I) follows"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a politician says: 'if we invest in education, our economy will",
+      "key": "We have not invested in education"
+    },
+    {
+      "test": 45,
+      "stem": "consider the following statement and conclusions: statement: the company is providing free",
+      "key": "(I) and (IV) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: if a person practices meditation regularly, they generally report reduced stress",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "which of the following pairs are correctly labelled as logical fallacies? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: according to a survey, 40% of the households in the city",
+      "key": "60% of households do NOT use solar water heaters"
+    },
+    {
+      "test": 45,
+      "stem": "statement: all members of a certain club are lawyers or doctors, and",
+      "key": "Mr. Ram is a lawyer"
+    },
+    {
+      "test": 45,
+      "stem": "consider the following statements about drawing inferences: (i) a weaker conclusion can",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a recent policy caps the number of stray dogs that can",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "the 'if and only if' form of a statement represents:",
+      "key": "A two-way implication (both P → Q and Q → P)"
+    },
+    {
+      "test": 45,
+      "stem": "statement: a researcher observes that in country x, wearing a wristband correlates",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "statement: the library's new rule states: 'members who return books late will",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 45,
+      "stem": "match the following premise-conclusion pairs with the logical status of the inference:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
     }
   ]
 }

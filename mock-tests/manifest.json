@@ -653,7 +653,7 @@
       "total_questions": 30,
       "difficulty_profile": "foundation",
       "filename": "43_test_E_trigonometry.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 44,
@@ -668,7 +668,7 @@
       "total_questions": 40,
       "difficulty_profile": "foundation",
       "filename": "44_test_F_internet-email.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 45,
@@ -683,7 +683,7 @@
       "total_questions": 50,
       "difficulty_profile": "foundation",
       "filename": "45_test_A_statement-conclusion.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 46,

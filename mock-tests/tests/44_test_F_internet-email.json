@@ -1,0 +1,497 @@
+{
+  "subject": "F",
+  "topic": "Internet, Web, Email & e-Banking",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "The acronym 'HTTP' in a web address stands for:",
+      "options": [
+        "High Transfer Text Protocol",
+        "Hyperlink Transfer Text Protocol",
+        "Hyper Terminal Transfer Protocol",
+        "Hyper Text Transfer Protocol"
+      ],
+      "correctAnswer": "Hyper Text Transfer Protocol",
+      "explanation": "HTTP is the application-layer protocol used by the World Wide Web to transfer hypertext (HTML) documents between servers and clients. 'High Transfer Text Protocol' rearranges the words and gets the meaning wrong. 'Hyperlink Transfer Text Protocol' misplaces 'text' after 'transfer'. 'Hyper Terminal Transfer Protocol' confuses HTTP with HyperTerminal, an old Windows serial-terminal utility."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Internet:\n\n(i) The Internet is a global network of interconnected computer networks.\n(ii) The World Wide Web is the same as the Internet.\n(iii) TCP/IP is the protocol suite used by the Internet.\n(iv) An IP address uniquely identifies a device on a network at a given time.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct — the Internet is the global network of networks. (iii) is correct — TCP/IP is the Internet's foundational protocol suite. (iv) is correct — an IP address uniquely identifies a networked device at a given moment. (ii) is INCORRECT — the World Wide Web is a service (a system of hypertext documents accessed via HTTP) that runs on top of the Internet; the Internet also carries email, FTP, streaming and many other services. WWW ≠ Internet. Any option that includes (ii) is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "In an email address 'user@example.com', 'example.com' is the:",
+      "options": [
+        "Username",
+        "Password",
+        "Domain name (mail server)",
+        "Subject line"
+      ],
+      "correctAnswer": "Domain name (mail server)",
+      "explanation": "The part after '@' is the domain name identifying the mail server that receives mail for the address. 'user' before the @ is the username / local part. Password is a separate authentication credential, not part of the visible email address. Subject line is written when composing an email, not part of the address at all."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): HTTPS is preferred over HTTP for banking websites.\nReason (R): HTTPS encrypts the data exchanged between the browser and the server using SSL/TLS, providing confidentiality and integrity.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — banks and any site handling sensitive data use HTTPS to protect user credentials and transactions. (R) is correct — HTTPS is HTTP over SSL/TLS, which encrypts payload and provides authentication of the server. (R) explains (A): HTTPS is preferred precisely because SSL/TLS keeps the data confidential and tamper-evident. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Match the following email-related terms with their functions:\n\nColumn I:\n(a) CC\n(b) BCC\n(c) Attachment\n(d) Signature\n\nColumn II:\n(i) A file (image, document) sent along with the message\n(ii) A block of text automatically added at the bottom of the outgoing message\n(iii) Recipients whose addresses are visible to all other recipients\n(iv) Recipients whose addresses are hidden from all other recipients\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "CC (carbon copy) shows all recipients to everyone → (a)-(iii). BCC (blind carbon copy) hides recipients from each other → (b)-(iv). An Attachment is a file appended to the message → (c)-(i). A Signature is a block of standard text added automatically at the bottom → (d)-(ii). The distractor (a)-(iv) swaps CC with BCC. (c)-(ii) misplaces attachment as signature. (a)-(i) mislabels CC as attachment."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "A __________ is a small text file placed on a user's computer by a website to track sessions or user preferences.",
+      "options": ["cache", "cookie", "cookie-crumb", "clip"],
+      "correctAnswer": "cookie",
+      "explanation": "A 'cookie' is a small text file stored by the browser at the request of a website to keep session and preference information. A 'cache' is a temporary storage of downloaded resources (images, scripts) for faster reloading, not for tracking sessions. 'Cookie-crumb' is not a standard web term. 'Clip' is not a browser term (a clip could mean a media clip but not a session file)."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "Which of the following is NOT a web browser?",
+      "options": ["Google Chrome", "Mozilla Firefox", "Safari", "Windows Explorer"],
+      "correctAnswer": "Windows Explorer",
+      "explanation": "Chrome, Firefox and Safari are all web browsers. 'Windows Explorer' (now 'File Explorer' in modern Windows) is a file-system browser for local files/folders — not a web browser. Note: it is often confused with 'Internet Explorer' which IS/was a web browser. Windows Explorer without 'Internet' is the file-system tool."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "Which of the following are legitimate methods commonly used by banks for two-factor authentication in Internet banking?\n\n(i) One-Time Password (OTP) via SMS or email\n(ii) A hardware security token that generates a rolling code\n(iii) Sending the customer's password in plain text\n(iv) Fingerprint or face biometric on the mobile banking app\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "OTP (i), hardware tokens (ii) and biometrics (iv) are all standard 2FA methods used by banks. (iii) is INCORRECT — sending a password in plain text is a serious security breach, not a legitimate authentication method. Any option that includes (iii) is therefore wrong."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "The '.in' at the end of a web address like 'jkssb.nic.in' is called a __________.",
+      "options": [
+        "protocol",
+        "top-level domain",
+        "subdomain",
+        "file extension"
+      ],
+      "correctAnswer": "top-level domain",
+      "explanation": "The rightmost part of a domain name (like .com, .org, .in, .edu) is the Top-Level Domain (TLD). '.in' is India's country-code TLD (ccTLD). 'Protocol' refers to HTTP/HTTPS/FTP etc. 'Subdomain' is a segment to the left of the main domain (e.g., 'jkssb' in 'jkssb.nic.in' is a subdomain of nic.in). 'File extension' refers to file-format suffixes like .html, .pdf — not domain components."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "The 'https://' prefix in a URL indicates that:",
+      "options": [
+        "The site is hosted on a Linux server",
+        "The site accepts only mobile visitors",
+        "The site is free of cost",
+        "The site is encrypted using SSL/TLS"
+      ],
+      "correctAnswer": "The site is encrypted using SSL/TLS",
+      "explanation": "'https' indicates HTTP over TLS/SSL — meaning data between browser and server is encrypted. The OS of the host (Linux vs Windows) is not indicated by the scheme. Whether the site accepts mobile visitors is a design choice, not something the URL scheme signals. Whether a site is paid or free has nothing to do with HTTPS."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "The protocol most commonly used to send outgoing email from a client to a mail server is:",
+      "options": ["POP3", "IMAP", "SMTP", "HTTP"],
+      "correctAnswer": "SMTP",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard for sending (submitting/relaying) outgoing email. POP3 (Post Office Protocol v3) is used for downloading and typically deleting incoming email from the server. IMAP (Internet Message Access Protocol) is used to read/manage incoming email while keeping it on the server. HTTP is the web protocol, unrelated to email submission (though webmail applications use HTTP for the browser interface itself)."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "Consider the following statements about email:\n\n(i) The 'Inbox' folder holds messages received by the account.\n(ii) 'Spam' or 'Junk' folder holds messages classified as unsolicited.\n(iii) 'Draft' is a copy of a composed but unsent message.\n(iv) 'Sent' folder holds messages that have been deleted permanently.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) match the standard functions of Inbox, Spam and Draft folders. (iv) is INCORRECT — the 'Sent' folder holds copies of messages the user has ALREADY SENT, not deleted messages. Deleted messages go to the 'Trash' or 'Bin' folder. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "The DNS (Domain Name System) is used to:",
+      "options": [
+        "Encrypt web traffic between browsers and servers",
+        "Store the browser's history of visited pages",
+        "Compress email attachments to reduce size",
+        "Translate domain names into IP addresses"
+      ],
+      "correctAnswer": "Translate domain names into IP addresses",
+      "explanation": "DNS is often called the 'phonebook of the Internet' — it converts human-readable names (like www.example.com) into IP addresses that routers use. Encryption of web traffic is done by SSL/TLS (HTTPS), not DNS. Browser history is stored locally by the browser, unrelated to DNS. Email attachment compression happens at the mail client (or via ZIP/RAR tools), again not a DNS function."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "The 'padlock' icon shown in the browser address bar next to a URL indicates:",
+      "options": [
+        "The website has been marked as unsafe",
+        "The website is stored in the browser's cache",
+        "The connection uses HTTPS with a valid SSL/TLS certificate",
+        "The user has enabled dark mode"
+      ],
+      "correctAnswer": "The connection uses HTTPS with a valid SSL/TLS certificate",
+      "explanation": "The closed padlock indicates the browser is connected over HTTPS with a certificate the browser trusts. If the site is unsafe (invalid cert, malware) most browsers show a warning icon or a strike-through, not a closed padlock. Cache status is not indicated by the padlock. Dark mode is a browser display setting, unrelated to the padlock."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "The abbreviation 'IFSC' in Indian banking stands for:",
+      "options": [
+        "Indian Financial System Code",
+        "International Finance Sector Code",
+        "Internet Fund Settlement Code",
+        "Inter-branch Financial Service Center"
+      ],
+      "correctAnswer": "Indian Financial System Code",
+      "explanation": "IFSC is an 11-character code developed by the RBI to uniquely identify a bank branch for electronic fund transfer schemes like NEFT, RTGS and IMPS. 'International Finance Sector Code' is not a real term. 'Internet Fund Settlement Code' is invented. 'Inter-branch Financial Service Center' is not a real financial acronym."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Public Wi-Fi networks are considered risky for Internet banking.\nReason (R): Public Wi-Fi traffic can be intercepted by attackers on the same network unless the data is properly encrypted end-to-end.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — public Wi-Fi is a well-known risk vector for sensitive activities like banking. (R) is correct — packet sniffing or man-in-the-middle attacks are possible on shared Wi-Fi networks unless application-layer encryption (HTTPS) protects the data. (R) explains (A) precisely — the danger of public Wi-Fi for banking is exactly this interception risk. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "Which of the following is a common electronic fund transfer service offered by Indian banks?",
+      "options": ["NCERT", "NCPCR", "NCFC", "NEFT"],
+      "correctAnswer": "NEFT",
+      "explanation": "NEFT (National Electronic Funds Transfer) is a well-known RBI-operated electronic transfer system in India. NCERT (National Council of Educational Research and Training) is an educational body. NCPCR (National Commission for Protection of Child Rights) is a statutory body. NCFC is not a standard Indian banking acronym."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "The primary purpose of a firewall in Internet security is to:",
+      "options": [
+        "Speed up the Internet connection",
+        "Monitor and filter incoming/outgoing network traffic based on rules",
+        "Store passwords for websites",
+        "Convert IP addresses into domain names"
+      ],
+      "correctAnswer": "Monitor and filter incoming/outgoing network traffic based on rules",
+      "explanation": "A firewall inspects packets flowing in or out of a network / host and permits or blocks them based on a rule set. Speeding up the Internet is not a firewall's role (it may even slow traffic slightly). Storing passwords is a password manager's job. Converting IP addresses into domain names is DNS (reverse lookup), not a firewall."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "The maximum size of a single email attachment on most major webmail providers (like Gmail) is typically around:",
+      "options": ["10 MB", "100 MB", "25 MB", "1 GB"],
+      "correctAnswer": "25 MB",
+      "explanation": "Gmail and many major webmail providers cap direct SMTP attachments around 25 MB; larger files are typically routed via a linked cloud service (e.g., Google Drive). '10 MB' is too low; Gmail's limit is higher. '100 MB' exceeds direct SMTP limits — such files require cloud sharing. '1 GB' is orders of magnitude beyond a direct email attachment limit."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "The term '404 Not Found' returned by a web server indicates:",
+      "options": [
+        "The requested page has moved permanently",
+        "The user is not authorized to view the page",
+        "The requested resource does not exist on the server",
+        "The server is temporarily overloaded"
+      ],
+      "correctAnswer": "The requested resource does not exist on the server",
+      "explanation": "HTTP status 404 (Not Found) means the server cannot find the requested URL. 'Moved permanently' is HTTP 301, not 404. 'Not authorized' is HTTP 401 (Unauthorized) or 403 (Forbidden). 'Temporarily overloaded' typically produces HTTP 503 (Service Unavailable) — not 404."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "Which of the following are typical parts of a URL like 'https://www.example.com/products/list.html'?\n\n(i) Scheme (https)\n(ii) Host / domain (www.example.com)\n(iii) Path (/products/list.html)\n(iv) Autoscript (autoscript.js)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Scheme, host and path are the three main components visible in a typical URL. (iv) 'Autoscript' is not a standard URL component — no such element exists in URL grammar. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "The 'Bcc' field in an email is used when:",
+      "options": [
+        "You want all recipients to see each other's addresses",
+        "You want to attach a file to your email",
+        "You want a copy sent to someone without other recipients knowing about them",
+        "You want to reply to the sender only"
+      ],
+      "correctAnswer": "You want a copy sent to someone without other recipients knowing about them",
+      "explanation": "BCC (Blind Carbon Copy) sends the email to the listed addresses while hiding those addresses from all other recipients. Option 1 describes CC, not BCC. Option 3 describes the Attachment feature, not a recipient field. Option 4 describes 'Reply' (or 'Reply to All'), unrelated to BCC."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "Consider the following statements about Internet security:\n\n(i) Phishing is a fraudulent attempt to obtain sensitive information by pretending to be a trustworthy entity.\n(ii) A 'strong password' typically mixes uppercase, lowercase, digits and symbols.\n(iii) Downloading executable files from unknown emails is safe if the file is under 1 MB.\n(iv) A software update from the OS vendor may include security patches.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are standard security best practices and definitions. (iii) is INCORRECT — file size has nothing to do with whether an executable from an unknown sender is safe. Malware payloads are often small and can compromise a system regardless of size. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "The full form of 'URL' is:",
+      "options": [
+        "Universal Resource Locator",
+        "Uniform Resource Locator",
+        "Uniform Reference Link",
+        "Universal Reference Link"
+      ],
+      "correctAnswer": "Uniform Resource Locator",
+      "explanation": "URL stands for Uniform Resource Locator — the standard term coined by Tim Berners-Lee's WWW work. 'Universal Resource Locator' is a common misconception. 'Uniform Reference Link' and 'Universal Reference Link' are invented variants that don't correspond to any real acronym."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Match the following e-banking services with their descriptions:\n\nColumn I:\n(a) NEFT\n(b) RTGS\n(c) IMPS\n(d) UPI\n\nColumn II:\n(i) Real-time settlement of large-value transactions (typically ₹2 lakh and above)\n(ii) Instant mobile-based transfer using virtual payment addresses (VPAs)\n(iii) Batch settlement of any-amount transfers (settled in half-hourly batches or 24×7)\n(iv) 24×7 instant interbank transfer of retail amounts using account numbers or MMIDs\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "NEFT settles in batches (24×7 since Dec 2019) → (a)-(iii). RTGS is real-time for high-value transfers (≥ ₹2 lakh) → (b)-(i). IMPS is 24×7 instant retail transfer using account or MMID → (c)-(iv). UPI uses Virtual Payment Addresses via mobile → (d)-(ii). The distractor (a)-(i) wrongly labels NEFT as real-time. (b)-(iii) wrongly labels RTGS as batch settlement. (a)-(ii) confuses NEFT with UPI."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "The 'CVV' printed on the back of a debit / credit card is used for:",
+      "options": [
+        "Identifying the card holder's date of birth",
+        "Providing an additional verification during card-not-present online transactions",
+        "Storing the customer's PIN in encrypted form",
+        "Showing the card's ATM daily withdrawal limit"
+      ],
+      "correctAnswer": "Providing an additional verification during card-not-present online transactions",
+      "explanation": "CVV (Card Verification Value) — usually 3 digits on Visa/Mastercard and 4 digits on Amex — is a security code used during online (card-not-present) transactions as a second verification factor. It does not encode date of birth. It is NOT the encrypted PIN — PIN is stored securely on the bank's systems and (encrypted) on the card chip. It doesn't relate to daily ATM limits."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "The primary risk of clicking on suspicious links in emails is:",
+      "options": [
+        "Faster Internet speed",
+        "Getting free storage on the cloud",
+        "Being redirected to phishing sites or downloading malware",
+        "Automatic subscription to newsletters"
+      ],
+      "correctAnswer": "Being redirected to phishing sites or downloading malware",
+      "explanation": "Suspicious links in emails commonly lead to phishing pages that harvest credentials or trigger drive-by malware downloads. Faster Internet speed is unrelated. Free cloud storage is not a normal outcome of a random link. Newsletter subscription is a minor consequence at worst — not the primary risk of an unknown link."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "The '@' symbol in an email address separates the __________ from the __________.",
+      "options": [
+        "domain name and username",
+        "username and domain name",
+        "password and mailbox",
+        "subject and body"
+      ],
+      "correctAnswer": "username and domain name",
+      "explanation": "In 'localpart@domain', '@' separates the local part (username / mailbox on the server) from the domain name of the mail server. Option 1 reverses the order (domain and username instead of username and domain). Options 3 and 4 conflate unrelated fields (passwords and mail contents are not part of the address syntax at all)."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "Which of the following are typical warning signs of a phishing email?\n\n(i) Generic greeting like 'Dear Customer' instead of your name\n(ii) Urgent language creating panic (e.g., 'Your account will be closed within 24 hours!')\n(iii) A sender address that closely mimics but does not exactly match the real domain\n(iv) A DKIM/SPF-verified signature from the official domain\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are classic phishing red flags — generic greeting, artificial urgency, and near-matching-but-not-identical sender domain. (iv) is INCORRECT as a warning sign — a DKIM/SPF-verified signature is a positive indicator that the mail actually came from the domain, not a red flag. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): It is safer to type a bank's URL directly into the browser than to click a link in an email.\nReason (R): Emails can contain deceptive links whose displayed text differs from the actual URL, leading users to fraudulent look-alike sites.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — typing the URL avoids trusting the link's target. (R) is correct — email links can hide their true destination behind arbitrary display text; this is a known phishing tactic. (R) explains (A) directly: users type URLs because email links may be deceptive. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "31",
+      "subject": "F",
+      "questionText": "The abbreviation 'UPI' in Indian digital payments stands for:",
+      "options": [
+        "Unified Payments Interface",
+        "Universal Payment Instrument",
+        "Uniform Payment Identifier",
+        "United Postal Interface"
+      ],
+      "correctAnswer": "Unified Payments Interface",
+      "explanation": "UPI is the Unified Payments Interface, an instant real-time payment system developed by NPCI. 'Universal Payment Instrument' is not the official term. 'Uniform Payment Identifier' does not exist in Indian banking. 'United Postal Interface' has no such meaning."
+    },
+    {
+      "id": "32",
+      "subject": "F",
+      "questionText": "Which of the following are legitimate web browsers?\n\n(i) Microsoft Edge\n(ii) Brave\n(iii) Opera\n(iv) BIOS\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Microsoft Edge, Brave and Opera are all valid web browsers. BIOS (Basic Input/Output System) is low-level firmware on a computer's motherboard, not a web browser. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "33",
+      "subject": "F",
+      "questionText": "In a web address, the part 'www' before a domain name is called a __________.",
+      "options": [
+        "protocol",
+        "subdomain",
+        "top-level domain",
+        "port number"
+      ],
+      "correctAnswer": "subdomain",
+      "explanation": "'www' is traditionally a subdomain of the main domain (e.g., 'www' of example.com). Modern sites often serve on both example.com and www.example.com. Protocol is the http/https/ftp scheme. TLD is the rightmost component (.com, .in). Port number is an optional numeric suffix (e.g., :8080) — nothing to do with 'www'."
+    },
+    {
+      "id": "34",
+      "subject": "F",
+      "questionText": "The __________ is a technology that helps users create private, encrypted tunnels over the public Internet.",
+      "options": ["VPS", "VLAN", "VPN", "VoIP"],
+      "correctAnswer": "VPN",
+      "explanation": "VPN (Virtual Private Network) creates an encrypted tunnel between the user and a remote server, protecting data over untrusted networks. VPS (Virtual Private Server) is a hosting product — a virtualized server. VLAN (Virtual LAN) is a network-segmentation technology at the switch level (L2). VoIP (Voice over IP) is the technology for making voice calls over the Internet — not encryption tunneling."
+    },
+    {
+      "id": "35",
+      "subject": "F",
+      "questionText": "The primary purpose of an 'MMID' in mobile banking is to:",
+      "options": [
+        "Identify a bank account for IMPS transfers using a 7-digit code",
+        "Encrypt SMS messages between bank and customer",
+        "Store the customer's biometric data",
+        "Track the location of the mobile device"
+      ],
+      "correctAnswer": "Identify a bank account for IMPS transfers using a 7-digit code",
+      "explanation": "MMID (Mobile Money Identifier) is a 7-digit number issued by a bank to a customer for mobile-based IMPS fund transfers, along with the mobile number, to route funds. It is not an encryption mechanism. It does not store biometric data. It does not track device location."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "The term 'cookies' in the context of a web browser refers to:",
+      "options": [
+        "Files used to speed up the boot time of the browser",
+        "Small text files stored on the user's computer by websites",
+        "Antivirus signatures downloaded by the browser",
+        "Media files played inside browser tabs"
+      ],
+      "correctAnswer": "Small text files stored on the user's computer by websites",
+      "explanation": "Cookies are small text files that a website asks the browser to store on the user's device — used for session tracking, preferences and analytics. Boot time relates to the OS, not browser cookies. Antivirus signatures are managed by antivirus software, not browsers. Media files inside tabs are streamed or downloaded but are not cookies."
+    },
+    {
+      "id": "37",
+      "subject": "F",
+      "questionText": "A 'search engine' is a web-based service that:",
+      "options": [
+        "Sells search results only to paying customers",
+        "Provides free unlimited cloud storage",
+        "Indexes web pages and returns relevant results for a user's query",
+        "Automatically writes emails on behalf of the user"
+      ],
+      "correctAnswer": "Indexes web pages and returns relevant results for a user's query",
+      "explanation": "Search engines (Google, Bing, DuckDuckGo) crawl and index web pages and rank them against a user's query. Payment-only search is not a general description of a search engine. Cloud storage is a separate service (Drive, Dropbox). Email autowriting is a mail-client / AI feature, not a search engine."
+    },
+    {
+      "id": "38",
+      "subject": "F",
+      "questionText": "Consider the following statements about e-banking:\n\n(i) Internet banking allows users to check balances, transfer funds and pay bills online.\n(ii) Mobile banking is typically accessed via a bank's mobile application.\n(iii) A cheque cleared in real-time within seconds is called RTGS.\n(iv) OTP is a permanent password used for one-time signup only.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct: Internet banking, mobile banking and RTGS characterizations. (iv) is INCORRECT — OTP (One-Time Password) is a temporary code used for a SINGLE authentication or transaction, then expires; it is NOT a permanent password. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "39",
+      "subject": "F",
+      "questionText": "The service that lets a user host a website domain from their own name is called domain __________.",
+      "options": [
+        "encryption",
+        "compilation",
+        "registration",
+        "transaction"
+      ],
+      "correctAnswer": "registration",
+      "explanation": "Domain registration is the process by which an individual/organization reserves a domain name through an accredited registrar (like GoDaddy, BigRock). Encryption relates to SSL/TLS, not name reservation. Compilation is a software-development term (source → machine code). Transaction relates to financial operations, not domain-name systems."
+    },
+    {
+      "id": "40",
+      "subject": "F",
+      "questionText": "The primary role of the 'address bar' in a web browser is to:",
+      "options": [
+        "Store the user's browsing history",
+        "Show the current time zone",
+        "Display and accept the URL of the current or next web page",
+        "Search only within downloaded files"
+      ],
+      "correctAnswer": "Display and accept the URL of the current or next web page",
+      "explanation": "The address bar (also called the URL bar or omnibox) is where the browser shows the current URL and where the user types URLs (or search terms in modern browsers). Browsing history is stored in a separate history panel/menu. Time zone is unrelated to the address bar. Searching downloaded files is done by File Explorer or Finder, not the browser's address bar."
+    }
+  ]
+}

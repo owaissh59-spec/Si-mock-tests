@@ -1,0 +1,657 @@
+{
+  "subject": "A",
+  "topic": "Statement-Conclusion & Drawing Inferences",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Statement: All companies that follow ethical practices earn long-term customer loyalty.\n\nConclusions:\n(I) Companies that do not follow ethical practices lose customer loyalty in the long run.\n(II) Some companies earn long-term customer loyalty by following ethical practices.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The statement says 'All ethical companies earn loyalty' — from this we can deduce 'Some ethical companies earn loyalty' (a weaker but valid conclusion). So (II) follows. (I) requires the converse — that non-ethical companies must lose loyalty — but the statement is silent about non-ethical companies. They could still be gaining loyalty for other reasons; the statement doesn't rule that out. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Statement: The population of a certain species of bird has decreased sharply over the last decade due to habitat loss.\n\nConclusions:\n(I) Preserving the natural habitat could help the bird's population recover.\n(II) Bird populations always decrease over decades.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "The statement identifies habitat loss as the cause, so reversing that cause (preserving habitat) would plausibly help — (I) is a valid inference. (II) generalizes to ALL bird populations over all decades, which the statement does not support; it discusses only one species over one decade. Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Consider the following statement and conclusions:\n\nStatement: Most doctors in the city work in private hospitals.\n\nConclusions:\n(I) The government hospitals in the city are short-staffed.\n(II) Some doctors in the city work in private hospitals.\n(III) All doctors in the city prefer private hospitals to government hospitals.\n(IV) No doctor in the city works in a public hospital.\n\nWhich of the conclusions given above follow(s) from the statement?",
+      "options": [
+        "(I) and (II) only",
+        "(II) and (III) only",
+        "(II) only",
+        "(I), (II) and (IV) only"
+      ],
+      "correctAnswer": "(II) only",
+      "explanation": "'Most' logically implies 'some', so (II) follows. (I) is a plausible guess but not a logical inference — 'most doctors in private' says nothing directly about staffing levels in government hospitals; those hospitals might still be adequately staffed. (III) is too strong — 'most work in private' doesn't say ALL PREFER private; they might work in private for reasons other than preference. (IV) is directly contradicted by 'most' (which allows some to still be in government). Hence only (II) follows."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From the statement 'All roses are flowers', we cannot conclude that 'All flowers are roses'.\nReason (R): The converse of an 'All A are B' statement is not logically equivalent to the original.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'All roses are flowers' means Roses ⊂ Flowers, not the other direction. (R) is correct — 'All A are B' has converse 'All B are A' which is a different, generally not-equivalent statement (unless the classes are identical). (R) directly explains (A): we cannot draw the converse conclusion precisely because the converse is not logically equivalent. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Match the following statements with the type of logical error/fallacy that they represent:\n\nColumn I:\n(a) 'Everyone believes it, so it must be true.'\n(b) 'You cannot trust his argument because he failed his exam last year.'\n(c) 'If we allow a small tax hike, next it will be full-scale nationalisation.'\n(d) 'Either you are with us or you are against us.'\n\nColumn II:\n(i) Ad hominem\n(ii) False dilemma / False dichotomy\n(iii) Slippery slope\n(iv) Appeal to popularity (ad populum)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "(a) appeals to how many believe it → ad populum → (a)-(iv). (b) attacks the person's character/history → ad hominem → (b)-(i). (c) chains a small change to disaster → slippery slope → (c)-(iii). (d) presents only two options as if they exhaust the possibilities → false dilemma → (d)-(ii). The distractors mix up the fallacy names but each other option pairs at least two of them incorrectly."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Statement: A survey shows that 70% of the students in a school like mathematics.\n\nConclusions:\n(I) 30% of the students do not like mathematics.\n(II) All students in the school like mathematics equally.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "If 70% like mathematics, then 30% do not — a direct arithmetic complement, so (I) follows (assuming the survey covered all students and offered a binary like/not-like response). (II) claims uniform intensity of liking, which the 70% figure does not support — students may like it to different degrees. Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Statement: All successful entrepreneurs have taken calculated risks.\n\nConclusions:\n(I) Anyone who takes calculated risks becomes a successful entrepreneur.\n(II) A person who has never taken a calculated risk is unlikely to be a successful entrepreneur.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The statement says 'All successful entrepreneurs take risks' — this is 'success ⇒ risk-taking'. The contrapositive 'never took risks ⇒ not a successful entrepreneur' is logically equivalent and directly supports (II). (I) is the converse ('risk ⇒ success'), which is NOT equivalent to the original — many risk-takers may fail. So (I) does not follow. 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The contrapositive of a true implication is also true.\nReason (R): An implication 'If P then Q' is logically equivalent to 'If not-Q then not-P'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — contrapositive preserves truth value. (R) is correct — this is the very definition/equivalence of contrapositive. (R) explains (A) directly: because P → Q is equivalent to ¬Q → ¬P, if the original is true so is the contrapositive. Option 2 wrongly denies the explanation. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Statement: A recent report shows that pollution levels in the city have decreased since the introduction of electric buses.\n\nConclusions:\n(I) Introducing more electric buses will further reduce pollution.\n(II) Electric buses have contributed to the improvement in air quality.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The report claims pollution decreased AFTER electric buses were introduced. Attributing (partial) credit to electric buses is a reasonable direct reading — (II) follows. (I) predicts a FUTURE outcome — a stronger claim — that would require further assumptions like a linear relationship, no diminishing returns, and no confounders; the statement doesn't support that. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "The __________ of the statement 'If it rains, the ground gets wet' is 'If the ground does not get wet, then it did not rain'.",
+      "options": [
+        "converse",
+        "inverse",
+        "contrapositive",
+        "biconditional"
+      ],
+      "correctAnswer": "contrapositive",
+      "explanation": "The contrapositive of 'P → Q' is '¬Q → ¬P' — reversing AND negating both sides. This gives 'If ground not wet → not rained', matching the given form. The converse would be 'If ground gets wet, then it rained' (Q → P). The inverse would be 'If it doesn't rain, ground doesn't get wet' (¬P → ¬Q). The biconditional would be 'P ↔ Q' (both directions)."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Consider the following statement and conclusions:\n\nStatement: The school has decided to introduce mandatory yoga sessions for all students.\n\nConclusions:\n(I) The school believes yoga is beneficial for students.\n(II) The school will discontinue physical education classes.\n(III) All students are currently unhealthy.\n(IV) The school has some resources or teachers to conduct yoga sessions.\n\nWhich of the conclusions given above follow(s) from the statement?",
+      "options": [
+        "(I) and (II) only",
+        "(I) and (III) only",
+        "(II) and (IV) only",
+        "(I) and (IV) only"
+      ],
+      "correctAnswer": "(I) and (IV) only",
+      "explanation": "(I) follows implicitly — a school would not mandate yoga unless it believed there was some benefit. (IV) also follows — mandating sessions requires SOME capacity (teachers, space, time) to run them. (II) is not implied — introducing yoga doesn't necessarily replace PE classes; they can coexist. (III) is far too strong a claim — mandating yoga does not require that all students are unhealthy; it can be preventative or holistic. Hence only (I) and (IV) follow."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Statement: Most textbooks recommended by the university are available in the library.\n\nConclusion:",
+      "options": [
+        "All recommended textbooks are available in the library.",
+        "No student needs to buy any textbook.",
+        "At least some recommended textbooks are available in the library.",
+        "The library has more books than any bookstore."
+      ],
+      "correctAnswer": "At least some recommended textbooks are available in the library.",
+      "explanation": "'Most X are Y' logically implies 'Some X are Y'. So 'at least some recommended textbooks are in the library' is a valid, weaker conclusion. 'All recommended textbooks are available' overstates 'most' — some may still be missing. 'No student needs to buy any textbook' overreaches — 'most' is not 'all', so a student may still need to buy the ones NOT available. Comparing library to any bookstore is unsupported by the statement."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Statement: Whenever it snows heavily, schools in the region close for the day.\n\nToday, the schools in the region are closed for the day.\n\nConclusions:\n(I) It has snowed heavily today.\n(II) The schools may or may not be closed because of snow.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The statement gives 'heavy snow → schools closed', a one-way implication. Observing 'schools closed' does NOT let us conclude 'it snowed heavily' — the schools might be closed for a holiday, a strike, or another reason. Affirming the consequent is a logical fallacy. (II) is the safe reading: schools may or may not be closed because of snow. Hence (I) does not follow (it's the fallacy of affirming the consequent); 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Which of the following pairs of statements are logically equivalent (i.e., always have the same truth value)?\n\n(i) 'If P then Q' and 'If not-Q then not-P'\n(ii) 'If P then Q' and 'If Q then P'\n(iii) 'P or Q' and 'not (not-P and not-Q)'\n(iv) 'P and Q' and 'Q and P'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is the contrapositive equivalence — TRUE. (iii) is De Morgan's law rewritten — TRUE. (iv) is commutativity of AND — TRUE. (ii) is the CONVERSE of an implication, which is NOT logically equivalent to the original in general. Any option including (ii) is therefore wrong."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Statement: The government has increased subsidies on cooking gas cylinders for BPL families.\n\nConclusions:\n(I) The government wants to help economically weaker families.\n(II) The government has recognized cooking gas as an essential requirement for BPL families.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Both (I) and (II) follow",
+      "explanation": "Increasing subsidies specifically for BPL families implies both — a concern for economically weaker families (I) AND recognition that cooking gas is essential enough to be subsidised (II). Both are natural implicit assumptions behind such a policy. Hence 'Only (I)', 'Only (II)' and 'Neither' are all too narrow."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Statement: In a certain state, only voters above 18 years of age are allowed to vote.\n\nRam voted in the last election in that state.\n\nConclusion:",
+      "options": [
+        "Ram is above 18 years of age",
+        "Ram is below 18 years of age",
+        "Ram may or may not be above 18",
+        "Ram is exactly 18 years old"
+      ],
+      "correctAnswer": "Ram is above 18 years of age",
+      "explanation": "The rule says 'only voters above 18 are ALLOWED to vote', i.e., voters ⊂ (above-18). Since Ram voted, he must have been in the eligible set, hence above 18. 'Below 18' contradicts the rule. 'May or may not' is too weak — the rule makes it definite. 'Exactly 18' is a specific age not implied by 'above 18'."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From 'Some birds can fly', we CANNOT conclude 'Some birds cannot fly'.\nReason (R): The statement 'Some A are B' does not tell us anything definite about the A that are not B; there may or may not be such A.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — from 'some can fly' we cannot deduce that OTHER birds cannot fly; the set of flying birds might be all birds. (R) is correct — 'some A are B' does not imply the existence of A that are not B in strict logic (though in ordinary English there is a conversational implicature suggesting so). (R) directly explains (A). Option 2 wrongly denies the explanatory link. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Statement: The government has decided to make helmets mandatory for all two-wheeler riders and pillion riders.\n\nConclusions:\n(I) The government wants to reduce head injuries in road accidents.\n(II) Two-wheeler accidents are the only cause of road fatalities.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "Making helmets mandatory logically links to reducing head injuries — (I) is a plausible direct inference. (II) is far too strong: the policy targets a specific safety measure; it does not claim two-wheelers are the ONLY cause of fatalities (cars, trucks etc. also cause many accidents). Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Match the following logical operations with their descriptions:\n\nColumn I:\n(a) Conjunction (AND)\n(b) Disjunction (OR)\n(c) Negation (NOT)\n(d) Implication (IF...THEN)\n\nColumn II:\n(i) Reverses the truth value of a statement\n(ii) True only when both operands are true\n(iii) False only when the first operand is true and the second is false\n(iv) True when at least one operand is true\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "AND is true only if both are true → (a)-(ii). OR is true if at least one is true → (b)-(iv). NOT reverses truth values → (c)-(i). Implication P → Q is false only when P is true and Q is false → (d)-(iii). The distractor (a)-(iv) treats AND as OR. (b)-(ii) treats OR as AND. (a)-(iii) mixes AND with implication."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Statement: The demand for electric vehicles has surged due to rising fuel prices and growing environmental awareness.\n\nConclusions:\n(I) The government will ban petrol vehicles.\n(II) Environmental concerns are influencing consumer choices.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The statement itself mentions 'growing environmental awareness' as one reason — so (II) is directly implied. (I) is speculation about a future government ban that is not mentioned or implied by rising demand alone. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Statement: A hospital announces free health check-ups for senior citizens on every Sunday of December.\n\nConclusions:\n(I) The hospital believes senior citizens need regular health monitoring.\n(II) All hospitals in the country provide free check-ups.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "The hospital's initiative to specifically target senior citizens implies belief that they need such health monitoring — (I) follows. (II) generalises to ALL hospitals in the country, which the statement does not support — it is about one hospital's decision. Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Which of the following are valid inferences from the statement 'No student who scored below 40 was promoted'?\n\n(i) Every promoted student scored 40 or above.\n(ii) Some students scored below 40.\n(iii) Every student who scored above 40 was promoted.\n(iv) A student who was promoted scored at least 40.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "'No X (scored < 40) was promoted' is equivalent to 'All promoted students scored ≥ 40' — both (i) and (iv) restate this. (iii) is wrong — the statement's contrapositive is about promotion requiring ≥ 40, not that everyone above 40 was promoted (some may still not have been promoted for other reasons). (ii) 'some students scored below 40' is an existential claim not guaranteed by the statement — the statement is consistent with zero students scoring below 40. Hence only (i) and (iv) definitely follow."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Statement: The public library will remain closed on the second Saturday of every month.\n\nConclusions:\n(I) On other Saturdays, the library will remain open.\n(II) The library is closed on all Saturdays of the year.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "By specifying 'the second Saturday' as the closure day, the notice strongly implies that the closure is limited to that specific Saturday of each month; on other Saturdays the library remains open — (I) follows as the intended reading of the notice. (II) directly contradicts this: closing ALL Saturdays would make the 'second Saturday' phrasing redundant. Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "The logical form 'If P then Q; not Q; therefore not P' is called __________.",
+      "options": [
+        "modus ponens",
+        "modus tollens",
+        "syllogism",
+        "affirming the consequent"
+      ],
+      "correctAnswer": "modus tollens",
+      "explanation": "This is a classical valid argument form called modus tollens (Latin: 'the way that denies by denying'). Modus ponens is 'P → Q; P; therefore Q' (affirming P to derive Q). Syllogism is a broader term for a specific 2-premise argument form (usually Aristotelian). 'Affirming the consequent' is the INVALID form 'P → Q; Q; therefore P' — a fallacy, not the given valid form."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The argument 'All humans are mortal; Socrates is a human; therefore Socrates is mortal' is valid.\nReason (R): It is a specific instance of the modus ponens form applied to categorical propositions.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — this is the classic textbook example of a valid syllogism. (R) is correct — treating 'All humans are mortal' as universal-instantiation gives 'if human then mortal', so applying to Socrates yields Socrates is mortal via modus ponens. (R) explains (A) directly. Option 2 wrongly denies the explanatory link. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Statement: A newspaper report claims that eating 3 servings of vegetables daily reduces the risk of heart disease.\n\nConclusions:\n(I) People should include vegetables in their daily diet.\n(II) Not eating vegetables directly causes heart disease.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "If vegetables REDUCE risk, it's a reasonable inference (a recommendation, not a certainty) that people should include vegetables in their diet — (I) is a valid takeaway. (II) confuses correlation/risk-reduction with direct causation of the opposite; the statement does not claim absence of vegetables CAUSES heart disease — many other factors contribute. Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Statement: The city administration has installed CCTV cameras in all major public places.\n\nConclusions:\n(I) The administration wants to improve public safety and monitoring.\n(II) There have been no crimes in the city since the installation.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "Installing CCTV in public places is a clear step toward monitoring and (assumed) safety — (I) follows as a reasonable inference. (II) is a far stronger claim than the installation supports; CCTV deters and helps investigate crimes but does not guarantee zero crimes since installation. Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Consider the following statement and conclusions:\n\nStatement: Every book that is popular has been translated into at least ten languages.\n\nConclusions:\n(I) Any book translated into fewer than ten languages is not popular.\n(II) Every book translated into at least ten languages is popular.\n(III) Popularity of a book depends on how many languages it is translated into.\n(IV) At least one popular book has been translated into more than one language.\n\nWhich of the conclusions given above follow(s) from the statement?",
+      "options": [
+        "(I) and (IV) only",
+        "(I) and (II) only",
+        "(I), (II) and (IV) only",
+        "(II), (III) and (IV) only"
+      ],
+      "correctAnswer": "(I) and (IV) only",
+      "explanation": "(I) is the contrapositive of the given implication (popular → translated ≥ 10 languages ⇒ ¬translated ≥ 10 → ¬popular) — valid. (IV) follows because 10 languages > 1 language, so every popular book is trivially in more than one language, so 'at least one' is guaranteed. (II) is the converse and does NOT follow — translation-count is a necessary condition for popularity per the statement, not a sufficient one. (III) makes a broader causal claim not supported. Hence only (I) and (IV) follow."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Statement: The Regional Transport Authority has fixed the maximum age of a commercial vehicle at 15 years for entry into the city.\n\nConclusions:\n(I) Older commercial vehicles are likely to contribute more to pollution.\n(II) The city is trying to reduce vehicular pollution.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Both (I) and (II) follow",
+      "explanation": "Restricting entry to newer commercial vehicles is a standard pollution-control tactic — the policy relies on the implicit assumption (I) that older vehicles are more polluting, and its intent is (II) to reduce vehicular pollution. Both are reasonable implicit assumptions/conclusions. Hence 'Only (I)', 'Only (II)' and 'Neither' are too narrow."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Statement: The examination will be conducted online only if the entire computer lab is functional.\n\nThe entire computer lab is not functional today.\n\nConclusion:",
+      "options": [
+        "The examination will be conducted offline",
+        "The examination cannot be conducted online today",
+        "The examination will be postponed",
+        "The examination will be cancelled"
+      ],
+      "correctAnswer": "The examination cannot be conducted online today",
+      "explanation": "'Online only if entire lab is functional' means 'online → lab is functional'. By modus tollens, 'lab not functional' ⇒ 'not online today'. So the online mode is ruled out today — (II) 'The examination cannot be conducted online today' follows. 'Offline conduct' or 'postponement' or 'cancellation' are three possible fallback plans, but the statement doesn't specify which fallback is chosen — those options overreach."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Statement: The government has doubled the budget for rural healthcare.\n\nConclusions:\n(I) Rural healthcare will improve significantly.\n(II) The government now has more money available for rural healthcare than before.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "'Doubling the budget' directly means more money is allocated — (II) is a straightforward restatement. (I) predicts SIGNIFICANT improvement, which depends on how effectively the money is used — the statement does not guarantee the outcome will improve; poor implementation could nullify the benefit. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Which of the following conclusions can logically be drawn from the statement 'Everyone who passes the driving test receives a driving license'?\n\n(i) People who pass the driving test have a driving license.\n(ii) People who have a driving license have passed the driving test.\n(iii) Anyone who has failed the driving test does not have a driving license.\n(iv) There exists at least one person with a driving license.\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) is a direct restatement — passers get licenses, so passers HAVE licenses. (ii) is the converse — having a license doesn't require passing this test (some might have received a license before this test existed, or through another route). (iii) confuses failing this test with not having a license by any means — the person could have a license issued elsewhere. (iv) is an existential claim not entailed by 'everyone who passes' — the class of passers might be empty. Hence only (i) definitely follows."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From 'Some students are athletes' and 'All athletes are hardworking', we can conclude that 'Some students are hardworking'.\nReason (R): The conclusion is a valid syllogistic inference derived by transitivity through the middle term.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the student-athletes must be hardworking, so some students are hardworking. (R) is correct — 'athletes' is the middle term, connecting the two premises, and the syllogism follows the classical Darii-family pattern (Some students are athletes; All athletes are hardworking ⇒ Some students are hardworking). (R) explains (A) directly. Option 2 wrongly denies the explanatory link. Options 3 and 4 wrongly deny (A) or (R)."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Statement: A study found that people who exercise regularly report higher levels of happiness.\n\nConclusions:\n(I) Exercising causes happiness.\n(II) There is an association between regular exercise and higher reported happiness.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "A study finding an association is exactly what (II) states — a direct reading. (I) makes a causal claim, but 'reported higher levels' is only an association / correlation; the direction of causation might be reversed (happier people may exercise more) or a third variable may explain both. Statistical association alone does not establish causation. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Match the following logical relationships with examples:\n\nColumn I:\n(a) Necessary condition\n(b) Sufficient condition\n(c) Necessary AND sufficient condition\n(d) Neither necessary nor sufficient condition\n\nColumn II:\n(i) 'Presence of oxygen' for 'combustion to occur' — combustion cannot happen without oxygen, but oxygen alone is not enough\n(ii) 'Being a mother' for 'being a female' — every mother is female, but not every female is a mother\n(iii) 'A polygon with 4 equal sides AND 4 right angles' for 'being a square' — equivalent by definition\n(iv) 'Wearing a red shirt' for 'winning a chess match' — no logical connection\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "explanation": "Oxygen is necessary (without oxygen, no combustion) but not sufficient (needs fuel and heat too) → (a)-(i). Being a mother is sufficient for being female (every mother IS female), but not necessary (many females are not mothers) → (b)-(ii). A polygon with 4 equal sides AND 4 right angles is EXACTLY the definition of a square → both necessary and sufficient → (c)-(iii). Wearing a red shirt has no bearing on winning chess — neither necessary nor sufficient → (d)-(iv). The distractor (a)-(iii) misclassifies a definition (biconditional) as necessary. (b)-(iv) puts unrelated conditions as sufficient. (a)-(ii) confuses necessary with sufficient."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Statement: All engineers must have studied mathematics.\n\nConclusions:\n(I) Someone who has not studied mathematics is not an engineer.\n(II) Someone who has studied mathematics is an engineer.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "'All engineers → studied math' contrapositive is 'did not study math → not an engineer' — this is (I), which follows. (II) is the CONVERSE and does not follow — many math students are not engineers (they could be teachers, statisticians, physicists, etc.). Hence 'Only (II)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "The __________ of an implication 'If P then Q' is the statement 'If not-P then not-Q'.",
+      "options": [
+        "converse",
+        "inverse",
+        "contrapositive",
+        "biconditional"
+      ],
+      "correctAnswer": "inverse",
+      "explanation": "The inverse of 'P → Q' is '¬P → ¬Q' — negating both parts without swapping. The converse is 'Q → P' (swapping without negation). The contrapositive is '¬Q → ¬P' (both negating AND swapping — this is the only logical equivalent of the original). The biconditional is 'P ↔ Q' — implication in both directions."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Statement: The metro service in the city was disrupted for two hours due to a technical fault.\n\nConclusions:\n(I) Many commuters faced inconvenience during those two hours.\n(II) The metro service is completely reliable.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows",
+        "Only conclusion (II) follows",
+        "Only conclusion (I) follows"
+      ],
+      "correctAnswer": "Only conclusion (I) follows",
+      "explanation": "A metro disruption of 2 hours would naturally inconvenience many commuters who depend on it — (I) follows as a reasonable inference. (II) is directly contradicted by the existence of the very disruption described — a 'completely reliable' service would not experience a technical fault. Hence 'Both', 'Neither' and 'Only (II)' are wrong."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Statement: A politician says: 'If we invest in education, our economy will grow.'\n\nSuppose the economy is not growing. What can be inferred from the politician's statement?",
+      "options": [
+        "We have not invested in education",
+        "We have invested in education",
+        "The politician was lying",
+        "Nothing can be inferred"
+      ],
+      "correctAnswer": "We have not invested in education",
+      "explanation": "The politician's statement is 'Invest in education → Economy grows'. If the economy is NOT growing (¬Q), by modus tollens the investment did not happen (¬P) — so 'We have not invested in education' follows. 'We have invested' contradicts modus tollens. 'The politician was lying' is a personal attack not supported by the statement. 'Nothing can be inferred' is too weak — the contrapositive gives us a definite inference."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Consider the following statement and conclusions:\n\nStatement: The company is providing free training courses to employees in the latest AI tools.\n\nConclusions:\n(I) The company believes AI skills are important for its future.\n(II) All employees will become AI experts after the training.\n(III) The company wants to reduce employee turnover.\n(IV) The company has some budget for employee training.\n\nWhich of the conclusions given above follow(s) from the statement?",
+      "options": [
+        "(I) and (IV) only",
+        "(I), (II) and (III) only",
+        "(I) and (II) only",
+        "(II), (III) and (IV) only"
+      ],
+      "correctAnswer": "(I) and (IV) only",
+      "explanation": "(I) follows implicitly — offering AI training suggests the company deems these skills useful. (IV) follows — providing courses requires some financial capacity for training. (II) is too strong — training doesn't guarantee expert-level mastery. (III) is speculation — training may improve retention but is not the ONLY possible motive; the primary motive stated is skill development. Hence only (I) and (IV) follow."
+    },
+    {
+      "id": "41",
+      "subject": "A",
+      "questionText": "Statement: If a person practices meditation regularly, they generally report reduced stress levels.\n\nConclusions:\n(I) Regular meditation is guaranteed to eliminate all stress.\n(II) There is a positive association between regular meditation and reduced stress.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (II) follows",
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The statement uses 'generally' — a hedged word implying a general trend/association, not an absolute rule. So (II) follows as a mild association claim. (I) uses 'guaranteed' and 'all stress' — vastly stronger than 'generally report reduced'. Absolute elimination of stress is not implied. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "Which of the following pairs are correctly labelled as logical fallacies?\n\n(i) 'Since correlation exists, one must cause the other.' — post hoc ergo propter hoc / false cause\n(ii) 'The politician's plan must be wrong because he is short.' — ad hominem\n(iii) 'Either we cut all social spending or the country will collapse.' — false dilemma\n(iv) 'Modus tollens: If P then Q; not Q; therefore not P.' — a logical fallacy\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is post hoc / false cause — correctly identified. (ii) is ad hominem (attacking the person, not argument) — correctly identified. (iii) is false dilemma — presenting only two options as if exhaustive. (iv) is INCORRECT — modus tollens is a VALID argument form, not a fallacy. The fallacy version is 'denying the antecedent' or 'affirming the consequent'. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Statement: According to a survey, 40% of the households in the city use solar water heaters.\n\nConclusion:",
+      "options": [
+        "60% of households use gas geysers",
+        "60% of households do NOT use solar water heaters",
+        "All households in the city are environmentally conscious",
+        "Solar water heaters are cheaper than electric heaters"
+      ],
+      "correctAnswer": "60% of households do NOT use solar water heaters",
+      "explanation": "40% use solar → 60% do NOT use solar. That is a direct arithmetic complement and follows. '60% use gas geysers' is not implied — the 60% could be using electric heaters, no heater at all, or other means. 'All are environmentally conscious' is far too strong. 'Solar cheaper than electric' is a price comparison the statement does not touch."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Statement: All members of a certain club are lawyers or doctors, and Mr. Ram is a member of that club but he is not a doctor.\n\nConclusion:",
+      "options": [
+        "Mr. Ram is a lawyer",
+        "Mr. Ram is neither a lawyer nor a doctor",
+        "Mr. Ram is both a lawyer and a doctor",
+        "The information is inconsistent"
+      ],
+      "correctAnswer": "Mr. Ram is a lawyer",
+      "explanation": "The premise gives us: for every member, that person is a lawyer OR a doctor. Mr. Ram is a member and is not a doctor. By disjunctive syllogism (P or Q; not Q; therefore P), Mr. Ram must be a lawyer. 'Neither' contradicts the premise that a member is one of the two. 'Both' is possible but not forced — being a lawyer is the minimum forced conclusion; the premise does not exclude the possibility, but the specific certain conclusion is 'lawyer'. 'Inconsistent' is wrong — the information is fully consistent."
+    },
+    {
+      "id": "45",
+      "subject": "A",
+      "questionText": "Consider the following statements about drawing inferences:\n\n(i) A weaker conclusion can be drawn from a stronger premise.\n(ii) A stronger conclusion cannot be drawn from a weaker premise.\n(iii) Affirming the consequent is a valid logical operation.\n(iv) Modus ponens allows us to derive the consequent when the antecedent is asserted.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct — 'all' implies 'some', so a weaker particular can be drawn from a stronger universal. (ii) is correct — one cannot leap from a particular claim to a universal claim without extra information. (iv) is correct — modus ponens (P → Q; P; therefore Q) is a foundational valid inference. (iii) is INCORRECT — affirming the consequent (P → Q; Q; therefore P) is a classic logical fallacy, NOT a valid operation. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Statement: A recent policy caps the number of stray dogs that can be housed in each city shelter to 100.\n\nConclusions:\n(I) The city has previously had more than 100 stray dogs in some shelters.\n(II) The policy aims to prevent overcrowding in shelters.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "Setting an upper cap of 100 is naturally read as an anti-overcrowding measure — (II) follows as the intended purpose. (I) speculates that shelters previously exceeded 100, but a cap can be introduced as a preventive measure even before overcrowding occurs. So (I) is not necessarily implied. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "47",
+      "subject": "A",
+      "questionText": "The 'if and only if' form of a statement represents:",
+      "options": [
+        "A one-way implication (from P to Q only)",
+        "A two-way implication (both P → Q and Q → P)",
+        "A negation of an implication",
+        "Neither implication nor equivalence"
+      ],
+      "correctAnswer": "A two-way implication (both P → Q and Q → P)",
+      "explanation": "'P if and only if Q' (P ↔ Q) means BOTH 'P → Q' and 'Q → P' hold — a biconditional / equivalence. Option 1 describes a one-way implication only, which is what 'if' alone would give. Option 3 (negation) is unrelated — biconditional is not a negation. Option 4 (neither) is wrong — biconditional IS an equivalence."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Statement: A researcher observes that in country X, wearing a wristband correlates strongly with owning a smartphone.\n\nConclusions:\n(I) Wearing a wristband causes people to buy smartphones.\n(II) The two behaviours are statistically associated in country X.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Both (I) and (II) follow",
+        "Only conclusion (II) follows",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The researcher's observation IS an association — that is exactly (II). (I) makes a causal claim (wristbands cause smartphone buying) — but correlation does not imply causation. Both behaviours could reflect a common driver like income or age group. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "49",
+      "subject": "A",
+      "questionText": "Statement: The library's new rule states: 'Members who return books late will pay a fine of ₹10 per day.'\n\nConclusions:\n(I) Some members have returned books late in the past.\n(II) The library allows members to borrow books.\n\nWhich of the conclusions follow(s) from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both (I) and (II) follow",
+        "Neither (I) nor (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The rule refers to members who 'return books' — this implicitly requires that the library lends books to be returned, so (II) follows. (I) is a historical claim that members HAVE returned late before — but a preventive rule can be introduced without any prior incidents. So (I) does not necessarily follow. Hence 'Only (I)', 'Both' and 'Neither' are wrong."
+    },
+    {
+      "id": "50",
+      "subject": "A",
+      "questionText": "Match the following premise-conclusion pairs with the logical status of the inference:\n\nColumn I:\n(a) 'All squares are rectangles. This shape is a square. Therefore, this shape is a rectangle.'\n(b) 'If it rains, roads are wet. The roads are wet. Therefore, it rained.'\n(c) 'All humans are mortal. Cats are not humans. Therefore, cats are not mortal.'\n(d) 'If P, then Q. Not Q. Therefore, not P.'\n\nColumn II:\n(i) Valid — modus tollens\n(ii) Valid — modus ponens\n(iii) Invalid — affirming the consequent\n(iv) Invalid — denying the antecedent\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) applies universal (P → Q) plus P to derive Q → modus ponens → (a)-(ii). (b) affirms the consequent (wet roads) to conclude the antecedent (rain) — a fallacy → (b)-(iii). (c) denies the antecedent — cats are not humans, so allegedly not mortal — a fallacy → (c)-(iv). (d) applies modus tollens (¬Q ⇒ ¬P) → (d)-(i). The distractor (a)-(iii) mislabels a valid modus ponens as a fallacy. (b)-(ii) mislabels a fallacy as valid. (a)-(iv) mislabels."
+    }
+  ]
+}
