@@ -1,0 +1,657 @@
+{
+  "subject": "D",
+  "topic": "Sentence & Paragraph Shuffling (Para Jumbles)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "The four sentences below, labelled (P), (Q), (R) and (S), have been jumbled. Arrange them in the correct logical order to form a coherent paragraph:\n\n(P) From there it spread across the British Empire during the nineteenth century.\n(Q) The game of cricket originated in south-east England in the sixteenth century.\n(R) Today it is followed by an estimated two and a half billion people worldwide.\n(S) By the eighteenth century it had developed into England's national sport.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "S-Q-P-R",
+        "Q-P-S-R",
+        "Q-S-R-P"
+      ],
+      "correctAnswer": "Q-S-P-R",
+      "explanation": "The paragraph is organised chronologically: (Q) gives the sixteenth-century origin and is the only self-contained opening, (S) advances to the eighteenth century, (P) moves to the nineteenth century, and (R) closes with the present day. 'S-Q-P-R' is wrong because it places the eighteenth century before the sixteenth-century origin, and (S)'s pronoun 'it' would then have no antecedent. 'Q-P-S-R' is wrong because it reverses the nineteenth and eighteenth centuries, so the game spreads abroad before it becomes England's national sport. 'Q-S-R-P' is wrong because it ends with the nineteenth-century expansion after the reference to 'today', breaking the forward movement of time."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about the technique of solving jumbled-paragraph questions:\n\n(i) A sentence that introduces a noun for the first time usually precedes the sentence that refers to it with a pronoun.\n(ii) A sentence beginning with a linking word such as 'however' or 'therefore' is normally the opening sentence of a paragraph.\n(iii) Chronological markers such as dates and words like 'later' help fix the relative order of sentences.\n(iv) The opening sentence generally states the topic in a self-contained way.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct because a pronoun needs an antecedent, so the full noun must appear first. Statement (iii) is correct because time markers place sentences relative to one another. Statement (iv) is correct because an opening sentence must make sense without depending on anything before it. Statement (ii) is incorrect and states the exact opposite of the truth: 'however' and 'therefore' link back to a preceding idea, so such a sentence almost never opens a paragraph. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "The sentence below has been split into four parts, labelled (A), (B), (C) and (D), and given in jumbled order. Choose the option that arranges them into a grammatically correct and meaningful sentence:\n\n(A) the volunteers distributed blankets and hot food\n(B) as soon as the relief train reached the flood-hit district\n(C) among the families sheltering on the embankment\n(D) who had lost their homes in the previous night's downpour\n\nThe correct sequence is:",
+      "options": [
+        "B-A-C-D",
+        "A-B-C-D",
+        "B-C-A-D",
+        "A-C-B-D"
+      ],
+      "correctAnswer": "B-A-C-D",
+      "explanation": "(B) is a subordinate clause of time that naturally opens the sentence, (A) supplies the main clause, (C) tells us to whom the relief was given, and (D) is a relative clause modifying 'families' in (C), so it must immediately follow it. 'A-B-C-D' is wrong because placing the main clause first leaves 'as soon as' stranded in the middle, breaking the sentence's logic. 'B-C-A-D' is wrong because it puts the prepositional phrase 'among the families' before the verb 'distributed', leaving the main clause without an object position. 'A-C-B-D' is wrong because it separates the relative clause (D) from 'families', so 'who had lost their homes' appears to modify 'district'."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match each discourse marker in Column I with the function it performs in Column II:\n\nColumn I:\n(a) Therefore\n(b) However\n(c) For instance\n(d) Meanwhile\n\nColumn II:\n(i) Introduces an example\n(ii) Signals a result or conclusion\n(iii) Indicates that two events are simultaneous\n(iv) Signals a contrast\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "'Therefore' draws a consequence, 'however' introduces a contrast, 'for instance' presents an illustration, and 'meanwhile' shows that something happens at the same time. The first option is wrong because it swaps 'therefore' and 'however', making a result marker signal contrast. The third option is wrong because it treats 'however' as an example-marker and 'for instance' as a contrast-marker, reversing their roles entirely. The fourth option is wrong because it interchanges 'for instance' and 'meanwhile', wrongly giving a time marker the job of introducing an example."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "In the following item, the first sentence (S1) and the last sentence (S6) are fixed. Arrange the four middle sentences, labelled (P), (Q), (R) and (S), in the correct order:\n\nS1: The Dal Lake has long been the most recognisable landmark of Srinagar.\nS6: Restoring it is therefore as much an economic necessity as an ecological one.\n\n(P) Encroachment along its banks steadily reduced its open water spread.\n(Q) In recent decades, however, the lake has come under severe stress.\n(R) Thousands of families depend on it for tourism, fishing and vegetable farming.\n(S) Untreated sewage from the surrounding city added to the damage.\n\nThe correct sequence for P, Q, R and S is:",
+      "options": [
+        "Q-R-P-S",
+        "P-S-Q-R",
+        "Q-P-S-R",
+        "R-Q-P-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) uses 'however' to turn from the lake's fame in S1 to its problems, so it must come first; (P) and (S) then give the two causes of that stress, with 'added to the damage' in (S) showing it follows (P); (R) introduces the economic dependence that S6 picks up with 'economic necessity'. 'Q-R-P-S' is wrong because it places the economic point before the causes, leaving S6's 'therefore' without the ecological damage immediately before it. 'P-S-Q-R' is wrong because it begins with a cause before the stress has been announced, and 'however' in (Q) would then contrast with nothing. 'R-Q-P-S' is wrong because starting with (R) breaks the direct link between S1's 'landmark' and the turn signalled by 'however'."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a jumbled paragraph, the sentence that introduces a person by full name normally comes before the sentence that refers to that person as 'he' or 'she'.\nReason (R): A pronoun requires an antecedent that the reader has already encountered in the text.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: because a pronoun is an anaphoric device that points back to a noun already supplied, the naming sentence must precede the pronoun sentence. The second option is wrong because the antecedent rule is the direct cause of the ordering, not an unrelated fact. The third option is wrong because (R) is a standard principle of reference in English. The fourth option is wrong because (A) is correct and is one of the most dependable clues in jumbled-paragraph questions."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Which of the following are reliable indications that a sentence is the OPENING sentence of a jumbled paragraph?\n\n(i) It introduces the main subject with an indefinite article or a full noun phrase.\n(ii) It begins with a conjunctive adverb such as 'consequently'.\n(iii) It makes complete sense on its own without depending on an earlier sentence.\n(iv) It states the general topic that the remaining sentences go on to develop.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Items (i), (iii) and (iv) are the three classic marks of an opening sentence: it names its subject freshly, it is self-contained, and it is general enough for the later sentences to elaborate. Item (ii) is the exception and in fact rules a sentence OUT as an opener, because 'consequently' announces a result of something stated earlier. Therefore the first option is wrong (it includes the conjunctive adverb and omits the general-topic feature), the second is wrong (it includes the conjunctive adverb and omits the article clue), and the fourth is wrong (it includes the conjunctive adverb and omits self-containedness)."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) They were then asked to describe what they had seen.\n(Q) A group of volunteers was shown a short film of a road accident.\n(R) The experiment showed how easily memory can be reshaped by language.\n(S) Those asked how fast the cars 'smashed' into each other reported higher speeds than those asked how fast they 'hit'.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "Q-P-S-R",
+        "P-Q-S-R",
+        "Q-P-R-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) sets up the experiment and supplies the antecedent for 'They' in (P); (P) describes the task; (S) reports the specific finding that arises from that task; (R) draws the general conclusion and so must close. 'Q-S-P-R' is wrong because the finding in (S) about how the question was worded cannot precede (P), which is where the questioning is first mentioned. 'P-Q-S-R' is wrong because it opens with 'They', a pronoun with no antecedent. 'Q-P-R-S' is wrong because it places the summarising conclusion (R) before the evidence (S) that supports it."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Read the four sentences given below. Which of them should come LAST in a coherent paragraph?\n\n(P) The committee examined the proposal over three long sittings.\n(Q) A proposal to widen the highway was placed before the municipal committee.\n(R) Several residents objected that the widening would destroy old roadside trees.\n(S) It was finally decided to reroute the road around the tree line instead.\n\nThe sentence that should come last is:",
+      "options": [
+        "Sentence (P)",
+        "Sentence (Q)",
+        "Sentence (R)",
+        "Sentence (S)"
+      ],
+      "correctAnswer": "Sentence (S)",
+      "explanation": "The correct order is Q-P-R-S: the proposal arrives, the committee examines it, residents object, and a decision is finally reached. (S) must be last because 'finally' marks a conclusion and the rerouting is a response to the objection in (R). 'Sentence (Q)' is wrong because it introduces the proposal with an indefinite article and is clearly the opener. 'Sentence (P)' is wrong because the examination of the proposal must follow its submission and precede the objections. 'Sentence (R)' is wrong because the objection creates the problem that (S) resolves, so a paragraph ending on (R) would leave the account unfinished."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "A sentence that begins with a pronoun whose antecedent has not yet been mentioned cannot be the __________ sentence of a paragraph.",
+      "options": [
+        "opening",
+        "concluding",
+        "supporting",
+        "illustrative"
+      ],
+      "correctAnswer": "opening",
+      "explanation": "An opening sentence must be self-contained, and a pronoun without a prior antecedent leaves the reader unable to identify what is being referred to, so such a sentence cannot come first. 'Concluding' is wrong because a closing sentence comes after several others and may freely use pronouns referring back to them. 'Supporting' is wrong for the same reason — a supporting sentence sits in the middle of a paragraph and normally does refer back. 'Illustrative' is wrong because an example sentence, typically introduced by 'for instance', also follows the idea it illustrates and can use pronouns."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Sericulture, the rearing of silkworms, is one such traditional occupation.\n(Q) Jammu and Kashmir has a long history of cottage industries.\n(R) The cocoons produced here are valued for their exceptionally fine filament.\n(S) It has been practised in the region for several centuries.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "P-Q-S-R",
+        "Q-P-S-R",
+        "Q-P-R-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) is the general opening statement about cottage industries; (P) narrows to one example, and its phrase 'one such traditional occupation' depends on (Q) for meaning; (S) begins with 'It', referring to sericulture in (P); (R) then adds a detail about the cocoons. 'Q-S-P-R' is wrong because 'It' in (S) would refer to 'cottage industries', a plural, and sericulture would not yet have been named. 'P-Q-S-R' is wrong because 'one such' in (P) has nothing to point back to at the start of a paragraph. 'Q-P-R-S' is wrong because it separates 'It' in (S) from its antecedent and ends on a vaguer sentence after a more specific one."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Consider the following statements about cohesion in a paragraph:\n\n(i) Demonstratives such as 'this' and 'these' normally point back to something already mentioned.\n(ii) Repetition of a key noun can serve as a link between two consecutive sentences.\n(iii) A pronoun and the noun it refers to must always appear within the same sentence.\n(iv) Synonyms and near-synonyms can be used to avoid repeating the same word.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because demonstratives are anaphoric and refer backwards. Statement (ii) is correct: lexical repetition is one of the commonest cohesive ties. Statement (iv) is correct because synonymy keeps the reference clear while avoiding monotony. Statement (iii) is incorrect: a pronoun very often refers to a noun in a PREVIOUS sentence, which is precisely what makes pronouns useful as ordering clues in jumbled paragraphs. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "The sentence below has been split into four parts given in jumbled order. Choose the option that arranges them into a grammatically correct and meaningful sentence:\n\n(A) because the monsoon had failed for the second year running\n(B) the farmers of the district\n(C) to switch from paddy to less water-intensive millets\n(D) were persuaded by the agriculture department\n\nThe correct sequence is:",
+      "options": [
+        "B-A-D-C",
+        "B-C-D-A",
+        "D-B-C-A",
+        "B-D-C-A"
+      ],
+      "correctAnswer": "B-D-C-A",
+      "explanation": "(B) is the subject, (D) supplies the passive verb with its agent, (C) is the infinitive complement of 'persuaded', and (A) is the causal clause that rounds off the sentence. 'B-A-D-C' is wrong because it inserts the 'because' clause between the subject and its verb, cutting the sentence in two. 'B-C-D-A' is wrong because the infinitive 'to switch' appears before the verb 'were persuaded' that governs it, leaving the subject without a finite verb. 'D-B-C-A' is wrong because opening with 'were persuaded' produces a verb with no subject before it, which is ungrammatical."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A sentence beginning with 'On the other hand' is unlikely to be the first sentence of a paragraph.\nReason (R): 'On the other hand' is a coordinating conjunction whose function is to join two clauses within a single sentence.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: 'On the other hand' sets one idea against another already stated, so it cannot open a paragraph. (R) is wrong on two counts — 'on the other hand' is a conjunctive adverb (a transitional phrase), not a coordinating conjunction like 'and' or 'but', and its role is to link a sentence to a PRECEDING sentence rather than to join clauses inside one sentence. The first and second options are wrong because both require (R) to be correct. The fourth option is wrong because (A) is a sound and widely used elimination rule."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Braille solved this problem by using patterns of raised dots that could be felt at a glance.\n(Q) Before the nineteenth century, books for blind readers used large embossed letters.\n(R) His system is now used in almost every written language in the world.\n(S) These were slow to read and extremely bulky to produce.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "S-Q-P-R",
+        "Q-P-S-R",
+        "P-Q-S-R"
+      ],
+      "correctAnswer": "Q-S-P-R",
+      "explanation": "(Q) sets the historical scene and supplies the antecedent for 'These' in (S); (S) states the drawbacks, which become 'this problem' in (P); (P) presents the solution and introduces 'Braille', whose name 'His' in (R) then picks up; (R) closes with the present-day outcome. 'S-Q-P-R' is wrong because 'These' would open the paragraph with no antecedent. 'Q-P-S-R' is wrong because 'this problem' in (P) would precede the statement of the problem in (S). 'P-Q-S-R' is wrong for the same reason and additionally strands 'His' in (R) far from the person it refers to."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Match each sentence in Column I with the function it performs within a paragraph:\n\nColumn I:\n(a) Reading habits among schoolchildren have changed sharply in the last decade.\n(b) For instance, many pupils now read serialised stories on mobile phones.\n(c) However, teachers report that sustained attention has declined.\n(d) Schools must therefore rethink how reading is taught.\n\nColumn II:\n(i) Offers a supporting example\n(ii) Introduces a contrasting observation\n(iii) States the topic of the paragraph\n(iv) Draws a concluding inference\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Sentence (a) makes a broad claim and is the topic sentence; (b) is signalled as an example by 'for instance'; (c) is marked as a contrast by 'however'; (d) is marked as an inference by 'therefore'. The first option is wrong because it treats the general topic sentence as an example and the example as the topic. The second option is wrong because it swaps (b) and (c), ignoring the explicit markers 'for instance' and 'however'. The fourth option is wrong because it makes the opening claim a conclusion and the 'therefore' sentence the topic, inverting the paragraph's structure."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Which of the following are connectors that express CONTRAST?\n\n(i) Nevertheless\n(ii) Whereas\n(iii) Furthermore\n(iv) On the contrary\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Nevertheless' concedes and then opposes, 'whereas' sets two facts against each other, and 'on the contrary' denies what has just been said — all three mark contrast. 'Furthermore' is the exception: it adds a further point of the SAME kind and therefore signals addition, not contrast. Consequently the first option is wrong (it includes 'furthermore' and omits 'on the contrary'), the second is wrong (it includes 'furthermore' and omits 'nevertheless'), and the third is wrong (it includes 'furthermore' and omits 'whereas')."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) The tunnel has cut the journey time between Jammu and Srinagar considerably.\n(Q) The Chenani-Nashri tunnel was opened to traffic in 2017.\n(R) It also allows traffic to avoid a stretch that was frequently blocked by snow.\n(S) At about nine kilometres, it was then the longest road tunnel in the country.\n\nThe correct sequence is:",
+      "options": [
+        "Q-P-S-R",
+        "Q-S-P-R",
+        "S-Q-P-R",
+        "Q-S-R-P"
+      ],
+      "correctAnswer": "Q-S-P-R",
+      "explanation": "(Q) names the tunnel and dates it, so it is the only possible opener; (S) adds its physical description, with 'it' referring to the tunnel; (P) states the main benefit; (R) begins with 'also', which must follow a first benefit, so it comes after (P). 'Q-P-S-R' is wrong because it drops the descriptive detail between the two benefits, awkwardly separating (P) from the 'also' in (R). 'S-Q-P-R' is wrong because 'it' in (S) would have no antecedent at the start. 'Q-S-R-P' is wrong because 'also' in (R) would then introduce the first benefit mentioned, which the word cannot do."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Consider the following statements about ordering sentences in a narrative paragraph:\n\n(i) Events in a narrative are normally presented in the order in which they occurred.\n(ii) Expressions such as 'the following morning' fix a sentence in relation to another sentence.\n(iii) A sentence stating the outcome of an action usually precedes the sentence describing that action.\n(iv) Past perfect forms such as 'had reached' can indicate an event earlier than the one just described.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because narrative normally follows chronology. Statement (ii) is correct because such phrases are relative time markers and are meaningless without a preceding reference point. Statement (iv) is correct: the past perfect signals an event prior to another past event, a valuable ordering clue. Statement (iii) is incorrect and reverses cause and effect — an outcome logically FOLLOWS the action that produces it. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Read the four sentences given below. Which of them should come FIRST in a coherent paragraph?\n\n(P) This spice is harvested from the crimson stigmas of a purple crocus flower.\n(Q) Each flower yields only three stigmas, which must be picked by hand.\n(R) Saffron is among the most expensive agricultural products in the world.\n(S) That is why a single kilogram requires the flowers of an entire field.\n\nThe sentence that should come first is:",
+      "options": [
+        "Sentence (P)",
+        "Sentence (Q)",
+        "Sentence (R)",
+        "Sentence (S)"
+      ],
+      "correctAnswer": "Sentence (R)",
+      "explanation": "The correct order is R-P-Q-S. (R) must open because it names 'saffron' in full and states the general point; every other sentence depends on it. 'Sentence (P)' is wrong because 'This spice' is a demonstrative reference that needs saffron to have been named already. 'Sentence (Q)' is wrong because 'Each flower' presupposes the crocus flower introduced in (P). 'Sentence (S)' is wrong because 'That is why' announces a conclusion drawn from the preceding facts, which makes it the natural closing sentence rather than the opening one."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a jumbled paragraph, a sentence containing the phrase 'such measures' is unlikely to come before the sentence that lists the measures.\nReason (R): English paragraphs are conventionally organised in a general-to-specific pattern.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are individually true, but (R) does not explain (A). The real reason for (A) is that 'such measures' is an anaphoric expression which needs a specific antecedent already supplied; the ordering follows from the rules of reference, not from any general-to-specific convention. The first option is wrong because it treats an unrelated stylistic convention as the cause. The third option is wrong because the general-to-specific pattern is indeed a genuine feature of English paragraphs. The fourth option is wrong because (A) is a correct and useful elimination rule."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Its leaves are used to wrap food in many parts of Asia.\n(Q) The banana plant is often described as the most useful plant in the tropics.\n(R) Almost every part of it serves some human purpose.\n(S) Even its fibrous stem is processed into rope and coarse paper.\n\nThe correct sequence is:",
+      "options": [
+        "Q-P-R-S",
+        "Q-S-P-R",
+        "R-Q-P-S",
+        "Q-R-P-S"
+      ],
+      "correctAnswer": "Q-R-P-S",
+      "explanation": "(Q) opens by naming the plant and making the general claim; (R) restates that claim as a testable proposition about 'every part'; (P) and (S) then give two illustrations of parts being used, with 'Even' in (S) marking it as the more surprising and therefore later example. 'Q-P-R-S' is wrong because the general statement in (R) would appear after one of its own illustrations. 'Q-S-P-R' is wrong because 'Even' in (S) cannot introduce the first example, and (R) would then follow both examples it is meant to introduce. 'R-Q-P-S' is wrong because 'it' in (R) would open the paragraph with no antecedent."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The sentence below has been split into four parts given in jumbled order. Choose the option that arranges them into a grammatically correct and meaningful sentence:\n\n(A) which had been lying unused for nearly a decade\n(B) the district administration decided to convert\n(C) into a public library and reading room\n(D) the old tehsil building\n\nThe correct sequence is:",
+      "options": [
+        "B-D-A-C",
+        "B-A-D-C",
+        "D-A-B-C",
+        "B-D-C-A"
+      ],
+      "correctAnswer": "B-D-A-C",
+      "explanation": "(B) gives the subject and verb, (D) is the object of 'convert', (A) is a relative clause that must sit immediately after the noun it describes, and (C) completes the 'convert ... into ...' construction. 'B-A-D-C' is wrong because the relative clause 'which had been lying unused' would then modify 'convert', leaving it without a noun to describe. 'D-A-B-C' is wrong because it places the object before the subject and verb, producing a fragment. 'B-D-C-A' is wrong because it separates the relative clause from 'building', so the clause appears to describe the library and reading room instead."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Match each discourse marker in Column I with the relationship it signals in Column II:\n\nColumn I:\n(a) In addition\n(b) As a result\n(c) In contrast\n(d) To begin with\n\nColumn II:\n(i) Opening item in a sequence\n(ii) Difference between two ideas\n(iii) Further point of the same kind\n(iv) Effect produced by a cause\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "'In addition' adds another point of the same kind, 'as a result' states an effect, 'in contrast' marks a difference, and 'to begin with' opens a list. The first option is wrong because it swaps 'in addition' and 'in contrast', making an additive marker signal difference. The second option is wrong because it treats 'as a result' as a contrast marker and 'in contrast' as a cause-effect marker, reversing both. The fourth option is wrong because it makes 'in addition' express effect and 'as a result' express mere addition, which loses the causal force of the latter."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Consider the following statements about a well-constructed paragraph:\n\n(i) It deals with a single central idea.\n(ii) Every sentence in it contributes to that central idea.\n(iii) A paragraph must contain at least one direct quotation to be considered complete.\n(iv) Its sentences are arranged in a logical rather than a random order.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i) and (ii) together describe the principle of unity, and statement (iv) describes coherence — the two qualities that define a well-made paragraph. Statement (iii) is incorrect: a direct quotation is an optional stylistic device, and countless perfectly complete paragraphs contain none at all. Every option containing (iii) — the first, third and fourth — is therefore wrong, and each of them also drops one of the three genuine requirements."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) The idea was dismissed as impractical by most engineers of the day.\n(Q) In 1876 a young teacher of the deaf patented a device for transmitting speech electrically.\n(R) Within twenty years, however, telephone exchanges had opened in every major city.\n(S) They argued that nobody would pay to speak to a person he could not see.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "Q-R-P-S",
+        "P-S-Q-R",
+        "Q-P-S-R"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) supplies the event and the antecedent for 'The idea' in (P); (P) reports the engineers' dismissal and supplies the antecedent for 'They' in (S); (S) gives their argument; (R) uses 'however' to reverse that scepticism and so must close. 'Q-S-P-R' is wrong because 'They' in (S) would precede the mention of the engineers in (P). 'Q-R-P-S' is wrong because 'however' in (R) would contrast with nothing, as the scepticism has not yet been stated. 'P-S-Q-R' is wrong because 'The idea' would open the paragraph with no idea yet introduced."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Which of the following are valid grounds for concluding that a given sentence cannot begin a paragraph?\n\n(i) It opens with the demonstrative 'those' referring to items not yet named.\n(ii) It opens with the conjunctive adverb 'thus'.\n(iii) It introduces a person by full name and designation.\n(iv) It opens with the phrase 'a second difficulty'.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Items (i), (ii) and (iv) all show dependence on earlier text: 'those' needs an antecedent, 'thus' announces a consequence of something already said, and 'a second difficulty' presupposes that a first difficulty has been described. Item (iii) is the opposite — naming a person in full for the first time is a hallmark of an OPENING sentence, not a reason to reject it. Hence the second option is wrong (it includes the full-name clue and omits 'a second difficulty'), the third is wrong (it includes the full-name clue and omits 'those'), and the fourth is wrong (it includes the full-name clue and omits 'thus')."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Wetlands act as natural sponges during heavy rainfall.\n(Q) They soak up excess water and release it slowly over the following weeks.\n(R) Draining them for construction therefore increases the risk of urban flooding.\n(S) This steady release also recharges the groundwater beneath the city.\n\nThe correct sequence is:",
+      "options": [
+        "P-Q-R-S",
+        "Q-P-S-R",
+        "P-Q-S-R",
+        "P-S-Q-R"
+      ],
+      "correctAnswer": "P-Q-S-R",
+      "explanation": "(P) opens with the metaphor and names 'wetlands', giving 'They' in (Q) its antecedent; (Q) explains the sponge action and introduces the slow release that 'This steady release' in (S) picks up; (R) begins with 'therefore' and draws the conclusion, so it must come last. 'P-Q-R-S' is wrong because the concluding inference in (R) would precede the additional benefit in (S). 'Q-P-S-R' is wrong because 'They' would open the paragraph without an antecedent. 'P-S-Q-R' is wrong because 'This steady release' in (S) would appear before the release is described in (Q)."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The last sentence of a jumbled paragraph can always be identified because it is the longest of the sentences given.\nReason (R): The concluding sentence of a paragraph often contains a summarising expression such as 'thus' or 'in short'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: summarising expressions are a genuine and useful signal of a closing sentence. (A) is wrong because sentence length has nothing to do with position — concluding sentences are frequently the shortest and crispest in a paragraph, and relying on length is a common source of error. The first and second options are wrong because both require (A) to be correct. The third option is wrong because it denies (R), which is in fact the sound half of this pair."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) A single such tree can support hundreds of species of insects and birds.\n(Q) Old trees are far more valuable to a city than newly planted saplings.\n(R) Replacing one felled banyan with ten saplings is therefore a poor bargain.\n(S) Their broad canopies also cool the surrounding air far more effectively.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "Q-P-S-R",
+        "P-Q-S-R",
+        "Q-P-R-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) states the claim and supplies the antecedent for 'such a tree' in (P); (P) gives the first reason; (S) adds a second reason, marked by 'also'; (R) begins with 'therefore' and draws the conclusion, so it closes. 'Q-S-P-R' is wrong because 'also' in (S) cannot introduce the first reason offered. 'P-Q-S-R' is wrong because 'A single such tree' presupposes the old trees named in (Q). 'Q-P-R-S' is wrong because the conclusion in (R) would come before the second supporting reason in (S), leaving 'also' dangling after the inference."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about the use of articles as a clue in jumbled paragraphs:\n\n(i) A noun introduced for the first time usually takes the indefinite article 'a' or 'an'.\n(ii) When the same noun is mentioned again, it usually takes the definite article 'the'.\n(iii) A sentence containing 'the said proposal' is likely to precede the sentence that first introduces a proposal.\n(iv) The definite article is also used with a noun that is unique or already familiar to the reader.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i) and (ii) together describe the standard first-mention/second-mention pattern that makes articles such a dependable ordering clue, and statement (iv) correctly notes the other main use of 'the'. Statement (iii) is incorrect and inverts the rule: 'the said proposal' is an explicit back-reference, so that sentence must FOLLOW, not precede, the sentence introducing the proposal. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "The sentence below has been split into four parts given in jumbled order. Choose the option that arranges them into a grammatically correct and meaningful sentence:\n\n(A) after the results of the pilot survey were examined\n(B) to extend the scheme to twelve more villages\n(C) the state government announced its decision\n(D) in the three least developed blocks of the district\n\nThe correct sequence is:",
+      "options": [
+        "C-A-B-D",
+        "A-B-C-D",
+        "A-C-B-D",
+        "A-B-D-C"
+      ],
+      "correctAnswer": "A-C-B-D",
+      "explanation": "(A) is an introductory time clause, (C) supplies the main clause, (B) is the infinitive phrase completing the noun 'decision', and (D) is the place phrase modifying 'villages'. 'A-B-C-D' is wrong because the infinitive 'to extend' would precede the noun 'decision' that it complements, so it would appear to depend on 'were examined' instead. 'A-B-D-C' is wrong for the same reason and additionally pushes the main clause to the very end, leaving the sentence without a finite verb for most of its length. 'C-A-B-D' is wrong because inserting the 'after' clause between 'decision' and 'to extend' cuts the noun off from its own complement."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "In each pair below, two sentences of a paragraph are given. Match each pair in Column I with the correct account of their relative order in Column II:\n\nColumn I:\n(a) (1) The scheme was launched in 2019. (2) A pilot project for solar pumps was drawn up in 2018.\n(b) (1) Farmers were given a subsidy of sixty per cent. (2) Many of them could not afford the pumps outright.\n(c) (1) The results were encouraging. (2) Diesel use fell by nearly half in the very first year.\n(d) (1) Such savings convinced even the sceptics. (2) Each farmer saved about twelve thousand rupees a year.\n\nColumn II:\n(i) (2) before (1), because (2) states the need that (1) meets\n(ii) (2) before (1), because (1) refers back to (2) with 'such'\n(iii) (2) before (1), because (2) is earlier in time\n(iv) (1) before (2), because (2) supplies the evidence for (1)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "In (a) the 2018 pilot must precede the 2019 launch, so chronology decides it; in (b) the inability to pay is the need that the subsidy answers; in (c) the general verdict comes first and the figure then justifies it; in (d) 'Such savings' is a back-reference to the amount stated. The first option is wrong because it swaps (b) and (c), treating the subsidy as evidence for a need. The second option is wrong because it applies the need-based reason to the dated pair, ignoring the years given. The third option is wrong because it assigns the 'such' back-reference to the subsidy pair, in which the word 'such' does not occur at all."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Most of this waste is neither collected nor treated.\n(Q) Indian cities generate well over a lakh tonnes of solid waste every day.\n(R) Segregating waste at the household level is the cheapest way to begin.\n(S) It ends up instead in open dumps at the edge of the city.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "Q-P-S-R",
+        "P-Q-S-R",
+        "Q-R-P-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) states the quantity and gives 'this waste' in (P) its antecedent; (P) identifies the failure; (S) says where the waste goes instead, so it depends directly on (P); (R) proposes a remedy and rounds off the paragraph. 'Q-S-P-R' is wrong because 'instead' in (S) has nothing to contrast with until the failure in (P) is stated. 'P-Q-S-R' is wrong because 'this waste' would open the paragraph before any waste is mentioned. 'Q-R-P-S' is wrong because the remedy in (R) would be offered before the problem it addresses has been described."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Which of the following are sentences that could logically follow the sentence 'The district library remained closed for three months'?\n\n(i) Readers had to borrow books from a temporary counter in the corridor.\n(ii) The delay was caused by repairs to the leaking roof.\n(iii) A library is a building in which books are kept for reading.\n(iv) When it reopened in March, membership had fallen by a third.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Items (i), (ii) and (iv) all develop the given sentence: (i) states a consequence for readers, (ii) supplies the cause of the closure, and (iv) carries the account forward to the reopening. Item (iii) is the exception: it is a dictionary-style definition of 'library' that adds nothing to the topic and would strike the reader as an abrupt change of register, breaking the paragraph's unity. Hence the second option is wrong (it includes the definition and omits the reopening), the third is wrong (it includes the definition and omits the consequence for readers), and the fourth is wrong (it includes the definition and omits the cause)."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Consider the following statements about the topic sentence of a paragraph:\n\n(i) It expresses the main idea that the rest of the paragraph develops.\n(ii) It is most commonly placed at the beginning of the paragraph.\n(iii) It must always be the shortest sentence in the paragraph.\n(iv) It may occasionally be placed at the end for emphasis.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is the definition of a topic sentence, statement (ii) describes its usual position, and statement (iv) correctly allows for the emphatic end position found in much persuasive writing. Statement (iii) is incorrect: there is no rule about length, and a topic sentence is often a fairly full statement because it has to cover the whole paragraph. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) He spent the next eleven years mapping the coastline on foot.\n(Q) In 1802 a young surveyor set out from a point near Madras.\n(R) The map he finally produced remained in use for more than a century.\n(S) His instructions were to measure the length of the Indian peninsula.\n\nThe correct sequence is:",
+      "options": [
+        "Q-P-S-R",
+        "S-Q-P-R",
+        "Q-S-R-P",
+        "Q-S-P-R"
+      ],
+      "correctAnswer": "Q-S-P-R",
+      "explanation": "(Q) introduces the surveyor with an indefinite article and dates the start, so it opens; (S) states his brief, with 'His' referring back to him; (P) narrates the years of work; (R) records the lasting outcome and closes. 'Q-P-S-R' is wrong because the eleven years of work would be described before we learn what he was sent to do. 'S-Q-P-R' is wrong because 'His' in (S) would have no antecedent at the start of the paragraph. 'Q-S-R-P' is wrong because it places the finished map before the work of making it, reversing cause and result."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) A shepherd noticed that his goats grew lively after chewing certain red berries.\n(Q) The story of coffee is usually traced to the highlands of Ethiopia.\n(R) From Arabia the drink travelled onward to Turkey and then to Europe.\n(S) Monks at a nearby monastery boiled the berries to stay awake during long prayers.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "Q-P-S-R",
+        "P-Q-S-R",
+        "Q-P-R-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) establishes the place and topic; (P) begins the legend with the shepherd, and 'a nearby monastery' in (S) depends on that location; (S) continues the legend; (R) traces the later spread and so must close. 'Q-S-P-R' is wrong because the monks boil 'the berries' before the berries have been mentioned in (P). 'P-Q-S-R' is wrong because it opens with the shepherd before the subject of coffee has been introduced, leaving the paragraph without a topic sentence. 'Q-P-R-S' is wrong because the spread to Europe in (R) would interrupt the Ethiopian legend, with (S) returning to the monastery afterwards."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A sentence beginning with 'These findings' cannot be the opening sentence of a paragraph.\nReason (R): The demonstrative 'these' is an anaphoric reference that requires an antecedent in an earlier sentence.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is precisely the reason for (A): since 'these' points back to findings that must already have been reported, no such sentence can stand at the head of a paragraph. The second option is wrong because the anaphoric nature of the demonstrative is the direct cause, not a separate observation. The third option is wrong because (R) correctly describes how demonstratives work. The fourth option is wrong because (A) is correct and is one of the quickest ways to eliminate wrong options in these questions."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Handloom weaving in the region is still largely a household activity.\n(Q) Younger weavers, however, are leaving the craft for better-paid work.\n(R) Every member of the family takes part in some stage of the process.\n(S) Unless wages improve, the skill may not survive another generation.\n\nThe correct sequence is:",
+      "options": [
+        "P-Q-R-S",
+        "P-R-S-Q",
+        "P-R-Q-S",
+        "R-P-Q-S"
+      ],
+      "correctAnswer": "P-R-Q-S",
+      "explanation": "(P) opens with the general description of weaving as a household activity; (R) elaborates on that household character by describing the family's role; (Q) then uses 'however' to introduce the threat; (S) states the consequence and closes. 'P-Q-R-S' is wrong because (R)'s elaboration of family involvement would follow the contrast in (Q), leaving the 'however' contrast poorly placed. 'P-R-S-Q' is wrong because the warning in (S) would precede the problem in (Q) that causes it. 'R-P-Q-S' is wrong because 'Every member of the family' presupposes the household setting that (P) establishes."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Farmers there had traditionally stored rainwater in stepped tanks.\n(Q) The district was declared water-scarce in the early 1990s.\n(R) Reviving the old tanks has since restored irrigation to nearly six hundred hectares.\n(S) Many of these tanks had silted up and been forgotten.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "P-Q-S-R",
+        "Q-P-R-S",
+        "Q-P-S-R"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) opens by naming the district and the problem; (P) supplies the historical background and introduces the tanks; (S) refers to 'these tanks' and so must follow (P); (R) reports the revival and its result, closing the paragraph. 'Q-S-P-R' is wrong because 'these tanks' in (S) would appear before the tanks are mentioned in (P). 'P-Q-S-R' is wrong because 'Farmers there' needs the district established in (Q) before 'there' can mean anything. 'Q-P-R-S' is wrong because the revival in (R) would precede the account of the tanks falling into disuse, which is what made revival necessary."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Consider the following statements about connectors used between sentences:\n\n(i) 'Moreover' adds a further point in support of what has just been said.\n(ii) 'Hence' introduces a consequence of what has just been said.\n(iii) 'Likewise' introduces an idea that contradicts what has just been said.\n(iv) 'Meanwhile' indicates that two things happened at about the same time.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because 'moreover' is additive; statement (ii) is correct because 'hence' is resultative; statement (iv) is correct because 'meanwhile' marks simultaneity. Statement (iii) is incorrect: 'likewise' signals SIMILARITY, introducing a parallel case rather than a contradiction — the contradicting role belongs to words like 'conversely'. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "The sentence below has been split into four parts given in jumbled order. Choose the option that arranges them into a grammatically correct and meaningful sentence:\n\n(A) despite the disruption caused by unseasonal rain\n(B) the number of tourists visiting the valley\n(C) that fell in the months of July and August\n(D) rose to a record figure last year\n\nThe correct sequence is:",
+      "options": [
+        "B-D-A-C",
+        "B-A-D-C",
+        "D-B-A-C",
+        "B-D-C-A"
+      ],
+      "correctAnswer": "B-D-A-C",
+      "explanation": "(B) is the subject, (D) is its verb and complement, (A) is the concessive phrase, and (C) is a relative clause beginning with 'that' which can only modify 'rain', so it must follow (A) immediately. 'B-A-D-C' is wrong because inserting the concessive phrase between the subject and its verb leaves 'the number of tourists' without a predicate and also detaches 'that fell' from 'rain'. 'D-B-A-C' is wrong because it opens with the verb phrase, so 'rose' has no subject before it. 'B-D-C-A' is wrong because 'that fell in the months of July and August' would then modify 'a record figure', producing the nonsensical claim that the record figure fell."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Match each connector in Column I with the relationship it expresses in Column II:\n\nColumn I:\n(a) Because\n(b) Although\n(c) Finally\n(d) Similarly\n\nColumn II:\n(i) Comparison between two like things\n(ii) Reason or cause\n(iii) Concession or unexpected contrast\n(iv) Last item in a sequence\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "'Because' gives a reason, 'although' concedes a point that runs against the main clause, 'finally' closes a sequence, and 'similarly' draws a comparison. The first option is wrong because it swaps 'because' and 'although', so a causal conjunction would express concession. The second option is wrong because it treats 'although' as a comparison and 'similarly' as a concession, reversing both. The fourth option is wrong because it interchanges 'finally' and 'similarly', giving a sequence marker the work of comparison."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Its coat carries a pattern of rosettes that no two individuals share.\n(Q) The snow leopard is among the most elusive of the big cats of the Himalaya.\n(R) Even so, reliable estimates of its numbers remain very hard to obtain.\n(S) This allows researchers to identify particular animals from camera-trap photographs.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "Q-P-S-R",
+        "P-S-Q-R",
+        "Q-P-R-S"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "(Q) names the animal and states the general point, giving 'Its' in (P) an antecedent; (P) describes the unique coat; (S) begins with 'This', referring to that uniqueness, and states its usefulness; (R) begins with 'Even so' and qualifies that usefulness, so it must close. 'Q-S-P-R' is wrong because 'This' in (S) would point back to nothing identifiable. 'P-S-Q-R' is wrong because 'Its' would open the paragraph with no antecedent. 'Q-P-R-S' is wrong because 'Even so' in (R) would concede against the coat description rather than against the research benefit it is meant to qualify."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Consider the following statements about a sound strategy for answering jumbled-paragraph questions:\n\n(i) Identifying a mandatory pair of sentences that must stay together narrows the choices quickly.\n(ii) Eliminating options that begin with a dependent sentence is a useful first step.\n(iii) The correct sequence can be found reliably by arranging the sentences in order of increasing length.\n(iv) Reading the assembled paragraph once at the end helps confirm that it flows logically.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) describe the three steps that experienced candidates actually use: fix pairs, eliminate impossible openers, and verify by rereading. Statement (iii) is incorrect because sentence length bears no relation to logical order; sorting by length is an arbitrary rule that will fail on most passages. Every option containing (iii) — the first, second and third — is therefore wrong, and each also omits one of the three genuinely useful steps."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Which of the following are features of a well-ordered paragraph?\n\n(i) Unity of subject matter across its sentences\n(ii) Logical progression from one sentence to the next\n(iii) Frequent shifts of topic to hold the reader's interest\n(iv) Appropriate linking words between sentences\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Unity, logical progression and suitable linking words are the recognised marks of a well-ordered paragraph. Item (iii) is the opposite of a virtue: frequent shifts of topic destroy unity and confuse the reader, and a change of topic is conventionally the signal to start a NEW paragraph. Hence the first option is wrong (it includes topic-shifting and omits linking words), the second is wrong (it includes topic-shifting and omits unity), and the fourth is wrong (it includes topic-shifting and omits logical progression)."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) The earliest of them handled only a few quintals in a season.\n(Q) Saffron growers in the valley long depended on middlemen to reach distant markets.\n(R) Growers who sell through them now earn appreciably more than they once did.\n(S) Cooperative marketing societies were formed to reduce this dependence.\n\nThe correct sequence is:",
+      "options": [
+        "Q-S-P-R",
+        "S-Q-P-R",
+        "Q-P-S-R",
+        "Q-S-R-P"
+      ],
+      "correctAnswer": "Q-S-P-R",
+      "explanation": "(Q) states the original situation and supplies 'this dependence' in (S) with its antecedent; (S) introduces the cooperative societies, which 'them' in (P) and (R) refer to; (P) describes their modest beginnings; (R) reports the present benefit and closes. 'S-Q-P-R' is wrong because 'this dependence' would precede any mention of dependence. 'Q-P-S-R' is wrong because 'The earliest of them' would have no plural antecedent until the societies appear in (S). 'Q-S-R-P' is wrong because it moves from the present-day gain back to the early years, reversing the chronology."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Words and phrases such as 'firstly', 'next' and 'finally', which show the order in which points are presented, are known as __________ markers.",
+      "options": [
+        "contrast",
+        "sequence",
+        "emphasis",
+        "comparison"
+      ],
+      "correctAnswer": "sequence",
+      "explanation": "These expressions arrange points one after another and are therefore called sequence (or enumerative) markers. 'Contrast' is wrong because contrast markers such as 'however' and 'on the other hand' set ideas in opposition rather than in order. 'Emphasis' is wrong because emphasis markers such as 'indeed' and 'above all' stress importance, not position. 'Comparison' is wrong because comparison markers such as 'similarly' and 'likewise' point out resemblance between ideas, which is a different relationship altogether."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Arrange the following four sentences in the correct logical order to form a coherent paragraph:\n\n(P) Each entry had to be copied out by hand before it could be verified.\n(Q) Land records in the district were maintained in bound registers until 2015.\n(R) A single mutation case could therefore take several months to settle.\n(S) Digitisation has now reduced that period to a few days.\n\nThe correct sequence is:",
+      "options": [
+        "Q-R-P-S",
+        "P-Q-R-S",
+        "Q-P-S-R",
+        "Q-P-R-S"
+      ],
+      "correctAnswer": "Q-P-R-S",
+      "explanation": "(Q) describes the old system and dates it, so it opens; (P) explains the laborious procedure and gives 'Each entry' its context; (R) begins with 'therefore' and states the consequence of that procedure; (S) contrasts the present position and closes. 'Q-R-P-S' is wrong because 'therefore' in (R) would draw a conclusion before the copying procedure that causes the delay has been described. 'P-Q-R-S' is wrong because 'Each entry' presupposes the registers introduced in (Q). 'Q-P-S-R' is wrong because 'that period' in (S) refers to the several months named in (R), so (S) cannot precede (R)."
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "subject": "C",
+  "topic": "Time, Speed & Distance",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "A speed of 72 km/h expressed in metres per second is:",
+      "options": [
+        "18 m/s",
+        "20 m/s",
+        "24 m/s",
+        "25 m/s"
+      ],
+      "correctAnswer": "20 m/s",
+      "explanation": "To convert km/h into m/s, multiply by 5/18: 72 x 5/18 = 20 m/s. '18 m/s' is wrong because it comes from dividing 72 by 4, which corresponds to no valid conversion factor. '24 m/s' is wrong because it results from dividing by 3 instead of multiplying by 5/18. '25 m/s' is wrong because it is the conversion of 90 km/h, a common confusion when the factor 18/5 is applied in the wrong direction."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about the relationship between speed, distance and time:\n\n(i) When the distance is constant, speed and time are inversely proportional to each other.\n(ii) To convert a speed given in km/h into m/s, it must be multiplied by 18/5.\n(iii) The average speed of a journey is the total distance divided by the total time taken.\n(iv) When the speed is constant, the distance covered is directly proportional to the time taken.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct because distance = speed x time, so if distance is fixed, doubling the speed halves the time. Statement (iii) is correct as it is the definition of average speed. Statement (iv) is correct because with speed fixed, distance rises in direct proportion to time. Statement (ii) is incorrect: km/h is converted to m/s by multiplying by 5/18, whereas 18/5 is the factor for the reverse conversion from m/s to km/h. Hence the first and second options, which include (ii), are both wrong, and the third option is wrong because it needlessly omits the correct statement (iv)."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "A train 180 metres long passes an electric pole in 12 seconds. The speed of the train is:",
+      "options": [
+        "45 km/h",
+        "50 km/h",
+        "54 km/h",
+        "60 km/h"
+      ],
+      "correctAnswer": "54 km/h",
+      "explanation": "To pass a pole the train covers only its own length, so speed = 180/12 = 15 m/s, and 15 x 18/5 = 54 km/h. '45 km/h' is wrong because it corresponds to 12.5 m/s, which would need 14.4 seconds to cover 180 m. '50 km/h' is wrong because it equals about 13.9 m/s and would require nearly 13 seconds. '60 km/h' is wrong because it equals 16.67 m/s and would clear the pole in only 10.8 seconds."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Match each situation in Column I with the correct expression for the effective (relative) speed in Column II:\n\nColumn I:\n(a) Two trains moving in opposite directions\n(b) Two trains moving in the same direction\n(c) A boat moving downstream\n(d) A boat moving upstream\n\nColumn II:\n(i) Speed of boat in still water minus speed of stream\n(ii) Sum of the speeds of the two trains\n(iii) Speed of boat in still water plus speed of stream\n(iv) Difference of the speeds of the two trains\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Bodies approaching each other close the gap at the SUM of their speeds, so (a) pairs with (ii); bodies moving the same way close it at the DIFFERENCE, so (b) pairs with (iv). A boat going downstream is helped by the current, so its speed is the sum, giving (c)-(iii); going upstream it fights the current, giving (d)-(i). The second option is wrong because it interchanges the opposite-direction and same-direction cases, which would mean two trains rushing towards each other take longer to meet. The third option is wrong because it swaps downstream and upstream, implying the current slows a boat moving with it. The fourth option is wrong because it applies boat-and-stream formulae to trains and train formulae to boats."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "A man covers a certain distance from his village to the town at 6 km/h and returns along the same road at 4 km/h. His average speed for the entire journey is:",
+      "options": [
+        "4.8 km/h",
+        "5.0 km/h",
+        "5.2 km/h",
+        "4.5 km/h"
+      ],
+      "correctAnswer": "4.8 km/h",
+      "explanation": "Since the two equal distances are covered at different speeds, the average speed is the harmonic mean: 2 x 6 x 4 / (6 + 4) = 48/10 = 4.8 km/h. '5.0 km/h' is wrong because it is the simple arithmetic mean of 6 and 4, which would only be valid if equal TIMES (not equal distances) were spent at each speed. '5.2 km/h' is wrong because it exceeds even the arithmetic mean, which is impossible for equal distances. '4.5 km/h' is wrong because it understates the result; it does not follow from any correct averaging of 6 and 4."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A faster train takes longer to completely overtake a slower train running on a parallel track in the same direction than it takes to cross the same train when they move towards each other.\nReason (R): In the same direction the relative speed is the difference of the two speeds, whereas in opposite directions it is the sum of the two speeds.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is precisely why (A) holds. The distance to be covered (the sum of the two train lengths) is the same in both cases, so the time depends only on the relative speed; since the difference of two speeds is always smaller than their sum, the same-direction case takes longer. The second option is wrong because the relative-speed rule is the direct cause, not an unrelated fact. The third option is wrong because (R) is a standard and correct result of relative motion. The fourth option is wrong because (A) is correct, as can be checked with any numerical example."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Which of the following are equivalent to a speed of 36 km/h?\n\n(i) 10 m/s\n(ii) 600 metres per minute\n(iii) 36,000 metres per hour\n(iv) 6 m/s\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "36 km/h = 36 x 5/18 = 10 m/s, so (i) is equivalent; 10 m/s x 60 = 600 metres per minute, so (ii) is equivalent; and 36 km = 36,000 m covered in one hour, so (iii) is simply the same figure in different units. Item (iv) is not equivalent because 6 m/s corresponds to 6 x 18/5 = 21.6 km/h, not 36 km/h. Therefore the second option is wrong (it includes 6 m/s and omits the hourly form), the third option is wrong (it includes 6 m/s and omits 10 m/s), and the fourth option is wrong (it includes 6 m/s and omits the per-minute form)."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "A train running at a uniform speed of 60 km/h crosses a platform 200 metres long in 30 seconds. The length of the train is:",
+      "options": [
+        "250 metres",
+        "280 metres",
+        "300 metres",
+        "320 metres"
+      ],
+      "correctAnswer": "300 metres",
+      "explanation": "60 km/h = 60 x 5/18 = 16.67 m/s, so in 30 seconds the train covers 16.67 x 30 = 500 metres. While crossing a platform the train travels its own length plus the platform's length, so the train is 500 - 200 = 300 metres long. '250 metres' is wrong because it results from halving the 500 m total instead of subtracting the platform length. '280 metres' and '320 metres' are wrong because they correspond to total distances of 480 m and 520 m respectively, neither of which matches the 500 m actually covered in 30 seconds at this speed."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "If the speed of a boat in still water is 10 km/h and the speed of the stream is 2 km/h, then the downstream speed of the boat is __________ km/h.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "20"
+      ],
+      "correctAnswer": "12",
+      "explanation": "Downstream the current assists the boat, so downstream speed = speed in still water + speed of stream = 10 + 2 = 12 km/h. '8' is wrong because 10 - 2 gives the UPSTREAM speed, where the current opposes the boat. '10' is wrong because that is the still-water speed, which applies only when there is no current at all. '20' is wrong because it comes from multiplying the two speeds, an operation that has no meaning here since speeds in the same direction are added, not multiplied."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "The following data were recorded for four cyclists during a training session:\n\nCyclist A: distance 45 km, time 3.0 hours\nCyclist B: distance 52 km, time 4.0 hours\nCyclist C: distance 33 km, time 2.0 hours\nCyclist D: distance 60 km, time 5.0 hours\n\nWhich cyclist recorded the highest average speed?",
+      "options": [
+        "Cyclist A",
+        "Cyclist B",
+        "Cyclist C",
+        "Cyclist D"
+      ],
+      "correctAnswer": "Cyclist C",
+      "explanation": "Average speed = distance / time: A = 45/3 = 15 km/h, B = 52/4 = 13 km/h, C = 33/2 = 16.5 km/h and D = 60/5 = 12 km/h, so Cyclist C is fastest. 'Cyclist A' is wrong because 15 km/h, although second highest, is below C's 16.5 km/h. 'Cyclist D' is a trap for anyone who simply picks the largest distance (60 km), but D also took the longest time and has the LOWEST speed of the four. 'Cyclist B' is wrong because covering 52 km in 4 hours gives only 13 km/h, showing that neither distance nor time alone determines speed."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "A student walking to school at 5 km/h reaches 6 minutes late, but walking at 6 km/h he reaches 4 minutes early. The distance from his home to the school is:",
+      "options": [
+        "4.0 km",
+        "4.5 km",
+        "5.0 km",
+        "6.0 km"
+      ],
+      "correctAnswer": "5.0 km",
+      "explanation": "The difference between the two journey times is 6 + 4 = 10 minutes = 1/6 hour. If d is the distance, d/5 - d/6 = d/30 = 1/6, giving d = 5 km. '4.0 km' is wrong because it would produce a time difference of 4/30 hour = 8 minutes, not 10. '6.0 km' is wrong because it gives 6/30 hour = 12 minutes. '4.5 km' is wrong because it yields 9 minutes; it also arises if one mistakenly uses only the 6-minute delay instead of the total 10-minute gap between the two schedules."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Consider the following statements about problems on trains:\n\n(i) To cross a stationary pole, a train must cover a distance equal to its own length.\n(ii) To cross a platform, a train must cover the sum of its own length and the length of the platform.\n(iii) When two trains completely cross each other, the distance covered equals the difference of their lengths.\n(iv) To cross a bridge, a train must cover its own length plus the length of the bridge.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because a pole has negligible length, so only the train's length must pass it. Statements (ii) and (iv) are correct because a platform and a bridge both have length, and the rear of the train must clear the far end, requiring the sum of the two lengths. Statement (iii) is incorrect: when two trains cross each other completely, the distance covered relative to one another is the SUM of their lengths, not the difference — the difference of speeds is used for same-direction motion, and confusing the two is the classic error here. Every option containing (iii), namely the first, third and fourth, is therefore wrong."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "A boat covers 28 km downstream in 2 hours and 18 km upstream in 3 hours. The speed of the stream is:",
+      "options": [
+        "3 km/h",
+        "4 km/h",
+        "5 km/h",
+        "6 km/h"
+      ],
+      "correctAnswer": "4 km/h",
+      "explanation": "Downstream speed = 28/2 = 14 km/h and upstream speed = 18/3 = 6 km/h. The speed of the stream is half their difference: (14 - 6)/2 = 4 km/h. '3 km/h' is wrong because it would make the downstream and upstream speeds differ by only 6 km/h instead of the observed 8. '5 km/h' is wrong because it corresponds to a difference of 10 km/h. '6 km/h' is wrong because 6 is the upstream speed itself, and it also equals half the SUM minus a miscalculation; using half the sum, (14 + 6)/2 = 10, would instead give the speed of the boat in still water."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Two trains of lengths 120 metres and 180 metres are running on parallel tracks in opposite directions at 54 km/h and 36 km/h respectively. The time they take to cross each other completely is:",
+      "options": [
+        "10 seconds",
+        "12 seconds",
+        "15 seconds",
+        "18 seconds"
+      ],
+      "correctAnswer": "12 seconds",
+      "explanation": "Moving in opposite directions, the relative speed is 54 + 36 = 90 km/h = 90 x 5/18 = 25 m/s, and the distance to be covered is 120 + 180 = 300 m, so the time is 300/25 = 12 seconds. '10 seconds' is wrong because it would need a relative speed of 30 m/s (108 km/h). '18 seconds' is wrong because it corresponds to a relative speed of 16.67 m/s, which is what one gets by wrongly using the DIFFERENCE of the speeds (54 - 36 = 18 km/h gives an even larger time). '15 seconds' is wrong because it results from using only the longer train's length (300/20) or a similar partial-length error."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "Match the speeds in Column I with their equivalent values in metres per second in Column II:\n\nColumn I:\n(a) 18 km/h\n(b) 45 km/h\n(c) 90 km/h\n(d) 27 km/h\n\nColumn II:\n(i) 12.5 m/s\n(ii) 5 m/s\n(iii) 7.5 m/s\n(iv) 25 m/s\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Multiplying each by 5/18 gives: 18 x 5/18 = 5 m/s, 45 x 5/18 = 12.5 m/s, 90 x 5/18 = 25 m/s and 27 x 5/18 = 7.5 m/s. The second option is wrong because it swaps the values for 45 km/h and 27 km/h, assigning the smaller speed the larger conversion. The third option is wrong because it gives 18 km/h a value of 7.5 m/s, which actually belongs to 27 km/h. The fourth option is wrong because it interchanges the results for 90 km/h and 27 km/h, implying the highest speed converts to the smallest value in m/s."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "A person leaves his home at 9:00 a.m. and travels at a uniform speed of 45 km/h, reaching his office at 10:20 a.m. The distance from his home to the office is:",
+      "options": [
+        "55 km",
+        "60 km",
+        "65 km",
+        "70 km"
+      ],
+      "correctAnswer": "60 km",
+      "explanation": "The journey lasts from 9:00 a.m. to 10:20 a.m., that is 80 minutes = 80/60 = 4/3 hours. Distance = 45 x 4/3 = 60 km. '55 km' and '65 km' are wrong because at 45 km/h they would take about 73 minutes and 87 minutes respectively, neither matching the recorded 80 minutes. '70 km' is wrong because it comes from treating the travel time as 1 hour 33 minutes, or from mistakenly reading the duration as 1 hour 20 minutes but converting it as 1.2 hours plus an error; the correct conversion of 20 minutes is 1/3 hour, not 0.20 hour."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A boat always takes more time to cover a fixed distance upstream than to cover the same distance downstream.\nReason (R): The speed of the stream is always less than the speed of the boat in still water.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: upstream journeys do take longer, and in any solvable boat problem the stream must be slower than the boat, otherwise upstream travel would be impossible. However (R) is not the REASON for (A). The actual reason is that upstream the effective speed is (boat minus stream) while downstream it is (boat plus stream), so the upstream speed is smaller and the time correspondingly greater. The first option is wrong because it wrongly treats (R) as the causal explanation. The third option is wrong because (R) is a correct statement. The fourth option is wrong because (A) is also correct."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Which of the following are quantities that remain unchanged when a boat travels a fixed route first upstream and then downstream?\n\n(i) The distance covered in each direction\n(ii) The speed of the boat with respect to the ground\n(iii) The speed of the boat in still water\n(iv) The speed of the stream\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The route length is the same both ways, so (i) is unchanged; the boat's own rowing capacity in still water, (iii), and the river's current, (iv), are properties of the boat and river and do not depend on direction. Item (ii) is the exception: the ground speed is (boat + stream) downstream but (boat - stream) upstream, so it definitely changes — indeed this change is the whole point of such problems. Therefore the first option is wrong (it includes ground speed and omits the stream), the second is wrong (it includes ground speed and omits the still-water speed), and the third is wrong (it includes ground speed and omits the distance)."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "A policeman spots a thief 200 metres ahead of him and starts chasing him. If the thief runs at 10 km/h and the policeman runs at 11 km/h, the distance the thief covers before he is caught is:",
+      "options": [
+        "1.0 km",
+        "1.5 km",
+        "2.0 km",
+        "2.5 km"
+      ],
+      "correctAnswer": "2.0 km",
+      "explanation": "Since both run in the same direction, the gap closes at the relative speed of 11 - 10 = 1 km/h. Closing a 200 m (0.2 km) gap therefore takes 0.2/1 = 0.2 hour, during which the thief runs 10 x 0.2 = 2.0 km. '1.0 km' is wrong because it corresponds to only 0.1 hour of chase, which would close just 100 m. '2.5 km' is wrong because it assumes 0.25 hour, closing 250 m. '1.5 km' is wrong because it uses 0.15 hour; it also arises if one wrongly divides by the policeman's full speed of 11 km/h instead of the relative speed of 1 km/h."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Consider the following statements about average speed:\n\n(i) When equal times are spent travelling at different speeds, the average speed is the arithmetic mean of those speeds.\n(ii) When equal distances are covered at different speeds, the average speed is the harmonic mean of those speeds.\n(iii) The average speed of a journey can never exceed the highest speed attained during that journey.\n(iv) The average speed of a round trip is zero because the traveller returns to the starting point.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because with equal times the total distance is the sum of speed x time terms with the same time, giving the plain average. Statement (ii) is correct: equal distances weight the slower speed more heavily, producing the harmonic mean. Statement (iii) is correct because an average of values can never exceed the largest of them. Statement (iv) is incorrect and confuses two different quantities: average VELOCITY is zero for a round trip because net displacement is zero, but average SPEED uses total distance travelled, which is definitely not zero. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "The speeds of two cars are in the ratio 5 : 8. If the first car covers a certain distance in 8 hours, the time taken by the second car to cover the same distance is:",
+      "options": [
+        "4.0 hours",
+        "5.0 hours",
+        "6.4 hours",
+        "12.8 hours"
+      ],
+      "correctAnswer": "5.0 hours",
+      "explanation": "For a fixed distance, time is inversely proportional to speed, so the times are in the ratio 8 : 5. If the first car takes 8 hours, the second takes 8 x 5/8 = 5 hours. '12.8 hours' is wrong because it applies the ratio directly (8 x 8/5), which would mean the FASTER car takes longer. '6.4 hours' is wrong because it multiplies 8 by 5/8 incorrectly as 8 x 0.8, treating the ratio as 4:5. '4.0 hours' is wrong because it simply halves the time, which would require the speed ratio to be 5 : 10, not 5 : 8."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "A bus operates on a fixed 300 km route. The following running and stoppage times were recorded on four different days:\n\nDay 1: running time 5 hours 00 minutes, total stoppages 30 minutes\nDay 2: running time 4 hours 30 minutes, total stoppages 45 minutes\nDay 3: running time 6 hours 00 minutes, total stoppages 0 minutes\nDay 4: running time 5 hours 30 minutes, total stoppages 30 minutes\n\nOn which day was the average speed including stoppages the highest?",
+      "options": [
+        "Day 1",
+        "Day 2",
+        "Day 3",
+        "Day 4"
+      ],
+      "correctAnswer": "Day 2",
+      "explanation": "Average speed including stoppages uses the TOTAL elapsed time. Day 1 took 5.50 hours (54.5 km/h), Day 2 took 5.25 hours (57.1 km/h), Day 3 took 6.00 hours (50.0 km/h) and Day 4 took 6.00 hours (50.0 km/h). Day 2 has the least total time and hence the highest average speed. 'Day 1' is wrong because its 5.50 hours exceeds Day 2's 5.25 hours despite shorter stoppages. 'Day 3' is a trap for those who pick the day with no stoppages, but its very slow running time gives the joint-lowest speed. 'Day 4' is wrong because it combines a slow running time with stoppages, also totalling 6 hours."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Match each situation in Column I with the correct expression for the time taken in Column II, where L is the total length to be covered and speeds are as stated:\n\nColumn I:\n(a) A train of length L crossing a pole at speed v\n(b) A train of length L crossing a platform of length P at speed v\n(c) A train of speed u overtaking a slower train of speed w, combined length L\n(d) Two trains of speeds u and w approaching each other, combined length L\n\nColumn II:\n(i) L / (u + w)\n(ii) L / v\n(iii) L / (u - w)\n(iv) (L + P) / v\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Crossing a pole needs only the train's own length at its own speed, so (a)-(ii); crossing a platform adds the platform length, giving (b)-(iv); overtaking in the same direction uses the difference of speeds, giving (c)-(iii); approaching head-on uses the sum, giving (d)-(i). The second option is wrong because it swaps the overtaking and approaching formulae, which would make a head-on crossing slower than an overtake. The third option is wrong because it gives the pole case the platform formula, adding a length P that does not exist. The fourth option is wrong because it assigns a relative-speed denominator to the platform case, where only one train is moving."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "A man can swim at 6 km/h in still water. In a river flowing at 2 km/h, the total time he takes to swim 16 km downstream and then return to his starting point is:",
+      "options": [
+        "5.0 hours",
+        "5.5 hours",
+        "6.0 hours",
+        "6.5 hours"
+      ],
+      "correctAnswer": "6.0 hours",
+      "explanation": "Downstream his speed is 6 + 2 = 8 km/h, so 16 km takes 2 hours; upstream his speed is 6 - 2 = 4 km/h, so the return 16 km takes 4 hours, giving a total of 6 hours. '5.0 hours' is wrong because it would follow from wrongly using 6 km/h for the return leg, ignoring the current. '5.5 hours' is wrong because it corresponds to no valid pair of leg times here. '6.5 hours' is wrong because it overstates the upstream time; note also that dividing the round-trip distance of 32 km by the still-water speed of 6 km/h gives about 5.33 hours, which understates the answer because the slower upstream leg dominates."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Which of the following are situations that require the concept of relative speed for their solution?\n\n(i) A train overtaking another train on a parallel track\n(ii) Two cyclists approaching each other from opposite ends of a road\n(iii) A train crossing a stationary electric pole beside the track\n(iv) A boat being rowed against the current of a river\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Overtaking involves two moving trains and needs the difference of their speeds; two cyclists closing on each other need the sum of their speeds; a boat rowing against a current must combine the boat's speed with the water's speed. All three are relative-speed situations. Item (iii) is not: the pole is stationary, so the train's own speed is used directly with no combination required. Consequently the first option is wrong (it includes the pole and omits the boat), the second is wrong (it includes the pole and omits overtaking), and the third is wrong (it includes the pole and omits the two cyclists)."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Consider the following statements about problems on boats and streams:\n\n(i) Downstream speed equals the speed of the boat in still water plus the speed of the stream.\n(ii) The speed of the stream equals half the sum of the downstream and upstream speeds.\n(iii) The speed of the boat in still water equals half the sum of the downstream and upstream speeds.\n(iv) The speed of the stream equals half the difference of the downstream and upstream speeds.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct because the current adds to the boat's speed going downstream. Statements (iii) and (iv) are the two standard results: adding the downstream and upstream speeds cancels the stream and gives twice the boat's speed, while subtracting them cancels the boat and gives twice the stream's speed. Statement (ii) is incorrect because it applies the SUM formula to the stream; half the sum gives the boat's still-water speed, and using it for the stream would absurdly make the stream faster than the boat in most problems. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A man walking at a uniform speed covers a certain distance in 30 minutes; if he doubles his speed he will cover the same distance in 15 minutes.\nReason (R): For a fixed distance, the time taken is directly proportional to the speed.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: doubling the speed over a fixed distance halves the time, so 30 minutes becomes 15 minutes. (R) is wrong because for a fixed distance time is INVERSELY proportional to speed, not directly proportional — if it were direct, doubling the speed would double the time to 60 minutes, contradicting (A) itself. The first and second options are therefore wrong because both require (R) to be a correct statement. The fourth option is wrong because (A) is a correct and easily verified conclusion."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "A car covers 60 km in the first hour, 80 km in the second hour and 100 km in the third hour of its journey. Its average speed for the whole journey is:",
+      "options": [
+        "75 km/h",
+        "80 km/h",
+        "78 km/h",
+        "82 km/h"
+      ],
+      "correctAnswer": "80 km/h",
+      "explanation": "The total distance is 60 + 80 + 100 = 240 km covered in 3 hours, so the average speed is 240/3 = 80 km/h. Because equal TIMES of one hour were spent at each speed, the arithmetic mean is valid here. '75 km/h' is wrong because it corresponds to a total of 225 km. '78 km/h' is wrong because it corresponds to 234 km and appears to come from applying a harmonic-mean style correction, which is appropriate only for equal distances, not equal times. '82 km/h' is wrong because it would require a total of 246 km, more than the distance actually covered."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "Two towns A and B are 340 km apart. A car starts from A at 8:00 a.m. travelling towards B at 40 km/h, and another car starts from B at 9:00 a.m. travelling towards A at 60 km/h. The two cars will meet at:",
+      "options": [
+        "11:00 a.m.",
+        "11:30 a.m.",
+        "12:30 p.m.",
+        "12:00 noon"
+      ],
+      "correctAnswer": "12:00 noon",
+      "explanation": "By 9:00 a.m. the first car has already travelled 40 km, leaving a gap of 340 - 40 = 300 km. From 9:00 a.m. both cars approach at a relative speed of 40 + 60 = 100 km/h, so they close 300 km in 300/100 = 3 hours, meeting at 12:00 noon. '11:00 a.m.' is wrong because it allows only 2 hours of joint travel, closing just 200 km. '11:30 a.m.' is wrong because 2.5 hours closes only 250 km. '12:30 p.m.' is wrong because 3.5 hours would close 350 km, more than the 300 km gap, meaning the cars would already have passed each other."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "If a train covers a distance of 1 km in 40 seconds, then its speed is __________ km/h.",
+      "options": [
+        "90",
+        "75",
+        "80",
+        "100"
+      ],
+      "correctAnswer": "90",
+      "explanation": "In one hour there are 3,600 seconds, so at 1 km per 40 seconds the train covers 3,600/40 = 90 km in an hour, that is 90 km/h. Equivalently 1,000/40 = 25 m/s and 25 x 18/5 = 90 km/h. '75' is wrong because 75 km/h means 1 km every 48 seconds. '80' is wrong because 80 km/h means 1 km every 45 seconds. '100' is wrong because 100 km/h means 1 km every 36 seconds — all three fail to match the observed 40 seconds."
+    },
+    {
+      "id": "31",
+      "subject": "C",
+      "questionText": "A man travels from P to Q at 30 km/h and returns from Q to P along the same route at 45 km/h. If the whole journey takes 5 hours, the distance between P and Q is:",
+      "options": [
+        "60 km",
+        "75 km",
+        "90 km",
+        "100 km"
+      ],
+      "correctAnswer": "90 km",
+      "explanation": "If d is the one-way distance, then d/30 + d/45 = 5. Taking the LCM of 30 and 45 as 90 gives (3d + 2d)/90 = 5, so 5d = 450 and d = 90 km. '60 km' is wrong because it gives 2 + 1.33 = 3.33 hours, well short of 5. '100 km' is wrong because it gives 3.33 + 2.22 = 5.56 hours, more than 5. '75 km' is wrong because it gives 2.5 + 1.67 = 4.17 hours; it also tempts those who compute the average speed as 37.5 km/h (the arithmetic mean) instead of the correct harmonic mean of 36 km/h."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "Which of the following are valid units for expressing speed?\n\n(i) Metre per second\n(ii) Kilometre per hour\n(iii) Metre per second squared\n(iv) Knot\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Speed is distance divided by time, so metre per second and kilometre per hour are both valid, and the knot (one nautical mile per hour) is the standard unit of speed in navigation and aviation. Metre per second squared is the exception: it is distance divided by time SQUARED, which is the unit of acceleration, not speed. Hence the first option is wrong (it includes the acceleration unit and omits the knot), the second is wrong (it includes the acceleration unit and omits metre per second), and the third is wrong (it includes the acceleration unit and omits kilometre per hour)."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "Match each journey in Column I with its average speed in Column II:\n\nColumn I:\n(a) 150 km covered in 3 hours\n(b) 120 km covered in 1.5 hours\n(c) 90 km covered in 2 hours\n(d) 210 km covered in 3 hours\n\nColumn II:\n(i) 45 km/h\n(ii) 50 km/h\n(iii) 70 km/h\n(iv) 80 km/h\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Dividing distance by time gives 150/3 = 50 km/h, 120/1.5 = 80 km/h, 90/2 = 45 km/h and 210/3 = 70 km/h. The first option is wrong because it swaps the results for (b) and (d), assigning 70 km/h to the 1.5-hour journey. The second option is wrong because it gives (a) a speed of 45 km/h, which actually belongs to the 90 km journey. The third option is wrong because it interchanges (c) and (d), implying that 90 km in 2 hours is faster than 210 km in 3 hours."
+    },
+    {
+      "id": "34",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the speed of a train is increased by 25 per cent, the time it takes to cover a fixed distance decreases by 25 per cent.\nReason (R): For a fixed distance, the time taken varies inversely as the speed.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct — time is inversely proportional to speed for a fixed distance. But (A) is wrong precisely because of that inverse relation: raising the speed to 1.25 times the original multiplies the time by 1/1.25 = 0.8, a decrease of 20 per cent, not 25 per cent. Percentage increases in speed do not translate into equal percentage decreases in time. The first and second options are wrong because they both require (A) to be correct. The third option is wrong because (R) is a correct and fundamental relation."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "Excluding stoppages, the speed of a bus is 54 km/h, and including stoppages it is 45 km/h. For how many minutes does the bus stop per hour?",
+      "options": [
+        "10 minutes",
+        "8 minutes",
+        "12 minutes",
+        "15 minutes"
+      ],
+      "correctAnswer": "10 minutes",
+      "explanation": "Including stoppages the bus covers 45 km in one hour. Travelling 45 km at its actual running speed of 54 km/h takes 45/54 hour = 50 minutes, so the remaining 60 - 50 = 10 minutes are spent stopped. '8 minutes' is wrong because 52 minutes of running at 54 km/h would cover 46.8 km, not 45. '12 minutes' is wrong because 48 minutes of running would cover 43.2 km. '15 minutes' is wrong because 45 minutes of running would cover only 40.5 km; it also results from wrongly dividing the 9 km/h speed difference by 36 instead of relating distance to running time."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Consider the following statements about relative speed:\n\n(i) The relative speed of two bodies moving in the same direction is the sum of their individual speeds.\n(ii) The relative speed of two bodies moving in opposite directions is the sum of their individual speeds.\n(iii) A faster train can never completely overtake a slower train running on a parallel track.\n(iv) When two bodies move in the same direction with equal speeds, their relative speed is zero.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv)",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "Statement (ii) is correct because bodies moving towards or away from each other in opposite directions close or open the gap at the sum of their speeds. Statement (iv) is correct: equal speeds in the same direction mean the gap between them never changes, so the relative speed is zero. Statement (i) is incorrect — for the same direction the relative speed is the DIFFERENCE of the speeds, which is why the first and second options are wrong. Statement (iii) is incorrect because a faster train certainly does overtake a slower one; it simply takes longer than a head-on crossing, and this rules out the third option."
+    },
+    {
+      "id": "37",
+      "subject": "C",
+      "questionText": "A train 150 metres long is running at 68 km/h. A man is running at 8 km/h in the same direction as the train, alongside the track. The time the train takes to pass the man completely is:",
+      "options": [
+        "8 seconds",
+        "9 seconds",
+        "10 seconds",
+        "12 seconds"
+      ],
+      "correctAnswer": "9 seconds",
+      "explanation": "Because the man runs in the same direction, the relative speed is 68 - 8 = 60 km/h = 60 x 5/18 = 16.67 m/s, and the train must cover its own length of 150 m relative to him, taking 150/16.67 = 9 seconds. '8 seconds' is wrong because it needs a relative speed of 18.75 m/s (67.5 km/h). '10 seconds' is wrong because it corresponds to 15 m/s, or 54 km/h. '12 seconds' is wrong because it corresponds to 12.5 m/s (45 km/h); a still larger error would be to ADD the speeds to get 76 km/h, which applies only if the man ran towards the train."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "A car covers a distance of 715 km at a uniform speed. If its speed had been 10 km/h more, it would have taken 2 hours less to cover the same distance. The original speed of the car was:",
+      "options": [
+        "45 km/h",
+        "50 km/h",
+        "55 km/h",
+        "65 km/h"
+      ],
+      "correctAnswer": "55 km/h",
+      "explanation": "Let the speed be s. Then 715/s - 715/(s + 10) = 2, which gives 715 x 10 = 2 x s x (s + 10), so s squared + 10s - 3575 = 0. Solving, s = (-10 + 120)/2 = 55 km/h. Checking: 715/55 = 13 hours and 715/65 = 11 hours, a difference of exactly 2 hours. '65 km/h' is wrong because it is the INCREASED speed, not the original one — a very common slip. '50 km/h' is wrong because 715/50 = 14.3 hours and 715/60 = 11.9 hours differ by about 2.4 hours. '45 km/h' is wrong because the corresponding times, 15.9 and 13.0 hours, differ by about 2.9 hours."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) If two cars cover the same distance, the ratio of the times they take is the inverse of the ratio of their speeds.\n(ii) A speed of 1 m/s is equal to 3.6 km/h.\n(iii) If two cars travel for the same length of time, the ratio of the distances they cover equals the ratio of their speeds.\n(iv) A speed of 1 km/h is equal to 3.6 m/s.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because time is inversely proportional to speed at fixed distance. Statement (ii) is correct: 1 m/s x 18/5 = 3.6 km/h. Statement (iii) is correct because distance is directly proportional to speed at fixed time. Statement (iv) is incorrect and simply reverses the conversion: 1 km/h = 5/18 = about 0.28 m/s, so a value of 3.6 m/s would be more than twelve times too large. Every option containing (iv) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "A person has to cover a distance of 6 km in 45 minutes. If he covers one-half of the distance in two-thirds of the total time, then the speed at which he must travel for the remaining distance to arrive exactly on time is:",
+      "options": [
+        "12 km/h",
+        "8 km/h",
+        "10 km/h",
+        "14 km/h"
+      ],
+      "correctAnswer": "12 km/h",
+      "explanation": "Half the distance is 3 km, and two-thirds of 45 minutes is 30 minutes, leaving 3 km to be covered in 45 - 30 = 15 minutes = 0.25 hour. The required speed is 3/0.25 = 12 km/h. '8 km/h' is wrong because it is the average speed needed for the whole 6 km in 45 minutes, not the speed for the final stretch. '10 km/h' is wrong because it would cover only 2.5 km in 15 minutes, leaving him short. '14 km/h' is wrong because it would cover 3.5 km in 15 minutes, more than required, so he would arrive early rather than exactly on time."
+    }
+  ]
+}

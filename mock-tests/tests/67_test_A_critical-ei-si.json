@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Critical Thinking, Emotional & Social Intelligence, Observation, Trends",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Statement: The district administration has advised residents of the low-lying colonies to move to the relief camps set up on higher ground.\n\nWhich one of the following is implicit in the above statement?",
+      "options": [
+        "The relief camps have been built at a considerably higher cost than usual",
+        "The residents of the low-lying colonies face a risk that moving to the camps would help them avoid",
+        "The residents of the low-lying colonies possess no means of transport of their own",
+        "The administration has no other means available of protecting the low-lying colonies"
+      ],
+      "correctAnswer": "The residents of the low-lying colonies face a risk that moving to the camps would help them avoid",
+      "explanation": "An advisory to shift makes sense only if the administration takes for granted that staying put is more dangerous than moving; this is the minimum belief on which the advice rests. The cost of the camps is wrong because the advisory would be issued whatever the camps cost, so nothing about expense is taken for granted. The absence of transport is wrong because the advice does not depend on how residents travel; they may well have their own vehicles. 'No other means available' is wrong because it is far stronger than the statement requires — the administration may have several measures in hand and still advise evacuation as one of them."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements about drawing inferences:\n\n(i) An inference is a conclusion that goes beyond what is directly stated in the given information.\n(ii) An assumption is something explicitly stated in the passage which the reader must accept.\n(iii) A valid inference must be supported by the information given and must not contradict it.\n(iv) A statement that merely repeats the given information is a restatement rather than an inference.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct because an inference adds something not spelt out. Statement (iii) is correct because an inference must be grounded in, and consistent with, the given facts. Statement (iv) is correct: repeating what is given is a restatement, not a new conclusion. Statement (ii) is incorrect and reverses the key distinction — an assumption is precisely what is UNSTATED yet necessary for the argument to hold; anything explicitly stated is a premise, not an assumption. Every option containing (ii), namely the first, second and third, is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "A Sub-Inspector is recording the statement of a woman who has just witnessed a violent robbery. She is trembling and repeatedly loses the thread of her account. Which of the following responses shows the highest emotional intelligence?",
+      "options": [
+        "Ask her to write the whole statement down herself so that no detail is missed",
+        "Warn her that an incomplete statement may weaken the case when it reaches the court",
+        "Allow her a few minutes to settle, offer her water, and then take the account at her own pace",
+        "Send for a relative and record the statement only in that person's presence"
+      ],
+      "correctAnswer": "Allow her a few minutes to settle, offer her water, and then take the account at her own pace",
+      "explanation": "Recognising the witness's distress and adjusting the pace of questioning is empathy combined with self-regulation, and a calmer witness recalls detail far more accurately, so this serves both the person and the investigation. Asking her to write it herself is wrong because writing is harder than speaking under acute stress and the request ignores her visible state. Warning her about the court is wrong because it adds pressure and fear, which degrade recall rather than improve it. Sending for a relative is wrong because it needlessly delays a time-sensitive statement and a relative's presence is neither required nor always helpful, as the witness may speak less freely."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Match each component of emotional intelligence in Column I with its description in Column II:\n\nColumn I:\n(a) Self-awareness\n(b) Self-regulation\n(c) Empathy\n(d) Social skill\n\nColumn II:\n(i) Managing one's disruptive impulses and moods\n(ii) Recognising one's own emotions as they occur\n(iii) Building rapport and managing relationships with others\n(iv) Sensing what other people are feeling\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Self-awareness is knowing one's own feelings as they arise; self-regulation is controlling impulses and moods; empathy is reading the feelings of others; social skill is handling relationships. The second option is wrong because it swaps self-awareness and self-regulation, making awareness a matter of control. The third option is wrong because it interchanges empathy and social skill, so 'sensing what others feel' becomes relationship management. The fourth option is wrong because it treats self-awareness as awareness of OTHERS' emotions and empathy as awareness of one's own, inverting the inward and outward directions of the two skills."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "'Every officer who has served in this district for more than ten years agrees that the new patrolling scheme is unnecessary. The scheme must therefore be unnecessary.'\n\nThe reasoning in the above argument is flawed mainly because it:",
+      "options": [
+        "Draws a sweeping conclusion from a single unrepresentative instance",
+        "Assumes that what is true of a part must also be true of the whole",
+        "Mistakes the mere order of two events for a cause-and-effect link",
+        "Treats the opinion of an interested group as proof of the claim itself"
+      ],
+      "correctAnswer": "Treats the opinion of an interested group as proof of the claim itself",
+      "explanation": "The argument offers no evidence about the scheme's results; it substitutes the shared opinion of the very officers whose duties the scheme changes, and such officers are not disinterested judges of it. The first option is wrong because the argument cites many long-serving officers, not one isolated case, so hasty generalisation is not the defect. The second option is wrong because no inference is drawn from a part to a whole; the claim is about the scheme, not about a composition of parts. The third option is wrong because no sequence of events in time is mentioned at all, so post hoc reasoning cannot be the flaw."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An officer who can accurately identify what a complainant is feeling is likely to obtain a fuller account of the incident.\nReason (R): Empathy lowers a person's sense of threat and makes them more willing to disclose details.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) states exactly the mechanism behind (A): an empathetic officer reduces the complainant's fear of being judged or disbelieved, and a person who feels safe volunteers more information. The second option is wrong because the reduction of perceived threat is the direct cause of the fuller account, not an incidental fact. The third option is wrong because (R) is a well-established finding about disclosure in interviews. The fourth option is wrong because (A) is correct and is the reason empathy is treated as an investigative skill rather than a mere courtesy."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Which of the following are recognised components of emotional intelligence?\n\n(i) Self-awareness\n(ii) Motivation\n(iii) Numerical fluency\n(iv) Empathy\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Self-awareness, motivation and empathy are three of the standard components of emotional intelligence, along with self-regulation and social skill. Numerical fluency is the exception: it is a cognitive aptitude measured in quantitative tests and has no bearing on the perception or management of emotion. Consequently the first option is wrong (it includes numerical fluency and omits empathy), the second is wrong (it includes numerical fluency and omits self-awareness), and the fourth is wrong (it includes numerical fluency and omits motivation)."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Statement: Over the last three years, every candidate from this centre who cleared the written examination had attended at least eighty per cent of the mock tests.\n\nConclusions:\n(I) Attending at least eighty per cent of the mock tests guarantees success in the written examination.\n(II) Some candidates who attended at least eighty per cent of the mock tests cleared the written examination.\n\nWhich of the conclusions given above follows from the statement?",
+      "options": [
+        "Only conclusion (I) follows",
+        "Only conclusion (II) follows",
+        "Both conclusion (I) and conclusion (II) follow",
+        "Neither conclusion (I) nor conclusion (II) follows"
+      ],
+      "correctAnswer": "Only conclusion (II) follows",
+      "explanation": "The statement tells us that all the successful candidates were high attenders; since those candidates both attended heavily and cleared the paper, conclusion (II) follows directly. Conclusion (I) does not follow because it reverses the relationship: knowing that success implies high attendance says nothing about how many high attenders failed, and there may have been a great number of them. 'Only (I)' is therefore wrong, 'both follow' is wrong because it accepts the reversed implication in (I), and 'neither follows' is wrong because (II) is a straightforward consequence of the statement."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "The table below shows the number of road-accident cases registered in a district over five years:\n\n2020: 412 cases\n2021: 468 cases\n2022: 505 cases\n2023: 533 cases\n2024: 552 cases\n\nWhich of the following statements best describes the trend shown by the data?",
+      "options": [
+        "The number of cases has risen at a steadily increasing rate each year",
+        "The number of cases has fluctuated up and down with no clear direction",
+        "The number of cases has more than doubled over the period shown",
+        "The number of cases has risen every year, but the yearly increase has steadily narrowed"
+      ],
+      "correctAnswer": "The number of cases has risen every year, but the yearly increase has steadily narrowed",
+      "explanation": "The year-on-year increases are 56, 37, 28 and 19, so the total rises each year while the size of the annual addition shrinks consistently — growth that is positive but decelerating. The first option is wrong because it reverses this: an increasing rate would require the annual additions to grow, not shrink. The second option is wrong because every single year shows a rise, which is a clear direction. The third option is wrong because 552 is only about 1.34 times 412, far short of doubling."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Below are two statements. Choose the option that correctly describes the relationship between them.\n\nStatement I: The traffic police introduced a one-way system on the main market road last month.\nStatement II: The average time taken to cross the market stretch has fallen sharply this month.",
+      "options": [
+        "Statement I is the cause and Statement II is its effect",
+        "Statement II is the cause and Statement I is its effect",
+        "Both statements are effects of a common third cause",
+        "Both statements are independent causes of some unstated effect"
+      ],
+      "correctAnswer": "Statement I is the cause and Statement II is its effect",
+      "explanation": "The one-way system was introduced first and removing opposing streams of traffic plausibly reduces crossing time, so I precedes II and can explain it. The second option is wrong because it reverses the order in time: a fall recorded this month cannot have caused a scheme introduced last month. The third option is wrong because no third factor is mentioned and the sequence points directly from the scheme to the improvement. The fourth option is wrong because Statement II is plainly an outcome rather than a cause, and treating it as an independent cause leaves the improvement unexplained."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Consider the following statements about emotional intelligence:\n\n(i) A person with high emotional intelligence is aware of the effect his own mood has on those around him.\n(ii) Emotional intelligence is fixed at birth and cannot be developed through training or practice.\n(iii) Recognising an emotion in another person is a skill distinct from actually sharing that emotion.\n(iv) The ability to forgo an immediate reward for a larger later one is related to self-regulation.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct because awareness of one's effect on others is central to self-awareness. Statement (iii) is correct: identifying another's feeling is cognitive empathy, whereas feeling it oneself is affective empathy, and the two can occur separately. Statement (iv) is correct because delaying gratification is a classic measure of impulse control. Statement (ii) is incorrect: unlike general intelligence, emotional competences are widely held to be learnable and are routinely trained. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Statement: Several shopkeepers in a market have complained that a group of youths gathers near their shops every evening and harasses customers.\n\nCourses of action:\n(I) The market should be ordered to close two hours earlier every day.\n(II) A police picket should be posted in the market during the evening hours and the youths identified.\n\nWhich of the courses of action given above is appropriate?",
+      "options": [
+        "Only course of action (I) is appropriate",
+        "Both course of action (I) and course of action (II) are appropriate",
+        "Only course of action (II) is appropriate",
+        "Neither course of action (I) nor course of action (II) is appropriate"
+      ],
+      "correctAnswer": "Only course of action (II) is appropriate",
+      "explanation": "Course (II) is appropriate because it places a deterrent exactly where and when the trouble occurs and gathers the identification needed for further action, so it is both targeted and proportionate. Course (I) is inappropriate because it penalises the very shopkeepers who complained, cutting their trading hours and income while leaving the offending group entirely untouched. Hence 'only (I)', 'both' and 'neither' are all wrong: the first two accept a measure that punishes the victims, and the last rejects the one remedy that actually addresses the cause."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Three of the four letter-groups given below are alike in the pattern of their formation, and one is different. Choose the group that is DIFFERENT:",
+      "options": [
+        "DFHJ",
+        "QSUW",
+        "TVXZ",
+        "KMPR"
+      ],
+      "correctAnswer": "KMPR",
+      "explanation": "In KMPR the steps between successive letters are K to M (+2), M to P (+3) and P to R (+2), so the middle step breaks the pattern and makes this group the odd one out. 'DFHJ' is wrong as an answer because D, F, H and J advance uniformly by two places each time. 'QSUW' is wrong because Q, S, U and W likewise advance by exactly two places at every step. 'TVXZ' is wrong because T, V, X and Z also move up two places each time, ending neatly at the last letter of the alphabet."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a certain town, the number of umbrellas sold and the number of reported cases of waterborne illness rise and fall together over the course of the year.\nReason (R): Buying an umbrella increases a person's likelihood of contracting a waterborne illness.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is a correct observation: both figures peak in the rainy months, so they do move together. (R) is wrong because it converts this coincidence into a causal link; the true common cause is the monsoon, which drives umbrella purchases and also contaminates water supplies. The first and second options are wrong because both require (R) to be a correct statement. The fourth option is wrong because (A) itself is an accurate description of the data, and the flaw lies entirely in the explanation offered for it."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Read the following information and choose the conclusion that can be most safely drawn.\n\nIn a review of a district's twelve police stations, the four stations that had introduced a computerised complaint-tracking system disposed of complaints in an average of nine days. The remaining eight stations, which maintained manual registers, took an average of twenty-two days.",
+      "options": [
+        "The stations using the computerised system disposed of complaints faster on average than those using manual registers",
+        "The computerised system is the sole reason for the difference between the two sets of stations",
+        "Manual registers ought to be discontinued in every police station of the state",
+        "Every complaint at the four computerised stations was disposed of within nine days"
+      ],
+      "correctAnswer": "The stations using the computerised system disposed of complaints faster on average than those using manual registers",
+      "explanation": "This option asserts only what the figures actually establish — a difference between two averages — and nothing more. The 'sole reason' option is wrong because the data cannot rule out other differences between the two groups, such as workload, staffing or the nature of the complaints. The recommendation about the whole state is wrong because it is a policy judgment extrapolated from twelve stations, not a conclusion drawn from them. The last option is wrong because it misreads an average as a maximum: an average of nine days is fully consistent with some complaints taking much longer."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Match each error of reasoning in Column I with the example that illustrates it in Column II:\n\nColumn I:\n(a) Hasty generalisation\n(b) Post hoc reasoning\n(c) Circular reasoning\n(d) False dilemma\n\nColumn II:\n(i) 'The scheme succeeded because it was always bound to succeed.'\n(ii) 'Either we ban every vehicle from the old city or the air will never be clean.'\n(iii) 'I met two rude conductors today, so all conductors in this city are rude.'\n(iv) 'Crime fell after the new street lights were installed, so the lights caused the fall.'\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Two conductors cannot support a claim about all of them, so (iii) is a hasty generalisation; inferring cause from mere sequence makes (iv) post hoc reasoning; (i) assumes in its premise the very success it sets out to explain, which is circular; (ii) presents only two options where others exist, which is a false dilemma. The first option is wrong because it swaps the circular and post hoc examples. The third option is wrong because it treats the street-lights example as a generalisation about a population. The fourth option is wrong because it labels the two-option statement as circular and the self-justifying statement as a dilemma, reversing both."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Which of the following are examples of active listening while interviewing a complainant?\n\n(i) Summarising the complainant's account back to him to confirm its accuracy\n(ii) Completing the complainant's sentences for him in order to save time\n(iii) Asking an open question whenever a detail remains unclear\n(iv) Allowing a short pause before responding instead of interrupting\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Summarising back, asking open questions and tolerating pauses all show that the listener is following the speaker and giving him room to complete his own account. Completing the speaker's sentences is the exception: it imposes the listener's expectations on the narrative and risks putting words into the complainant's mouth, which is especially damaging when a statement may later be tested in court. Hence the first option is wrong (it includes sentence-completion and omits pausing), the second is wrong (it includes sentence-completion and omits summarising), and the third is wrong (it includes sentence-completion and omits open questions)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Two constables working under a Sub-Inspector have stopped speaking to each other after a dispute over duty rosters, and their silence is now delaying the handover of case files. Which course of action reflects the best social intelligence?",
+      "options": [
+        "Speak to each constable separately, establish the specific grievance, and then settle a written handover procedure with both",
+        "Transfer one of the two constables to a different shift so that the two need not meet at all",
+        "Reprimand both of them before the assembled staff so that others are deterred from similar conduct",
+        "Wait for a few weeks in the expectation that the two men will settle the matter between themselves"
+      ],
+      "correctAnswer": "Speak to each constable separately, establish the specific grievance, and then settle a written handover procedure with both",
+      "explanation": "Separate conversations surface the real grievance without either man losing face, and a written procedure repairs the operational failure at once, so this response deals with both the relationship and the work. Transferring one constable is wrong because it removes the symptom while leaving the grievance alive and costs the shift a trained hand. A public reprimand is wrong because humiliation typically hardens both positions and damages the wider team's morale. Waiting is wrong because case files are being delayed now, and inaction signals that such conduct carries no consequence."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Consider the following statements about observation and discrimination as tested in reasoning papers:\n\n(i) Observation questions test the ability to notice small differences between otherwise similar items.\n(ii) In a discrimination task the candidate must identify the item that does not share a feature common to the rest.\n(iii) Observation and memory are the same ability and are therefore always tested together.\n(iv) Comparing items feature by feature is more reliable than forming a general impression of them.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) describes observation accurately, statement (ii) describes the standard odd-one-out format, and statement (iv) states the sound technique, since a systematic feature-by-feature check catches differences that a quick overall glance misses. Statement (iii) is incorrect: observation is the accurate perception of what is presently before one, whereas memory is the retention and recall of what was presented earlier, and the two are separately testable abilities. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "The monthly figures for a particular category of complaint at a police station were: January 80, February 72, March 65, April 59 and May 54. If the pattern of change continues, the figure for June is most likely to be about:",
+      "options": [
+        "48",
+        "50",
+        "52",
+        "46"
+      ],
+      "correctAnswer": "50",
+      "explanation": "The successive falls are 8, 7, 6 and 5, each one less than the fall before it, so the next reduction should be about 4, giving 54 minus 4 = 50. '48' is wrong because it assumes the fall stays at 6, which the pattern has already moved past. '52' is wrong because it assumes a fall of only 2, skipping a step in the sequence of decreasing reductions. '46' is wrong because it assumes the fall grows to 8, reversing the clear direction of the pattern in which each reduction is smaller than the last."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An officer who pauses before replying to an abusive member of the public usually handles the situation better than one who answers immediately.\nReason (R): Emotional intelligence includes the capacity to set oneself demanding goals and to persist in pursuing them.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true in themselves — pausing does defuse confrontation, and setting demanding goals is indeed part of the motivation component of emotional intelligence. But (R) does not explain (A): the competence at work when an officer holds back a retort is self-regulation, that is impulse control, and not motivation. The first option is wrong because it wrongly treats motivation as the operative mechanism. The third option is wrong because (R) is an accurate statement about emotional intelligence. The fourth option is wrong because (A) is also correct."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Statement: Should the use of body-worn cameras be made compulsory for police personnel on public duty in the district?\n\nArguments:\n(I) Yes, because a recording made at the time protects both the public and the officer when an allegation is later disputed.\n(II) No, because some officers may find the equipment uncomfortable to wear for long hours.\n\nWhich of the arguments given above is strong?",
+      "options": [
+        "Only argument (II) is strong",
+        "Both argument (I) and argument (II) are strong",
+        "Neither argument (I) nor argument (II) is strong",
+        "Only argument (I) is strong"
+      ],
+      "correctAnswer": "Only argument (I) is strong",
+      "explanation": "Argument (I) is strong because it goes to the heart of the issue, namely the reliability of evidence when accounts conflict, and it shows a benefit to both parties rather than to only one side. Argument (II) is weak because physical discomfort is a minor and remediable matter of equipment design, which cannot outweigh a question of accountability. 'Only (II) is strong' is therefore wrong, 'both are strong' is wrong because it accepts a convenience objection as decisive, and 'neither is strong' is wrong because (I) addresses the central purpose of the proposal directly."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "A station house officer reviewed the disposal of cases at his station for the year and recorded the following:\n\nCases pending at the start of the year: 240\nFresh cases registered during the year: 610\nCases disposed of during the year: 700\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "The pendency at the end of the year rose to 330 cases",
+        "The station disposed of fewer cases than it registered during the year",
+        "The pendency at the end of the year fell to 150 cases",
+        "The station disposed of exactly as many cases as it registered during the year"
+      ],
+      "correctAnswer": "The pendency at the end of the year fell to 150 cases",
+      "explanation": "The total workload was 240 + 610 = 850 cases, of which 700 were disposed of, leaving 850 - 700 = 150 pending, a reduction of 90 from the opening figure of 240. The first option is wrong because 330 results from mishandling the arithmetic, for instance by subtracting registrations from disposals and adding the result to the opening balance. The second option is wrong because 700 disposals plainly exceed 610 registrations. The fourth option is wrong for the same reason: the two figures differ by 90, which is precisely why the backlog shrank."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Match each situation in Column I with the interpersonal skill most needed to handle it in Column II:\n\nColumn I:\n(a) Two neighbours quarrelling over a boundary wall\n(b) Explaining a newly enforced traffic rule to a hostile crowd\n(c) A junior colleague who has lost confidence after making an error\n(d) A witness who is reluctant to speak for fear of reprisal\n\nColumn II:\n(i) Mentoring and encouragement\n(ii) Building trust and offering reassurance\n(iii) Mediation between two opposing parties\n(iv) Persuasive communication under pressure\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "A quarrel between two parties calls for mediation; a hostile crowd calls for persuasion under pressure; a shaken subordinate needs mentoring; a frightened witness needs trust and reassurance. The second option is wrong because it swaps mediation and persuasion, so a two-party dispute would be handled by addressing a crowd. The third option is wrong because it interchanges mentoring and reassurance, giving the frightened witness career guidance instead of protection. The fourth option is wrong because it assigns mentoring to the hostile crowd and crowd persuasion to a single anxious colleague, which fits neither situation."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements about judgment and decision making:\n\n(i) A decision should be tested against the rules and the powers that actually apply to the officer taking it.\n(ii) Where a decision is urgent, the option that protects life and safety normally takes priority.\n(iii) A course of action is sound if it is popular with the largest number of people present.\n(iv) A proportionate response is one whose severity matches the seriousness of the problem.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because a decision outside an officer's lawful authority is no decision at all; statement (ii) is correct because protection of life is the accepted first priority in an emergency; statement (iv) correctly defines proportionality. Statement (iii) is incorrect: popularity with a crowd is not a test of soundness, and the course a crowd favours may well be unlawful or unjust. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Statement: 'Enrol in our online course and clear the examination in your very first attempt.'\n\nWhich one of the following is implicit in the above advertisement?",
+      "options": [
+        "Every candidate who enrols in the course will certainly clear the examination",
+        "Candidates would like to clear the examination in their first attempt",
+        "No other institution offers an online course of this particular kind",
+        "Offline coaching is of no use to candidates preparing for this examination"
+      ],
+      "correctAnswer": "Candidates would like to clear the examination in their first attempt",
+      "explanation": "The advertisement's appeal works only if first-attempt success is something the reader wants, so that desire is the belief taken for granted. The first option is wrong because certain success for everyone is the claim being advertised rather than an unstated assumption, and the word 'certainly' goes well beyond what any such notice implies. The third option is wrong because the advertisement can attract candidates whether or not rival courses exist. The fourth option is wrong because promoting one method does not require assuming that all others are worthless."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Which of the following are true of a valid deductive argument?\n\n(i) If all its premises are true, its conclusion must also be true.\n(ii) Its conclusion may contain information that cannot be derived from its premises.\n(iii) Its validity depends on the form of the argument rather than on its subject matter.\n(iv) An argument can be valid even though one of its premises is in fact false.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Item (i) is the definition of validity, item (iii) is correct because validity is a matter of logical form alone, and item (iv) is correct because validity concerns only whether the conclusion follows from the premises — an argument with a false premise is unsound yet may still be perfectly valid. Item (ii) is false: a deductive conclusion must be contained in its premises, and going beyond them is the mark of an inductive leap. Hence the first option is wrong (it includes item (ii) and omits item (iv)), the second is wrong (it includes item (ii) and omits item (i)), and the third is wrong (it includes item (ii) and omits item (iii))."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "The ability to recognise one's own emotions as they arise and to understand the effect they have on one's behaviour is called __________.",
+      "options": [
+        "empathy",
+        "social skill",
+        "self-awareness",
+        "motivation"
+      ],
+      "correctAnswer": "self-awareness",
+      "explanation": "Self-awareness is precisely the accurate recognition of one's own emotional states together with an understanding of how they shape one's conduct. 'Empathy' is wrong because it is the outward-facing counterpart, concerned with reading the emotions of OTHER people. 'Social skill' is wrong because it refers to managing relationships, building rapport and influencing others. 'Motivation' is wrong because it denotes the inner drive to pursue goals for reasons beyond money or status, which is a different component altogether."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "During a religious procession, a Sub-Inspector learns that a rumour about an assault is spreading rapidly on a messaging group and that a crowd is beginning to collect. What should be his first step?",
+      "options": [
+        "Verify the facts quickly through the local beat staff and have the correct position announced by a credible local figure",
+        "Order the procession to be halted until the truth of the rumour has been fully established",
+        "Detain the persons who first circulated the message on the messaging group",
+        "Wait until the crowd disperses of its own accord before beginning any enquiry"
+      ],
+      "correctAnswer": "Verify the facts quickly through the local beat staff and have the correct position announced by a credible local figure",
+      "explanation": "The crowd is gathering because of a false belief, so the fastest way to remove the cause is to establish the facts and have them conveyed by someone the crowd already trusts. Halting the procession is wrong because it is disproportionate to an unverified report and is itself likely to anger the gathering and worsen matters. Detaining the original senders is wrong because it acts against individuals before the facts are known and does nothing to correct the rumour already in circulation. Waiting is wrong because a crowd forming around a false rumour tends to grow rather than melt away."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Consider the following statements about identifying a trend in a set of figures:\n\n(i) A series in which the successive increases become smaller is still an increasing series.\n(ii) A single unusually high figure in a series is by itself enough to establish a rising trend.\n(iii) Examining the differences between consecutive terms helps reveal the pattern of change.\n(iv) A trend is best described in terms of both its direction and its rate of change.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct because so long as each term exceeds the one before it the series rises, however modestly; statement (iii) is correct because first differences expose the underlying pattern; statement (iv) is correct because direction alone does not distinguish accelerating growth from decelerating growth. Statement (ii) is incorrect: one high reading is an isolated fluctuation, and a trend requires a consistent movement across several terms. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    }
+  ]
+}

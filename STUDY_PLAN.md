@@ -185,17 +185,17 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 64 | Morning | B — General Awareness | General Science: Physics | 30 | standard | Topic-wise | ⬜ |
-| 65 | Afternoon | C — Quantitative Aptitude | Time, Speed & Distance | 40 | standard | Topic-wise | ⬜ |
-| 66 | Late | D — English Comprehension | Sentence & Paragraph Shuffling (Para Jumbles) | 50 | standard | Topic-wise | ⬜ |
+| 64 | Morning | B — General Awareness | General Science: Physics | 30 | standard | Topic-wise | ✅ |
+| 65 | Afternoon | C — Quantitative Aptitude | Time, Speed & Distance | 40 | standard | Topic-wise | ✅ |
+| 66 | Late | D — English Comprehension | Sentence & Paragraph Shuffling (Para Jumbles) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 23
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 67 | Morning | A — General Intelligence & Reasoning | Critical Thinking, Emotional & Social Intelligence, Observation, Trends | 30 | standard | Topic-wise | ⬜ |
-| 68 | Afternoon | B — General Awareness | General Science: Chemistry | 40 | standard | Topic-wise | ⬜ |
-| 69 | Late | C — Quantitative Aptitude | Time & Work | 50 | standard | Topic-wise | ⬜ |
+| 67 | Morning | A — General Intelligence & Reasoning | Critical Thinking, Emotional & Social Intelligence, Observation, Trends | 30 | standard | Topic-wise | ✅ |
+| 68 | Afternoon | B — General Awareness | General Science: Chemistry | 40 | standard | Topic-wise | ✅ |
+| 69 | Late | C — Quantitative Aptitude | Time & Work | 50 | standard | Topic-wise | ✅ |
 
 ### Day 24
 

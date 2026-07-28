@@ -1,0 +1,397 @@
+{
+  "subject": "B",
+  "topic": "General Science: Physics",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The SI unit of magnetic flux density (magnetic field strength B) is the:",
+      "options": [
+        "Weber",
+        "Tesla",
+        "Gauss",
+        "Henry"
+      ],
+      "correctAnswer": "Tesla",
+      "explanation": "The tesla (T) is the SI unit of magnetic flux density and equals one weber per square metre. 'Weber' is wrong because it is the SI unit of magnetic flux (the total field through an area), not flux density. 'Gauss' is wrong because it is the CGS unit of flux density (1 tesla = 10,000 gauss), so it is not the SI unit. 'Henry' is wrong because it is the SI unit of inductance, a property of a coil, not a measure of field strength."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about Newton's laws of motion:\n\n(i) Newton's first law of motion is also known as the law of inertia.\n(ii) Newton's second law provides a quantitative definition of force.\n(iii) According to Newton's third law, action and reaction act on the same body.\n(iv) The law of conservation of linear momentum can be derived from Newton's third law.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: the first law states that a body continues in its state of rest or uniform motion unless acted upon by an external force, which is the property of inertia. Statement (ii) is correct: F = ma quantifies force as rate of change of momentum. Statement (iv) is correct: applying the third law to an isolated two-body interaction gives equal and opposite impulses, so total momentum is conserved. Statement (iii) is incorrect and is the error in the three wrong options: action and reaction always act on two DIFFERENT bodies, never on the same body — if they acted on the same body they would cancel and no motion would ever be possible. Therefore every option containing (iii) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "In which of the following media does sound travel fastest at room temperature?",
+      "options": [
+        "Air",
+        "Mercury",
+        "Water",
+        "Steel"
+      ],
+      "correctAnswer": "Steel",
+      "explanation": "Sound travels fastest in steel (about 5,100 m/s) because the speed of sound increases with the elasticity (rigidity) of the medium, and solids are far more elastic than liquids or gases. 'Air' is wrong because gases are the least elastic and most compressible, giving the slowest speed (about 343 m/s). 'Water' is wrong because although it is faster than air (about 1,480 m/s), it is a liquid and much less rigid than steel. 'Mercury' is wrong for the same reason — being a liquid metal it carries sound at roughly 1,450 m/s, still far below steel."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the scientists in Column I with the discovery or model associated with them:\n\nColumn I:\n(a) J.J. Thomson\n(b) James Chadwick\n(c) Ernest Rutherford\n(d) Niels Bohr\n\nColumn II:\n(i) Nuclear model of the atom\n(ii) Discovery of the electron\n(iii) Fixed energy levels of electrons\n(iv) Discovery of the neutron\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "J.J. Thomson discovered the electron (1897) through cathode-ray experiments; James Chadwick discovered the neutron (1932); Rutherford's alpha-scattering experiment established the nuclear model with a tiny dense positive nucleus (1911); Bohr proposed that electrons occupy fixed, quantised energy levels (1913). The option pairing (a)-(iv) is wrong because Thomson did not discover the neutron — he had no access to the neutral particle. The option pairing (c)-(iii) is wrong because fixed energy levels were Bohr's contribution, not Rutherford's, whose model could not explain atomic stability. The option pairing (a)-(i) is wrong because Thomson's own 'plum pudding' model had no nucleus at all, which is precisely what Rutherford disproved."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "A convex lens forms a real, inverted image of the same size as the object. The object must be placed:",
+      "options": [
+        "At the focus (F) of the lens",
+        "Between the focus (F) and the lens",
+        "At twice the focal length (2F)",
+        "At a distance greater than 2F"
+      ],
+      "correctAnswer": "At twice the focal length (2F)",
+      "explanation": "Only when the object is at 2F does a convex lens form an image at 2F on the other side that is real, inverted and exactly the same size (magnification = 1). 'At the focus (F)' is wrong because rays then emerge parallel and no image is formed at a finite distance. 'Between the focus (F) and the lens' is wrong because that produces a virtual, erect and magnified image, which is how a convex lens works as a magnifying glass. 'At a distance greater than 2F' is wrong because the image, though real and inverted, is diminished and lies between F and 2F, not the same size."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The clear cloudless sky appears blue to an observer on the Earth's surface.\nReason (R): Blue light has a longer wavelength than red light and is therefore scattered more strongly by air molecules.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is a correct observation — the sky does appear blue because of Rayleigh scattering by air molecules. (R) is factually wrong on two counts: blue light has a SHORTER wavelength than red light (about 450 nm versus 700 nm), and it is precisely because of this shorter wavelength that it scatters more (scattering varies as 1/wavelength to the fourth power). So the first option is wrong because (R) is not correct at all. The second option is wrong for the same reason — it also requires (R) to be correct. The fourth option is wrong because (A) is a well-established fact, not an incorrect statement."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are vector quantities?\n\n(i) Displacement\n(ii) Momentum\n(iii) Work\n(iv) Torque\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Displacement has both magnitude and direction; momentum is mass times velocity, so it inherits velocity's direction; torque is the cross product of position and force and therefore has a direction along the axis of rotation. All three are vectors. Work is the odd one out: it is the dot (scalar) product of force and displacement, so it is a scalar quantity with magnitude and sign but no direction. Consequently the second option is wrong (it wrongly includes work and omits momentum), the third option is wrong (it includes work), and the fourth option is wrong (it includes work and omits torque)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "When a narrow beam of white light passes through a glass prism it splits into a band of seven colours. This dispersion occurs because:",
+      "options": [
+        "Each colour travels a different total path length inside the prism",
+        "The refractive index of glass is different for different wavelengths",
+        "The prism absorbs some colours and re-emits them at other angles",
+        "The two refracting surfaces of the prism are inclined to each other"
+      ],
+      "correctAnswer": "The refractive index of glass is different for different wavelengths",
+      "explanation": "Dispersion happens because glass is a dispersive medium: its refractive index is greater for shorter wavelengths, so violet bends most and red least, fanning the colours out. The first option is wrong because path length differences cause no separation of colours — a rectangular glass slab gives different path lengths yet produces no spectrum. The third option is wrong because a prism does not absorb and re-emit light; the emergent beam contains all the original colours with essentially no loss. The fourth option describes the prism's geometry, which is what prevents the deviations from cancelling as they do in a slab, but the inclination alone cannot separate colours unless the refractive index itself varies with wavelength."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "A device that converts mechanical energy into electrical energy using the principle of electromagnetic induction is called a __________.",
+      "options": [
+        "Dynamo",
+        "Transformer",
+        "Rectifier",
+        "Electric motor"
+      ],
+      "correctAnswer": "Dynamo",
+      "explanation": "A dynamo (generator) rotates a coil in a magnetic field so that the changing flux induces an emf, converting mechanical energy into electrical energy. 'Transformer' is wrong because it converts electrical energy at one voltage into electrical energy at another voltage — no mechanical energy is involved and it has no moving parts. 'Rectifier' is wrong because it merely converts alternating current into direct current; both input and output are electrical. 'Electric motor' is wrong because it performs exactly the reverse conversion, turning electrical energy into mechanical rotation."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "The resistivity of four conducting materials was measured at 20 degrees Celsius and the following values were recorded:\n\nMaterial P: 1.6 x 10^-8 ohm-metre\nMaterial Q: 1.7 x 10^-8 ohm-metre\nMaterial R: 2.8 x 10^-8 ohm-metre\nMaterial S: 1.1 x 10^-6 ohm-metre\n\nWhich material is the most suitable choice for the heating element of an electric iron?",
+      "options": [
+        "Material P, because its very low resistivity allows a large current to flow",
+        "Material Q, because it is the standard material used for household wiring",
+        "Material R, because it is light in weight and resists chemical corrosion",
+        "Material S, because its high resistivity produces more heat for a given current"
+      ],
+      "correctAnswer": "Material S, because its high resistivity produces more heat for a given current",
+      "explanation": "Heat produced follows H = I squared x R x t, so a heating element needs HIGH resistance, and Material S has a resistivity nearly 100 times greater than the others (it corresponds to an alloy such as nichrome). Material P is wrong because a very low resistivity (silver-like) would dissipate almost no heat and would simply draw a dangerously large current. Material Q is wrong because low-resistivity copper is chosen for wiring precisely so that it does NOT heat up — the opposite requirement to a heating element. Material R is wrong because light weight and corrosion resistance (aluminium-like properties) are irrelevant to heat production, and its resistivity is still far too low."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The enormous energy radiated by the Sun is produced mainly by:",
+      "options": [
+        "Fusion of hydrogen nuclei into helium nuclei",
+        "Fission of heavy uranium nuclei into lighter nuclei",
+        "Chemical combustion of hydrogen with oxygen",
+        "Radioactive decay of unstable elements in the core"
+      ],
+      "correctAnswer": "Fusion of hydrogen nuclei into helium nuclei",
+      "explanation": "In the Sun's core, at roughly 15 million kelvin, four hydrogen nuclei fuse into one helium nucleus; the small mass defect is released as energy according to E = mc squared. 'Fission of heavy uranium nuclei' is wrong because heavy elements like uranium exist only in trace amounts in stars and fission is the process used in man-made nuclear reactors, not in stellar cores. 'Chemical combustion of hydrogen with oxygen' is wrong because chemical reactions release millions of times less energy per kilogram than nuclear reactions and the Sun contains almost no free oxygen. 'Radioactive decay of unstable elements' is wrong because it accounts for internal heat in planets such as the Earth, not for a star's luminosity."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Consider the following statements about domestic electric circuits:\n\n(i) In a series circuit, the current flowing through every component is the same.\n(ii) In a parallel circuit, the potential difference across each branch is the same.\n(iii) Household appliances are connected in series with the mains supply.\n(iv) Using a fuse of a much higher rating than required makes the circuit safer.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i) and (ii) only",
+        "(ii) and (iii) only",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "Statement (i) is correct because a series circuit offers only one path, so charge flow is identical everywhere. Statement (ii) is correct because all parallel branches are connected across the same two nodes, hence the same potential difference. Statement (iii) is incorrect: appliances are wired in PARALLEL so that each gets the full 220 V and one appliance switching off does not break the circuit for the others — this makes the third and fourth options wrong. Statement (iv) is also incorrect and dangerous: an over-rated fuse will not melt during an overload, so the wiring overheats and may cause a fire; the fuse rating must be just above the normal operating current. This rules out the first and fourth options."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "A uniform metal wire of resistance R is stretched to twice its original length, its volume remaining unchanged. Its new resistance becomes:",
+      "options": [
+        "2R",
+        "R/4",
+        "4R",
+        "R/2"
+      ],
+      "correctAnswer": "4R",
+      "explanation": "Since volume is constant, doubling the length halves the cross-sectional area. As resistance = resistivity x length / area, the resistance changes by a factor of 2 divided by (1/2), that is 4, giving 4R. '2R' is wrong because it accounts only for the doubled length and forgets that the area also shrinks. 'R/2' is wrong because it treats resistance as inversely proportional to length, which reverses the actual relationship. 'R/4' is wrong because it applies the inverse of the correct factor, a common sign-or-reciprocal slip in this calculation."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "An electric bulb rated 100 W at 220 V is operated on a 110 V supply. Assuming its resistance remains unchanged, the power now consumed by the bulb is:",
+      "options": [
+        "25 W",
+        "40 W",
+        "50 W",
+        "75 W"
+      ],
+      "correctAnswer": "25 W",
+      "explanation": "At constant resistance, P = V squared / R, so power is proportional to the square of the voltage. Halving the voltage from 220 V to 110 V reduces the power to one-fourth: 100 / 4 = 25 W. '50 W' is wrong because it assumes power is directly proportional to voltage (halving V halves P), ignoring the squared dependence. '75 W' is wrong because it wrongly subtracts one-fourth of the rating instead of scaling by the square factor. '40 W' is wrong because it corresponds to no valid relation here and simply reflects a familiar bulb rating rather than a calculated value."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Match the measuring instruments in Column I with the quantity each one measures:\n\nColumn I:\n(a) Hygrometer\n(b) Anemometer\n(c) Manometer\n(d) Lactometer\n\nColumn II:\n(i) Speed of the wind\n(ii) Relative density of milk\n(iii) Humidity of the air\n(iv) Pressure of a gas\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "A hygrometer measures atmospheric humidity, an anemometer measures wind speed, a manometer measures the pressure of an enclosed gas, and a lactometer measures the relative density of milk to detect adulteration. The pairing (a)-(i) is wrong because a hygrometer has no rotating cups and cannot register wind speed. The pairing (b)-(iv) is wrong because an anemometer measures air movement, not gas pressure — a manometer does that. The pairing (a)-(ii) with (d)-(iii) is wrong because it swaps the milk and humidity instruments entirely, assigning the lactometer to humidity, which it cannot measure."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "A light-emitting diode (LED) produces light when:",
+      "options": [
+        "It is reverse biased and its depletion layer breaks down",
+        "An alternating voltage is applied across its two terminals",
+        "It is heated so that its filament becomes incandescent",
+        "It is forward biased and electrons recombine with holes"
+      ],
+      "correctAnswer": "It is forward biased and electrons recombine with holes",
+      "explanation": "In forward bias, electrons from the n-side and holes from the p-side are pushed into the junction, and each recombination releases energy as a photon — this is electroluminescence. The reverse-bias option is wrong because in reverse bias almost no current flows and breakdown damages the diode rather than producing useful light. The alternating-voltage option is wrong because an LED conducts only in one direction, so it would light only during half the cycle and is normally operated on DC. The heated-filament option is wrong because that describes an incandescent lamp; an LED has no filament and stays comparatively cool, which is why it is far more energy efficient."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): On a cold morning, a metal railing feels colder to the touch than a wooden railing lying beside it.\nReason (R): Metals conduct heat away from the skin much faster than wood does.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) genuinely explains (A). Both railings are at the same temperature, but our nerves sense the RATE of heat loss, not temperature; the metal's high thermal conductivity drains heat rapidly from the skin, producing the sensation of greater cold. The second option is wrong because the conductivity difference is exactly the causal mechanism, not an unrelated fact. The third option is wrong because (R) is a well-established property of metals. The fourth option is wrong because (A) is a correct everyday observation, easily verified by touching metal and wood in the same room."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Which of the following are non-contact (field) forces?\n\n(i) Gravitational force\n(ii) Force of friction\n(iii) Electrostatic force\n(iv) Magnetic force\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Gravitational, electrostatic and magnetic forces all act through a field across empty space without the bodies touching — the Earth attracts the Moon, a charged rod attracts paper bits from a distance, and a magnet attracts iron without contact. Friction is a contact force: it arises only where two surfaces are actually pressed together and vanishes the instant they separate. Hence the first option is wrong (it includes friction and omits the magnetic force), the third option is wrong (it includes friction), and the fourth option is wrong (it includes friction and omits the electrostatic force)."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The brilliant sparkle of a well-cut diamond is mainly due to:",
+      "options": [
+        "Dispersion of light at the surfaces",
+        "Diffraction of light at sharp edges",
+        "Interference of light between the facets",
+        "Total internal reflection inside the stone"
+      ],
+      "correctAnswer": "Total internal reflection inside the stone",
+      "explanation": "Diamond has a very high refractive index (about 2.42) and hence a small critical angle of roughly 24 degrees, so light entering it strikes the cut facets beyond the critical angle and is reflected repeatedly inside before escaping — this trapping and concentration of light is the sparkle. 'Dispersion' is wrong as the main cause: it adds the coloured 'fire' but would be barely visible without the multiple internal reflections that intensify the beams. 'Diffraction' is wrong because diamond facets are enormously larger than the wavelength of light, so bending around edges is negligible. 'Interference' is wrong because it requires thin films or coherent split beams, as in soap bubbles, not bulk transparent crystals."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "Consider the following statements about gravitation:\n\n(i) The acceleration due to gravity, g, is maximum at the equator and minimum at the poles.\n(ii) The weight of a body at the centre of the Earth is zero.\n(iii) The universal gravitational constant G has a different value on the Moon from that on the Earth.\n(iv) The value of g decreases as one goes deeper below the Earth's surface.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iv)",
+        "(ii) and (iv) only",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "Statement (ii) is correct because at the centre the surrounding mass pulls equally in all directions, so g and hence weight become zero. Statement (iv) is correct because below the surface only the mass of the inner sphere contributes, and g falls roughly in proportion to the distance from the centre. Statement (i) is incorrect — it states the relationship backwards: the Earth is flattened at the poles, so the poles are closer to the centre and g is MAXIMUM there and minimum at the equator, which also loses some effective g to rotation. This makes the first and second options wrong. Statement (iii) is incorrect because G is a universal constant, identical everywhere in the universe; it is g, not G, that varies with the body — so the fourth option is wrong."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "The rate of change of linear momentum of a body is equal to:",
+      "options": [
+        "The total work done on the body",
+        "The net external force acting on the body",
+        "The impulse acting per unit mass of the body",
+        "The kinetic energy gained by the body per second"
+      ],
+      "correctAnswer": "The net external force acting on the body",
+      "explanation": "Newton's second law in its general form states that force equals the rate of change of momentum, F = dp/dt; the familiar F = ma is the special case of constant mass. 'The total work done' is wrong because work is force multiplied by displacement and is measured in joules, whereas rate of change of momentum has the units of newtons. 'The impulse per unit mass' is wrong because impulse is the change in momentum itself, so dividing by mass gives a change in velocity, not a force. 'The kinetic energy gained per second' is wrong because that quantity is power, measured in watts, and it can be zero (as in uniform circular motion) even while momentum is changing continuously."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "In a school laboratory, four resistors were tested and the following readings were recorded:\n\nResistor W: potential difference 6 V, current 3.0 A\nResistor X: potential difference 12 V, current 4.0 A\nResistor Y: potential difference 9 V, current 1.5 A\nResistor Z: potential difference 20 V, current 2.0 A\n\nWhich resistor has the greatest resistance?",
+      "options": [
+        "Resistor W",
+        "Resistor X",
+        "Resistor Y",
+        "Resistor Z"
+      ],
+      "correctAnswer": "Resistor Z",
+      "explanation": "By Ohm's law, R = V / I. The values are W = 6/3 = 2 ohm, X = 12/4 = 3 ohm, Y = 9/1.5 = 6 ohm and Z = 20/2 = 10 ohm, so Resistor Z has the greatest resistance. 'Resistor W' is wrong because although its voltage is smallest, its very large current gives the LOWEST resistance of the four. 'Resistor X' is wrong because a resistance of 3 ohm is only slightly above W and well below Z. 'Resistor Y' is a tempting choice for anyone who simply picks the smallest current, but at 6 ohm it is still less than Z, showing that resistance depends on the ratio of voltage to current, not on either reading alone."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Match the physical quantities in Column I with their SI units in Column II:\n\nColumn I:\n(a) Pressure\n(b) Power\n(c) Frequency\n(d) Electric charge\n\nColumn II:\n(i) Pascal\n(ii) Watt\n(iii) Hertz\n(iv) Coulomb\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "explanation": "Pressure is force per unit area and its SI unit is the pascal; power is the rate of doing work, measured in watts; frequency is cycles per second, measured in hertz; electric charge is measured in coulombs (one ampere-second). The option pairing (a)-(ii) with (b)-(i) is wrong because it interchanges pascal and watt, which are units of entirely different quantities. The option pairing (c)-(iv) with (d)-(iii) is wrong because it swaps hertz and coulomb, assigning a unit of charge to frequency. The option pairing (a)-(iii) is wrong because hertz measures how often something repeats and has nothing to do with force per unit area."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "In an ideal step-down transformer:",
+      "options": [
+        "Both the output voltage and the output current are lower than the input values",
+        "The output voltage is higher and the output current is lower than the input",
+        "The output voltage is lower and the output current is higher than the input",
+        "The output voltage is lower while the output current remains exactly unchanged"
+      ],
+      "correctAnswer": "The output voltage is lower and the output current is higher than the input",
+      "explanation": "A step-down transformer has fewer turns in the secondary, so the secondary voltage is lower; since an ideal transformer conserves power (V x I is the same on both sides), the secondary current must rise in the same proportion. The first option is wrong because if both voltage and current fell, output power would be far less than input power, violating conservation of energy. The second option is wrong because raising the voltage is the definition of a step-UP transformer, the opposite device. The fourth option is wrong because an unchanged current with reduced voltage would again mean lost power, and it contradicts the fixed relation between the turns ratio and the current ratio."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Which of the following are classified as renewable sources of energy?\n\n(i) Tidal energy\n(ii) Geothermal energy\n(iii) Coal-bed methane\n(iv) Biomass\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Tidal energy is driven by the Moon's gravitational pull and never runs out; geothermal energy draws on the Earth's continuously generated internal heat; biomass is replenished within a human timescale as plants regrow. Coal-bed methane is the exception — it is a fossil fuel extracted from coal seams, formed over millions of years and therefore exhaustible. Accordingly, the first option is wrong (it includes coal-bed methane and omits biomass), the second is wrong (it includes coal-bed methane and omits tidal energy), and the third is wrong (it includes coal-bed methane and omits geothermal energy)."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Consider the following statements about sound:\n\n(i) Sound is a longitudinal mechanical wave and cannot travel through a vacuum.\n(ii) The loudness of a sound is measured in hertz.\n(iii) Ultrasound consists of waves of frequency below 20 Hz.\n(iv) The pitch of a sound is determined by its frequency.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "Statement (i) is correct: sound needs a material medium whose particles oscillate along the direction of propagation, which is why a bell ringing inside an evacuated jar cannot be heard. Statement (iv) is correct: a higher frequency is perceived as a higher pitch. Statement (ii) is incorrect because loudness is measured in decibels, while hertz measures frequency — this rules out the first and third options. Statement (iii) is incorrect because frequencies below 20 Hz are INFRASOUND; ultrasound lies above 20,000 Hz and is used in sonography and SONAR. This rules out the fourth option."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A person standing inside a lift whose cable has snapped experiences a sensation of weightlessness.\nReason (R): The acceleration due to gravity is independent of the mass of a freely falling body.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are individually true, but (R) does not explain (A). The real reason for apparent weightlessness is that the person and the lift floor fall with the same acceleration g, so the floor exerts NO normal reaction on the person, and it is this vanishing normal reaction that we sense as weight. The mass-independence of g in (R) is a separate fact about free fall. Hence the first option is wrong. The third option is wrong because (R) is correct — Galileo's result that all bodies fall with the same acceleration is well established. The fourth option is wrong because (A) is correct: gravity still acts on the person, only the sensation of weight disappears."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "The apparent change in the frequency of a sound heard by a stationary listener as the source of sound moves towards him is known as:",
+      "options": [
+        "Resonance",
+        "Reverberation",
+        "The Doppler effect",
+        "The formation of beats"
+      ],
+      "correctAnswer": "The Doppler effect",
+      "explanation": "The Doppler effect is the apparent change in observed frequency caused by relative motion between a source and an observer, which is why an approaching train whistle sounds shriller and drops in pitch as it passes. 'Resonance' is wrong because it is the large-amplitude response when a forcing frequency matches a body's natural frequency — no relative motion is needed and the frequency itself does not change. 'Reverberation' is wrong because it is the persistence of sound in a hall due to repeated reflections, which alters duration rather than frequency. 'The formation of beats' is wrong because beats arise from the superposition of two sources of slightly different frequencies, producing periodic loudness variation from stationary sources."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "A porter carries a heavy suitcase on his head and walks 50 metres along a level platform at a steady speed. The work done by him against the force of gravity is:",
+      "options": [
+        "Zero, because the displacement is perpendicular to the gravitational force",
+        "Positive, because he exerts an upward force to support the suitcase",
+        "Negative, because gravity acts opposite to the direction he moves",
+        "Positive, because he moves the load through a distance of 50 metres"
+      ],
+      "correctAnswer": "Zero, because the displacement is perpendicular to the gravitational force",
+      "explanation": "Work equals force multiplied by the component of displacement along that force. Gravity acts vertically downward while the porter's displacement is horizontal, so the angle between them is 90 degrees and the work done against gravity is exactly zero. The second option is wrong because merely exerting a force does no work unless the load is displaced along that force's direction. The third option is wrong because negative work would require displacement to have a component opposite to the applied force, whereas here there is no vertical displacement at all. The fourth option is wrong because it multiplies the force by the total distance while ignoring direction, which is the standard error in this classic problem."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements about pressure in fluids:\n\n(i) The SI unit of pressure is the newton.\n(ii) Atmospheric pressure decreases as altitude increases.\n(iii) At a given depth inside a liquid, pressure acts equally in all directions.\n(iv) Hydraulic brakes and hydraulic lifts work on the basis of Pascal's law.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i) and (iv) only",
+        "(ii) and (iii) only",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct because the weight of the air column above a point falls with height, which is why aircraft cabins must be pressurised. Statement (iii) is correct: this isotropy of fluid pressure is why a hole in any wall of a tank leaks, not just one in the base. Statement (iv) is correct because Pascal's law states that pressure applied to an enclosed fluid is transmitted undiminished, allowing a small force on a narrow piston to produce a large force on a wide one. Statement (i) is incorrect: the newton is the unit of force, whereas pressure is force per unit area and is measured in pascals (newton per square metre). Every option containing (i) — the first and second — is therefore wrong, and the third option is incomplete because it omits the correct statement (iv)."
+    }
+  ]
+}

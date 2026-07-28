@@ -968,7 +968,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "64_test_B_science-physics.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 65,
@@ -983,7 +983,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "65_test_C_time-distance.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 66,
@@ -998,7 +998,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "66_test_D_para-jumbles.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 67,
@@ -1013,7 +1013,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "67_test_A_critical-ei-si.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 68,
@@ -1028,7 +1028,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "68_test_B_science-chemistry.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 69,
@@ -1043,7 +1043,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "69_test_C_time-work.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 70,

@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "General Science: Chemistry",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The chemical name of the substance commonly sold as baking soda is:",
+      "options": [
+        "Sodium carbonate",
+        "Sodium hydrogencarbonate",
+        "Sodium hydroxide",
+        "Calcium carbonate"
+      ],
+      "correctAnswer": "Sodium hydrogencarbonate",
+      "explanation": "Baking soda is sodium hydrogencarbonate, NaHCO3, which on heating releases carbon dioxide and makes cakes and bread rise. 'Sodium carbonate' is wrong because Na2CO3 is washing soda, a different and far more strongly alkaline salt used in laundry. 'Sodium hydroxide' is wrong because NaOH is caustic soda, a corrosive base used in soap manufacture and never used in food. 'Calcium carbonate' is wrong because CaCO3 is limestone, marble and chalk, which contains no sodium at all."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about acids and bases:\n\n(i) Acids turn blue litmus paper red.\n(ii) All bases are soluble in water and every base is therefore called an alkali.\n(iii) Acids react with active metals to liberate hydrogen gas.\n(iv) The reaction between an acid and a base produces a salt and water.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct and is the standard litmus test for an acid. Statement (iii) is correct, as when zinc is put in dilute sulphuric acid hydrogen is evolved. Statement (iv) correctly describes neutralisation. Statement (ii) is incorrect because only WATER-SOLUBLE bases are called alkalis; bases such as copper hydroxide and iron hydroxide are insoluble and are not alkalis. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The pH of a solution is 3. Compared with a solution whose pH is 6, this solution is:",
+      "options": [
+        "one thousand times more basic",
+        "three times more acidic",
+        "one thousand times more acidic",
+        "three times more basic"
+      ],
+      "correctAnswer": "one thousand times more acidic",
+      "explanation": "The pH scale is logarithmic, so each unit fall in pH means a ten-fold rise in hydrogen-ion concentration; a drop of three units therefore means 10 x 10 x 10 = 1,000 times as many hydrogen ions, making the solution a thousand times more acidic. 'Three times more acidic' is wrong because it treats the scale as arithmetic instead of logarithmic. Both 'more basic' options are wrong because a LOWER pH always means greater acidity, not greater basicity, so the direction of the comparison is reversed in each of them."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the common names in Column I with the correct chemical formulae in Column II:\n\nColumn I:\n(a) Washing soda\n(b) Quick lime\n(c) Bleaching powder\n(d) Plaster of Paris\n\nColumn II:\n(i) CaOCl2\n(ii) CaSO4, half H2O\n(iii) Na2CO3, 10 H2O\n(iv) CaO\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Washing soda is hydrated sodium carbonate, quick lime is calcium oxide, bleaching powder is calcium oxychloride and plaster of Paris is calcium sulphate hemihydrate. The second option is wrong because it gives washing soda a calcium formula although washing soda contains sodium, not calcium. The third option is wrong because it interchanges bleaching powder and plaster of Paris, so the disinfectant is given the formula of a setting plaster. The fourth option is wrong because it assigns the oxychloride formula to plaster of Paris and calcium oxide to bleaching powder, mismatching both."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Which of the following is NOT an allotrope of carbon?",
+      "options": [
+        "Graphite",
+        "Quartz",
+        "Diamond",
+        "Fullerene"
+      ],
+      "correctAnswer": "Quartz",
+      "explanation": "Quartz is crystalline silicon dioxide, a compound of silicon and oxygen, and contains no carbon whatsoever, so it cannot be an allotrope of carbon. 'Graphite' is wrong as an answer because it is pure carbon in layered sheets. 'Diamond' is wrong because it is pure carbon in a rigid three-dimensional tetrahedral network. 'Fullerene' is wrong because it too is pure carbon, arranged in closed cage-like molecules such as the sixty-atom buckyball."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An iron gate exposed to humid coastal air rusts much faster than a similar gate in a dry desert climate.\nReason (R): The rusting of iron requires the presence of both oxygen and moisture.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) explains (A) exactly: since rusting needs water as well as oxygen, humid air supplies the missing ingredient in abundance while dry desert air withholds it, so the coastal gate corrodes faster. The second option is wrong because the moisture requirement is the direct cause of the difference, not an unrelated fact. The third option is wrong because the joint requirement of oxygen and water is a well-established condition for rusting. The fourth option is wrong because (A) is a correct and familiar observation."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are noble gases?\n\n(i) Helium\n(ii) Nitrogen\n(iii) Argon\n(iv) Neon\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Helium, argon and neon all belong to Group 18, have completely filled outermost shells and are therefore chemically inert. Nitrogen is the exception: although it is very unreactive as a diatomic gas because of its strong triple bond, it belongs to Group 15 and does form many compounds such as ammonia and nitric acid. Hence the first option is wrong (it includes nitrogen and omits neon), the second is wrong (it includes nitrogen and omits helium), and the fourth is wrong (it includes nitrogen and omits argon)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "An element X has atomic number 12. The formula of the chloride formed by this element is:",
+      "options": [
+        "XCl",
+        "XCl3",
+        "X2Cl",
+        "XCl2"
+      ],
+      "correctAnswer": "XCl2",
+      "explanation": "Atomic number 12 gives the electronic arrangement 2, 8, 2, so the atom loses its two outermost electrons to form a doubly charged positive ion and combines with two monovalent chloride ions, giving XCl2. 'XCl' is wrong because it requires a valency of one, which belongs to an element of atomic number 11 such as sodium. 'XCl3' is wrong because it requires a valency of three, as in aluminium with atomic number 13. 'X2Cl' is wrong because it implies that chlorine is divalent, whereas chlorine needs just one electron and is always monovalent in such simple chlorides."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The mass of 0.5 mole of carbon dioxide is (atomic masses: C = 12 u, O = 16 u):",
+      "options": [
+        "22 g",
+        "28 g",
+        "44 g",
+        "11 g"
+      ],
+      "correctAnswer": "22 g",
+      "explanation": "The molar mass of carbon dioxide is 12 + (2 x 16) = 44 g per mole, so 0.5 mole weighs 0.5 x 44 = 22 g. '44 g' is wrong because that is the mass of one full mole, not of half a mole. '11 g' is wrong because it corresponds to 0.25 mole, obtained by dividing 44 by four instead of two. '28 g' is wrong because it is the molar mass of carbon monoxide or of nitrogen gas and bears no relation to half a mole of carbon dioxide."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about pH and indicators:\n\n(i) A solution whose pH is 7 at 25 degrees Celsius is neutral.\n(ii) Phenolphthalein is colourless in an acidic solution and pink in an alkaline solution.\n(iii) The pH scale ranges from 1 to 100.\n(iv) Tooth decay begins when the pH of the mouth falls below about 5.5.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because at pH 7 the concentrations of hydrogen and hydroxide ions are equal. Statement (ii) correctly describes the behaviour of phenolphthalein. Statement (iv) is correct: below about pH 5.5 the enamel begins to dissolve, which is why toothpastes are mildly basic. Statement (iii) is incorrect because the ordinary pH scale runs from 0 to 14, not from 1 to 100. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "Brass is an alloy of:",
+      "options": [
+        "Copper and tin",
+        "Copper and nickel",
+        "Copper and zinc",
+        "Copper and aluminium"
+      ],
+      "correctAnswer": "Copper and zinc",
+      "explanation": "Brass is an alloy of copper and zinc, valued for its golden colour, workability and resistance to corrosion, and used for utensils, fittings and musical instruments. 'Copper and tin' is wrong because that combination is bronze, a harder alloy historically used for tools, statues and bells. 'Copper and nickel' is wrong because that is cupronickel, used chiefly for coinage and condenser tubes. 'Copper and aluminium' is wrong because that is aluminium bronze, used for corrosion-resistant marine fittings."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "A laboratory assistant measured the pH of four household liquids and recorded the following values:\n\nLiquid P: pH 2.2\nLiquid Q: pH 6.8\nLiquid R: pH 8.4\nLiquid S: pH 11.5\n\nWhich of the following conclusions drawn from this data is correct?",
+      "options": [
+        "Liquid Q is strongly acidic and would corrode metal very rapidly",
+        "Liquid R is the most acidic of the four liquids tested",
+        "Liquid P would turn red litmus paper blue on contact",
+        "Liquid S is the most alkaline and would feel soapy to the touch"
+      ],
+      "correctAnswer": "Liquid S is the most alkaline and would feel soapy to the touch",
+      "explanation": "At pH 11.5 Liquid S is the furthest above 7 and is therefore the most alkaline; a soapy or slippery feel is a characteristic property of alkalis. The statement about Liquid Q is wrong because pH 6.8 is only marginally below 7, making it very weakly acidic and practically neutral. The statement about Liquid R is wrong because pH 8.4 lies above 7 and is alkaline, while the most acidic liquid is in fact P. The statement about Liquid P is wrong because a strongly acidic liquid turns BLUE litmus red; turning red litmus blue is the behaviour of a base."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "In the reaction in which copper oxide reacts with hydrogen to give copper and water, the substance that undergoes reduction is:",
+      "options": [
+        "Copper oxide",
+        "Hydrogen",
+        "Copper",
+        "Water"
+      ],
+      "correctAnswer": "Copper oxide",
+      "explanation": "Copper oxide loses its oxygen and is converted to metallic copper, and loss of oxygen is by definition reduction, so copper oxide is the substance reduced and also acts as the oxidising agent. 'Hydrogen' is wrong because hydrogen GAINS oxygen to become water, so it is oxidised and acts as the reducing agent. 'Copper' is wrong because it is the product formed by the reduction, not the reactant that undergoes it. 'Water' is wrong because it is the product of the oxidation of hydrogen and does not itself change in this reaction."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Soap does not produce a good lather with hard water.\nReason (R): Hard water is unsuitable for use in steam boilers because it forms a hard scale on the inner walls.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). The reason soap fails to lather is that the calcium and magnesium ions in hard water react with the soap to form an insoluble scum, so the soap is used up before any lather can form. Scale formation in boilers is a separate consequence of the same hardness, not the cause of the lathering problem. The first option is wrong because it treats one effect of hardness as the explanation of another. The third and fourth options are wrong because both statements are in fact correct."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "A catalyst is best described as a substance which:",
+      "options": [
+        "is completely consumed in the course of the reaction it assists",
+        "shifts the position of the equilibrium towards the products",
+        "alters the rate of a reaction without being consumed in it",
+        "raises the final yield of the product beyond the equilibrium amount"
+      ],
+      "correctAnswer": "alters the rate of a reaction without being consumed in it",
+      "explanation": "A catalyst provides an alternative pathway of lower activation energy, so the reaction proceeds faster, and it is recovered unchanged in mass and chemical composition at the end. The first option is wrong because a substance wholly consumed in a reaction is a reactant, not a catalyst. The second and fourth options are wrong for the same underlying reason: a catalyst speeds up the forward and the reverse reactions to exactly the same extent, so it helps equilibrium to be reached sooner but cannot move its position or increase the equilibrium yield."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Match the elements in Column I with their chemical symbols in Column II:\n\nColumn I:\n(a) Potassium\n(b) Sodium\n(c) Iron\n(d) Silver\n\nColumn II:\n(i) Fe\n(ii) Ag\n(iii) K\n(iv) Na\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Potassium takes K from the Latin kalium, sodium takes Na from natrium, iron takes Fe from ferrum and silver takes Ag from argentum. The second option is wrong because it interchanges potassium and sodium, giving potassium the natrium symbol. The third option is wrong because it swaps iron and silver, assigning the argentum symbol to iron. The fourth option is wrong because it gives potassium the symbol for iron and iron the symbol for potassium, mismatching both of them."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Which of the following are physical changes?\n\n(i) Melting of ice\n(ii) Dissolving common salt in water\n(iii) Burning of a magnesium ribbon\n(iv) Boiling of water\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Melting, dissolving and boiling all leave the chemical identity of the substance untouched and are reversible by simple physical means such as cooling or evaporating, so all three are physical changes. Burning magnesium is the exception: the metal combines with oxygen to form magnesium oxide, a brand new substance with entirely different properties, and the change cannot be reversed physically. Hence the first option is wrong (it includes burning and omits boiling), the second is wrong (it includes burning and omits melting), and the third is wrong (it includes burning and omits dissolving)."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "An ionic bond is formed when:",
+      "options": [
+        "two atoms share one or more pairs of electrons between them equally",
+        "one atom transfers electrons to another and the resulting ions attract each other",
+        "atoms of a metal are held together in a lattice by a sea of free electrons",
+        "one atom donates a pair of electrons which is then shared by both atoms"
+      ],
+      "correctAnswer": "one atom transfers electrons to another and the resulting ions attract each other",
+      "explanation": "In ionic bonding electrons pass completely from one atom to another, producing a positive and a negative ion which are then held together by strong electrostatic attraction, as in sodium chloride. The first option is wrong because equal sharing of electron pairs defines a covalent bond. The third option is wrong because a lattice of cations in a sea of delocalised electrons describes metallic bonding. The fourth option is wrong because a donated but shared pair is a coordinate or dative covalent bond, in which the electrons are shared rather than transferred outright."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Consider the following statements about metals and non-metals:\n\n(i) Metals are generally good conductors of heat and electricity.\n(ii) Metals are usually malleable and ductile.\n(iii) All non-metals exist as solids at room temperature.\n(iv) The oxides of metals are generally basic in nature.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because the delocalised electrons in metals carry both charge and heat. Statement (ii) is correct, as metals can be beaten into sheets and drawn into wires. Statement (iv) is correct: oxides such as sodium oxide and calcium oxide dissolve to give alkalis. Statement (iii) is incorrect because many non-metals are gases at room temperature, including oxygen, nitrogen and chlorine, and bromine is even a liquid. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "During the electrolysis of acidified water, the gas liberated at the cathode is:",
+      "options": [
+        "Oxygen",
+        "Chlorine",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correctAnswer": "Hydrogen",
+      "explanation": "The cathode is the negative electrode, so positively charged hydrogen ions travel towards it, gain electrons and are released as hydrogen gas, in a volume twice that of the gas collected at the anode. 'Oxygen' is wrong because oxygen is liberated at the ANODE, where negatively charged species give up electrons. 'Chlorine' is wrong because chlorine appears in the electrolysis of brine, where chloride ions are present, whereas acidified water contains none. 'Carbon dioxide' is wrong because water and the added acid supply no carbon for it to form."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Helium rather than hydrogen is used to fill weather balloons.\nReason (R): Helium is lighter than hydrogen and therefore provides greater lift for the same volume.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: helium is indeed preferred for balloons. (R) is wrong on the facts, because hydrogen with a molar mass of about 2 is the lightest gas of all and gives MORE lift than helium with a molar mass of about 4. The true reason for choosing helium is that it is chemically inert and non-inflammable, whereas hydrogen forms explosive mixtures with air. The first and second options are wrong because both require (R) to be correct, and the fourth is wrong because (A) is a correct statement of practice."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Which of the following is an unsaturated hydrocarbon?",
+      "options": [
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethene"
+      ],
+      "correctAnswer": "Ethene",
+      "explanation": "Ethene contains a carbon-to-carbon double bond, so it has fewer hydrogen atoms than the corresponding alkane and is therefore unsaturated; it consequently undergoes addition reactions and burns with a sooty flame. 'Methane' is wrong because with a single carbon atom and four single bonds it is fully saturated. 'Propane' and 'Butane' are wrong for the same reason: both are alkanes in which every carbon atom is joined to its neighbours by single bonds only, leaving no scope for addition."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Four metals W, X, Y and Z were each added separately to dilute hydrochloric acid and to copper sulphate solution, with the following results:\n\nMetal W: no reaction with the acid; no reaction with copper sulphate\nMetal X: brisk effervescence with the acid; displaces copper from copper sulphate\nMetal Y: slow effervescence with the acid; displaces copper from copper sulphate\nMetal Z: no reaction with the acid; displaces copper from copper sulphate\n\nThe correct order of decreasing reactivity of these metals is:",
+      "options": [
+        "W > Z > Y > X",
+        "X > Y > Z > W",
+        "X > Z > Y > W",
+        "Y > X > Z > W"
+      ],
+      "correctAnswer": "X > Y > Z > W",
+      "explanation": "X displaces hydrogen briskly, so it is the most reactive; Y does so only slowly, placing it below X but still above hydrogen; Z cannot displace hydrogen from acid yet can displace copper, so it lies between hydrogen and copper; W reacts with neither, so it lies below copper and is least reactive. 'W > Z > Y > X' is wrong because it states the order exactly backwards. 'X > Z > Y > W' is wrong because it puts Z above Y even though Z cannot release hydrogen from acid while Y can. 'Y > X > Z > W' is wrong because it ranks Y above X although X's reaction with the acid was distinctly the brisker of the two."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Match the acids in Column I with the natural sources in which they occur in Column II:\n\nColumn I:\n(a) Citric acid\n(b) Lactic acid\n(c) Acetic acid\n(d) Oxalic acid\n\nColumn II:\n(i) Vinegar\n(ii) Tomato\n(iii) Lemon\n(iv) Sour milk\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Citric acid gives lemons and other citrus fruits their sharpness, lactic acid forms when milk turns sour, acetic acid is the acid of vinegar, and oxalic acid occurs in tomatoes and in spinach. The second option is wrong because it swaps lactic and acetic acids, putting the milk acid in vinegar. The third option is wrong because it interchanges citric and oxalic acids, assigning the citrus acid to tomatoes. The fourth option is wrong because it exchanges acetic and oxalic acids, so vinegar would owe its taste to the acid of tomatoes."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about mixtures and compounds:\n\n(i) The constituents of a compound can be separated by simple physical methods such as filtration.\n(ii) A mixture may have a composition that varies from sample to sample.\n(iii) Air is a mixture whereas water is a compound.\n(iv) The properties of a compound differ from those of the elements composing it.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i) and (iv) only",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct because mixtures combine in any proportion, unlike compounds with their fixed ratios. Statement (iii) is correct: the gases of air retain their own properties, whereas hydrogen and oxygen are chemically combined in water. Statement (iv) is correct, since sodium chloride is edible although sodium and chlorine are both hazardous. Statement (i) is incorrect because a compound's constituents are chemically bonded and can be separated only by chemical means such as electrolysis. Every option containing (i) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The compound commonly used to disinfect the municipal supply of drinking water is __________.",
+      "options": [
+        "bleaching powder",
+        "washing soda",
+        "baking soda",
+        "plaster of Paris"
+      ],
+      "correctAnswer": "bleaching powder",
+      "explanation": "Bleaching powder, calcium oxychloride, slowly liberates chlorine, which destroys bacteria and other micro-organisms, and this is why it is used for treating public water supplies and swimming pools. 'Washing soda' is wrong because sodium carbonate is used to soften hard water and in laundry, and has no germicidal action. 'Baking soda' is wrong because sodium hydrogencarbonate is used in cooking and as an antacid. 'Plaster of Paris' is wrong because calcium sulphate hemihydrate is used for setting fractures and making moulds, not for disinfection."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Plaster of Paris is obtained by heating gypsum to about 100 degrees Celsius. When it is mixed with a suitable quantity of water it:",
+      "options": [
+        "remains chemically unchanged and merely forms a thick paste",
+        "sets into a hard mass by combining chemically with the water",
+        "dissolves completely to give a clear colourless solution",
+        "decomposes to release carbon dioxide and thereby hardens"
+      ],
+      "correctAnswer": "sets into a hard mass by combining chemically with the water",
+      "explanation": "Plaster of Paris is calcium sulphate hemihydrate, and on adding water it takes up the water it had lost and reverts to gypsum, the interlocking crystals of which give a hard rigid solid; this is why it is used for plaster casts and moulds. The first option is wrong because a genuine chemical combination occurs, not mere wetting. The third option is wrong because calcium sulphate is only sparingly soluble and the material sets rather than dissolves. The fourth option is wrong because plaster of Paris contains no carbonate, so no carbon dioxide can possibly be released."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Which of the following are examples of a chemical change?\n\n(i) Rusting of an iron nail left in the open\n(ii) Souring of milk kept overnight\n(iii) Sublimation of camphor on gentle heating\n(iv) Burning of the wick of a candle\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Rusting forms hydrated iron oxide, souring forms lactic acid through bacterial action, and burning forms carbon dioxide and water, so in each case a new substance with new properties appears and the change cannot be undone physically. Sublimation of camphor is the exception: the solid simply becomes vapour and can be recovered unchanged by cooling, so it is a physical change. Hence the first option is wrong (it includes sublimation and omits burning), the second is wrong (it includes sublimation and omits rusting), and the fourth is wrong (it includes sublimation and omits souring)."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The main constituent of the liquefied petroleum gas (LPG) supplied in domestic cylinders is:",
+      "options": [
+        "Methane",
+        "Ethane",
+        "Hydrogen",
+        "Butane"
+      ],
+      "correctAnswer": "Butane",
+      "explanation": "LPG consists chiefly of butane together with some propane, because these gases can be liquefied under moderate pressure at ordinary temperatures and so a large amount of fuel is stored in a small cylinder. 'Methane' is wrong because it is the main component of natural gas and CNG and cannot be liquefied by pressure alone at room temperature. 'Ethane' is wrong because it occurs only in small traces in LPG. 'Hydrogen' is wrong because it is not supplied as a domestic cooking fuel and would be far too hazardous in cylinders of this kind."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements about the structure of the atom:\n\n(i) Almost the entire mass of an atom is concentrated in its nucleus.\n(ii) Isotopes of an element have the same atomic number but different mass numbers.\n(iii) The number of neutrons in an atom is always equal to the number of protons.\n(iv) An atom as a whole is electrically neutral because it has equal numbers of protons and electrons.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because protons and neutrons are nearly two thousand times heavier than electrons. Statement (ii) is the definition of isotopes. Statement (iv) is correct as the equal and opposite charges cancel exactly. Statement (iii) is incorrect: only in the lighter elements are the two numbers often equal, and in most atoms neutrons outnumber protons — chlorine-35, for instance, has 17 protons but 18 neutrons. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The most abundant element by mass in the Earth's crust is:",
+      "options": [
+        "Silicon",
+        "Oxygen",
+        "Aluminium",
+        "Iron"
+      ],
+      "correctAnswer": "Oxygen",
+      "explanation": "Oxygen accounts for roughly 46 per cent of the mass of the crust because it is chemically combined in the silicate minerals and oxides that make up most rock. 'Silicon' is wrong because at about 28 per cent it is the second most abundant element, not the first. 'Aluminium' is wrong because at about 8 per cent it is only the most abundant METAL in the crust. 'Iron' is wrong because at roughly 5 per cent it ranks fourth, even though it is far more abundant deeper down in the Earth's core."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "The percentage of nitrogen by mass in urea, whose formula is CO(NH2)2, is approximately (atomic masses: C = 12 u, O = 16 u, N = 14 u, H = 1 u):",
+      "options": [
+        "23 per cent",
+        "35 per cent",
+        "47 per cent",
+        "60 per cent"
+      ],
+      "correctAnswer": "47 per cent",
+      "explanation": "The molar mass of urea is 12 + 16 + 2 x (14 + 2) = 60 g per mole, of which nitrogen contributes 2 x 14 = 28 g, giving 28/60 x 100 = 46.7 per cent, or about 47 per cent. '23 per cent' is wrong because it counts only one nitrogen atom instead of two. '35 per cent' is wrong because it corresponds to a molar mass of about 80 rather than 60. '60 per cent' is wrong because it mistakes the numerical value of the molar mass for a percentage."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Match the polymers in Column I with their typical uses in Column II:\n\nColumn I:\n(a) Polythene\n(b) Polyvinyl chloride\n(c) Bakelite\n(d) Nylon\n\nColumn II:\n(i) Electrical switches and pan handles\n(ii) Carry bags and packaging film\n(iii) Ropes and parachute fabric\n(iv) Water pipes and wire insulation\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Polythene is a soft flexible plastic used for bags and film, polyvinyl chloride is rigid and is used for pipes and cable covering, bakelite is a heat-resistant electrical insulator used for switches and handles, and nylon is a strong fibre used for ropes and parachutes. The first option is wrong because it makes bakelite a fibre for ropes and nylon an insulator for switches. The second option is wrong because it swaps polythene and polyvinyl chloride, using a soft film material for pressure pipes. The third option is wrong because it interchanges polyvinyl chloride and bakelite, so a thermosetting resin would be used for water pipes."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Detergents are preferred to soaps for washing clothes in hard water because:",
+      "options": [
+        "the calcium and magnesium salts of detergents are soluble in water",
+        "detergents are weaker cleaning agents and therefore protect the fabric",
+        "detergents are completely biodegradable in every kind of natural water",
+        "detergents raise the pH of the water and soften it permanently"
+      ],
+      "correctAnswer": "the calcium and magnesium salts of detergents are soluble in water",
+      "explanation": "Detergents form soluble salts with the calcium and magnesium ions responsible for hardness, so they continue to lather and clean, whereas soaps form an insoluble scum with the same ions and are wasted. The second option is wrong because detergents are generally the stronger cleansers, which is precisely why they are used for heavily soiled washing. The third option is wrong and indeed reversed, since detergents with branched chains resist bacterial breakdown and cause persistent foam in rivers. The fourth option is wrong because detergents do not soften water at all; they simply work in spite of its hardness."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Consider the following statements about oxidation and reduction:\n\n(i) Oxidation involves the loss of electrons by a species.\n(ii) A reducing agent is itself reduced in the course of the reaction.\n(iii) Oxidation and reduction always occur together in a redox reaction.\n(iv) The addition of oxygen to a substance is a form of oxidation.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct as loss of electrons is the modern definition of oxidation. Statement (iii) is correct because the electrons lost by one species must be gained by another, so the two processes are inseparable. Statement (iv) is correct and is the older, classical definition. Statement (ii) is incorrect and inverts the roles: a reducing agent gives electrons away and is therefore itself OXIDISED, while the oxidising agent is the one that gets reduced. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "Which of the following nitrogenous fertilisers has the highest percentage of nitrogen?",
+      "options": [
+        "Ammonium sulphate",
+        "Calcium ammonium nitrate",
+        "Urea",
+        "Ammonium nitrate"
+      ],
+      "correctAnswer": "Urea",
+      "explanation": "Urea contains about 46 per cent nitrogen, the highest of any common solid nitrogenous fertiliser, which is why it dominates fertiliser use in Indian agriculture and is the cheapest way of carrying nitrogen to the field. 'Ammonium sulphate' is wrong because it holds only about 21 per cent nitrogen and also tends to acidify the soil. 'Calcium ammonium nitrate' is wrong because its nitrogen content is roughly 26 per cent. 'Ammonium nitrate' is wrong because at about 35 per cent it is richer than the other two but still well below urea."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The process in which a solid changes directly into vapour on heating, without passing through the liquid state, is called __________.",
+      "options": [
+        "evaporation",
+        "condensation",
+        "fusion",
+        "sublimation"
+      ],
+      "correctAnswer": "sublimation",
+      "explanation": "Sublimation is the direct conversion of a solid into vapour, shown by camphor, naphthalene balls, iodine and solid carbon dioxide, and it is used to purify such substances. 'Evaporation' is wrong because it is the change from LIQUID to vapour, which requires a liquid stage. 'Condensation' is wrong because it is the reverse change from vapour to liquid. 'Fusion' is wrong because it is simply another name for melting, the change from solid to liquid."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Diamond conducts electricity better than graphite because its carbon atoms are more tightly packed together.\nReason (R): In graphite each carbon atom is bonded to only three other carbon atoms, leaving one delocalised electron per atom.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: in graphite three of each carbon atom's four valence electrons form bonds within the layer and the fourth is delocalised, which is exactly what makes graphite a conductor. (A) is wrong because it reverses the facts — graphite conducts electricity while diamond is an insulator, since in diamond all four electrons of every carbon atom are locked into rigid single bonds and none is free to move. The first and second options are wrong because both require (A) to be correct, and the third option is wrong because (R) is accurate."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "Which of the following are greenhouse gases?\n\n(i) Carbon dioxide\n(ii) Methane\n(iii) Nitrogen\n(iv) Water vapour\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Carbon dioxide, methane and water vapour all absorb outgoing infrared radiation and re-emit it towards the Earth, which is what produces the greenhouse effect. Nitrogen is the exception: although it forms about 78 per cent of the atmosphere, its symmetrical diatomic molecule has no dipole and cannot absorb infrared radiation, so it plays no greenhouse role at all. Hence the first option is wrong (it includes nitrogen and omits water vapour), the third is wrong (it includes nitrogen and omits carbon dioxide), and the fourth is wrong (it includes nitrogen and omits methane)."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "Two atoms X and Y contain the same number of protons but different numbers of neutrons. They are:",
+      "options": [
+        "isobars of each other",
+        "allotropes of each other",
+        "isotopes of each other",
+        "ions of the same element"
+      ],
+      "correctAnswer": "isotopes of each other",
+      "explanation": "The same number of protons means the same atomic number and hence the same element, while differing neutrons give different mass numbers, and this is precisely the definition of isotopes, as with carbon-12 and carbon-14. 'Isobars' is wrong because isobars have the same MASS number but different atomic numbers, so they are atoms of different elements. 'Allotropes' is wrong because allotropy concerns different structural forms of an element in bulk, such as diamond and graphite, not differences within the nucleus. 'Ions of the same element' is wrong because ions differ in the number of ELECTRONS, not neutrons."
+    }
+  ]
+}

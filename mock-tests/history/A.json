@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 459,
+  "count": 489,
   "questions": [
     {
       "test": 1,
@@ -2297,6 +2297,156 @@
       "test": 63,
       "stem": "the relationship of one's father's father to oneself is known as one's",
       "key": "Paternal grandfather"
+    },
+    {
+      "test": 67,
+      "stem": "statement: the district administration has advised residents of the low-lying colonies to",
+      "key": "The residents of the low-lying colonies face a risk that moving to the camps ..."
+    },
+    {
+      "test": 67,
+      "stem": "consider the following statements about drawing inferences: (i) an inference is a",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "a sub-inspector is recording the statement of a woman who has just",
+      "key": "Allow her a few minutes to settle, offer her water, and then take the account..."
+    },
+    {
+      "test": 67,
+      "stem": "match each component of emotional intelligence in column i with its description",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 67,
+      "stem": "'every officer who has served in this district for more than ten",
+      "key": "Treats the opinion of an interested group as proof of the claim itself"
+    },
+    {
+      "test": 67,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 67,
+      "stem": "which of the following are recognised components of emotional intelligence? (i) self-awareness",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "statement: over the last three years, every candidate from this centre who",
+      "key": "Only conclusion (II) follows"
+    },
+    {
+      "test": 67,
+      "stem": "the table below shows the number of road-accident cases registered in a",
+      "key": "The number of cases has risen every year, but the yearly increase has steadil..."
+    },
+    {
+      "test": 67,
+      "stem": "below are two statements. choose the option that correctly describes the relationship",
+      "key": "Statement I is the cause and Statement II is its effect"
+    },
+    {
+      "test": 67,
+      "stem": "consider the following statements about emotional intelligence: (i) a person with high",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "statement: several shopkeepers in a market have complained that a group of",
+      "key": "Only course of action (II) is appropriate"
+    },
+    {
+      "test": 67,
+      "stem": "three of the four letter-groups given below are alike in the pattern",
+      "key": "KMPR"
+    },
+    {
+      "test": 67,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 67,
+      "stem": "read the following information and choose the conclusion that can be most",
+      "key": "The stations using the computerised system disposed of complaints faster on a..."
+    },
+    {
+      "test": 67,
+      "stem": "match each error of reasoning in column i with the example that",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 67,
+      "stem": "which of the following are examples of active listening while interviewing a",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "two constables working under a sub-inspector have stopped speaking to each other",
+      "key": "Speak to each constable separately, establish the specific grievance, and the..."
+    },
+    {
+      "test": 67,
+      "stem": "consider the following statements about observation and discrimination as tested in reasoning",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "the monthly figures for a particular category of complaint at a police",
+      "key": "50"
+    },
+    {
+      "test": 67,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 67,
+      "stem": "statement: should the use of body-worn cameras be made compulsory for police",
+      "key": "Only argument (I) is strong"
+    },
+    {
+      "test": 67,
+      "stem": "a station house officer reviewed the disposal of cases at his station",
+      "key": "The pendency at the end of the year fell to 150 cases"
+    },
+    {
+      "test": 67,
+      "stem": "match each situation in column i with the interpersonal skill most needed",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 67,
+      "stem": "consider the following statements about judgment and decision making: (i) a decision",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "statement: 'enrol in our online course and clear the examination in your",
+      "key": "Candidates would like to clear the examination in their first attempt"
+    },
+    {
+      "test": 67,
+      "stem": "which of the following are true of a valid deductive argument? (i)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 67,
+      "stem": "the ability to recognise one's own emotions as they arise and to",
+      "key": "self-awareness"
+    },
+    {
+      "test": 67,
+      "stem": "during a religious procession, a sub-inspector learns that a rumour about an",
+      "key": "Verify the facts quickly through the local beat staff and have the correct po..."
+    },
+    {
+      "test": 67,
+      "stem": "consider the following statements about identifying a trend in a set of",
+      "key": "(i), (iii) and (iv)"
     }
   ]
 }

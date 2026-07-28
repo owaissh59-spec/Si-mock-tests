@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 414,
+  "count": 504,
   "questions": [
     {
       "test": 3,
@@ -2072,6 +2072,456 @@
       "test": 63,
       "stem": "the following table shows the cost prices and selling prices of three",
       "key": "Item A"
+    },
+    {
+      "test": 65,
+      "stem": "a speed of 72 km/h expressed in metres per second is:",
+      "key": "20 m/s"
+    },
+    {
+      "test": 65,
+      "stem": "consider the following statements about the relationship between speed, distance and time:",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 65,
+      "stem": "a train 180 metres long passes an electric pole in 12 seconds.",
+      "key": "54 km/h"
+    },
+    {
+      "test": 65,
+      "stem": "match each situation in column i with the correct expression for the",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 65,
+      "stem": "a man covers a certain distance from his village to the town",
+      "key": "4.8 km/h"
+    },
+    {
+      "test": 65,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 65,
+      "stem": "which of the following are equivalent to a speed of 36 km/h?",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 65,
+      "stem": "a train running at a uniform speed of 60 km/h crosses a",
+      "key": "300 metres"
+    },
+    {
+      "test": 65,
+      "stem": "if the speed of a boat in still water is 10 km/h",
+      "key": "12"
+    },
+    {
+      "test": 65,
+      "stem": "the following data were recorded for four cyclists during a training session:",
+      "key": "Cyclist C"
+    },
+    {
+      "test": 65,
+      "stem": "a student walking to school at 5 km/h reaches 6 minutes late,",
+      "key": "5.0 km"
+    },
+    {
+      "test": 65,
+      "stem": "consider the following statements about problems on trains: (i) to cross a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 65,
+      "stem": "a boat covers 28 km downstream in 2 hours and 18 km",
+      "key": "4 km/h"
+    },
+    {
+      "test": 65,
+      "stem": "two trains of lengths 120 metres and 180 metres are running on",
+      "key": "12 seconds"
+    },
+    {
+      "test": 65,
+      "stem": "match the speeds in column i with their equivalent values in metres",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 65,
+      "stem": "a person leaves his home at 9:00 a.m. and travels at a",
+      "key": "60 km"
+    },
+    {
+      "test": 65,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 65,
+      "stem": "which of the following are quantities that remain unchanged when a boat",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 65,
+      "stem": "a policeman spots a thief 200 metres ahead of him and starts",
+      "key": "2.0 km"
+    },
+    {
+      "test": 65,
+      "stem": "consider the following statements about average speed: (i) when equal times are",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 65,
+      "stem": "the speeds of two cars are in the ratio 5 : 8.",
+      "key": "5.0 hours"
+    },
+    {
+      "test": 65,
+      "stem": "a bus operates on a fixed 300 km route. the following running",
+      "key": "Day 2"
+    },
+    {
+      "test": 65,
+      "stem": "match each situation in column i with the correct expression for the",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 65,
+      "stem": "a man can swim at 6 km/h in still water. in a",
+      "key": "6.0 hours"
+    },
+    {
+      "test": 65,
+      "stem": "which of the following are situations that require the concept of relative",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 65,
+      "stem": "consider the following statements about problems on boats and streams: (i) downstream",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 65,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 65,
+      "stem": "a car covers 60 km in the first hour, 80 km in",
+      "key": "80 km/h"
+    },
+    {
+      "test": 65,
+      "stem": "two towns a and b are 340 km apart. a car starts",
+      "key": "12:00 noon"
+    },
+    {
+      "test": 65,
+      "stem": "if a train covers a distance of 1 km in 40 seconds,",
+      "key": "90"
+    },
+    {
+      "test": 65,
+      "stem": "a man travels from p to q at 30 km/h and returns",
+      "key": "90 km"
+    },
+    {
+      "test": 65,
+      "stem": "which of the following are valid units for expressing speed? (i) metre",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 65,
+      "stem": "match each journey in column i with its average speed in column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 65,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 65,
+      "stem": "excluding stoppages, the speed of a bus is 54 km/h, and including",
+      "key": "10 minutes"
+    },
+    {
+      "test": 65,
+      "stem": "consider the following statements about relative speed: (i) the relative speed of",
+      "key": "(ii) and (iv) only"
+    },
+    {
+      "test": 65,
+      "stem": "a train 150 metres long is running at 68 km/h. a man",
+      "key": "9 seconds"
+    },
+    {
+      "test": 65,
+      "stem": "a car covers a distance of 715 km at a uniform speed.",
+      "key": "55 km/h"
+    },
+    {
+      "test": 65,
+      "stem": "consider the following statements: (i) if two cars cover the same distance,",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 65,
+      "stem": "a person has to cover a distance of 6 km in 45",
+      "key": "12 km/h"
+    },
+    {
+      "test": 69,
+      "stem": "a can complete a piece of work in 12 days and b",
+      "key": "7.2 days"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about problems on time and work: (i) if",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "a can finish a piece of work in 20 days. if he",
+      "key": "3/4"
+    },
+    {
+      "test": 69,
+      "stem": "match the time taken by a worker to complete a job in",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 69,
+      "stem": "if 15 men can complete a piece of work in 20 days,",
+      "key": "12 days"
+    },
+    {
+      "test": 69,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 69,
+      "stem": "which of the following are examples of an inverse proportion? (i) the",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "a is twice as good a workman as b. working together they",
+      "key": "42 days"
+    },
+    {
+      "test": 69,
+      "stem": "two pipes can fill a tank in 6 hours and 8 hours",
+      "key": "3 and 3/7 hours"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about problems on pipes and cisterns: (i) an",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "a and b together can complete a work in 8 days, while",
+      "key": "24 days"
+    },
+    {
+      "test": 69,
+      "stem": "a junior engineer recorded the performance of three pipes fitted to a",
+      "key": "7.5 hours"
+    },
+    {
+      "test": 69,
+      "stem": "a pipe can fill a tank in 5 hours, but because of",
+      "key": "30 hours"
+    },
+    {
+      "test": 69,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 69,
+      "stem": "a alone can do a piece of work in 10 days and",
+      "key": "1,800 rupees"
+    },
+    {
+      "test": 69,
+      "stem": "match each arrangement of pipes in column i with the correct net",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 69,
+      "stem": "which of the following are correct statements about efficiency in problems on",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "6 men and 8 boys can do a piece of work in",
+      "key": "4 days"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about wages and the chain rule in work",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "a can complete a work in 8 days and b can complete",
+      "key": "9.5 days"
+    },
+    {
+      "test": 69,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 69,
+      "stem": "a is 25 per cent more efficient than b. if b alone",
+      "key": "20 days"
+    },
+    {
+      "test": 69,
+      "stem": "a supervisor recorded the manpower used by four teams, each of which",
+      "key": "Team P"
+    },
+    {
+      "test": 69,
+      "stem": "match the ratio of the efficiencies of a and b in column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about two persons working together: (i) if a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 69,
+      "stem": "two pipes can fill a tank in 20 minutes and 30 minutes",
+      "key": "60 minutes"
+    },
+    {
+      "test": 69,
+      "stem": "which of the following are correct relations used in problems on time",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "a can do a piece of work in 10 days and b",
+      "key": "5 days"
+    },
+    {
+      "test": 69,
+      "stem": "if 12 men working 8 hours a day can complete a piece",
+      "key": "10 days"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements: (i) if 8 men can do a work",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 69,
+      "stem": "if a person can complete a piece of work in n days,",
+      "key": "1/n"
+    },
+    {
+      "test": 69,
+      "stem": "a, b and c together can complete a piece of work in",
+      "key": "9 days"
+    },
+    {
+      "test": 69,
+      "stem": "match each pair of workers in column i with the time they",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 69,
+      "stem": "which of the following are factors that affect the number of days",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 69,
+      "stem": "a contractor undertook to finish a work in 40 days and employed",
+      "key": "40 men"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about pipes fitted to a tank: (i) a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 69,
+      "stem": "the ratio of the times taken by a and b to complete",
+      "key": "21 days"
+    },
+    {
+      "test": 69,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 69,
+      "stem": "a contractor compared four proposals for a job that requires 600 man-days",
+      "key": "Proposal IV"
+    },
+    {
+      "test": 69,
+      "stem": "if 10 persons can dig a trench in 6 days working 8",
+      "key": "6 hours"
+    },
+    {
+      "test": 69,
+      "stem": "a cistern has two inlet pipes which can fill it in 12",
+      "key": "8 hours 15 minutes"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about a leak in a cistern: (i) a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 69,
+      "stem": "a and b together can do a piece of work in 12",
+      "key": "10 days"
+    },
+    {
+      "test": 69,
+      "stem": "match each situation in column i with the time the leak alone",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 69,
+      "stem": "which of the following are true of the man-day method of solving",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 69,
+      "stem": "a alone can finish a piece of work in 18 days and",
+      "key": "12 days"
+    },
+    {
+      "test": 69,
+      "stem": "a pipe that draws water out of a tank instead of filling",
+      "key": "outlet"
+    },
+    {
+      "test": 69,
+      "stem": "if 6 machines can produce 240 units in 8 hours, the number",
+      "key": "270 units"
+    },
+    {
+      "test": 69,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 69,
+      "stem": "consider the following statements about outlet pipes and leaks: (i) a leak",
+      "key": "(i), (ii) and (iii)"
     }
   ]
 }

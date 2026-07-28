@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 423,
+  "count": 473,
   "questions": [
     {
       "test": 4,
@@ -2117,6 +2117,256 @@
       "test": 63,
       "stem": "which of the following are correct transformations of active voice to passive",
       "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 66,
+      "stem": "the four sentences below, labelled (p), (q), (r) and (s), have been",
+      "key": "Q-S-P-R"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about the technique of solving jumbled-paragraph questions: (i)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "the sentence below has been split into four parts, labelled (a), (b),",
+      "key": "B-A-C-D"
+    },
+    {
+      "test": 66,
+      "stem": "match each discourse marker in column i with the function it performs",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 66,
+      "stem": "in the following item, the first sentence (s1) and the last sentence",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 66,
+      "stem": "which of the following are reliable indications that a sentence is the",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "read the four sentences given below. which of them should come last",
+      "key": "Sentence (S)"
+    },
+    {
+      "test": 66,
+      "stem": "a sentence that begins with a pronoun whose antecedent has not yet",
+      "key": "opening"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about cohesion in a paragraph: (i) demonstratives such",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "the sentence below has been split into four parts given in jumbled",
+      "key": "B-D-C-A"
+    },
+    {
+      "test": 66,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-S-P-R"
+    },
+    {
+      "test": 66,
+      "stem": "match each sentence in column i with the function it performs within",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 66,
+      "stem": "which of the following are connectors that express contrast? (i) nevertheless (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-S-P-R"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about ordering sentences in a narrative paragraph: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "read the four sentences given below. which of them should come first",
+      "key": "Sentence (R)"
+    },
+    {
+      "test": 66,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-R-P-S"
+    },
+    {
+      "test": 66,
+      "stem": "the sentence below has been split into four parts given in jumbled",
+      "key": "B-D-A-C"
+    },
+    {
+      "test": 66,
+      "stem": "match each discourse marker in column i with the relationship it signals",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about a well-constructed paragraph: (i) it deals with",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "which of the following are valid grounds for concluding that a given",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "P-Q-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about the use of articles as a clue",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "the sentence below has been split into four parts given in jumbled",
+      "key": "A-C-B-D"
+    },
+    {
+      "test": 66,
+      "stem": "in each pair below, two sentences of a paragraph are given. match",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "which of the following are sentences that could logically follow the sentence",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about the topic sentence of a paragraph: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-S-P-R"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "P-R-Q-S"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about connectors used between sentences: (i) 'moreover' adds",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "the sentence below has been split into four parts given in jumbled",
+      "key": "B-D-A-C"
+    },
+    {
+      "test": 66,
+      "stem": "match each connector in column i with the relationship it expresses in",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 66,
+      "stem": "consider the following statements about a sound strategy for answering jumbled-paragraph questions:",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "which of the following are features of a well-ordered paragraph? (i) unity",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-S-P-R"
+    },
+    {
+      "test": 66,
+      "stem": "words and phrases such as 'firstly', 'next' and 'finally', which show the",
+      "key": "sequence"
+    },
+    {
+      "test": 66,
+      "stem": "arrange the following four sentences in the correct logical order to form",
+      "key": "Q-P-R-S"
     }
   ]
 }

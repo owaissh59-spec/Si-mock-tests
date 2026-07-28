@@ -1,0 +1,657 @@
+{
+  "subject": "C",
+  "topic": "Time & Work",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. Working together, they will finish it in:",
+      "options": [
+        "6 days",
+        "7 days",
+        "7.2 days",
+        "8 days"
+      ],
+      "correctAnswer": "7.2 days",
+      "explanation": "In one day A does 1/12 and B does 1/18 of the work, so together they do 1/12 + 1/18 = 3/36 + 2/36 = 5/36 of the work per day, and the whole work takes 36/5 = 7.2 days. '6 days' is wrong because it would need a combined daily rate of 1/6, which is more than the two actually achieve. '8 days' is wrong because it corresponds to a rate of 1/8, less than 5/36. '7 days' is wrong because it slightly overstates their speed; the exact value 36/5 is not a whole number, and rounding it down would mean the work was finished before it actually is."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about problems on time and work:\n\n(i) If a person completes a work in n days, his one day's work is 1/n of the work.\n(ii) Other things being equal, the work done is directly proportional to the number of days worked.\n(iii) When two persons work together, their combined one day's work is the product of their individual one day's works.\n(iv) For the same work, the number of days required is inversely proportional to the number of persons employed.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is the basic definition of one day's work. Statement (ii) is correct because at a fixed rate twice the days means twice the output. Statement (iv) is correct, as more hands on the same job means fewer days. Statement (iii) is incorrect: the rates of two workers must be ADDED, not multiplied — multiplying 1/10 and 1/15, for instance, would give 1/150, absurdly suggesting that two people together are far slower than either alone. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "A can finish a piece of work in 20 days. If he works for 5 days and then stops, the fraction of the work still left is:",
+      "options": [
+        "3/4",
+        "1/4",
+        "2/5",
+        "1/2"
+      ],
+      "correctAnswer": "3/4",
+      "explanation": "A's one day's work is 1/20, so in 5 days he completes 5 x 1/20 = 1/4 of the work, leaving 1 - 1/4 = 3/4 undone. '1/4' is wrong because that is the portion he has FINISHED, not the portion remaining. '1/2' is wrong because it would require him to have worked 10 days. '2/5' is wrong because it corresponds to 12 days of work remaining out of 20 in a different setting and does not follow from 5 days of work at a rate of 1/20 per day."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Match the time taken by a worker to complete a job in Column I with his one day's work in Column II:\n\nColumn I:\n(a) 10 days\n(b) 15 days\n(c) 20 days\n(d) 25 days\n\nColumn II:\n(i) 1/25 of the work\n(ii) 1/15 of the work\n(iii) 1/10 of the work\n(iv) 1/20 of the work\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "One day's work is always the reciprocal of the number of days, so 10 days gives 1/10, 15 days gives 1/15, 20 days gives 1/20 and 25 days gives 1/25. The first option is wrong because it swaps the entries for 20 days and 25 days. The third option is wrong because it gives the 10-day worker a rate of 1/25 and the 25-day worker a rate of 1/10, exactly reversing the fastest and slowest workers. The fourth option is wrong because it assigns 1/20 to the 10-day worker and 1/10 to the 20-day worker, again interchanging two of the pairs."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "If 15 men can complete a piece of work in 20 days, the number of days in which 25 men working at the same rate will complete it is:",
+      "options": [
+        "10 days",
+        "11 days",
+        "12 days",
+        "15 days"
+      ],
+      "correctAnswer": "12 days",
+      "explanation": "The work needs 15 x 20 = 300 man-days, so 25 men will require 300/25 = 12 days. '10 days' is wrong because 25 x 10 = 250 man-days, which falls short of the 300 needed. '15 days' is wrong because 25 x 15 = 375 man-days, far more than required, and it also wrongly assumes the days fall in the same proportion as the men rise. '11 days' is wrong because 25 x 11 = 275 man-days, again short of 300, leaving part of the work undone."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If 12 workers can complete a job in 9 days, then 18 workers will complete the same job in 6 days.\nReason (R): For a fixed amount of work, the number of days required varies inversely as the number of workers employed.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: the job needs 12 x 9 = 108 man-days, so 18 workers finish it in 108/18 = 6 days, which is the inverse proportion in action. The second option is wrong because the inverse relationship is the direct basis of the calculation, not an unrelated fact. The third option is wrong because inverse proportion between men and days is a standard and correct principle. The fourth option is wrong because the arithmetic in (A) checks out precisely."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Which of the following are examples of an inverse proportion?\n\n(i) The number of men employed and the number of days needed to finish a fixed quantity of work\n(ii) The number of days worked and the wages earned at a fixed daily rate\n(iii) The number of identical taps opened and the time taken to fill a given tank\n(iv) The efficiency of a worker and the time he needs for a given job\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "In each of (i), (iii) and (iv) one quantity rises while the other falls in the same proportion: more men means fewer days, more taps means less filling time, and greater efficiency means less time. Item (ii) is the exception and is a DIRECT proportion, because at a fixed daily rate more days worked means more wages earned, not fewer. Hence the first option is wrong (it includes wages and omits efficiency), the second is wrong (it includes wages and omits men and days), and the third is wrong (it includes wages and omits the taps)."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "A is twice as good a workman as B. Working together they finish a piece of work in 14 days. The number of days B alone would take to finish the same work is:",
+      "options": [
+        "42 days",
+        "28 days",
+        "21 days",
+        "36 days"
+      ],
+      "correctAnswer": "42 days",
+      "explanation": "Let B do 1 unit a day; then A does 2 units, and together they do 3 units a day. In 14 days they complete 3 x 14 = 42 units, which is the whole work, so B alone at 1 unit a day needs 42 days. '21 days' is wrong because 21 days is what A alone would take, since A does 2 units a day. '28 days' is wrong because it comes from simply doubling the 14 days, which ignores that the work is shared unequally. '36 days' is wrong because it matches no valid split of the 42 units of work between the two men."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "Two pipes can fill a tank in 6 hours and 8 hours respectively. If both are opened together on an empty tank, the time taken to fill it completely is:",
+      "options": [
+        "3 hours",
+        "3 and 3/7 hours",
+        "4 hours",
+        "7 hours"
+      ],
+      "correctAnswer": "3 and 3/7 hours",
+      "explanation": "In one hour the two pipes together fill 1/6 + 1/8 = 4/24 + 3/24 = 7/24 of the tank, so the whole tank takes 24/7 hours, that is 3 and 3/7 hours. '3 hours' is wrong because it would need a combined rate of 1/3, which exceeds 7/24. '4 hours' is wrong because it corresponds to a rate of 1/4, less than 7/24, so the tank would in fact be full sooner. '7 hours' is wrong because it comes from adding the two times and misreading the numerator 7 of the fraction 7/24 as the answer."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Consider the following statements about problems on pipes and cisterns:\n\n(i) An inlet pipe does positive work while an outlet pipe does negative work.\n(ii) If an inlet fills a tank in x hours, it fills 1/x of the tank in one hour.\n(iii) If the outlet is faster than the inlet, the tank will still eventually become full.\n(iv) When an inlet and an outlet are open together, the net rate is the inlet rate minus the outlet rate.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is the standard sign convention, statement (ii) is the definition of an hourly filling rate, and statement (iv) follows directly from that convention. Statement (iii) is incorrect: if the emptying rate is the greater, the net rate is negative, so the water level actually falls and the tank can never fill. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "A and B together can complete a work in 8 days, while A alone can complete it in 12 days. The number of days B alone would need is:",
+      "options": [
+        "16 days",
+        "18 days",
+        "20 days",
+        "24 days"
+      ],
+      "correctAnswer": "24 days",
+      "explanation": "B's one day's work is the combined rate minus A's rate: 1/8 - 1/12 = 3/24 - 2/24 = 1/24, so B alone takes 24 days. '16 days' is wrong because a rate of 1/16 added to A's 1/12 gives 7/48, not 1/8. '20 days' is wrong because 1/20 plus 1/12 gives 8/60 = 2/15, which is not 1/8. '18 days' is wrong because it appears to come from simply adding 8 and 12 and halving, a shortcut that has no basis in the addition of work rates."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "A junior engineer recorded the performance of three pipes fitted to a reservoir:\n\nPipe A: fills the empty reservoir in 10 hours when opened alone\nPipe B: fills the empty reservoir in 15 hours when opened alone\nPipe C: empties the full reservoir in 30 hours when opened alone\n\nIf all three pipes are opened together on an empty reservoir, the time taken to fill it is:",
+      "options": [
+        "7.5 hours",
+        "6 hours",
+        "8 hours",
+        "9 hours"
+      ],
+      "correctAnswer": "7.5 hours",
+      "explanation": "The net hourly rate is 1/10 + 1/15 - 1/30 = 3/30 + 2/30 - 1/30 = 4/30 = 2/15 of the reservoir, so filling takes 15/2 = 7.5 hours. '6 hours' is wrong because it is the answer obtained by ignoring the emptying pipe altogether, since 1/10 + 1/15 = 1/6. '8 hours' and '9 hours' are wrong because they correspond to net rates of 1/8 and 1/9, both smaller than 2/15, which would mean pipe C removes more water than it actually does."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "A pipe can fill a tank in 5 hours, but because of a leak at the bottom it takes 6 hours to fill. The time the leak alone would take to empty a full tank is:",
+      "options": [
+        "24 hours",
+        "30 hours",
+        "36 hours",
+        "11 hours"
+      ],
+      "correctAnswer": "30 hours",
+      "explanation": "The leak's rate is the difference between the pipe's rate and the observed net rate: 1/5 - 1/6 = 6/30 - 5/30 = 1/30, so the leak alone empties the full tank in 30 hours. '24 hours' is wrong because a rate of 1/24 would leave a net rate of 1/5 - 1/24 = 19/120, giving a filling time of about 6.3 hours rather than 6. '36 hours' is wrong because the resulting net rate would fill the tank in about 5.8 hours. '11 hours' is wrong because it comes from adding 5 and 6 instead of taking the difference of the rates."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two pipes which individually fill a tank in 12 hours and 24 hours will together fill it in 8 hours.\nReason (R): The capacity of a water tank is normally measured in litres.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct because 1/12 + 1/24 = 2/24 + 1/24 = 3/24 = 1/8, giving 8 hours. (R) is also a true statement, since tank capacity is indeed measured in litres. But (R) cannot explain (A): the result follows from adding the fractional filling rates, and it holds whatever unit the capacity is expressed in, because the actual volume cancels out. The first option is wrong because it treats an irrelevant fact as the explanation. The third and fourth options are wrong because both statements are individually correct."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "A alone can do a piece of work in 10 days and B alone in 15 days. They work together and receive a total payment of 3,000 rupees for the completed work. A's share of the payment is:",
+      "options": [
+        "1,200 rupees",
+        "1,500 rupees",
+        "1,800 rupees",
+        "2,000 rupees"
+      ],
+      "correctAnswer": "1,800 rupees",
+      "explanation": "Wages are divided in the ratio of work done, which for the same period is the ratio of the daily rates: 1/10 : 1/15 = 3 : 2. A therefore receives 3/5 of 3,000 = 1,800 rupees. '1,200 rupees' is wrong because that is B's share, obtained from the ratio 2/5. '1,500 rupees' is wrong because it divides the payment equally, which would only be fair if both men worked at the same rate. '2,000 rupees' is wrong because it uses the ratio 2 : 1, wrongly derived from the times 10 and 15 rather than from the rates."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Match each arrangement of pipes in Column I with the correct net rate in Column II:\n\nColumn I:\n(a) Two inlets filling in 10 hours and 15 hours, both open\n(b) One inlet filling in 10 hours and one outlet emptying in 15 hours, both open\n(c) Two outlets emptying in 10 hours and 15 hours, both open\n(d) One inlet filling in 15 hours and one outlet emptying in 10 hours, both open\n\nColumn II:\n(i) Net emptying rate of 1/30 of the tank per hour\n(ii) Net filling rate of 1/6 of the tank per hour\n(iii) Net emptying rate of 1/6 of the tank per hour\n(iv) Net filling rate of 1/30 of the tank per hour\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Two inlets add to 1/10 + 1/15 = 1/6 filling; an inlet of 1/10 against an outlet of 1/15 gives 1/30 filling; two outlets add to 1/6 emptying; an inlet of 1/15 against an outlet of 1/10 gives 1/30 emptying. The second option is wrong because it reverses the direction for (b) and (d), making the faster inlet lose water. The third option is wrong because it treats two inlets as emptying the tank and two outlets as filling it. The fourth option is wrong because it assigns emptying at 1/6 to case (b), where an inlet is actually gaining on the outlet."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "Which of the following are correct statements about efficiency in problems on work?\n\n(i) A more efficient worker takes less time to do the same work.\n(ii) If A is twice as efficient as B, then A takes half the time that B takes.\n(iii) Efficiency and the time taken for a fixed work are directly proportional.\n(iv) If the efficiencies of A and B are in the ratio 3 : 2, their times are in the ratio 2 : 3.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Items (i), (ii) and (iv) all express the same inverse relationship between efficiency and time, and (iv) correctly inverts the ratio 3 : 2 to 2 : 3. Item (iii) is false and is the exact opposite of the truth: if efficiency and time were directly proportional, a faster worker would need MORE time, which is absurd. Hence the first option is wrong (it includes item (iii) and omits item (iv)), the second is wrong (it includes item (iii) and omits item (i)), and the third is wrong (it includes item (iii) and omits item (ii))."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "6 men and 8 boys can do a piece of work in 10 days, while 26 men and 48 boys can do the same work in 2 days. The time taken by 15 men and 20 boys to do this work is:",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "6 days"
+      ],
+      "correctAnswer": "4 days",
+      "explanation": "Let a man's daily work be m and a boy's be b. Then 10(6m + 8b) = 1 and 2(26m + 48b) = 1, so 60m + 80b = 52m + 96b, giving 8m = 16b and m = 2b. Substituting, 120b + 80b = 1, so b = 1/200 and m = 1/100. Then 15 men and 20 boys do 15/100 + 20/200 = 0.15 + 0.10 = 0.25 of the work a day, taking 4 days. '3 days' is wrong because it needs a daily rate of 1/3, above the actual 1/4. '5 days' and '6 days' are wrong because they correspond to rates of 0.20 and about 0.167, both below the 0.25 this team achieves."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "Consider the following statements about wages and the chain rule in work problems:\n\n(i) Wages are normally distributed in the ratio of the work actually done by each person.\n(ii) When two persons work for the same number of days, their wages are in the ratio of their efficiencies.\n(iii) A person who works for fewer days must always receive the larger share of the wages.\n(iv) In the relation M1 x D1 x H1 / W1 = M2 x D2 x H2 / W2, the letter M stands for the number of men and H for the hours worked each day.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is the governing principle of wage division, statement (ii) follows from it when the time is common to both, and statement (iv) correctly identifies the symbols of the chain rule. Statement (iii) is incorrect: working fewer days generally means doing LESS of the work and hence receiving a smaller share, unless a much higher efficiency compensates, so the claim that it must always bring a larger share is false. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "A can complete a work in 8 days and B can complete the same work in 12 days. They work on alternate days, A beginning on the first day. The work will be completed in:",
+      "options": [
+        "9.5 days",
+        "9 days",
+        "10 days",
+        "10.5 days"
+      ],
+      "correctAnswer": "9.5 days",
+      "explanation": "Every pair of consecutive days completes 1/8 + 1/12 = 3/24 + 2/24 = 5/24 of the work. After 8 days, that is four such pairs, 20/24 is done. On the ninth day A adds 3/24, bringing the total to 23/24, so 1/24 remains. On the tenth day B works at 2/24 a day and needs half a day for the remaining 1/24, giving 9.5 days in all. '9 days' is wrong because 1/24 of the work is still left at the end of day nine. '10 days' is wrong because B finishes midway through the tenth day. '10.5 days' is wrong because it allows a full extra day beyond what is needed."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If A is three times as efficient as B, then A alone will take one-third of the time that B alone takes for the same work.\nReason (R): Efficiency and the time required for a fixed quantity of work are directly proportional to each other.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: three times the efficiency means one-third of the time for the same work. (R) is wrong because efficiency and time are INVERSELY proportional, not directly; were (R) true, the three-times-more-efficient worker would need three times as long, which contradicts (A) itself. The first and second options are wrong because both require (R) to be a correct statement. The fourth option is wrong because (A) is a correct and standard result."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "A is 25 per cent more efficient than B. If B alone can complete a piece of work in 25 days, the number of days A alone will take is:",
+      "options": [
+        "18 days",
+        "31.25 days",
+        "22 days",
+        "20 days"
+      ],
+      "correctAnswer": "20 days",
+      "explanation": "A's rate is 1.25 times B's rate, so A's time is 25 divided by 1.25 = 20 days. '31.25 days' is wrong because it MULTIPLIES 25 by 1.25, which would make the more efficient worker slower — the commonest error in this type of question. '22 days' is wrong because it reduces the time by only 12 per cent instead of applying the factor 1/1.25. '18 days' is wrong because it cuts the time by 28 per cent, more than the 25 per cent gain in efficiency warrants."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "A supervisor recorded the manpower used by four teams, each of which completed one identical section of a road-repair job:\n\nTeam P: 12 workers for 14 days\nTeam Q: 10 workers for 18 days\nTeam R: 15 workers for 12 days\nTeam S: 9 workers for 24 days\n\nWhich team was the most efficient, that is, needed the fewest man-days per section?",
+      "options": [
+        "Team Q",
+        "Team P",
+        "Team R",
+        "Team S"
+      ],
+      "correctAnswer": "Team P",
+      "explanation": "The man-days used were: P = 12 x 14 = 168, Q = 10 x 18 = 180, R = 15 x 12 = 180 and S = 9 x 24 = 216. Team P completed its section with the fewest man-days and was therefore the most efficient. 'Team Q' and 'Team R' are wrong because both consumed 180 man-days, more than P's 168. 'Team S' is wrong and is a trap for anyone who notes that it used the fewest workers: its 24-day duration pushes its total to 216 man-days, making it the least efficient of the four."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Match the ratio of the efficiencies of A and B in Column I with the corresponding ratio of the times they take in Column II:\n\nColumn I:\n(a) Efficiencies in the ratio 1 : 2\n(b) Efficiencies in the ratio 3 : 1\n(c) Efficiencies in the ratio 2 : 3\n(d) Efficiencies in the ratio 4 : 5\n\nColumn II:\n(i) Times in the ratio 5 : 4\n(ii) Times in the ratio 2 : 1\n(iii) Times in the ratio 3 : 2\n(iv) Times in the ratio 1 : 3\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Since time varies inversely as efficiency, each ratio is simply inverted: 1 : 2 becomes 2 : 1, 3 : 1 becomes 1 : 3, 2 : 3 becomes 3 : 2 and 4 : 5 becomes 5 : 4. The first option is wrong because it swaps the inverses of the first two ratios, giving the less efficient worker the shorter time. The second option is wrong because it interchanges the results for 2 : 3 and 4 : 5. The fourth option is wrong because it pairs 3 : 1 with 3 : 2 and 2 : 3 with 1 : 3, neither of which is a correct inversion."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Consider the following statements about two persons working together:\n\n(i) If A can do a work in a days and B in b days, together they take ab/(a + b) days.\n(ii) The time taken by two persons working together is always less than the time the faster of them would take alone.\n(iii) If A and B together take t days and A alone takes a days, then B alone takes at/(a - t) days.\n(iv) Two persons working together always take exactly half the time that one of them would take alone.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) follows from adding the rates 1/a and 1/b and inverting. Statement (ii) is correct because any extra help, however slight, reduces the time below what the faster person needs alone. Statement (iii) follows from 1/t - 1/a = (a - t)/at. Statement (iv) is incorrect: halving occurs only in the special case of two equally efficient workers, and if A takes 10 days and B takes 40, together they take 8 days, not 5. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Two pipes can fill a tank in 20 minutes and 30 minutes respectively, while a waste pipe can empty the full tank in 15 minutes. If all three are opened together on an empty tank, the tank will be filled in:",
+      "options": [
+        "30 minutes",
+        "40 minutes",
+        "50 minutes",
+        "60 minutes"
+      ],
+      "correctAnswer": "60 minutes",
+      "explanation": "The net rate per minute is 1/20 + 1/30 - 1/15 = 3/60 + 2/60 - 4/60 = 1/60 of the tank, so filling takes 60 minutes. '30 minutes' is wrong because that is very nearly the time for the two inlets alone, since 1/20 + 1/30 = 1/12 gives 12 minutes, and it ignores the waste pipe. '40 minutes' and '50 minutes' are wrong because they correspond to net rates of 1/40 and 1/50, both larger than the actual 1/60, meaning the waste pipe has been credited with removing less water than it does."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Which of the following are correct relations used in problems on time and work?\n\n(i) One day's work equals 1 divided by the number of days needed to complete the work\n(ii) Total work equals the number of men multiplied by the number of days\n(iii) Number of days equals total work multiplied by the number of men\n(iv) If a leak empties a full tank in L hours, its one hour's work is taken as minus 1/L\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Items (i), (ii) and (iv) are all standard: the daily rate is the reciprocal of the days, total work is measured in man-days, and a leak counts as negative work. Item (iii) is wrong because the number of days is total work DIVIDED by the number of men; multiplying instead would absurdly mean that hiring more men lengthens the job. Hence the first option is wrong (it includes item (iii) and omits the leak convention), the third is wrong (it includes item (iii) and omits the daily rate), and the fourth is wrong (it includes item (iii) and omits the man-days relation)."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "A can do a piece of work in 10 days and B in 15 days. They work together for 4 days, after which A leaves. The number of further days B needs to finish the remaining work is:",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "6 days"
+      ],
+      "correctAnswer": "5 days",
+      "explanation": "Together they do 1/10 + 1/15 = 1/6 of the work a day, so in 4 days they complete 4/6 = 2/3, leaving 1/3. B works at 1/15 a day, so he needs (1/3) divided by (1/15) = 5 days. '3 days' and '4 days' are wrong because in those periods B would finish only 1/5 and 4/15 of the work, less than the 1/3 outstanding. '6 days' is wrong because B would then complete 6/15 = 2/5, which is more than the remaining third, so the work would in fact be over before the sixth day ended."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "If 12 men working 8 hours a day can complete a piece of work in 10 days, the number of days in which 16 men working 6 hours a day will complete the same work is:",
+      "options": [
+        "10 days",
+        "12 days",
+        "8 days",
+        "15 days"
+      ],
+      "correctAnswer": "10 days",
+      "explanation": "By the chain rule the total man-hours are fixed: 12 x 8 x 10 = 960 man-hours. With 16 men working 6 hours a day, 96 man-hours are put in daily, so 960/96 = 10 days are needed. '8 days' is wrong because it would supply only 768 man-hours. '12 days' is wrong because it would supply 1,152 man-hours, more than the work requires. '15 days' is wrong because it wrongly assumes that reducing the daily hours from 8 to 6 must lengthen the job, overlooking the compensating rise in the number of men from 12 to 16."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) If 8 men can do a work in 12 days, then 12 men can do the same work in 8 days.\n(ii) Assuming equal efficiency and no other constraint, doubling the number of workers halves the time taken.\n(iii) The total number of man-days required for a given work remains the same however many men are employed.\n(iv) If a work is finished in fewer days than planned, then more men than planned must have been employed.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because 8 x 12 = 96 = 12 x 8 man-days. Statements (ii) and (iii) express the same constancy of man-days. Statement (iv) is incorrect because extra manpower is only one way of finishing early: the same result can come from working longer hours each day or from workers of higher efficiency, so the conclusion does not necessarily follow. Every option containing (iv) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "31",
+      "subject": "C",
+      "questionText": "If a person can complete a piece of work in n days, then the part of the work he completes in one day is __________.",
+      "options": [
+        "n",
+        "1/n",
+        "n - 1",
+        "1 - 1/n"
+      ],
+      "correctAnswer": "1/n",
+      "explanation": "Taking the whole work as 1 unit and assuming a uniform rate, the work is spread evenly over n days, so each day accounts for 1/n of it. 'n' is wrong because it would mean that a slower worker does more work per day, and for n greater than 1 it exceeds the whole work. 'n - 1' is wrong because it is a count of days, not a fraction of work, and it too becomes larger than 1. '1 - 1/n' is wrong because that expression gives the work REMAINING after one day, not the work done in it."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "A, B and C together can complete a piece of work in 4 days. A alone can do it in 12 days and B alone in 18 days. The number of days C alone would take is:",
+      "options": [
+        "6 days",
+        "8 days",
+        "9 days",
+        "12 days"
+      ],
+      "correctAnswer": "9 days",
+      "explanation": "C's daily rate is the combined rate less those of A and B: 1/4 - 1/12 - 1/18. Using 36 as the common denominator this is 9/36 - 3/36 - 2/36 = 4/36 = 1/9, so C alone takes 9 days. '6 days' is wrong because a rate of 1/6 with A and B would give a combined rate of 1/6 + 1/12 + 1/18 = 11/36, finishing in about 3.3 days rather than 4. '12 days' is wrong because the combined rate would then be 7/36, needing over 5 days. '8 days' is wrong for the same reason, giving a combined rate slightly above 1/4."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "Match each pair of workers in Column I with the time they would take working together in Column II:\n\nColumn I:\n(a) A in 10 days and B in 10 days\n(b) A in 12 days and B in 4 days\n(c) A in 20 days and B in 5 days\n(d) A in 15 days and B in 10 days\n\nColumn II:\n(i) 3 days\n(ii) 4 days\n(iii) 5 days\n(iv) 6 days\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Adding the rates gives: (a) 1/10 + 1/10 = 1/5, so 5 days; (b) 1/12 + 1/4 = 4/12 = 1/3, so 3 days; (c) 1/20 + 1/5 = 5/20 = 1/4, so 4 days; (d) 1/15 + 1/10 = 5/30 = 1/6, so 6 days. The second option is wrong because it swaps (b) and (c), giving the slower pair the shorter time. The third option is wrong because it assigns 3 days to two equal 10-day workers, who cannot possibly beat 5 days. The fourth option is wrong because it interchanges (c) and (d), which reverses their relative speeds."
+    },
+    {
+      "id": "34",
+      "subject": "C",
+      "questionText": "Which of the following are factors that affect the number of days needed to complete a given piece of work?\n\n(i) The number of persons employed on the work\n(ii) The number of hours worked each day\n(iii) The efficiency of each person employed\n(iv) The rate of wages paid to each person\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The number of persons, the hours put in daily and the efficiency of each worker together determine how much work is done per day and hence how many days are required; all three appear in the chain rule. The wage rate is the exception: it decides the COST of the work, not its duration, and paying the same team more does not by itself make the job finish sooner. Hence the first option is wrong (it includes wages and omits efficiency), the second is wrong (it includes wages and omits the number of persons), and the third is wrong (it includes wages and omits the daily hours)."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "A contractor undertook to finish a work in 40 days and employed 60 men. After 25 days he found that only half the work was done. The number of ADDITIONAL men he must employ to finish the work exactly on time is:",
+      "options": [
+        "30 men",
+        "40 men",
+        "50 men",
+        "100 men"
+      ],
+      "correctAnswer": "40 men",
+      "explanation": "In 25 days 60 men put in 1,500 man-days for half the work, so the whole work needs 3,000 man-days and the remaining half needs another 1,500. Only 15 days are left, so 1,500/15 = 100 men are required, that is 40 more than the 60 already at work. '100 men' is wrong because it is the TOTAL requirement, not the additional number, and is the commonest trap in this question. '50 men' is wrong because 110 men would overshoot the need. '30 men' is wrong because 90 men in 15 days give only 1,350 man-days, leaving the work unfinished."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Consider the following statements about pipes fitted to a tank:\n\n(i) A tank fitted with two inlet pipes fills faster than with either inlet working alone.\n(ii) If a leak develops in a tank, the time needed to fill it increases.\n(iii) The rate of an outlet pipe is added to the rate of the inlet to obtain the net rate.\n(iv) If an inlet fills a tank in 4 hours and an outlet empties it in 6 hours, then with both open the tank fills in 12 hours.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because the two inflows add together. Statement (ii) is correct because a leak removes part of the water. Statement (iv) is correct: 1/4 - 1/6 = 3/12 - 2/12 = 1/12, giving 12 hours. Statement (iii) is incorrect because an outlet works against the inlet, so its rate must be SUBTRACTED; adding it would wrongly suggest that opening a drain helps to fill the tank. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "C",
+      "questionText": "The ratio of the times taken by A and B to complete a piece of work is 3 : 4. Working together they finish it in 12 days. The number of days A alone would take is:",
+      "options": [
+        "21 days",
+        "24 days",
+        "28 days",
+        "36 days"
+      ],
+      "correctAnswer": "21 days",
+      "explanation": "Let A take 3x days and B take 4x days. Then 1/(3x) + 1/(4x) = 1/12, so 7/(12x) = 1/12, giving 12x = 84 and x = 7. Hence A takes 3 x 7 = 21 days. A check confirms it: 1/21 + 1/28 = 4/84 + 3/84 = 7/84 = 1/12. '28 days' is wrong because that is B's time, not A's. '24 days' is wrong because with B at 32 days the pair would take about 13.7 days. '36 days' is wrong because it ignores the ratio and takes A as three times the joint time."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If 10 men can build a wall in 12 days, then 20 men can build the same wall in 24 days.\nReason (R): For a fixed quantity of work, the number of days required is inversely proportional to the number of men employed.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct and is the standard principle of these problems. (A) is wrong because it applies that principle backwards: the wall needs 10 x 12 = 120 man-days, so 20 men would finish in 120/20 = 6 days, not 24. Doubling the workforce halves the time; the figure 24 comes from doubling the days instead. The first and second options are wrong because both require (A) to be correct, and the third option is wrong because (R) is an accurate statement of the inverse relationship."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "A contractor compared four proposals for a job that requires 600 man-days of labour:\n\nProposal I: 30 men working for 20 days\nProposal II: 25 men working for 24 days\nProposal III: 40 men working for 15 days\nProposal IV: 50 men working for 11 days\n\nWhich proposal does NOT provide enough man-days to complete the job?",
+      "options": [
+        "Proposal I",
+        "Proposal II",
+        "Proposal III",
+        "Proposal IV"
+      ],
+      "correctAnswer": "Proposal IV",
+      "explanation": "The man-days offered are: I = 30 x 20 = 600, II = 25 x 24 = 600, III = 40 x 15 = 600 and IV = 50 x 11 = 550. Only Proposal IV falls short, by 50 man-days. Proposals I, II and III are each wrong as answers because all three supply exactly the 600 man-days required. Proposal IV is also instructive because it engages the LARGEST number of men, showing that manpower alone is no guide: the eleven-day period is simply too short for the total labour needed."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "If 10 persons can dig a trench in 6 days working 8 hours a day, the number of hours a day that 8 persons must work to dig the same trench in 10 days is:",
+      "options": [
+        "5 hours",
+        "6 hours",
+        "8 hours",
+        "10 hours"
+      ],
+      "correctAnswer": "6 hours",
+      "explanation": "The trench requires 10 x 6 x 8 = 480 man-hours. With 8 persons over 10 days, the daily hours H must satisfy 8 x 10 x H = 480, so H = 6 hours. '5 hours' is wrong because it supplies only 400 man-hours, leaving the trench incomplete. '8 hours' is wrong because it supplies 640 man-hours, well beyond what is needed, and it wrongly assumes the daily hours stay unchanged. '10 hours' is wrong because it supplies 800 man-hours and mistakenly treats the extra days as requiring longer shifts as well."
+    },
+    {
+      "id": "41",
+      "subject": "C",
+      "questionText": "A cistern has two inlet pipes which can fill it in 12 hours and 15 hours respectively. Both are opened together on the empty cistern, but the first pipe is closed after 3 hours. The further time needed to fill the cistern is:",
+      "options": [
+        "7 hours 30 minutes",
+        "8 hours",
+        "8 hours 15 minutes",
+        "9 hours"
+      ],
+      "correctAnswer": "8 hours 15 minutes",
+      "explanation": "In 3 hours both pipes together fill 3 x (1/12 + 1/15) = 3 x 9/60 = 27/60 = 9/20 of the cistern, leaving 11/20. The second pipe alone fills 1/15 per hour, so it needs (11/20) x 15 = 165/20 = 8.25 hours, that is 8 hours 15 minutes. '8 hours' is wrong because it would fill only 8/15 = 32/60, short of the 33/60 outstanding. '9 hours' is wrong because it exceeds the requirement. '7 hours 30 minutes' is wrong because it corresponds to only half the cistern remaining rather than 11/20."
+    },
+    {
+      "id": "42",
+      "subject": "C",
+      "questionText": "Consider the following statements about a leak in a cistern:\n\n(i) A leak is treated as an outlet and the work it does is taken as negative.\n(ii) If a pipe fills a cistern in x hours and a leak empties it in y hours where y is greater than x, the cistern still fills but takes more than x hours.\n(iii) The presence of a leak reduces the net rate of filling.\n(iv) A leak has no effect at all if the inlet pipe is much larger than the leak.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) states the sign convention, statement (ii) is correct because a slower leak leaves a positive net rate that is nevertheless smaller than the inlet's own, and statement (iii) restates that reduction. Statement (iv) is incorrect: however small the leak, it always removes some water and so always lengthens the filling time to some extent; the effect may be slight but it is never nil. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "43",
+      "subject": "C",
+      "questionText": "A and B together can do a piece of work in 12 days, B and C together in 15 days, and C and A together in 20 days. The time all three working together would take is:",
+      "options": [
+        "12 days",
+        "15 days",
+        "16 days",
+        "10 days"
+      ],
+      "correctAnswer": "10 days",
+      "explanation": "Adding the three pair rates gives 1/12 + 1/15 + 1/20 = 5/60 + 4/60 + 3/60 = 12/60 = 1/5, and this sum counts every worker twice, so the rate of all three together is half of 1/5, that is 1/10, giving 10 days. '12 days', '15 days' and '16 days' are all wrong because each is at least as large as the best pair's time of 12 days, whereas adding a third worker to any pair must make the job faster, not slower; '16 days' in particular comes from forgetting to halve the doubled total."
+    },
+    {
+      "id": "44",
+      "subject": "C",
+      "questionText": "Match each situation in Column I with the time the leak alone would take to empty the full tank in Column II:\n\nColumn I:\n(a) Inlet fills in 6 hours; with the leak it takes 8 hours\n(b) Inlet fills in 10 hours; with the leak it takes 15 hours\n(c) Inlet fills in 12 hours; with the leak it takes 18 hours\n(d) Inlet fills in 20 hours; with the leak it takes 25 hours\n\nColumn II:\n(i) 30 hours\n(ii) 36 hours\n(iii) 24 hours\n(iv) 100 hours\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "The leak's rate is the inlet rate minus the net rate: (a) 1/6 - 1/8 = 1/24, so 24 hours; (b) 1/10 - 1/15 = 1/30, so 30 hours; (c) 1/12 - 1/18 = 1/36, so 36 hours; (d) 1/20 - 1/25 = 1/100, so 100 hours. The first option is wrong because it swaps (a) and (b). The third option is wrong because it interchanges (b) and (c), giving the 10-hour inlet a 36-hour leak. The fourth option is wrong because it exchanges (c) and (d), which would make the slowest inlet's leak the faster of the two."
+    },
+    {
+      "id": "45",
+      "subject": "C",
+      "questionText": "Which of the following are true of the man-day method of solving problems on work?\n\n(i) For a given work, the product of the number of men and the number of days is constant.\n(ii) It assumes that all the workers involved are equally efficient.\n(iii) It can be extended to take account of the number of hours worked each day.\n(iv) It gives the correct answer even when different workers have markedly different efficiencies.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Item (i) is the central relation of the method, item (ii) states the assumption on which it rests, and item (iii) is correct because adding hours per day gives the familiar chain rule. Item (iv) is false and in fact contradicts item (ii): once workers differ in efficiency, a plain head-count of men is no longer a valid measure of work done, and separate rates must be used instead. Hence the first option is wrong (it includes item (iv) and omits item (iii)), the second is wrong (it includes item (iv) and omits item (i)), and the fourth is wrong (it includes item (iv) and omits item (ii))."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "A alone can finish a piece of work in 18 days and B alone in 27 days. They work together for 6 days, after which A leaves. The number of further days B needs to complete the remaining work is:",
+      "options": [
+        "12 days",
+        "10 days",
+        "14 days",
+        "15 days"
+      ],
+      "correctAnswer": "12 days",
+      "explanation": "Together they do 1/18 + 1/27 = 3/54 + 2/54 = 5/54 of the work a day, so in 6 days they complete 30/54 = 5/9, leaving 4/9. B works at 1/27 a day, so he needs (4/9) x 27 = 12 days. '10 days' is wrong because B would then finish only 10/27, less than the 4/9 = 12/27 outstanding. '14 days' and '15 days' are wrong because B would complete 14/27 and 15/27 respectively, more than the remaining 12/27, so the work would already be over."
+    },
+    {
+      "id": "47",
+      "subject": "C",
+      "questionText": "A pipe that draws water out of a tank instead of filling it is called an __________ pipe.",
+      "options": [
+        "inlet",
+        "feeder",
+        "supply",
+        "outlet"
+      ],
+      "correctAnswer": "outlet",
+      "explanation": "A pipe that removes water is an outlet pipe, and in work equations its rate carries a negative sign because it undoes the work of the filling pipes. 'Inlet' is wrong because an inlet pipe does exactly the opposite, bringing water into the tank. 'Feeder' is wrong because a feeder line likewise supplies water rather than removing it. 'Supply' is wrong for the same reason: a supply pipe delivers water to the tank, so like the other two it would carry a positive rate in the calculation."
+    },
+    {
+      "id": "48",
+      "subject": "C",
+      "questionText": "If 6 machines can produce 240 units in 8 hours, the number of units that 9 machines can produce in 6 hours at the same rate is:",
+      "options": [
+        "240 units",
+        "270 units",
+        "300 units",
+        "360 units"
+      ],
+      "correctAnswer": "270 units",
+      "explanation": "Each machine produces 240 divided by (6 x 8) = 5 units per hour, so 9 machines in 6 hours produce 9 x 6 x 5 = 270 units. '240 units' is wrong because it assumes the output is unchanged, ignoring that the machine-hours fall from 48 to 54, which actually rise. '360 units' is wrong because it scales up for the extra machines while forgetting that the time drops from 8 hours to 6. '300 units' is wrong because it corresponds to 60 machine-hours rather than the 54 actually available."
+    },
+    {
+      "id": "49",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A cistern fitted with an inlet that fills it in 5 hours and a leak that can empty it in 4 hours will never become full.\nReason (R): When the emptying rate exceeds the filling rate, the net rate is negative and the level of water falls.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) explains (A) precisely: the net rate is 1/5 - 1/4 = -1/20 per hour, which is negative, so water is lost faster than it is supplied and the cistern can never fill. The second option is wrong because the negative net rate is the direct cause, not a separate observation. The third option is wrong because (R) is a correct general principle. The fourth option is wrong because (A) follows from the figures given, as the leak at 4 hours is faster than the inlet at 5 hours."
+    },
+    {
+      "id": "50",
+      "subject": "C",
+      "questionText": "Consider the following statements about outlet pipes and leaks:\n\n(i) A leak in a cistern increases the time required to fill it.\n(ii) When a filling pipe and a leak are both open, the net filling rate is the difference of the two rates.\n(iii) A leak that can empty a full tank faster than the inlet can fill it will never allow the tank to become full.\n(iv) In the combined-rate equation, the work done by a leak is taken as positive work.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because part of the inflow is lost through the leak. Statement (ii) is correct as the two rates oppose each other. Statement (iii) is correct because the net rate then becomes negative. Statement (iv) is incorrect: a leak works against the filling and its rate must be entered as NEGATIVE work, since treating it as positive would wrongly imply that a leak helps fill the tank. Every option containing (iv) — the first, second and fourth — is therefore wrong."
+    }
+  ]
+}

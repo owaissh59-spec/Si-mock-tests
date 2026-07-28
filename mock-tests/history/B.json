@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 429,
+  "count": 499,
   "questions": [
     {
       "test": 2,
@@ -2147,6 +2147,356 @@
       "test": 63,
       "stem": "the traditional multi-course kashmiri wedding feast is called the __________.",
       "key": "Wazwan"
+    },
+    {
+      "test": 64,
+      "stem": "the si unit of magnetic flux density (magnetic field strength b) is",
+      "key": "Tesla"
+    },
+    {
+      "test": 64,
+      "stem": "consider the following statements about newton's laws of motion: (i) newton's first",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 64,
+      "stem": "in which of the following media does sound travel fastest at room",
+      "key": "Steel"
+    },
+    {
+      "test": 64,
+      "stem": "match the scientists in column i with the discovery or model associated",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 64,
+      "stem": "a convex lens forms a real, inverted image of the same size",
+      "key": "At twice the focal length (2F)"
+    },
+    {
+      "test": 64,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 64,
+      "stem": "which of the following are vector quantities? (i) displacement (ii) momentum (iii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 64,
+      "stem": "when a narrow beam of white light passes through a glass prism",
+      "key": "The refractive index of glass is different for different wavelengths"
+    },
+    {
+      "test": 64,
+      "stem": "a device that converts mechanical energy into electrical energy using the principle",
+      "key": "Dynamo"
+    },
+    {
+      "test": 64,
+      "stem": "the resistivity of four conducting materials was measured at 20 degrees celsius",
+      "key": "Material S, because its high resistivity produces more heat for a given current"
+    },
+    {
+      "test": 64,
+      "stem": "the enormous energy radiated by the sun is produced mainly by:",
+      "key": "Fusion of hydrogen nuclei into helium nuclei"
+    },
+    {
+      "test": 64,
+      "stem": "consider the following statements about domestic electric circuits: (i) in a series",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 64,
+      "stem": "a uniform metal wire of resistance r is stretched to twice its",
+      "key": "4R"
+    },
+    {
+      "test": 64,
+      "stem": "an electric bulb rated 100 w at 220 v is operated on",
+      "key": "25 W"
+    },
+    {
+      "test": 64,
+      "stem": "match the measuring instruments in column i with the quantity each one",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 64,
+      "stem": "a light-emitting diode (led) produces light when:",
+      "key": "It is forward biased and electrons recombine with holes"
+    },
+    {
+      "test": 64,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 64,
+      "stem": "which of the following are non-contact (field) forces? (i) gravitational force (ii)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 64,
+      "stem": "the brilliant sparkle of a well-cut diamond is mainly due to:",
+      "key": "Total internal reflection inside the stone"
+    },
+    {
+      "test": 64,
+      "stem": "consider the following statements about gravitation: (i) the acceleration due to gravity,",
+      "key": "(ii) and (iv) only"
+    },
+    {
+      "test": 64,
+      "stem": "the rate of change of linear momentum of a body is equal",
+      "key": "The net external force acting on the body"
+    },
+    {
+      "test": 64,
+      "stem": "in a school laboratory, four resistors were tested and the following readings",
+      "key": "Resistor Z"
+    },
+    {
+      "test": 64,
+      "stem": "match the physical quantities in column i with their si units in",
+      "key": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 64,
+      "stem": "in an ideal step-down transformer:",
+      "key": "The output voltage is lower and the output current is higher than the input"
+    },
+    {
+      "test": 64,
+      "stem": "which of the following are classified as renewable sources of energy? (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 64,
+      "stem": "consider the following statements about sound: (i) sound is a longitudinal mechanical",
+      "key": "(i) and (iv) only"
+    },
+    {
+      "test": 64,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 64,
+      "stem": "the apparent change in the frequency of a sound heard by a",
+      "key": "The Doppler effect"
+    },
+    {
+      "test": 64,
+      "stem": "a porter carries a heavy suitcase on his head and walks 50",
+      "key": "Zero, because the displacement is perpendicular to the gravitational force"
+    },
+    {
+      "test": 64,
+      "stem": "consider the following statements about pressure in fluids: (i) the si unit",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "the chemical name of the substance commonly sold as baking soda is:",
+      "key": "Sodium hydrogencarbonate"
+    },
+    {
+      "test": 68,
+      "stem": "consider the following statements about acids and bases: (i) acids turn blue",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "the ph of a solution is 3. compared with a solution whose",
+      "key": "one thousand times more acidic"
+    },
+    {
+      "test": 68,
+      "stem": "match the common names in column i with the correct chemical formulae",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following is not an allotrope of carbon?",
+      "key": "Quartz"
+    },
+    {
+      "test": 68,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following are noble gases? (i) helium (ii) nitrogen (iii)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "an element x has atomic number 12. the formula of the chloride",
+      "key": "XCl2"
+    },
+    {
+      "test": 68,
+      "stem": "the mass of 0.5 mole of carbon dioxide is (atomic masses: c",
+      "key": "22 g"
+    },
+    {
+      "test": 68,
+      "stem": "consider the following statements about ph and indicators: (i) a solution whose",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "brass is an alloy of:",
+      "key": "Copper and zinc"
+    },
+    {
+      "test": 68,
+      "stem": "a laboratory assistant measured the ph of four household liquids and recorded",
+      "key": "Liquid S is the most alkaline and would feel soapy to the touch"
+    },
+    {
+      "test": 68,
+      "stem": "in the reaction in which copper oxide reacts with hydrogen to give",
+      "key": "Copper oxide"
+    },
+    {
+      "test": 68,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 68,
+      "stem": "a catalyst is best described as a substance which:",
+      "key": "alters the rate of a reaction without being consumed in it"
+    },
+    {
+      "test": 68,
+      "stem": "match the elements in column i with their chemical symbols in column",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following are physical changes? (i) melting of ice (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "an ionic bond is formed when:",
+      "key": "one atom transfers electrons to another and the resulting ions attract each o..."
+    },
+    {
+      "test": 68,
+      "stem": "consider the following statements about metals and non-metals: (i) metals are generally",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "during the electrolysis of acidified water, the gas liberated at the cathode",
+      "key": "Hydrogen"
+    },
+    {
+      "test": 68,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following is an unsaturated hydrocarbon?",
+      "key": "Ethene"
+    },
+    {
+      "test": 68,
+      "stem": "four metals w, x, y and z were each added separately to",
+      "key": "X > Y > Z > W"
+    },
+    {
+      "test": 68,
+      "stem": "match the acids in column i with the natural sources in which",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 68,
+      "stem": "consider the following statements about mixtures and compounds: (i) the constituents of",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "the compound commonly used to disinfect the municipal supply of drinking water",
+      "key": "bleaching powder"
+    },
+    {
+      "test": 68,
+      "stem": "plaster of paris is obtained by heating gypsum to about 100 degrees",
+      "key": "sets into a hard mass by combining chemically with the water"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following are examples of a chemical change? (i) rusting",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "the main constituent of the liquefied petroleum gas (lpg) supplied in domestic",
+      "key": "Butane"
+    },
+    {
+      "test": 68,
+      "stem": "consider the following statements about the structure of the atom: (i) almost",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "the most abundant element by mass in the earth's crust is:",
+      "key": "Oxygen"
+    },
+    {
+      "test": 68,
+      "stem": "the percentage of nitrogen by mass in urea, whose formula is co(nh2)2,",
+      "key": "47 per cent"
+    },
+    {
+      "test": 68,
+      "stem": "match the polymers in column i with their typical uses in column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 68,
+      "stem": "detergents are preferred to soaps for washing clothes in hard water because:",
+      "key": "the calcium and magnesium salts of detergents are soluble in water"
+    },
+    {
+      "test": 68,
+      "stem": "consider the following statements about oxidation and reduction: (i) oxidation involves the",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following nitrogenous fertilisers has the highest percentage of nitrogen?",
+      "key": "Urea"
+    },
+    {
+      "test": 68,
+      "stem": "the process in which a solid changes directly into vapour on heating,",
+      "key": "sublimation"
+    },
+    {
+      "test": 68,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 68,
+      "stem": "which of the following are greenhouse gases? (i) carbon dioxide (ii) methane",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 68,
+      "stem": "two atoms x and y contain the same number of protons but",
+      "key": "isotopes of each other"
     }
   ]
 }
