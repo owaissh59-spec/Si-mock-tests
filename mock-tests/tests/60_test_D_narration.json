@@ -1,0 +1,657 @@
+{
+  "subject": "D",
+  "topic": "Direct/Indirect Narration",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said, \"I am unwell today.\"",
+      "options": [
+        "He said that he is unwell today.",
+        "He said that he was unwell that day.",
+        "He said he was unwell today.",
+        "He said that he had been unwell that day."
+      ],
+      "correctAnswer": "He said that he was unwell that day.",
+      "explanation": "Rules applied: simple-present 'am' → simple-past 'was'; pronoun 'I' → 'he' (matching subject of reporting verb); time expression 'today' → 'that day'; and the reporting clause takes 'that'. The first option keeps 'is' (no tense back-shift) and 'today' (no time-shift). The third option omits the connector 'that' AND leaves 'today' unchanged. The fourth option wrongly uses past perfect 'had been' — the original 'am unwell' is simple present, so simple past is required, not past perfect."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nShe said to me, \"Where are you going?\"",
+      "options": [
+        "She asked me where I was going.",
+        "She said to me where I am going.",
+        "She asked me where you were going.",
+        "She asked me where am I going."
+      ],
+      "correctAnswer": "She asked me where I was going.",
+      "explanation": "For an interrogative (wh-question), reporting verb 'said to' → 'asked'; the wh-word 'where' is retained as connector; word order changes from question ('are you going?') to statement ('I was going'); pronoun 'you' → 'I' (referring to the listener 'me'); 'are' → 'was' (back-shift). The second option keeps 'said to' and preserves present tense 'am'. The third option keeps 'you' instead of shifting to 'I'. The fourth option retains the interrogative word order ('where am I going') — reported questions must use statement order."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe teacher said to the students, \"Do not make noise.\"",
+      "options": [
+        "The teacher said that the students do not make noise.",
+        "The teacher told the students that they should not make noise in the class.",
+        "The teacher said the students to not make noise.",
+        "The teacher told the students not to make noise."
+      ],
+      "correctAnswer": "The teacher told the students not to make noise.",
+      "explanation": "Negative imperatives (prohibitions) become 'told/asked/ordered + object + not + to + base verb'. Here 'said to' → 'told', object 'the students' is retained, and 'Do not make' → 'not to make'. The first option preserves the direct-speech negative form 'do not' — incorrect syntax for indirect. The second option adds 'in the class' (fabricated content) and changes the register. The fourth option keeps 'said' (wrong for imperatives that take an addressee) and splits the infinitive as 'to not make' — unnatural in the standard rule."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said, \"I have finished my work.\"",
+      "options": [
+        "He said that he has finished his work.",
+        "He said that he had finished his work.",
+        "He said he finished his work.",
+        "He said that he had been finishing his work."
+      ],
+      "correctAnswer": "He said that he had finished his work.",
+      "explanation": "Present perfect ('have finished') back-shifts to past perfect ('had finished') in indirect speech; pronoun 'I' → 'he' and 'my' → 'his'. The first option leaves 'has' unchanged. The third option converts to simple past — but the original was present PERFECT, which must go to past perfect, not simple past. The fourth option uses past perfect continuous ('had been finishing'), which corresponds to present perfect continuous, not present perfect."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nShe said to him, \"I will help you tomorrow.\"",
+      "options": [
+        "She told him that she will help him tomorrow.",
+        "She told him that she would help him the next day.",
+        "She said him that she would help him tomorrow.",
+        "She told him she will be helping him the next day."
+      ],
+      "correctAnswer": "She told him that she would help him the next day.",
+      "explanation": "'Will' → 'would' (back-shift), 'you' (addressee) → 'him', 'tomorrow' → 'the next day' (time shift), reporting verb 'said to' → 'told'. The first option keeps 'will' and 'tomorrow'. The third option uses 'said him' — 'said' does not take a direct object, only 'told' does. The fourth option changes tense to 'will be helping' → future continuous, which distorts the original simple future."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said, \"How happy I am today!\"",
+      "options": [
+        "He said that how happy he was today.",
+        "He shouted that he was very happy today.",
+        "He said with joy that how happy he is today.",
+        "He exclaimed with joy that he was very happy that day."
+      ],
+      "correctAnswer": "He exclaimed with joy that he was very happy that day.",
+      "explanation": "Exclamatory sentences use 'exclaimed with joy/sorrow/wonder' as the reporting verb; the exclamatory 'How happy I am!' becomes 'that he was very happy' (the 'how' is replaced by 'very'); and 'today' → 'that day'. The first option retains 'how' as the connector, which is wrong for a reported exclamation. The third option retains present tense 'is' (no back-shift). The fourth option uses 'shouted' (not the standard reporting verb) and does not shift 'today' to 'that day'."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said, \"Alas! I have lost my purse.\"",
+      "options": [
+        "He said with sorrow that he has lost his purse.",
+        "He said alas that he lost his purse.",
+        "He exclaimed alas that he had lost his purse.",
+        "He exclaimed with sorrow that he had lost his purse."
+      ],
+      "correctAnswer": "He exclaimed with sorrow that he had lost his purse.",
+      "explanation": "'Alas!' signals sorrow, so 'said' → 'exclaimed with sorrow'; present perfect 'have lost' → past perfect 'had lost'; 'I' → 'he', 'my' → 'his'; the interjection 'Alas!' is DROPPED because it is already reflected in 'with sorrow'. The first option keeps 'has' (no tense change) and uses 'said' (should be 'exclaimed'). The third option retains the interjection 'alas' in the indirect clause — must be replaced by the phrase 'with sorrow'. The fourth option uses simple past 'lost', missing the required back-shift of the present perfect to past perfect."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe teacher said to us, \"Do you know the answer?\"",
+      "options": [
+        "The teacher said to us do we know the answer.",
+        "The teacher asked us if we knew the answer.",
+        "The teacher asked us do we know the answer.",
+        "The teacher asked us that we knew the answer."
+      ],
+      "correctAnswer": "The teacher asked us if we knew the answer.",
+      "explanation": "Yes/No questions in indirect speech use 'if' or 'whether' as the connector; 'said to' → 'asked'; word order changes to statement form; and 'know' → 'knew' (back-shift). The first option keeps the interrogative word order 'do we know' and does not shift tense. The third option retains the interrogative form 'do we know' — reported questions must use statement order. The fourth option uses 'that' — for yes/no questions the connector must be 'if'/'whether', not 'that'."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nMy mother said, \"May God bless you!\"",
+      "options": [
+        "My mother said that God may bless me.",
+        "My mother said that God might bless me.",
+        "My mother prayed that God would bless me.",
+        "My mother prayed that God might bless me."
+      ],
+      "correctAnswer": "My mother prayed that God might bless me.",
+      "explanation": "Optative sentences (wishes/prayers, marked by 'May…') use 'prayed'/'wished' as the reporting verb; 'may' back-shifts to 'might'; and 'you' (addressee) becomes 'me' (as the speaker's mother is addressing me). The first option keeps 'said' (should be 'prayed') and 'may' (should shift to 'might'). The second option keeps 'said' instead of 'prayed', missing the optative-specific reporting verb. The fourth option uses 'would' — the modal 'may' in an optative shifts specifically to 'might', not 'would'."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said, \"Let us go for a walk.\"",
+      "options": [
+        "He proposed that we should go for a walk.",
+        "He said that we should go for a walk.",
+        "He said let us go for a walk.",
+        "He told to go for a walk."
+      ],
+      "correctAnswer": "He proposed that we should go for a walk.",
+      "explanation": "'Let us …' introduces a proposal/suggestion, so 'said' is replaced by 'proposed'/'suggested', and 'let us go' becomes 'that we should go'. The first option keeps 'said', missing the standard reporting verb for a proposal. The third option retains the direct-speech form 'let us go' unchanged. The fourth option turns it into a command ('told to go'), losing the inclusive-proposal sense of 'let us'."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe captain said to the soldiers, \"March forward.\"",
+      "options": [
+        "The captain ordered the soldiers to march forward.",
+        "The captain told the soldiers march forward.",
+        "The captain said to the soldiers that they march forward.",
+        "The captain requested the soldiers to march forward."
+      ],
+      "correctAnswer": "The captain ordered the soldiers to march forward.",
+      "explanation": "A military command uses 'ordered'/'commanded' as the reporting verb; the imperative 'March forward' becomes 'to march forward'. The first option omits 'to' before 'march', giving a grammatically incorrect construction. The third option keeps 'said' and preserves the imperative form 'they march forward' — imperative must be transformed to infinitive. The fourth option uses 'requested', which is inappropriate for a command from a captain to soldiers (requests soften, orders command)."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe mother said to her daughter, \"Please bring me a glass of water.\"",
+      "options": [
+        "The mother requested her daughter to bring her a glass of water.",
+        "The mother ordered her daughter to bring her a glass of water.",
+        "The mother said to her daughter that please bring her a glass of water.",
+        "The mother told her daughter please to bring her a glass of water."
+      ],
+      "correctAnswer": "The mother requested her daughter to bring her a glass of water.",
+      "explanation": "'Please …' signals a request, so 'said' → 'requested'; 'me' becomes 'her' (the mother). The first option uses 'ordered' — but 'please' rules out a command tone and calls for 'requested'. The third option keeps 'said to' and retains 'please' in reported form — 'please' should be dropped since its sense is absorbed in 'requested'. The fourth option keeps 'please' in the indirect clause, which is not standard."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nRita said, \"I am reading a novel now.\"",
+      "options": [
+        "Rita said that she is reading a novel now.",
+        "Rita said that she had been reading a novel then.",
+        "Rita said she was reading a novel now.",
+        "Rita said that she was reading a novel then."
+      ],
+      "correctAnswer": "Rita said that she was reading a novel then.",
+      "explanation": "Present continuous 'am reading' → past continuous 'was reading'; 'I' → 'she'; 'now' → 'then'; and connector 'that' is added. The first option retains present continuous 'is reading' and 'now'. The third option shifts tense correctly but keeps 'now' (should be 'then') and drops 'that' (permissible but combined with the 'now' error). The fourth option uses past perfect continuous 'had been reading' — that corresponds to present PERFECT continuous, not present continuous."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said to me, \"I saw a tiger yesterday.\"",
+      "options": [
+        "He told me that he saw a tiger yesterday.",
+        "He told me he saw a tiger the previous day.",
+        "He said me that he had seen a tiger the previous day.",
+        "He told me that he had seen a tiger the previous day."
+      ],
+      "correctAnswer": "He told me that he had seen a tiger the previous day.",
+      "explanation": "Simple past 'saw' → past perfect 'had seen'; 'said to' → 'told'; 'yesterday' → 'the previous day' (or 'the day before'); 'I' → 'he'. The first option keeps 'saw' (no back-shift) and keeps 'yesterday' (no time shift). The third option uses 'said me' — incorrect; 'said' does not take an object without 'to'. The fourth option keeps simple past 'saw' — simple past in direct speech shifts to past perfect in reported speech."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe child said, \"Wow! What a beautiful bird!\"",
+      "options": [
+        "The child said that what a beautiful bird was.",
+        "The child exclaimed with joy what a beautiful bird was.",
+        "The child exclaimed with delight that it was a very beautiful bird.",
+        "The child said with wow that it was very beautiful."
+      ],
+      "correctAnswer": "The child exclaimed with delight that it was a very beautiful bird.",
+      "explanation": "Exclamations 'What a … !' become 'that it was a very …' in indirect speech; 'Wow!' signals delight/joy so 'said' → 'exclaimed with delight'; the interjection 'Wow' is dropped. The first option retains 'what a' as the connector (should become 'that … a very …'). The second option retains 'what a beautiful bird' as an exclamatory clause instead of converting it. The fourth option preserves 'wow' as part of the phrase 'exclaimed with wow' — the interjection must be replaced by a mood-descriptor phrase, not inserted."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nShe said, \"I can speak French.\"",
+      "options": [
+        "She said that she could speak French.",
+        "She said that she can speak French.",
+        "She said she is able to speak French.",
+        "She said that she had been able to speak French."
+      ],
+      "correctAnswer": "She said that she could speak French.",
+      "explanation": "Modal 'can' back-shifts to 'could' in indirect speech; 'I' → 'she'; connector 'that' added. The second option keeps 'can' unchanged. The third option replaces 'can' with 'is able to' but does NOT back-shift ('is' should have become 'was'). The fourth option over-shifts to past perfect 'had been able to' — 'can' should back-shift only to 'could', not to a perfect construction."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said to her, \"Why did you not come yesterday?\"",
+      "options": [
+        "He said to her why she did not come yesterday.",
+        "He asked her why did she not come the previous day.",
+        "He asked her why she had not come the previous day.",
+        "He asked her why she did not come the previous day."
+      ],
+      "correctAnswer": "He asked her why she had not come the previous day.",
+      "explanation": "In a wh-question, 'said to' → 'asked'; 'why' retained as connector; word order becomes statement ('she had not come'); simple past 'did … come' → past perfect 'had come'; 'you' → 'she'; 'yesterday' → 'the previous day'. The first option keeps 'said to' and 'yesterday'. The second option retains interrogative order ('why did she not come'). The fourth option shifts 'yesterday' correctly but keeps simple past 'did not come' — should be past perfect 'had not come'."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nShe said, \"I shall have to go now.\"",
+      "options": [
+        "She said she shall have to go now.",
+        "She said that she would have to go then.",
+        "She said that she will have to go then.",
+        "She said that she had to go now."
+      ],
+      "correctAnswer": "She said that she would have to go then.",
+      "explanation": "'Shall have to' (future obligation) → 'would have to' in indirect speech; 'I' → 'she'; 'now' → 'then'; connector 'that' added. The first option keeps 'shall have to' and 'now'. The third option keeps 'will have to' — future modal must back-shift to conditional 'would'. The fourth option drops the future sense entirely and treats it as simple past 'had to' — losing the future obligation meaning."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe postman said, \"There is a letter for you.\"",
+      "options": [
+        "The postman said that there is a letter for me.",
+        "The postman said that there was a letter for me.",
+        "The postman said to me there was a letter for you.",
+        "The postman told that there was a letter for me."
+      ],
+      "correctAnswer": "The postman said that there was a letter for me.",
+      "explanation": "'There is' → 'there was' (back-shift); 'you' (the addressee) → 'me' (from the speaker's perspective). The first option keeps 'is' with no tense shift. The third option keeps 'you' instead of shifting to 'me' and phrases 'said to me' strangely. The fourth option uses 'told that' without an object — 'told' requires an object (like 'told me'), whereas 'said' can be used without one; this construction is ungrammatical."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said to me, \"You must obey your parents.\"",
+      "options": [
+        "He told me that you must obey your parents.",
+        "He said me that I must obey my parents.",
+        "He told me that I must obey my parents.",
+        "He told me that I had to obey your parents."
+      ],
+      "correctAnswer": "He told me that I must obey my parents.",
+      "explanation": "'Must' expressing obligation is usually retained (or optionally becomes 'had to'); 'you' → 'I' (addressee is 'me'); 'your' → 'my'. The first option keeps 'you' and 'your' unchanged. The second option uses 'said me' (incorrect — 'said' does not take a direct object). The fourth option keeps 'your parents' (should be 'my parents' as 'you' shifts to 'I')."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nMy friend said, \"Would that I were a bird!\"",
+      "options": [
+        "My friend said that he was a bird.",
+        "My friend wished that he was a bird.",
+        "My friend wished that he were a bird.",
+        "My friend prayed that he might be a bird."
+      ],
+      "correctAnswer": "My friend wished that he were a bird.",
+      "explanation": "'Would that…' expresses a wish and is reported with 'wished'; the subjunctive 'were' is retained in the reported clause (a well-established rule for wishes contrary to fact); 'I' → 'he'. The first option keeps 'said' (should be 'wished') and uses 'was' (subjunctive should be 'were'). The second option correctly uses 'wished' but drops the subjunctive to 'was'. The fourth option uses 'prayed' — that is for religious prayers with 'may'/'might', not the 'would that…' wish."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe guard said, \"Show me your ticket.\"",
+      "options": [
+        "The guard said to show my ticket.",
+        "The guard told to show my ticket.",
+        "The guard requested me to show his ticket.",
+        "The guard asked me to show him my ticket."
+      ],
+      "correctAnswer": "The guard asked me to show him my ticket.",
+      "explanation": "Imperative → 'asked/told + object + to + base verb'; 'me' (the guard's 'me') becomes 'him' (from the point of view of the reporter, the guard is a third person); 'your ticket' → 'my ticket' (spoken to the reporter). The first option omits the object (no addressee). The third option keeps 'me' meaning the reporter, but the ticket becomes 'his' — the ticket should be 'my' (the addressee's). The fourth option omits the object of 'told' and uses 'my' — 'told' requires an explicit listener."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nShe said to me, \"Do you like coffee or tea?\"",
+      "options": [
+        "She asked me do I like coffee or tea.",
+        "She said to me whether I liked coffee or tea.",
+        "She asked me whether I liked coffee or tea.",
+        "She asked me that I liked coffee or tea."
+      ],
+      "correctAnswer": "She asked me whether I liked coffee or tea.",
+      "explanation": "A yes/no question with 'or' uses 'whether' (or 'if') as the connector; 'said to' → 'asked'; word order becomes statement; 'like' → 'liked' (back-shift); 'you' → 'I'. The first option retains interrogative order 'do I like'. The second option keeps 'said to' rather than shifting to 'asked'. The fourth option uses 'that' as the connector — 'that' is for statements, not yes/no questions."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nThe teacher said, \"Honesty is the best policy.\"",
+      "options": [
+        "The teacher said that honesty is the best policy.",
+        "The teacher said that honesty was the best policy.",
+        "The teacher told that honesty was the best policy.",
+        "The teacher said that honesty had been the best policy."
+      ],
+      "correctAnswer": "The teacher said that honesty is the best policy.",
+      "explanation": "Universal truths / maxims retain their present tense even in indirect speech, since the truth is timeless. The second option unnecessarily back-shifts 'is' to 'was' — the universal-truth exception overrides the general back-shift rule. The third option uses 'told' without an object (which is ungrammatical) and back-shifts 'is'. The fourth option shifts to past perfect 'had been', which is even further off — universal truths do not shift at all."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Choose the correct indirect form:\n\nHe said, \"The earth revolves around the sun.\"",
+      "options": [
+        "He said that the earth had been revolving around the sun.",
+        "He said that the earth revolves around the sun.",
+        "He said that the earth revolved around the sun.",
+        "He told that the earth revolves around the sun."
+      ],
+      "correctAnswer": "He said that the earth revolves around the sun.",
+      "explanation": "Scientific facts, like universal truths, do not undergo tense back-shift in indirect speech — the earth's revolution is a timeless fact, so 'revolves' stays put. The first option over-shifts to past perfect continuous 'had been revolving' — twice-wrong for a scientific fact. The third option applies the ordinary back-shift ('revolved') — normally applied to time-bound statements but NOT to scientific facts. The fourth option uses 'told' without an object, which is ungrammatical."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Consider the following statements about tense change in direct-to-indirect narration:\n\n(i) Simple present becomes simple past.\n(ii) Present continuous becomes past continuous.\n(iii) Present perfect becomes past perfect.\n(iv) Simple past always becomes past continuous.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are the standard back-shift rules for present tenses. (iv) is FALSE — simple past in direct speech typically becomes PAST PERFECT (not past continuous) in indirect speech. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii) and keeps false (iv); '(ii), (iii) and (iv) only' drops true (i) and keeps (iv); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Consider the following statements about universal truths and habitual actions in indirect speech:\n\n(i) A universal truth remains in the simple present tense even in indirect speech.\n(ii) A habitual action of long standing must always be converted to past tense in indirect speech.\n(iii) Historical facts already in the past tense remain in the past tense in indirect speech.\n(iv) Scientific facts follow the same rule as universal truths — no tense change.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i), (iii) and (iv) reflect the standard exceptions: universal truths, scientific facts, and historical facts do not back-shift. (ii) is FALSE — habitual actions may be back-shifted or retained in present depending on continuing relevance, but they are NOT unconditionally converted to past. Any option including (ii) is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv) and keeps false (ii); '(ii), (iii) and (iv) only' drops true (i) and keeps (ii); 'All of the above' wrongly accepts (ii)."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements about time-expression changes in direct-to-indirect narration:\n\n(i) 'Now' becomes 'then'.\n(ii) 'Today' becomes 'that day'.\n(iii) 'Yesterday' becomes 'the previous day' or 'the day before'.\n(iv) 'Tomorrow' becomes 'yesterday'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are the standard time-expression shifts. (iv) is FALSE — 'tomorrow' becomes 'the next day' or 'the following day', NOT 'yesterday'. Any option that includes (iv) is therefore wrong: '(i), (iii) and (iv) only' drops the true (ii) and keeps false (iv); '(i), (ii) and (iv) only' drops true (iii) and keeps (iv); '(ii), (iii) and (iv) only' drops true (i) and keeps (iv)."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Consider the following statements about reporting interrogative sentences in indirect speech:\n\n(i) Yes/No questions use 'if' or 'whether' as the connector.\n(ii) Wh-questions retain the wh-word (why, when, where, how, what, who) as the connector.\n(iii) The word order changes from interrogative to statement form.\n(iv) The reporting verb 'said' is retained unchanged for reported questions.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are the standard rules for reporting questions. (iv) is FALSE — the reporting verb for a question changes from 'said' to 'asked'/'inquired'/'enquired'. Any option that includes (iv) is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Consider the following statements about narration of imperative sentences:\n\n(i) Orders/commands use 'ordered' or 'commanded' as the reporting verb.\n(ii) Requests use 'requested' or 'begged' as the reporting verb.\n(iii) Advice uses 'advised' as the reporting verb.\n(iv) All imperatives are converted using 'said' regardless of tone.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) list the standard tone-sensitive reporting verbs for imperatives. (iv) is FALSE — the reporting verb changes from 'said' to a tone-appropriate verb (ordered/requested/advised), not retained as 'said'. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about narration of exclamatory sentences:\n\n(i) The reporting verb 'said' changes to 'exclaimed with joy/sorrow/wonder' etc.\n(ii) The interjection ('Alas', 'Oh', 'Wow') is dropped in the indirect form.\n(iii) 'What a … !' constructions are typically replaced with 'that … very …'.\n(iv) The tense back-shift rules for exclamatory sentences are the same as for assertive sentences.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "All four statements accurately describe standard rules for narrating exclamatory sentences. Any option that drops one of these rules is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(ii), (iii) and (iv) only' drops true (i); '(i), (iii) and (iv) only' drops true (ii)."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Consider the following statements about pronoun changes in indirect speech:\n\n(i) First-person pronouns in direct speech change according to the SUBJECT of the reporting verb.\n(ii) Second-person pronouns change according to the OBJECT of the reporting verb.\n(iii) Third-person pronouns remain unchanged.\n(iv) Possessive pronouns follow the same rules as personal pronouns.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "All four statements describe the standard SON/SOR (Subject/Object/Nearer person) rule for pronoun changes in indirect speech. Any option that drops one of them is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(i), (ii) and (iv) only' drops the true (iii); '(ii), (iii) and (iv) only' drops the true (i)."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Consider the following statements about narration of optative sentences (wishes / prayers / curses):\n\n(i) Optative sentences express a wish, prayer or curse.\n(ii) The reporting verb 'said' changes to 'wished' or 'prayed'.\n(iii) 'May' in the direct wish becomes 'might' in indirect speech.\n(iv) Optative sentences are always converted using the same rules as commands.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) reflect the standard rules for optative sentences. (iv) is FALSE — optatives have their own reporting-verb set ('wished'/'prayed') and their own modal shift (may → might), NOT the imperative-command pattern. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In direct-to-indirect narration, the present continuous tense typically changes to past continuous.\nReason (R): The general rule of back-shift of tenses in reported speech applies uniformly to all continuous tenses when the reporting verb is in the past.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — present continuous back-shifts to past continuous in reported speech. (R) states the general back-shift rule for continuous tenses and directly explains why (A) holds. The second option is wrong because (R) does explain (A). The third and fourth options are wrong because both (A) and (R) are true."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The reporting verb 'said to' in direct narration is typically changed to 'told' in indirect narration.\nReason (R): A universal truth expressed in direct speech does not undergo tense back-shift in indirect speech.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — 'said to X' becomes 'told X' because 'told' inherently takes an object. (R) is also correct — universal truths bypass back-shift. However, (R) is about tense treatment of universal truths and has nothing to do with the reporting-verb transformation in (A). So both are correct but (R) is NOT the explanation of (A). The first option is wrong because R does not explain A. The third and fourth options are wrong because both statements are correct."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In direct-to-indirect conversion, the demonstrative 'this' typically becomes 'that' in indirect speech.\nReason (R): The demonstrative 'these' becomes 'this' in indirect speech irrespective of context.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — 'this' shifts to 'that' in indirect speech. (R) is FALSE — 'these' becomes 'THOSE' (parallel shift like this → that), not 'this'. So the correct choice is 'A is correct but R is not correct'. The first two options require R to be true; the fourth requires A to be false — none holds here."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A universal truth in direct speech always changes to the simple past tense in indirect speech.\nReason (R): In indirect speech, the connector 'that' can sometimes be omitted, particularly in informal writing.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE — universal truths do NOT undergo back-shift; they remain in the present tense. (R) is a correct usage note about omitting 'that'. So the correct choice is 'A is not correct but R is correct'. The first two options require A to be true; the third requires R to be false — none holds here."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The time expression 'now' in direct speech typically becomes 'then' in indirect speech.\nReason (R): Time expressions shift in indirect speech to reflect the fact that the reporting is happening later than the original utterance.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'now' shifts to 'then'. (R) is the general principle underlying all time-expression shifts, and it directly explains why 'now' (deictic to the moment of speaking) becomes 'then' (deictic to the moment being reported). The second option is wrong because R does explain A. The third and fourth options are wrong because both are true."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Match the sentence type in Column I with the typical reporting verb / phrase in Column II used to introduce it in indirect speech:\n\nColumn I:\n(a) Assertive sentence\n(b) Interrogative sentence\n(c) Imperative sentence (order)\n(d) Exclamatory sentence\n\nColumn II:\n(i) Asked / Inquired\n(ii) Said / Told\n(iii) Exclaimed with joy / sorrow / wonder\n(iv) Ordered / Commanded\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Assertive sentences use said/told → (a)-(ii). Interrogatives use asked/inquired → (b)-(i). Orders use ordered/commanded → (c)-(iv). Exclamations use exclaimed with joy/sorrow/wonder → (d)-(iii). The first option pairs assertive with 'ordered' and exclamatory with 'asked' — reversed. The second option puts 'asked/inquired' for imperatives and 'exclaimed' for questions — inconsistent with usage. The fourth option pairs assertive with 'exclaimed' and exclamatory with 'said/told' — again reversed."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Match the time expression in direct speech (Column I) with its typical shift in indirect speech (Column II):\n\nColumn I:\n(a) Now\n(b) Today\n(c) Tomorrow\n(d) Yesterday\n\nColumn II:\n(i) The day before / The previous day\n(ii) Then\n(iii) The next day / The following day\n(iv) That day\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Now → then → (a)-(ii). Today → that day → (b)-(iv). Tomorrow → the next day / the following day → (c)-(iii). Yesterday → the previous day / the day before → (d)-(i). The first option swaps (a) with (b) and mis-places tomorrow/yesterday. The third option pairs 'now' with 'the next day' — clearly wrong. The fourth option pairs 'today' with 'the next day' and 'yesterday' with 'then' — both wrong."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Match the direct-speech tense in Column I with the corresponding indirect-speech tense in Column II:\n\nColumn I:\n(a) Simple present\n(b) Present continuous\n(c) Present perfect\n(d) Simple future (will + base)\n\nColumn II:\n(i) Past perfect\n(ii) Past continuous\n(iii) Simple past\n(iv) Would + base verb\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "Simple present → simple past (a)-(iii). Present continuous → past continuous (b)-(ii). Present perfect → past perfect (c)-(i). Will → would (d)-(iv). The first option pairs simple present with past perfect, which is wrong — past perfect corresponds to present perfect. The second option pairs simple present with simple past correctly, but scrambles the rest (present continuous → would, etc.). The third option swaps present continuous and present perfect."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Match the type of question in Column I with the corresponding connector used in indirect speech in Column II:\n\nColumn I:\n(a) Yes/No question\n(b) Question starting with 'why'\n(c) Question starting with 'when'\n(d) Question starting with 'how'\n\nColumn II:\n(i) Retained as 'how'\n(ii) Retained as 'when'\n(iii) Retained as 'why'\n(iv) Introduced with 'if' or 'whether'\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "Yes/No questions use 'if' or 'whether' as connector (a)-(iv). Wh-questions retain the wh-word: why → (b)-(iii), when → (c)-(ii), how → (d)-(i). The first option pairs yes/no questions with 'why' — clearly wrong. The third option pairs 'why' with 'when' and vice versa. The fourth option pairs yes/no questions with 'when' — the yes/no connector must be 'if'/'whether'."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Match the direct-speech sentence in Column I with its most appropriate classification in Column II:\n\nColumn I:\n(a) \"Please open the door.\"\n(b) \"May you live long!\"\n(c) \"Do you know Ram?\"\n(d) \"The sun rises in the east.\"\n\nColumn II:\n(i) An optative sentence (wish/prayer)\n(ii) A request (imperative)\n(iii) A universal truth (assertive, no tense change in indirect)\n(iv) An interrogative sentence\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "'Please open the door' is a polite request → (a)-(ii). 'May you live long!' expresses a wish → (b)-(i). 'Do you know Ram?' is a yes/no question → (c)-(iv). 'The sun rises in the east' is a universal truth → (d)-(iii). The first option scrambles all four. The third option pairs the wish 'May you live long!' with an interrogative. The fourth option pairs 'Please open the door' with a universal truth."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Which of the following changes are correct when converting direct speech to indirect speech (with the reporting verb in the past tense)?\n\n(i) 'am/is/are' → 'was/were'\n(ii) 'has/have' → 'had'\n(iii) 'will/shall' → 'would/should'\n(iv) 'can' → 'could'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are standard back-shifts: be-forms shift to their past counterparts; have/has → had; will/shall → would/should; can → could. Any option that drops one of these is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(i), (iii) and (iv) only' drops (ii); '(ii), (iii) and (iv) only' drops (i)."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Which of the following are correct examples of TIME- or DEMONSTRATIVE-expression changes in indirect speech?\n\n(i) 'today' → 'that day'\n(ii) 'yesterday' → 'the day before'\n(iii) 'this' → 'that'\n(iv) 'tomorrow' → 'yesterday'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are the standard shifts. (iv) is FALSE — 'tomorrow' becomes 'the next day' or 'the following day', not 'yesterday'. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii); '(ii), (iii) and (iv) only' drops the true (i); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Which of the following statements about indirect speech are correct?\n\n(i) The tense of universal truths does not change in indirect speech.\n(ii) The reporting verb 'said' changes to 'told' when a specific listener is mentioned as its object.\n(iii) The connector 'that' can often be omitted, especially in informal writing.\n(iv) Reported questions use interrogative (inverted) word order in the reported clause.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct. (iv) is FALSE — reported questions use STATEMENT (subject-verb) word order in the reported clause, not the inverted interrogative order. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Which of the following are correctly transformed indirect-speech sentences?\n\n(i) He said, \"I am tired.\" → He said that he was tired.\n(ii) She said to me, \"Are you coming?\" → She asked me if I was coming.\n(iii) The teacher said to the students, \"Do your homework.\" → The teacher told the students to do their homework.\n(iv) He said, \"Would that I were rich!\" → He wished that he had been rich.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) apply standard transformations correctly. (iv) is INCORRECT — 'Would that I were rich!' becomes 'He wished that he WERE rich' (subjunctive 'were' is retained for wishes contrary to fact); shifting to 'had been' distorts the meaning. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Which of the following pronoun-change rules are correct when converting direct to indirect speech (reporting verb subject is 'he')?\n\n(i) 'I' (first-person in reported speech) → 'he'\n(ii) 'you' (second-person addressed to 'me') → 'I' / 'me'\n(iii) 'we' (first-person plural in reported speech by 'they') → 'they'\n(iv) 'he' (third-person in direct speech) → 'she' (automatically)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) apply the SON rule (Subject/Object/Nearer person) correctly. (iv) is FALSE — third-person pronouns in direct speech typically REMAIN unchanged in indirect speech; there is no automatic 'he' → 'she' rule. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "When converting direct speech to indirect speech, the pronoun 'I' in the reported clause (spoken by a subject reported as 'he') changes to __________.",
+      "options": [
+        "me",
+        "you",
+        "he",
+        "they"
+      ],
+      "correctAnswer": "he",
+      "explanation": "First-person pronouns in the reported clause change to match the SUBJECT of the reporting verb (SON rule — Subject). Here the reporting subject is 'he', so 'I' → 'he'. 'me' is an object form; the pronoun in the reported clause is a subject, so 'me' does not fit here. 'you' is a second-person pronoun; first-person 'I' does not become 'you' under standard rules. 'they' is third-person plural, whereas the reporter is a single 'he'."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "When converting an imperative sentence such as \"Come here\" into indirect speech, the reporting verb 'said' is typically changed to __________.",
+      "options": [
+        "said that",
+        "told to (with no object)",
+        "asked / told + object + to + base verb",
+        "shouted about"
+      ],
+      "correctAnswer": "asked / told + object + to + base verb",
+      "explanation": "Imperatives in indirect speech follow the pattern 'reporting-verb + object + to + base verb', where the reporting verb depends on tone (asked/told/ordered/requested/advised). 'said that' is used for assertive statements, not imperatives. 'told to (with no object)' is ungrammatical — 'told' requires an explicit object (the addressee). 'shouted about' is not a standard reporting verb for imperatives and changes the semantic force of the sentence."
+    }
+  ]
+}

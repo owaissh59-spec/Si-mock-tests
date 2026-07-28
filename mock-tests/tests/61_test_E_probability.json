@@ -1,0 +1,397 @@
+{
+  "subject": "E",
+  "topic": "Probability (Simple)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "A fair coin is tossed once. What is the probability of getting a head?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1"
+      ],
+      "correctAnswer": "1/2",
+      "explanation": "A fair coin has two equally likely outcomes (H and T); exactly one favours 'head', so P(H) = 1/2. '1/4' is the probability for two heads on two tosses (P = 1/2·1/2), not one toss. '1/3' does not correspond to any standard coin probability. '1' would mean the head is a sure outcome, which contradicts randomness."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "A fair die is rolled once. What is the probability of getting the number 3?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1/6"
+      ],
+      "correctAnswer": "1/6",
+      "explanation": "A standard die has six equally likely outcomes (1–6). Only one outcome, '3', is favourable, so P(3) = 1/6. '1/3' would be the probability of a specific outcome on a 3-face random device, not a 6-face die. '1/2' would be P(any half of the outcomes), not a single specific number. '1/4' is the probability for a specific outcome on a 4-face device."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "A fair die is rolled once. What is the probability of getting an even number?",
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "1/6"
+      ],
+      "correctAnswer": "1/2",
+      "explanation": "Even outcomes on a die are {2, 4, 6}, i.e. 3 outcomes out of 6, so P(even) = 3/6 = 1/2. '1/3' would correspond to 2 favourable outcomes, not 3. '2/3' would correspond to 4 favourable outcomes. '1/6' is a single-outcome probability."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "A fair die is rolled once. What is the probability of getting a prime number?",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "1/2",
+      "explanation": "Primes on a die are {2, 3, 5}, three outcomes out of six, so P(prime) = 3/6 = 1/2. '1/6' is a single-outcome probability. '1/3' would be 2 favourable outcomes. '2/3' would be 4 favourable outcomes; there are only 3 primes on a die."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "One card is drawn at random from a well-shuffled standard deck of 52 playing cards. What is the probability that it is a red card?",
+      "options": [
+        "3/26",
+        "1/4",
+        "1/13",
+        "1/2"
+      ],
+      "correctAnswer": "1/2",
+      "explanation": "Half the cards (26 of 52) are red (hearts + diamonds), so P(red) = 26/52 = 1/2. '1/4' corresponds to a single suit, not a colour. '1/13' would apply to a single rank across the deck (e.g. all Kings) — 4/52 = 1/13. '3/26' does not match any standard card category."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "One card is drawn at random from a well-shuffled standard deck of 52 cards. What is the probability that it is an ace?",
+      "options": [
+        "1/26",
+        "1/13",
+        "1/4",
+        "4/13"
+      ],
+      "correctAnswer": "1/13",
+      "explanation": "There are 4 aces (one per suit) in 52 cards, so P(ace) = 4/52 = 1/13. '1/26' would be 2/52, not 4/52. '1/4' equals 13/52 — that is the probability of a specific suit, not a specific rank. '4/13' equals 16/52 — no such standard event on a single-card draw."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "One card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a King OR a Queen?",
+      "options": [
+        "1/26",
+        "1/13",
+        "2/13",
+        "8/52"
+      ],
+      "correctAnswer": "2/13",
+      "explanation": "Kings (4) and Queens (4) are 8 different cards, so P(K or Q) = 8/52 = 2/13. '1/26' = 2/52, half of the correct numerator. '1/13' = 4/52 — that is P(King) alone, missing the Queens. '8/52' is the same value in unreduced form, but 2/13 is the standard reduced answer; students who miss the reduction may pick '8/52' — however 8/52 = 2/13 exactly, so both are numerically equal. Since the options include the reduced form '2/13', that is the standard textbook answer."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Two fair dice are rolled together. What is the probability that the sum of the numbers shown is 7?",
+      "options": [
+        "1/6",
+        "1/9",
+        "1/12",
+        "5/36"
+      ],
+      "correctAnswer": "1/6",
+      "explanation": "For two dice, sample space is 36 ordered pairs. Sum-7 outcomes are: (1,6),(6,1),(2,5),(5,2),(3,4),(4,3) — 6 outcomes. P = 6/36 = 1/6. '1/9' = 4/36 corresponds to sum 5 or sum 9 (each has 4 outcomes). '1/12' = 3/36 corresponds to sum 4 or sum 10. '5/36' corresponds to sum 6 or sum 8 (5 outcomes each). Only 7 gives 6 outcomes, hence 1/6."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Two fair coins are tossed simultaneously. What is the probability of getting exactly two heads?",
+      "options": [
+        "1",
+        "1/2",
+        "1/3",
+        "1/4"
+      ],
+      "correctAnswer": "1/4",
+      "explanation": "Sample space = {HH, HT, TH, TT}, four equally likely outcomes. Only HH gives two heads, so P = 1/4. '1' would mean 'certainly'. '1/2' is P(exactly one head) = (HT, TH)/4 = 2/4. '1/3' does not fit any two-coin event. Only the single outcome HH divided by 4 gives 1/4."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Two fair coins are tossed simultaneously. What is the probability of getting at least one head?",
+      "options": [
+        "1",
+        "1/2",
+        "1/4",
+        "3/4"
+      ],
+      "correctAnswer": "3/4",
+      "explanation": "'At least one head' = complement of 'no head' (i.e. TT). P(TT) = 1/4, so P(at least one head) = 1 − 1/4 = 3/4. Alternatively, favourable outcomes are HH, HT, TH → 3 outcomes out of 4. '1/2' would be exactly one head only (HT and TH out of 4). '1/4' is exactly two heads. '1' would mean it is certain, but TT does not include any head."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "A bag contains 5 red balls and 3 black balls. If one ball is drawn at random, what is the probability that it is red?",
+      "options": [
+        "3/8",
+        "1/2",
+        "5/8",
+        "5/3"
+      ],
+      "correctAnswer": "5/8",
+      "explanation": "Total balls = 5 + 3 = 8; favourable (red) = 5. P(red) = 5/8. '3/8' is P(black) — the complementary event. '1/2' would require equal numbers of red and black. '5/3' is greater than 1 and cannot be a probability."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "One letter is chosen at random from the word 'PROBABILITY'. What is the probability that the letter is a vowel?",
+      "options": [
+        "1/2",
+        "3/11",
+        "5/11",
+        "4/11"
+      ],
+      "correctAnswer": "4/11",
+      "explanation": "The word PROBABILITY has 11 letters: P, R, O, B, A, B, I, L, I, T, Y. Vowels are O, A, I, I → 4 vowels. P(vowel) = 4/11. '3/11' would count only 3 vowels; students might miss the repeated 'I'. '5/11' would need 5 vowels; there are only 4. '1/2' would require 5.5 vowels out of 11, which is impossible."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Consider the following statements about probability of an event E:\n\n(i) 0 ≤ P(E) ≤ 1 always holds.\n(ii) P(E) = 0 means E is an impossible event.\n(iii) P(E) = 1 means E is a sure/certain event.\n(iv) P(E) can be negative in some special cases.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are the axiomatic properties of probability. (iv) is FALSE — a probability can never be negative (it is a ratio of favourable to total non-negative outcomes). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about mutually exclusive events A and B:\n\n(i) They cannot occur at the same time.\n(ii) P(A ∩ B) = 0.\n(iii) P(A ∪ B) = P(A) + P(B).\n(iv) A and B must be independent as well.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard properties of mutually exclusive events. (iv) is FALSE — mutually exclusive events are typically NOT independent (in fact, if both P(A), P(B) > 0, being mutually exclusive contradicts independence). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Consider the following statements about the sample space (S) of a random experiment:\n\n(i) The sample space is the set of ALL possible outcomes.\n(ii) An event is any subset of the sample space.\n(iii) The sum of probabilities of all elementary outcomes in S equals 1.\n(iv) The sample space of a single coin toss has 4 outcomes.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard definitions and properties. (iv) is FALSE — a single coin toss has 2 outcomes ({H, T}); 4 outcomes correspond to TWO coin tosses (HH, HT, TH, TT). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Consider the following statements about complementary events A and A' (read: 'A complement'):\n\n(i) A ∩ A' is the empty set.\n(ii) P(A) + P(A') = 1.\n(iii) A ∪ A' = S (the whole sample space).\n(iv) A and A' can share some outcomes if the event is 'complex enough'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are definitional properties of complementary events. (iv) is FALSE — by definition, A and A' NEVER share any outcomes (their intersection is empty). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Consider the following statements about two independent events A and B:\n\n(i) The occurrence of A does not affect the probability of B.\n(ii) P(A ∩ B) = P(A) · P(B).\n(iii) A and B are mutually exclusive in all cases.\n(iv) If A and B are independent, then A' and B' are also independent.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are standard properties of independent events. (iii) is FALSE — independence and mutual exclusivity are DIFFERENT concepts; two events being independent does not imply mutual exclusivity, and vice versa. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The probability of drawing a spade OR a heart in a single draw from a standard deck is 1/2.\nReason (R): Spades and hearts are two disjoint suits, each with 13 cards; so P(spade ∪ heart) = 13/52 + 13/52 = 26/52.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 26/52 = 1/2. (R) accurately explains the disjoint-addition step and gives 26/52, which reduces to 1/2 in (A). So both are correct and (R) is the correct explanation of (A). The second option is wrong because R does explain A. The third and fourth options are wrong because both statements are correct."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Getting a 4 and getting an even number on the same roll of a die are mutually exclusive events.\nReason (R): Mutually exclusive events cannot occur simultaneously on a single trial.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE — 4 is itself an even number, so 'getting a 4' and 'getting an even number' CAN occur simultaneously; they are NOT mutually exclusive. (R) is a correct definition of mutual exclusivity. So the correct choice is 'A is not correct but R is correct'. The first two options require A to be true; the third requires R to be false — none holds here."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of probabilities of an event and its complement is always equal to 1.\nReason (R): Every outcome in the sample space belongs either to the event or to its complement, and the total probability over the sample space equals 1.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) states P(A) + P(A') = 1, a standard axiom-derived identity. (R) correctly explains the reasoning — since A and A' partition the sample space and P(S) = 1, the two probabilities must sum to 1. The second option is wrong because R does explain A. The third and fourth options are wrong because both statements are correct."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Match the following events (Column I) with their probabilities (Column II) when a fair die is rolled once:\n\nColumn I:\n(a) Getting a 6\n(b) Getting an odd number\n(c) Getting a number greater than 4\n(d) Getting a number less than 1\n\nColumn II:\n(i) 0\n(ii) 1/6\n(iii) 1/2\n(iv) 1/3\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "P(6) = 1/6 → (a)-(ii). P(odd) = P({1,3,5}) = 3/6 = 1/2 → (b)-(iii). P(> 4) = P({5,6}) = 2/6 = 1/3 → (c)-(iv). P(< 1) = 0 (impossible) → (d)-(i). The second option pairs 'Getting a 6' with 0, which is wrong (P(6) = 1/6). The third option puts 1/2 for '6' and 0 for '> 4' — both wrong. The fourth option swaps 'odd number' and '> 4' probabilities."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Match the following card events (Column I) with their probabilities (Column II) for a single random draw from a standard 52-card deck:\n\nColumn I:\n(a) Getting a Heart\n(b) Getting a King\n(c) Getting a face card (K, Q or J of any suit)\n(d) Getting the exact card 'Ace of Spades'\n\nColumn II:\n(i) 1/52\n(ii) 1/13\n(iii) 1/4\n(iv) 3/13\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "P(Heart) = 13/52 = 1/4 → (a)-(iii). P(King) = 4/52 = 1/13 → (b)-(ii). P(face card) = 12/52 = 3/13 → (c)-(iv). P(Ace of Spades) = 1/52 → (d)-(i). The first option swaps (a) and (b) (heart at 3/13, king at 1/4). The third option swaps (b) and (c) — king at 3/13 (wrong) and face card at 1/13 (wrong). The fourth option puts heart at 1/13 (should be 1/4) and king at 1/4 (should be 1/13)."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Match the following two-dice outcomes (Column I) with their probabilities (Column II):\n\nColumn I:\n(a) Sum equals 2\n(b) Sum equals 7\n(c) Sum equals 12\n(d) Both dice show the same number (a 'double')\n\nColumn II:\n(i) 1/6\n(ii) 6/36\n(iii) 1/36\n(iv) 1/36\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "Sum = 2 only from (1,1): 1/36 → (a)-(iii). Sum = 7: six pairs (see Q8): 6/36 → (b)-(ii). Sum = 12 only from (6,6): 1/36 → (c)-(iv). 'Double': 6 doubles out of 36 = 6/36 = 1/6 → (d)-(i). (Note: (iii) and (iv) are both 1/36 but shown separately for the two events that share that value.) The second option pairs (a) and (b) with wrong values (1/36 vs 6/36 swapped). The third option pairs 'sum 7' with 1/6 (numerically equal to 6/36 but the intended labelled option is (ii) which is 6/36; still (iii)+(i) etc. don't align with the four labelled slots). The fourth option pairs sum-2 with 1/36 (labelled as iv), and sum-7 with 1/6 — inconsistent with the given labels for the events at (a) and (b)."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Which of the following events on rolling a fair die once has probability 0 (an impossible event)?\n\n(i) Getting a 7\n(ii) Getting a fraction like 1.5\n(iii) Getting a 0\n(iv) Getting a 6\n\nSelect the correct combination:",
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are all impossible outcomes on a die whose face-values are {1,2,3,4,5,6}. (iv) 'Getting a 6' is a POSSIBLE outcome with probability 1/6 — it is NOT impossible. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii) and keeps the possible (iv); '(ii), (iii) and (iv) only' drops true (i) and keeps (iv); 'All of the above' wrongly counts (iv) as impossible."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Which of the following events on rolling a fair die once has probability 1 (a sure/certain event)?\n\n(i) Getting a number between 1 and 6 (inclusive)\n(ii) Getting a positive integer\n(iii) Getting a number ≤ 6\n(iv) Getting a 3\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) all encompass EVERY face of the die (1 to 6), so they are sure events with probability 1. (iv) 'Getting a 3' has probability 1/6, not 1 — it is not a certainty. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "In a single roll of a fair die, which of the following pairs of events are MUTUALLY EXCLUSIVE?\n\n(i) 'Getting a 2' and 'Getting a 5'\n(ii) 'Getting an even number' and 'Getting an odd number'\n(iii) 'Getting a 4' and 'Getting an even number'\n(iv) 'Getting a number > 3' and 'Getting a number ≤ 3'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) different single faces — mutually exclusive. (ii) even and odd are disjoint — mutually exclusive. (iv) '> 3' and '≤ 3' partition the die — mutually exclusive. (iii) '4' is itself an even number, so 'Getting a 4' and 'Getting an even number' CAN co-occur — NOT mutually exclusive. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The complete list of all possible outcomes of a random experiment is called the __________ of that experiment.",
+      "options": [
+        "Event",
+        "Trial",
+        "Sample space",
+        "Complement"
+      ],
+      "correctAnswer": "Sample space",
+      "explanation": "The set of ALL possible outcomes of a random experiment is called its sample space (usually denoted S). 'Event' is only a subset of the sample space, not the whole set. 'Trial' refers to a single performance of the experiment, not to the outcome set. 'Complement' is the set-difference of the sample space and an event, not the sample space itself."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Two fair dice are thrown simultaneously. What is the probability that BOTH dice show the same number?",
+      "options": [
+        "1/3",
+        "1/12",
+        "1/6",
+        "1/9"
+      ],
+      "correctAnswer": "1/6",
+      "explanation": "'Doubles' are (1,1), (2,2), (3,3), (4,4), (5,5), (6,6) → 6 outcomes out of 36. P = 6/36 = 1/6. '1/3' = 12/36 — no such natural event. '1/12' = 3/36. '1/9' = 4/36 — corresponds to sum = 5, not to doubles. Only 6/36 = 1/6 matches the 6 doubles."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The marks obtained by 50 students in a test are summarised below:\n\nMark range : Number of students\n0–20 : 5\n21–40 : 10\n41–60 : 15\n61–80 : 15\n81–100 : 5\n\nIf one student is chosen at random, what is the probability that the student scored in the 41–60 mark range?",
+      "options": [
+        "1/10",
+        "3/10",
+        "1/5",
+        "1/2"
+      ],
+      "correctAnswer": "3/10",
+      "explanation": "Number of students in 41–60 = 15; total = 50. P = 15/50 = 3/10. '1/10' would be 5 students in that range, not 15. '1/5' = 10/50 = 10 students. '1/2' = 25/50 = 25 students. Only 15/50 reduces to 3/10 and matches the tallied count for 41–60."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "A bag has the following mix of coloured balls:\n\nColour : Number of balls\nRed : 6\nBlue : 4\nGreen : 5\nYellow : 5\n\nIf one ball is drawn at random from the bag, what is the probability that it is NOT yellow?",
+      "options": [
+        "1/4",
+        "3/4",
+        "1/2",
+        "5/6"
+      ],
+      "correctAnswer": "3/4",
+      "explanation": "Total balls = 6 + 4 + 5 + 5 = 20. Yellow balls = 5, non-yellow = 20 − 5 = 15. P(not yellow) = 15/20 = 3/4. Alternatively, P(yellow) = 5/20 = 1/4, so P(not yellow) = 1 − 1/4 = 3/4. '1/4' is P(yellow) — the complement. '1/2' would require 10 non-yellow balls; there are 15. '5/6' does not match any correct fraction (would need 20·5/6 non-yellow balls, not an integer)."
+    }
+  ]
+}

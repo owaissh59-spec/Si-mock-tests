@@ -1,0 +1,657 @@
+{
+  "subject": "FULL",
+  "topic": "Cumulative revision — Week 3 topics (ABCDEF)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Statement: All engineers are graduates.\nStatement: Some graduates are employed.\n\nConclusion I: Some engineers are employed.\nConclusion II: Some employed persons are graduates.\n\nWhich of the conclusions follows from the two statements?",
+      "options": [
+        "Only Conclusion I follows",
+        "Neither Conclusion I nor Conclusion II follows",
+        "Both Conclusions I and II follow",
+        "Only Conclusion II follows"
+      ],
+      "correctAnswer": "Only Conclusion II follows",
+      "explanation": "From 'Some graduates are employed', it directly follows that 'Some employed persons are graduates' — this is the valid converse of a particular affirmative. Conclusion I is NOT necessarily true: 'All engineers are graduates' and 'Some graduates are employed' do not force that the 'some employed graduates' are among the engineers. Options claiming both follow or neither follows are therefore wrong."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "A cube is painted on all six faces and then cut into 27 smaller equal cubes. How many of the smaller cubes have exactly TWO faces painted?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "correctAnswer": "12",
+      "explanation": "In a 3×3×3 cube, cubes with exactly two painted faces are the EDGE cubes (excluding corners). There are 12 edges on a cube, and each edge contributes exactly one 'edge cube' (the middle of that edge), so 12 cubes have two painted faces. '6' counts the face-center cubes (1 painted face each). '8' counts the corners (3 painted faces each). '18' overcounts by adding some centers."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "P is the son of Q. R is the mother of P. S is the husband of R. How is S related to Q?",
+      "options": [
+        "Brother",
+        "Father",
+        "Son",
+        "Husband"
+      ],
+      "correctAnswer": "Husband",
+      "explanation": "R is P's mother, S is R's husband, so S is P's father. Q is P's parent (specifically the father, since 'son of Q' is used with an unspecified gender, but Q must be a parent). R is P's mother and S is R's husband; if Q is a parent of P and R is also P's mother, then Q is either the father (same as S) OR the same as R. Given the phrasing 'P is the son of Q' with Q being a distinct person from R, and S = R's husband = P's father — Q must be R (i.e. the mother). So S is the husband of R = the husband of Q. 'Father' would apply if we compared S to P, not to Q. 'Son' and 'Brother' are inconsistent with the given generation lines."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "A man walks 6 km north, then 4 km east, then 6 km south. How far is he from the starting point?",
+      "options": [
+        "14 km",
+        "6 km",
+        "10 km",
+        "4 km"
+      ],
+      "correctAnswer": "4 km",
+      "explanation": "North 6 and south 6 cancel out, leaving only 4 km east. So the straight-line distance from the starting point = 4 km. '6 km' is a single walked leg, not the displacement. '10 km' is 6 + 4 (adding two non-cancelling legs). '14 km' is the total distance walked (6 + 4 + 6), not the straight-line distance."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Consider the following statements about drawing conclusions from given statements:\n\n(i) A conclusion must follow strictly from the given statements only, not from outside knowledge.\n(ii) A conclusion in a specific case does not always follow from a general statement.\n(iii) The converse of 'Some A are B' is 'Some B are A' — a valid immediate inference.\n(iv) 'All A are B' logically implies 'All B are A'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard rules of syllogistic and logical reasoning. (iv) is FALSE — 'All A are B' does NOT imply 'All B are A' (the classic mistake of illicit conversion of universal affirmative). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Consider the following statements about ranking in a row:\n\n(i) If a person is xth from one end in a row of n, they are (n − x + 1)th from the other end.\n(ii) In a row of n persons, the sum of the ranks of any single person from both ends equals n + 1.\n(iii) If two persons swap positions, only their own ranks change; all others remain the same.\n(iv) A person's rank from the left plus their rank from the right always equals n.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct standard results. (iv) is FALSE — the sum equals n + 1, not n. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a person walks 3 km east and then 4 km north, the straight-line distance from the start is 5 km.\nReason (R): For any right-angled path, the straight-line distance is given by the Pythagorean theorem (a² + b² = c²).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: √(3² + 4²) = √25 = 5 km. (R) is a correct statement of the Pythagorean theorem, and it directly explains why (A) holds. So both are correct and (R) is the correct explanation of (A). The second option is wrong because R does explain A. The third and fourth options are wrong because both statements are true."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Match the following in Column I (rank descriptions) with Column II (numerical results) for a class of 30 students:\n\nColumn I:\n(a) Rank from top 12 → rank from bottom\n(b) Rank from top 5 + 5 new students added on top → new rank from top\n(c) Rank from left 8, rank from right 18 → total in row\n(d) Student in exact middle of 30 students (positional)\n\nColumn II:\n(i) 25\n(ii) 10\n(iii) 19\n(iv) 15.5\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 30 − 12 + 1 = 19 → (iii). (b) new rank = 5 + 5 = 10 → (ii). (c) total = 8 + 18 − 1 = 25 → (i). (d) middle of 30 students = position 15.5 (between 15th and 16th) → (iv). The second option shifts everything by one position and mis-pairs (a) with 15.5. The third option puts rank-12-from-top with 'new rank 10' and 'total' with 19 — both wrong. The fourth option swaps (b) and (c) results."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Which of the following statements about direction-sense problems are correct?\n\n(i) When facing east, the right hand points to the south.\n(ii) A 180° turn in either direction (clockwise or anticlockwise) results in facing the opposite direction.\n(iii) The angle between due north and due east is 90°.\n(iv) A person facing south, on turning 90° clockwise, ends up facing east.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard direction facts. (iv) is FALSE — a person facing south, on turning 90° clockwise, ends up facing WEST (not east); to face east from south, a 90° anticlockwise turn is needed. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "The relationship of one's father's father to oneself is known as one's __________.",
+      "options": [
+        "Maternal uncle",
+        "Maternal grandfather",
+        "Paternal grandfather",
+        "Paternal uncle"
+      ],
+      "correctAnswer": "Paternal grandfather",
+      "explanation": "Father's father = paternal grandfather (the male parent of one's father). 'Maternal uncle' is the brother of one's mother — a different relation. 'Maternal grandfather' is the mother's father — different again. 'Paternal uncle' is the brother of one's father — one's father's brother, not one's father's father."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Fundamental Rights guaranteed by Part III of the Indian Constitution are enforceable against:",
+      "options": [
+        "Only Central Government actions",
+        "Only State Government actions",
+        "Both Central and State Government actions",
+        "Only private individuals, not the State"
+      ],
+      "correctAnswer": "Both Central and State Government actions",
+      "explanation": "Fundamental Rights are enforceable against the 'State' — Article 12 defines the State to include both Central and State Governments, Parliament, State Legislatures and other authorities. The first two options wrongly restrict Fundamental Rights to only one level of government. The fourth option is completely wrong — Fundamental Rights are directed against the State (although some rights extend to protection against non-State actors indirectly, they are primarily against the State)."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The Reserve Bank of India (RBI) is the __________ of the Indian banking system.",
+      "options": [
+        "Regulator only",
+        "Investment Bank",
+        "Commercial Bank",
+        "Central Bank"
+      ],
+      "correctAnswer": "Central Bank",
+      "explanation": "The RBI is India's Central Bank, established in 1935 under the RBI Act 1934. It performs central banking functions: currency issue, monetary policy, regulator of banks, and manager of foreign exchange. 'Regulator only' understates its role — the RBI is also the issuer of currency and lender of last resort. 'Commercial Bank' is the role of banks like SBI, PNB, HDFC — not the RBI. 'Investment Bank' is the role of institutions like ICICI Securities — not the RBI."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The Kashmir Willow, an indigenous variety of willow used for making cricket bats, is primarily grown in which region of India?",
+      "options": [
+        "Punjab",
+        "Uttar Pradesh",
+        "Kashmir Valley",
+        "Himachal Pradesh"
+      ],
+      "correctAnswer": "Kashmir Valley",
+      "explanation": "Kashmir Willow (Salix alba var. caerulea) is native to the Kashmir Valley and is the source of Kashmir Willow cricket bats, which are lighter and less expensive than English Willow bats. Punjab is famous for wheat and rice, not willow. Uttar Pradesh has vast plains not suited to willow. Himachal Pradesh has some willow but is not the primary producer of cricket-bat willow."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "The Lieutenant Governor of the Union Territory of Jammu & Kashmir is appointed by:",
+      "options": [
+        "The Prime Minister of India",
+        "The Chief Justice of India",
+        "The President of India",
+        "The Governor of the neighbouring state"
+      ],
+      "correctAnswer": "The President of India",
+      "explanation": "The LG of a UT is appointed by the President of India under Article 239 of the Constitution. The Prime Minister recommends candidates but does not formally appoint. The Chief Justice heads the judiciary and has no role in appointing the LG. There is no such convention as appointment 'by the Governor of the neighbouring state' — this option is fabricated."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) The Preamble to the Constitution declares India to be a Sovereign, Socialist, Secular, Democratic Republic.\n(ii) The Fundamental Rights are contained in Part III.\n(iii) The Directive Principles of State Policy are contained in Part IV.\n(iv) The words 'Socialist' and 'Secular' were part of the original Preamble adopted in 1949.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct. (iv) is FALSE — the words 'Socialist' and 'Secular' were added to the Preamble by the 42nd Constitutional Amendment in 1976, NOT part of the original 1949 Preamble. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Union Territory of Jammu & Kashmir:\n\n(i) The Legislative Assembly of the UT has 90 elected seats after the 2022 delimitation.\n(ii) The UT is divided into two administrative divisions — Jammu and Kashmir.\n(iii) The High Court is common to J&K and Ladakh UTs.\n(iv) The Chief Minister is the constitutional head of the UT of J&K.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct facts about the current setup. (iv) is FALSE — the constitutional head of the UT of J&K is the LIEUTENANT GOVERNOR, not the Chief Minister. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Directive Principles of State Policy are directly enforceable in the Supreme Court just like the Fundamental Rights.\nReason (R): The Directive Principles of State Policy are contained in Part IV of the Constitution.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE — Directive Principles are expressly declared non-justiciable by Article 37 and CANNOT be directly enforced in any court, unlike Fundamental Rights (Part III). (R) is a correct statement — DPSPs are indeed in Part IV. So the correct choice is 'A is not correct but R is correct'. The first two options require A to be true; the third requires R to be false — none holds here."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Match the following Indian ministries in Column I with the correct area of responsibility in Column II:\n\nColumn I:\n(a) Ministry of External Affairs\n(b) Ministry of Home Affairs\n(c) Ministry of Finance\n(d) Ministry of Defence\n\nColumn II:\n(i) Armed forces and national security\n(ii) Internal security, police, and Union Territories administration\n(iii) Budget, taxation and financial policy\n(iv) Foreign policy and diplomatic relations\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "External Affairs handles foreign policy → (a)-(iv). Home Affairs handles internal security and UTs → (b)-(ii). Finance handles budget and taxes → (c)-(iii). Defence handles armed forces → (d)-(i). The second option swaps (a) and (b). The third option pairs External Affairs with the armed forces (wrong) and Defence with foreign policy (wrong). The fourth option puts Home Affairs with armed forces (defence's job) and Defence with taxes (finance's job)."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Which of the following are true about the Indian economy?\n\n(i) The Reserve Bank of India was established in 1935.\n(ii) The Goods and Services Tax (GST) was introduced on 1 July 2017.\n(iii) The Indian rupee is issued by the Ministry of Finance directly.\n(iv) India follows a mixed economic system (public + private sectors).\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are correct. (iii) is FALSE — the Indian rupee is issued by the RESERVE BANK OF INDIA (RBI), NOT directly by the Ministry of Finance. The Ministry of Finance oversees fiscal policy but currency issuance is the RBI's exclusive function. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The traditional multi-course Kashmiri wedding feast is called the __________.",
+      "options": [
+        "Sadya",
+        "Bhang",
+        "Wazwan",
+        "Thali"
+      ],
+      "correctAnswer": "Wazwan",
+      "explanation": "Wazwan is the elaborate multi-course (typically 36-course) Kashmiri banquet served at weddings and other big occasions. 'Sadya' is the traditional Kerala feast — a completely different regional cuisine. 'Bhang' is a cannabis-infused beverage, not a feast. 'Thali' is a generic term for a platter-based meal in many Indian regions, not specifically a Kashmiri wedding feast."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "A shopkeeper buys an article for ₹500 and sells it for ₹600. What is his profit percentage?",
+      "options": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "Profit = SP − CP = 600 − 500 = ₹100. Profit % = (100/500) × 100 = 20%. '15%' would need a profit of ₹75 (SP ₹575). '18%' would need profit ₹90 (SP ₹590). '25%' would need profit ₹125 (SP ₹625). Only ₹100 profit gives exactly 20%."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "A and B start a business together with capital ₹15,000 and ₹25,000 respectively for one year. If the total profit at the end of the year is ₹8,000, what is A's share of the profit?",
+      "options": [
+        "₹2,500",
+        "₹3,000",
+        "₹3,200",
+        "₹4,000"
+      ],
+      "correctAnswer": "₹3,000",
+      "explanation": "Profit sharing ratio = capital ratio = 15,000 : 25,000 = 3 : 5. A's share = (3/8) × 8,000 = ₹3,000; B's share = ₹5,000. '₹2,500' would require a 5 : 11 split. '₹3,200' would need 2 : 3 split (not the case here). '₹4,000' would be a 1 : 1 split, which requires equal capitals."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "In what ratio should sugar at ₹30/kg and sugar at ₹40/kg be mixed to obtain a mixture worth ₹35/kg?",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 2",
+        "1 : 1"
+      ],
+      "correctAnswer": "1 : 1",
+      "explanation": "By the alligation rule: cheaper : dearer = (40 − 35) : (35 − 30) = 5 : 5 = 1 : 1. Verify: (1·30 + 1·40)/2 = 35 ✓. '2 : 3' gives (60 + 120)/5 = 36, not 35. '3 : 2' gives (90 + 80)/5 = 34, not 35. '1 : 2' gives (30 + 80)/3 ≈ 36.67, not 35."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Consider the following statements about profit and loss:\n\n(i) Profit % = (Profit / Cost Price) × 100.\n(ii) Loss % = (Loss / Selling Price) × 100.\n(iii) Selling Price = Cost Price + Profit (when there is profit).\n(iv) Cost Price = Selling Price × (100 / (100 + Profit %)) when there is profit.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i), (iii) and (iv) are the standard correct formulas. (ii) is FALSE — Loss % is calculated on the COST PRICE, not the selling price: Loss % = (Loss / Cost Price) × 100. Any option including (ii) is therefore wrong."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When two solutions with concentrations 30% and 70% are mixed in equal quantities, the resulting solution has 50% concentration.\nReason (R): The Simple Interest formula is SI = (P × R × T)/100.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: (30% + 70%)/2 = 50%. (R) is also correct — the SI formula is indeed SI = (P·R·T)/100. However, (R) is about Simple Interest and has nothing to do with mixture concentrations in (A); the two are unrelated topics. So both are correct but (R) is NOT the explanation of (A). The first option is wrong because R does not explain A. The third and fourth options are wrong because both statements are correct."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Match the following mixture / mercantile formulas in Column I with the correct expression in Column II:\n\nColumn I:\n(a) Alligation ratio (cheaper : dearer)\n(b) Profit percentage\n(c) Simple interest\n(d) Cost of mixture per unit\n\nColumn II:\n(i) (Profit / Cost Price) × 100\n(ii) (Principal × Rate × Time) / 100\n(iii) (Dearer − Mean) : (Mean − Cheaper)\n(iv) Total cost / Total quantity\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Alligation ratio = (Dearer − Mean) : (Mean − Cheaper) → (a)-(iii). Profit % = (Profit/CP)·100 → (b)-(i). SI = (P·R·T)/100 → (c)-(ii). Cost of mixture per unit = Total cost/Total quantity → (d)-(iv). The second option pairs alligation with the per-unit cost formula. The third option pairs alligation with SI formula. The fourth option swaps profit % with SI."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "A vessel contains 40 litres of pure milk. If 10 litres are drawn off and replaced with water, how many litres of pure milk remain in the vessel?",
+      "options": [
+        "25 L",
+        "30 L",
+        "35 L",
+        "20 L"
+      ],
+      "correctAnswer": "30 L",
+      "explanation": "Milk remaining = 40·(1 − 10/40) = 40·(3/4) = 30 L. '25 L' would require removing 15 L, not 10. '35 L' would need removing only 5 L. '20 L' would require removing 20 L (half the vessel)."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "The following table shows the cost prices and selling prices of three items:\n\nItem : CP (₹) : SP (₹)\nA : 200 : 250\nB : 400 : 460\nC : 500 : 520\n\nWhich item has the HIGHEST profit percentage?",
+      "options": [
+        "All are equal",
+        "Item B",
+        "Item C",
+        "Item A"
+      ],
+      "correctAnswer": "Item A",
+      "explanation": "Profit % of A = (50/200)·100 = 25%. Profit % of B = (60/400)·100 = 15%. Profit % of C = (20/500)·100 = 4%. A has the highest at 25%. 'Item B' at 15% is lower. 'Item C' at only 4% is lowest. 'All are equal' contradicts the calculated values."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Choose the correct word to fill in the blank:\n\nShe is known ______ her honesty and hard work.",
+      "options": [
+        "by",
+        "with",
+        "for",
+        "of"
+      ],
+      "correctAnswer": "for",
+      "explanation": "The idiomatic collocation is 'known for + noun', meaning famous for a quality. 'Known by' typically pairs with a name/identity ('known by the name of…'), not a virtue. 'Known with' is not a standard English collocation. 'Known of' means 'aware of the existence of' — used for facts, not for someone's attributes."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Choose the correct PASSIVE voice of:\n\nThey are painting the wall.",
+      "options": [
+        "The wall was painted by them.",
+        "The wall is painted by them.",
+        "The wall has been painted by them.",
+        "The wall is being painted by them."
+      ],
+      "correctAnswer": "The wall is being painted by them.",
+      "explanation": "Present continuous active ('They are painting…') → present continuous passive ('The wall is being painted…'). 'The wall was painted' is simple past passive. 'The wall has been painted' is present perfect passive. 'The wall is painted' is simple present passive. Only 'is being painted' matches the continuous aspect of the active voice."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Choose the correct INDIRECT form:\n\nHe said, \"I will come tomorrow.\"",
+      "options": [
+        "He said that he will come tomorrow.",
+        "He said that he would come the next day.",
+        "He said he will come the next day.",
+        "He said that he would come tomorrow."
+      ],
+      "correctAnswer": "He said that he would come the next day.",
+      "explanation": "'Will' → 'would' (back-shift); 'tomorrow' → 'the next day' (time shift); 'I' → 'he'; connector 'that' added. The first option keeps 'will' and 'tomorrow'. The third option keeps 'will' although it shifts 'tomorrow'. The fourth option shifts to 'would' but keeps 'tomorrow' — the time expression must also shift."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Choose the correct word/phrase to fill in the blank:\n\nHe is not only intelligent ______ hardworking as well.",
+      "options": [
+        "and",
+        "but also",
+        "also",
+        "or"
+      ],
+      "correctAnswer": "but also",
+      "explanation": "The correlative conjunction 'not only … but also' is the standard idiomatic pairing. 'And' does not correlate with 'not only'. 'Also' alone breaks the correlative structure. 'Or' introduces alternatives and does not correlate with 'not only'."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Consider the following statements about active-to-passive voice conversion:\n\n(i) In the passive voice, the object of the active becomes the subject.\n(ii) The verb 'be' (in the correct tense) plus the past participle is used in the passive.\n(iii) The subject of the active can be omitted in the passive if it is unknown or unimportant.\n(iv) Only transitive verbs can be converted to passive voice.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "All four statements are correct standard rules of voice conversion. Any option that drops one is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(i), (iii) and (iv) only' drops (ii); '(ii), (iii) and (iv) only' drops (i)."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A universal truth in direct speech retains its present tense even when reported in the past.\nReason (R): The reporting verb 'said to' is always retained unchanged (i.e. never changed to 'told') in indirect speech.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — universal truths retain their present tense in indirect speech. (R) is FALSE — the reporting verb 'said to' typically CHANGES to 'told' in indirect narration (since 'told' takes a direct object more naturally). So the correct choice is 'A is correct but R is not correct'. The first two options require R to be true; the fourth requires A to be false — none holds here."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Match the direct-speech tense in Column I with the corresponding indirect-speech tense in Column II:\n\nColumn I:\n(a) Simple present\n(b) Present continuous\n(c) Present perfect\n(d) Will/shall + base\n\nColumn II:\n(i) Past continuous\n(ii) Past perfect\n(iii) Simple past\n(iv) Would/should + base\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Simple present → simple past (a)-(iii). Present continuous → past continuous (b)-(i). Present perfect → past perfect (c)-(ii). Will/shall → would/should (d)-(iv). The second option pairs simple present with past continuous. The third option pairs simple present with past perfect. The fourth option pairs simple present with would/should — that is the future's shift, not the present's."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Which of the following are CORRECT transformations of active voice to passive voice?\n\n(i) 'He wrote a letter.' → 'A letter was written by him.'\n(ii) 'The students are reading books.' → 'Books are being read by the students.'\n(iii) 'She has finished her homework.' → 'Her homework has been finished by her.'\n(iv) 'They will complete the project.' → 'The project will completed by them.'\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) all follow the correct passive-voice pattern (be + past participle). (iv) is INCORRECT — the correct passive of 'They will complete the project' is 'The project will BE completed by them' (missing 'be' in the given transformation). Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "If tan θ = 3/4, then sin θ + cos θ equals:",
+      "options": [
+        "7/5",
+        "1/5",
+        "5/7",
+        "5/12"
+      ],
+      "correctAnswer": "7/5",
+      "explanation": "If tan θ = 3/4 (opposite/adjacent), we can take opp = 3, adj = 4, so hypotenuse = √(3² + 4²) = 5. Then sin θ = 3/5 and cos θ = 4/5. Sum = 3/5 + 4/5 = 7/5. '1/5' would be a difference (4/5 − 3/5), not sum. '5/7' is the reciprocal of 7/5 — not the sum. '5/12' does not correspond to any correct combination."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "A pole of height 10 m casts a shadow of 10√3 m on the ground. What is the angle of elevation of the sun?",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": "30°",
+      "explanation": "tan θ = height/shadow = 10/(10√3) = 1/√3, so θ = 30°. '45°' would require height = shadow (10 m each). '60°' would require tan θ = √3, i.e. shadow = height/√3 ≈ 5.77 m, not 10√3. '90°' would mean the pole and its shadow coincide, i.e. shadow = 0, contradicting the given shadow of 10√3 m."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Consider the following statements about measures of central tendency:\n\n(i) Mean is the sum of observations divided by their number.\n(ii) Median is the middle value of an ordered data set.\n(iii) Mode is the value that occurs most frequently.\n(iv) The mean is unaffected by extreme values (outliers).\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard definitions. (iv) is FALSE — the mean IS AFFECTED by extreme values because every value contributes to it; only the median is relatively robust to outliers. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Match the following events (Column I) with their probabilities (Column II) for rolling a single fair die:\n\nColumn I:\n(a) Getting a 4\n(b) Getting an even number\n(c) Getting a prime number\n(d) Getting a number greater than 6\n\nColumn II:\n(i) 0\n(ii) 1/6\n(iii) 1/2\n(iv) 1/2 (for primes: {2,3,5})\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "P(4) = 1/6 → (a)-(ii). P(even) = P({2,4,6}) = 3/6 = 1/2 → (b)-(iii). P(prime) = P({2,3,5}) = 3/6 = 1/2 → (c)-(iv). P(> 6) = 0 (impossible on a 6-face die) → (d)-(i). The first option pairs (a) with 1/2 (should be 1/6). The third option pairs (b) with primes-probability and (c) with even-probability — swapped. The fourth option pairs (c) with 0 (impossible) — but 'getting a prime' is not impossible."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "Which of the following are properties of the arithmetic mean of a data set?\n\n(i) It is affected by every value in the data set.\n(ii) It always lies between the smallest and largest observations.\n(iii) It is influenced by extreme values (outliers).\n(iv) It is always equal to the median for any data set.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard mean properties. (iv) is FALSE — mean equals median only for symmetric distributions; for skewed data they differ. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "A bag contains 3 red, 4 green and 5 blue balls. If one ball is drawn at random, what is the probability that the ball is NOT blue?",
+      "options": [
+        "5/12",
+        "7/12",
+        "1/3",
+        "1/4"
+      ],
+      "correctAnswer": "7/12",
+      "explanation": "Total balls = 3 + 4 + 5 = 12. Non-blue = red + green = 3 + 4 = 7. P(not blue) = 7/12. Alternatively, P(blue) = 5/12, so P(not blue) = 1 − 5/12 = 7/12. '5/12' is P(blue), the complement. '1/3' = 4/12 corresponds to only green. '1/4' = 3/12 corresponds to only red."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "The marks obtained by 40 students are grouped as follows:\n\nMarks : Number of students\n0–20 : 4\n21–40 : 8\n41–60 : 12\n61–80 : 10\n81–100 : 6\n\nIf a student is chosen at random, what is the probability that the student scored between 41 and 80 (inclusive)?",
+      "options": [
+        "10/40",
+        "22/40",
+        "12/40",
+        "16/40"
+      ],
+      "correctAnswer": "22/40",
+      "explanation": "Students scoring 41–60 = 12; students scoring 61–80 = 10; total in 41–80 range = 12 + 10 = 22. P = 22/40. '10/40' counts only 61–80. '12/40' counts only 41–60. '16/40' does not match any group or combination of two adjacent groups."
+    },
+    {
+      "id": "44",
+      "subject": "F",
+      "questionText": "The unique numerical address that identifies a device on the internet is called an:",
+      "options": [
+        "MAC address",
+        "URL",
+        "Port number",
+        "IP address"
+      ],
+      "correctAnswer": "IP address",
+      "explanation": "An IP (Internet Protocol) address is the unique numerical address (like 192.168.1.1 or an IPv6 address) that identifies a device on a network at the network layer. A MAC address is the physical hardware address at the data-link layer, unique to a network interface, but not the internet identifier for routing. A port number identifies a specific service/application on a device, not the device itself. A URL is a resource locator (web address) that points to a resource, resolved through DNS to an IP address."
+    },
+    {
+      "id": "45",
+      "subject": "F",
+      "questionText": "Which of the following networking devices operates at the DATA LINK layer (Layer 2) of the OSI model?",
+      "options": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Modem"
+      ],
+      "correctAnswer": "Switch",
+      "explanation": "A network switch operates at the data-link layer (Layer 2), forwarding frames based on MAC addresses. A hub operates at the physical layer (Layer 1), broadcasting signals to all ports without inspecting content. A router operates at the network layer (Layer 3), routing packets based on IP addresses. A modem operates at the physical layer, converting between digital and analog signals for transmission."
+    },
+    {
+      "id": "46",
+      "subject": "F",
+      "questionText": "The malicious software that encrypts a user's files and demands a payment for restoring access is called:",
+      "options": [
+        "Adware",
+        "Spyware",
+        "Ransomware",
+        "Trojan horse"
+      ],
+      "correctAnswer": "Ransomware",
+      "explanation": "Ransomware is the specific malware category that encrypts (or locks) files and demands a ransom for decryption. Adware displays unwanted ads but does not encrypt files. Spyware secretly monitors user activity but does not encrypt files or demand ransom. A Trojan horse is malware disguised as a legitimate program — a broader category that can carry many payloads, but 'ransomware' names the specific behaviour in the question."
+    },
+    {
+      "id": "47",
+      "subject": "F",
+      "questionText": "Consider the following statements about networking protocols:\n\n(i) TCP is a connection-oriented protocol that guarantees ordered delivery.\n(ii) UDP is a connectionless protocol that does not guarantee delivery.\n(iii) HTTP typically uses port 80, and HTTPS uses port 443.\n(iv) DNS translates domain names to IP addresses, and vice versa.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "All four statements are correct standard facts about internet protocols. Any option that drops one is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(i), (iii) and (iv) only' drops (ii); '(ii), (iii) and (iv) only' drops (i)."
+    },
+    {
+      "id": "48",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two-factor authentication (2FA) significantly reduces the risk of account compromise, even if a password is stolen.\nReason (R): 2FA requires the attacker to also possess the second factor (such as an OTP or a physical token), which the attacker typically does not have.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is a well-established security fact. (R) correctly explains the mechanism: without the second factor, the attacker cannot log in with just the password. So both are correct and (R) explains (A). The second option is wrong because R does explain A. The third and fourth options are wrong because both statements are true."
+    },
+    {
+      "id": "49",
+      "subject": "F",
+      "questionText": "Which of the following are recommended best practices for personal cyber security?\n\n(i) Using strong, unique passwords for each account.\n(ii) Enabling two-factor authentication where available.\n(iii) Regularly updating operating systems and applications.\n(iv) Clicking on any unsolicited link received via email to inspect its content.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard cyber-hygiene practices. (iv) is EXACTLY OPPOSITE to good practice — clicking unsolicited links is a leading cause of phishing and malware infection; users should NOT click unknown links. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "50",
+      "subject": "F",
+      "questionText": "The following table shows the count of security incidents recorded in an organization over four months:\n\nMonth : Number of incidents\nJanuary : 12\nFebruary : 15\nMarch : 8\nApril : 25\n\nIn which month was the highest number of security incidents recorded, and what is the total for these four months?",
+      "options": [
+        "March; total = 60",
+        "April; total = 60",
+        "February; total = 60",
+        "April; total = 55"
+      ],
+      "correctAnswer": "April; total = 60",
+      "explanation": "Highest count is in April (25). Total = 12 + 15 + 8 + 25 = 60. 'March; total = 60' names the wrong month (March has only 8, the lowest). 'February; total = 60' also names a wrong month (Feb has 15, second-highest but not the highest). 'April; total = 55' has the right month but a wrong total (12+15+8+25 = 60, not 55)."
+    }
+  ]
+}

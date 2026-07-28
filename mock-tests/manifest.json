@@ -878,7 +878,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "58_test_B_jk-gk.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 59,
@@ -893,7 +893,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "59_test_C_mixture-alligation.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 60,
@@ -908,7 +908,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "60_test_D_narration.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 61,
@@ -923,7 +923,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "61_test_E_probability.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 62,
@@ -938,7 +938,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "62_test_A_matching-indexing.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 63,
@@ -953,7 +953,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "63_test_FULL_revision-wk3.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 64,

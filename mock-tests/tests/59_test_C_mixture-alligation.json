@@ -1,0 +1,527 @@
+{
+  "subject": "C",
+  "topic": "Mixture & Alligation",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "In what ratio should rice at ₹40 per kg and rice at ₹60 per kg be mixed so that the mixture costs ₹45 per kg? (Ratio of cheaper : dearer.)",
+      "options": [
+        "5 : 3",
+        "2 : 3",
+        "1 : 3",
+        "3 : 1"
+      ],
+      "correctAnswer": "3 : 1",
+      "explanation": "By the alligation rule, ratio of cheaper : dearer = (dearer − mean) : (mean − cheaper) = (60 − 45) : (45 − 40) = 15 : 5 = 3 : 1. Verify: (3·40 + 1·60)/4 = 180/4 = 45 ✓. '2 : 3' gives (2·40 + 3·60)/5 = 260/5 = 52, not 45. '1 : 3' is the reverse and gives (40 + 180)/4 = 55, not 45. '5 : 3' gives (200 + 180)/8 = 47.5, not 45."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "A container has 60 litres of pure milk. If 12 litres are drawn off and replaced with water, what fraction of the original milk remains in the container?",
+      "options": [
+        "3/5",
+        "2/3",
+        "4/5",
+        "1/2"
+      ],
+      "correctAnswer": "4/5",
+      "explanation": "After one replacement, remaining milk fraction = 1 − (12/60) = 1 − 1/5 = 4/5, i.e. 48 L of milk are left in 60 L of total liquid. '3/5' would need 24 L drawn out, not 12. '2/3' does not correspond to a fixed removal fraction of 1/5. '1/2' would need 30 L drawn out, not 12."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "A mixture of 40 litres has milk and water in the ratio 3 : 1. How much water must be added so that the ratio becomes 3 : 2?",
+      "options": [
+        "12 L",
+        "8 L",
+        "15 L",
+        "10 L"
+      ],
+      "correctAnswer": "10 L",
+      "explanation": "Original milk = (3/4)·40 = 30 L, water = 10 L. Let x litres of water be added. New ratio 3 : 2 means 30/(10 + x) = 3/2 → 60 = 30 + 3x → x = 10. '8 L' gives 30 : 18 = 5 : 3, not 3 : 2. '15 L' gives 30 : 25 = 6 : 5, not 3 : 2. '12 L' gives 30 : 22 = 15 : 11, not 3 : 2."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Two types of tea are mixed in the ratio 5 : 3. The cheaper tea costs ₹120 per kg and the resulting mixture costs ₹135 per kg. What is the cost of the dearer tea per kg?",
+      "options": [
+        "₹150",
+        "₹145",
+        "₹155",
+        "₹160"
+      ],
+      "correctAnswer": "₹160",
+      "explanation": "By alligation, cheaper : dearer = (d − 135) : (135 − 120) = (d − 135) : 15, and this equals 5 : 3, so (d − 135)/15 = 5/3 → d − 135 = 25 → d = ₹160. Verify: (5·120 + 3·160)/8 = (600 + 480)/8 = 135 ✓. '₹150' gives ratio 15 : 15 = 1 : 1, not 5 : 3. '₹155' gives 20 : 15 = 4 : 3. '₹145' gives 10 : 15 = 2 : 3."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "A vessel contains 80 litres of pure milk. From it, 20 litres are drawn out and replaced with water. This operation is repeated twice more (three replacements in total). How much pure milk remains in the vessel?",
+      "options": [
+        "27.00 L",
+        "33.75 L",
+        "45.00 L",
+        "40.00 L"
+      ],
+      "correctAnswer": "33.75 L",
+      "explanation": "After n replacements, pure milk remaining = 80·(1 − 20/80)³ = 80·(3/4)³ = 80·(27/64) = 33.75 L. '27.00 L' comes from (27/80) × 80, using the wrong denominator (80 instead of 64). '45.00 L' equals 80·(3/4)² = 45 — this is the amount left after TWO replacements, not three. '40.00 L' is exactly half the vessel and does not correspond to any correct power of (3/4)."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "A mixture contains milk and water in the ratio 5 : 3. If the total volume is 40 litres, how much water is present?",
+      "options": [
+        "10 L",
+        "20 L",
+        "15 L",
+        "25 L"
+      ],
+      "correctAnswer": "15 L",
+      "explanation": "Water's share = 3/(5 + 3) = 3/8 of 40 L = 15 L. '20 L' would need a 1 : 1 ratio, not 5 : 3. '10 L' would need a 3 : 1 ratio. '25 L' would make water more than milk, contradicting the 5 : 3 ratio which puts milk higher than water."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Two alloys A and B contain copper and zinc in the ratios 5 : 3 and 3 : 5 respectively. If equal weights of A and B are melted together, what is the ratio of copper to zinc in the resulting alloy?",
+      "options": [
+        "2 : 3",
+        "3 : 5",
+        "5 : 3",
+        "1 : 1"
+      ],
+      "correctAnswer": "1 : 1",
+      "explanation": "Take 8 kg of each alloy for convenience. From A: Cu = 5 kg, Zn = 3 kg. From B: Cu = 3 kg, Zn = 5 kg. Totals: Cu = 5 + 3 = 8 kg; Zn = 3 + 5 = 8 kg. Ratio = 8 : 8 = 1 : 1. '3 : 5' and '5 : 3' are the individual alloy ratios — but equal weights symmetrically cancel them. '2 : 3' has no basis in this symmetric addition."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "Two coffees, Type-I at ₹500 per kg and Type-II at ₹350 per kg, are to be mixed so that the resulting mixture costs ₹400 per kg. In what ratio should Type-I and Type-II be mixed (Type-I : Type-II)?",
+      "options": [
+        "3 : 2",
+        "1 : 3",
+        "2 : 3",
+        "1 : 2"
+      ],
+      "correctAnswer": "1 : 2",
+      "explanation": "By alligation, dearer : cheaper = (mean − cheaper) : (dearer − mean) = (400 − 350) : (500 − 400) = 50 : 100 = 1 : 2. So Type-I : Type-II = 1 : 2. Verify: (1·500 + 2·350)/3 = 1200/3 = 400 ✓. '1 : 3' gives (500 + 1050)/4 = 387.50, not 400. '2 : 3' gives (1000 + 1050)/5 = 410, not 400. '3 : 2' gives (1500 + 700)/5 = 440, not 400."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "A milkman mixes water with milk and sells the mixture at the cost price of pure milk. If he earns a profit of 25%, what is the ratio of milk to water in the mixture?",
+      "options": [
+        "3 : 1",
+        "5 : 2",
+        "5 : 1",
+        "4 : 1"
+      ],
+      "correctAnswer": "4 : 1",
+      "explanation": "Let 1 litre of pure milk cost ₹1 and be sold at ₹1. If milk : water = 4 : 1, then 5 L of mixture contains 4 L of milk (cost = ₹4) and 1 L of water (cost = 0). Selling 5 L at ₹1/L = ₹5, so profit = ₹1 on cost ₹4 = 25% ✓. '3 : 1' gives profit = 1/3 = 33.33%, not 25%. '5 : 1' gives profit = 1/5 = 20%. '5 : 2' gives profit = 2/5 = 40%."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Two vessels V1 and V2 contain acid and water in the ratios 3 : 1 and 5 : 3 respectively. If contents from V1 and V2 are mixed in the ratio 1 : 2 by volume, what is the ratio of acid to water in the final mixture?",
+      "options": [
+        "9 : 7",
+        "7 : 5",
+        "2 : 1",
+        "13 : 11"
+      ],
+      "correctAnswer": "2 : 1",
+      "explanation": "Take 1 L from V1 and 2 L from V2 (1 : 2 by volume). V1 (3 : 1 in 1 L): acid = 3/4, water = 1/4. V2 (5 : 3 in 2 L): acid = (5/8)·2 = 5/4, water = (3/8)·2 = 3/4. Totals: acid = 3/4 + 5/4 = 2; water = 1/4 + 3/4 = 1. Ratio = 2 : 1. '7 : 5' would require different individual ratios. '9 : 7' does not match the weighted-average calculation. '13 : 11' is a common trap value from adding numerators and denominators separately, but that method is not valid for mixing."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "A container has 50 litres of pure milk. If 5 litres are drawn out and replaced with water, what is the new ratio of milk to water in the container?",
+      "options": [
+        "8 : 1",
+        "10 : 1",
+        "9 : 1",
+        "7 : 1"
+      ],
+      "correctAnswer": "9 : 1",
+      "explanation": "After the operation, milk = 50 − 5 = 45 L, water = 5 L, so milk : water = 45 : 5 = 9 : 1. '10 : 1' would need only about 4.5 L drawn out, not 5. '8 : 1' would need 5.55 L drawn out. '7 : 1' would need 6.25 L drawn out — none matches 5 L exactly."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "A trader adds water to milk in such a way that the total volume increases by 20%. If he sells the mixture at the cost price of pure milk, what is his profit percentage?",
+      "options": [
+        "18%",
+        "20%",
+        "22%",
+        "25%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "Let cost of 1 L milk be ₹1. He adds 0.2 L water (20% of 1 L) → mixture = 1.2 L. Selling at ₹1 per litre yields ₹1.20 for a cost of ₹1, so profit = ₹0.20 → profit% = 20%. '18%' would need a smaller water addition. '22%' would need more than 20% water added. '25%' would require 25% water addition (adding 0.25 L water to 1 L milk)."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "In what ratio should rice at ₹56 per kg and rice at ₹68 per kg be mixed so that on selling the mixture at ₹72 per kg, the grocer earns a 20% profit? (Ratio of ₹56 rice : ₹68 rice.)",
+      "options": [
+        "2 : 3",
+        "1 : 2",
+        "3 : 2",
+        "2 : 1"
+      ],
+      "correctAnswer": "2 : 1",
+      "explanation": "SP = ₹72 with 20% profit → CP of mixture = 72/1.20 = ₹60/kg. By alligation, cheaper : dearer = (68 − 60) : (60 − 56) = 8 : 4 = 2 : 1. Verify: (2·56 + 1·68)/3 = 180/3 = 60 → SP = 60·1.2 = ₹72 ✓. '1 : 2' gives (56 + 136)/3 = 64, not 60. '3 : 2' gives (168 + 136)/5 = 60.8, close but not exact. '2 : 3' gives (112 + 204)/5 = 63.2, not 60."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "A vessel contains 30 litres of a mixture in which milk and water are in the ratio 3 : 2. If 10 litres of water are added to it, what will be the percentage of milk in the new mixture?",
+      "options": [
+        "40%",
+        "42.5%",
+        "45%",
+        "50%"
+      ],
+      "correctAnswer": "45%",
+      "explanation": "Original milk = (3/5)·30 = 18 L; water = 12 L. Add 10 L water → milk = 18 L, water = 22 L, total = 40 L. Milk % = 18/40 = 45%. '40%' would need 16 L of milk in 40 L total. '42.5%' would need 17 L of milk. '50%' would need 20 L of milk, but there are only 18 L of milk in the mixture."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "Two alcohol solutions have concentrations of 30% and 60% respectively. In what ratio should they be mixed to obtain a solution of 50% alcohol? (Ratio 30% : 60%.)",
+      "options": [
+        "1 : 2",
+        "2 : 1",
+        "1 : 3",
+        "3 : 2"
+      ],
+      "correctAnswer": "1 : 2",
+      "explanation": "By alligation on percentages, cheaper : dearer = (60 − 50) : (50 − 30) = 10 : 20 = 1 : 2. So 30% : 60% = 1 : 2. Verify: (0.3·1 + 0.6·2)/(1 + 2) = 1.5/3 = 0.5 = 50% ✓. '2 : 1' gives (0.6 + 0.6)/3 = 40%, not 50%. '1 : 3' gives (0.3 + 1.8)/4 = 52.5%, not 50%. '3 : 2' gives (0.9 + 1.2)/5 = 42%, not 50%."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "A vessel has 20 litres of a mixture in which milk and water are in the ratio 3 : 2. If 5 litres of the mixture are removed and 5 litres of water are added, what is the new ratio of milk to water?",
+      "options": [
+        "9 : 11",
+        "11 : 9",
+        "3 : 4",
+        "4 : 3"
+      ],
+      "correctAnswer": "9 : 11",
+      "explanation": "Original: milk = 12 L, water = 8 L. Removing 5 L of the 3:2 mixture removes 3 L milk and 2 L water → milk = 9, water = 6. Adding 5 L water → milk = 9, water = 11. Ratio = 9 : 11. '11 : 9' is the reverse and would need milk > water at the end, but here water clearly exceeds milk. '3 : 4' does not match the arithmetic. '4 : 3' would require milk > water at the end, again contradicted."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "Consider the following statements about the alligation rule for a two-component mixture:\n\n(i) The ratio of quantities cheaper : dearer equals (dearer − mean) : (mean − cheaper).\n(ii) The mean price must lie strictly between the cheaper and dearer prices.\n(iii) The alligation rule can be used only when there are exactly three components.\n(iv) If two goods are mixed in equal proportions, the mean price equals the arithmetic mean of their prices.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are all standard properties. (iii) is FALSE — the alligation rule applies to a two-component mixture; three or more components require repeated pairwise application or weighted averaging. Any option including (iii) is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(ii), (iii) and (iv) only' drops the true (i); 'All of the above' wrongly accepts (iii)."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Consider the following statements about the classical milk-water replacement problem in a container of volume V:\n\n(i) If y litres are drawn out and replaced with water at each step, done n times, remaining milk fraction = (1 − y/V)^n.\n(ii) In each replacement, the total volume of liquid in the container remains V.\n(iii) After a single replacement, the mixture always becomes half milk and half water regardless of y.\n(iv) The formula assumes complete mixing before each subsequent draw.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are the standard assumptions and formula of the replacement problem. (iii) is FALSE — after one replacement, the fraction of milk is (1 − y/V), which depends on y; only if y = V/2 does the milk drop to half after one step. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "Consider the following statements about mixtures:\n\n(i) The alligation rule can be applied to prices, concentrations, or percentages — not just prices.\n(ii) In an alloy of only copper and zinc, if copper is 40%, then zinc is 60%.\n(iii) The percentage of any single ingredient in a mixture cannot exceed 100%.\n(iv) If milk : water = 4 : 1, then milk forms 20% of the mixture.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are all valid observations about mixtures. (iv) is FALSE — with milk : water = 4 : 1, milk's share is 4/5 = 80% of the mixture, not 20%. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' includes false (iv) and drops true (iii); '(ii), (iii) and (iv) only' drops true (i) and keeps (iv); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Consider the following statements about the replacement formula (V litres of pure liquid, y litres drawn and replaced with water at each step, n steps):\n\n(i) Remaining fraction of pure liquid = (1 − y/V)^n.\n(ii) The formula assumes complete uniform mixing before each subsequent draw.\n(iii) The formula requires y > V for it to be meaningful.\n(iv) As n increases (with y fixed), the remaining fraction of pure liquid approaches zero.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are correct. Statement (iii) is FALSE — the formula requires 0 < y < V; if y ≥ V, the entire liquid would be removed in one step and there is nothing left to 'replace'. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "Consider the following statements about profit generated by mixing water into milk:\n\n(i) A milkman who mixes water in a fixed proportion and sells the mixture at the cost price of pure milk earns a profit because water is priced as if it were milk.\n(ii) If water added is x% of the milk quantity, the profit percentage equals x%.\n(iii) Adding water equal in volume to the milk (1 : 1) gives a profit of 100%.\n(iv) Adding more water always DECREASES the profit percentage.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct: in this scheme, profit% equals x% where x = water/milk × 100, so 100% water gives 100% profit. (iv) is FALSE — adding more water increases the mixture volume sold at the milk price, so profit% actually INCREASES, not decreases. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "Consider the following statements about mixing two alloys A and B:\n\n(i) The metal content in the combined mixture is a weighted average of the metal contents of A and B, weighted by their masses.\n(ii) If A and B are mixed in equal masses, the combined composition equals the arithmetic mean of their individual metal percentages.\n(iii) The final composition can lie strictly outside the range of the two starting compositions.\n(iv) The ratio of masses of A and B determines the final composition.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are correct — weighted averages always lie between the two component values. (iii) is FALSE — the final composition MUST lie between the two starting compositions (or equal one of them), never strictly outside. Any option including (iii) is therefore wrong."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the classical replacement problem, the fraction of the original liquid remaining forms a geometric progression as the number of replacements increases.\nReason (R): Each replacement multiplies the previous fraction of the original liquid by the same factor (1 − y/V).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — successive replacements give fractions (1 − y/V), (1 − y/V)², (1 − y/V)³, … a GP with common ratio (1 − y/V). (R) is a correct statement of the mechanism and directly explains why (A) holds. The second option is wrong because (R) explains (A). The third and fourth options are wrong because both (A) and (R) are true."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A shopkeeper who sells a two-component mixture at the cost price of the DEARER ingredient and still makes profit must have adulterated the mixture (i.e. included some of the cheaper ingredient).\nReason (R): The alligation rule expresses the ratio of quantities of the cheaper to the dearer as (dearer − mean) : (mean − cheaper).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: if the sale price equals the dearer's cost, profit can arise only when some cheaper component reduces the actual cost. (R) is a correct statement of the alligation rule. However, (R) simply describes a formula for computing ratios given a mean price; it does not directly prove WHY adulteration causes profit in (A). So both are correct but (R) is NOT the explanation of (A). The first option is wrong because R does not explain A. The third and fourth options are wrong because both statements are correct."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When 20 litres are drawn from a 100-litre vessel of pure milk and replaced with water (once), the vessel contains 80% pure milk.\nReason (R): By the replacement formula, the fraction of milk remaining is (1 − 20/100)² = 0.64.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — after ONE replacement, milk left = 100·(1 − 20/100) = 80 L → 80%. (R) is INCORRECT — the exponent used in the replacement formula must equal the number of replacements; for one replacement, it is (1 − 20/100)¹ = 0.8, not squared. The value 0.64 corresponds to TWO replacements. The first two options require (R) to be correct, so they are wrong. The fourth option requires (A) to be false, but 80% is right."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When two saline solutions of the same concentration are mixed, the resulting concentration is always higher than each of the two individual concentrations.\nReason (R): In any binary mixture, the resulting concentration lies between the concentrations of the two individual solutions.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE — mixing two solutions of the same concentration yields exactly that same concentration, not a higher one. (R) is correct: for a binary mixture, the resulting concentration is a weighted average of the two, which must lie between them (inclusive of the equality case when both are the same). The first two options require (A) to be true, so both are wrong. The third option requires (R) to be false, but (R) is correct."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Match the following mixture-related terms in Column I with the correct description in Column II:\n\nColumn I:\n(a) Alligation rule\n(b) Cheaper : Dearer\n(c) Mean price\n(d) Replacement fraction after n operations\n\nColumn II:\n(i) The weighted average price per unit quantity of the mixture\n(ii) (1 − y/V)^n\n(iii) (Dearer price − Mean price) : (Mean price − Cheaper price)\n(iv) The rule expressing the ratio of quantities in a two-part mixture in terms of prices\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "'Alligation rule' is the rule for two-component ratios in terms of prices → (a)-(iv). 'Cheaper : Dearer' equals (Dearer − Mean) : (Mean − Cheaper) → (b)-(iii). 'Mean price' is the weighted average price of the mixture → (c)-(i). 'Replacement fraction after n operations' is (1 − y/V)^n → (d)-(ii). The second option swaps the alligation rule with the ratio formula and misplaces the others. The third option pairs Cheaper : Dearer with the definition of mean price — wrong. The fourth option swaps the mean price with the replacement fraction."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Match the mixture problem type in Column I with the technique in Column II:\n\nColumn I:\n(a) Two liquids at different prices mixed once\n(b) Container with pure liquid, drawn and replaced with water multiple times\n(c) Two alloys with different metal ratios mixed together\n(d) Two solutions with different acid concentrations combined\n\nColumn II:\n(i) Successive replacement formula (1 − y/V)^n\n(ii) Simple alligation on prices\n(iii) Weighted average of the two compositions\n(iv) Alligation applied to concentrations\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "Two liquids at different prices mixed once → simple alligation → (a)-(ii). Container with pure liquid + repeated replacement → replacement formula → (b)-(i). Two alloys with different metal ratios mixed → weighted average of compositions → (c)-(iii). Two solutions with different acid concentrations combined → alligation applied to concentrations → (d)-(iv). The first option puts the price mixing with the replacement formula. The third option pairs (b) with concentration alligation and (d) with the replacement formula — both wrong. The fourth option pairs price mixing with concentration alligation."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "Match the following mixture-problem examples in Column I with the correct answer/result in Column II:\n\nColumn I:\n(a) Mix ₹40/kg and ₹60/kg goods to get ₹45/kg (cheaper : dearer)\n(b) Mix 80% acid and 40% acid to get 60% acid (80% : 40%)\n(c) 100 L pure milk; remove 20 L and replace with water once (% pure milk left)\n(d) Cu : Zn ratio when equal weights of 5 : 3 and 3 : 5 alloys are mixed\n\nColumn II:\n(i) 3 : 1\n(ii) 1 : 1\n(iii) 80%\n(iv) 1 : 1 (Cu : Zn)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) Alligation gives cheaper : dearer = (60 − 45) : (45 − 40) = 15 : 5 = 3 : 1 → (i). (b) (80 − 60) : (60 − 40) = 20 : 20 = 1 : 1 → (ii). (c) Remaining milk = 100·(1 − 20/100) = 80 L → 80% → (iii). (d) Cu : Zn from equal weights of 5:3 and 3:5 = 1 : 1 → (iv). The second option swaps (a) and (b). The third option puts (b) at 80% and (c) at 1:1, both wrong. The fourth option scrambles the entire arrangement."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "Match the following operations in Column I with the correct milk-water outcome in Column II. Start with V litres of pure milk in each case:\n\nColumn I:\n(a) One replacement (y litres removed, water added)\n(b) n replacements (y litres each time)\n(c) V = 20, y = 5, one replacement → final milk : water\n(d) x% water added as fraction of milk quantity → profit% at cost of milk\n\nColumn II:\n(i) Milk remaining fraction = 1 − y/V\n(ii) 3 : 1\n(iii) Milk remaining fraction = (1 − y/V)^n\n(iv) Profit% = x%\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) After 1 replacement, milk remaining fraction = 1 − y/V → (i). (b) After n replacements, remaining = (1 − y/V)^n → (iii). (c) V = 20, y = 5: milk remaining = 20·(3/4) = 15 L, water = 5 L, ratio 15 : 5 = 3 : 1 → (ii). (d) Adding x% water and selling at cost of milk → profit% = x% → (iv). The first option swaps (a) and (b). The third option pairs (b) with 3 : 1 (which is a specific case, not a general formula) and (c) with a general formula (not a specific value). The fourth option pairs (c) with the profit formula, incorrectly."
+    },
+    {
+      "id": "31",
+      "subject": "C",
+      "questionText": "Which of the following applications of the alligation rule are valid?\n\n(i) Mixing two goods at different prices to reach a target mean price.\n(ii) Mixing two solutions of different concentrations to reach a target concentration.\n(iii) Mixing two alloys with different metal percentages to reach a target metal %.\n(iv) Mixing two liquids of very different densities without any concentration to compute mean density (assuming volumes are conserved).\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Alligation is a general weighted-average technique — it works for any quantity that can be averaged proportionally by mass or volume: prices, concentrations, metal percentages, and densities (assuming volume additivity). '(i) and (ii) only' wrongly excludes alloy percentages and density. '(i), (ii) and (iii) only' excludes density. '(ii) and (iii) only' excludes price mixing (the most classical alligation use). Only 'all four' captures the general applicability."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "In which of the following mixture scenarios does the classical 'replacement formula' (1 − y/V)^n most directly apply?\n\n(i) A tank of pure liquid from which a fixed volume is repeatedly drawn and replaced with water.\n(ii) Two liquids poured together and stirred once, with no further operations.\n(iii) A wine cask undergoing repeated drawings each replaced with equal water.\n(iv) A dry blend of two different flours mixed in a fixed proportion, with no drawing operation.\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "The replacement formula strictly applies to (i) and (iii): a fixed-volume container repeatedly having a fraction drawn and replaced with a diluent — this gives the characteristic (1 − y/V)^n. (ii) is a one-time pouring: a simple weighted-average situation, no repetition, so the replacement formula is unnecessary. (iv) is a dry-blend without any drawing/replacing operation, so the formula does not apply at all. Any option including (ii) or (iv) is therefore wrong."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "Given a cheaper price of ₹40 per kg and a dearer price of ₹80 per kg, which of the following (cheaper : dearer) ratios are valid ways of expressing the alligation mixing ratio that produces a mean price of ₹50 per kg?\n\n(i) 3 : 1\n(ii) 1 : 3\n(iii) 30 : 10\n(iv) 2 : 1\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "By alligation, cheaper : dearer = (80 − 50) : (50 − 40) = 30 : 10 = 3 : 1. Both '3 : 1' and its unreduced form '30 : 10' represent the same ratio, so both are valid. '1 : 3' is the reverse and would yield a mean price of 70, not 50. '2 : 1' would give (2·40 + 1·80)/3 = 160/3 ≈ 53.33, not 50. So only (i) and (iii) express the correct ratio."
+    },
+    {
+      "id": "34",
+      "subject": "C",
+      "questionText": "A container has 60 litres of pure milk. After one replacement, 15 litres are drawn out and replaced with water. Which of the following statements about the final mixture are correct?\n\n(i) Milk remaining = 45 L.\n(ii) Water in the container = 15 L.\n(iii) Milk fraction of total volume = 3/4.\n(iv) Ratio of milk : water = 5 : 1.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Milk after one replacement = 60·(1 − 15/60) = 60·(3/4) = 45 L → (i) true. Water = 15 L → (ii) true. Milk fraction = 45/60 = 3/4 → (iii) true. Milk : water = 45 : 15 = 3 : 1, NOT 5 : 1 → (iv) false. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii); '(ii), (iii) and (iv) only' drops true (i); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "When the ratio of cheaper to dearer in an alligation is 4 : 1, and the cheaper costs ₹40 per kg while the dearer costs ₹60 per kg, the mean price of the mixture is ₹__________.",
+      "options": [
+        "42",
+        "48",
+        "50",
+        "44"
+      ],
+      "correctAnswer": "44",
+      "explanation": "Mean = (4·40 + 1·60)/(4 + 1) = (160 + 60)/5 = 220/5 = 44. '42' would require ratio 9 : 1 approximately, not 4 : 1. '50' would need ratio 1 : 1 (equal parts). '48' would need ratio 3 : 2 (mean = (120 + 120)/5 = 48), which is a different ratio."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "If 20 litres of milk are added to a mixture of 30 litres containing milk and water in the ratio 3 : 2, the new milk-to-water ratio becomes __________.",
+      "options": [
+        "17 : 6",
+        "19 : 6",
+        "3 : 1",
+        "5 : 2"
+      ],
+      "correctAnswer": "19 : 6",
+      "explanation": "Original milk = (3/5)·30 = 18 L; water = 12 L. After adding 20 L of milk, milk = 18 + 20 = 38 L; water = 12 L. Ratio = 38 : 12 = 19 : 6. '17 : 6' would need 34 L of milk (18 + 16). '3 : 1' would need water = 12 L and milk = 36 L. '5 : 2' would need milk : water = 30 : 12, but there are 38 L of milk, not 30 L."
+    },
+    {
+      "id": "37",
+      "subject": "C",
+      "questionText": "A cask contains 25 litres of pure wine. From it, 5 litres is drawn and replaced with water. The operation is repeated once more (two replacements in total). How much pure wine (in litres) is left in the cask?",
+      "options": [
+        "15 L",
+        "16 L",
+        "17 L",
+        "18 L"
+      ],
+      "correctAnswer": "16 L",
+      "explanation": "After two replacements, wine remaining = 25·(1 − 5/25)² = 25·(4/5)² = 25·(16/25) = 16 L. '15 L' would need three replacements: 25·(4/5)³ = 12.8, or a different y — not 5 L. '17 L' and '18 L' do not correspond to any correct power of (4/5) applied to 25."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "In what ratio must water be mixed with milk costing ₹40 per litre so that the resulting mixture is worth ₹32 per litre? (Ratio water : milk.)",
+      "options": [
+        "1 : 5",
+        "1 : 4",
+        "1 : 3",
+        "4 : 1"
+      ],
+      "correctAnswer": "1 : 4",
+      "explanation": "Treat water as costing ₹0 per litre. By alligation: water : milk = (40 − 32) : (32 − 0) = 8 : 32 = 1 : 4. Verify: (1·0 + 4·40)/(1 + 4) = 160/5 = ₹32 ✓. '1 : 5' gives (0 + 200)/6 = 33.33, not 32. '1 : 3' gives (0 + 120)/4 = 30, not 32. '4 : 1' is the reverse ratio and gives (0 + 40)/5 = 8, not 32."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "The following table shows the alcohol percentages of three solutions X, Y, Z:\n\nSolution : Alcohol %\nX : 20%\nY : 40%\nZ : 60%\n\nIf 10 L of X, 20 L of Y, and 10 L of Z are mixed, what is the alcohol percentage of the resulting solution?",
+      "options": [
+        "35%",
+        "40%",
+        "45%",
+        "50%"
+      ],
+      "correctAnswer": "40%",
+      "explanation": "Total alcohol = 0.20·10 + 0.40·20 + 0.60·10 = 2 + 8 + 6 = 16 L. Total volume = 10 + 20 + 10 = 40 L. Alcohol % = 16/40 = 40%. '35%' would need total alcohol of 14 L. '45%' would need 18 L. '50%' would need 20 L. Only 16/40 matches the actual weighted average."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "A shopkeeper has three types of pulses with the following details:\n\nType : Cost (₹/kg) : Quantity (kg)\nA : 60 : 10\nB : 80 : 15\nC : 100 : 25\n\nIf all three are mixed thoroughly, what is the cost per kg of the resulting mixture?",
+      "options": [
+        "₹84",
+        "₹85",
+        "₹86",
+        "₹88"
+      ],
+      "correctAnswer": "₹86",
+      "explanation": "Total cost = 60·10 + 80·15 + 100·25 = 600 + 1200 + 2500 = ₹4300. Total weight = 10 + 15 + 25 = 50 kg. Cost per kg = 4300/50 = ₹86. '₹84' would require total cost of ₹4200 — inconsistent with the data. '₹85' would require ₹4250. '₹88' would require ₹4400. Only ₹4300/50 = ₹86 matches."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 409,
+  "count": 459,
   "questions": [
     {
       "test": 1,
@@ -2047,6 +2047,256 @@
       "test": 57,
       "stem": "in a row of 32 children, a girl's position is 12th from",
       "key": "21"
+    },
+    {
+      "test": 62,
+      "stem": "in an english dictionary, which of the following words would appear first?",
+      "key": "Cabbage"
+    },
+    {
+      "test": 62,
+      "stem": "if the letters of the word 'india' are arranged in alphabetical order,",
+      "key": "I"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following pairs of addresses is exactly identical (character-for-character)?",
+      "key": "A: House 22, Sector 5, Noida | B: House 22, Sector 5, Noida"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following pairs of dates is exactly identical (character-for-character)?",
+      "key": "05-04-2025 | 05-04-2025"
+    },
+    {
+      "test": 62,
+      "stem": "consider three pairs of addresses: pair 1: '15a nehru rd, ranchi 834001'",
+      "key": "2"
+    },
+    {
+      "test": 62,
+      "stem": "if the letters of the word 'police' are arranged in alphabetical order",
+      "key": "4"
+    },
+    {
+      "test": 62,
+      "stem": "five people are listed alphabetically by first name: ashok, balvinder, chandra, deepak,",
+      "key": "Ekta"
+    },
+    {
+      "test": 62,
+      "stem": "an examination centre issues four roll numbers: j24-01, j24-05, j24-12, j24-20. how",
+      "key": "4"
+    },
+    {
+      "test": 62,
+      "stem": "rearrange the letters of the word 'simple' in alphabetical order. what is",
+      "key": "M"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following words comes second when the four are arranged",
+      "key": "Banana"
+    },
+    {
+      "test": 62,
+      "stem": "the following two-letter codes are used for four cities: dl (delhi), mb",
+      "key": "KL-DL"
+    },
+    {
+      "test": 62,
+      "stem": "in a coding system, a = 1, b = 2, c =",
+      "key": "13"
+    },
+    {
+      "test": 62,
+      "stem": "in the coding system where a = 1, b = 2, …,",
+      "key": "T"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following words has the largest number of letters?",
+      "key": "Pineapple"
+    },
+    {
+      "test": 62,
+      "stem": "in the year 2024, a specific centre issued 50 total roll numbers",
+      "key": "46"
+    },
+    {
+      "test": 62,
+      "stem": "a valid centre code has the format 'two capital english letters followed",
+      "key": "AB123"
+    },
+    {
+      "test": 62,
+      "stem": "in a coding scheme where each letter is replaced by the letter",
+      "key": "FDW"
+    },
+    {
+      "test": 62,
+      "stem": "consider three triples of addresses. how many triples have all three addresses",
+      "key": "1"
+    },
+    {
+      "test": 62,
+      "stem": "if the letters of the word 'jammu' are arranged in reverse alphabetical",
+      "key": "M"
+    },
+    {
+      "test": 62,
+      "stem": "the following list of roll numbers is given: mz001, dl010, mz015, hr020,",
+      "key": "3"
+    },
+    {
+      "test": 62,
+      "stem": "consider the following statements about indexing: (i) indexing arranges items in a",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "consider the following statements about strict address matching: (i) two addresses that",
+      "key": "All of the above"
+    },
+    {
+      "test": 62,
+      "stem": "consider the following statements about examination centre codes and roll numbers: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "consider the following statements about alphabetical positions in the english alphabet: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "consider the following statements about lowercase, uppercase and numeric characters: (i) 'a'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "consider the following statements about strict date matching: (i) '12-03-2024' and '12/03/2024'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 62,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 62,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 62,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 62,
+      "stem": "match the following two-letter centre codes in column i with the corresponding",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 62,
+      "stem": "match the date formats in column i with the correct example representation",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 62,
+      "stem": "consider the roll number mz/2024/007. match the parts (column i) with the",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 62,
+      "stem": "for the address '15a brigade road, bengaluru 560001', match the components in",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 62,
+      "stem": "the pattern for a valid roll number is 'two capital letters +",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following pairs are exactly identical under strict character-for-character matching?",
+      "key": "(i) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following statements about alphabetical positions are correct? (i) 'a'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "which of the following statements about address matching in strict mode are",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 62,
+      "stem": "the letter that occupies the 15th position from the beginning of the",
+      "key": "O"
+    },
+    {
+      "test": 62,
+      "stem": "if the letters of the word 'jammu' are arranged in ascending alphabetical",
+      "key": "2"
+    },
+    {
+      "test": 63,
+      "stem": "statement: all engineers are graduates. statement: some graduates are employed. conclusion i:",
+      "key": "Only Conclusion II follows"
+    },
+    {
+      "test": 63,
+      "stem": "a cube is painted on all six faces and then cut into",
+      "key": "12"
+    },
+    {
+      "test": 63,
+      "stem": "p is the son of q. r is the mother of p.",
+      "key": "Husband"
+    },
+    {
+      "test": 63,
+      "stem": "a man walks 6 km north, then 4 km east, then 6",
+      "key": "4 km"
+    },
+    {
+      "test": 63,
+      "stem": "consider the following statements about drawing conclusions from given statements: (i) a",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 63,
+      "stem": "consider the following statements about ranking in a row: (i) if a",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 63,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 63,
+      "stem": "match the following in column i (rank descriptions) with column ii (numerical",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 63,
+      "stem": "which of the following statements about direction-sense problems are correct? (i) when",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 63,
+      "stem": "the relationship of one's father's father to oneself is known as one's",
+      "key": "Paternal grandfather"
     }
   ]
 }

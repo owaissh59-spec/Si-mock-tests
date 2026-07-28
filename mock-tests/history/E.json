@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 376,
+  "count": 413,
   "questions": [
     {
       "test": 5,
@@ -1882,6 +1882,191 @@
       "test": 55,
       "stem": "a frequency polygon is drawn by joining the midpoints of the tops",
       "key": "Histogram"
+    },
+    {
+      "test": 61,
+      "stem": "a fair coin is tossed once. what is the probability of getting",
+      "key": "1/2"
+    },
+    {
+      "test": 61,
+      "stem": "a fair die is rolled once. what is the probability of getting",
+      "key": "1/6"
+    },
+    {
+      "test": 61,
+      "stem": "a fair die is rolled once. what is the probability of getting",
+      "key": "1/2"
+    },
+    {
+      "test": 61,
+      "stem": "a fair die is rolled once. what is the probability of getting",
+      "key": "1/2"
+    },
+    {
+      "test": 61,
+      "stem": "one card is drawn at random from a well-shuffled standard deck of",
+      "key": "1/2"
+    },
+    {
+      "test": 61,
+      "stem": "one card is drawn at random from a well-shuffled standard deck of",
+      "key": "1/13"
+    },
+    {
+      "test": 61,
+      "stem": "one card is drawn from a well-shuffled deck of 52 cards. what",
+      "key": "2/13"
+    },
+    {
+      "test": 61,
+      "stem": "two fair dice are rolled together. what is the probability that the",
+      "key": "1/6"
+    },
+    {
+      "test": 61,
+      "stem": "two fair coins are tossed simultaneously. what is the probability of getting",
+      "key": "1/4"
+    },
+    {
+      "test": 61,
+      "stem": "two fair coins are tossed simultaneously. what is the probability of getting",
+      "key": "3/4"
+    },
+    {
+      "test": 61,
+      "stem": "a bag contains 5 red balls and 3 black balls. if one",
+      "key": "5/8"
+    },
+    {
+      "test": 61,
+      "stem": "one letter is chosen at random from the word 'probability'. what is",
+      "key": "4/11"
+    },
+    {
+      "test": 61,
+      "stem": "consider the following statements about probability of an event e: (i) 0",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 61,
+      "stem": "consider the following statements about mutually exclusive events a and b: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 61,
+      "stem": "consider the following statements about the sample space (s) of a random",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 61,
+      "stem": "consider the following statements about complementary events a and a' (read: 'a",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 61,
+      "stem": "consider the following statements about two independent events a and b: (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 61,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 61,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 61,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 61,
+      "stem": "match the following events (column i) with their probabilities (column ii) when",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 61,
+      "stem": "match the following card events (column i) with their probabilities (column ii)",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 61,
+      "stem": "match the following two-dice outcomes (column i) with their probabilities (column ii):",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 61,
+      "stem": "which of the following events on rolling a fair die once has",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 61,
+      "stem": "which of the following events on rolling a fair die once has",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 61,
+      "stem": "in a single roll of a fair die, which of the following",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 61,
+      "stem": "the complete list of all possible outcomes of a random experiment is",
+      "key": "Sample space"
+    },
+    {
+      "test": 61,
+      "stem": "two fair dice are thrown simultaneously. what is the probability that both",
+      "key": "1/6"
+    },
+    {
+      "test": 61,
+      "stem": "the marks obtained by 50 students in a test are summarised below:",
+      "key": "3/10"
+    },
+    {
+      "test": 61,
+      "stem": "a bag has the following mix of coloured balls: colour : number",
+      "key": "3/4"
+    },
+    {
+      "test": 63,
+      "stem": "if tan θ = 3/4, then sin θ + cos θ equals:",
+      "key": "7/5"
+    },
+    {
+      "test": 63,
+      "stem": "a pole of height 10 m casts a shadow of 10√3 m",
+      "key": "30°"
+    },
+    {
+      "test": 63,
+      "stem": "consider the following statements about measures of central tendency: (i) mean is",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 63,
+      "stem": "match the following events (column i) with their probabilities (column ii) for",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 63,
+      "stem": "which of the following are properties of the arithmetic mean of a",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 63,
+      "stem": "a bag contains 3 red, 4 green and 5 blue balls. if",
+      "key": "7/12"
+    },
+    {
+      "test": 63,
+      "stem": "the marks obtained by 40 students are grouped as follows: marks :",
+      "key": "22/40"
     }
   ]
 }

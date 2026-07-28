@@ -1,0 +1,527 @@
+{
+  "subject": "A",
+  "topic": "Indexing, Address/Date-City Matching, Code Classification, Letters/Numbers",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "In an English dictionary, which of the following words would appear FIRST?",
+      "options": [
+        "Cabbage",
+        "Cabin",
+        "Cable",
+        "Cadet"
+      ],
+      "correctAnswer": "Cabbage",
+      "explanation": "Compare letter-by-letter: all start with 'Cab' except 'Cadet' (Ca-d). Among Cab*, the 4th letters are b, i, l respectively for Cabbage, Cabin, Cable → 'b' < 'i' < 'l' < (Cadet's 3rd letter 'd' comes after 'b' too, but Cadet is Ca-d starting from the 3rd letter, which is later than Cab-). So Cabbage precedes all others. 'Cabin' is second. 'Cable' is third. 'Cadet' is last (its 3rd letter 'd' > 'b')."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "If the letters of the word 'INDIA' are arranged in alphabetical order, what is the third letter in the sorted arrangement?",
+      "options": [
+        "A",
+        "D",
+        "I",
+        "N"
+      ],
+      "correctAnswer": "I",
+      "explanation": "Letters of INDIA sorted alphabetically: A, D, I, I, N. The 3rd position is 'I'. 'A' is the 1st letter. 'D' is the 2nd letter. 'N' is the 5th (last) letter. Only 'I' occupies the 3rd position."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Which of the following pairs of addresses is EXACTLY identical (character-for-character)?",
+      "options": [
+        "A: 45B, Main Street, Delhi-110001 | B: 45B, Main Street, Delhi-11001",
+        "A: Plot 7, Zone A, Jaipur | B: Plot 7, Zone A, Jaipur-3",
+        "A: 100 Feet Rd, Bengaluru | B: 100Feet Rd, Bengaluru",
+        "A: House 22, Sector 5, Noida | B: House 22, Sector 5, Noida"
+      ],
+      "correctAnswer": "A: House 22, Sector 5, Noida | B: House 22, Sector 5, Noida",
+      "explanation": "In strict character-for-character comparison, only the second pair is identical. First pair: pincodes differ (110001 vs 11001, missing a digit). Third pair: '100 Feet Rd' has a space, but '100Feet Rd' does not — non-identical. Fourth pair: 'Jaipur' vs 'Jaipur-3' — the second address has an extra '-3', so non-identical."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Which of the following pairs of dates is EXACTLY identical (character-for-character)?",
+      "options": [
+        "12-03-2024 | 12-3-2024",
+        "15/07/2023 | 15/07/23",
+        "05-04-2025 | 05-04-2025",
+        "8th Jan 2022 | 8 Jan 2022"
+      ],
+      "correctAnswer": "05-04-2025 | 05-04-2025",
+      "explanation": "Only the second pair matches character-for-character. First pair: '12-03-2024' has two-digit '03' while '12-3-2024' has one-digit '3' — non-identical. Third pair: 2023 vs 23 (year format differs). Fourth pair: '8th' (with 'th') vs '8' (bare number) — non-identical."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Consider three pairs of addresses:\n\nPair 1: '15A Nehru Rd, Ranchi 834001' | '15A Nehru Rd, Ranchi 834001'\nPair 2: 'MG Road, Bengaluru 560001' | 'MG Road, Bengaluru 500001'\nPair 3: '221B Baker St, London' | '221B Baker St, London'\n\nHow many of these pairs contain two exactly identical addresses?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "correctAnswer": "2",
+      "explanation": "Pair 1 matches character-for-character → identical. Pair 2: pincode differs (560001 vs 500001) → non-identical. Pair 3 matches character-for-character → identical. So 2 out of 3 pairs are identical. '1' would miss one identical pair. '3' would wrongly count Pair 2 as identical despite the pincode difference. '0' would miss both identical pairs."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "If the letters of the word 'POLICE' are arranged in alphabetical order and each letter is assigned an index 1 to 6, what is the index of the letter 'L'?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctAnswer": "4",
+      "explanation": "Letters of POLICE sorted: C, E, I, L, O, P. Indexing 1..6: C=1, E=2, I=3, L=4, O=5, P=6. 'L' has index 4. '3' is the index of 'I'. '5' is the index of 'O'. '6' is the index of 'P'."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Five people are listed alphabetically by first name: Ashok, Balvinder, Chandra, Deepak, Ekta. If they are re-listed in REVERSE alphabetical order and assigned codes Q1, Q2, Q3, Q4, Q5 in that order, who receives the code Q1?",
+      "options": [
+        "Ashok",
+        "Deepak",
+        "Ekta",
+        "Chandra"
+      ],
+      "correctAnswer": "Ekta",
+      "explanation": "Reverse alphabetical order (largest name first): Ekta, Deepak, Chandra, Balvinder, Ashok. The first person (Ekta) gets code Q1. 'Ashok' would be Q5 (the last in reverse). 'Deepak' would be Q2. 'Chandra' would be Q3."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "An examination centre issues four roll numbers: J24-01, J24-05, J24-12, J24-20. How many DISTINCT roll numbers are shown in this list?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "20"
+      ],
+      "correctAnswer": "4",
+      "explanation": "All four listed roll numbers are distinct: J24-01, J24-05, J24-12, J24-20 — no repeats. So the count of distinct roll numbers is 4. '3' would apply if one of them repeated. '5' overcounts. '20' is the sequence number of the last roll — a distractor, not the count."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Rearrange the letters of the word 'SIMPLE' in alphabetical order. What is the 4th letter in the sorted arrangement?",
+      "options": [
+        "E",
+        "L",
+        "M",
+        "P"
+      ],
+      "correctAnswer": "M",
+      "explanation": "SIMPLE has letters S, I, M, P, L, E. Sorted alphabetically: E, I, L, M, P, S. 4th letter = M. 'E' is the 1st letter. 'L' is the 3rd letter. 'P' is the 5th letter. Only 'M' is at the 4th position."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Which of the following words comes SECOND when the four are arranged in strict alphabetical order?",
+      "options": [
+        "Banana",
+        "Basket",
+        "Balloon",
+        "Basil"
+      ],
+      "correctAnswer": "Banana",
+      "explanation": "All four begin with 'Ba'. Compare 3rd letters: Balloon (l), Banana (n), Basil (s), Basket (s). So Balloon (Bal…) comes first; Banana (Ban…) comes second. Then Basil vs Basket by 5th letter: 'i' vs 'k' → Basil third, Basket fourth. Second in order = Banana. 'Basket' is fourth. 'Balloon' is first. 'Basil' is third."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "The following two-letter codes are used for four cities: DL (Delhi), MB (Mumbai), CH (Chennai), KL (Kolkata). A tracking record lists 'sender-code' first and 'receiver-code' second. A parcel is sent from KOLKATA to DELHI. Which of the following entries represents this correctly?",
+      "options": [
+        "DL-KL",
+        "CH-KL",
+        "MB-CH",
+        "KL-DL"
+      ],
+      "correctAnswer": "KL-DL",
+      "explanation": "The sender is Kolkata (KL) and the receiver is Delhi (DL), so the entry is 'KL-DL'. 'DL-KL' has sender and receiver reversed. 'MB-CH' represents Mumbai → Chennai, unrelated. 'CH-KL' represents Chennai → Kolkata, also unrelated."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "In a coding system, A = 1, B = 2, C = 3, ..., Z = 26. What is the numerical code for the letter 'M'?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswer": "13",
+      "explanation": "M is the 13th letter of the English alphabet (A=1, B=2, …, L=12, M=13). '12' corresponds to L. '14' corresponds to N. '15' corresponds to O."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "In the coding system where A = 1, B = 2, …, Z = 26, what letter does the number 20 represent?",
+      "options": [
+        "R",
+        "S",
+        "T",
+        "U"
+      ],
+      "correctAnswer": "T",
+      "explanation": "Counting A=1, B=2, …, S=19, T=20, U=21. So 20 = T. 'R' corresponds to 18. 'S' corresponds to 19. 'U' corresponds to 21."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Which of the following words has the LARGEST number of letters?",
+      "options": [
+        "Banana",
+        "Grape",
+        "Pineapple",
+        "Melon"
+      ],
+      "correctAnswer": "Pineapple",
+      "explanation": "Letter counts: Banana = 6, Pineapple = 9, Grape = 5, Melon = 5. Pineapple has 9 letters, more than the others. 'Banana' has only 6 letters. 'Grape' and 'Melon' each have 5 letters."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "In the year 2024, a specific centre issued 50 total roll numbers with prefix '2024/'. If four of the issued rolls are 2024/001, 2024/015, 2024/030 and 2024/045, how many issued roll numbers of the centre are NOT in this list of four?",
+      "options": [
+        "46",
+        "45",
+        "50",
+        "40"
+      ],
+      "correctAnswer": "46",
+      "explanation": "Total issued = 50; roll numbers shown = 4; roll numbers not shown = 50 − 4 = 46. '45' would result if only 5 were listed. '50' would treat all as unlisted, ignoring the 4 listed. '40' is 10 short and doesn't match the arithmetic."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "A valid centre code has the format 'two capital English letters followed by three digits' (like 'AB123'). Which of the following strings is a valid centre code by this rule?",
+      "options": [
+        "AB123",
+        "Ab123",
+        "AB12",
+        "ABC12"
+      ],
+      "correctAnswer": "AB123",
+      "explanation": "'AB123' consists of exactly two capital letters (A, B) and three digits (1, 2, 3) — matches the format. 'Ab123' has a lowercase letter 'b', violating the 'capital letters' rule. 'AB12' has only two digits, not three. 'ABC12' has three letters and two digits, violating both the '2 letters' rule and the '3 digits' rule."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "In a coding scheme where each letter is replaced by the letter exactly THREE positions to its right in the English alphabet (cyclically), what is the code for the word 'CAT'?",
+      "options": [
+        "FDW",
+        "DBS",
+        "EDW",
+        "FED"
+      ],
+      "correctAnswer": "FDW",
+      "explanation": "Shift +3 for each letter: C → F (C+3), A → D (A+3), T → W (T+3). So CAT → FDW. 'DBS' corresponds to shift +1 (C→D, A→B, T→U ≠ S) — off. 'EDW' has E instead of F for C (that would be shift +2 for C, but shift +3 for A gives D, and shift +3 for T gives W — inconsistent shifts). 'FED' has E, D from A, T? — inconsistent."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Consider three triples of addresses. How many triples have all THREE addresses identical (character-for-character)?\n\nSet 1: 'Building 5, Sector 22, Chandigarh 160022' (same string, three times)\nSet 2: 'Room 210, IT Park, Pune' | 'Room 210, IT Park, Pune' | 'Room 201, IT Park, Pune'\nSet 3: 'Flat 3B, Green Avenue, Kochi' | 'Flat 3B, Green Avenue, Kochi' | 'Flat 3B, Green Ave, Kochi'",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": "1",
+      "explanation": "Set 1: all three are the same string → all identical. Set 2: the third address has '201' instead of '210' → not all identical. Set 3: the third address abbreviates 'Avenue' to 'Ave' → not all identical (strict matching). So only 1 triple has all three identical. '0' misses Set 1. '2' wrongly counts one of Set 2 or Set 3 as all-identical. '3' wrongly counts all three sets."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "If the letters of the word 'JAMMU' are arranged in REVERSE alphabetical order (Z first, A last) and each is assigned an index 1, 2, 3, 4, 5, which letter receives index 3?",
+      "options": [
+        "U",
+        "A",
+        "J",
+        "M"
+      ],
+      "correctAnswer": "M",
+      "explanation": "Letters of JAMMU sorted in reverse alphabetical order: U, M, M, J, A. Index 1 = U, 2 = M, 3 = M, 4 = J, 5 = A. Position 3 = M. 'U' is at index 1. 'J' is at index 4. 'A' is at index 5."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "The following list of roll numbers is given: MZ001, DL010, MZ015, HR020, MZ030, DL025. How many roll numbers in this list belong to centre code 'MZ'?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3",
+      "explanation": "The MZ-prefixed rolls are MZ001, MZ015, MZ030 → 3 rolls. '2' misses one MZ roll. '4' overcounts (perhaps counting DL010 or HR020 incorrectly). '5' would need 5 rolls with MZ prefix, but only 3 are present."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Consider the following statements about indexing:\n\n(i) Indexing arranges items in a specific order — usually alphabetical or numerical.\n(ii) Alphabetical indexing is case-insensitive by default in ordinary dictionaries.\n(iii) A dictionary index typically uses letter-by-letter alphabetical order.\n(iv) In numerical indexing, the sequence must always start at 0 and never at 1.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are conventional properties. (iv) is FALSE — human-facing numerical indexing frequently starts at 1 (rankings, page numbers, etc.); starting at 0 is a programming convention, not a universal rule. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Consider the following statements about STRICT address matching:\n\n(i) Two addresses that differ by even a single character (like one pincode digit) are NOT identical.\n(ii) Case differences ('MG Rd' vs 'mg rd') make two addresses non-identical.\n(iii) Extra whitespace inside an address makes it non-identical to one without the extra space.\n(iv) Abbreviations such as 'Ave' vs 'Avenue' are treated as non-identical in strict matching.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are standard characteristics of STRICT character-for-character address matching. Any option that drops one is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii); '(i), (ii) and (iii) only' drops (iv); '(ii), (iii) and (iv) only' drops (i)."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Consider the following statements about examination centre codes and roll numbers:\n\n(i) A centre code is a fixed alphabetic prefix used to identify an examination centre.\n(ii) A roll number typically consists of a centre code, a year part and a sequence number.\n(iii) All roll numbers issued at a single centre share the same prefix.\n(iv) The prefix of a roll number can change randomly for the same centre in the same year.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard practice. (iv) is FALSE — the centre-code prefix is fixed for a centre for a given cycle; changing it randomly would break the identification purpose. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Consider the following statements about alphabetical positions in the English alphabet:\n\n(i) The alphabet has 26 letters.\n(ii) 'A' is the 1st letter and 'Z' is the 26th letter.\n(iii) The letter 'M' is the 13th letter, and 'N' is the 14th.\n(iv) The letter 'S' is the 20th letter of the alphabet.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard facts. (iv) is FALSE — 'S' is the 19th letter (A=1, …, S=19), not the 20th; 'T' is the 20th letter. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements about lowercase, uppercase and numeric characters:\n\n(i) 'A' and 'a' are considered different characters under case-sensitive matching.\n(ii) In case-insensitive matching, 'ABC' and 'abc' are considered identical.\n(iii) Digits 0–9 have no 'case'; they are compared directly.\n(iv) In case-sensitive matching, the total number of distinct English letters (both cases) is 26.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct. (iv) is FALSE — in case-sensitive matching there are 52 distinct English letters (26 lowercase + 26 uppercase), not 26. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Consider the following statements about STRICT date matching:\n\n(i) '12-03-2024' and '12/03/2024' differ in separator and are NOT identical in strict matching.\n(ii) '12-03-2024' and '12-03-24' differ in year format and are NOT identical.\n(iii) A date like '31-02-2024' is invalid because February has at most 29 days.\n(iv) The formats DD/MM/YYYY and MM/DD/YYYY are the same as long as both use forward slashes.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are all correct. (iv) is FALSE — DD/MM/YYYY and MM/DD/YYYY specify DIFFERENT orders of day/month; using the same separator does not make them the same format. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The letter 'M' occupies the 13th position in the English alphabet.\nReason (R): The English alphabet has 26 letters, so the 13th letter marks approximately the middle of the alphabet.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'M' is at position 13 (A=1, …, M=13). (R) is also correct and directly explains why 13 is a natural middle-marker (26/2 = 13). So both are correct and (R) explains (A). The second option is wrong because R does explain A. The third and fourth options are wrong because both are true."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In ASCII (case-sensitive) alphabetical sort, the string 'apple' comes BEFORE 'Apple'.\nReason (R): In ASCII, the character 'A' has the value 65 while 'a' has the value 97.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE — in ASCII order, UPPERCASE letters come before lowercase (65 < 97), so 'Apple' (starts with A=65) comes BEFORE 'apple' (starts with a=97). (R) is correct: A=65, a=97. So the correct choice is 'A is not correct but R is correct'. The first two options require A to be true; the third requires R to be false — none holds here."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In strict address matching, two addresses must match character-by-character to be considered identical.\nReason (R): The English alphabet contains 26 letters.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is a correct statement about strict address matching. (R) is also correct — the English alphabet does have 26 letters. However, (R) is unrelated to (A); knowing the alphabet size does not explain why strict matching demands character-by-character equality. So both are correct but (R) is NOT the explanation of (A). The first option is wrong because R does not explain A. The third and fourth options are wrong because both statements are correct."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In case-sensitive matching, the characters 'M' and 'm' are considered different.\nReason (R): The English alphabet has only 26 distinct characters regardless of whether case is considered or not.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — case-sensitive matching treats 'M' and 'm' as distinct characters. (R) is FALSE — under case-sensitive matching the alphabet contributes 52 distinct characters (26 uppercase + 26 lowercase), not 26. So the correct choice is 'A is correct but R is not correct'. The first two options require R to be correct; the fourth requires A to be false — none holds here."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Match the following two-letter centre codes in Column I with the corresponding cities in Column II:\n\nColumn I:\n(a) DL\n(b) MB\n(c) CH\n(d) KL\n\nColumn II:\n(i) Kolkata\n(ii) Chennai\n(iii) Mumbai\n(iv) Delhi\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "DL is the code for Delhi → (a)-(iv). MB is Mumbai → (b)-(iii). CH is Chennai → (c)-(ii). KL is Kolkata → (d)-(i). The second option reverses the whole list. The third option shifts every letter by two positions. The fourth option swaps Mumbai and Kolkata."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Match the date formats in Column I with the correct example representation of 15 March 2024 in Column II:\n\nColumn I:\n(a) DD/MM/YYYY\n(b) MM/DD/YYYY\n(c) YYYY-MM-DD\n(d) DD-MMM-YY\n\nColumn II:\n(i) 2024-03-15\n(ii) 15/03/2024\n(iii) 15-Mar-24\n(iv) 03/15/2024\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "DD/MM/YYYY → 15/03/2024 → (a)-(ii). MM/DD/YYYY → 03/15/2024 → (b)-(iv). YYYY-MM-DD → 2024-03-15 → (c)-(i). DD-MMM-YY → 15-Mar-24 → (d)-(iii). The first option swaps (a) and (b). The third option pairs (a) with the DD-MMM-YY format, which is wrong. The fourth option puts YYYY-MM-DD at (a) — that format has no slashes but 15/03/2024 does."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Consider the roll number MZ/2024/007. Match the parts (Column I) with the corresponding component (Column II):\n\nColumn I:\n(a) Prefix (letters only)\n(b) Year part\n(c) Sequence number\n(d) Full roll number\n\nColumn II:\n(i) 2024\n(ii) MZ\n(iii) MZ/2024/007\n(iv) 007\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Prefix = MZ → (a)-(ii). Year part = 2024 → (b)-(i). Sequence number = 007 → (c)-(iv). Full roll number = MZ/2024/007 → (d)-(iii). The first option pairs the prefix with the year value (wrong). The second option pairs the prefix with the whole roll number (wrong). The fourth option scrambles all four."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "For the address '15A Brigade Road, Bengaluru 560001', match the components in Column I with their correct extractions in Column II:\n\nColumn I:\n(a) Building/House number\n(b) Street name\n(c) City\n(d) Pincode\n\nColumn II:\n(i) 560001\n(ii) Bengaluru\n(iii) Brigade Road\n(iv) 15A\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "Building/House number = 15A → (a)-(iv). Street name = Brigade Road → (b)-(iii). City = Bengaluru → (c)-(ii). Pincode = 560001 → (d)-(i). The first option pairs the house number with the pincode. The third option swaps the city with the street name. The fourth option pairs the building number with the street name."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "The pattern for a valid roll number is 'two capital letters + / + four-digit year + / + three-digit sequence'. Which of the following strings match this pattern?\n\n(i) MZ/2024/001\n(ii) DL/2023/010\n(iii) mz/2024/001 (lowercase prefix)\n(iv) MZ/2024/1000 (four-digit sequence)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (ii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "(i) and (ii) both have two uppercase letters, a four-digit year, and a three-digit sequence — matching the format. (iii) uses a lowercase prefix, violating the 'two CAPITAL letters' rule. (iv) has a four-digit sequence (1000), violating the 'three-digit sequence' rule. Any option including (iii) or (iv) is therefore wrong: '(i), (ii) and (iii) only' includes (iii); '(i), (ii) and (iv) only' includes (iv); 'All of the above' includes both invalid strings."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Which of the following pairs are exactly identical under STRICT character-for-character matching?\n\n(i) 'ABC123' and 'ABC123'\n(ii) 'abc123' and 'ABC123'\n(iii) 'Delhi-110001' and 'Delhi-110001'\n(iv) 'MG Road' and 'MG  Road' (with a double space)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) and (iii) are strict duplicates. (ii) differs in case (abc vs ABC) — non-identical in strict matching. (iv) has an extra space, making them non-identical. Any option including (ii) or (iv) is therefore wrong: '(i), (ii) and (iii) only' includes (ii); '(i), (iii) and (iv) only' includes (iv); 'All of the above' includes both."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Which of the following statements about alphabetical positions are correct?\n\n(i) 'A' is the 1st letter of the English alphabet.\n(ii) 'M' is the 13th letter.\n(iii) 'S' is the 19th letter.\n(iv) 'Z' is the 25th letter of the alphabet.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct positional facts. (iv) is FALSE — 'Z' is the 26th letter of the alphabet, not the 25th. 'Y' is the 25th. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Which of the following statements about address matching in strict mode are correct?\n\n(i) Extra whitespace inside an address makes it non-identical to a normally-spaced address.\n(ii) Different pincode values make two addresses non-identical.\n(iii) A missing city name in one of two addresses makes them non-identical.\n(iv) Different capitalization has NO effect on address matching in strict mode.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) correctly describe strict matching. (iv) is FALSE — strict matching is case-sensitive, so different capitalization DOES affect matching. Any option including (iv) is therefore wrong."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "The letter that occupies the 15th position from the beginning of the English alphabet is __________.",
+      "options": [
+        "N",
+        "M",
+        "P",
+        "O"
+      ],
+      "correctAnswer": "O",
+      "explanation": "Counting A=1, B=2, …, N=14, O=15. So the 15th letter is 'O'. 'N' is the 14th letter. 'P' is the 16th letter. 'M' is the 13th letter."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "If the letters of the word 'JAMMU' are arranged in ascending alphabetical order, the letter 'J' occupies position __________ in the sorted sequence.",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "correctAnswer": "2",
+      "explanation": "Letters of JAMMU sorted alphabetically: A, J, M, M, U. Positions: A=1, J=2, M=3, M=4, U=5. So 'J' is at position 2. '1' is the position of 'A'. '3' and '4' are the positions of the two 'M's."
+    }
+  ]
+}

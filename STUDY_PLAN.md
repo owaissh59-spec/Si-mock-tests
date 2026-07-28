@@ -169,17 +169,17 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 58 | Morning | B — General Awareness | J&K Economy, Culture & Administration | 30 | standard | Topic-wise | ⬜ |
-| 59 | Afternoon | C — Quantitative Aptitude | Mixture & Alligation | 40 | standard | Topic-wise | ⬜ |
-| 60 | Late | D — English Comprehension | Direct/Indirect Narration | 50 | standard | Topic-wise | ⬜ |
+| 58 | Morning | B — General Awareness | J&K Economy, Culture & Administration | 30 | standard | Topic-wise | ✅ |
+| 59 | Afternoon | C — Quantitative Aptitude | Mixture & Alligation | 40 | standard | Topic-wise | ✅ |
+| 60 | Late | D — English Comprehension | Direct/Indirect Narration | 50 | standard | Topic-wise | ✅ |
 
 ### Day 21
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 61 | Morning | E — Mathematical Abilities | Probability (Simple) | 30 | standard | Topic-wise | ⬜ |
-| 62 | Afternoon | A — General Intelligence & Reasoning | Indexing, Address/Date-City Matching, Code Classification, Letters/Numbers | 40 | standard | Topic-wise | ⬜ |
-| 63 | Late | FULL | Cumulative revision — Week 3 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
+| 61 | Morning | E — Mathematical Abilities | Probability (Simple) | 30 | standard | Topic-wise | ✅ |
+| 62 | Afternoon | A — General Intelligence & Reasoning | Indexing, Address/Date-City Matching, Code Classification, Letters/Numbers | 40 | standard | Topic-wise | ✅ |
+| 63 | Late | FULL | Cumulative revision — Week 3 topics (ABCDEF) | 50 | standard | Revision (topic-wise, cumulative) | ✅ |
 
 ### Day 22
 

@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 365,
+  "count": 423,
   "questions": [
     {
       "test": 4,
@@ -1827,6 +1827,296 @@
       "test": 54,
       "stem": "match the following active sentences with their correct passive forms: column i:",
       "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said, \"i am unwell today.\"",
+      "key": "He said that he was unwell that day."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: she said to me, \"where are you",
+      "key": "She asked me where I was going."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the teacher said to the students, \"do",
+      "key": "The teacher told the students not to make noise."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said, \"i have finished my work.\"",
+      "key": "He said that he had finished his work."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: she said to him, \"i will help",
+      "key": "She told him that she would help him the next day."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said, \"how happy i am today!\"",
+      "key": "He exclaimed with joy that he was very happy that day."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said, \"alas! i have lost my",
+      "key": "He exclaimed with sorrow that he had lost his purse."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the teacher said to us, \"do you",
+      "key": "The teacher asked us if we knew the answer."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: my mother said, \"may god bless you!\"",
+      "key": "My mother prayed that God might bless me."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said, \"let us go for a",
+      "key": "He proposed that we should go for a walk."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the captain said to the soldiers, \"march",
+      "key": "The captain ordered the soldiers to march forward."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the mother said to her daughter, \"please",
+      "key": "The mother requested her daughter to bring her a glass of water."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: rita said, \"i am reading a novel",
+      "key": "Rita said that she was reading a novel then."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said to me, \"i saw a",
+      "key": "He told me that he had seen a tiger the previous day."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the child said, \"wow! what a beautiful",
+      "key": "The child exclaimed with delight that it was a very beautiful bird."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: she said, \"i can speak french.\"",
+      "key": "She said that she could speak French."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said to her, \"why did you",
+      "key": "He asked her why she had not come the previous day."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: she said, \"i shall have to go",
+      "key": "She said that she would have to go then."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the postman said, \"there is a letter",
+      "key": "The postman said that there was a letter for me."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said to me, \"you must obey",
+      "key": "He told me that I must obey my parents."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: my friend said, \"would that i were",
+      "key": "My friend wished that he were a bird."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the guard said, \"show me your ticket.\"",
+      "key": "The guard asked me to show him my ticket."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: she said to me, \"do you like",
+      "key": "She asked me whether I liked coffee or tea."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: the teacher said, \"honesty is the best",
+      "key": "The teacher said that honesty is the best policy."
+    },
+    {
+      "test": 60,
+      "stem": "choose the correct indirect form: he said, \"the earth revolves around the",
+      "key": "He said that the earth revolves around the sun."
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about tense change in direct-to-indirect narration: (i) simple",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about universal truths and habitual actions in indirect",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about time-expression changes in direct-to-indirect narration: (i) 'now'",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about reporting interrogative sentences in indirect speech: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about narration of imperative sentences: (i) orders/commands use",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about narration of exclamatory sentences: (i) the reporting",
+      "key": "All of the above"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about pronoun changes in indirect speech: (i) first-person",
+      "key": "All of the above"
+    },
+    {
+      "test": 60,
+      "stem": "consider the following statements about narration of optative sentences (wishes / prayers",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 60,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 60,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 60,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 60,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 60,
+      "stem": "match the sentence type in column i with the typical reporting verb",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 60,
+      "stem": "match the time expression in direct speech (column i) with its typical",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 60,
+      "stem": "match the direct-speech tense in column i with the corresponding indirect-speech tense",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 60,
+      "stem": "match the type of question in column i with the corresponding connector",
+      "key": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 60,
+      "stem": "match the direct-speech sentence in column i with its most appropriate classification",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 60,
+      "stem": "which of the following changes are correct when converting direct speech to",
+      "key": "All of the above"
+    },
+    {
+      "test": 60,
+      "stem": "which of the following are correct examples of time- or demonstrative-expression changes",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "which of the following statements about indirect speech are correct? (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "which of the following are correctly transformed indirect-speech sentences? (i) he said,",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "which of the following pronoun-change rules are correct when converting direct to",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 60,
+      "stem": "when converting direct speech to indirect speech, the pronoun 'i' in the",
+      "key": "he"
+    },
+    {
+      "test": 60,
+      "stem": "when converting an imperative sentence such as \"come here\" into indirect speech,",
+      "key": "asked / told + object + to + base verb"
+    },
+    {
+      "test": 63,
+      "stem": "choose the correct word to fill in the blank: she is known",
+      "key": "for"
+    },
+    {
+      "test": 63,
+      "stem": "choose the correct passive voice of: they are painting the wall.",
+      "key": "The wall is being painted by them."
+    },
+    {
+      "test": 63,
+      "stem": "choose the correct indirect form: he said, \"i will come tomorrow.\"",
+      "key": "He said that he would come the next day."
+    },
+    {
+      "test": 63,
+      "stem": "choose the correct word/phrase to fill in the blank: he is not",
+      "key": "but also"
+    },
+    {
+      "test": 63,
+      "stem": "consider the following statements about active-to-passive voice conversion: (i) in the passive",
+      "key": "All of the above"
+    },
+    {
+      "test": 63,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 63,
+      "stem": "match the direct-speech tense in column i with the corresponding indirect-speech tense",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 63,
+      "stem": "which of the following are correct transformations of active voice to passive",
+      "key": "(i), (ii) and (iii) only"
     }
   ]
 }

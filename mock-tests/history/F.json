@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 375,
+  "count": 382,
   "questions": [
     {
       "test": 6,
@@ -1877,6 +1877,41 @@
       "test": 56,
       "stem": "in a man-in-the-middle (mitm) attack, the attacker:",
       "key": "Positions themselves between two communicating parties to secretly relay and ..."
+    },
+    {
+      "test": 63,
+      "stem": "the unique numerical address that identifies a device on the internet is",
+      "key": "IP address"
+    },
+    {
+      "test": 63,
+      "stem": "which of the following networking devices operates at the data link layer",
+      "key": "Switch"
+    },
+    {
+      "test": 63,
+      "stem": "the malicious software that encrypts a user's files and demands a payment",
+      "key": "Ransomware"
+    },
+    {
+      "test": 63,
+      "stem": "consider the following statements about networking protocols: (i) tcp is a connection-oriented",
+      "key": "All of the above"
+    },
+    {
+      "test": 63,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 63,
+      "stem": "which of the following are recommended best practices for personal cyber security?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 63,
+      "stem": "the following table shows the count of security incidents recorded in an",
+      "key": "April; total = 60"
     }
   ]
 }
