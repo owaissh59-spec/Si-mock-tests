@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 346,
+  "count": 376,
   "questions": [
     {
       "test": 5,
@@ -1732,6 +1732,156 @@
       "test": 49,
       "stem": "the angle of elevation of the top of a tower from a",
       "key": "30√3 m"
+    },
+    {
+      "test": 55,
+      "stem": "what is the arithmetic mean of the first six natural numbers?",
+      "key": "3.5"
+    },
+    {
+      "test": 55,
+      "stem": "in a data set arranged in ascending order, the middle-most value is",
+      "key": "Median"
+    },
+    {
+      "test": 55,
+      "stem": "consider the following statements about measures of central tendency: (i) the arithmetic",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 55,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 55,
+      "stem": "the mean of five numbers is 20. if one number is removed,",
+      "key": "28"
+    },
+    {
+      "test": 55,
+      "stem": "match the following graph types with their most suitable use: column i:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 55,
+      "stem": "a pie chart represents the whole data as a total central angle",
+      "key": "360°"
+    },
+    {
+      "test": 55,
+      "stem": "which of the following are measures of central tendency? (i) arithmetic mean",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 55,
+      "stem": "in the data set 4, 6, 6, 7, 8, 6, 9 the",
+      "key": "6"
+    },
+    {
+      "test": 55,
+      "stem": "the following table shows the marks obtained by 5 students in a",
+      "key": "56"
+    },
+    {
+      "test": 55,
+      "stem": "a histogram is most appropriately used to represent:",
+      "key": "Frequency distribution of continuous grouped data"
+    },
+    {
+      "test": 55,
+      "stem": "consider the following statements about a grouped frequency distribution: (i) class width",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 55,
+      "stem": "for an ungrouped data set of 9 observations arranged in ascending order,",
+      "key": "5th observation"
+    },
+    {
+      "test": 55,
+      "stem": "match each statistical quantity in column i with the property in column",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 55,
+      "stem": "in a perfectly symmetrical distribution, the values of the mean, median and",
+      "key": "All equal to one another"
+    },
+    {
+      "test": 55,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 55,
+      "stem": "which of the following are types of statistical graphs commonly used to",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 55,
+      "stem": "a bar diagram is most suitable for representing:",
+      "key": "Discrete data compared across separate categories"
+    },
+    {
+      "test": 55,
+      "stem": "consider the following statements about the standard deviation (σ) of a data",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 55,
+      "stem": "in a cumulative frequency distribution, the cumulative frequency of the last class",
+      "key": "The total number of observations in the data set"
+    },
+    {
+      "test": 55,
+      "stem": "the following bar diagram data shows the number of books read by",
+      "key": "6"
+    },
+    {
+      "test": 55,
+      "stem": "the range of the data set 12, 18, 25, 9, 14, 20",
+      "key": "16"
+    },
+    {
+      "test": 55,
+      "stem": "the median of the numbers 15, 22, 8, 30, 12, 26, 18",
+      "key": "18"
+    },
+    {
+      "test": 55,
+      "stem": "for a grouped frequency distribution, the arithmetic mean by the direct method",
+      "key": "Σfx ÷ Σf"
+    },
+    {
+      "test": 55,
+      "stem": "match the following statistical measures with the correct formula: column i: (a)",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 55,
+      "stem": "consider the following statements about a pie chart: (i) the total angle",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 55,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 55,
+      "stem": "which of the following statements about the arithmetic mean are correct? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 55,
+      "stem": "the mode of the data set 3, 5, 5, 7, 8, 8,",
+      "key": "8"
+    },
+    {
+      "test": 55,
+      "stem": "a frequency polygon is drawn by joining the midpoints of the tops",
+      "key": "Histogram"
     }
   ]
 }

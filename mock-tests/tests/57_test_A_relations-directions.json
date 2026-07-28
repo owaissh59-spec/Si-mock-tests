@@ -1,0 +1,657 @@
+{
+  "subject": "A",
+  "topic": "Blood Relations, Direction Sense, Order & Ranking",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "A is B's father. C is B's mother. D is B's sister. How is A related to D?",
+      "options": [
+        "Uncle",
+        "Grandfather",
+        "Father",
+        "Brother"
+      ],
+      "correctAnswer": "Father",
+      "explanation": "A is B's father and D is B's sister, so D shares the same parents as B; therefore A is also D's father. 'Uncle' is wrong because A is a direct parent, not a sibling of a parent. 'Grandfather' is wrong because A is one generation above B, not two. 'Brother' is wrong because A is D's parent, not her sibling."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Introducing a girl, Vinit said, 'Her mother is the only daughter of my mother-in-law.' How is Vinit related to the girl?",
+      "options": [
+        "Uncle",
+        "Grandfather",
+        "Brother",
+        "Father"
+      ],
+      "correctAnswer": "Father",
+      "explanation": "The only daughter of Vinit's mother-in-law is his own wife. So the girl's mother is Vinit's wife, which makes Vinit the girl's father. 'Uncle' is wrong because Vinit is the direct father, not a sibling of a parent. 'Brother' is wrong because they are of different generations — girl's mother is his wife, not his sibling. 'Grandfather' is wrong because that would need Vinit to be the mother's father, but the mother is Vinit's wife."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Pointing to a boy, Rahul said, 'He is the son of the only daughter of my father.' How is the boy related to Rahul?",
+      "options": [
+        "Son",
+        "Brother",
+        "Nephew",
+        "Cousin"
+      ],
+      "correctAnswer": "Nephew",
+      "explanation": "The only daughter of Rahul's father is Rahul's sister. The son of Rahul's sister is Rahul's nephew. 'Son' is wrong because the boy's mother is Rahul's sister (not his wife). 'Brother' is wrong because a brother would share Rahul's parents; the boy's mother is Rahul's sister, so the boy is one generation below Rahul. 'Cousin' is wrong because a cousin is the child of an aunt or uncle, whereas this boy is the child of Rahul's own sister."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Consider the following statements about family relationships:\n\n(i) The mother of my father's mother is my great-grandmother.\n(ii) My sister's husband is my brother-in-law.\n(iii) My mother's father is my paternal grandfather.\n(iv) My father's brother is my paternal uncle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are correct: father's mother's mother is indeed the great-grandmother; the husband of one's sister is a brother-in-law; father's brother is the paternal uncle. (iii) is FALSE — mother's father is the MATERNAL grandfather, not the paternal grandfather. The paternal grandfather is the father's father. Therefore any option containing (iii) is wrong: '(i), (ii) and (iii) only' drops the true (iv) and includes false (iii); '(ii), (iii) and (iv) only' drops the true (i) and includes (iii); 'All of the above' incorrectly accepts (iii)."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The daughter of my father's brother is my cousin.\nReason (R): First cousins are the children of one's aunts or uncles on either parent's side.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: father's brother is my paternal uncle, and his daughter is my first cousin. (R) is a correct general definition of first cousins and it directly explains (A) — since the girl is the daughter of my paternal uncle, she falls squarely in the 'children of aunts or uncles' category. Hence both statements are correct and (R) explains (A). The second option is wrong because (R) does explain (A). The third and fourth options are wrong because both (A) and (R) are true."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the description of X in Column I with the correct relation of X to me in Column II:\n\nColumn I:\n(a) The wife of my brother\n(b) The son of my sister\n(c) The brother of my father\n(d) The mother of my father\n\nColumn II:\n(i) My paternal uncle\n(ii) My paternal grandmother\n(iii) My sister-in-law\n(iv) My nephew\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The wife of my brother is my sister-in-law — (a)-(iii). The son of my sister is my nephew — (b)-(iv). The brother of my father is my paternal uncle — (c)-(i). The mother of my father is my paternal grandmother — (d)-(ii). The second option swaps sister-in-law with nephew and puts grandmother in the wrong place. The third option pairs my sister's son with the paternal uncle — a generational error. The fourth option pairs my brother's wife with the paternal grandmother, which reverses two roles."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "In a family, P is the father of both R and S. Q is the mother of both R and S. R is male and S is female. Which of the following statements are definitely correct?\n\n(i) R is the son of P.\n(ii) S is the daughter of Q.\n(iii) R and S are siblings.\n(iv) R is older than S.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) all follow directly: R is P's male child (son), S is Q's female child (daughter), and R and S share both parents so they are siblings. (iv) does NOT follow — nothing in the problem tells us who is older; R could be older, younger, or a twin of S. So any option including (iv) is wrong: '(i), (iii) and (iv) only' drops the true (ii) and includes the unfounded (iv); '(ii), (iii) and (iv) only' drops the true (i) and includes (iv); 'All of the above' wrongly assumes (iv)."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "The son of my father's sister is my __________.",
+      "options": [
+        "Brother",
+        "Nephew",
+        "Cousin",
+        "Uncle"
+      ],
+      "correctAnswer": "Cousin",
+      "explanation": "Father's sister is my paternal aunt (or 'bua'). Her son is therefore my first cousin. 'Brother' is wrong because a brother would share my father and mother, whereas this boy's parent is my aunt. 'Nephew' is wrong because a nephew is the son of my sibling (one generation below me), whereas this boy is at my own generation. 'Uncle' is wrong because uncles are one generation above me, but a cousin is my own generation."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Rahul said, 'She is the only daughter of the wife of my only brother.' How is Rahul related to her?",
+      "options": [
+        "Sister",
+        "Daughter",
+        "Niece",
+        "Cousin"
+      ],
+      "correctAnswer": "Niece",
+      "explanation": "The wife of Rahul's only brother is Rahul's sister-in-law. The only daughter of that sister-in-law (whose father is Rahul's brother) is Rahul's brother's daughter — i.e. Rahul's niece. 'Sister' is wrong because 'she' is Rahul's brother's daughter, not Rahul's own sibling. 'Daughter' is wrong because Rahul is not her father — her father is Rahul's brother. 'Cousin' is wrong because cousins are children of uncles/aunts; here the child is of Rahul's own brother."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "K is the mother of L, and L is a girl. M is the husband of K. N is another daughter of K and M. How is L related to N?",
+      "options": [
+        "Aunt",
+        "Cousin",
+        "Mother",
+        "Sister"
+      ],
+      "correctAnswer": "Sister",
+      "explanation": "K and M are married; both L and N are daughters of K and M, so L and N share the same parents. Two same-generation females sharing both parents are sisters. 'Aunt' is wrong because an aunt is a parent's sister (one generation above), whereas L and N are of the same generation. 'Mother' is wrong because K is the mother of both girls, not L. 'Cousin' is wrong because cousins have different parents; here L and N share both parents."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Consider the following statements about family relationships:\n\n(i) Every person biologically has one father and one mother.\n(ii) The child of my father's second wife (who is not my mother) is always my cousin.\n(iii) 'Brother-in-law' can refer to the husband of one's sister or the brother of one's spouse.\n(iv) A nephew or niece is the child of one's sibling.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i), (iii) and (iv) are all correct standard definitions. (ii) is FALSE — the child of one's father's second wife is a half-sibling (or step-sibling if not biological), NOT a cousin; cousins share grandparents through an aunt/uncle relationship. Therefore any option including (ii) is wrong: '(i), (ii) and (iii) only' includes false (ii) and drops true (iv); '(ii), (iii) and (iv) only' includes (ii) and drops (i); 'All of the above' wrongly accepts (ii)."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Rajiv introduced Meena by saying, 'She is the daughter of the only sister of my father.' Consider the following statements:\n\n(i) Meena is Rajiv's first cousin.\n(ii) Meena's mother is Rajiv's paternal aunt.\n(iii) Rajiv and Meena share at least one grandparent.\n(iv) Meena is Rajiv's maternal aunt.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Only sister of Rajiv's father is Rajiv's paternal aunt (bua). Her daughter is Rajiv's first cousin, and they share the same paternal grandparents. So (i), (ii) and (iii) are correct. (iv) is FALSE — Meena is one generation below the aunt-level relative to Rajiv, so she is a cousin, not a maternal aunt (a maternal aunt would be Rajiv's mother's sister). Options including (iv) are therefore wrong: '(i), (ii) and (iv) only' drops the true (iii); '(ii), (iii) and (iv) only' drops the true (i); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Introducing a person, Neelam said, 'His wife is the only daughter of my father.' How is Neelam related to that person?",
+      "options": [
+        "Sister",
+        "Daughter",
+        "Sister-in-law",
+        "Wife"
+      ],
+      "correctAnswer": "Wife",
+      "explanation": "The only daughter of Neelam's father is Neelam herself (assuming she is the only daughter as stated). So 'his wife' is Neelam. Therefore the man is Neelam's husband and Neelam is his wife. 'Sister' is wrong — Neelam is the referenced wife, not a sibling. 'Sister-in-law' is wrong — that would apply if Neelam were his sibling's wife or his wife's sister, not the wife herself. 'Daughter' is wrong — Neelam is not his child, she is his spouse."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "A is B's brother. C is D's father. E is B's mother. Also, A is D's brother. How is E related to C?",
+      "options": [
+        "Sister",
+        "Mother-in-law",
+        "Aunt",
+        "Wife"
+      ],
+      "correctAnswer": "Wife",
+      "explanation": "A is B's brother AND A is D's brother, so A, B and D share the same parents. E is the mother of A/B/D. C is the father of D, hence C is the father of all three siblings. E (mother of all three) and C (father of all three) are the parents together, so E is C's wife. 'Sister' is wrong — they are spouses, not siblings. 'Aunt' is wrong because E is D's own mother, not a parent's sister. 'Mother-in-law' would require E to be a parent of C's spouse; but E IS C's spouse."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "In a certain notation, A × B means A is the sister of B, A ÷ B means A is the father of B, and A + B means A is the brother of B. Which of the following expressions represents 'M is the paternal aunt of N'?",
+      "options": [
+        "M × P + N",
+        "M + P ÷ N",
+        "M ÷ P × N",
+        "M × P ÷ N"
+      ],
+      "correctAnswer": "M × P ÷ N",
+      "explanation": "Paternal aunt = father's sister. If P is the father of N (P ÷ N) and M is the sister of P (M × P), then M is the sister of N's father, i.e. N's paternal aunt. So the correct expression is 'M × P ÷ N'. 'M + P ÷ N' means M is the brother of P, and P is the father of N → M is the paternal UNCLE of N (male sibling of the father), not aunt. 'M ÷ P × N' means M is the father of P and P is the sister of N → M would be N's father, not aunt. 'M × P + N' means M is sister of P and P is brother of N → M is N's sister, not aunt."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "In a family of 6 members: A is married to B; C and D are their children; E is A's father; F is C's daughter. Which of the following statements are correct?\n\n(i) E is F's great-grandfather.\n(ii) B is F's grandparent.\n(iii) C and D are siblings.\n(iv) A has at least two grandchildren.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) E is A's father, A is C's parent, C is F's parent, so E is F's great-grandfather — true. (ii) B is A's spouse and therefore F's grandparent — true. (iii) C and D are both children of A and B, so they are siblings — true. (iv) F is a grandchild of A (through C). D might or might not have children; the problem only mentions F, so we cannot conclude A has two or more grandchildren. Any option including (iv) is therefore wrong: '(i), (iii) and (iv) only' drops the true (ii) and asserts unfounded (iv); '(ii), (iii) and (iv) only' drops the true (i) and includes (iv); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The daughter of my sister is my niece.\nReason (R): The daughter of my sister is always older than me.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — the daughter of one's sibling is a niece by definition. (R) is false — my sister's daughter can be older, younger or the same age as me depending on when my sister had her; there is no rule that she must be older. So the correct choice is 'A is correct but R is not correct'. The first two options require (R) to be true, so both are wrong. The fourth option requires (A) to be false, but (A) is a standard definition, so that is wrong too."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "A person is facing north-east. He turns 135° clockwise. Which direction is he facing now?",
+      "options": [
+        "East",
+        "South-West",
+        "South",
+        "West"
+      ],
+      "correctAnswer": "South",
+      "explanation": "North-east lies at 45° clockwise from north. Adding another 135° clockwise gives 45° + 135° = 180° from north, which is due south. 'East' would result from a 45° clockwise turn from NE (making 90° total from N), not 135°. 'South-West' would require 180° from NE, not 135°. 'West' would require 225° from NE, not 135°."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Ravi starts from point P, walks 8 km north, turns right and walks 6 km, then turns right again and walks 8 km. What is his straight-line distance from P?",
+      "options": [
+        "6 km",
+        "8 km",
+        "10 km",
+        "14 km"
+      ],
+      "correctAnswer": "6 km",
+      "explanation": "Segment 1: 8 km north. Turn right (now facing east) → 6 km east. Turn right (now facing south) → 8 km south. The 8 km north and 8 km south cancel, leaving him 6 km east of P. Straight-line distance = 6 km. '8 km' is wrong (that is only one leg of the walk). '10 km' would be √(8² + 6²), the hypotenuse — but the two north and south legs cancel, so the diagonal formula doesn't apply here. '14 km' is 8 + 6, the perimeter walked, not the straight-line displacement."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "A car starts from point A, moves 12 km east, then 5 km south, then 12 km west. What is the straight-line distance from A to its current position?",
+      "options": [
+        "5 km",
+        "12 km",
+        "17 km",
+        "13 km"
+      ],
+      "correctAnswer": "5 km",
+      "explanation": "12 km east and 12 km west cancel each other, leaving a net east-west displacement of zero. Only the 5 km south remains, so the straight-line distance is 5 km. '12 km' is wrong (that is one leg walked). '17 km' is 12 + 5, the total distance covered south of the east leg, not the straight-line displacement. '13 km' is √(12² + 5²) — that would be correct only if the two 12 km legs did not cancel."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Standing at point P and facing south, Rani turns 90° anticlockwise, walks 5 m, turns 90° clockwise, walks 5 m, then turns 180°. Which direction is she facing now?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": "North",
+      "explanation": "Start: facing south. Turn 90° anticlockwise → facing east. Turn 90° clockwise → facing south again. Turn 180° → facing north. 'South' is wrong (that is her direction after the second turn, before the final 180° turn). 'East' is wrong (that is her direction after only the first turn). 'West' would require an additional 90° turn from where she ends up."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Consider the following statements about direction sense:\n\n(i) At sunrise, if you face the sun, your left hand points to the north.\n(ii) A person walking 100 m north and then 100 m west ends 100√2 m from the starting point, in the north-west direction.\n(iii) The bearing of due east from due north (measured clockwise from north) is 90°.\n(iv) A person's shadow at noon in the northern hemisphere generally falls towards the south.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: sun rises in the east, so facing east places north on your left. (ii) is correct: displacement = √(100² + 100²) = 100√2 m and the direction is north-west. (iii) is correct by definition of bearing. (iv) is FALSE — in the northern hemisphere at noon the sun is roughly in the SOUTH, so shadows fall towards the NORTH, not the south. Any option that includes (iv) is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii) and keeps false (iv); '(ii), (iii) and (iv) only' drops the true (i) and keeps (iv); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The shadow of a vertical pole cast at 6 a.m. falls exactly towards the east.\nReason (R): The sun rises in the eastern direction.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE — a shadow falls OPPOSITE to the direction of the light source; since the sun is in the east at 6 a.m., the shadow falls to the WEST, not the east. (R) is correct — the sun does rise in the east. So the correct choice is 'A is not correct but R is correct'. The first two options require (A) to be true, which it is not. The third option requires (R) to be false, which it is not."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Match the direction-turn in Column I with the resulting facing direction if the person starts facing NORTH:\n\nColumn I:\n(a) Turn 90° clockwise\n(b) Turn 180°\n(c) Turn 90° anticlockwise\n(d) Turn 45° clockwise\n\nColumn II:\n(i) North-East\n(ii) East\n(iii) South\n(iv) West\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Starting from north, a 90° clockwise turn faces east (a)-(ii); a 180° turn faces south (b)-(iii); a 90° anticlockwise turn faces west (c)-(iv); a 45° clockwise turn faces north-east (d)-(i). The second option swaps east with west for the clockwise turn. The third option pairs the 180° turn with west, which would require a 90° turn, not 180°. The fourth option swaps south with east — a 90° clockwise turn does not face south (that would require a 180° turn)."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Which of the following pairs of directions are perpendicular (90° apart) to each other?\n\n(i) North and East\n(ii) North-East and South-East\n(iii) South and West\n(iv) North-West and North-East\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "N to E is 90° (a right angle). NE (45° from N) to SE (135° from N) is 90°. S to W is 90°. NW (315° from N) to NE (45° from N) is 90°. All four pairs are perpendicular. '(i), (ii) and (iii) only' wrongly excludes the correct NW–NE pair. '(i), (iii) and (iv) only' wrongly excludes the correct NE–SE pair. '(ii) and (iv) only' wrongly excludes two valid perpendicular pairs among the cardinal directions."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "When a person turns from facing east directly to facing west, he has rotated by an angle of __________ degrees.",
+      "options": [
+        "90",
+        "45",
+        "180",
+        "270"
+      ],
+      "correctAnswer": "180",
+      "explanation": "East and west are opposite directions, so a direct turn from one to the other is a half-turn = 180°. '90' is wrong (that would take east to north or south, one quarter turn). '45' is wrong (that would take east to north-east or south-east, an eighth turn). '270' would be three-quarters of a full turn — the person would end up facing east or south depending on the direction of rotation, not west (unless one rotates through the long way, but 'directly' implies the shorter angle)."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Two friends P and Q start from the same point. P walks 5 km east and Q walks 12 km north. What is the shortest straight-line distance between them at this moment?",
+      "options": [
+        "7 km",
+        "17 km",
+        "13 km",
+        "15 km"
+      ],
+      "correctAnswer": "13 km",
+      "explanation": "Their paths are perpendicular, so the straight-line distance is the hypotenuse: √(5² + 12²) = √(25 + 144) = √169 = 13 km. '7 km' is 12 − 5, incorrectly subtracting the two legs. '17 km' is 12 + 5, incorrectly adding the two legs — that is the total walking distance, not the straight-line separation. '15 km' does not correspond to any valid Pythagorean computation for legs 5 and 12."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Rita walks 15 m north, then 20 m east, then 15 m south. How far is she from her starting point now?",
+      "options": [
+        "15 m",
+        "25 m",
+        "20 m",
+        "35 m"
+      ],
+      "correctAnswer": "20 m",
+      "explanation": "The 15 m north and 15 m south cancel exactly, leaving her 20 m east of the starting point. So the straight-line distance is 20 m. '15 m' is wrong (that is one of the leg lengths that got cancelled). '25 m' would be √(15² + 20²), which would apply only if the north and south legs did not cancel. '35 m' = 15 + 20, the total walked distance, not the displacement."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Consider the following statements about direction sense:\n\n(i) If you face the setting sun, your right hand points to the north.\n(ii) A person walking due south for 3 km and then due east for 4 km will be 5 km in a straight line from the starting point.\n(iii) The angle between due north and due north-west is 90°.\n(iv) At sunrise, the shadow of a vertical stationary object falls towards the west.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Setting sun is in the west; facing west, the right hand points to the north — true. (ii) √(3² + 4²) = 5 km — a classic 3-4-5 right triangle. True. (iv) Sun rises in the east, so shadow of a vertical object falls towards the west. True. (iii) is FALSE — the angle between due north and due north-west is 45°, not 90° (NW is halfway between N and W). Any option including (iii) is therefore wrong: '(ii), (iii) and (iv) only' drops the true (i) and includes (iii); '(i), (iii) and (iv) only' drops the true (ii) and includes (iii); 'All of the above' wrongly accepts (iii)."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Match the observation in Column I with the correct direction in Column II:\n\nColumn I:\n(a) A pole's shadow at 6 a.m. points to\n(b) A pole's shadow at 6 p.m. points to\n(c) Facing sunrise, my right hand points to\n(d) Facing sunset, my right hand points to\n\nColumn II:\n(i) East\n(ii) West\n(iii) North\n(iv) South\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "At 6 a.m. the sun is in the east, so shadows fall towards the west — (a)-(ii). At 6 p.m. the sun is in the west, so shadows fall towards the east — (b)-(i). Facing east (sunrise), the right hand points south — (c)-(iv). Facing west (sunset), the right hand points north — (d)-(iii). The first option swaps sunrise and sunset shadows. The third option and the fourth option both swap the right-hand directions (giving north/south incorrectly) — right hand at sunrise cannot point north because that would put east behind you."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "In a coded direction system, North is called East, East is called South, South is called West, and West is called North. In this system, in which direction should a person travel to reach the actual east (i.e. the direction of sunrise)?",
+      "options": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
+      "correctAnswer": "South",
+      "explanation": "In the new coding, the actual east is called 'South' (because 'East is called South'). Therefore to reach the true east, one should travel in what is now labelled 'South'. 'North' in the new coding refers to the actual west, so travelling 'North' would move away from the actual east. 'East' in the new coding refers to the actual north. 'West' in the new coding refers to the actual south. Only 'South' in the coded system matches the actual east."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Which of the following statements about compass directions are correct?\n\n(i) The four cardinal directions are North, South, East and West.\n(ii) The direction opposite to North-East is South-West.\n(iii) A right angle equals 90° and corresponds to a quarter of a full turn.\n(iv) The direction opposite to West is North.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are correct standard facts. (iv) is FALSE — the direction opposite to West is EAST, not North. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' includes false (iv) and drops the true (iii); '(ii), (iii) and (iv) only' includes (iv) and drops the true (i); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Starting from home, Ali walked 4 km east, then 3 km north, then 12 km west and finally 3 km south. How far is he from his home now?",
+      "options": [
+        "4 km",
+        "8 km",
+        "12 km",
+        "16 km"
+      ],
+      "correctAnswer": "8 km",
+      "explanation": "East-west displacement: 4 − 12 = −8 (i.e. 8 km west of home). North-south displacement: 3 − 3 = 0. So he is 8 km due west of home; the straight-line distance is 8 km. '4 km' is the first leg only. '12 km' is a single leg (west), ignoring the earlier 4 km east that partially cancels it. '16 km' would be if you added all east-west legs without cancellation (4 + 12), which double-counts."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "A traveller starts at point O, walks 10 km south, and then 24 km west. What is the straight-line distance from O?",
+      "options": [
+        "20 km",
+        "26 km",
+        "34 km",
+        "14 km"
+      ],
+      "correctAnswer": "26 km",
+      "explanation": "The path forms a right angle at the turn, so the straight-line distance is √(10² + 24²) = √(100 + 576) = √676 = 26 km. '20 km' does not correspond to any correct calculation with these legs. '34 km' = 10 + 24, which is the total distance walked, not the straight-line displacement. '14 km' = 24 − 10, incorrectly subtracting the two legs instead of applying Pythagoras."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "In a class of 45 students, Priya's rank is 15th from the top. What is her rank from the bottom?",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "29"
+      ],
+      "correctAnswer": "31",
+      "explanation": "Rank from bottom = Total − rank from top + 1 = 45 − 15 + 1 = 31. '30' comes from forgetting the +1 (i.e. computing 45 − 15). '32' comes from adding one too many. '29' incorrectly counts as 45 − 15 − 1, which double-corrects the endpoint."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "In a row of students, Sam is 12th from the left end and 8th from the right end. How many students are there in the row?",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correctAnswer": "19",
+      "explanation": "Total = (rank from left) + (rank from right) − 1 = 12 + 8 − 1 = 19. The '− 1' is needed because Sam himself is counted in both the left rank and the right rank. '18' comes from subtracting 2 instead of 1 (which would double-remove Sam). '20' comes from just adding 12 + 8 without subtracting the overlap of Sam. '21' overcounts by an extra person."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Consider the following statements about ranking in a row of n persons:\n\n(i) If a person is xth from one end, their position from the other end is (n − x + 1).\n(ii) The sum of a person's rank from the two ends of the row equals n + 1.\n(iii) If two persons swap positions in the row, each of their ranks from the two ends can change.\n(iv) A person's rank from the left plus their rank from the right always equals n.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is the standard rank formula. (ii) follows directly from (i): x + (n − x + 1) = n + 1. (iii) is clearly true — swapping positions changes ranks for both. (iv) is FALSE — the sum is n + 1, not n, because the person is counted once in each rank. Any option including (iv) is therefore wrong: '(ii), (iii) and (iv) only' drops the true (i) and includes (iv); '(i), (iii) and (iv) only' drops the true (ii) and includes (iv); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a class of 40 students, if Vikram is 8th from the top, then he is 33rd from the bottom.\nReason (R): For any student, rank from the bottom equals total number of students minus rank from the top.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — the actual formula gives rank from bottom = 40 − 8 + 1 = 33. (R) is INCORRECT — it omits the '+ 1'; the correct formula is (total − rank from top + 1), not (total − rank from top). Using (R) would give 40 − 8 = 32, which is off by 1. So the answer is 'A is correct but R is not correct'. The first two options require (R) to be correct, so they are wrong. The fourth option requires (A) to be false; but (A) uses the correct rank arithmetic and gives 33, which matches, so (A) is true."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Match the ranking scenarios in Column I with the correct derived values in Column II:\n\nColumn I:\n(a) Class of 60 students; someone is 20th from the top — his rank from the bottom is\n(b) In a row, someone is 5th from the left and 8th from the right — total persons in the row is\n(c) Rani is 12th from the top; then 5 new students are ranked above her — her new rank from the top is\n(d) Class of 25 students; X is 10th from the front — his rank from the back is\n\nColumn II:\n(i) 12\n(ii) 17\n(iii) 16\n(iv) 41\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "(a) 60 − 20 + 1 = 41 → (iv). (b) 5 + 8 − 1 = 12 → (i). (c) Adding 5 above Rani pushes her rank down by 5: 12 + 5 = 17 → (ii). (d) 25 − 10 + 1 = 16 → (iii). The second option wrongly pairs 60-student rank calculation with 16 and 25-student rank calculation with 17. The third option swaps the total-in-row (b) with something else. The fourth option pairs 60-student rank with 12, which is wrong (12 is (b), not (a))."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Consider the following statements about a queue:\n\n(i) The person at the front of a queue is usually called the 1st from the front.\n(ii) If a queue has n persons, the sum of a person's position from the front and their position from the back is always n + 1.\n(iii) In a queue, adding more persons at the back changes the front-rank of the existing persons.\n(iv) In a queue, adding more persons at the front increases the front-rank of the existing persons by the number added.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are all correct — the standard convention places the person at the front as 1st, the sum of front-rank and back-rank equals n + 1 (with n being total in queue), and pushing k persons in at the front shifts everyone's front-rank down by k. (iii) is FALSE — adding persons at the BACK does not change any existing person's front-rank (their front-rank only depends on those ahead of them). Any option including (iii) is therefore wrong: '(ii), (iii) and (iv) only' drops the true (i) and keeps (iii); '(i), (iii) and (iv) only' drops the true (ii) and keeps (iii); 'All of the above' wrongly accepts (iii)."
+    },
+    {
+      "id": "41",
+      "subject": "A",
+      "questionText": "In a class of 30 students, Neha is 8th from the top. If 5 more students join the class and each of these 5 ranks above Neha, what will be Neha's new rank from the top?",
+      "options": [
+        "12",
+        "15",
+        "14",
+        "13"
+      ],
+      "correctAnswer": "13",
+      "explanation": "Neha was 8th from the top. Five students now rank above her, so her new position is 8 + 5 = 13. '12' comes from adding 4 instead of 5 (off by one). '14' comes from adding 6 instead of 5. '15' comes from adding 7 or from mistakenly counting Neha herself as one of the new students."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "In a race, Deepak finished ahead of 15 participants and behind 12 participants. Including Deepak, how many participants ran the race?",
+      "options": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "correctAnswer": "28",
+      "explanation": "Behind Deepak = 15; ahead of Deepak = 12; Deepak himself = 1. Total = 15 + 12 + 1 = 28. '27' omits Deepak himself. '29' incorrectly counts Deepak twice. '30' overcounts by 2 (perhaps by adding some spurious value)."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Five girls A, B, C, D, E are sitting in a row facing you. It is given that: A is to the left of B but to the right of C; E is to the right of B but to the left of D. Consider the following statements:\n\n(i) A is second from the left.\n(ii) C is at the leftmost end.\n(iii) D is at the rightmost end.\n(iv) E is second from the right.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "Combining the clues: C is left of A, A is left of B, B is left of E, E is left of D. So the order from left to right is C, A, B, E, D. Therefore: (i) A is at position 2 from the left — true; (ii) C is at position 1 (leftmost) — true; (iii) D is at position 5 (rightmost) — true; (iv) E is at position 4 from the left = position 2 from the right — true. All four are correct. Any option that drops one of the four correct statements is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv); '(ii), (iii) and (iv) only' drops the true (i); '(i), (iii) and (iv) only' drops the true (ii)."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Match the ranking clues in Column I with the correctly derived information in Column II:\n\nColumn I:\n(a) In a row of 40 students, X is 8th from the left — X's rank from the right is\n(b) Y is originally 5th from the top; 5 new students are added ranked above Y — Y's new rank from the top is\n(c) In a class of 50 students, Z is 27th from the top — Z's rank from the bottom is\n(d) In a queue of 20 persons, A is 4th from the front — A's rank from the back is\n\nColumn II:\n(i) 24th\n(ii) 33rd\n(iii) 10th\n(iv) 17th\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 40 − 8 + 1 = 33rd from the right → (ii). (b) 5 + 5 = 10th from the top → (iii). (c) 50 − 27 + 1 = 24th from the bottom → (i). (d) 20 − 4 + 1 = 17th from the back → (iv). The first option swaps (a) with (b) and misplaces the others. The second option gives 8th student a 24th-from-right rank, which does not match the formula. The fourth option wrongly gives (b) 17 (which is really (d)) and (d) 24 (which is really (c))."
+    },
+    {
+      "id": "45",
+      "subject": "A",
+      "questionText": "In a class, Anjali's rank is 18th from the top and 12th from the bottom. How many students are there in the class?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "correctAnswer": "29",
+      "explanation": "Total = (rank from top) + (rank from bottom) − 1 = 18 + 12 − 1 = 29. The '− 1' avoids double-counting Anjali. '28' subtracts 2 instead of 1, effectively removing Anjali twice. '30' comes from simply adding 18 + 12 without subtracting the overlap of Anjali herself. '31' overcounts by an extra person."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "In a row of 30 students, Anil is 15th from the left. If Anil interchanges his position with the student who is 8th from the right, what will be Anil's new position from the left?",
+      "options": [
+        "22",
+        "23",
+        "24",
+        "8"
+      ],
+      "correctAnswer": "23",
+      "explanation": "The student who is 8th from the right is at position 30 − 8 + 1 = 23 from the left. After swapping, Anil takes this position, so his new position from the left is 23rd. '22' is off by one (forgetting the +1 in the conversion). '24' is off by one in the other direction. '8' is the student's position from the RIGHT, not from the left, so it is a distractor for those who forget to convert."
+    },
+    {
+      "id": "47",
+      "subject": "A",
+      "questionText": "In a row of 40 students, Ravi is 12th from the top and Rani is 15th from the bottom. How many students stand between Ravi and Rani?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswer": "13",
+      "explanation": "Ravi's position from the top = 12. Rani's position from the top = 40 − 15 + 1 = 26. Number of students strictly between positions 12 and 26 = 26 − 12 − 1 = 13. '12' would be if you forgot to subtract 1 for the endpoint. '14' would be if you added 1 rather than subtracting 1. '15' is one of the given inputs (Rani from the bottom), which is a distractor for candidates who confuse it with the count between."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a row of 20 persons, if X is 7th from the left, then X is 14th from the right.\nReason (R): The total number of persons in a row does not change when you count from either end.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — using the formula: rank from right = 20 − 7 + 1 = 14. (R) is also a true statement — total persons in a row does not change with the direction of counting. However, (R) merely states a general truth about totals; it does not directly explain the arithmetic behind the formula (which requires the '+ 1' step for avoiding double-counting). So both are correct but (R) does NOT explain (A). The first option is wrong because R does not directly explain A. The third option is wrong because R is a correct statement. The fourth option is wrong because A is a correct statement."
+    },
+    {
+      "id": "49",
+      "subject": "A",
+      "questionText": "In a row of 25 students, A is 5th from the left, B is 3rd from the right, and C is exactly in the middle of the row. Which of the following statements are correct?\n\n(i) The number of students strictly between A and C is 7.\n(ii) B is 23rd from the left.\n(iii) C is 13th from both the left and the right.\n(iv) The number of students strictly between B and C is 10.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Positions from the left: A = 5, C = 13 (middle of 25), B = 25 − 3 + 1 = 23. (i) Students strictly between A(5) and C(13) = 13 − 5 − 1 = 7. True. (ii) B = 23 from the left. True. (iii) C = 13 from left AND 25 − 13 + 1 = 13 from right. True. (iv) Students strictly between B(23) and C(13) = 23 − 13 − 1 = 9, NOT 10. So (iv) is false. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' includes false (iv) and drops true (iii); '(ii), (iii) and (iv) only' includes (iv) and drops true (i); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "50",
+      "subject": "A",
+      "questionText": "In a row of 32 children, a girl's position is 12th from the right end. What is her position from the left end?",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "correctAnswer": "21",
+      "explanation": "Position from left = Total − position from right + 1 = 32 − 12 + 1 = 21. '20' omits the +1. '22' has an extra +1. '23' has been over-corrected by two."
+    }
+  ]
+}

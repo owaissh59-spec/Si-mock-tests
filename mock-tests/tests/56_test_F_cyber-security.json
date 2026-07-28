@@ -1,0 +1,527 @@
+{
+  "subject": "F",
+  "topic": "Cyber Security: Threats & Prevention",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "F",
+      "questionText": "The general term used to describe any software specifically designed to harm, disrupt, or gain unauthorized access to a computer system is:",
+      "options": [
+        "Middleware",
+        "Malware",
+        "Freeware",
+        "Shareware"
+      ],
+      "correctAnswer": "Malware",
+      "explanation": "'Malware' is a portmanteau of 'malicious software' and is the umbrella term covering viruses, worms, Trojans, ransomware, spyware, etc. 'Middleware' is legitimate software that connects two applications or components; it is not malicious. 'Freeware' means fully-functional software distributed at no cost, unrelated to malice. 'Shareware' is trial software that can be freely shared, again not inherently harmful."
+    },
+    {
+      "id": "2",
+      "subject": "F",
+      "questionText": "Which of the following BEST describes a computer virus?",
+      "options": [
+        "A network monitoring tool that logs packet traffic",
+        "A hardware device that boosts CPU cache performance",
+        "A malicious program that attaches itself to a host file and needs user action to spread",
+        "A backup utility that duplicates files across drives"
+      ],
+      "correctAnswer": "A malicious program that attaches itself to a host file and needs user action to spread",
+      "explanation": "A virus is a piece of malicious code that inserts itself into a host program or file; it requires some user action (opening the file, running the program, etc.) to be activated and propagate. A network monitoring tool that logs packet traffic describes a sniffer/protocol analyzer — a legitimate diagnostic tool. A CPU cache booster is a hardware/firmware feature, not malware. A backup utility copies files intentionally for recovery and is not malicious."
+    },
+    {
+      "id": "3",
+      "subject": "F",
+      "questionText": "A worm differs from a computer virus mainly because a worm:",
+      "options": [
+        "Is written in higher-level languages while viruses are written in assembly",
+        "Requires a host file and manual execution to spread",
+        "Only affects hardware components, not files",
+        "Can self-replicate and spread across networks without user intervention"
+      ],
+      "correctAnswer": "Can self-replicate and spread across networks without user intervention",
+      "explanation": "The defining feature of a worm is that it is a standalone program that self-replicates and propagates across networks automatically, without needing a host file or user action. The language in which the code is written is irrelevant to the virus vs. worm distinction. Requiring a host file and user execution is the property of a virus, not of a worm. Worms damage software/data across networks, not hardware; they do not target hardware components directly."
+    },
+    {
+      "id": "4",
+      "subject": "F",
+      "questionText": "A Trojan horse is malicious software that:",
+      "options": [
+        "Sits between two hosts and secretly relays their communications",
+        "Automatically self-replicates over the network like a worm",
+        "Encrypts the user's files and demands payment for the decryption key",
+        "Disguises itself as a legitimate program to trick the user into installing it"
+      ],
+      "correctAnswer": "Disguises itself as a legitimate program to trick the user into installing it",
+      "explanation": "A Trojan (or Trojan horse) is named after the Greek myth: it looks like a useful, harmless program but hides a malicious payload that runs once the user installs and executes it. Automatic self-replication across the network is the property of a worm, not a Trojan. Encrypting the user's files and demanding payment is the defining behavior of ransomware. Silently relaying communications between two hosts is a man-in-the-middle attack, not a Trojan."
+    },
+    {
+      "id": "5",
+      "subject": "F",
+      "questionText": "Ransomware typically:",
+      "options": [
+        "Logs every keystroke and secretly sends it to an attacker",
+        "Displays unwanted advertisements in a browser or on the desktop",
+        "Encrypts the victim's files or locks the system and demands payment for restoration",
+        "Sniffs Wi-Fi packets travelling on an unencrypted network"
+      ],
+      "correctAnswer": "Encrypts the victim's files or locks the system and demands payment for restoration",
+      "explanation": "Ransomware's defining behaviour is to encrypt user data or lock the operating system and then demand a ransom (usually in cryptocurrency) to restore access. Logging every keystroke and sending it to an attacker is the behaviour of a keylogger. Displaying unwanted advertisements is what adware does. Passively sniffing Wi-Fi packets on an unencrypted network is a packet-sniffing / eavesdropping attack, not ransomware."
+    },
+    {
+      "id": "6",
+      "subject": "F",
+      "questionText": "In cyber security, phishing is BEST described as:",
+      "options": [
+        "A technique to compress large files for faster transmission",
+        "A hardware attack that fries the target's motherboard",
+        "A method to encrypt data before sending it over a network",
+        "The use of fraudulent messages that impersonate a trusted source to steal sensitive information"
+      ],
+      "correctAnswer": "The use of fraudulent messages that impersonate a trusted source to steal sensitive information",
+      "explanation": "Phishing is a social-engineering attack where the attacker sends messages (typically emails, SMS, or fake websites) that pretend to be from a bank, tax office, colleague, or other trusted entity, in order to trick the victim into revealing passwords, card details, or other sensitive data. File compression for faster transmission is what tools like ZIP/GZIP do — a legitimate operation, not an attack. Encrypting data before sending it is the job of protocols such as TLS/SSL, not phishing. 'Frying the motherboard' is not a category of phishing at all; that would be a physical hardware attack unrelated to fraudulent messaging."
+    },
+    {
+      "id": "7",
+      "subject": "F",
+      "questionText": "Spyware is a type of malicious software that:",
+      "options": [
+        "Secretly collects information about a user's activity and sends it to an attacker",
+        "Speeds up the CPU by overclocking it above rated frequencies",
+        "Compresses images to save storage space on the disk",
+        "Provides a user interface for managing files and folders"
+      ],
+      "correctAnswer": "Secretly collects information about a user's activity and sends it to an attacker",
+      "explanation": "Spyware installs silently and monitors user activity — browsing history, credentials, screenshots, or personal data — and exfiltrates that data to a remote attacker. Overclocking the CPU beyond rated frequencies is done deliberately by users via BIOS settings or utilities and has nothing to do with spyware. Compressing images to save storage is what an image optimizer does, a benign task. Providing a user interface for managing files is the role of a file manager such as Windows Explorer, not spyware."
+    },
+    {
+      "id": "8",
+      "subject": "F",
+      "questionText": "The primary objective of a Denial-of-Service (DoS) attack is to:",
+      "options": [
+        "Silently steal credit card numbers from the target's browser",
+        "Trick the user into revealing personal information via a fake email",
+        "Overwhelm a system with traffic or requests so that legitimate users cannot access it",
+        "Install a backdoor giving the attacker persistent shell access"
+      ],
+      "correctAnswer": "Overwhelm a system with traffic or requests so that legitimate users cannot access it",
+      "explanation": "A DoS attack floods a target service (server, network, or application) with more traffic or requests than it can handle, so legitimate users are 'denied service'. Stealing credit-card numbers via a browser is done by info-stealer malware/keyloggers or web-skimming, not DoS. Tricking the user with a fake email is phishing. Installing a backdoor for persistent shell access describes a Remote Access Trojan (RAT), not DoS."
+    },
+    {
+      "id": "9",
+      "subject": "F",
+      "questionText": "Consider the following statements about a firewall:\n\n(i) A firewall filters incoming and outgoing network traffic on the basis of pre-defined security rules.\n(ii) A firewall can be either hardware, software, or a combination of both.\n(iii) A firewall guarantees that the internal network is completely free of viruses.\n(iv) Application-layer (proxy) firewalls can inspect the payload of network packets, not just their headers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are standard, correct properties of firewalls. (iii) is false — a firewall enforces network-level rules but does not stop viruses that come through allowed channels (e.g. an infected email attachment on an allowed SMTP session); virus protection is the job of anti-malware software, not the firewall. So any option containing (iii) is wrong: '(i), (ii) and (iii) only' drops the true (iv) and includes the false (iii); '(ii), (iii) and (iv) only' includes (iii) and drops (i); '(i), (iii) and (iv) only' includes (iii) and drops (ii)."
+    },
+    {
+      "id": "10",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Regularly installing security patches and updates on an operating system reduces the risk of successful cyber attacks.\nReason (R): A password manager helps users generate and store strong, unique passwords for every account they use.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — patching closes known vulnerabilities and is a standard best practice against exploits. (R) is also correct — password managers do generate and store strong, unique passwords. However, (R) is about credential hygiene, whereas (A) is about system-level vulnerability management; they are separate defensive measures, so (R) does NOT explain (A). Thus both are correct but (R) is not the explanation of (A). The first option is wrong because (R) does not explain (A). The third option is wrong because (R) is a correct statement. The fourth option is wrong because (A) is a correct statement."
+    },
+    {
+      "id": "11",
+      "subject": "F",
+      "questionText": "Match the following cyber threats in Column I with the description that best fits each in Column II:\n\nColumn I:\n(a) Ransomware\n(b) Keylogger\n(c) Adware\n(d) Rootkit\n\nColumn II:\n(i) Records every keystroke typed by the user and sends it to an attacker\n(ii) Encrypts the victim's files and demands payment for the decryption key\n(iii) Hides the presence of malware and other malicious activity deep in the OS with elevated privileges\n(iv) Displays or downloads unwanted advertising material while the user is online\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Ransomware encrypts data and demands payment — (a)-(ii). Keyloggers record keystrokes — (b)-(i). Adware pushes advertisements — (c)-(iv). Rootkits hide themselves and other malware at OS level with elevated privileges — (d)-(iii). The first option swaps ransomware with keylogger. The third option swaps keylogger with adware and vice versa. The fourth option swaps rootkit with ransomware."
+    },
+    {
+      "id": "12",
+      "subject": "F",
+      "questionText": "Which of the following are types of malware?\n\n(i) Virus\n(ii) Worm\n(iii) Trojan horse\n(iv) Router\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (iv) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Viruses, worms and Trojan horses are all classical categories of malware — malicious software. A router is a networking device that forwards packets between networks; it is legitimate hardware, not malware. So any option including (iv) is wrong. '(i) and (iv) only' incorrectly includes the router as malware and drops the actual worms and Trojans; '(ii), (iii) and (iv) only' drops the virus (a definite malware) and adds the router; 'All of the above' wrongly counts the router as malware."
+    },
+    {
+      "id": "13",
+      "subject": "F",
+      "questionText": "The type of user authentication that verifies identity using a physical characteristic such as a fingerprint or iris scan is called __________ authentication.",
+      "options": [
+        "Password-based",
+        "Token-based",
+        "Biometric",
+        "Knowledge-based"
+      ],
+      "correctAnswer": "Biometric",
+      "explanation": "Biometric authentication uses physiological or behavioural characteristics of the user (fingerprint, iris, face, voice, etc.) to verify identity. Password-based authentication relies on something the user knows (a secret string). Token-based authentication relies on something the user has (a physical or software token). Knowledge-based authentication relies on secret answers the user knows (like security questions); none of these are physical/biological traits."
+    },
+    {
+      "id": "14",
+      "subject": "F",
+      "questionText": "The SSL/TLS protocol is primarily used on the internet to:",
+      "options": [
+        "Compress web pages for faster loading",
+        "Assign a domain name to an IP address",
+        "Encrypt data transmitted between a client and a server",
+        "Block unwanted advertisements in the browser"
+      ],
+      "correctAnswer": "Encrypt data transmitted between a client and a server",
+      "explanation": "SSL and its successor TLS wrap ordinary application traffic (HTTP, SMTP, IMAP, etc.) inside a cryptographic tunnel, protecting confidentiality and integrity end-to-end between client and server. Web-page compression is done by gzip/br within HTTP, not by TLS. Assigning a domain name to an IP address is the job of DNS. Blocking advertisements is done by ad-blocker software, not by TLS."
+    },
+    {
+      "id": "15",
+      "subject": "F",
+      "questionText": "A Virtual Private Network (VPN) primarily provides:",
+      "options": [
+        "Automatic backup of local files to the cloud",
+        "A hardware firewall built into the router",
+        "Free antivirus scanning of downloaded files",
+        "A secure, encrypted 'tunnel' between the user's device and the VPN server over the public internet"
+      ],
+      "correctAnswer": "A secure, encrypted 'tunnel' between the user's device and the VPN server over the public internet",
+      "explanation": "A VPN establishes an encrypted tunnel between the user's device and a VPN gateway, so ISPs and other observers on the path see only encrypted traffic; the user's traffic then exits from the VPN server. Automatic cloud backup is what cloud-backup services do, not VPNs. Free antivirus scanning is a feature of AV software. A hardware firewall built into a router is a physical device, not a VPN — many routers have both features but they are distinct."
+    },
+    {
+      "id": "16",
+      "subject": "F",
+      "questionText": "A digital signature attached to an electronic document is used mainly to:",
+      "options": [
+        "Reduce the file size of the document",
+        "Provide authentication of the sender and integrity of the document",
+        "Encrypt the document so nobody except the recipient can read it",
+        "Convert the document into a PDF automatically"
+      ],
+      "correctAnswer": "Provide authentication of the sender and integrity of the document",
+      "explanation": "A digital signature is created by encrypting a hash of the document with the sender's private key; the recipient verifies it with the sender's public key. This confirms who signed the document (authentication) and that its content has not been altered (integrity), and also gives non-repudiation. Reducing file size is what compression does, not signing. Encrypting the document for confidentiality is a separate operation (public-key encryption of the content itself), not signing. Converting to PDF is a document-format conversion, unrelated to signatures."
+    },
+    {
+      "id": "17",
+      "subject": "F",
+      "questionText": "Two-factor authentication (2FA) improves account security because it requires a user to present:",
+      "options": [
+        "Two different usernames belonging to the same person",
+        "The same password twice for confirmation",
+        "Two different types of evidence of identity (for example, a password AND an OTP on the phone)",
+        "A password of at least 16 characters, using two languages"
+      ],
+      "correctAnswer": "Two different types of evidence of identity (for example, a password AND an OTP on the phone)",
+      "explanation": "2FA combines two different authentication factors — typically something the user knows (password) with something the user has (phone/OTP/hardware token) or something the user is (biometric). Two usernames for the same person are just two identifiers and do not provide independent verification. Re-entering the same password is single-factor with duplication, not 2FA. A single very long password in two languages is still only one factor (something the user knows)."
+    },
+    {
+      "id": "18",
+      "subject": "F",
+      "questionText": "Which of the following is the BEST practice for creating a strong password?",
+      "options": [
+        "Use your date of birth so that you never forget it",
+        "Reuse the same password across all your important accounts",
+        "Use a common dictionary word so that autocomplete finishes it for you",
+        "Combine upper- and lower-case letters, digits, and symbols in a long, unique string"
+      ],
+      "correctAnswer": "Combine upper- and lower-case letters, digits, and symbols in a long, unique string",
+      "explanation": "A long, unique password mixing character classes drastically increases the number of possible combinations, making brute force impractical. Using your date of birth makes the password highly guessable from social-engineering sources. Reusing the same password across accounts means a single breach compromises all of them. Common dictionary words are the first things a dictionary attack tries and are considered weak."
+    },
+    {
+      "id": "19",
+      "subject": "F",
+      "questionText": "Consider the following statements about strong password practices:\n\n(i) A password should be sufficiently long (typically at least 8–12 characters).\n(ii) Different accounts should use the same password so that it is easier to remember.\n(iii) Passwords should mix upper-case, lower-case letters, digits and special symbols.\n(iv) Passwords should be changed periodically or immediately after any suspected compromise.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i), (iii) and (iv) are widely recommended password hygiene guidelines. (ii) is the OPPOSITE of good practice — reusing a single password across multiple accounts is dangerous, because compromise of one service exposes all of them. Any option including (ii) is therefore wrong: '(i), (ii) and (iii) only' includes (ii) and drops the true (iv); '(ii), (iii) and (iv) only' includes (ii) and drops the true (i); 'All of the above' wrongly accepts (ii)."
+    },
+    {
+      "id": "20",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Modern antivirus software is completely unable to detect any kind of malware, whether its signature is known or not.\nReason (R): Modern antivirus solutions combine signature-based detection with heuristic and behaviour-based analysis to catch known as well as previously unseen threats.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is false — modern antivirus routinely detects many known threats through signatures and often detects new ones through heuristic or behavioural rules. (R) is correct and accurately describes how modern antivirus works. So the answer is 'A is not correct but R is correct'. The first two options are wrong because they require (A) to be correct, which it is not. The third option is wrong because (R) is a correct statement."
+    },
+    {
+      "id": "21",
+      "subject": "F",
+      "questionText": "Match the following cyber-security concepts in Column I with the correct description in Column II:\n\nColumn I:\n(a) Encryption\n(b) Hashing\n(c) Digital signature\n(d) Firewall\n\nColumn II:\n(i) One-way transformation of data into a fixed-length value that cannot be reversed\n(ii) Reversible transformation of plaintext into ciphertext using a key\n(iii) A network security barrier that filters traffic based on rules\n(iv) A cryptographic method that authenticates the sender and preserves message integrity\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Encryption is a reversible plaintext↔ciphertext transformation using a key — (a)-(ii). Hashing is one-way, fixed length, irreversible — (b)-(i). A digital signature provides sender authentication and integrity — (c)-(iv). A firewall filters network traffic based on rules — (d)-(iii). The second option treats encryption as one-way and hashing as reversible, which reverses their definitions. The third option swaps hashing with digital signature. The fourth option swaps encryption with digital signature."
+    },
+    {
+      "id": "22",
+      "subject": "F",
+      "questionText": "Which of the following are effective preventive measures against malware infections?\n\n(i) Keeping the operating system and installed software up to date with security patches\n(ii) Installing and regularly updating a reputable antivirus / anti-malware solution\n(iii) Downloading free software only from unknown, unverified sources to save money\n(iv) Not opening email attachments or clicking links from unknown senders\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are textbook preventive measures. (iii) is exactly the OPPOSITE of good practice — untrusted sources are the classic vector for Trojans and other bundled malware; users should download software only from official / verified sources. Any option that includes (iii) is therefore wrong: '(i), (ii) and (iii) only' includes (iii) and drops the true (iv); '(ii), (iii) and (iv) only' keeps (iii) and drops the true (i); '(i), (iii) and (iv) only' keeps (iii) and drops the true (ii)."
+    },
+    {
+      "id": "23",
+      "subject": "F",
+      "questionText": "The technique in which attackers exploit human psychology (trust, fear, urgency) rather than a technical vulnerability to trick people into revealing information or performing insecure actions is called __________ engineering.",
+      "options": [
+        "Reverse",
+        "Social",
+        "Forward",
+        "Reengineering"
+      ],
+      "correctAnswer": "Social",
+      "explanation": "'Social engineering' is the well-known term for manipulating people to bypass security controls — phishing, pretexting, baiting and tailgating are all forms of it. 'Reverse engineering' is the technical act of analysing a system to understand how it works (often legitimate), not psychological manipulation. 'Forward engineering' is a term for building a new system from specifications, unrelated to security. 'Reengineering' just means redesigning a process or software; it does not describe attacks on humans."
+    },
+    {
+      "id": "24",
+      "subject": "F",
+      "questionText": "SQL injection is a web-application attack in which:",
+      "options": [
+        "The attacker floods a web server with more requests than it can handle",
+        "The attacker inserts a hardware key-logger between the keyboard and the computer",
+        "The attacker inserts malicious SQL statements into an input field so that the database executes unintended queries",
+        "The attacker sends a spoofed email pretending to be from a bank"
+      ],
+      "correctAnswer": "The attacker inserts malicious SQL statements into an input field so that the database executes unintended queries",
+      "explanation": "SQL injection abuses insufficient input validation in a web application: the attacker's crafted input becomes part of a SQL query, letting them read, modify, or bypass authentication on the underlying database. Flooding a server with requests is a Denial-of-Service (DoS) attack, not SQL injection. A physical device between keyboard and computer is a hardware keylogger — a hardware attack, not an injection. Sending a spoofed email pretending to be from a bank is phishing, not SQL injection."
+    },
+    {
+      "id": "25",
+      "subject": "F",
+      "questionText": "Cross-Site Scripting (XSS) is a vulnerability in which:",
+      "options": [
+        "The attacker injects malicious client-side scripts into a web page viewed by other users",
+        "The attacker breaks into the physical server room and steals hard disks",
+        "The attacker guesses a Wi-Fi password using a dictionary of common words",
+        "The attacker sets up a rogue Wi-Fi access point to intercept traffic"
+      ],
+      "correctAnswer": "The attacker injects malicious client-side scripts into a web page viewed by other users",
+      "explanation": "In XSS, an attacker injects JavaScript (or similar) into content that a web application serves to other users; when their browsers render the page, the script runs in their session context, enabling cookie theft, page defacement, or credential theft. Physical break-in to a server room is a physical security incident, not XSS. Guessing a Wi-Fi password with a dictionary is a brute-force / dictionary attack against Wi-Fi, not against a web application. Setting up a rogue Wi-Fi access point to intercept traffic is an Evil-Twin / man-in-the-middle attack on the wireless layer, not XSS."
+    },
+    {
+      "id": "26",
+      "subject": "F",
+      "questionText": "Consider the following statements about rootkits:\n\n(i) Rootkits are designed to gain and maintain administrative-level (privileged) access on a compromised system.\n(ii) Rootkits typically try to hide their own files, processes and network connections from the operating system's normal utilities.\n(iii) Rootkits are harmless utilities used only by system administrators to speed up their computers.\n(iv) Rootkits can be extremely difficult to detect and remove because they operate deep inside the operating system.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) correctly describe rootkits — malicious tools that acquire root privileges, hide their footprint, and are notoriously hard to detect. (iii) is completely false: rootkits are malicious by definition, not benign speed-up utilities. Any option including (iii) is therefore wrong: '(i), (ii) and (iii) only' keeps false (iii) and drops the true (iv); '(ii), (iii) and (iv) only' keeps (iii) and drops the true (i); '(i), (iii) and (iv) only' keeps (iii) and drops the true (ii)."
+    },
+    {
+      "id": "27",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Sensitive data entered on a website served over HTTPS is much less exposed to eavesdropping than the same data entered on an HTTP page.\nReason (R): HTTPS uses SSL/TLS to encrypt the traffic between the browser and the server, so an attacker on the network cannot easily read the data in transit.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — HTTPS pages protect data in transit from most passive eavesdroppers. (R) correctly describes the underlying mechanism (SSL/TLS encryption) and it directly explains (A): because the channel is encrypted, an attacker sniffing the network cannot recover plaintext. So both statements are correct and (R) explains (A). The second option is wrong because (R) does explain (A). The third and fourth options are wrong because both (A) and (R) are true."
+    },
+    {
+      "id": "28",
+      "subject": "F",
+      "questionText": "Match the following attack types in Column I with the most appropriate primary countermeasure in Column II:\n\nColumn I:\n(a) SQL injection\n(b) Denial-of-Service (DoS)\n(c) Phishing email\n(d) Wi-Fi eavesdropping\n\nColumn II:\n(i) Rate-limiting, traffic filtering and DDoS-mitigation service\n(ii) Encrypting the wireless traffic using WPA2/WPA3\n(iii) Parameterized queries and rigorous input validation\n(iv) User awareness training and email filtering with anti-phishing rules\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Parameterized queries and input validation are the standard defence against SQL injection — (a)-(iii). Rate-limiting / traffic filtering / anti-DDoS services counter DoS floods — (b)-(i). Phishing is combated primarily by user training and email filtering — (c)-(iv). Wi-Fi eavesdropping is mitigated by encrypting wireless traffic using WPA2/WPA3 — (d)-(ii). The second option pairs SQL injection with DoS mitigation and DoS with input validation. The third option swaps DoS countermeasure with phishing countermeasure. The fourth option pairs SQL injection with anti-phishing training and Wi-Fi eavesdropping with DoS mitigation."
+    },
+    {
+      "id": "29",
+      "subject": "F",
+      "questionText": "Which of the following are legitimate authentication factors used in multi-factor authentication (MFA)?\n\n(i) Something the user knows (e.g. a password or PIN)\n(ii) Something the user has (e.g. a hardware token or mobile phone receiving OTP)\n(iii) Something the user is (e.g. fingerprint, iris or face)\n(iv) Something the browser has cached previously (e.g. a random URL)\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "The three classical MFA factors are: something you know (i), something you have (ii), and something you are (iii). A cached random URL in the browser is not a recognized authentication factor — anything the browser has cached is trivially accessible to any user of the machine and provides no reliable identity guarantee, so (iv) is wrong. Any option including (iv) is therefore wrong: '(i), (ii) and (iv) only' drops the true (iii) and adds the false (iv); '(i), (iii) and (iv) only' drops the true (ii) and adds (iv); 'All of the above' incorrectly accepts (iv) as a factor."
+    },
+    {
+      "id": "30",
+      "subject": "F",
+      "questionText": "Spear phishing differs from generic phishing mainly because spear phishing:",
+      "options": [
+        "Uses only voice calls instead of emails",
+        "Targets a specific individual or organization using personalized, well-researched details",
+        "Is a technical attack on a hardware firewall",
+        "Is completely random and sent to millions of email addresses"
+      ],
+      "correctAnswer": "Targets a specific individual or organization using personalized, well-researched details",
+      "explanation": "Spear phishing is a targeted variant of phishing in which the attacker researches a specific victim (their employer, colleagues, recent activity) and crafts a highly personalized message so it looks credible. Voice-only phishing is called vishing, not spear phishing. A technical attack on a hardware firewall would be a network exploit, not phishing. Random, bulk email sent to millions is exactly the generic phishing that spear phishing is contrasted with — that is the OPPOSITE of the correct answer."
+    },
+    {
+      "id": "31",
+      "subject": "F",
+      "questionText": "'Whaling' in cyber security refers to:",
+      "options": [
+        "A phishing attack aimed at high-profile targets such as CEOs, CFOs and other senior executives",
+        "A DoS attack that saturates the target's Wi-Fi bandwidth",
+        "The practice of ethical hackers hunting for bug bounties",
+        "Encrypting personal files with a strong algorithm before backup"
+      ],
+      "correctAnswer": "A phishing attack aimed at high-profile targets such as CEOs, CFOs and other senior executives",
+      "explanation": "Whaling is a phishing sub-type that specifically targets 'big fish' — senior executives whose accounts often have access to sensitive data or authorisation to move funds. Saturating Wi-Fi bandwidth is a wireless DoS attack, not phishing. Ethical hackers hunting for bug bounties are doing responsible security research, which is not a category of attack at all. Encrypting personal files before backup is a legitimate data-protection practice, unrelated to phishing terminology."
+    },
+    {
+      "id": "32",
+      "subject": "F",
+      "questionText": "Consider the following statements about the Information Technology (IT) Act, 2000 of India:\n\n(i) It provides legal recognition to electronic records and digital signatures.\n(ii) It defines certain cyber-crimes such as hacking, identity theft, and publishing obscene material electronically.\n(iii) It applies only to individuals within Union Territories of India.\n(iv) It has been amended (notably in 2008) to strengthen provisions on cyber terrorism and data protection.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are correct facts about the IT Act, 2000 and its 2008 amendment. (iii) is false — the IT Act applies to the whole of India (and, with certain provisions, to offences committed outside India by any person if they involve a computer or network located in India); it is not restricted to Union Territories. So any option including (iii) is wrong: '(i), (ii) and (iii) only' drops the true (iv) and keeps (iii); '(ii), (iii) and (iv) only' drops the true (i) and keeps (iii); '(i), (iii) and (iv) only' drops the true (ii) and keeps (iii)."
+    },
+    {
+      "id": "33",
+      "subject": "F",
+      "questionText": "A botnet is:",
+      "options": [
+        "A backup solution that stores robotic control programs",
+        "A set of chatbots deployed by a company for customer support",
+        "A network of routers configured for load balancing",
+        "A network of internet-connected devices infected with malware and remotely controlled by an attacker"
+      ],
+      "correctAnswer": "A network of internet-connected devices infected with malware and remotely controlled by an attacker",
+      "explanation": "A botnet is a collection of compromised machines ('bots') that receive commands from a command-and-control (C2) server operated by an attacker; botnets are often used for DDoS, spam, or click-fraud. A backup solution for robotic control programs is neither a standard product nor the meaning of the term 'botnet'. A network of routers configured for load balancing is a networking topology, not malicious. Chatbots for customer support are legitimate conversational agents — the fact that they use the word 'bot' does not make them a botnet in the cyber-security sense."
+    },
+    {
+      "id": "34",
+      "subject": "F",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A rootkit installed on a computer is very difficult to detect and remove using ordinary user-level utilities.\nReason (R): Rootkits are always tiny, harmless configuration files that only change the appearance of the desktop wallpaper.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — rootkits operate at kernel or hypervisor level with elevated privileges and can hide their own processes, files and network connections, making detection by ordinary utilities very difficult. (R) is false — rootkits are malicious software designed to conceal unauthorized activity, not harmless wallpaper tools. So the correct choice is 'A is correct but R is not correct'. The first two options are wrong because they require (R) to be correct. The fourth option is wrong because (A) is a correct statement."
+    },
+    {
+      "id": "35",
+      "subject": "F",
+      "questionText": "Match the following security concepts in Column I with the correct example / description in Column II:\n\nColumn I:\n(a) Confidentiality\n(b) Integrity\n(c) Availability\n(d) Non-repudiation\n\nColumn II:\n(i) A hash of the message allows the receiver to verify that it was not altered in transit\n(ii) The service must remain accessible to authorised users even under load\n(iii) Encrypting a file with a key so that only authorised users can read its contents\n(iv) A digital signature ensures that the sender cannot later deny having sent the message\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Confidentiality is about keeping data secret from unauthorised parties → encryption example (a)-(iii). Integrity is about detecting alteration → hash check (b)-(i). Availability is about ensuring the service is reachable when needed (c)-(ii). Non-repudiation prevents the sender from denying the action → digital signature (d)-(iv). The first option swaps integrity with availability. The third option swaps confidentiality with availability, and integrity with confidentiality. The fourth option swaps confidentiality with integrity, and non-repudiation with availability."
+    },
+    {
+      "id": "36",
+      "subject": "F",
+      "questionText": "Which of the following are recommended safe browsing / safe internet-use practices?\n\n(i) Prefer sites whose URLs begin with 'https://' and show a valid padlock icon\n(ii) Ignore browser warnings about invalid or expired security certificates\n(iii) Log out of accounts on shared or public computers when finished\n(iv) Avoid clicking on shortened or suspicious links whose destination is unclear\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i), (iii) and (iv) are standard safe-browsing habits. (ii) is the OPPOSITE of good practice — a browser warning about an invalid or expired certificate is a red flag that the site may be spoofed or intercepted, and it must NOT be ignored. Any option including (ii) is therefore wrong: '(i), (ii) and (iii) only' drops the true (iv) and includes false (ii); '(ii), (iii) and (iv) only' drops the true (i) and includes false (ii); 'All of the above' incorrectly accepts (ii) as safe."
+    },
+    {
+      "id": "37",
+      "subject": "F",
+      "questionText": "A 'zero-day exploit' refers to an attack that:",
+      "options": [
+        "Takes exactly zero seconds to complete",
+        "Exploits a software vulnerability that is unknown to the vendor and for which no patch is yet available",
+        "Only works on 1 January (day zero of the year)",
+        "Requires zero user interaction and only works when the computer is turned off"
+      ],
+      "correctAnswer": "Exploits a software vulnerability that is unknown to the vendor and for which no patch is yet available",
+      "explanation": "'Zero-day' refers to the fact that the vendor has had zero days to fix the vulnerability, because it is being (or has just been) exploited before any patch exists. It has nothing to do with the literal time an attack takes. It is not tied to any specific calendar date. And a computer that is turned off cannot be exploited at all, so the 'zero user interaction while off' option is nonsensical."
+    },
+    {
+      "id": "38",
+      "subject": "F",
+      "questionText": "A brute-force attack against a password-protected account typically:",
+      "options": [
+        "Encrypts the account's files as ransomware does",
+        "Sends a fake login page in an email to the user",
+        "Exploits a known 0-day flaw in the operating system kernel",
+        "Systematically tries a very large number of possible passwords until one succeeds"
+      ],
+      "correctAnswer": "Systematically tries a very large number of possible passwords until one succeeds",
+      "explanation": "In a brute-force attack, the attacker (usually via automated tools) tries password after password — either exhaustively or via a dictionary — until the correct one is found or the attack is stopped. Encrypting the account's files is ransomware behaviour, not password guessing. Exploiting a 0-day kernel flaw is a vulnerability exploit, not password guessing. Sending a fake login page in an email is phishing, which tries to trick the user into revealing the password rather than guessing it."
+    },
+    {
+      "id": "39",
+      "subject": "F",
+      "questionText": "Consider the following statements about social engineering attacks:\n\n(i) They exploit human trust and behaviour rather than a purely technical vulnerability.\n(ii) Phishing, vishing (voice phishing) and smishing (SMS phishing) are examples of social engineering.\n(iii) Employee awareness training is a key defence against social engineering attacks.\n(iv) Social engineering attacks always require the attacker to be physically present at the victim's location.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) correctly describe social engineering and its defences. (iv) is false — most social engineering (email phishing, phone vishing, SMS smishing) is carried out remotely; physical presence is not required. Any option including (iv) is therefore wrong: '(ii), (iii) and (iv) only' includes false (iv) and drops true (i); '(i), (ii) and (iv) only' includes false (iv) and drops true (iii); '(i), (iii) and (iv) only' includes false (iv) and drops true (ii)."
+    },
+    {
+      "id": "40",
+      "subject": "F",
+      "questionText": "In a man-in-the-middle (MITM) attack, the attacker:",
+      "options": [
+        "Physically damages fibre-optic cables between two data centres",
+        "Positions themselves between two communicating parties to secretly relay and possibly alter their communication",
+        "Overwrites the master boot record of the target machine",
+        "Encrypts the disk and demands a ransom to restore access"
+      ],
+      "correctAnswer": "Positions themselves between two communicating parties to secretly relay and possibly alter their communication",
+      "explanation": "An MITM attacker inserts themselves in the communication path — for example on an open Wi-Fi network — and can read, modify, or inject traffic while making each side believe it is talking directly to the other. Physically damaging fibre cables is a sabotage attack on availability, not an MITM attack. Overwriting the master boot record is a boot-sector malware attack. Encrypting the disk and demanding a ransom is ransomware — a completely different threat class."
+    }
+  ]
+}

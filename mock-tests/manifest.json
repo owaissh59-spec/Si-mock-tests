@@ -833,7 +833,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "55_test_E_statistics.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 56,
@@ -848,7 +848,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "56_test_F_cyber-security.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 57,
@@ -863,7 +863,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "57_test_A_relations-directions.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 58,

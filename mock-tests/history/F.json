@@ -1,7 +1,7 @@
 {
   "subject": "F",
   "subject_name": "Computer Proficiency",
-  "count": 335,
+  "count": 375,
   "questions": [
     {
       "test": 6,
@@ -1677,6 +1677,206 @@
       "test": 50,
       "stem": "which of the following is a wide-area network (wan) protocol used for",
       "key": "PPP (Point-to-Point Protocol)"
+    },
+    {
+      "test": 56,
+      "stem": "the general term used to describe any software specifically designed to harm,",
+      "key": "Malware"
+    },
+    {
+      "test": 56,
+      "stem": "which of the following best describes a computer virus?",
+      "key": "A malicious program that attaches itself to a host file and needs user action..."
+    },
+    {
+      "test": 56,
+      "stem": "a worm differs from a computer virus mainly because a worm:",
+      "key": "Can self-replicate and spread across networks without user intervention"
+    },
+    {
+      "test": 56,
+      "stem": "a trojan horse is malicious software that:",
+      "key": "Disguises itself as a legitimate program to trick the user into installing it"
+    },
+    {
+      "test": 56,
+      "stem": "ransomware typically:",
+      "key": "Encrypts the victim's files or locks the system and demands payment for resto..."
+    },
+    {
+      "test": 56,
+      "stem": "in cyber security, phishing is best described as:",
+      "key": "The use of fraudulent messages that impersonate a trusted source to steal sen..."
+    },
+    {
+      "test": 56,
+      "stem": "spyware is a type of malicious software that:",
+      "key": "Secretly collects information about a user's activity and sends it to an atta..."
+    },
+    {
+      "test": 56,
+      "stem": "the primary objective of a denial-of-service (dos) attack is to:",
+      "key": "Overwhelm a system with traffic or requests so that legitimate users cannot a..."
+    },
+    {
+      "test": 56,
+      "stem": "consider the following statements about a firewall: (i) a firewall filters incoming",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 56,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 56,
+      "stem": "match the following cyber threats in column i with the description that",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 56,
+      "stem": "which of the following are types of malware? (i) virus (ii) worm",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 56,
+      "stem": "the type of user authentication that verifies identity using a physical characteristic",
+      "key": "Biometric"
+    },
+    {
+      "test": 56,
+      "stem": "the ssl/tls protocol is primarily used on the internet to:",
+      "key": "Encrypt data transmitted between a client and a server"
+    },
+    {
+      "test": 56,
+      "stem": "a virtual private network (vpn) primarily provides:",
+      "key": "A secure, encrypted 'tunnel' between the user's device and the VPN server ove..."
+    },
+    {
+      "test": 56,
+      "stem": "a digital signature attached to an electronic document is used mainly to:",
+      "key": "Provide authentication of the sender and integrity of the document"
+    },
+    {
+      "test": 56,
+      "stem": "two-factor authentication (2fa) improves account security because it requires a user to",
+      "key": "Two different types of evidence of identity (for example, a password AND an O..."
+    },
+    {
+      "test": 56,
+      "stem": "which of the following is the best practice for creating a strong",
+      "key": "Combine upper- and lower-case letters, digits, and symbols in a long, unique ..."
+    },
+    {
+      "test": 56,
+      "stem": "consider the following statements about strong password practices: (i) a password should",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 56,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 56,
+      "stem": "match the following cyber-security concepts in column i with the correct description",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 56,
+      "stem": "which of the following are effective preventive measures against malware infections? (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 56,
+      "stem": "the technique in which attackers exploit human psychology (trust, fear, urgency) rather",
+      "key": "Social"
+    },
+    {
+      "test": 56,
+      "stem": "sql injection is a web-application attack in which:",
+      "key": "The attacker inserts malicious SQL statements into an input field so that the..."
+    },
+    {
+      "test": 56,
+      "stem": "cross-site scripting (xss) is a vulnerability in which:",
+      "key": "The attacker injects malicious client-side scripts into a web page viewed by ..."
+    },
+    {
+      "test": 56,
+      "stem": "consider the following statements about rootkits: (i) rootkits are designed to gain",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 56,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 56,
+      "stem": "match the following attack types in column i with the most appropriate",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 56,
+      "stem": "which of the following are legitimate authentication factors used in multi-factor authentication",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 56,
+      "stem": "spear phishing differs from generic phishing mainly because spear phishing:",
+      "key": "Targets a specific individual or organization using personalized, well-resear..."
+    },
+    {
+      "test": 56,
+      "stem": "'whaling' in cyber security refers to:",
+      "key": "A phishing attack aimed at high-profile targets such as CEOs, CFOs and other ..."
+    },
+    {
+      "test": 56,
+      "stem": "consider the following statements about the information technology (it) act, 2000 of",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 56,
+      "stem": "a botnet is:",
+      "key": "A network of internet-connected devices infected with malware and remotely co..."
+    },
+    {
+      "test": 56,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 56,
+      "stem": "match the following security concepts in column i with the correct example",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 56,
+      "stem": "which of the following are recommended safe browsing / safe internet-use practices?",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 56,
+      "stem": "a 'zero-day exploit' refers to an attack that:",
+      "key": "Exploits a software vulnerability that is unknown to the vendor and for which..."
+    },
+    {
+      "test": 56,
+      "stem": "a brute-force attack against a password-protected account typically:",
+      "key": "Systematically tries a very large number of possible passwords until one succ..."
+    },
+    {
+      "test": 56,
+      "stem": "consider the following statements about social engineering attacks: (i) they exploit human",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 56,
+      "stem": "in a man-in-the-middle (mitm) attack, the attacker:",
+      "key": "Positions themselves between two communicating parties to secretly relay and ..."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 359,
+  "count": 409,
   "questions": [
     {
       "test": 1,
@@ -1797,6 +1797,256 @@
       "test": 51,
       "stem": "in an unfolded net of a cube, if squares a, b, c,",
       "key": "D"
+    },
+    {
+      "test": 57,
+      "stem": "a is b's father. c is b's mother. d is b's sister.",
+      "key": "Father"
+    },
+    {
+      "test": 57,
+      "stem": "introducing a girl, vinit said, 'her mother is the only daughter of",
+      "key": "Father"
+    },
+    {
+      "test": 57,
+      "stem": "pointing to a boy, rahul said, 'he is the son of the",
+      "key": "Nephew"
+    },
+    {
+      "test": 57,
+      "stem": "consider the following statements about family relationships: (i) the mother of my",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 57,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 57,
+      "stem": "match the description of x in column i with the correct relation",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 57,
+      "stem": "in a family, p is the father of both r and s.",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "the son of my father's sister is my __________.",
+      "key": "Cousin"
+    },
+    {
+      "test": 57,
+      "stem": "rahul said, 'she is the only daughter of the wife of my",
+      "key": "Niece"
+    },
+    {
+      "test": 57,
+      "stem": "k is the mother of l, and l is a girl. m",
+      "key": "Sister"
+    },
+    {
+      "test": 57,
+      "stem": "consider the following statements about family relationships: (i) every person biologically has",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 57,
+      "stem": "rajiv introduced meena by saying, 'she is the daughter of the only",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "introducing a person, neelam said, 'his wife is the only daughter of",
+      "key": "Wife"
+    },
+    {
+      "test": 57,
+      "stem": "a is b's brother. c is d's father. e is b's mother.",
+      "key": "Wife"
+    },
+    {
+      "test": 57,
+      "stem": "in a certain notation, a × b means a is the sister",
+      "key": "M × P ÷ N"
+    },
+    {
+      "test": 57,
+      "stem": "in a family of 6 members: a is married to b; c",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 57,
+      "stem": "a person is facing north-east. he turns 135° clockwise. which direction is",
+      "key": "South"
+    },
+    {
+      "test": 57,
+      "stem": "ravi starts from point p, walks 8 km north, turns right and",
+      "key": "6 km"
+    },
+    {
+      "test": 57,
+      "stem": "a car starts from point a, moves 12 km east, then 5",
+      "key": "5 km"
+    },
+    {
+      "test": 57,
+      "stem": "standing at point p and facing south, rani turns 90° anticlockwise, walks",
+      "key": "North"
+    },
+    {
+      "test": 57,
+      "stem": "consider the following statements about direction sense: (i) at sunrise, if you",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 57,
+      "stem": "match the direction-turn in column i with the resulting facing direction if",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 57,
+      "stem": "which of the following pairs of directions are perpendicular (90° apart) to",
+      "key": "All of the above"
+    },
+    {
+      "test": 57,
+      "stem": "when a person turns from facing east directly to facing west, he",
+      "key": "180"
+    },
+    {
+      "test": 57,
+      "stem": "two friends p and q start from the same point. p walks",
+      "key": "13 km"
+    },
+    {
+      "test": 57,
+      "stem": "rita walks 15 m north, then 20 m east, then 15 m",
+      "key": "20 m"
+    },
+    {
+      "test": 57,
+      "stem": "consider the following statements about direction sense: (i) if you face the",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 57,
+      "stem": "match the observation in column i with the correct direction in column",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 57,
+      "stem": "in a coded direction system, north is called east, east is called",
+      "key": "South"
+    },
+    {
+      "test": 57,
+      "stem": "which of the following statements about compass directions are correct? (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "starting from home, ali walked 4 km east, then 3 km north,",
+      "key": "8 km"
+    },
+    {
+      "test": 57,
+      "stem": "a traveller starts at point o, walks 10 km south, and then",
+      "key": "26 km"
+    },
+    {
+      "test": 57,
+      "stem": "in a class of 45 students, priya's rank is 15th from the",
+      "key": "31"
+    },
+    {
+      "test": 57,
+      "stem": "in a row of students, sam is 12th from the left end",
+      "key": "19"
+    },
+    {
+      "test": 57,
+      "stem": "consider the following statements about ranking in a row of n persons:",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 57,
+      "stem": "match the ranking scenarios in column i with the correct derived values",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 57,
+      "stem": "consider the following statements about a queue: (i) the person at the",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 57,
+      "stem": "in a class of 30 students, neha is 8th from the top.",
+      "key": "13"
+    },
+    {
+      "test": 57,
+      "stem": "in a race, deepak finished ahead of 15 participants and behind 12",
+      "key": "28"
+    },
+    {
+      "test": 57,
+      "stem": "five girls a, b, c, d, e are sitting in a row",
+      "key": "All of the above"
+    },
+    {
+      "test": 57,
+      "stem": "match the ranking clues in column i with the correctly derived information",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 57,
+      "stem": "in a class, anjali's rank is 18th from the top and 12th",
+      "key": "29"
+    },
+    {
+      "test": 57,
+      "stem": "in a row of 30 students, anil is 15th from the left.",
+      "key": "23"
+    },
+    {
+      "test": 57,
+      "stem": "in a row of 40 students, ravi is 12th from the top",
+      "key": "13"
+    },
+    {
+      "test": 57,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 57,
+      "stem": "in a row of 25 students, a is 5th from the left,",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 57,
+      "stem": "in a row of 32 children, a girl's position is 12th from",
+      "key": "21"
     }
   ]
 }

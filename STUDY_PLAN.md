@@ -161,9 +161,9 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 55 | Morning | E — Mathematical Abilities | Statistics: Tables, Graphs & Central Tendency | 30 | standard | Topic-wise | ⬜ |
-| 56 | Afternoon | F — Computer Proficiency | Cyber Security: Threats & Prevention | 40 | standard | Topic-wise | ⬜ |
-| 57 | Late | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 50 | standard | Topic-wise | ⬜ |
+| 55 | Morning | E — Mathematical Abilities | Statistics: Tables, Graphs & Central Tendency | 30 | standard | Topic-wise | ✅ |
+| 56 | Afternoon | F — Computer Proficiency | Cyber Security: Threats & Prevention | 40 | standard | Topic-wise | ✅ |
+| 57 | Late | A — General Intelligence & Reasoning | Blood Relations, Direction Sense, Order & Ranking | 50 | standard | Topic-wise | ✅ |
 
 ### Day 20
 

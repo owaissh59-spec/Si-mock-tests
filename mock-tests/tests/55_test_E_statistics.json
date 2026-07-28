@@ -1,0 +1,332 @@
+{
+  "subject": "E",
+  "topic": "Statistics: Tables, Graphs & Central Tendency",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "What is the arithmetic mean of the first six natural numbers?",
+      "options": ["3.0", "4.0", "4.5", "3.5"],
+      "correctAnswer": "3.5",
+      "explanation": "The first six natural numbers are 1, 2, 3, 4, 5, 6. Their sum is 21, and there are 6 numbers, so the arithmetic mean is 21 / 6 = 3.5. 3.0 is wrong (it is the mean of 1 through 5, not 1 through 6). 4.0 is wrong (that would be the mean of 1 through 7, i.e. 28/7). 4.5 is wrong (that is the median of the first eight natural numbers, not the mean of the first six)."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "In a data set arranged in ascending order, the middle-most value is called the:",
+      "options": ["Mean", "Mode", "Range", "Median"],
+      "correctAnswer": "Median",
+      "explanation": "By definition, when raw data are arranged in ascending (or descending) order, the middle-most observation is the median; it splits the data into two equal halves. 'Mean' is wrong because it is the average (sum divided by count), not the middle value. 'Mode' is wrong because it is the value that occurs with the highest frequency. 'Range' is wrong because it is the difference between the largest and smallest observations, not a positional value."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Consider the following statements about measures of central tendency:\n\n(i) The arithmetic mean is the sum of all observations divided by their number.\n(ii) The median divides an ordered data set into two equal halves.\n(iii) The mode is always unique for any given data set.\n(iv) The arithmetic mean is affected by extreme values (outliers).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statements (i), (ii) and (iv) are standard definitions/properties of the mean and median and the well-known 'outlier sensitivity' of the mean. Statement (iii) is false: a data set can be bimodal (two modes), multimodal, or have no mode at all when every value occurs the same number of times. Therefore any option that includes (iii) is wrong: '(i), (ii) and (iii) only' includes the false (iii) and drops the true (iv); '(ii), (iii) and (iv) only' also keeps (iii); 'All of the above' incorrectly accepts (iii). Only '(i), (ii) and (iv) only' picks exactly the true statements."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The arithmetic mean of a set of observations is always affected by the presence of extreme values.\nReason (R): The arithmetic mean is computed by summing all observations and dividing by the number of observations, so every value — including any extreme value — contributes to it.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the mean shifts whenever any observation shifts, so extreme values pull it up or down. (R) is a correct definition of the mean and it directly explains why (A) is true: because every value enters the sum, an extreme value contributes disproportionately to the numerator while the denominator (count) is unchanged. So the answer is that both are correct and (R) is the correct explanation of (A). The second option is wrong because (R) does directly explain (A). The third and fourth options are wrong because both (A) and (R) are correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "The mean of five numbers is 20. If one number is removed, the mean of the remaining four numbers becomes 18. Which number was removed?",
+      "options": ["24", "26", "28", "30"],
+      "correctAnswer": "28",
+      "explanation": "Sum of the five numbers = 5 × 20 = 100. Sum of the remaining four = 4 × 18 = 72. So the removed number = 100 − 72 = 28. 24 is wrong (would leave a sum of 76, mean 19, not 18). 26 is wrong (would leave sum 74, mean 18.5). 30 is wrong (would leave sum 70, mean 17.5)."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Match the following graph types with their most suitable use:\n\nColumn I:\n(a) Pie chart\n(b) Histogram\n(c) Frequency polygon\n(d) Bar diagram\n\nColumn II:\n(i) Comparing quantities across discrete categories using rectangles with equal spacing between them\n(ii) Showing parts of a whole as percentages using angular sectors of a circle\n(iii) Representing frequency distribution of continuous data with adjacent rectangles of equal class width\n(iv) A line graph obtained by joining midpoints of the tops of the bars of a histogram\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "A pie chart shows parts of a whole in angular sectors — (a)-(ii). A histogram represents frequency distribution of continuous data with adjacent rectangles — (b)-(iii). A frequency polygon is obtained by joining midpoints of the tops of histogram bars — (c)-(iv). A bar diagram compares discrete categories with spaced rectangles — (d)-(i). The second option swaps pie chart with histogram and misplaces the rest. The third option wrongly pairs histogram with frequency polygon and frequency polygon with histogram. The fourth option wrongly pairs pie chart with continuous-data representation and bar diagram with parts of a whole."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "A pie chart represents the whole data as a total central angle of:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctAnswer": "360°",
+      "explanation": "A pie chart is a full circle, and a complete circle subtends 360° at its centre; each component gets an angle proportional to its share, all summing to 360°. 90° is only a quadrant; 180° is only a semicircle; 270° is three-quarters of a circle — none of these represent the whole data."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Which of the following are measures of central tendency?\n\n(i) Arithmetic mean\n(ii) Median\n(iii) Standard deviation\n(iv) Mode\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Mean, median and mode are the three classical measures of central tendency — they describe the 'centre' of a distribution. Standard deviation is a measure of dispersion (spread), not central tendency, so any option including (iii) is incorrect. '(i), (iii) and (iv) only' wrongly keeps standard deviation and drops the median; '(ii), (iii) and (iv) only' also keeps standard deviation and drops the mean; 'All of the above' wrongly counts standard deviation as central tendency."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "In the data set 4, 6, 6, 7, 8, 6, 9 the mode is __________.",
+      "options": ["6", "4", "7", "8"],
+      "correctAnswer": "6",
+      "explanation": "The mode is the value occurring most frequently. Here 6 appears three times, while 4, 7, 8 and 9 each appear only once, so the mode is 6. 4 appears just once so cannot be the mode. 7 also appears only once. 8 also appears only once. None of these match the criterion of the highest frequency."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "The following table shows the marks obtained by 5 students in a class test:\n\nStudent : Marks\nA : 45\nB : 60\nC : 55\nD : 70\nE : 50\n\nWhat is the mean of these marks?",
+      "options": ["54", "55", "58", "56"],
+      "correctAnswer": "56",
+      "explanation": "Sum of marks = 45 + 60 + 55 + 70 + 50 = 280. Number of students = 5. Mean = 280 / 5 = 56. 54 is wrong (that would be a sum of 270). 55 is the median of the five marks (the middle value in sorted order 45, 50, 55, 60, 70), not the mean. 58 is wrong (that would be a sum of 290)."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "A histogram is most appropriately used to represent:",
+      "options": [
+        "Frequency distribution of discrete data",
+        "Comparison of two variables over time",
+        "Percentage share of components in a whole",
+        "Frequency distribution of continuous grouped data"
+      ],
+      "correctAnswer": "Frequency distribution of continuous grouped data",
+      "explanation": "A histogram uses adjacent rectangles (no gaps) whose widths equal the class widths of a continuous frequency distribution and whose heights are proportional to the frequencies. Discrete data is normally shown with a bar diagram whose bars are separated, not with a histogram. Comparing two variables over time is done with a line/time-series chart. Percentage share of components in a whole is what a pie chart is designed for. Only the option 'Frequency distribution of continuous grouped data' matches the definition of a histogram."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Consider the following statements about a grouped frequency distribution:\n\n(i) Class width is the difference between the upper and lower limits of a class.\n(ii) The mid-value of a class equals (upper limit + lower limit) / 2.\n(iii) The sum of all class frequencies equals the total number of observations.\n(iv) In an exclusive class interval such as 10–20, the value 20 is included in the class 10–20.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are standard definitions and always hold. (iv) is false: in the exclusive method, the upper limit of a class is NOT included in that class — the value 20 belongs to the next class 20–30, not to 10–20. So any option containing (iv) is wrong: '(i), (ii) and (iv) only' drops the true (iii) and keeps false (iv); '(ii), (iii) and (iv) only' keeps false (iv) and drops true (i); 'All of the above' wrongly accepts (iv)."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "For an ungrouped data set of 9 observations arranged in ascending order, the median is the value of the:",
+      "options": [
+        "4th observation",
+        "5th observation",
+        "9/2 th observation",
+        "Average of the 4th and 5th observations"
+      ],
+      "correctAnswer": "5th observation",
+      "explanation": "For n observations with n odd, the median is the value of the ((n + 1)/2)-th observation. With n = 9, the median is the ((9 + 1)/2) = 5th observation in the ordered list. The 4th observation is not the median — it falls below the middle. 9/2 = 4.5 is not an actual position; positions in ungrouped data must be positive integers. Averaging the 4th and 5th observations is the rule for an even count (like n = 8), not for n = 9."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Match each statistical quantity in Column I with the property in Column II that best describes it:\n\nColumn I:\n(a) Mean\n(b) Median\n(c) Mode\n(d) Range\n\nColumn II:\n(i) Value that occurs with the highest frequency in the data\n(ii) Difference between the largest and the smallest observation\n(iii) Sum of all observations divided by the number of observations\n(iv) Middle value of the data when arranged in order\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Mean = sum ÷ count, so (a)-(iii). Median = middle value of ordered data, so (b)-(iv). Mode = most frequent value, so (c)-(i). Range = largest − smallest, so (d)-(ii). The first option pairs median with 'most frequent' and mode with 'middle value', which reverses those two definitions. The second option pairs the mean with the range formula, which is a measure of dispersion, not central tendency. The third option pairs the mean with 'middle value' and the range with 'most frequent value', both of which are wrong."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "In a perfectly symmetrical distribution, the values of the mean, median and mode are:",
+      "options": [
+        "Different from each other with mean the largest",
+        "In the fixed ratio 3 : 2 : 1 respectively",
+        "All equal to one another",
+        "Related by Mode = 3 Median − 2 Mean only"
+      ],
+      "correctAnswer": "All equal to one another",
+      "explanation": "For a perfectly symmetrical distribution (for example the normal curve), the mean, median and mode all coincide at the axis of symmetry, so they are all equal. The first option is what happens in a positively skewed distribution, not in a symmetric one. The ratio 3 : 2 : 1 is not a general statistical rule. The empirical relation Mode ≈ 3 Median − 2 Mean is only an approximation for moderately skewed distributions, not for perfectly symmetric ones (where all three are already equal), so restricting to only that relation is incorrect."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The median is a more reliable measure of central tendency than the mean when the data contain extreme outliers.\nReason (R): The median is computed by using every value in the data set with equal weight.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: the median depends only on the middle order-value, so outliers do not distort it the way they distort the mean. (R) is not correct: the median actually depends only on the ordered position of the middle observation, not on all values with equal weight — that is the mean's property, not the median's. So the correct choice is 'A is correct but R is not correct'. The first option is wrong because R is false; the second option is wrong for the same reason; the fourth option is wrong because A is true."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following are types of statistical graphs commonly used to display data?\n\n(i) Bar diagram\n(ii) Pie chart\n(iii) Histogram\n(iv) Frequency polygon\n\nSelect the correct combination:",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Bar diagram, pie chart, histogram and frequency polygon are all recognized types of statistical graphs — each with its own use-case (categorical comparison, parts of a whole, continuous frequency distribution, and line-based frequency representation, respectively). '(i) and (ii) only' incorrectly excludes histograms and frequency polygons which are standard graphical tools. '(i), (ii) and (iii) only' excludes the frequency polygon, which is definitely a statistical graph. '(ii), (iii) and (iv) only' excludes the bar diagram, which is one of the most commonly used statistical graphs."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "A bar diagram is most suitable for representing:",
+      "options": [
+        "Continuous data grouped in class intervals with no gaps",
+        "Discrete data compared across separate categories",
+        "Percentage share of the components in a total whole",
+        "Cumulative frequency curve of grouped data"
+      ],
+      "correctAnswer": "Discrete data compared across separate categories",
+      "explanation": "A bar diagram uses separated rectangular bars of equal width whose heights represent the values for distinct, discrete categories (e.g., months, subjects, states). Continuous grouped data with no gaps is represented by a histogram, not a bar diagram. Percentage share of components in a whole is best shown by a pie chart. Cumulative frequency is graphed by an ogive, not by a bar diagram."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Consider the following statements about the standard deviation (σ) of a data set:\n\n(i) It is always non-negative.\n(ii) It is measured in the same units as the original observations.\n(iii) Its square is called the variance.\n(iv) It is always smaller than the range of the data.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is true: standard deviation is the positive square root of variance, so σ ≥ 0 always. (ii) is true: because we take a square root, σ has the same units as the data (unlike variance, which has squared units). (iii) is true by definition: variance = σ². (iv) is not universally true — for very small samples or highly spread data, σ may be less than the range but this is not a general theorem, and for a 2-observation sample σ can equal half the range, so it is not a defining property. '(i) and (ii) only' misses the true (iii). '(ii), (iii) and (iv) only' misses the true (i) and keeps the non-general (iv). '(i), (iii) and (iv) only' misses the true (ii) and keeps the non-general (iv)."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "In a cumulative frequency distribution, the cumulative frequency of the last class is equal to:",
+      "options": [
+        "The class width of that class",
+        "The frequency of the last class alone",
+        "The total number of observations in the data set",
+        "The mean of the data set"
+      ],
+      "correctAnswer": "The total number of observations in the data set",
+      "explanation": "Cumulative frequency at any class is the sum of the frequencies of that class and all previous classes; by the time we reach the last class, we have summed every frequency, so it equals the total number of observations N. Class width is the difference between the upper and lower limits of a class — a different quantity altogether. The frequency of the last class alone is only the last term, not the cumulative sum. The mean is a measure of location computed as Σfx/Σf, not a running total."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The following bar diagram data shows the number of books read by four students in a month:\n\nStudent P : 4\nStudent Q : 7\nStudent R : 5\nStudent S : 8\n\nWhat is the median number of books read by the four students?",
+      "options": ["5", "5.5", "6", "6.5"],
+      "correctAnswer": "6",
+      "explanation": "Arrange the four values in ascending order: 4, 5, 7, 8. For an even number of observations, the median is the average of the two middle values, i.e. (5 + 7)/2 = 6. 5 is the second value (Q2 lower bound), not the median. 5.5 would be (4 + 7)/2, which uses the wrong pair of middle values. 6.5 would be (5 + 8)/2, which also uses a wrong pair — the middle two of the ordered list are 5 and 7, not 5 and 8."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The range of the data set 12, 18, 25, 9, 14, 20 is:",
+      "options": ["16", "11", "14", "18"],
+      "correctAnswer": "16",
+      "explanation": "Range = largest observation − smallest observation. The largest value here is 25 and the smallest is 9, so range = 25 − 9 = 16. 11 is wrong (it would result from 20 − 9, ignoring the true maximum of 25). 14 is wrong (it is 25 − 11, using 11 as the minimum which is not in the data). 18 is wrong (it is one of the given data points, not the range)."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The median of the numbers 15, 22, 8, 30, 12, 26, 18 is:",
+      "options": ["15", "18", "22", "20"],
+      "correctAnswer": "18",
+      "explanation": "First arrange in ascending order: 8, 12, 15, 18, 22, 26, 30. With 7 observations, the median is the 4th value, which is 18. 15 is the 3rd value, not the 4th. 22 is the 5th value. 20 is the arithmetic mean of the middle two values 18 and 22, which is the rule for an even count; with an odd count of 7 we take just the middle observation (18), not an average."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "For a grouped frequency distribution, the arithmetic mean by the direct method is calculated using the formula:",
+      "options": ["Σf ÷ Σfx", "Σfx ÷ Σf", "Σx ÷ N", "Σf × Σx"],
+      "correctAnswer": "Σfx ÷ Σf",
+      "explanation": "In the direct method, x is the mid-value of each class and f is the corresponding frequency; the mean is (Σ fx) ÷ (Σ f) = (Σ fx) ÷ N. 'Σf ÷ Σfx' is the reciprocal of the correct formula and gives a meaningless quantity. 'Σx ÷ N' is the formula for the mean of ungrouped data, where every value is used without frequency weights — it is not valid for grouped data. 'Σf × Σx' is a product of totals with no statistical meaning and is not the mean."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Match the following statistical measures with the correct formula:\n\nColumn I:\n(a) Arithmetic mean (grouped)\n(b) Median (grouped)\n(c) Mode (grouped)\n(d) Standard deviation (ungrouped)\n\nColumn II:\n(i) L + [(f1 − f0) / (2f1 − f0 − f2)] × h\n(ii) √[Σ(x − x̄)² / N]\n(iii) Σfx / Σf\n(iv) L + [(N/2 − cf) / f] × h\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Grouped mean = Σfx / Σf, so (a)-(iii). Grouped median formula uses N/2, cumulative frequency and class size h → (b)-(iv). Grouped mode formula uses f1, f0, f2 (modal class and its neighbours) → (c)-(i). Standard deviation for ungrouped data = √[Σ(x − x̄)² / N] → (d)-(ii). The first option pairs the mean with the SD formula and SD with the mean formula. The second option pairs the mean with the median formula and the median with the mean formula. The third option pairs the median with the mode formula and the mode with the median formula."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Consider the following statements about a pie chart:\n\n(i) The total angle at the centre is 360°.\n(ii) Angle for each component = (component value ÷ total) × 360°.\n(iii) A pie chart is the recommended graph for representing a cumulative frequency distribution.\n(iv) The sum of all sector angles in a pie chart equals 360°.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i), (ii) and (iv) are standard facts about a pie chart. (iii) is false — a cumulative frequency distribution is graphed with an ogive (a cumulative frequency curve), not with a pie chart, because a pie chart shows shares of a fixed total, not running sums. So any option keeping (iii) is wrong: '(i), (ii) and (iii) only' incorrectly retains (iii) and drops the true (iv); '(ii), (iii) and (iv) only' also keeps (iii) and drops the true (i); '(i), (iii) and (iv) only' keeps (iii) and drops the true (ii)."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The mode is always uniquely defined for any given numerical data set.\nReason (R): The mode is the value that occurs with the highest frequency in the data set.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is false: a data set can have two or more modes (bimodal / multimodal) when multiple values tie for the highest frequency, and it can have no mode when every value occurs equally often. (R) is a correct definition of the mode. So the correct choice is 'A is not correct but R is correct'. The first two options require A to be true, so both are wrong. The third option requires R to be false, which it is not."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Which of the following statements about the arithmetic mean are correct?\n\n(i) It is affected by every observation in the data set.\n(ii) It always lies between the smallest and the largest observations.\n(iii) It is influenced by extreme values (outliers).\n(iv) It can only be computed for grouped data, not for raw data.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i), (ii) and (iii) are all standard properties of the arithmetic mean. (iv) is clearly false — the mean is defined for both raw (ungrouped) data and grouped data. Any option that includes (iv) is therefore wrong: '(ii), (iii) and (iv) only' drops the true (i) and keeps the false (iv); '(i), (iii) and (iv) only' drops the true (ii) and keeps the false (iv); '(i), (ii) and (iv) only' drops the true (iii) and keeps the false (iv)."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The mode of the data set 3, 5, 5, 7, 8, 8, 8, 9, 10 is:",
+      "options": ["5", "7", "8", "9"],
+      "correctAnswer": "8",
+      "explanation": "The mode is the value that occurs most frequently. Here 8 appears three times, 5 appears twice, and 3, 7, 9 and 10 each appear once. So the mode is 8. 5 has frequency 2, less than that of 8. 7 has frequency 1. 9 also has frequency 1. None of these has the maximum frequency."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "A frequency polygon is drawn by joining the midpoints of the tops of consecutive rectangles of a:",
+      "options": ["Bar diagram", "Histogram", "Pie chart", "Ogive"],
+      "correctAnswer": "Histogram",
+      "explanation": "A frequency polygon is constructed by plotting the mid-point of the top of each histogram rectangle and joining these points with straight line segments; it is essentially the 'line-graph twin' of a histogram. A bar diagram uses gaps between bars for discrete categories, so joining tops of its bars would not represent a continuous frequency distribution. A pie chart is circular and has no rectangles at all. An ogive is a cumulative frequency curve; it is drawn from cumulative frequencies, not by joining tops of rectangles."
+    }
+  ]
+}
