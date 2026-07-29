@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 499,
+  "count": 659,
   "questions": [
     {
       "test": 2,
@@ -2497,6 +2497,806 @@
       "test": 68,
       "stem": "two atoms x and y contain the same number of protons but",
       "key": "isotopes of each other"
+    },
+    {
+      "test": 71,
+      "stem": "the basic structural and functional unit of all living organisms is the:",
+      "key": "Cell"
+    },
+    {
+      "test": 71,
+      "stem": "consider the following statements about the human circulatory system: (i) the human",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 71,
+      "stem": "the green pigment present in plants which absorbs sunlight for photosynthesis is:",
+      "key": "Chlorophyll"
+    },
+    {
+      "test": 71,
+      "stem": "match the human organs in column i with their principal functions in",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following diseases is caused by a virus?",
+      "key": "Measles"
+    },
+    {
+      "test": 71,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following are vitamins that dissolve in fat rather than",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 71,
+      "stem": "the deficiency of which vitamin causes the disease scurvy, marked by bleeding",
+      "key": "Vitamin C"
+    },
+    {
+      "test": 71,
+      "stem": "a human somatic cell contains 46 chromosomes. the number of chromosomes present",
+      "key": "23"
+    },
+    {
+      "test": 71,
+      "stem": "consider the following statements about photosynthesis: (i) photosynthesis uses carbon dioxide and",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 71,
+      "stem": "the hormone insulin, which lowers the level of glucose in the blood,",
+      "key": "Pancreas"
+    },
+    {
+      "test": 71,
+      "stem": "the following data show the composition of a sample of normal human",
+      "key": "The liquid part of the blood makes up more than half its volume"
+    },
+    {
+      "test": 71,
+      "stem": "malaria in human beings is transmitted by the bite of:",
+      "key": "The female Anopheles mosquito"
+    },
+    {
+      "test": 71,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 71,
+      "stem": "the longest cell in the human body is the:",
+      "key": "Nerve cell"
+    },
+    {
+      "test": 71,
+      "stem": "match the terms in column i with their correct descriptions in column",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following are parts of the human digestive system? (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 71,
+      "stem": "the process by which pollen grains are transferred from the anther to",
+      "key": "Pollination"
+    },
+    {
+      "test": 71,
+      "stem": "consider the following statements about deoxyribonucleic acid (dna): (i) dna carries the",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 71,
+      "stem": "the part of the human brain that controls balance and the coordination",
+      "key": "Cerebellum"
+    },
+    {
+      "test": 71,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 71,
+      "stem": "in a food chain represented as grass, then grasshopper, then frog, then",
+      "key": "Secondary consumer"
+    },
+    {
+      "test": 71,
+      "stem": "the number of pairs of chromosomes present in a normal human body",
+      "key": "23"
+    },
+    {
+      "test": 71,
+      "stem": "match the diseases in column i with the organ or system they",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 71,
+      "stem": "consider the following statements about the human respiratory system: (i) exchange of",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 71,
+      "stem": "the functional unit of the kidney, in which blood is filtered, is",
+      "key": "nephron"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following are examples of asexual reproduction? (i) binary fission",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following blood groups is described as the universal donor",
+      "key": "Group O negative"
+    },
+    {
+      "test": 71,
+      "stem": "consider the following statements about enzymes: (i) enzymes are biological catalysts, most",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 71,
+      "stem": "a patient's fasting blood glucose was measured on four consecutive mornings and",
+      "key": "The readings are persistently above the normal fasting range"
+    },
+    {
+      "test": 71,
+      "stem": "the largest gland in the human body is the:",
+      "key": "Liver"
+    },
+    {
+      "test": 71,
+      "stem": "match the scientists in column i with the biological contribution associated with",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following organs is not directly involved in the excretion",
+      "key": "Pancreas"
+    },
+    {
+      "test": 71,
+      "stem": "in a food chain the producers trap 10,000 joules of energy. assuming",
+      "key": "10 joules"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following are functions of the human skeletal system? (i)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 71,
+      "stem": "the part of the human eye that controls the amount of light",
+      "key": "Iris"
+    },
+    {
+      "test": 71,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 71,
+      "stem": "the study of the relationship between living organisms and their environment is",
+      "key": "Ecology"
+    },
+    {
+      "test": 71,
+      "stem": "which of the following is the correct sequence of levels of organisation",
+      "key": "Cell, tissue, organ, organ system, organism"
+    },
+    {
+      "test": 71,
+      "stem": "consider the following statements about vaccination: (i) a vaccine stimulates the body",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 73,
+      "stem": "the headquarters of the indian space research organisation (isro) is located at:",
+      "key": "Bengaluru"
+    },
+    {
+      "test": 73,
+      "stem": "consider the following statements about the method of scientific enquiry: (i) a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 73,
+      "stem": "chandrayaan-3, which made a successful soft landing on the moon in 2023,",
+      "key": "The south polar region"
+    },
+    {
+      "test": 73,
+      "stem": "match the organisations in column i with their principal field of work",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 73,
+      "stem": "food cooks faster in a pressure cooker than in an open pan",
+      "key": "the increased pressure raises the boiling point of water"
+    },
+    {
+      "test": 73,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 73,
+      "stem": "which of the following are missions launched by the indian space research",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 73,
+      "stem": "liquefied petroleum gas has almost no smell of its own. a strong-smelling",
+      "key": "a leak can be detected easily by its smell"
+    },
+    {
+      "test": 73,
+      "stem": "light travels at approximately 3 x 10^8 metres per second. taking one",
+      "key": "9.46 x 10^15 metres"
+    },
+    {
+      "test": 73,
+      "stem": "consider the following statements about familiar devices and processes: (i) a vacuum",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 73,
+      "stem": "the defence research and development organisation (drdo) functions under which ministry of",
+      "key": "Ministry of Defence"
+    },
+    {
+      "test": 73,
+      "stem": "the following data show the number of research papers published in a",
+      "key": "Institute S"
+    },
+    {
+      "test": 73,
+      "stem": "ice floats on water because:",
+      "key": "the density of ice is less than the density of water"
+    },
+    {
+      "test": 73,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 73,
+      "stem": "penicillin, the first antibiotic to be discovered, is credited to:",
+      "key": "Alexander Fleming"
+    },
+    {
+      "test": 73,
+      "stem": "match the instruments in column i with the quantity each one is",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 73,
+      "stem": "which of the following are practical uses of artificial satellites? (i) telecommunication",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 73,
+      "stem": "milk is pasteurised by:",
+      "key": "heating it to a controlled temperature and then cooling it rapidly"
+    },
+    {
+      "test": 73,
+      "stem": "consider the following statements about satellites and space research: (i) a geostationary",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 73,
+      "stem": "during a thunderstorm, the flash of lightning is seen before the thunder",
+      "key": "light travels through air very much faster than sound does"
+    },
+    {
+      "test": 73,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 73,
+      "stem": "the indian council of medical research, the apex body for the formulation",
+      "key": "New Delhi"
+    },
+    {
+      "test": 73,
+      "stem": "an analyst recorded the following details of four satellite launches: launch w:",
+      "key": "Launch Z"
+    },
+    {
+      "test": 73,
+      "stem": "match each everyday observation in column i with the scientific principle that",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 73,
+      "stem": "consider the following statements about the conduct of scientific research: (i) peer",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 73,
+      "stem": "the non-stick coating applied to the inner surface of cooking pans is",
+      "key": "polytetrafluoroethylene"
+    },
+    {
+      "test": 73,
+      "stem": "which of the following are applications of the global positioning system? (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 73,
+      "stem": "the branch of science that deals with the production and the effects",
+      "key": "cryogenics"
+    },
+    {
+      "test": 73,
+      "stem": "aditya-l1, launched by india in 2023, is a mission to study:",
+      "key": "the Sun"
+    },
+    {
+      "test": 73,
+      "stem": "consider the following statements about scientific units: (i) a light year is",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "the number of players of a kabaddi team who are on the",
+      "key": "seven"
+    },
+    {
+      "test": 74,
+      "stem": "consider the following statements about the olympic games: (i) the modern olympic",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "the term 'googly' belongs to which sport?",
+      "key": "Cricket"
+    },
+    {
+      "test": 74,
+      "stem": "match the trophies in column i with the sports they are associated",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 74,
+      "stem": "the standard distance of a marathon race is:",
+      "key": "42.195 kilometres"
+    },
+    {
+      "test": 74,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 74,
+      "stem": "which of the following are terms used in the game of badminton?",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 74,
+      "stem": "the highest sporting honour conferred by the government of india is the:",
+      "key": "Major Dhyan Chand Khel Ratna Award"
+    },
+    {
+      "test": 74,
+      "stem": "the table below shows the medals won by four countries at a",
+      "key": "Country P"
+    },
+    {
+      "test": 74,
+      "stem": "consider the following statements about indian sportspersons: (i) major dhyan chand is",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "the normal duration of a senior football match, excluding stoppage time and",
+      "key": "90 minutes divided into two halves"
+    },
+    {
+      "test": 74,
+      "stem": "viswanathan anand, a five-time world champion, is associated with which game?",
+      "key": "Chess"
+    },
+    {
+      "test": 74,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 74,
+      "stem": "match the sportspersons in column i with their sports in column ii:",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 74,
+      "stem": "the terms 'bully' and 'penalty corner' belong to which game?",
+      "key": "Hockey"
+    },
+    {
+      "test": 74,
+      "stem": "which of the following are sports contested at the summer olympic games?",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "the distance between the two sets of wickets on a cricket pitch",
+      "key": "22 yards"
+    },
+    {
+      "test": 74,
+      "stem": "consider the following statements about indian sports awards: (i) the dronacharya award",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "the thomas cup is associated with which sport?",
+      "key": "Badminton"
+    },
+    {
+      "test": 74,
+      "stem": "the term 'deuce', used when the score stands level at forty points",
+      "key": "tennis"
+    },
+    {
+      "test": 74,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 74,
+      "stem": "the first modern olympic games were held in 1896 at:",
+      "key": "Athens"
+    },
+    {
+      "test": 74,
+      "stem": "the table below shows the runs scored and the innings played by",
+      "key": "Batsman Y"
+    },
+    {
+      "test": 74,
+      "stem": "match the terms in column i with the games to which they",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 74,
+      "stem": "consider the following statements about the number of players in various team",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "the olympic motto 'citius, altius, fortius' means:",
+      "key": "Faster, Higher, Stronger"
+    },
+    {
+      "test": 74,
+      "stem": "which of the following are international governing bodies of sport? (i) fifa",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 74,
+      "stem": "india's first individual olympic gold medal was won in 2008 by:",
+      "key": "Abhinav Bindra"
+    },
+    {
+      "test": 74,
+      "stem": "consider the following statements about the olympic movement: (i) the olympic games",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 74,
+      "stem": "the fifa world cup in football is held once every:",
+      "key": "four years"
+    },
+    {
+      "test": 74,
+      "stem": "match the cups in column i with the sports they belong to",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 74,
+      "stem": "wimbledon, the oldest of the four tennis grand slam tournaments, is played",
+      "key": "a grass court"
+    },
+    {
+      "test": 74,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 74,
+      "stem": "which of the following are terms used in cricket? (i) maiden over",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 74,
+      "stem": "the sports authority of india was set up chiefly in order to:",
+      "key": "promote sport and develop sporting infrastructure and talent in the country"
+    },
+    {
+      "test": 74,
+      "stem": "in golf, a score of one stroke under par for a hole",
+      "key": "birdie"
+    },
+    {
+      "test": 74,
+      "stem": "consider the following statements about well-known cricket grounds: (i) eden gardens, one",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 74,
+      "stem": "at the tokyo olympic games, neeraj chopra won a gold medal for",
+      "key": "the javelin throw"
+    },
+    {
+      "test": 74,
+      "stem": "the international olympic committee has its headquarters at:",
+      "key": "Lausanne in Switzerland"
+    },
+    {
+      "test": 74,
+      "stem": "the first asian games, held in 1951, were hosted by which city?",
+      "key": "New Delhi"
+    },
+    {
+      "test": 75,
+      "stem": "the book 'the discovery of india' was written by:",
+      "key": "Jawaharlal Nehru"
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about indian awards: (i) the bharat ratna is",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "world environment day is observed every year on:",
+      "key": "5 June"
+    },
+    {
+      "test": 75,
+      "stem": "match the books in column i with their authors in column ii:",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 75,
+      "stem": "the headquarters of the united nations educational, scientific and cultural organisation (unesco)",
+      "key": "Paris"
+    },
+    {
+      "test": 75,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 75,
+      "stem": "which of the following are fields in which nobel prizes are awarded?",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "india observes republic day on 26 january because on that date in",
+      "key": "the Constitution of India came into force"
+    },
+    {
+      "test": 75,
+      "stem": "the following data show the padma awards announced in a particular year:",
+      "key": "The Padma Shri accounted for more than four-fifths of all the Padma awards an..."
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about days of observance: (i) national science day",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the jnanpith award is conferred for outstanding contribution to:",
+      "key": "literature"
+    },
+    {
+      "test": 75,
+      "stem": "match the dates in column i with the days observed on them",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 75,
+      "stem": "the world health organisation has its headquarters at:",
+      "key": "Geneva"
+    },
+    {
+      "test": 75,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 75,
+      "stem": "the autobiography entitled 'the story of my experiments with truth' was written",
+      "key": "Mahatma Gandhi"
+    },
+    {
+      "test": 75,
+      "stem": "which of the following are international organisations headquartered at geneva? (i) world",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the param vir chakra is awarded for:",
+      "key": "the most conspicuous bravery in the presence of the enemy"
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about the location of national institutions: (i) the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the international criminal police organisation, commonly known as interpol, has its headquarters",
+      "key": "Lyon in France"
+    },
+    {
+      "test": 75,
+      "stem": "the highest civilian award of the republic of india is the __________.",
+      "key": "Bharat Ratna"
+    },
+    {
+      "test": 75,
+      "stem": "the booker prize is awarded for:",
+      "key": "a work of fiction written in English"
+    },
+    {
+      "test": 75,
+      "stem": "match the international bodies in column i with the cities in which",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the song 'vande mataram', adopted as the national song of india, was",
+      "key": "Anandamath"
+    },
+    {
+      "test": 75,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 75,
+      "stem": "national youth day is observed in india on 12 january to mark",
+      "key": "Swami Vivekananda"
+    },
+    {
+      "test": 75,
+      "stem": "which of the following are officially recognised national symbols of india? (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the dadasaheb phalke award is conferred by the government of india for:",
+      "key": "outstanding lifetime contribution to Indian cinema"
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about well-known books: (i) 'india wins freedom' was",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the table below shows the year in which four international organisations were",
+      "key": "The World Trade Organisation is the youngest of the four by more than forty y..."
+    },
+    {
+      "test": 75,
+      "stem": "the secretariat of the south asian association for regional cooperation (saarc) is",
+      "key": "Kathmandu"
+    },
+    {
+      "test": 75,
+      "stem": "match the awards in column i with the fields for which they",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 75,
+      "stem": "the ashoka chakra is awarded for:",
+      "key": "the most conspicuous bravery otherwise than in the face of the enemy"
+    },
+    {
+      "test": 75,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 75,
+      "stem": "world ozone day, which marks the signing of the montreal protocol, is",
+      "key": "16 September"
+    },
+    {
+      "test": 75,
+      "stem": "which of the following are national academies set up by the government",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about internationally observed days: (i) 2 october is",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the national archives of india, which preserves the non-current records of the",
+      "key": "New Delhi"
+    },
+    {
+      "test": 75,
+      "stem": "the principal judicial organ of the united nations, which has its seat",
+      "key": "International Court of Justice"
+    },
+    {
+      "test": 75,
+      "stem": "the novel 'midnight's children', which won the booker prize, was written by:",
+      "key": "Salman Rushdie"
+    },
+    {
+      "test": 75,
+      "stem": "match the categories of national symbol in column i with the correct",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 75,
+      "stem": "31 october is observed in india as national unity day to mark",
+      "key": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "test": 75,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 75,
+      "stem": "the headquarters of the organisation of the petroleum exporting countries (opec) is",
+      "key": "Vienna"
+    },
+    {
+      "test": 75,
+      "stem": "which of the following are books written by rabindranath tagore? (i) gitanjali",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about the location of indian institutions: (i) the",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 75,
+      "stem": "the sahitya akademi confers its annual awards for outstanding writing in:",
+      "key": "the twenty-four languages recognised by the Akademi"
+    },
+    {
+      "test": 75,
+      "stem": "the following data show the number of persons awarded the bharat ratna",
+      "key": "The 1950s and the 1990s together account for more than three-fourths of these..."
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about the nobel prizes: (i) the nobel prize",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 75,
+      "stem": "national science day is observed in india on 28 february to commemorate:",
+      "key": "the announcement of the discovery of the Raman Effect"
+    },
+    {
+      "test": 75,
+      "stem": "consider the following statements about international awards: (i) the pulitzer prize is",
+      "key": "(i), (ii) and (iv)"
     }
   ]
 }

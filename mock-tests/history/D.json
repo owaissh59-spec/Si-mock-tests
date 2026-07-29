@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 473,
+  "count": 553,
   "questions": [
     {
       "test": 4,
@@ -2367,6 +2367,406 @@
       "test": 66,
       "stem": "arrange the following four sentences in the correct logical order to form",
       "key": "Q-P-R-S"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (1) is:",
+      "key": "deserted"
+    },
+    {
+      "test": 70,
+      "stem": "consider the following statements about cloze passages: (i) a cloze passage tests",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (2) is:",
+      "key": "undertook"
+    },
+    {
+      "test": 70,
+      "stem": "match each incomplete expression in column i with the part of speech",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (3) is:",
+      "key": "bare"
+    },
+    {
+      "test": 70,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (4) is:",
+      "key": "urge"
+    },
+    {
+      "test": 70,
+      "stem": "which of the following are sound strategies for attempting a cloze passage?",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (5) is:",
+      "key": "district"
+    },
+    {
+      "test": 70,
+      "stem": "consider the following statements about filling blanks in connected prose: (i) a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (6) is:",
+      "key": "steady"
+    },
+    {
+      "test": 70,
+      "stem": "match each word in column i with its correct meaning in column",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (7) is:",
+      "key": "responsible"
+    },
+    {
+      "test": 70,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (8) is:",
+      "key": "worsened"
+    },
+    {
+      "test": 70,
+      "stem": "which of the following are clues that genuinely help in identifying the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (9) is:",
+      "key": "susceptible"
+    },
+    {
+      "test": 70,
+      "stem": "consider the following statements about cloze passages set in competitive examinations: (i)",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (10) is:",
+      "key": "safeguards"
+    },
+    {
+      "test": 70,
+      "stem": "words that customarily occur together, such as 'heavy rain' and 'strong tea',",
+      "key": "collocation"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (11) is:",
+      "key": "covered"
+    },
+    {
+      "test": 70,
+      "stem": "match each sentence containing a blank in column i with the connective",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (12) is:",
+      "key": "enormous"
+    },
+    {
+      "test": 70,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (13) is:",
+      "key": "reprimanded"
+    },
+    {
+      "test": 70,
+      "stem": "which of the following are common reasons why a candidate fills a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (14) is:",
+      "key": "admire"
+    },
+    {
+      "test": 70,
+      "stem": "consider the following statements about the words 'affect' and 'effect': (i) 'affect'",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 70,
+      "stem": "the word that best fits blank (15) is:",
+      "key": "commemorated"
+    },
+    {
+      "test": 70,
+      "stem": "consider the following statements about choosing between two words that both appear",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "according to the passage, the officer attributed the change in attendance chiefly",
+      "key": "the willingness of residents to share information early"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about answering comprehension questions: (i) a fact stated",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "the passage states that the complaints made at these meetings were:",
+      "key": "recorded in a register that any person could examine"
+    },
+    {
+      "test": 72,
+      "stem": "match each type of comprehension question in column i with the ability",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 72,
+      "stem": "it can be inferred from the passage that the officer regarded prevention",
+      "key": "more economical than investigation but slower to establish"
+    },
+    {
+      "test": 72,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 72,
+      "stem": "in the passage, the phrase 'at his disposal' most nearly means:",
+      "key": "available for him to use"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following are marks of a valid inference from a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "the officer's persistence during the early months suggests that he:",
+      "key": "was confident that the value of the meetings would become apparent in time"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about the main idea of a passage: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "the main conclusion of the passage is that:",
+      "key": "water policy should be framed separately for each river basin"
+    },
+    {
+      "test": 72,
+      "stem": "match each word in column i with its meaning in column ii:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 72,
+      "stem": "according to the passage, a few glaciers are melting more slowly because:",
+      "key": "a covering of rock debris shields the ice from direct sunlight"
+    },
+    {
+      "test": 72,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following best expresses the difficulty identified in the passage?",
+      "key": "The wide variation between valleys makes prediction difficult"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following are reasons for rejecting an option in a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "as used in the passage, the word 'retreating' means:",
+      "key": "withdrawing and growing smaller in extent"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about the tone of a passage: (i) the",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 72,
+      "stem": "scientists warn against treating the himalaya as a single unit mainly because:",
+      "key": "the rate of glacial retreat differs greatly from valley to valley"
+    },
+    {
+      "test": 72,
+      "stem": "a conclusion that a reader draws from a passage although it is",
+      "key": "inference"
+    },
+    {
+      "test": 72,
+      "stem": "the term 'induced demand', as used in the passage, refers to:",
+      "key": "the additional traffic attracted by a route once it becomes quicker"
+    },
+    {
+      "test": 72,
+      "stem": "match each description of tone in column i with the term that",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 72,
+      "stem": "the engineers had expected the widened road to ease congestion for:",
+      "key": "a decade"
+    },
+    {
+      "test": 72,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 72,
+      "stem": "the passage suggests that the cities which have avoided this problem have",
+      "key": "improving their public buses and footpaths"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following are effective steps in tackling a long comprehension",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "the author calls the lesson 'uncomfortable' for administrators because:",
+      "key": "the measures that work are less visible and less popular than a new road"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about distinguishing fact from opinion: (i) a fact",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 72,
+      "stem": "in the passage, the word 'choked' is closest in meaning to:",
+      "key": "severely congested"
+    },
+    {
+      "test": 72,
+      "stem": "match each word in column i with its meaning in column ii:",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 72,
+      "stem": "the founder of the school responded to the objections he encountered by:",
+      "key": "answering each of them in writing and continuing to teach"
+    },
+    {
+      "test": 72,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 72,
+      "stem": "when the school opened in 1854, the number of its pupils was:",
+      "key": "eleven"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following are questions that test an explicit detail rather",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "according to the passage, the diary is valued today chiefly for:",
+      "key": "the portrait it offers of a society disagreeing with itself"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about vocabulary-in-context questions: (i) a word may carry",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following is not mentioned in the passage as an",
+      "key": "that the pupils would prove unable to learn to read"
+    },
+    {
+      "test": 72,
+      "stem": "reading a passage rapidly in order to obtain only its general sense",
+      "key": "skimming"
+    },
+    {
+      "test": 72,
+      "stem": "as used in the passage, the word 'waived' means:",
+      "key": "given up or not insisted upon"
+    },
+    {
+      "test": 72,
+      "stem": "match the function of a paragraph in column i with the term",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 72,
+      "stem": "according to the former director, the ingredient that the institutes chiefly lacked",
+      "key": "the freedom to undertake work that might fail"
+    },
+    {
+      "test": 72,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 72,
+      "stem": "the passage suggests that requiring every project to be justified in advance",
+      "key": "choose safe questions whose answers could largely be foreseen"
+    },
+    {
+      "test": 72,
+      "stem": "which of the following are true of the main idea of a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "the opening sentence of the passage implies that:",
+      "key": "good equipment by itself does not make a laboratory productive"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about the purpose of a passage: (i) a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 72,
+      "stem": "the directors of the institutes that produced original work are described as",
+      "key": "defend before a sceptical committee an enquiry that might yield nothing"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about choosing between options in a comprehension question:",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 72,
+      "stem": "in the passage, the phrase 'of consequence' is closest in meaning to:",
+      "key": "of importance"
+    },
+    {
+      "test": 72,
+      "stem": "consider the following statements about writing a summary of a passage: (i)",
+      "key": "(i), (ii) and (iv)"
     }
   ]
 }

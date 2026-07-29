@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "Sports",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The number of players of a kabaddi team who are on the mat at one time is:",
+      "options": [
+        "five",
+        "six",
+        "seven",
+        "nine"
+      ],
+      "correctAnswer": "seven",
+      "explanation": "A kabaddi side plays seven players on the mat at a time, drawn from a squad of twelve, and a raider who is caught is put out until his side revives him. 'Five' is wrong because that is the number in a basketball team on court. 'Six' is wrong because that is the size of a volleyball team on court. 'Nine' is wrong because it is the number of fielders in a baseball team, and it also recalls the older nine-a-side form of the game rather than the standard modern one."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Olympic Games:\n\n(i) The modern Olympic Games are held once every four years.\n(ii) The Olympic flame is lit at the closing ceremony of the Games.\n(iii) The five rings of the Olympic flag represent the five inhabited continents.\n(iv) The International Olympic Committee has its headquarters at Lausanne.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, the Games being held in a four-year cycle called an Olympiad. Statement (iii) is correct, the interlocked rings standing for the five inhabited continents united by sport. Statement (iv) is correct, Lausanne in Switzerland being the seat of the International Olympic Committee. Statement (ii) is incorrect and reverses the order of the ceremonies: the flame is kindled at the OPENING ceremony after the torch relay and is extinguished at the closing ceremony. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The term 'googly' belongs to which sport?",
+      "options": [
+        "Hockey",
+        "Cricket",
+        "Badminton",
+        "Polo"
+      ],
+      "correctAnswer": "Cricket",
+      "explanation": "A googly is a delivery bowled by a leg-spinner which, contrary to the batsman's expectation, turns in the opposite direction to his usual leg-break. 'Hockey' is wrong because its characteristic terms are the bully and the penalty corner. 'Badminton' is wrong because its terms include the smash and the drop shot. 'Polo' is wrong because a period of play in polo is called a chukker, and the game has no bowling of any kind."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the trophies in Column I with the sports they are associated with in Column II:\n\nColumn I:\n(a) Ranji Trophy\n(b) Santosh Trophy\n(c) Thomas Cup\n(d) Davis Cup\n\nColumn II:\n(i) Badminton\n(ii) Tennis\n(iii) Cricket\n(iv) Football\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The Ranji Trophy is India's first-class cricket championship, the Santosh Trophy is the national football competition between states, the Thomas Cup is the world men's team badminton championship, and the Davis Cup is the world men's team event in tennis. The second option is wrong because it swaps cricket and football. The third option is wrong because it interchanges badminton and tennis, giving the Thomas Cup to tennis. The fourth option is wrong because it makes the Santosh Trophy a badminton event and the Thomas Cup a football event."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "The standard distance of a marathon race is:",
+      "options": [
+        "40 kilometres",
+        "41.195 kilometres",
+        "42.195 kilometres",
+        "44.5 kilometres"
+      ],
+      "correctAnswer": "42.195 kilometres",
+      "explanation": "A marathon is run over 42.195 kilometres, equivalent to 26 miles and 385 yards, a figure settled at the London Games of 1908 and adopted thereafter as the standard. '40 kilometres' is wrong because it is a rounded approximation and no marathon is run over it. '41.195 kilometres' is wrong because it alters the correct figure by exactly one kilometre. '44.5 kilometres' is wrong because it exceeds the standard distance by more than two kilometres."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A boxing contest is decided on points when neither boxer has been knocked out.\nReason (R): Judges seated at the ringside award points to each boxer for the scoring blows landed in every round.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: because the judges keep a running record of scoring blows round by round, a verdict can be reached on aggregate points whenever the bout goes the distance. The second option is wrong because the judges' scoring is the very mechanism by which such a decision becomes possible, not an unrelated fact. The third option is wrong because ringside scoring is a standard feature of amateur and professional boxing alike. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are terms used in the game of badminton?\n\n(i) Smash\n(ii) Drop shot\n(iii) Net kill\n(iv) Silly point\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The smash is a steeply struck attacking stroke, the drop shot falls just over the net, and the net kill is a sharp downward stroke played close to the net, so all three belong to badminton. 'Silly point' is the exception: it is a close catching position in cricket, standing very near the batsman on the off side. Hence the first option is wrong (it includes the fielding position and omits the net kill), the second is wrong (it includes it and omits the smash), and the third is wrong (it includes it and omits the drop shot)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The highest sporting honour conferred by the Government of India is the:",
+      "options": [
+        "Major Dhyan Chand Khel Ratna Award",
+        "Arjuna Award",
+        "Dronacharya Award",
+        "Padma Shri"
+      ],
+      "correctAnswer": "Major Dhyan Chand Khel Ratna Award",
+      "explanation": "The Khel Ratna, renamed the Major Dhyan Chand Khel Ratna Award in 2021, is the country's highest sporting honour and recognises the most outstanding sporting performance. 'Arjuna Award' is wrong because it honours consistently good performance over several years but ranks below the Khel Ratna. 'Dronacharya Award' is wrong because it is meant for coaches rather than players. 'Padma Shri' is wrong because it is a general civilian award covering all fields of activity and is not a sporting honour as such."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The table below shows the medals won by four countries at a multi-sport meet:\n\nCountry P: 12 gold, 8 silver, 6 bronze\nCountry Q: 10 gold, 14 silver, 9 bronze\nCountry R: 12 gold, 6 silver, 11 bronze\nCountry S: 9 gold, 12 silver, 15 bronze\n\nIf countries are ranked first by the number of gold medals and, where these are equal, by the number of silver medals, which country ranks first?",
+      "options": [
+        "Country R",
+        "Country P",
+        "Country Q",
+        "Country S"
+      ],
+      "correctAnswer": "Country P",
+      "explanation": "Countries P and R are level at the top with 12 gold medals each, so the tie must be broken by silver, and P's 8 silver medals beat R's 6; hence P ranks first. 'Country R' is wrong for precisely that reason. 'Country S' is a trap because its 36 medals form the largest total of the four, yet with only 9 gold it ranks lowest on this system. 'Country Q' is wrong because although it has 33 medals in all and the most silver, its gold tally of 10 is below the leaders."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about Indian sportspersons:\n\n(i) Major Dhyan Chand is remembered as one of the greatest hockey players of all time.\n(ii) Karnam Malleswari was the first Indian woman to win an Olympic medal.\n(iii) Milkha Singh won an Olympic gold medal in the 400 metres.\n(iv) Viswanathan Anand became India's first Grandmaster in chess.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, Dhyan Chand's name being commemorated in India's highest sporting award. Statement (ii) is correct: Karnam Malleswari won a bronze in weightlifting at Sydney in 2000. Statement (iv) is correct, Anand having become India's first Grandmaster in 1988. Statement (iii) is incorrect, and this is the classic trap: Milkha Singh finished FOURTH in the 400 metres final at Rome in 1960, narrowly missing a medal, and never won Olympic gold. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The normal duration of a senior football match, excluding stoppage time and extra time, is:",
+      "options": [
+        "60 minutes divided into two halves",
+        "70 minutes divided into two halves",
+        "80 minutes divided into two halves",
+        "90 minutes divided into two halves"
+      ],
+      "correctAnswer": "90 minutes divided into two halves",
+      "explanation": "A football match consists of two halves of 45 minutes each, separated by an interval, making 90 minutes of regulation play to which the referee adds time lost through stoppages. '60 minutes' is wrong and corresponds to no recognised form of the senior game. '70 minutes' is wrong, though it happens to be the duration of an international hockey match played in four quarters. '80 minutes' is wrong because it is the playing time of a rugby union match, not of football."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Viswanathan Anand, a five-time world champion, is associated with which game?",
+      "options": [
+        "Chess",
+        "Billiards",
+        "Snooker",
+        "Bridge"
+      ],
+      "correctAnswer": "Chess",
+      "explanation": "Anand won the world chess championship five times and was the first Indian to become a Grandmaster, which is why he is often called the Tiger of Madras. 'Billiards' and 'Snooker' are wrong because India's celebrated champions in those cue sports are Geet Sethi and Pankaj Advani, the latter having won world titles in both. 'Bridge' is wrong because it is a card game, and although India has done well at it, Anand has no association with it."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A bowler who dismisses three batsmen with three consecutive deliveries is said to have taken a hat-trick.\nReason (R): A cricket team consists of eleven players.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) has no bearing on (A). The definition of a hat-trick rests on three wickets falling to three successive balls, and it would remain the same whatever the size of the side; the number eleven is simply a separate fact about cricket. The first option is wrong because it treats an unrelated statement as the explanation. The third option is wrong because a cricket team does indeed field eleven players. The fourth option is wrong because the definition given in (A) is accurate."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Match the sportspersons in Column I with their sports in Column II:\n\nColumn I:\n(a) Mary Kom\n(b) P.V. Sindhu\n(c) Sunil Chhetri\n(d) Abhinav Bindra\n\nColumn II:\n(i) Badminton\n(ii) Shooting\n(iii) Boxing\n(iv) Football\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Mary Kom is a world champion boxer, P.V. Sindhu an Olympic medallist in badminton, Sunil Chhetri a long-serving captain of the Indian football team, and Abhinav Bindra an Olympic gold medallist in shooting. The first option is wrong because it swaps boxing and badminton. The third option is wrong because it makes Chhetri a shooter and Bindra a footballer. The fourth option is wrong because it gives Sindhu football and Chhetri badminton, exchanging a racket sport for a team field game."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "The terms 'bully' and 'penalty corner' belong to which game?",
+      "options": [
+        "Volleyball",
+        "Basketball",
+        "Hockey",
+        "Table tennis"
+      ],
+      "correctAnswer": "Hockey",
+      "explanation": "Both terms are from hockey: the bully was the traditional method of restarting play between two opposing players, and a penalty corner is awarded against the defending side for an offence within its own quarter. 'Volleyball' is wrong because its terms include the spike, the block and the service ace. 'Basketball' is wrong because its terms include the dribble, the rebound and the slam dunk. 'Table tennis' is wrong because its terms include the let, the loop and the chop."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following are sports contested at the Summer Olympic Games?\n\n(i) Archery\n(ii) Weightlifting\n(iii) Kabaddi\n(iv) Wrestling\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Archery, weightlifting and wrestling are all long-established Olympic disciplines, and India has won Olympic medals in wrestling and weightlifting. Kabaddi is the exception: although it is a major event at the Asian Games and has a well-known professional league in India, it has never been part of the Olympic programme. Hence the first option is wrong (it includes kabaddi and omits wrestling), the second is wrong (it includes kabaddi and omits archery), and the third is wrong (it includes kabaddi and omits weightlifting)."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The distance between the two sets of wickets on a cricket pitch is:",
+      "options": [
+        "22 yards",
+        "24 yards",
+        "20 yards",
+        "25 yards"
+      ],
+      "correctAnswer": "22 yards",
+      "explanation": "The pitch measures 22 yards, or about 20.12 metres, between the two sets of stumps, a length equal to one chain in the old English system of measurement. '24 yards' and '25 yards' are wrong because both exceed the laid-down length, and the dimensions of a cricket pitch are fixed precisely by the Laws of the game. '20 yards' is wrong because it is a rounded figure close to the metric equivalent of 20.12 metres, which makes it a tempting but incorrect choice."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Consider the following statements about Indian sports awards:\n\n(i) The Dronacharya Award is conferred on coaches.\n(ii) The Arjuna Award recognises outstanding performance by a sportsperson over a period of years.\n(iii) The Khel Ratna Award may be given only to a team and never to an individual.\n(iv) The Dhyan Chand Award honours lifetime contribution to sport.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the Dronacharya Award being named after the preceptor of the Mahabharata and reserved for coaches. Statement (ii) correctly describes the Arjuna Award. Statement (iv) is correct, the Dhyan Chand Award recognising lifetime achievement. Statement (iii) is incorrect: the Khel Ratna is awarded to individual sportspersons for outstanding performance, and it is the country's highest such honour. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Thomas Cup is associated with which sport?",
+      "options": [
+        "Table tennis",
+        "Hockey",
+        "Badminton",
+        "Squash"
+      ],
+      "correctAnswer": "Badminton",
+      "explanation": "The Thomas Cup is the world men's team championship in badminton, and its counterpart for women's teams is the Uber Cup. 'Table tennis' is wrong because the corresponding men's team trophy in that sport is the Swaythling Cup. 'Hockey' is wrong because its well-known Indian trophies include the Agha Khan Cup and the Beighton Cup. 'Squash' is wrong because its principal team event is the World Team Squash Championships, which carries no such cup name."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The term 'deuce', used when the score stands level at forty points each, belongs to the game of __________.",
+      "options": [
+        "hockey",
+        "cricket",
+        "kabaddi",
+        "tennis"
+      ],
+      "correctAnswer": "tennis",
+      "explanation": "In tennis a score of forty all is called deuce, and from that point a player must take two successive points to win the game, the first of them being called advantage. 'Hockey' is wrong because goals there are counted in plain numbers. 'Cricket' is wrong because its scoring is in runs and wickets with no such term. 'Kabaddi' is wrong because points there are awarded for successful raids and tackles and the game has no equivalent of a two-point margin rule."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Dronacharya Award is not given to a playing sportsperson for his or her own performance.\nReason (R): The award is named after Dronacharya, who was a celebrated archer of the Mahabharata and never taught any pupil.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct, since the Dronacharya Award is reserved for coaches and not for players' own performances. (R) is wrong on the decisive point: Dronacharya is remembered above all AS a teacher, the preceptor of the Pandavas and of Arjuna in particular, and it is precisely that role which makes his name appropriate for an award to coaches. The first and second options are wrong because both require (R) to be correct, and the fourth is wrong because (A) is accurate."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The first modern Olympic Games were held in 1896 at:",
+      "options": [
+        "Athens",
+        "Paris",
+        "London",
+        "Rome"
+      ],
+      "correctAnswer": "Athens",
+      "explanation": "The first Games of the modern era were held at Athens in 1896, the Greek capital being chosen in recognition of the ancient origins of the Olympics. 'Paris' is wrong because it hosted the second Games in 1900. 'London' is wrong because it first hosted them in 1908, the year in which the marathon distance was settled. 'Rome' is wrong because it hosted the Games of 1960, at which Milkha Singh narrowly missed a medal in the 400 metres."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The table below shows the runs scored and the innings played by four batsmen in a season:\n\nBatsman W: 720 runs in 18 innings\nBatsman X: 640 runs in 16 innings\nBatsman Y: 585 runs in 13 innings\nBatsman Z: 800 runs in 25 innings\n\nAssuming that no batsman remained not out, which of them had the highest batting average for the season?",
+      "options": [
+        "Batsman W",
+        "Batsman Y",
+        "Batsman X",
+        "Batsman Z"
+      ],
+      "correctAnswer": "Batsman Y",
+      "explanation": "Dividing runs by innings gives W = 720/18 = 40, X = 640/16 = 40, Y = 585/13 = 45 and Z = 800/25 = 32, so Batsman Y has the highest average. 'Batsman Z' is the trap, for his 800 runs are the largest aggregate of the four, yet spread over 25 innings they yield the LOWEST average. 'Batsman W' and 'Batsman X' are wrong because both stand at exactly 40, below Y's 45, which shows that an aggregate alone says little about consistency."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Match the terms in Column I with the games to which they belong in Column II:\n\nColumn I:\n(a) Checkmate\n(b) Love\n(c) Spike\n(d) Birdie\n\nColumn II:\n(i) Volleyball\n(ii) Golf\n(iii) Chess\n(iv) Tennis\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Checkmate ends a game of chess, love means a score of nil in tennis, a spike is a hard downward attacking stroke in volleyball, and a birdie is one stroke under par in golf. The first option is wrong because it swaps the volleyball and golf terms. The second option is wrong because it makes checkmate a tennis term and love a chess term. The fourth option is wrong because it assigns love to volleyball and the spike to tennis, exchanging a scoring term for a stroke."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about the number of players in various team games:\n\n(i) A volleyball team has six players on the court.\n(ii) A basketball team has five players on the court.\n(iii) A hockey team has nine players on the field.\n(iv) A water polo team has seven players in the water.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) give the correct figures: six in volleyball, five in basketball and seven in water polo, the last including the goalkeeper. Statement (iii) is incorrect because a hockey team fields ELEVEN players, ten outfield players together with a goalkeeper, the same number as in football and cricket. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The Olympic motto 'Citius, Altius, Fortius' means:",
+      "options": [
+        "Faster, Higher, Stronger",
+        "Braver, Stronger, Faster",
+        "Higher, Farther, Faster",
+        "Stronger, Swifter, Bolder"
+      ],
+      "correctAnswer": "Faster, Higher, Stronger",
+      "explanation": "The three Latin words mean Faster, Higher and Stronger respectively, and in 2021 the word Communiter, meaning Together, was added to the motto. 'Braver, Stronger, Faster' is wrong because no word for bravery appears in the Latin. 'Higher, Farther, Faster' is wrong because 'farther' has no counterpart in the motto, which contains no reference to distance. 'Stronger, Swifter, Bolder' is wrong because it both reorders the ideas and introduces boldness, which is not part of the motto."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Which of the following are international governing bodies of sport?\n\n(i) FIFA\n(ii) FIDE\n(iii) ICC\n(iv) ISRO\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "FIFA governs world football, FIDE is the international chess federation, and the ICC is the International Cricket Council, so all three are sporting bodies. ISRO is the exception, being the Indian Space Research Organisation and having nothing to do with sport. Hence the first option is wrong (it includes the space agency and omits cricket), the third is wrong (it includes it and omits football), and the fourth is wrong (it includes it and omits chess)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "India's first individual Olympic gold medal was won in 2008 by:",
+      "options": [
+        "Rajyavardhan Singh Rathore",
+        "Karnam Malleswari",
+        "Abhinav Bindra",
+        "Neeraj Chopra"
+      ],
+      "correctAnswer": "Abhinav Bindra",
+      "explanation": "Abhinav Bindra won the 10 metre air rifle event at Beijing in 2008, giving India its first individual Olympic gold medal in any sport. 'Rajyavardhan Singh Rathore' is wrong because he won a silver in double trap shooting at Athens in 2004. 'Karnam Malleswari' is wrong because her weightlifting medal at Sydney in 2000 was a bronze. 'Neeraj Chopra' is wrong because his gold in the javelin came later, at the Tokyo Games."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Olympic movement:\n\n(i) The Olympic Games were revived largely through the efforts of Pierre de Coubertin.\n(ii) The Winter Olympic Games are held separately from the Summer Games.\n(iii) The Paralympic Games are held for athletes with disabilities.\n(iv) The Olympic Games have been held every four years without interruption since 1896.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct, the French educationist Pierre de Coubertin having founded the modern Games. Statement (ii) is correct, the Winter Games being a separate cycle of events on snow and ice. Statement (iii) correctly describes the Paralympics. Statement (iv) is incorrect because the Games were cancelled altogether in 1916, 1940 and 1944 on account of the two World Wars, so the sequence has not been unbroken. Every option containing (iv) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The FIFA World Cup in football is held once every:",
+      "options": [
+        "four years",
+        "two years",
+        "three years",
+        "five years"
+      ],
+      "correctAnswer": "four years",
+      "explanation": "The FIFA World Cup is contested at intervals of four years, the qualifying competition occupying much of the period between one tournament and the next. 'Two years' is wrong because that is the interval of several continental and world championships in other sports but not of the football World Cup. 'Three years' and 'five years' are wrong because neither corresponds to the cycle of any major football tournament, the continental championships such as the Euro and the Copa America also being held every four years."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "Match the cups in Column I with the sports they belong to in Column II:\n\nColumn I:\n(a) Durand Cup\n(b) Agha Khan Cup\n(c) Uber Cup\n(d) Swaythling Cup\n\nColumn II:\n(i) Table tennis\n(ii) Hockey\n(iii) Badminton\n(iv) Football\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "The Durand Cup is one of the oldest football tournaments in the world, the Agha Khan Cup is a long-standing hockey competition, the Uber Cup is the world women's team badminton championship, and the Swaythling Cup is the world men's team title in table tennis. The first option is wrong because it swaps football and hockey. The third option is wrong because it interchanges badminton and table tennis. The fourth option is wrong because it gives the Agha Khan Cup to badminton and the Uber Cup to hockey."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Wimbledon, the oldest of the four tennis Grand Slam tournaments, is played on:",
+      "options": [
+        "a hard court",
+        "a clay court",
+        "a grass court",
+        "an indoor carpet court"
+      ],
+      "correctAnswer": "a grass court",
+      "explanation": "Wimbledon is the only one of the four Grand Slam tournaments still contested on grass, a fast surface on which the ball bounces low and rewards serve-and-volley play. 'A hard court' is wrong because that is the surface of both the Australian Open and the US Open. 'A clay court' is wrong because clay, which is slow and produces long rallies, is the surface of the French Open at Roland Garros. 'An indoor carpet court' is wrong because carpet is no longer used for any Grand Slam event."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Hockey has been formally declared by law to be the national game of India.\nReason (R): India won the Olympic gold medal in hockey on eight occasions.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: India has won eight Olympic gold medals in hockey, a record that includes six in succession from 1928 to 1956. (A) is wrong, however, because the Government of India has clarified that no sport has ever been formally declared the national game; hockey's standing rests on its remarkable record and popular affection rather than on any legal declaration. The first and second options are wrong because both require (A) to be correct, and the third is wrong because (R) is accurate."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Which of the following are terms used in cricket?\n\n(i) Maiden over\n(ii) Duck\n(iii) Silly point\n(iv) Slam dunk\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A maiden over is one from which no run is scored, a duck is a batsman's dismissal without scoring, and silly point is a close fielding position on the off side, so all three belong to cricket. 'Slam dunk' is the exception, being a basketball shot in which the player thrusts the ball down through the hoop. Hence the first option is wrong (it includes the basketball term and omits silly point), the second is wrong (it includes it and omits the maiden over), and the third is wrong (it includes it and omits the duck)."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "The Sports Authority of India was set up chiefly in order to:",
+      "options": [
+        "promote sport and develop sporting infrastructure and talent in the country",
+        "select the Indian contingent for the Olympic Games",
+        "organise and market the Indian Premier League",
+        "regulate the transfer of professional footballers between clubs"
+      ],
+      "correctAnswer": "promote sport and develop sporting infrastructure and talent in the country",
+      "explanation": "The Sports Authority of India, established in 1984 under the Ministry of Youth Affairs and Sports, runs national academies and training centres and maintains stadia in order to broaden participation and nurture talent. Selecting the Olympic contingent is wrong because that is done by the national federations along with the Indian Olympic Association. Organising the Indian Premier League is wrong because the league is conducted by the Board of Control for Cricket in India. Regulating footballers' transfers is wrong because those matters fall under the rules of the All India Football Federation and FIFA."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "In golf, a score of one stroke under par for a hole is called a __________.",
+      "options": [
+        "bogey",
+        "birdie",
+        "eagle",
+        "albatross"
+      ],
+      "correctAnswer": "birdie",
+      "explanation": "A birdie is a hole completed in one stroke fewer than par, which is the score a competent golfer is expected to take. 'Bogey' is wrong because it means one stroke OVER par, so it records a worse result rather than a better one. 'Eagle' is wrong because it denotes two strokes under par. 'Albatross', also called a double eagle, is wrong because it denotes three strokes under par and is one of the rarest feats in the game."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Consider the following statements about well-known cricket grounds:\n\n(i) Eden Gardens, one of the best-known cricket grounds in India, is at Kolkata.\n(ii) Lord's Cricket Ground is situated at Melbourne.\n(iii) The Narendra Modi Stadium at Ahmedabad is the largest cricket stadium in the world by seating capacity.\n(iv) The Wankhede Stadium is at Mumbai.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, Eden Gardens being India's oldest and among its largest grounds. Statement (iii) is correct, the rebuilt stadium at Motera in Ahmedabad seating about 132,000 spectators. Statement (iv) is correct, the Wankhede being the principal ground of Mumbai. Statement (ii) is incorrect because Lord's, often called the home of cricket and the headquarters of the Marylebone Cricket Club, is in LONDON; the famous ground at Melbourne is the Melbourne Cricket Ground. Every option containing (ii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "At the Tokyo Olympic Games, Neeraj Chopra won a gold medal for India in:",
+      "options": [
+        "shooting",
+        "wrestling",
+        "badminton",
+        "the javelin throw"
+      ],
+      "correctAnswer": "the javelin throw",
+      "explanation": "Neeraj Chopra won the men's javelin throw at the Tokyo Games, giving India its first Olympic gold medal in athletics and only its second individual gold in any sport. 'Shooting' is wrong because India's individual gold in that discipline was won by Abhinav Bindra at Beijing. 'Wrestling' is wrong because India's wrestlers have won silver and bronze medals but no Olympic gold. 'Badminton' is wrong because India's Olympic medals in badminton have been a silver and two bronze, not a gold."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The International Olympic Committee has its headquarters at:",
+      "options": [
+        "Lausanne in Switzerland",
+        "Paris in France",
+        "Athens in Greece",
+        "Rome in Italy"
+      ],
+      "correctAnswer": "Lausanne in Switzerland",
+      "explanation": "The International Olympic Committee has been based at Lausanne in Switzerland since 1915, and the city is accordingly known as the Olympic Capital. 'Paris in France' is wrong, although it is a tempting choice because the committee was founded there in 1894 and its founder Pierre de Coubertin was French. 'Athens in Greece' is wrong because Athens, for all its historic association with the Games, is not the seat of the committee. 'Rome in Italy' is wrong because Rome merely hosted the Games of 1960."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The first Asian Games, held in 1951, were hosted by which city?",
+      "options": [
+        "Tokyo",
+        "New Delhi",
+        "Manila",
+        "Bangkok"
+      ],
+      "correctAnswer": "New Delhi",
+      "explanation": "New Delhi hosted the inaugural Asian Games in 1951 and hosted them a second time in 1982, when the Games returned to India. 'Tokyo' is wrong because the Japanese capital staged the third edition in 1958. 'Manila' is wrong because it hosted the second edition in 1954. 'Bangkok' is wrong because although it has hosted the Games more often than any other city, its first turn came only in 1966, well after the inaugural meeting."
+    }
+  ]
+}

@@ -201,17 +201,17 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 70 | Morning | D — English Comprehension | Cloze Passage | 30 | standard | Topic-wise | ⬜ |
-| 71 | Afternoon | B — General Awareness | General Science: Biology | 40 | standard | Topic-wise | ⬜ |
-| 72 | Late | D — English Comprehension | Comprehension Passage | 50 | standard | Topic-wise | ⬜ |
+| 70 | Morning | D — English Comprehension | Cloze Passage | 30 | standard | Topic-wise | ✅ |
+| 71 | Afternoon | B — General Awareness | General Science: Biology | 40 | standard | Topic-wise | ✅ |
+| 72 | Late | D — English Comprehension | Comprehension Passage | 50 | standard | Topic-wise | ✅ |
 
 ### Day 25
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 73 | Morning | B — General Awareness | Scientific Research & Everyday Science | 30 | standard | Topic-wise | ⬜ |
-| 74 | Afternoon | B — General Awareness | Sports | 40 | standard | Topic-wise | ⬜ |
-| 75 | Late | B — General Awareness | Static GK (Books, Awards, Days, Institutions) | 50 | standard | Topic-wise | ⬜ |
+| 73 | Morning | B — General Awareness | Scientific Research & Everyday Science | 30 | standard | Topic-wise | ✅ |
+| 74 | Afternoon | B — General Awareness | Sports | 40 | standard | Topic-wise | ✅ |
+| 75 | Late | B — General Awareness | Static GK (Books, Awards, Days, Institutions) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 26
 

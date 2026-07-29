@@ -1,0 +1,397 @@
+{
+  "subject": "B",
+  "topic": "Scientific Research & Everyday Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The headquarters of the Indian Space Research Organisation (ISRO) is located at:",
+      "options": [
+        "Thiruvananthapuram",
+        "Bengaluru",
+        "Hyderabad",
+        "Ahmedabad"
+      ],
+      "correctAnswer": "Bengaluru",
+      "explanation": "ISRO has its headquarters at Bengaluru in Karnataka, from where the organisation's programmes are directed. 'Thiruvananthapuram' is wrong because it is the seat of the Vikram Sarabhai Space Centre, which develops launch vehicles, not of the headquarters. 'Hyderabad' is wrong because it hosts the National Remote Sensing Centre, which handles satellite data reception. 'Ahmedabad' is wrong because it is the location of the Space Applications Centre, which works on payloads and applications; all three are important ISRO establishments but none is its headquarters."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the method of scientific enquiry:\n\n(i) A hypothesis is a testable explanation proposed before the evidence has been gathered.\n(ii) A well-designed experiment includes a control with which the result can be compared.\n(iii) A hypothesis contradicted by the evidence should nevertheless be retained if it is widely believed.\n(iv) A result becomes more reliable when independent researchers are able to reproduce it.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) correctly describes a hypothesis as a proposed explanation framed so that it can be tested. Statement (ii) is correct because without a control there is nothing against which to judge the effect. Statement (iv) is correct, since reproducibility is the strongest check available in science. Statement (iii) is incorrect and inverts the whole basis of the method: when evidence contradicts a hypothesis the hypothesis must be modified or abandoned, however popular it may be. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "Chandrayaan-3, which made a successful soft landing on the Moon in 2023, touched down near which region?",
+      "options": [
+        "The south polar region",
+        "The equatorial region",
+        "The far side close to the north pole",
+        "The Sea of Tranquillity"
+      ],
+      "correctAnswer": "The south polar region",
+      "explanation": "The Vikram lander of Chandrayaan-3 came down near the lunar south pole, making India the first country to land in that region and the fourth to achieve a soft landing on the Moon at all. 'The equatorial region' is wrong because that is where the earlier Apollo and Luna landings were made, the terrain there being far easier. 'The far side close to the north pole' is wrong on both counts of hemisphere and pole. 'The Sea of Tranquillity' is wrong because that was the landing site of Apollo 11 in 1969."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the organisations in Column I with their principal field of work in Column II:\n\nColumn I:\n(a) ISRO\n(b) DRDO\n(c) ICAR\n(d) IMD\n\nColumn II:\n(i) Weather forecasting\n(ii) Agricultural research and education\n(iii) Space research and satellite launches\n(iv) Development of defence technology\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "ISRO conducts space research, DRDO develops defence technology, ICAR directs agricultural research, and the India Meteorological Department issues weather forecasts and warnings. The first option is wrong because it swaps ISRO and DRDO, assigning satellite launches to the defence laboratories. The second option is wrong because it interchanges ICAR and IMD, giving crop research to the weather service. The fourth option is wrong because it makes DRDO an agricultural body and ICAR a defence body, exchanging two wholly unrelated mandates."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Food cooks faster in a pressure cooker than in an open pan mainly because:",
+      "options": [
+        "the increased pressure raises the boiling point of water",
+        "the increased pressure lowers the boiling point of water",
+        "steam has a much lower heat capacity than boiling water",
+        "the metal of the cooker conducts heat better than that of a pan"
+      ],
+      "correctAnswer": "the increased pressure raises the boiling point of water",
+      "explanation": "Trapped steam raises the pressure inside the cooker, and since the boiling point of a liquid rises with pressure, the water reaches well above 100 degrees Celsius, so the food is cooked at a higher temperature and in less time. The second option is wrong because it reverses the relationship; a lower boiling point is what makes cooking slower at high altitudes. The third option is wrong because the heat capacity of steam is not what shortens the cooking time. The fourth option is wrong because a pan of the same metal still cooks more slowly, showing that conduction by the vessel is not the operative factor."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Tea poured into a vacuum flask remains hot for many hours.\nReason (R): The vacuum between the double walls of the flask prevents the loss of heat by conduction and convection.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) explains (A) directly. Conduction and convection both need a material medium, and the evacuated space between the walls provides none, so those two routes of heat loss are shut off; the silvering of the walls further checks the third route, radiation. The second option is wrong because the vacuum is the very mechanism of the insulation, not an incidental fact. The third option is wrong because the double-walled evacuated design is well established. The fourth option is wrong because (A) is a matter of common experience."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are missions launched by the Indian Space Research Organisation?\n\n(i) Chandrayaan-2\n(ii) The Mars Orbiter Mission, known as Mangalyaan\n(iii) Voyager-1\n(iv) Aditya-L1\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Chandrayaan-2 was India's second lunar mission, Mangalyaan placed an Indian orbiter around Mars, and Aditya-L1 is India's solar observatory, so all three belong to ISRO. Voyager-1 is the exception: it was launched by the United States space agency NASA in 1977 and has since travelled beyond the solar system. Hence the first option is wrong (it includes Voyager and omits Aditya-L1), the second is wrong (it includes Voyager and omits Chandrayaan-2), and the third is wrong (it includes Voyager and omits Mangalyaan)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Liquefied petroleum gas has almost no smell of its own. A strong-smelling substance is deliberately added to it so that:",
+      "options": [
+        "it burns with a cleaner and steadier flame",
+        "a leak can be detected easily by its smell",
+        "it can be compressed more readily into cylinders",
+        "it does not react with the metal of the cylinder"
+      ],
+      "correctAnswer": "a leak can be detected easily by its smell",
+      "explanation": "A trace of ethyl mercaptan is added as an odorant so that an escape of gas is noticed at once, long before enough has collected to form an explosive mixture with air. The first option is wrong because the odorant is present in such tiny quantity that it has no effect on the quality of the flame. The third option is wrong because compressibility depends on the gas itself and is unaffected by the additive. The fourth option is wrong because preventing corrosion of the cylinder is not the purpose of the odorant."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Light travels at approximately 3 x 10^8 metres per second. Taking one year as 365 days, one light year is approximately:",
+      "options": [
+        "9.46 x 10^12 metres",
+        "9.46 x 10^13 metres",
+        "9.46 x 10^15 metres",
+        "9.46 x 10^18 metres"
+      ],
+      "correctAnswer": "9.46 x 10^15 metres",
+      "explanation": "The number of seconds in a year is 365 x 24 x 3,600 = 3.1536 x 10^7, and multiplying this by 3 x 10^8 metres per second gives about 9.46 x 10^15 metres. '9.46 x 10^12 metres' is wrong by a factor of a thousand and corresponds to roughly the distance light covers in about eight hours. '9.46 x 10^13 metres' is wrong by a factor of a hundred. '9.46 x 10^18 metres' is wrong because it is a thousand times too large and would represent about a thousand light years."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about familiar devices and processes:\n\n(i) A vacuum flask reduces the transfer of heat by conduction, convection and radiation.\n(ii) Water is used as a coolant in vehicle radiators because of its high specific heat capacity.\n(iii) A pressure cooker is fitted with a safety valve so that excess steam can escape.\n(iv) A refrigerator cools its interior by producing cold air through a chemical reaction.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because the vacuum blocks conduction and convection while the silvered surfaces check radiation. Statement (ii) is correct, since water absorbs a great deal of heat for a small rise in its own temperature. Statement (iii) is correct because the safety valve prevents a dangerous build-up of pressure. Statement (iv) is incorrect: a refrigerator produces no cold chemically but removes heat from inside by the repeated evaporation and compression of a refrigerant, discharging that heat at the coils behind. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Defence Research and Development Organisation (DRDO) functions under which ministry of the Government of India?",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Science and Technology",
+        "Ministry of Electronics and Information Technology",
+        "Ministry of Defence"
+      ],
+      "correctAnswer": "Ministry of Defence",
+      "explanation": "DRDO is the research and development wing of the Ministry of Defence and designs systems such as missiles, radars and armoured vehicles for the armed forces. 'Ministry of Home Affairs' is wrong because that ministry deals with internal security and the central police organisations. 'Ministry of Science and Technology' is wrong because although it oversees bodies such as the Department of Science and Technology and CSIR, defence research lies outside its charge. 'Ministry of Electronics and Information Technology' is wrong because its remit is civilian electronics and digital governance."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The following data show the number of research papers published in a year by four institutes together with the number of researchers each employs:\n\nInstitute P: 480 papers, 240 researchers\nInstitute Q: 350 papers, 175 researchers\nInstitute R: 600 papers, 400 researchers\nInstitute S: 270 papers, 90 researchers\n\nWhich institute published the largest number of papers per researcher?",
+      "options": [
+        "Institute P",
+        "Institute S",
+        "Institute Q",
+        "Institute R"
+      ],
+      "correctAnswer": "Institute S",
+      "explanation": "Dividing papers by researchers gives P = 480/240 = 2.0, Q = 350/175 = 2.0, R = 600/400 = 1.5 and S = 270/90 = 3.0, so Institute S is the most productive per researcher. 'Institute R' is a trap for anyone who looks only at the total output of 600 papers, the highest of the four, because R also employs by far the most researchers and has the LOWEST figure per head. 'Institute P' and 'Institute Q' are wrong because both stand at exactly 2.0, below S."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Ice floats on water because:",
+      "options": [
+        "ice is colder than the water that surrounds it",
+        "the surface tension of water is able to support the ice",
+        "the density of ice is less than the density of water",
+        "ice contains dissolved air which makes it buoyant"
+      ],
+      "correctAnswer": "the density of ice is less than the density of water",
+      "explanation": "Water is unusual in expanding as it freezes, so ice has a density of about 0.92 grams per cubic centimetre against water's 1.00, and a body less dense than the liquid floats with part of its volume above the surface. The first option is wrong because temperature by itself does not decide whether a body floats. The second option is wrong because surface tension can support only very light objects such as an insect, not a block of ice. The fourth option is wrong because the buoyancy arises from the open structure formed by hydrogen bonding, not from trapped air."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): On a hot summer day a distant stretch of road often appears to be covered with a sheet of water.\nReason (R): Air is a mixture of gases whose composition varies slightly with height above the ground.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). The appearance described is a mirage, produced because the air just above the hot road is much less dense than the air above it, so light from the sky is refracted through these layers and undergoes total internal reflection, reaching the eye as though from the ground. The slight variation in the chemical composition of air with height plays no part in this. The first option is therefore wrong, while the third and fourth are wrong because both statements are individually correct."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "Penicillin, the first antibiotic to be discovered, is credited to:",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "correctAnswer": "Alexander Fleming",
+      "explanation": "In 1928 Alexander Fleming noticed that a Penicillium mould which had contaminated one of his culture plates had stopped the bacteria around it from growing, and from this observation penicillin was developed. 'Louis Pasteur' is wrong because his contributions were pasteurisation and work on germ theory and vaccines. 'Robert Koch' is wrong because he identified the bacteria responsible for tuberculosis and cholera. 'Joseph Lister' is wrong because he pioneered antiseptic surgery; all three advanced medicine, but none discovered penicillin."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Match the instruments in Column I with the quantity each one is used to measure in Column II:\n\nColumn I:\n(a) Seismograph\n(b) Barometer\n(c) Altimeter\n(d) Odometer\n\nColumn II:\n(i) Height above sea level\n(ii) Distance travelled by a vehicle\n(iii) Intensity of earthquake waves\n(iv) Atmospheric pressure\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "A seismograph records the waves of an earthquake, a barometer measures atmospheric pressure, an altimeter shows height above sea level, and an odometer registers the distance a vehicle has run. The first option is wrong because it swaps the seismograph and the barometer. The third option is wrong because it interchanges the altimeter and the odometer, so height would be read from a vehicle's mileage. The fourth option is wrong because it assigns height to the barometer and pressure to the altimeter, confusing two instruments that are related in principle but read different quantities."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Which of the following are practical uses of artificial satellites?\n\n(i) Telecommunication and television broadcasting\n(ii) Weather observation and forecasting\n(iii) Generating electricity for supply to the national grid\n(iv) Navigation and the finding of position\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Satellites relay telephone and television signals, photograph cloud systems for weather forecasting, and provide the timing signals from which a receiver works out its position. Item (iii) is the exception: although a satellite generates electricity from its solar panels, that power runs its own instruments and there is no means of transmitting it to a terrestrial grid. Hence the first option is wrong (it includes power generation and omits navigation), the second is wrong (it includes it and omits broadcasting), and the third is wrong (it includes it and omits weather observation)."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Milk is pasteurised by:",
+      "options": [
+        "boiling it vigorously for about half an hour",
+        "adding a measured quantity of chemical preservative to it",
+        "heating it to a controlled temperature and then cooling it rapidly",
+        "exposing it to direct sunlight for several hours"
+      ],
+      "correctAnswer": "heating it to a controlled temperature and then cooling it rapidly",
+      "explanation": "Pasteurisation heats milk to a fixed temperature, commonly about 72 degrees Celsius for a few seconds, and then chills it quickly, so that harmful microbes are destroyed while the taste and nutritive value are largely preserved. The first option is wrong because prolonged vigorous boiling damages the vitamins and alters the flavour, and it is not what pasteurisation means. The second option is wrong because the process is purely one of heat treatment. The fourth option is wrong because sunlight cannot be relied upon to kill pathogens in milk."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Consider the following statements about satellites and space research:\n\n(i) A geostationary satellite appears to remain fixed above one point on the equator.\n(ii) The Polar Satellite Launch Vehicle is an Indian launch vehicle.\n(iii) A satellite in orbit has passed beyond the reach of the Earth's gravitational pull.\n(iv) Remote sensing satellites are used to survey crops, forests and water bodies.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because a satellite orbiting above the equator with a period of one day keeps pace with the Earth's rotation. Statement (ii) is correct, the PSLV being ISRO's workhorse rocket. Statement (iv) is correct, as remote sensing data guide agriculture and forestry. Statement (iii) is incorrect and reflects a common misunderstanding: an orbiting satellite is held in its path precisely BY the Earth's gravity, which supplies the centripetal force, and the apparent weightlessness inside it is due to continuous free fall. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "During a thunderstorm, the flash of lightning is seen before the thunder is heard because:",
+      "options": [
+        "the thunder is actually produced a few seconds after the lightning",
+        "sound is absorbed by the clouds before it can reach the ground",
+        "the human ear responds far more slowly than the human eye",
+        "light travels through air very much faster than sound does"
+      ],
+      "correctAnswer": "light travels through air very much faster than sound does",
+      "explanation": "Light travels at about 300,000 kilometres a second and reaches the observer almost instantly, whereas sound covers only about 340 metres a second and so lags by roughly three seconds for every kilometre of distance. The first option is wrong because the flash and the crash are produced together by the same electrical discharge. The second option is wrong because absorption makes thunder fainter but does not delay its arrival. The third option is wrong because the response times of eye and ear differ by only a fraction of a second, far too little to explain a gap of several seconds."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Sea water is unfit for drinking even though it is water.\nReason (R): Sea water contains dissolved oxygen, which is poisonous to human beings.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: sea water cannot be drunk safely. (R) is wrong on two counts, since dissolved oxygen is harmless and indeed essential to the fish that live in the sea. The real reason is the high concentration of dissolved salts, roughly 35 grams a litre, which draws water out of the body's cells by osmosis and makes the drinker more dehydrated than before. The first and second options are wrong because both require (R) to be correct, and the fourth is wrong because (A) is a well-established fact."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The Indian Council of Medical Research, the apex body for the formulation and promotion of biomedical research in India, has its headquarters at:",
+      "options": [
+        "Pune",
+        "New Delhi",
+        "Mumbai",
+        "Chennai"
+      ],
+      "correctAnswer": "New Delhi",
+      "explanation": "The Indian Council of Medical Research is headquartered at New Delhi and funds and coordinates a nationwide network of research institutes. 'Pune' is a tempting distractor because it is the seat of the National Institute of Virology, an important ICMR institute that came to public notice during epidemics, but it is not the headquarters. 'Mumbai' is wrong because that city hosts the Bhabha Atomic Research Centre and the Tata Memorial Hospital. 'Chennai' is wrong because it houses the National Institute of Epidemiology, again an institute rather than the headquarters."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "An analyst recorded the following details of four satellite launches:\n\nLaunch W: 1 primary satellite and 8 small satellites, all placed in orbit\nLaunch X: 1 primary satellite and 24 small satellites, all placed in orbit\nLaunch Y: 1 primary satellite and 15 small satellites, of which 2 failed to separate\nLaunch Z: 1 primary satellite and 30 small satellites, of which 5 failed to separate\n\nWhich launch successfully placed the largest number of satellites in orbit?",
+      "options": [
+        "Launch Z",
+        "Launch X",
+        "Launch Y",
+        "Launch W"
+      ],
+      "correctAnswer": "Launch Z",
+      "explanation": "Counting only the satellites actually placed in orbit gives W = 1 + 8 = 9, X = 1 + 24 = 25, Y = 1 + 15 - 2 = 14 and Z = 1 + 30 - 5 = 26, so Launch Z put the greatest number into orbit. 'Launch X' is the trap, since it alone suffered no failure at all, but a flawless launch of 25 still falls short of Z's 26. 'Launch Y' is wrong at 14 and 'Launch W' is wrong at 9, the smallest of the four."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Match each everyday observation in Column I with the scientific principle that explains it in Column II:\n\nColumn I:\n(a) A straw appears bent where it enters a glass of water\n(b) A heavy ship built of steel floats on water\n(c) Sweating cools the body on a hot day\n(d) A pair of scissors cuts paper easily when sharpened\n\nColumn II:\n(i) Evaporation absorbs latent heat from the surface it leaves\n(ii) Refraction of light at the boundary of two media\n(iii) Pressure increases when the area of contact is reduced\n(iv) Upthrust on a body equals the weight of the liquid it displaces\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Light bends as it passes from water into air, so the straw looks broken; a steel ship floats because its shape displaces a weight of water equal to its own; sweat evaporating from the skin carries away latent heat; and a sharp blade concentrates the force on a very small area, raising the pressure. The first option is wrong because it swaps the explanations for sweating and for scissors. The second option is wrong because it interchanges refraction and upthrust. The fourth option is wrong because it makes evaporation the cause of the bent straw and upthrust the cause of cooling."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about the conduct of scientific research:\n\n(i) Peer review means that other specialists in the field examine a paper before it is published.\n(ii) A control group is used so that the effect of a treatment can be compared with no treatment.\n(iii) Replication of an experiment by other workers strengthens confidence in its result.\n(iv) A single experiment is sufficient to establish a scientific law beyond any doubt.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) describe three of the standard safeguards of scientific work: independent scrutiny before publication, comparison against a control, and confirmation by repetition. Statement (iv) is incorrect because a single result may arise from chance, from faulty apparatus or from an error in method, which is exactly why replication matters; a law is accepted only after repeated and varied confirmation. Every option containing (iv) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The non-stick coating applied to the inner surface of cooking pans is commonly made of:",
+      "options": [
+        "stainless steel",
+        "polytetrafluoroethylene",
+        "anodised aluminium",
+        "borosilicate glass"
+      ],
+      "correctAnswer": "polytetrafluoroethylene",
+      "explanation": "Polytetrafluoroethylene, marketed as Teflon, has an extremely low coefficient of friction and is chemically inert, so food neither sticks to it nor reacts with it. 'Stainless steel' is wrong because it is used for the body of the pan and food adheres to it readily. 'Anodised aluminium' is wrong because anodising hardens the surface and improves corrosion resistance but does not make it non-stick. 'Borosilicate glass' is wrong because it is valued for withstanding sudden temperature change and is used for ovenware and laboratory glassware, not as a coating."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Which of the following are applications of the Global Positioning System?\n\n(i) Guiding a driver along an unfamiliar route\n(ii) Tracking the movement of a fleet of buses\n(iii) Measuring the acidity of a sample of soil\n(iv) Recording the exact place at which a photograph was taken\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "All three of these depend on knowing a position on the Earth's surface: route guidance, vehicle tracking and the tagging of a photograph with its location. Item (iii) is the exception, because the acidity of soil is a chemical property measured by a testing kit or a meter and has nothing to do with position finding. Hence the second option is wrong (it includes soil testing and omits photograph tagging), the third is wrong (it includes it and omits route guidance), and the fourth is wrong (it includes it and omits fleet tracking)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "The branch of science that deals with the production and the effects of very low temperatures is called __________.",
+      "options": [
+        "seismology",
+        "meteorology",
+        "metallurgy",
+        "cryogenics"
+      ],
+      "correctAnswer": "cryogenics",
+      "explanation": "Cryogenics is concerned with temperatures below about minus 150 degrees Celsius, and cryogenic engines burning liquid hydrogen with liquid oxygen power the upper stages of heavy launch vehicles. 'Seismology' is wrong because it is the study of earthquakes and the waves they send through the Earth. 'Meteorology' is wrong because it is the study of the atmosphere and of weather. 'Metallurgy' is wrong because it deals with the extraction, properties and working of metals."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Aditya-L1, launched by India in 2023, is a mission to study:",
+      "options": [
+        "the planet Mars",
+        "the polar ice of the Moon",
+        "the Sun",
+        "asteroids in the outer solar system"
+      ],
+      "correctAnswer": "the Sun",
+      "explanation": "Aditya-L1 is India's first dedicated solar observatory and was placed in a halo orbit about the first Sun-Earth Lagrange point, from where it can watch the Sun continuously without being interrupted by eclipses. 'The planet Mars' is wrong because that was the target of the Mars Orbiter Mission. 'The polar ice of the Moon' is wrong because lunar studies belong to the Chandrayaan series. 'Asteroids in the outer solar system' is wrong because India has launched no asteroid mission, and the name Aditya itself denotes the Sun."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements about scientific units:\n\n(i) A light year is a unit of distance and not of time.\n(ii) A nanometre is one thousandth part of a metre.\n(iii) The SI unit of the amount of a substance is the mole.\n(iv) An astronomical unit is approximately the mean distance between the Earth and the Sun.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct and corrects a frequent misconception, since a light year measures how far light travels in a year. Statement (iii) is correct, the mole being one of the seven base SI units. Statement (iv) is correct, the astronomical unit being about 150 million kilometres. Statement (ii) is incorrect because a nanometre is one BILLIONTH of a metre, that is 10 to the power minus nine; one thousandth of a metre is a millimetre. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    }
+  ]
+}

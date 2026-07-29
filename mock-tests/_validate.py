@@ -16,6 +16,10 @@ def qtype(q):
         return "AssertionReason"
     if "Column I" in t or "List I" in t:
         return "Matching"
+    # Cloze / comprehension items embed a passage and may contain a blank marker;
+    # they are ordinary single-correct questions, not fill-in-the-blank items.
+    if t.lower().startswith("read the following passage"):
+        return "Single/Numerical/DI"
     if t.lower().startswith("consider the following statement"):
         return "Statement"
     if re.match(r"which of the following (are|is/are|is classified|are classified)", t.lower()):

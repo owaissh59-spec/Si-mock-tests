@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "General Science: Biology",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The basic structural and functional unit of all living organisms is the:",
+      "options": [
+        "Tissue",
+        "Cell",
+        "Organ",
+        "Molecule"
+      ],
+      "correctAnswer": "Cell",
+      "explanation": "The cell is the smallest unit capable of carrying out all the processes of life independently, which is why it is called the basic structural and functional unit of life. 'Tissue' is wrong because a tissue is a group of similar cells working together and is therefore a higher level of organisation. 'Organ' is wrong because an organ is made of several tissues and is higher still. 'Molecule' is wrong because although molecules build up the cell, an individual molecule is not alive and cannot perform respiration, growth or reproduction."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the human circulatory system:\n\n(i) The human heart has four chambers.\n(ii) Arteries generally carry blood away from the heart.\n(iii) The pulmonary artery carries oxygenated blood from the heart to the lungs.\n(iv) Valves in the heart prevent the backward flow of blood.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct: two atria and two ventricles. Statement (ii) is correct, since arteries conduct blood from the heart to the body. Statement (iv) is correct because the valves make the flow one-way. Statement (iii) is incorrect and is the classic exception to the artery rule: the pulmonary artery carries DEOXYGENATED blood from the right ventricle to the lungs, and it is the pulmonary vein that brings oxygenated blood back. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The green pigment present in plants which absorbs sunlight for photosynthesis is:",
+      "options": [
+        "Haemoglobin",
+        "Carotene",
+        "Chlorophyll",
+        "Melanin"
+      ],
+      "correctAnswer": "Chlorophyll",
+      "explanation": "Chlorophyll, contained in the chloroplasts of green plant cells, absorbs mainly red and blue light and reflects green, which both gives leaves their colour and drives photosynthesis. 'Haemoglobin' is wrong because it is the red iron-containing pigment of animal blood that transports oxygen. 'Carotene' is wrong because it is an orange accessory pigment found in carrots and in autumn leaves and cannot itself run photosynthesis. 'Melanin' is wrong because it is the brown pigment of animal skin and hair that protects against ultraviolet radiation."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the human organs in Column I with their principal functions in Column II:\n\nColumn I:\n(a) Kidney\n(b) Liver\n(c) Pancreas\n(d) Lung\n\nColumn II:\n(i) Secretion of bile\n(ii) Exchange of respiratory gases\n(iii) Filtration of nitrogenous waste from blood\n(iv) Secretion of insulin\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "The kidney filters urea and other nitrogenous wastes from the blood, the liver secretes bile, the pancreas secretes insulin from its islet cells, and the lung exchanges oxygen for carbon dioxide. The second option is wrong because it swaps kidney and liver, giving the kidney the job of producing bile. The third option is wrong because it interchanges liver and pancreas, so insulin would come from the liver. The fourth option is wrong because it makes the pancreas a respiratory organ and the lung a source of insulin, which reverses two entirely unrelated functions."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Which of the following diseases is caused by a virus?",
+      "options": [
+        "Tuberculosis",
+        "Cholera",
+        "Typhoid",
+        "Measles"
+      ],
+      "correctAnswer": "Measles",
+      "explanation": "Measles is caused by the measles virus, spreads through respiratory droplets and is prevented by vaccination rather than treated with antibiotics. 'Tuberculosis' is wrong because it is caused by the bacterium Mycobacterium tuberculosis. 'Cholera' is wrong because it is caused by the bacterium Vibrio cholerae, which contaminates water and causes severe diarrhoea. 'Typhoid' is wrong because it is caused by the bacterium Salmonella typhi; all three of these bacterial diseases respond to antibiotics, whereas a viral disease such as measles does not."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A patient suffering from a common cold is not helped by a course of antibiotics.\nReason (R): Antibiotics act on bacteria and have no effect on viruses.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: the common cold is caused by viruses, and since antibiotics work by attacking bacterial structures such as the cell wall, they have no target in a virus. The second option is wrong because this is a direct causal explanation, not an unrelated fact. The third option is wrong because the distinction between antibacterial and antiviral action is well established. The fourth option is wrong because (A) is correct, and needless antibiotic use for colds is a recognised cause of drug resistance."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are vitamins that dissolve in fat rather than in water?\n\n(i) Vitamin A\n(ii) Vitamin C\n(iii) Vitamin D\n(iv) Vitamin K\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Vitamins A, D, E and K are the fat-soluble group; they are stored in the liver and in fatty tissue, so an excess can accumulate and cause harm. Vitamin C is the exception here because it is water-soluble, is not stored in appreciable amounts and any surplus is excreted in the urine, which is why it must be taken regularly. Hence the first option is wrong (it includes vitamin C and omits vitamin K), the second is wrong (it includes vitamin C and omits vitamin A), and the fourth is wrong (it includes vitamin C and omits vitamin D)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The deficiency of which vitamin causes the disease scurvy, marked by bleeding gums and slow healing of wounds?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin D",
+        "Vitamin C"
+      ],
+      "correctAnswer": "Vitamin C",
+      "explanation": "Vitamin C, ascorbic acid, is needed to make collagen, so its absence weakens gums and blood vessels and delays the healing of wounds, producing scurvy; citrus fruits and amla prevent it. 'Vitamin A' is wrong because its deficiency causes night blindness and dryness of the cornea. 'Vitamin B1' is wrong because a lack of thiamine causes beriberi, affecting the nerves and heart. 'Vitamin D' is wrong because its deficiency causes rickets in children and osteomalacia in adults, both disorders of bone rather than of gums."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "A human somatic cell contains 46 chromosomes. The number of chromosomes present in a human sperm cell is:",
+      "options": [
+        "46",
+        "92",
+        "22",
+        "23"
+      ],
+      "correctAnswer": "23",
+      "explanation": "Gametes are produced by meiosis, which halves the chromosome number, so a sperm carries 23 chromosomes and fertilisation with an egg of 23 restores the somatic number of 46. '46' is wrong because that is the diploid number of a body cell, and if a sperm carried 46 the zygote would have 92. '92' is wrong because it is double the somatic number and corresponds to no normal human cell. '22' is wrong because it counts only the autosomes and forgets the single sex chromosome that every gamete also carries."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about photosynthesis:\n\n(i) Photosynthesis uses carbon dioxide and water to produce glucose.\n(ii) Oxygen is released as a by-product of photosynthesis.\n(iii) Photosynthesis takes place in the mitochondria of the plant cell.\n(iv) Sunlight supplies the energy required for the process.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) together give the standard account: carbon dioxide and water are the raw materials, sunlight is the energy source and oxygen is liberated. Statement (iii) is incorrect because photosynthesis occurs in the CHLOROPLASTS, which contain chlorophyll; the mitochondria are the site of respiration, the reverse process in which glucose is oxidised to release energy. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The hormone insulin, which lowers the level of glucose in the blood, is secreted by the:",
+      "options": [
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pancreas",
+        "Pituitary gland"
+      ],
+      "correctAnswer": "Pancreas",
+      "explanation": "Insulin is produced by the beta cells of the islets of Langerhans in the pancreas, and its failure or ineffectiveness causes diabetes mellitus. 'Thyroid gland' is wrong because it secretes thyroxine, which controls the rate of metabolism, and its deficiency causes goitre. 'Adrenal gland' is wrong because it secretes adrenaline, the emergency hormone that raises heart rate and blood glucose. 'Pituitary gland' is wrong because it secretes growth hormone and controls other endocrine glands, but it does not produce insulin."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The following data show the composition of a sample of normal human blood:\n\nPlasma: about 55 per cent by volume\nRed blood cells: about 44 per cent by volume\nWhite blood cells and platelets: about 1 per cent by volume\n\nWhich of the following conclusions drawn from this data is correct?",
+      "options": [
+        "Red blood cells form the largest single component of blood by volume",
+        "White blood cells outnumber red blood cells in normal blood",
+        "The liquid part of the blood makes up more than half its volume",
+        "Platelets occupy a greater volume than the plasma does"
+      ],
+      "correctAnswer": "The liquid part of the blood makes up more than half its volume",
+      "explanation": "Plasma is the liquid component and at about 55 per cent it exceeds half the total volume, which is why blood flows as a liquid despite being packed with cells. The first option is wrong because plasma at 55 per cent is larger than the red cell fraction of 44 per cent. The second option is wrong because white cells and platelets together occupy only about 1 per cent, and red cells in fact outnumber white cells by roughly six hundred to one. The fourth option is wrong because platelets form part of that same 1 per cent and cannot exceed the 55 per cent taken by plasma."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Malaria in human beings is transmitted by the bite of:",
+      "options": [
+        "The female Anopheles mosquito",
+        "The male Anopheles mosquito",
+        "The female Aedes mosquito",
+        "The common housefly"
+      ],
+      "correctAnswer": "The female Anopheles mosquito",
+      "explanation": "Only the female Anopheles takes a blood meal, which she needs for egg development, and in doing so she transfers the Plasmodium parasite that causes malaria. 'The male Anopheles' is wrong because males feed on plant nectar and never bite, so they cannot transmit the parasite. 'The female Aedes mosquito' is wrong because Aedes aegypti transmits dengue, chikungunya and yellow fever rather than malaria. 'The common housefly' is wrong because it spreads diseases such as typhoid and cholera mechanically on its body, not by biting."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Leguminous plants such as gram and pea improve the fertility of the soil in which they grow.\nReason (R): Leguminous plants absorb nitrogen gas directly from the air through tiny pores in their leaves.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct, which is why legumes are valued in crop rotation. (R) is wrong because legumes do not take in nitrogen through their leaves at all; the gas is fixed by Rhizobium bacteria living in nodules on their ROOTS, and these bacteria convert it into compounds the plant can absorb. The first and second options are wrong because both require (R) to be a correct statement. The fourth option is wrong because (A) is a well-established agricultural fact."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "The longest cell in the human body is the:",
+      "options": [
+        "Muscle cell",
+        "Nerve cell",
+        "Red blood cell",
+        "Bone cell"
+      ],
+      "correctAnswer": "Nerve cell",
+      "explanation": "A nerve cell, or neuron, can be extremely long because its axon may run without interruption from the spinal cord to the foot, a distance approaching a metre in an adult. 'Muscle cell' is wrong because although skeletal muscle fibres are long, they do not approach the length of the longest axons. 'Red blood cell' is wrong because it is a tiny biconcave disc only about seven micrometres across and lacks a nucleus. 'Bone cell' is wrong because osteocytes are small cells lodged in cavities within the bone matrix."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Match the terms in Column I with their correct descriptions in Column II:\n\nColumn I:\n(a) Herbivore\n(b) Carnivore\n(c) Omnivore\n(d) Decomposer\n\nColumn II:\n(i) Feeds on both plants and animals\n(ii) Breaks down dead organic matter\n(iii) Feeds only on plants\n(iv) Feeds only on the flesh of other animals\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "A herbivore such as a cow eats only plants, a carnivore such as a tiger eats only flesh, an omnivore such as a bear eats both, and a decomposer such as a fungus breaks down dead remains and returns nutrients to the soil. The first option is wrong because it swaps herbivore and omnivore, making a plant-eater a mixed feeder. The third option is wrong because it interchanges carnivore and omnivore. The fourth option is wrong because it makes the omnivore a decomposer and the decomposer a mixed feeder, confusing a feeding habit with a recycling role in the ecosystem."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Which of the following are parts of the human digestive system?\n\n(i) Oesophagus\n(ii) Small intestine\n(iii) Trachea\n(iv) Stomach\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The oesophagus, stomach and small intestine are successive parts of the alimentary canal along which food is carried, digested and absorbed. The trachea is the exception: it is the windpipe and belongs to the respiratory system, carrying air from the throat to the bronchi. Hence the first option is wrong (it includes the trachea and omits the stomach), the second is wrong (it includes the trachea and omits the oesophagus), and the third is wrong (it includes the trachea and omits the small intestine)."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "The process by which pollen grains are transferred from the anther to the stigma of a flower is called:",
+      "options": [
+        "Fertilisation",
+        "Pollination",
+        "Germination",
+        "Transpiration"
+      ],
+      "correctAnswer": "Pollination",
+      "explanation": "Pollination is the transfer of pollen from the anther to the stigma, brought about by wind, water or animals such as bees, and it must occur before fertilisation can follow. 'Fertilisation' is wrong because it is the later fusion of the male and female gametes inside the ovule. 'Germination' is wrong because it is the sprouting of a seed into a young plant. 'Transpiration' is wrong because it is the loss of water vapour from the leaves of a plant, a process of water movement unconnected with reproduction."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Consider the following statements about deoxyribonucleic acid (DNA):\n\n(i) DNA carries the hereditary information of an organism.\n(ii) DNA is normally found in the nucleus of a eukaryotic cell.\n(iii) A gene is a segment of DNA that codes for a particular character.\n(iv) DNA is a single-stranded molecule shaped like a straight ladder.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) are the standard facts: DNA stores inherited information, it lies chiefly in the nucleus, and a gene is a functional length of it. Statement (iv) is incorrect on both counts, because DNA is DOUBLE-stranded and the two strands are wound around each other in a double helix rather than lying flat like a straight ladder. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The part of the human brain that controls balance and the coordination of muscular movement is the:",
+      "options": [
+        "Cerebrum",
+        "Medulla oblongata",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "correctAnswer": "Cerebellum",
+      "explanation": "The cerebellum, lying beneath and behind the cerebrum, maintains posture and balance and smooths out voluntary movement, which is why damage to it produces an unsteady gait. 'Cerebrum' is wrong because it is the seat of thinking, memory and voluntary decision rather than of balance. 'Medulla oblongata' is wrong because it governs involuntary vital activities such as breathing, heartbeat and vomiting. 'Hypothalamus' is wrong because it regulates body temperature, hunger, thirst and the release of pituitary hormones."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Arteries have thicker and more elastic walls than veins.\nReason (R): Veins are provided with valves along their length to prevent the backward flow of blood.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are individually true, but (R) does not explain (A). Arteries are thick and elastic because they must withstand the high pressure of blood pumped directly from the heart and must recoil between beats; the presence of valves in veins is a separate adaptation to low pressure. The first option is wrong because it treats one vessel's feature as the cause of another's. The third option is wrong because veins genuinely do possess valves. The fourth option is wrong because the thickness of arterial walls is a well-known fact of anatomy."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "In a food chain represented as grass, then grasshopper, then frog, then snake, the frog occupies the position of:",
+      "options": [
+        "Producer",
+        "Primary consumer",
+        "Decomposer",
+        "Secondary consumer"
+      ],
+      "correctAnswer": "Secondary consumer",
+      "explanation": "The grass is the producer, the grasshopper that eats it is the primary consumer, and the frog that eats the grasshopper is therefore the secondary consumer, with the snake as the tertiary consumer. 'Producer' is wrong because only green plants that make their own food by photosynthesis are producers. 'Primary consumer' is wrong because that place belongs to the grasshopper, which feeds directly on the plant. 'Decomposer' is wrong because decomposers such as bacteria and fungi act on dead remains and do not appear as a link in this chain."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The number of pairs of chromosomes present in a normal human body cell is __________.",
+      "options": [
+        "46",
+        "23",
+        "22",
+        "24"
+      ],
+      "correctAnswer": "23",
+      "explanation": "A human body cell contains 46 chromosomes arranged as 23 PAIRS, of which 22 pairs are autosomes and one pair determines sex. '46' is wrong because that is the total number of individual chromosomes, not the number of pairs, and reading the question carelessly is the commonest error here. '22' is wrong because it counts only the autosomal pairs and leaves out the sex chromosomes. '24' is wrong because it corresponds to no human count, though 24 pairs is the number found in chimpanzees."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Match the diseases in Column I with the organ or system they chiefly affect in Column II:\n\nColumn I:\n(a) Cataract\n(b) Arthritis\n(c) Jaundice\n(d) Asthma\n\nColumn II:\n(i) Joints\n(ii) Liver\n(iii) Eye\n(iv) Respiratory passages\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "A cataract is a clouding of the lens of the eye, arthritis is an inflammation of the joints, jaundice reflects a disorder of the liver marked by yellowing of the skin, and asthma narrows the air passages of the lungs. The second option is wrong because it swaps the eye and the joints. The third option is wrong because it makes arthritis a liver disease and jaundice a joint disease. The fourth option is wrong because it assigns jaundice to the airways and asthma to the liver, exchanging two conditions whose symptoms have nothing in common."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about the human respiratory system:\n\n(i) Exchange of gases takes place in the alveoli of the lungs.\n(ii) The diaphragm helps in the process of breathing.\n(iii) Inhaled air contains a higher proportion of carbon dioxide than exhaled air.\n(iv) Haemoglobin in the red blood cells carries oxygen to the tissues.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because the thin-walled alveoli provide the vast surface across which gases diffuse. Statement (ii) is correct, as the diaphragm flattens to draw air in. Statement (iv) is correct because haemoglobin binds oxygen and releases it in the tissues. Statement (iii) is incorrect and reverses the facts: inhaled air contains only about 0.04 per cent carbon dioxide whereas exhaled air contains around 4 per cent, since carbon dioxide is a waste product being removed. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The functional unit of the kidney, in which blood is filtered, is called the __________.",
+      "options": [
+        "neuron",
+        "nephron",
+        "alveolus",
+        "villus"
+      ],
+      "correctAnswer": "nephron",
+      "explanation": "Each kidney contains about a million nephrons, and each nephron filters blood in its glomerulus and then reabsorbs useful substances along its tubule, so it is the functional unit of the organ. 'Neuron' is wrong because that is the functional unit of the nervous system, and the similarity of the two words is a frequent source of confusion. 'Alveolus' is wrong because it is the air sac of the lung. 'Villus' is wrong because villi are the finger-like projections of the small intestine that absorb digested food."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Which of the following are examples of asexual reproduction?\n\n(i) Binary fission in Amoeba\n(ii) Budding in yeast\n(iii) Formation of a seed after fertilisation in a flowering plant\n(iv) Vegetative propagation by a potato tuber\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Binary fission, budding and vegetative propagation all produce new individuals from a single parent without the fusion of gametes, so the offspring are genetically identical to the parent. The formation of a seed after fertilisation is the exception, since it follows the union of male and female gametes and is therefore sexual reproduction. Hence the first option is wrong (it includes seed formation and omits the potato tuber), the third is wrong (it includes seed formation and omits binary fission), and the fourth is wrong (it includes seed formation and omits budding)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Which of the following blood groups is described as the universal donor group?",
+      "options": [
+        "Group AB positive",
+        "Group A negative",
+        "Group B positive",
+        "Group O negative"
+      ],
+      "correctAnswer": "Group O negative",
+      "explanation": "Group O negative red cells carry neither the A nor the B antigen nor the Rh factor, so there is nothing on them for a recipient's antibodies to attack, and they can be given in an emergency to a patient of any group. 'Group AB positive' is wrong because it is the universal RECIPIENT group, able to receive from all but donate only to AB positive. 'Group A negative' and 'Group B positive' are wrong because each carries an antigen, A or B, that would provoke a reaction in patients lacking it."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Consider the following statements about enzymes:\n\n(i) Enzymes are biological catalysts, most of which are proteins.\n(ii) Each enzyme generally acts on one particular substrate.\n(iii) Enzymes work best within a narrow range of temperature and pH.\n(iv) An enzyme is used up in the reaction that it speeds up.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct, statement (ii) describes the well-known specificity of enzyme action, and statement (iii) is correct because heat and extreme pH denature the protein and destroy its shape. Statement (iv) is incorrect: like all catalysts an enzyme emerges unchanged and can act again and again, which is why a very small quantity suffices to convert a large amount of substrate. Every option containing (iv) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "A patient's fasting blood glucose was measured on four consecutive mornings and the following readings were obtained, the normal fasting range being 70 to 100 milligrams per decilitre:\n\nDay 1: 168 mg/dL\nDay 2: 174 mg/dL\nDay 3: 181 mg/dL\nDay 4: 176 mg/dL\n\nWhich of the following conclusions is best supported by this data?",
+      "options": [
+        "The readings lie within the normal fasting range on at least two days",
+        "The readings are persistently above the normal fasting range",
+        "The readings show a steady fall towards the normal range",
+        "The readings indicate an abnormally low level of blood glucose"
+      ],
+      "correctAnswer": "The readings are persistently above the normal fasting range",
+      "explanation": "Every one of the four values, from 168 to 181, lies well above the upper normal limit of 100, so the elevation is consistent rather than occasional and points to sustained hyperglycaemia. The first option is wrong because not a single reading falls within 70 to 100. The third option is wrong because the values rise over the first three days and the small dip on the fourth still leaves the level far above normal. The fourth option is wrong because it reverses the direction entirely: abnormally low glucose, or hypoglycaemia, would mean readings below 70."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The largest gland in the human body is the:",
+      "options": [
+        "Pancreas",
+        "Thyroid",
+        "Salivary gland",
+        "Liver"
+      ],
+      "correctAnswer": "Liver",
+      "explanation": "The liver is the largest gland as well as the largest internal organ, weighing over a kilogram in an adult, and it secretes bile besides storing glycogen and detoxifying harmful substances. 'Pancreas' is wrong because although it is a sizeable gland with both digestive and hormonal roles, it is far smaller than the liver. 'Thyroid' is wrong because it is a small butterfly-shaped gland in the neck. 'Salivary gland' is wrong because the salivary glands are small paired glands around the mouth that secrete saliva."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "Match the scientists in Column I with the biological contribution associated with them in Column II:\n\nColumn I:\n(a) Robert Hooke\n(b) Gregor Mendel\n(c) Charles Darwin\n(d) Edward Jenner\n\nColumn II:\n(i) Theory of evolution by natural selection\n(ii) Laws of inheritance\n(iii) Development of the smallpox vaccine\n(iv) First observation and naming of the cell\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Robert Hooke saw and named cells in a slice of cork in 1665, Mendel established the laws of inheritance from his experiments on pea plants, Darwin proposed evolution by natural selection, and Jenner introduced vaccination against smallpox. The second option is wrong because it swaps Hooke and Mendel, crediting the discovery of the cell to a work on heredity. The third option is wrong because it interchanges Mendel and Darwin. The fourth option is wrong because it makes Darwin the inventor of the vaccine and Jenner the author of evolutionary theory."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Which of the following organs is NOT directly involved in the excretion of waste from the human body?",
+      "options": [
+        "Kidney",
+        "Skin",
+        "Lung",
+        "Pancreas"
+      ],
+      "correctAnswer": "Pancreas",
+      "explanation": "The pancreas is a digestive and endocrine gland: it secretes enzymes into the intestine and hormones such as insulin into the blood, but it removes no waste from the body. 'Kidney' is wrong as an answer because it is the principal excretory organ, removing urea and excess salts as urine. 'Skin' is wrong because it excretes water, salts and a little urea in sweat. 'Lung' is wrong because it excretes the carbon dioxide and water vapour produced by respiration."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "In a food chain the producers trap 10,000 joules of energy. Assuming that only 10 per cent of the energy is transferred from one trophic level to the next, the energy available to the tertiary consumer is:",
+      "options": [
+        "10 joules",
+        "100 joules",
+        "1,000 joules",
+        "1 joule"
+      ],
+      "correctAnswer": "10 joules",
+      "explanation": "Applying the ten per cent law at each step, the producers' 10,000 J gives 1,000 J to the primary consumer, 100 J to the secondary consumer and 10 J to the tertiary consumer. '1,000 joules' is wrong because that is the figure for the PRIMARY consumer, only one step above the producers. '100 joules' is wrong because it belongs to the secondary consumer, one level short of the answer required. '1 joule' is wrong because it applies the transfer four times instead of three, which would give the energy of a fourth-order consumer."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Which of the following are functions of the human skeletal system?\n\n(i) Providing support and shape to the body\n(ii) Protecting delicate internal organs\n(iii) Producing blood cells in the bone marrow\n(iv) Secreting digestive enzymes into the intestine\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The skeleton gives the body its framework, shields organs such as the brain and heart within the skull and rib cage, and manufactures blood cells in the red marrow of certain bones. Item (iv) is the exception, because digestive enzymes are secreted by glands such as the pancreas and by the lining of the stomach and intestine, not by bone. Hence the second option is wrong (it includes enzyme secretion and omits support), the third is wrong (it includes it and omits protection), and the fourth is wrong (it includes it and omits blood formation)."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The part of the human eye that controls the amount of light entering it is the:",
+      "options": [
+        "Cornea",
+        "Retina",
+        "Iris",
+        "Lens"
+      ],
+      "correctAnswer": "Iris",
+      "explanation": "The iris is the coloured muscular curtain that widens or narrows the pupil, admitting less light in bright surroundings and more in dim ones. 'Cornea' is wrong because it is the transparent front covering that refracts entering light but cannot vary the amount admitted. 'Retina' is wrong because it is the light-sensitive inner layer where the image is formed and converted into nerve impulses. 'Lens' is wrong because it changes shape to focus objects at different distances, a process called accommodation, rather than regulating light intensity."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The antibodies passed from a mother to her infant through breast milk give the infant active immunity.\nReason (R): Colostrum, the first milk secreted after birth, is especially rich in antibodies.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: colostrum is notably rich in antibodies, which is why early breastfeeding is encouraged. (A) is wrong because ready-made antibodies received from another individual confer PASSIVE immunity; immunity is called active only when the body makes its own antibodies in response to a pathogen or a vaccine. The first and second options are wrong because both require (A) to be correct, and the third option is wrong because (R) is accurate."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The study of the relationship between living organisms and their environment is called:",
+      "options": [
+        "Ecology",
+        "Etymology",
+        "Entomology",
+        "Ethology"
+      ],
+      "correctAnswer": "Ecology",
+      "explanation": "Ecology examines how organisms interact with one another and with their surroundings, covering topics such as food chains, ecosystems and energy flow. 'Etymology' is wrong because it is the study of the origin and history of words and belongs to linguistics, not biology. 'Entomology' is wrong because it is the study of insects, a branch of zoology restricted to one group of animals. 'Ethology' is wrong because it is the study of animal behaviour, which is narrower than the whole organism-environment relationship."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "Which of the following is the correct sequence of levels of organisation in a multicellular organism, from the simplest to the most complex?",
+      "options": [
+        "Cell, organ, tissue, organ system, organism",
+        "Tissue, cell, organ, organ system, organism",
+        "Cell, tissue, organ system, organ, organism",
+        "Cell, tissue, organ, organ system, organism"
+      ],
+      "correctAnswer": "Cell, tissue, organ, organ system, organism",
+      "explanation": "Similar cells form a tissue, several tissues make an organ, related organs form an organ system, and the systems together constitute the organism, so this is the correct ascending order. The first option is wrong because it places the organ before the tissue, although an organ is built out of tissues. The second option is wrong because it begins with tissue, ignoring that the cell is the smallest unit of all. The fourth option is wrong because it places the organ system before the organ, reversing the relationship between a system and its component organs."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "Consider the following statements about vaccination:\n\n(i) A vaccine stimulates the body to produce its own antibodies against a specific disease.\n(ii) Vaccination provides a form of acquired immunity.\n(iii) Edward Jenner's work laid the foundation of vaccination.\n(iv) A vaccine cures a disease after the patient has already contracted it.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) describes how a vaccine works by presenting a harmless form of the pathogen, statement (ii) correctly classifies the resulting protection as acquired immunity, and statement (iii) records Jenner's pioneering use of cowpox material against smallpox. Statement (iv) is incorrect because a vaccine is preventive and must be given BEFORE exposure; it is not a cure for an established infection, which requires treatment instead. Every option containing (iv) — the first, third and fourth — is therefore wrong."
+    }
+  ]
+}

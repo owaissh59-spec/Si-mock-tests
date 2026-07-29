@@ -1,0 +1,657 @@
+{
+  "subject": "D",
+  "topic": "Comprehension Passage",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nWhen a police station in a crowded quarter of Jammu began holding an open meeting on the first Saturday of every month, very few residents attended. The station house officer persisted. He asked shopkeepers, rickshaw drivers and schoolteachers to speak about whatever troubled them, and he wrote down every complaint in a register that any person could inspect. Within a year the meetings were crowded. What had changed, according to the officer, was not the number of constables at his disposal but the willingness of ordinary people to bring him information before a quarrel turned violent. Prevention, he argued, costs a fraction of what investigation costs, and it depends almost entirely on trust that has been earned slowly.\n\nAccording to the passage, the officer attributed the change in attendance chiefly to:",
+      "options": [
+        "the willingness of residents to share information early",
+        "an increase in the number of constables posted at the station",
+        "the introduction of a register open to public inspection",
+        "the holding of meetings on the first Saturday of every month"
+      ],
+      "correctAnswer": "the willingness of residents to share information early",
+      "explanation": "The passage says in so many words that what had changed was 'not the number of constables at his disposal but the willingness of ordinary people to bring him information', so this is the officer's own explanation. The option about more constables is wrong because the passage explicitly rules it out. The register and the monthly meetings are wrong because, although both are mentioned, they are the means by which trust was built rather than the change the officer himself identified as decisive."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about answering comprehension questions:\n\n(i) A fact stated in the passage can be verified by pointing to a particular sentence.\n(ii) An inference is a conclusion drawn from the passage although it is not stated directly.\n(iii) Any statement that goes beyond the information in the passage is a valid inference.\n(iv) The main idea of a passage is usually broader than any single detail in it.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because a stated fact is always traceable to a line of the text. Statement (ii) is the standard definition of an inference. Statement (iv) is correct, since the main idea has to cover the whole passage while a detail covers only part of it. Statement (iii) is incorrect and is the commonest trap in comprehension: going beyond the passage is exactly what makes an inference INVALID, because a sound inference must still rest on what the passage supplies. Every option containing (iii) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nWhen a police station in a crowded quarter of Jammu began holding an open meeting on the first Saturday of every month, very few residents attended. The station house officer persisted. He asked shopkeepers, rickshaw drivers and schoolteachers to speak about whatever troubled them, and he wrote down every complaint in a register that any person could inspect. Within a year the meetings were crowded. What had changed, according to the officer, was not the number of constables at his disposal but the willingness of ordinary people to bring him information before a quarrel turned violent. Prevention, he argued, costs a fraction of what investigation costs, and it depends almost entirely on trust that has been earned slowly.\n\nThe passage states that the complaints made at these meetings were:",
+      "options": [
+        "forwarded to the district administration every month",
+        "recorded in a register that any person could examine",
+        "discussed only with the shopkeepers who had raised them",
+        "published in a local newspaper each Saturday"
+      ],
+      "correctAnswer": "recorded in a register that any person could examine",
+      "explanation": "The passage says the officer 'wrote down every complaint in a register that any person could inspect', which matches this option exactly. Forwarding to the district administration is wrong because no such step is mentioned anywhere. Restricting discussion to shopkeepers is wrong because the passage lists rickshaw drivers and schoolteachers as speakers too. Publication in a newspaper is wrong because the register was open to inspection, which is not at all the same as being printed in the press."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match each type of comprehension question in Column I with the ability it chiefly tests in Column II:\n\nColumn I:\n(a) 'The passage is primarily concerned with ...'\n(b) 'The word 'prudent' in the passage most nearly means ...'\n(c) 'It can be inferred from the passage that ...'\n(d) 'According to the passage, the committee met ...'\n\nColumn II:\n(i) Vocabulary in context\n(ii) Grasp of the main idea\n(iii) Recall of an explicit detail\n(iv) Drawing an implied conclusion\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "'Primarily concerned with' asks for the main idea, a question about what a word 'most nearly means' tests vocabulary in context, 'it can be inferred' asks for an implied conclusion, and 'according to the passage' asks for a stated detail. The first option is wrong because it swaps the main-idea and vocabulary stems. The second option is wrong because it interchanges inference and explicit detail, treating a stated fact as something implied. The fourth option is wrong because it makes the main-idea stem a matter of inference and the inference stem a matter of main idea."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nWhen a police station in a crowded quarter of Jammu began holding an open meeting on the first Saturday of every month, very few residents attended. The station house officer persisted. He asked shopkeepers, rickshaw drivers and schoolteachers to speak about whatever troubled them, and he wrote down every complaint in a register that any person could inspect. Within a year the meetings were crowded. What had changed, according to the officer, was not the number of constables at his disposal but the willingness of ordinary people to bring him information before a quarrel turned violent. Prevention, he argued, costs a fraction of what investigation costs, and it depends almost entirely on trust that has been earned slowly.\n\nIt can be inferred from the passage that the officer regarded prevention as:",
+      "options": [
+        "less effective than investigation though easier to arrange",
+        "a duty of the residents rather than of the police",
+        "more economical than investigation but slower to establish",
+        "impossible without an increase in police strength"
+      ],
+      "correctAnswer": "more economical than investigation but slower to establish",
+      "explanation": "The closing sentence supplies both halves of this inference: prevention 'costs a fraction of what investigation costs' (more economical) and rests on 'trust that has been earned slowly' (slower to establish). The first option is wrong because the officer treats prevention as more effective, not less. The second option is wrong because he takes the initiative himself rather than transferring the duty to residents. The fourth option is wrong because the passage expressly denies that police numbers were the operative factor."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a comprehension test, an option that is perfectly true as a matter of general knowledge may still be the wrong answer.\nReason (R): The answer to a comprehension question must be supported by the passage itself.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is precisely why (A) holds: the task is to report what this passage says, so a statement that is true in the world but unsupported by the text cannot be the required answer. The second option is wrong because the rule in (R) is the direct cause of the situation in (A), not an unrelated remark. The third option is wrong because (R) states the governing principle of the whole exercise. The fourth option is wrong because (A) describes a familiar and genuine feature of such tests."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nWhen a police station in a crowded quarter of Jammu began holding an open meeting on the first Saturday of every month, very few residents attended. The station house officer persisted. He asked shopkeepers, rickshaw drivers and schoolteachers to speak about whatever troubled them, and he wrote down every complaint in a register that any person could inspect. Within a year the meetings were crowded. What had changed, according to the officer, was not the number of constables at his disposal but the willingness of ordinary people to bring him information before a quarrel turned violent. Prevention, he argued, costs a fraction of what investigation costs, and it depends almost entirely on trust that has been earned slowly.\n\nIn the passage, the phrase 'at his disposal' most nearly means:",
+      "options": [
+        "under his personal ownership",
+        "waiting to be dismissed from service",
+        "assigned to a different officer",
+        "available for him to use"
+      ],
+      "correctAnswer": "available for him to use",
+      "explanation": "'At one's disposal' means available for one to make use of, so the phrase refers to the constables the officer could deploy. 'Under his personal ownership' is wrong because the idiom conveys availability, not possession, and an officer does not own his subordinates. 'Waiting to be dismissed from service' is wrong because it wrongly reads 'disposal' in the sense of throwing something away. 'Assigned to a different officer' is wrong because it reverses the sense: the men were at this officer's command, not at another's."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are marks of a valid inference from a passage?\n\n(i) It follows from what the passage actually states.\n(ii) It does not contradict anything in the passage.\n(iii) It brings in facts drawn from outside the passage.\n(iv) It can be defended by pointing to particular lines.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A sound inference follows from the text, sits consistently with everything else in it, and can be justified by reference to specific lines. Item (iii) is the exception, because importing outside facts turns an inference into an assumption that the passage does not warrant. Hence the second option is wrong (it includes outside facts and omits the appeal to particular lines), the third is wrong (it includes them and omits the requirement that the inference follow from the text), and the fourth is wrong (it includes them and omits the test of consistency)."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nWhen a police station in a crowded quarter of Jammu began holding an open meeting on the first Saturday of every month, very few residents attended. The station house officer persisted. He asked shopkeepers, rickshaw drivers and schoolteachers to speak about whatever troubled them, and he wrote down every complaint in a register that any person could inspect. Within a year the meetings were crowded. What had changed, according to the officer, was not the number of constables at his disposal but the willingness of ordinary people to bring him information before a quarrel turned violent. Prevention, he argued, costs a fraction of what investigation costs, and it depends almost entirely on trust that has been earned slowly.\n\nThe officer's persistence during the early months suggests that he:",
+      "options": [
+        "was confident that the value of the meetings would become apparent in time",
+        "believed the meetings could succeed only if attendance were made compulsory",
+        "had been ordered by his superiors to continue holding them",
+        "wished to avoid taking action on the complaints he received"
+      ],
+      "correctAnswer": "was confident that the value of the meetings would become apparent in time",
+      "explanation": "He carried on although 'very few residents attended', and the passage records that within a year the meetings were crowded, so his persistence implies confidence in an eventual result. The option about compulsory attendance is wrong because the meetings are described as open and voluntary throughout. The option about superiors' orders is wrong because no instruction from above is mentioned. The last option is wrong because recording every complaint in a public register is evidence of a wish to act, not to avoid acting."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about the main idea of a passage:\n\n(i) It is often stated in the opening or the closing sentence.\n(ii) A detail that is mentioned only once is unlikely to be the main idea.\n(iii) The longest sentence of a passage always contains its main idea.\n(iv) A title for a passage should reflect its main idea rather than one example in it.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because writers commonly announce or sum up their point at one end of a paragraph. Statement (ii) is correct, as the central idea is normally the one the passage keeps returning to. Statement (iv) is correct because a title must cover the whole. Statement (iii) is incorrect: sentence length has nothing to do with importance, and a main idea is frequently expressed in a short, blunt sentence. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe glaciers of the western Himalaya feed the rivers on which millions of people in northern India depend for irrigation and for drinking water. Surveys carried out over the last three decades show that most of these glaciers are retreating, though the rate varies sharply from one valley to the next. A few glaciers that lie under a thick layer of rock debris are melting more slowly, because the debris shields the ice beneath it from direct sunlight. This variation makes prediction difficult. Scientists therefore warn against treating the Himalaya as a single unit, and argue that water policy must be framed basin by basin rather than for the range as a whole.\n\nThe main conclusion of the passage is that:",
+      "options": [
+        "all glaciers of the western Himalaya are retreating at the same rate",
+        "water policy should be framed separately for each river basin",
+        "debris-covered glaciers will not melt at all in the coming decades",
+        "surveys of Himalayan glaciers should be discontinued as unreliable"
+      ],
+      "correctAnswer": "water policy should be framed separately for each river basin",
+      "explanation": "The final sentence states the conclusion directly: policy 'must be framed basin by basin rather than for the range as a whole'. The first option is wrong because the passage stresses that the rate 'varies sharply from one valley to the next'. The third option is wrong because debris-covered glaciers are said to melt 'more slowly', which is not the same as not melting. The fourth option is wrong because the passage relies on those surveys as evidence and nowhere suggests abandoning them."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Match each word in Column I with its meaning in Column II:\n\nColumn I:\n(a) Persisted\n(b) Sceptical\n(c) Consumed\n(d) Waived\n\nColumn II:\n(i) Doubting and not easily convinced\n(ii) Used up entirely\n(iii) Continued firmly in spite of difficulty\n(iv) Chose not to insist upon\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "To persist is to keep on despite obstacles, a sceptical person withholds belief, something consumed is used up, and a fee that is waived is one the holder decides not to demand. The second option is wrong because it swaps 'persisted' and 'sceptical', making perseverance a form of doubt. The third option is wrong because it interchanges the meanings of 'consumed' and 'waived'. The fourth option is wrong because it makes 'persisted' mean used up and 'consumed' mean carried on, reversing two quite unrelated senses."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe glaciers of the western Himalaya feed the rivers on which millions of people in northern India depend for irrigation and for drinking water. Surveys carried out over the last three decades show that most of these glaciers are retreating, though the rate varies sharply from one valley to the next. A few glaciers that lie under a thick layer of rock debris are melting more slowly, because the debris shields the ice beneath it from direct sunlight. This variation makes prediction difficult. Scientists therefore warn against treating the Himalaya as a single unit, and argue that water policy must be framed basin by basin rather than for the range as a whole.\n\nAccording to the passage, a few glaciers are melting more slowly because:",
+      "options": [
+        "they lie at a much greater height than the others",
+        "they are fed by a larger number of tributary streams",
+        "a covering of rock debris shields the ice from direct sunlight",
+        "they lie in valleys that receive very little snowfall"
+      ],
+      "correctAnswer": "a covering of rock debris shields the ice from direct sunlight",
+      "explanation": "The passage gives exactly this reason: such glaciers 'lie under a thick layer of rock debris' which 'shields the ice beneath it from direct sunlight'. Greater height is wrong because altitude is never mentioned as the cause. Tributary streams are wrong because the passage speaks of glaciers feeding rivers, not of streams feeding glaciers. Low snowfall is wrong because reduced snowfall would tend to shrink a glacier rather than slow its melting."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In answering a comprehension question it is useful to read the question before returning to the passage.\nReason (R): A passage may be read either silently or aloud.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). Reading the question first is useful because it tells the reader what to look for and so saves a second undirected reading; whether the reading is done silently or aloud has no bearing on that advantage. The first option is wrong because it treats an irrelevant fact as the reason. The third option is wrong because (R) is a true if trivial observation. The fourth option is wrong because (A) is sound and widely recommended practice."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe glaciers of the western Himalaya feed the rivers on which millions of people in northern India depend for irrigation and for drinking water. Surveys carried out over the last three decades show that most of these glaciers are retreating, though the rate varies sharply from one valley to the next. A few glaciers that lie under a thick layer of rock debris are melting more slowly, because the debris shields the ice beneath it from direct sunlight. This variation makes prediction difficult. Scientists therefore warn against treating the Himalaya as a single unit, and argue that water policy must be framed basin by basin rather than for the range as a whole.\n\nWhich of the following best expresses the difficulty identified in the passage?",
+      "options": [
+        "Glaciers cannot be surveyed accurately with the instruments now available",
+        "The rivers of northern India no longer depend on glacial melt",
+        "Scientists disagree about whether the glaciers are retreating at all",
+        "The wide variation between valleys makes prediction difficult"
+      ],
+      "correctAnswer": "The wide variation between valleys makes prediction difficult",
+      "explanation": "The passage notes that the rate of retreat 'varies sharply from one valley to the next' and then states plainly that 'this variation makes prediction difficult'. The first option is wrong because the accuracy of instruments is never questioned. The second option is wrong because the opening sentence affirms that millions depend on these rivers. The third option is wrong because the passage reports agreement that most glaciers are retreating; the disagreement concerns the rate, not the fact."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Which of the following are reasons for rejecting an option in a comprehension question?\n\n(i) It states the opposite of what the passage says.\n(ii) It is true of the passage but does not answer the question that was asked.\n(iii) It repeats a phrase that occurs in the passage.\n(iv) It is far too broad or far too narrow to be the main idea.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Contradiction, irrelevance to the actual question, and wrong scope are all sound grounds for rejection. Item (iii) is the exception: the correct answer very often echoes the wording of the passage, so mere repetition of a phrase proves nothing either way and is certainly no reason to reject an option. Hence the first option is wrong (it includes the repetition test and omits scope), the second is wrong (it includes it and omits contradiction), and the third is wrong (it includes it and omits irrelevance)."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe glaciers of the western Himalaya feed the rivers on which millions of people in northern India depend for irrigation and for drinking water. Surveys carried out over the last three decades show that most of these glaciers are retreating, though the rate varies sharply from one valley to the next. A few glaciers that lie under a thick layer of rock debris are melting more slowly, because the debris shields the ice beneath it from direct sunlight. This variation makes prediction difficult. Scientists therefore warn against treating the Himalaya as a single unit, and argue that water policy must be framed basin by basin rather than for the range as a whole.\n\nAs used in the passage, the word 'retreating' means:",
+      "options": [
+        "withdrawing and growing smaller in extent",
+        "moving to a higher altitude every winter",
+        "becoming colder and more solid",
+        "splitting into a number of smaller glaciers"
+      ],
+      "correctAnswer": "withdrawing and growing smaller in extent",
+      "explanation": "A retreating glacier is one whose front edge is drawing back so that the ice covers less ground than before, which is why retreat is treated in the passage as a matter for concern. 'Moving to a higher altitude every winter' is wrong because a glacier does not migrate seasonally. 'Becoming colder and more solid' is wrong because that would be the reverse of melting. 'Splitting into a number of smaller glaciers' is wrong because retreat describes a loss of extent, not a division into separate bodies of ice."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements about the tone of a passage:\n\n(i) The tone of a passage is the author's attitude towards the subject.\n(ii) Words carrying approval or disapproval are useful clues to tone.\n(iii) A factual, reporting passage may have a neutral tone.\n(iv) Every passage must be either angry or humorous in tone.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) defines tone, statement (ii) identifies the usual evidence for it, and statement (iii) is correct because much expository and official prose is deliberately impersonal. Statement (iv) is incorrect: anger and humour are only two possibilities among many, and the great majority of examination passages are neither. Every option containing (iv) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe glaciers of the western Himalaya feed the rivers on which millions of people in northern India depend for irrigation and for drinking water. Surveys carried out over the last three decades show that most of these glaciers are retreating, though the rate varies sharply from one valley to the next. A few glaciers that lie under a thick layer of rock debris are melting more slowly, because the debris shields the ice beneath it from direct sunlight. This variation makes prediction difficult. Scientists therefore warn against treating the Himalaya as a single unit, and argue that water policy must be framed basin by basin rather than for the range as a whole.\n\nScientists warn against treating the Himalaya as a single unit mainly because:",
+      "options": [
+        "the range extends across several different countries",
+        "the rate of glacial retreat differs greatly from valley to valley",
+        "the region has not been surveyed for the last thirty years",
+        "its glaciers are smaller than those of other mountain ranges"
+      ],
+      "correctAnswer": "the rate of glacial retreat differs greatly from valley to valley",
+      "explanation": "The warning follows directly from the variation the passage has just described, and it is that variation which makes a single range-wide treatment misleading. The reference to several countries is wrong because political boundaries are not mentioned at all. The claim about no surveys is wrong because the passage relies on surveys 'carried out over the last three decades'. The comparison with other ranges is wrong because no such comparison of size appears anywhere in the passage."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "A conclusion that a reader draws from a passage although it is not stated there in so many words is called an __________.",
+      "options": [
+        "assumption",
+        "inference",
+        "assertion",
+        "illustration"
+      ],
+      "correctAnswer": "inference",
+      "explanation": "An inference is a conclusion reached from the evidence of the text rather than from an explicit statement in it. 'Assumption' is wrong because an assumption is something taken for granted BEFORE the argument proceeds, not something concluded from it. 'Assertion' is wrong because an assertion is a plain declaration made by the writer, which would be stated outright. 'Illustration' is wrong because an illustration is an example offered to clarify a point already made."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe municipality of a growing hill town decided in 2015 to widen its main road. The engineers estimated that the work would ease congestion for a decade. Within four years the road was as choked as it had been before. Transport researchers call this outcome induced demand: once a route becomes quicker, more people choose to drive along it, and the time saved is consumed by the additional traffic. The cities that have escaped the trap have generally done so by improving their buses and footpaths rather than by adding lanes. The lesson is an uncomfortable one for administrators, because a new road is both visible and popular while a reliable bus service is neither.\n\nThe term 'induced demand', as used in the passage, refers to:",
+      "options": [
+        "the demand of residents for a wider road before it is built",
+        "the rise in the cost of construction once a project has begun",
+        "the additional traffic attracted by a route once it becomes quicker",
+        "the pressure on administrators to complete visible projects"
+      ],
+      "correctAnswer": "the additional traffic attracted by a route once it becomes quicker",
+      "explanation": "The passage defines the term as it introduces it: 'once a route becomes quicker, more people choose to drive along it'. The first option is wrong because the demand in question arises AFTER the widening, not before it. The second option is wrong because construction costs are never discussed. The fourth option is wrong because the political attractiveness of visible projects is a separate point made in the last sentence, not the meaning of the technical term."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Match each description of tone in Column I with the term that names it in Column II:\n\nColumn I:\n(a) Finding fault with the subject\n(b) Fondly recalling an earlier time\n(c) Expecting a favourable outcome\n(d) Free from personal feeling\n\nColumn II:\n(i) Objective\n(ii) Critical\n(iii) Nostalgic\n(iv) Optimistic\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Fault-finding is a critical tone, fond recollection is nostalgic, expecting a good result is optimistic, and writing free of personal feeling is objective. The second option is wrong because it swaps 'critical' and 'nostalgic'. The third option is wrong because it interchanges 'nostalgic' and 'optimistic', so looking back becomes looking forward. The fourth option is wrong because it calls fault-finding objective and impersonal writing critical, which inverts the very distinction between judgment and detachment."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe municipality of a growing hill town decided in 2015 to widen its main road. The engineers estimated that the work would ease congestion for a decade. Within four years the road was as choked as it had been before. Transport researchers call this outcome induced demand: once a route becomes quicker, more people choose to drive along it, and the time saved is consumed by the additional traffic. The cities that have escaped the trap have generally done so by improving their buses and footpaths rather than by adding lanes. The lesson is an uncomfortable one for administrators, because a new road is both visible and popular while a reliable bus service is neither.\n\nThe engineers had expected the widened road to ease congestion for:",
+      "options": [
+        "four years",
+        "a single year",
+        "twenty years",
+        "a decade"
+      ],
+      "correctAnswer": "a decade",
+      "explanation": "The passage states that 'the engineers estimated that the work would ease congestion for a decade'. 'Four years' is wrong because that is how long the relief actually lasted, not how long it was expected to last, and the contrast between the two figures is the whole point of the paragraph. 'A single year' and 'twenty years' are wrong because neither figure appears anywhere in the passage."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The question 'What is the author's purpose?' cannot always be answered by pointing to a single sentence of the passage.\nReason (R): The purpose of a passage is always stated explicitly in its first sentence.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: purpose often has to be gathered from the passage as a whole, from its choice of words and the way its material is arranged. (R) is wrong, and in fact contradicts (A), because a great many passages never announce their purpose at all, and where it is announced it may come at the end rather than the beginning. The first and second options are wrong because both require (R) to be correct. The fourth option is wrong because (A) is sound."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe municipality of a growing hill town decided in 2015 to widen its main road. The engineers estimated that the work would ease congestion for a decade. Within four years the road was as choked as it had been before. Transport researchers call this outcome induced demand: once a route becomes quicker, more people choose to drive along it, and the time saved is consumed by the additional traffic. The cities that have escaped the trap have generally done so by improving their buses and footpaths rather than by adding lanes. The lesson is an uncomfortable one for administrators, because a new road is both visible and popular while a reliable bus service is neither.\n\nThe passage suggests that the cities which have avoided this problem have done so mainly by:",
+      "options": [
+        "improving their public buses and footpaths",
+        "adding still more lanes to their busiest roads",
+        "restricting the sale of private vehicles",
+        "relocating their markets outside the city"
+      ],
+      "correctAnswer": "improving their public buses and footpaths",
+      "explanation": "The passage states that such cities succeeded 'by improving their buses and footpaths rather than by adding lanes'. Adding lanes is wrong because it is precisely the approach the passage identifies as self-defeating. Restricting vehicle sales is wrong because no such measure is mentioned. Relocating markets is wrong for the same reason: it may sound plausible as traffic policy, but nothing in the passage supports it, and an option must be grounded in the text."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Which of the following are effective steps in tackling a long comprehension passage under time pressure?\n\n(i) Reading the passage once through for its general drift\n(ii) Marking names, dates and figures for quick reference\n(iii) Committing the passage to memory sentence by sentence\n(iv) Returning to the relevant lines before selecting an option\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A first reading for the general sense, the marking of hard particulars, and verification against the text before answering are all efficient uses of limited time. Item (iii) is the exception: memorising a passage is both impossible and unnecessary within an examination, and the attempt wastes the very time the candidate is trying to save. Hence the first option is wrong (it includes memorising and omits verification), the second is wrong (it includes it and omits the first reading), and the third is wrong (it includes it and omits the marking of details)."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe municipality of a growing hill town decided in 2015 to widen its main road. The engineers estimated that the work would ease congestion for a decade. Within four years the road was as choked as it had been before. Transport researchers call this outcome induced demand: once a route becomes quicker, more people choose to drive along it, and the time saved is consumed by the additional traffic. The cities that have escaped the trap have generally done so by improving their buses and footpaths rather than by adding lanes. The lesson is an uncomfortable one for administrators, because a new road is both visible and popular while a reliable bus service is neither.\n\nThe author calls the lesson 'uncomfortable' for administrators because:",
+      "options": [
+        "widening a road costs more than running a bus service",
+        "the measures that work are less visible and less popular than a new road",
+        "researchers have not yet agreed about the causes of congestion",
+        "the public rarely makes use of the footpaths built for it"
+      ],
+      "correctAnswer": "the measures that work are less visible and less popular than a new road",
+      "explanation": "The final sentence explains the discomfort exactly: 'a new road is both visible and popular while a reliable bus service is neither', so what works brings an administrator least credit. The comparison of costs is wrong because the passage never compares the expense of the two approaches. The disagreement among researchers is wrong because the passage presents induced demand as a settled finding. The claim about unused footpaths is wrong because the passage cites footpaths among the successful measures."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements about distinguishing fact from opinion:\n\n(i) A fact can be checked against evidence independent of the writer's feelings.\n(ii) An opinion expresses a judgment and may reasonably be disputed.\n(iii) A phrase such as 'in my view' usually introduces an opinion.\n(iv) Any statement that contains a number is necessarily a fact.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) give the standard tests: verifiability marks a fact, disputability marks a judgment, and certain phrases openly signal that a judgment is coming. Statement (iv) is incorrect, since a number may be part of an estimate, a prediction or an outright falsehood, as in 'this scheme will benefit ten million people' — a figure does not confer factual status. Every option containing (iv) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nThe municipality of a growing hill town decided in 2015 to widen its main road. The engineers estimated that the work would ease congestion for a decade. Within four years the road was as choked as it had been before. Transport researchers call this outcome induced demand: once a route becomes quicker, more people choose to drive along it, and the time saved is consumed by the additional traffic. The cities that have escaped the trap have generally done so by improving their buses and footpaths rather than by adding lanes. The lesson is an uncomfortable one for administrators, because a new road is both visible and popular while a reliable bus service is neither.\n\nIn the passage, the word 'choked' is closest in meaning to:",
+      "options": [
+        "completely rebuilt",
+        "newly surfaced",
+        "severely congested",
+        "legally closed to traffic"
+      ],
+      "correctAnswer": "severely congested",
+      "explanation": "The road was 'as choked as it had been before', that is, once again blocked with slow-moving traffic, so 'severely congested' captures the sense. 'Completely rebuilt' is wrong because rebuilding is what the municipality did to the road, not the condition it fell back into. 'Newly surfaced' is wrong for the same reason and describes an improvement rather than a problem. 'Legally closed to traffic' is wrong because the difficulty was too many vehicles using the road, not a prohibition on using it."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Match each word in Column I with its meaning in Column II:\n\nColumn I:\n(a) Imitation\n(b) Congestion\n(c) Objection\n(d) Prediction\n\nColumn II:\n(i) A reason offered against something\n(ii) A copy of an original\n(iii) A forecast of what will happen\n(iv) Overcrowding that slows movement\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "An imitation is a copy, congestion is overcrowding that impedes movement, an objection is a reason urged against a proposal, and a prediction is a forecast. The second option is wrong because it swaps 'imitation' and 'congestion'. The third option is wrong because it interchanges 'objection' and 'prediction', turning a reason against something into a forecast. The fourth option is wrong because it makes 'imitation' a reason against something and 'objection' a copy, confusing two entirely distinct ideas."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nIn 1854 a small school for girls opened in a rented house in a town in the Punjab. It had eleven pupils, and the fees were waived for all of them. The founder, a retired clerk, kept a diary in which he recorded the objections he met: that educated girls would not find husbands, that reading would injure their health, and that the money would be better spent on digging a well. He answered each objection in writing and went on teaching. By 1880 the school had two hundred pupils and a waiting list. The diary survives in a district archive, and it is now read less for its arguments than for the picture it gives of a society arguing with itself.\n\nThe founder of the school responded to the objections he encountered by:",
+      "options": [
+        "closing the school for a period of two years",
+        "charging higher fees to those who criticised him",
+        "seeking the help of the district administration",
+        "answering each of them in writing and continuing to teach"
+      ],
+      "correctAnswer": "answering each of them in writing and continuing to teach",
+      "explanation": "The passage says he 'answered each objection in writing and went on teaching', which this option reproduces. Closing the school is wrong because the passage records unbroken growth from eleven pupils to two hundred. Charging higher fees is wrong because the fees were waived for every pupil. Seeking official help is wrong because no approach to the administration is mentioned; his response was personal and argumentative."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The best answer to a 'main idea' question is the option that mentions the greatest number of details from the passage.\nReason (R): The main idea of a passage is a general statement which the details of the passage support.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct and states the relation between a main idea and its supporting particulars. (A) is wrong because piling up details produces a summary of parts, not a statement of the central point; an option crowded with details is usually too narrow, since the main idea must be general enough to cover everything in the passage. The first and second options are wrong because both require (A) to be correct, and the third option is wrong because (R) is sound."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nIn 1854 a small school for girls opened in a rented house in a town in the Punjab. It had eleven pupils, and the fees were waived for all of them. The founder, a retired clerk, kept a diary in which he recorded the objections he met: that educated girls would not find husbands, that reading would injure their health, and that the money would be better spent on digging a well. He answered each objection in writing and went on teaching. By 1880 the school had two hundred pupils and a waiting list. The diary survives in a district archive, and it is now read less for its arguments than for the picture it gives of a society arguing with itself.\n\nWhen the school opened in 1854, the number of its pupils was:",
+      "options": [
+        "eleven",
+        "eighteen",
+        "fifty",
+        "two hundred"
+      ],
+      "correctAnswer": "eleven",
+      "explanation": "The passage states that the school 'had eleven pupils' when it opened in the rented house. 'Two hundred' is wrong because that was the strength reached by 1880, twenty-six years later, and confusing the opening figure with the later one is the trap in this question. 'Eighteen' and 'fifty' are wrong because neither number appears in the passage at all."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Which of the following are questions that test an explicit detail rather than an inference?\n\n(i) According to the passage, how many pupils did the school have when it opened?\n(ii) What does the passage suggest about the author's own opinion of the scheme?\n(iii) The passage states that the engineers expected relief to last for how long?\n(iv) Which of the following is mentioned in the passage as an objection?\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Items (i), (iii) and (iv) can each be answered by locating a particular statement, and their stems — 'according to the passage', 'the passage states', 'is mentioned in the passage' — announce as much. Item (ii) is the exception, because the word 'suggest' asks the reader to draw a conclusion about an attitude that is not declared outright. Hence the first option is wrong (it includes the inference item and omits the objection item), the third is wrong (it includes it and omits the figure), and the fourth is wrong (it includes it and omits the engineers' estimate)."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nIn 1854 a small school for girls opened in a rented house in a town in the Punjab. It had eleven pupils, and the fees were waived for all of them. The founder, a retired clerk, kept a diary in which he recorded the objections he met: that educated girls would not find husbands, that reading would injure their health, and that the money would be better spent on digging a well. He answered each objection in writing and went on teaching. By 1880 the school had two hundred pupils and a waiting list. The diary survives in a district archive, and it is now read less for its arguments than for the picture it gives of a society arguing with itself.\n\nAccording to the passage, the diary is valued today chiefly for:",
+      "options": [
+        "the strength of the arguments it puts forward",
+        "the portrait it offers of a society disagreeing with itself",
+        "the accuracy of its account of the school's finances",
+        "the list of pupils and their examination results"
+      ],
+      "correctAnswer": "the portrait it offers of a society disagreeing with itself",
+      "explanation": "The last sentence says the diary 'is now read less for its arguments than for the picture it gives of a society arguing with itself'. The first option is wrong because the passage explicitly ranks the arguments BELOW the social picture in present-day interest. The third and fourth options are wrong because neither the school's accounts nor any examination results are referred to anywhere in the passage."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Consider the following statements about vocabulary-in-context questions:\n\n(i) A word may carry a sense in the passage different from its commonest dictionary meaning.\n(ii) The sentence surrounding the word is the best guide to the sense intended.\n(iii) The most common meaning of the word is always the correct answer.\n(iv) Substituting the chosen option into the sentence is a useful final check.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because context regularly selects a secondary sense, as 'disposal' does in the sense of availability. Statement (ii) is correct, since the immediate sentence supplies the controlling evidence. Statement (iv) is correct because substitution quickly exposes a poor fit. Statement (iii) is incorrect, and examiners rely on that error: the commonest meaning is often offered precisely as a distractor. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nIn 1854 a small school for girls opened in a rented house in a town in the Punjab. It had eleven pupils, and the fees were waived for all of them. The founder, a retired clerk, kept a diary in which he recorded the objections he met: that educated girls would not find husbands, that reading would injure their health, and that the money would be better spent on digging a well. He answered each objection in writing and went on teaching. By 1880 the school had two hundred pupils and a waiting list. The diary survives in a district archive, and it is now read less for its arguments than for the picture it gives of a society arguing with itself.\n\nWhich of the following is NOT mentioned in the passage as an objection raised against the school?",
+      "options": [
+        "that educated girls would not find husbands",
+        "that reading would injure the health of girls",
+        "that the pupils would prove unable to learn to read",
+        "that the money would be better spent on digging a well"
+      ],
+      "correctAnswer": "that the pupils would prove unable to learn to read",
+      "explanation": "The passage lists exactly three objections — that educated girls would not find husbands, that reading would injure their health, and that the money would be better spent on a well — so the suggestion that the pupils could not learn is the one absent from the list and is therefore the answer. The other three options are wrong as answers precisely because each is reproduced almost word for word from the diary's record of the objections."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Reading a passage rapidly in order to obtain only its general sense is known as __________.",
+      "options": [
+        "scanning",
+        "skimming",
+        "proofreading",
+        "summarising"
+      ],
+      "correctAnswer": "skimming",
+      "explanation": "Skimming is rapid reading for the overall drift, and it is the technique used for a first pass over a comprehension passage. 'Scanning' is wrong because scanning means running the eye over a text to find one particular item, such as a date or a name, while ignoring everything else. 'Proofreading' is wrong because it is slow, minute reading to detect errors of spelling and punctuation. 'Summarising' is wrong because it means restating the content in condensed form, which is done after reading rather than as a way of reading."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nIn 1854 a small school for girls opened in a rented house in a town in the Punjab. It had eleven pupils, and the fees were waived for all of them. The founder, a retired clerk, kept a diary in which he recorded the objections he met: that educated girls would not find husbands, that reading would injure their health, and that the money would be better spent on digging a well. He answered each objection in writing and went on teaching. By 1880 the school had two hundred pupils and a waiting list. The diary survives in a district archive, and it is now read less for its arguments than for the picture it gives of a society arguing with itself.\n\nAs used in the passage, the word 'waived' means:",
+      "options": [
+        "increased by a small amount",
+        "collected a year in advance",
+        "calculated according to income",
+        "given up or not insisted upon"
+      ],
+      "correctAnswer": "given up or not insisted upon",
+      "explanation": "To waive a fee is to relinquish the claim to it, and the passage adds that the fees were waived 'for all of them', which fits a school that charged its eleven pupils nothing. 'Increased by a small amount' is wrong because it reverses the sense entirely. 'Collected a year in advance' is wrong because waiving a payment means not collecting it at all. 'Calculated according to income' is wrong because it describes a graded fee rather than the surrender of one, and the passage says the waiver applied to every pupil alike."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Match the function of a paragraph in Column I with the term that names it in Column II:\n\nColumn I:\n(a) A paragraph that sets out the problem\n(b) A paragraph that offers supporting evidence\n(c) A paragraph that answers an anticipated objection\n(d) A paragraph that draws the final conclusion\n\nColumn II:\n(i) Rebuttal\n(ii) Statement of the issue\n(iii) Conclusion\n(iv) Supporting data\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Setting out the problem states the issue, offering evidence supplies supporting data, answering an anticipated objection is a rebuttal, and the closing paragraph is the conclusion. The second option is wrong because it swaps the evidence and rebuttal roles. The third option is wrong because it opens the argument with data and states the issue only afterwards. The fourth option is wrong because it makes the rebuttal the conclusion and the conclusion a rebuttal, reversing the last two stages of the argument."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nA laboratory does not become useful merely by being well equipped. In the years after independence several Indian research institutes acquired instruments as good as any in the world, yet published little of consequence. Reviewing that period, one former director suggested that the missing ingredient was not money but the freedom to fail. Where every project had to be justified in advance by the result it was expected to produce, researchers naturally chose safe questions whose answers they could largely foresee. The institutes that did produce original work were those whose directors were willing to defend, before a sceptical committee, a line of enquiry that might yield nothing at all for several years.\n\nAccording to the former director, the ingredient that the institutes chiefly lacked was:",
+      "options": [
+        "the freedom to undertake work that might fail",
+        "modern scientific instruments",
+        "adequate financial support",
+        "trained research assistants"
+      ],
+      "correctAnswer": "the freedom to undertake work that might fail",
+      "explanation": "The passage reports his view that 'the missing ingredient was not money but the freedom to fail'. 'Modern scientific instruments' is wrong because the institutes are said to have acquired instruments 'as good as any in the world'. 'Adequate financial support' is wrong because money is the very factor the director expressly set aside. 'Trained research assistants' is wrong because staffing is not mentioned anywhere in the passage."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A question asking for the 'best title' for a passage requires a phrase that covers the passage as a whole.\nReason (R): Titles are usually printed in a larger typeface than the body of a passage.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) has nothing to do with (A). A title must be co-extensive with the passage because it stands for the whole of it, and a phrase covering only one example would be too narrow; the size of the type in which a title happens to be printed is a matter of layout. The first option is wrong because it offers a typographical fact as the reason. The third option is wrong because (R) is a true observation, and the fourth is wrong because (A) is correct."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nA laboratory does not become useful merely by being well equipped. In the years after independence several Indian research institutes acquired instruments as good as any in the world, yet published little of consequence. Reviewing that period, one former director suggested that the missing ingredient was not money but the freedom to fail. Where every project had to be justified in advance by the result it was expected to produce, researchers naturally chose safe questions whose answers they could largely foresee. The institutes that did produce original work were those whose directors were willing to defend, before a sceptical committee, a line of enquiry that might yield nothing at all for several years.\n\nThe passage suggests that requiring every project to be justified in advance led researchers to:",
+      "options": [
+        "abandon research and take up teaching instead",
+        "choose safe questions whose answers could largely be foreseen",
+        "collaborate more closely with foreign laboratories",
+        "publish their findings before completing their experiments"
+      ],
+      "correctAnswer": "choose safe questions whose answers could largely be foreseen",
+      "explanation": "The passage states that under such a requirement 'researchers naturally chose safe questions whose answers they could largely foresee'. Abandoning research for teaching is wrong because no change of occupation is mentioned. Collaboration with foreign laboratories is wrong because foreign links are never discussed. Premature publication is wrong because the complaint in the passage is that the institutes published too little of consequence, not that they published too early."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Which of the following are true of the main idea of a passage?\n\n(i) It is supported by the details given in the passage.\n(ii) It is broader than any single example offered.\n(iii) It is always contained in the last sentence.\n(iv) It can serve as the basis for a suitable title.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The main idea is what the details are marshalled to support, it is more general than any one illustration, and a good title is simply the main idea compressed into a phrase. Item (iii) is the exception: the main idea may appear in the first sentence, in the middle, or nowhere explicitly at all, so 'always in the last sentence' is far too strong. Hence the first option is wrong (it includes the last-sentence claim and omits the title point), the second is wrong (it includes it and omits the support point), and the third is wrong (it includes it and omits the breadth point)."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nA laboratory does not become useful merely by being well equipped. In the years after independence several Indian research institutes acquired instruments as good as any in the world, yet published little of consequence. Reviewing that period, one former director suggested that the missing ingredient was not money but the freedom to fail. Where every project had to be justified in advance by the result it was expected to produce, researchers naturally chose safe questions whose answers they could largely foresee. The institutes that did produce original work were those whose directors were willing to defend, before a sceptical committee, a line of enquiry that might yield nothing at all for several years.\n\nThe opening sentence of the passage implies that:",
+      "options": [
+        "laboratories ought not to spend money on instruments",
+        "only a well-equipped laboratory can produce original work",
+        "good equipment by itself does not make a laboratory productive",
+        "usefulness cannot be measured in a scientific institution"
+      ],
+      "correctAnswer": "good equipment by itself does not make a laboratory productive",
+      "explanation": "'A laboratory does not become useful merely by being well equipped' concedes the value of equipment while denying that it is sufficient, and the rest of the passage develops exactly that point. The first option is wrong because the sentence questions the sufficiency of equipment, not the wisdom of buying it. The second option is wrong because it reverses the sense into a claim the passage denies. The fourth option is wrong because the passage assumes throughout that usefulness can be judged, for instance by published work."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Consider the following statements about the purpose of a passage:\n\n(i) A passage may be written to inform, to persuade or to describe.\n(ii) The choice of words often reveals whether the author approves of the subject.\n(iii) A passage that presents both sides of a question may nevertheless favour one of them.\n(iv) The purpose of a passage can be settled without reading beyond its title.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) lists the usual purposes, statement (ii) identifies the evidence of an author's leaning, and statement (iii) is correct because apparent even-handedness is often combined with a clear preference in emphasis. Statement (iv) is incorrect: a title may be neutral, allusive or even deliberately misleading, and purpose can be judged only from the passage itself. Every option containing (iv) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nA laboratory does not become useful merely by being well equipped. In the years after independence several Indian research institutes acquired instruments as good as any in the world, yet published little of consequence. Reviewing that period, one former director suggested that the missing ingredient was not money but the freedom to fail. Where every project had to be justified in advance by the result it was expected to produce, researchers naturally chose safe questions whose answers they could largely foresee. The institutes that did produce original work were those whose directors were willing to defend, before a sceptical committee, a line of enquiry that might yield nothing at all for several years.\n\nThe directors of the institutes that produced original work are described as willing to:",
+      "options": [
+        "accept smaller budgets than other institutes received",
+        "publish results even when they were incomplete",
+        "appoint researchers without the usual formal qualifications",
+        "defend before a sceptical committee an enquiry that might yield nothing"
+      ],
+      "correctAnswer": "defend before a sceptical committee an enquiry that might yield nothing",
+      "explanation": "The closing sentence describes precisely this willingness 'to defend, before a sceptical committee, a line of enquiry that might yield nothing at all for several years'. Accepting smaller budgets is wrong because the passage sets money aside as the explanation. Publishing incomplete results is wrong because no such practice is attributed to them. Appointing unqualified researchers is wrong because recruitment is never mentioned in the passage."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Consider the following statements about choosing between options in a comprehension question:\n\n(i) An option must be rejected if it contradicts the passage, however plausible it sounds.\n(ii) Where two options seem right, the one more fully supported by the passage should be preferred.\n(iii) The reader's own knowledge of the subject should override the statements of the passage.\n(iv) Extreme words such as 'always' and 'never' in an option deserve careful checking.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because the passage is the sole authority. Statement (ii) is correct, as comprehension options are frequently graded so that one is merely partly right. Statement (iv) is correct because absolute words are often what makes an otherwise attractive option false. Statement (iii) is incorrect and inverts the basic rule: outside knowledge must give way to the text. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows.\n\nA laboratory does not become useful merely by being well equipped. In the years after independence several Indian research institutes acquired instruments as good as any in the world, yet published little of consequence. Reviewing that period, one former director suggested that the missing ingredient was not money but the freedom to fail. Where every project had to be justified in advance by the result it was expected to produce, researchers naturally chose safe questions whose answers they could largely foresee. The institutes that did produce original work were those whose directors were willing to defend, before a sceptical committee, a line of enquiry that might yield nothing at all for several years.\n\nIn the passage, the phrase 'of consequence' is closest in meaning to:",
+      "options": [
+        "of great length",
+        "in an orderly sequence",
+        "as a result of something",
+        "of importance"
+      ],
+      "correctAnswer": "of importance",
+      "explanation": "To publish 'little of consequence' is to publish little that matters, so the phrase means of importance or significance. 'Of great length' is wrong because the criticism concerns the weight of the work rather than its bulk. 'In an orderly sequence' is wrong because it confuses 'consequence' with 'sequence'. 'As a result of something' is wrong because that is the sense of the separate phrase 'in consequence', and the passage is describing the quality of the publications, not their cause."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Consider the following statements about writing a summary of a passage:\n\n(i) A good summary preserves the author's main line of argument.\n(ii) A summary should be appreciably shorter than the original passage.\n(iii) A summary should introduce the reader's own opinions on the subject.\n(iv) A summary should keep the relative emphasis of the original.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) describe a faithful summary: it follows the author's argument, it is markedly briefer, and it gives the same weight to each part as the original does. Statement (iii) is incorrect because inserting the summariser's own views turns a summary into a comment and misrepresents the author. Every option containing (iii) — the first, second and third — is therefore wrong."
+    }
+  ]
+}

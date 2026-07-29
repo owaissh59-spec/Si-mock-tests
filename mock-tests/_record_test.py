@@ -22,8 +22,18 @@ MT = os.path.join(ROOT, "mock-tests")
 
 
 def normalize_stem(text, word_count=12):
-    """Extract first ~12 words of questionText, normalized lowercase."""
-    words = text.replace("\n", " ").split()[:word_count]
+    """Extract a distinguishing ~12-word stem from questionText, lowercased.
+
+    Passage-based items (cloze and comprehension) all begin with the same
+    instruction plus the shared passage, so their first 12 words are identical
+    and useless for duplicate detection. For those, fingerprint the closing
+    line instead, which carries the actual question.
+    """
+    lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
+    if lines and lines[0].lower().startswith("read the following passage"):
+        words = lines[-1].split()[:word_count]
+    else:
+        words = text.replace("\n", " ").split()[:word_count]
     return " ".join(words).lower().strip()
 
 

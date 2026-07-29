@@ -1058,7 +1058,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "70_test_D_cloze.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 71,
@@ -1073,7 +1073,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "71_test_B_science-biology.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 72,
@@ -1088,7 +1088,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "72_test_D_comprehension.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 73,
@@ -1103,7 +1103,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "73_test_B_sci-research.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 74,
@@ -1118,7 +1118,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "74_test_B_sports.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 75,
@@ -1133,7 +1133,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "75_test_B_static-gk.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 76,

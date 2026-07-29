@@ -1,0 +1,397 @@
+{
+  "subject": "D",
+  "topic": "Cloze Passage",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (1).\n\nThe panchayat of a small village in Kupwara decided to open a reading room for its children. The building they chose had been (1)__________ for nearly a decade and its roof leaked badly. A group of volunteers (2)__________ the repairs themselves, carrying timber from the forest depot on their own shoulders. Within four months the room was ready, though its shelves were almost (3)__________ at first. Word spread quickly, and parents who had never read a book themselves began to (4)__________ their children to visit it. Today the collection runs to six thousand volumes and the village claims the highest school attendance in the (5)__________ .\n\nThe word that best fits blank (1) is:",
+      "options": [
+        "renovated",
+        "deserted",
+        "occupied",
+        "furnished"
+      ],
+      "correctAnswer": "deserted",
+      "explanation": "The same sentence adds that the roof leaked badly, so the building must have stood empty and neglected for the decade in question, and 'deserted' conveys exactly that. 'Renovated' is wrong because a building repaired recently would not have a badly leaking roof. 'Occupied' is wrong because it contradicts both the disrepair and the fact that the panchayat was free to choose the building for a new purpose. 'Furnished' is wrong because it refers to the provision of furniture and says nothing about ten years of disuse."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about cloze passages:\n\n(i) A cloze passage tests vocabulary, grammar and the sense of the passage as a whole.\n(ii) A blank should be filled by considering both the words immediately around it and the wider context.\n(iii) In a well-set cloze passage the same word can be inserted in every blank without loss of sense.\n(iv) A blank followed by a to-infinitive limits the choice to verbs that take that construction.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because a cloze item may turn on word meaning, on grammar or on the drift of the argument. Statement (ii) is correct: the immediate words supply grammatical clues while the wider passage supplies the sense. Statement (iv) is correct, since a pattern such as 'urge someone to go' excludes verbs that cannot take an object and infinitive. Statement (iii) is absurd and incorrect, as each blank is set to admit only one word that fits both grammar and meaning. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (2).\n\nThe panchayat of a small village in Kupwara decided to open a reading room for its children. The building they chose had been (1)__________ for nearly a decade and its roof leaked badly. A group of volunteers (2)__________ the repairs themselves, carrying timber from the forest depot on their own shoulders. Within four months the room was ready, though its shelves were almost (3)__________ at first. Word spread quickly, and parents who had never read a book themselves began to (4)__________ their children to visit it. Today the collection runs to six thousand volumes and the village claims the highest school attendance in the (5)__________ .\n\nThe word that best fits blank (2) is:",
+      "options": [
+        "undertook",
+        "underwent",
+        "undermined",
+        "undersold"
+      ],
+      "correctAnswer": "undertook",
+      "explanation": "'Undertook' means took responsibility for and carried out, which is precisely what volunteers who fetched their own timber were doing. 'Underwent' is wrong because it means experienced or was subjected to something: a patient undergoes an operation, but a worker does not undergo repairs he is himself performing. 'Undermined' is wrong because it means weakened or sabotaged, the very opposite of the volunteers' purpose. 'Undersold' is wrong because it belongs to the language of trade and cannot govern 'the repairs'."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match each incomplete expression in Column I with the part of speech required to complete it in Column II:\n\nColumn I:\n(a) The committee reached a __________ decision.\n(b) She spoke __________ about her own failure.\n(c) The __________ of the scheme was delayed by a year.\n(d) They __________ the proposal at last week's meeting.\n\nColumn II:\n(i) Verb\n(ii) Adverb\n(iii) Adjective\n(iv) Noun\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "In (a) the blank stands between an article and the noun 'decision', so an adjective is needed; in (b) it modifies the verb 'spoke', so an adverb is needed; in (c) it follows 'The' and precedes 'of', the classic noun-phrase frame; in (d) it is the missing predicate of the subject 'They', so a verb is needed. The first option is wrong because it swaps the adjective and adverb slots. The third option is wrong because it puts a verb between 'The' and 'of' and a noun where the sentence has no finite verb at all. The fourth option is wrong because a noun cannot sit between 'a' and 'decision' while an adjective cannot serve as the main verb of (d)."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (3).\n\nThe panchayat of a small village in Kupwara decided to open a reading room for its children. The building they chose had been (1)__________ for nearly a decade and its roof leaked badly. A group of volunteers (2)__________ the repairs themselves, carrying timber from the forest depot on their own shoulders. Within four months the room was ready, though its shelves were almost (3)__________ at first. Word spread quickly, and parents who had never read a book themselves began to (4)__________ their children to visit it. Today the collection runs to six thousand volumes and the village claims the highest school attendance in the (5)__________ .\n\nThe word that best fits blank (3) is:",
+      "options": [
+        "blank",
+        "hollow",
+        "bare",
+        "vacant"
+      ],
+      "correctAnswer": "bare",
+      "explanation": "'Bare' is the customary word for a surface with nothing on it, and 'bare shelves' contrasts pointedly with the six thousand volumes mentioned in the final sentence. 'Blank' is wrong because it describes surfaces intended to carry writing, as in a blank page or a blank form. 'Hollow' is wrong because it means empty on the inside, like a hollow tree trunk, and shelves are not described that way. 'Vacant' is wrong because it is used of rooms, seats and posts rather than of shelves."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a cloze passage, a blank preceded by the article 'an' cannot be filled by the word 'useful'.\nReason (R): The form 'an' is selected according to the sound that follows the article and not according to its spelling.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds. Although 'useful' begins with the vowel letter u, it is pronounced with an initial consonant sound, so the correct form is 'a useful tool'. The second option is wrong because the sound rule is the direct cause of the restriction, not an unrelated fact. The third option is wrong because the sound-based rule is a well-established feature of English, as 'an hour' and 'a university' both show. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (4).\n\nThe panchayat of a small village in Kupwara decided to open a reading room for its children. The building they chose had been (1)__________ for nearly a decade and its roof leaked badly. A group of volunteers (2)__________ the repairs themselves, carrying timber from the forest depot on their own shoulders. Within four months the room was ready, though its shelves were almost (3)__________ at first. Word spread quickly, and parents who had never read a book themselves began to (4)__________ their children to visit it. Today the collection runs to six thousand volumes and the village claims the highest school attendance in the (5)__________ .\n\nThe word that best fits blank (4) is:",
+      "options": [
+        "insist",
+        "suggest",
+        "recommend",
+        "urge"
+      ],
+      "correctAnswer": "urge",
+      "explanation": "Only 'urge' takes the pattern verb + object + to-infinitive, giving the required 'urge their children to visit it', and its sense of earnest encouragement suits parents who valued the new reading room. 'Insist' is wrong because it is followed by 'on' with a gerund or by a that-clause, never by an object and an infinitive. 'Suggest' and 'recommend' are wrong for the same grammatical reason: both demand a that-clause or a gerund, so 'suggest their children to visit' is simply ungrammatical."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are sound strategies for attempting a cloze passage?\n\n(i) Reading the whole passage once through before filling in any blank\n(ii) Filling each blank in isolation without glancing at the following sentence\n(iii) Checking at the end that the completed passage reads smoothly throughout\n(iv) Using grammatical clues such as an article or an auxiliary next to the blank\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A first complete reading establishes the subject and tone, a final reading catches choices that jar, and the small grammatical signals beside a blank often settle its part of speech; all three are sound practice. Item (ii) is the exception and is poor practice, because the word needed is frequently fixed by what comes AFTER the blank, such as a contrast introduced later in the sentence. Hence the first option is wrong (it includes the isolation method and omits the final check), the second is wrong (it includes it and omits the first reading), and the fourth is wrong (it includes it and omits the final check)."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (5).\n\nThe panchayat of a small village in Kupwara decided to open a reading room for its children. The building they chose had been (1)__________ for nearly a decade and its roof leaked badly. A group of volunteers (2)__________ the repairs themselves, carrying timber from the forest depot on their own shoulders. Within four months the room was ready, though its shelves were almost (3)__________ at first. Word spread quickly, and parents who had never read a book themselves began to (4)__________ their children to visit it. Today the collection runs to six thousand volumes and the village claims the highest school attendance in the (5)__________ .\n\nThe word that best fits blank (5) is:",
+      "options": [
+        "distance",
+        "district",
+        "distinct",
+        "discreet"
+      ],
+      "correctAnswer": "district",
+      "explanation": "The sentence compares the village with a wider administrative area, and the district is the unit to which a village in Kupwara belongs, so 'the highest school attendance in the district' is the natural completion. 'Distance' is wrong because it names a measure of separation and yields no sense here. 'Distinct' is wrong because it is an adjective meaning clearly separate and cannot fill a slot that requires a noun. 'Discreet' is wrong because it is an adjective meaning tactful or careful in speech, and is often confused in spelling with 'discrete'."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about filling blanks in connected prose:\n\n(i) A blank filled by a comparative form such as 'more careful' often requires 'than' later in the sentence.\n(ii) A blank standing between an article and a noun usually requires an adjective.\n(iii) The tense of a verb filling a blank must agree with the tense used in the rest of the passage.\n(iv) The length of the blank printed on the paper indicates the length of the missing word.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because a comparative normally sets up a correlative 'than'. Statement (ii) is correct, as the article-adjective-noun order is standard in English. Statement (iii) is correct because an abrupt shift of tense breaks the continuity of the passage. Statement (iv) is incorrect: blanks are printed to a uniform length precisely so that they give no clue to the length of the answer, and treating the line as a hint is a common trap. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (6).\n\nBeekeepers in the valley have noticed a (6)__________ decline in the number of hives over the past five years. Several factors are thought to be (7)__________ . The heavy spraying of orchards is the most obvious of them, but the loss of wild flowering plants along field boundaries has (8)__________ matters. Bees that cannot find varied pollen grow weak and become far more (9)__________ to infection. A few growers have now set aside narrow strips of uncultivated land, a step that costs them very little and (10)__________ the pollinators on which their apple crop depends.\n\nThe word that best fits blank (6) is:",
+      "options": [
+        "steady",
+        "stationary",
+        "stagnant",
+        "sturdy"
+      ],
+      "correctAnswer": "steady",
+      "explanation": "'Steady' describes a decline that has continued without interruption over the five years, which is what the beekeepers report. 'Stationary' is wrong because it means not moving at all, and a stationary decline is self-contradictory. 'Stagnant' is wrong because it describes water that does not flow or a situation that fails to develop, so it cannot qualify an active fall in numbers. 'Sturdy' is wrong because it means strongly built and is used of objects and people, never of a decline."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Match each word in Column I with its correct meaning in Column II:\n\nColumn I:\n(a) Eminent\n(b) Imminent\n(c) Immanent\n(d) Emanate\n\nColumn II:\n(i) About to happen very soon\n(ii) To issue or flow out from a source\n(iii) Distinguished and widely respected\n(iv) Present throughout and inherent in something\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "An eminent judge is a distinguished one, an imminent storm is one about to break, an immanent quality pervades the whole of something, and smoke emanates from a fire. The second option is wrong because it swaps 'eminent' and 'imminent', so a respected person would become an approaching event. The third option is wrong because it interchanges 'imminent' and 'immanent', two words separated by a single letter and constantly confused. The fourth option is wrong because it makes 'immanent' a verb of outflow and 'emanate' an adjective of pervasion, reversing both their senses and their grammar."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (7).\n\nBeekeepers in the valley have noticed a (6)__________ decline in the number of hives over the past five years. Several factors are thought to be (7)__________ . The heavy spraying of orchards is the most obvious of them, but the loss of wild flowering plants along field boundaries has (8)__________ matters. Bees that cannot find varied pollen grow weak and become far more (9)__________ to infection. A few growers have now set aside narrow strips of uncultivated land, a step that costs them very little and (10)__________ the pollinators on which their apple crop depends.\n\nThe word that best fits blank (7) is:",
+      "options": [
+        "reliable",
+        "reasonable",
+        "responsible",
+        "respectable"
+      ],
+      "correctAnswer": "responsible",
+      "explanation": "The passage goes on to name the causes of the decline, so the sentence must say that several factors are thought to be to blame, and 'responsible' carries exactly that sense of causal accountability. 'Reliable' is wrong because it means dependable or trustworthy, which cannot be said of the causes of a problem. 'Reasonable' is wrong because it means fair or moderate and does not express causation. 'Respectable' is wrong because it means worthy of respect and is quite out of place applied to the agents of harm."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'A large number of students __________ absent today', the blank requires the plural verb 'were'.\nReason (R): The expression 'a large number of' is always followed by a singular verb because 'number' is itself a singular noun.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: 'a number of' followed by a plural noun takes a plural verb, so 'A large number of students were absent' is right. (R) is wrong, and indeed contradicts (A), because 'a number of' behaves as a plural quantifier and it is 'the number of' that takes a singular verb, as in 'The number of students was small'. The first and second options are wrong because both require (R) to be correct. The fourth option is wrong because (A) states the accepted rule accurately."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (8).\n\nBeekeepers in the valley have noticed a (6)__________ decline in the number of hives over the past five years. Several factors are thought to be (7)__________ . The heavy spraying of orchards is the most obvious of them, but the loss of wild flowering plants along field boundaries has (8)__________ matters. Bees that cannot find varied pollen grow weak and become far more (9)__________ to infection. A few growers have now set aside narrow strips of uncultivated land, a step that costs them very little and (10)__________ the pollinators on which their apple crop depends.\n\nThe word that best fits blank (8) is:",
+      "options": [
+        "widened",
+        "wasted",
+        "weakened",
+        "worsened"
+      ],
+      "correctAnswer": "worsened",
+      "explanation": "'Worsened matters' is the established idiom for an additional factor that makes a bad situation worse, and the sentence is adding a second cause to the spraying already mentioned. 'Widened' is wrong because one widens a gap, a road or a difference, not 'matters'. 'Wasted' is wrong because it means used up without benefit and does not combine with 'matters'. 'Weakened' is wrong because although bees are indeed weakened later in the passage, one does not weaken 'matters'; the object required here is a situation, not a living thing."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Which of the following are clues that genuinely help in identifying the word missing from a blank?\n\n(i) The article standing immediately before the blank\n(ii) A conjunction such as 'but' occurring earlier in the sentence\n(iii) The number of letter spaces in the printed blank\n(iv) The tense of the verbs in the sentences around the blank\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "An article shows that a noun phrase is beginning and may indicate the initial sound of the missing word; a conjunction such as 'but' warns that a contrast is coming; and the surrounding tenses restrict the form of a missing verb. Item (iii) is the exception, because blanks are printed to a standard length that deliberately conceals the size of the answer. Hence the first option is wrong (it includes the letter spaces and omits the tense clue), the second is wrong (it includes them and omits the article clue), and the third is wrong (it includes them and omits the conjunction clue)."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (9).\n\nBeekeepers in the valley have noticed a (6)__________ decline in the number of hives over the past five years. Several factors are thought to be (7)__________ . The heavy spraying of orchards is the most obvious of them, but the loss of wild flowering plants along field boundaries has (8)__________ matters. Bees that cannot find varied pollen grow weak and become far more (9)__________ to infection. A few growers have now set aside narrow strips of uncultivated land, a step that costs them very little and (10)__________ the pollinators on which their apple crop depends.\n\nThe word that best fits blank (9) is:",
+      "options": [
+        "immune",
+        "susceptible",
+        "resistant",
+        "indifferent"
+      ],
+      "correctAnswer": "susceptible",
+      "explanation": "The bees are described as growing weak, so they must become more easily infected, and 'susceptible to infection' is the standard expression for that liability. 'Immune' is wrong because it means protected against infection, the exact opposite of what weakness produces. 'Resistant' is wrong for the same reason, since resistance to infection would improve the bees' position, not worsen it. 'Indifferent' is wrong because it describes a lack of interest or concern, which cannot sensibly be attributed to a colony facing disease."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements about cloze passages set in competitive examinations:\n\n(i) The examiner removes every fifth word mechanically, whatever its grammatical class.\n(ii) Discourse markers such as 'however' and 'therefore' are frequently tested in cloze passages.\n(iii) A blank may test collocation, that is, the words that customarily occur together.\n(iv) The opening and closing sentences of a cloze passage often establish its overall subject.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct because connectives control the logic of a passage and are therefore favourite targets. Statement (iii) is correct, as pairs such as 'heavy rain' and 'strong tea' are tested precisely because a near-synonym will not do. Statement (iv) is correct because the first and last sentences frame the topic. Statement (i) is incorrect: mechanical deletion of every fifth word belongs to classroom research on readability, whereas examination cloze items are chosen deliberately to test specific points. Every option containing (i) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (10).\n\nBeekeepers in the valley have noticed a (6)__________ decline in the number of hives over the past five years. Several factors are thought to be (7)__________ . The heavy spraying of orchards is the most obvious of them, but the loss of wild flowering plants along field boundaries has (8)__________ matters. Bees that cannot find varied pollen grow weak and become far more (9)__________ to infection. A few growers have now set aside narrow strips of uncultivated land, a step that costs them very little and (10)__________ the pollinators on which their apple crop depends.\n\nThe word that best fits blank (10) is:",
+      "options": [
+        "safeguards",
+        "salvages",
+        "sacrifices",
+        "surrenders"
+      ],
+      "correctAnswer": "safeguards",
+      "explanation": "The growers set aside land for the bees' benefit, so the verb must express protection, and 'safeguards the pollinators' says just that. 'Salvages' is wrong because it means rescues something already wrecked or discarded, whereas the strips are a preventive measure. 'Sacrifices' is wrong because it would mean giving the pollinators up, which reverses the whole point of the sentence. 'Surrenders' is wrong because it means hands over or yields, and one does not surrender the very insects on which one's crop depends."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Words that customarily occur together, such as 'heavy rain' and 'strong tea', are said to form a __________.",
+      "options": [
+        "synonym",
+        "collocation",
+        "homonym",
+        "paraphrase"
+      ],
+      "correctAnswer": "collocation",
+      "explanation": "A collocation is a habitual pairing of words that native usage has fixed, which is why 'strong rain' and 'heavy tea' sound wrong even though the words themselves are ordinary. 'Synonym' is wrong because it means a word of similar meaning to another, such as 'big' and 'large'. 'Homonym' is wrong because it means a word with the same form but a different meaning, such as 'bank' for a riverside and 'bank' for a financial institution. 'Paraphrase' is wrong because it means a restatement of a passage in different words."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (11).\n\nUntil the 1980s, letters addressed to the remote hamlets of Ladakh were carried on foot by mail runners who (11)__________ distances of forty kilometres a day. The work demanded (12)__________ stamina, for the passes lay under snow for half the year. A runner who failed to arrive on time was rarely (13)__________ ; everyone in the department understood the risks he ran. When motorable roads at last reached the upper valleys, the surviving runners were absorbed into other posts, but the older villagers still (14)__________ their courage. Their service has since been (15)__________ in a small museum at Leh.\n\nThe word that best fits blank (11) is:",
+      "options": [
+        "conquered",
+        "consumed",
+        "covered",
+        "conveyed"
+      ],
+      "correctAnswer": "covered",
+      "explanation": "'Covered' is the standard verb for traversing a stated distance, as in 'covered forty kilometres a day', and it fits the runners' daily journeys exactly. 'Conquered' is wrong because one conquers a territory, a peak or a fear, not a distance measured in kilometres. 'Consumed' is wrong because it means used up or ate, and a distance is not consumed. 'Conveyed' is wrong because it means carried or communicated something: the runners conveyed letters, but they did not convey distances."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Match each sentence containing a blank in Column I with the connective that best fills it in Column II:\n\nColumn I:\n(a) The scheme was generously funded; __________ , it failed to reach the poorest hamlets.\n(b) The bridge had been washed away; __________ , the relief trucks were forced to turn back.\n(c) Several crops did badly this season; __________ , the maize barely reached half its usual height.\n(d) He is a dependable batsman; __________ , he can bowl a useful over when required.\n\nColumn II:\n(i) moreover\n(ii) nevertheless\n(iii) consequently\n(iv) for instance\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "In (a) generous funding and failure stand in opposition, so a concessive marker is needed; in (b) the washed-away bridge causes the trucks to turn back; in (c) the maize is one illustration of the general failure; in (d) a second merit is added to the first. The first option is wrong because it offers the maize as an additional point rather than as an example. The second option is wrong because it makes generous funding the cause of failure and a washed-away bridge a mere contrast. The third option is wrong because it treats funding and failure as cumulative, ignoring the plain contradiction between them."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (12).\n\nUntil the 1980s, letters addressed to the remote hamlets of Ladakh were carried on foot by mail runners who (11)__________ distances of forty kilometres a day. The work demanded (12)__________ stamina, for the passes lay under snow for half the year. A runner who failed to arrive on time was rarely (13)__________ ; everyone in the department understood the risks he ran. When motorable roads at last reached the upper valleys, the surviving runners were absorbed into other posts, but the older villagers still (14)__________ their courage. Their service has since been (15)__________ in a small museum at Leh.\n\nThe word that best fits blank (12) is:",
+      "options": [
+        "enormity",
+        "enormousness",
+        "enormously",
+        "enormous"
+      ],
+      "correctAnswer": "enormous",
+      "explanation": "The blank stands directly before the noun 'stamina' and must therefore be an adjective, and 'enormous stamina' is both grammatical and idiomatic. 'Enormity' is wrong because it is a noun, and one noun cannot simply modify another in this frame; it also carries the sense of great wickedness. 'Enormousness' is wrong because it too is a noun, denoting vast size. 'Enormously' is wrong because it is an adverb, and adverbs modify verbs and adjectives rather than nouns such as 'stamina'."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'The report was submitted __________ the committee had met twice', the blank is best filled by 'after'.\nReason (R): The word 'after' can function both as a preposition and as a conjunction in English.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). The choice of 'after' is settled by the past perfect 'had met', which marks the meetings as the earlier event and the submission as the later one; that time relation, not the dual grammatical role of the word, is the reason. The first option is wrong because it mistakes a fact about word class for the operative reason. The third option is wrong because 'after' genuinely serves as both preposition and conjunction. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (13).\n\nUntil the 1980s, letters addressed to the remote hamlets of Ladakh were carried on foot by mail runners who (11)__________ distances of forty kilometres a day. The work demanded (12)__________ stamina, for the passes lay under snow for half the year. A runner who failed to arrive on time was rarely (13)__________ ; everyone in the department understood the risks he ran. When motorable roads at last reached the upper valleys, the surviving runners were absorbed into other posts, but the older villagers still (14)__________ their courage. Their service has since been (15)__________ in a small museum at Leh.\n\nThe word that best fits blank (13) is:",
+      "options": [
+        "recruited",
+        "reprimanded",
+        "recommended",
+        "rewarded"
+      ],
+      "correctAnswer": "reprimanded",
+      "explanation": "The clause that follows explains that everyone understood the risks, so a late runner was seldom rebuked, and 'reprimanded' expresses that official rebuke precisely. 'Recruited' is wrong because it means enrolled into service, which has nothing to do with arriving late. 'Recommended' is wrong because it means put forward with approval and would make the sentence say that latecomers were rarely praised, which does not follow from the sympathetic reason given. 'Rewarded' is wrong for the same reason: a reward for lateness is not what the department's understanding implies."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Which of the following are common reasons why a candidate fills a cloze blank wrongly?\n\n(i) Choosing a word that fits the grammar but contradicts the sense of the passage\n(ii) Overlooking a contrast signalled by a word such as 'although'\n(iii) Reading the entire passage before beginning to answer\n(iv) Selecting a word close in meaning whose customary collocation is different\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "All three of these are genuine sources of error: a grammatically possible word may still contradict the passage, a missed 'although' reverses the required sense, and a near-synonym often breaks the normal pairing of words. Item (iii) is the exception, since reading the whole passage first is good practice and prevents mistakes rather than causing them. Hence the second option is wrong (it includes the full first reading and omits the collocation error), the third is wrong (it includes it and omits the contradiction error), and the fourth is wrong (it includes it and omits the missed contrast)."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (14).\n\nUntil the 1980s, letters addressed to the remote hamlets of Ladakh were carried on foot by mail runners who (11)__________ distances of forty kilometres a day. The work demanded (12)__________ stamina, for the passes lay under snow for half the year. A runner who failed to arrive on time was rarely (13)__________ ; everyone in the department understood the risks he ran. When motorable roads at last reached the upper valleys, the surviving runners were absorbed into other posts, but the older villagers still (14)__________ their courage. Their service has since been (15)__________ in a small museum at Leh.\n\nThe word that best fits blank (14) is:",
+      "options": [
+        "admire",
+        "adore",
+        "adhere",
+        "address"
+      ],
+      "correctAnswer": "admire",
+      "explanation": "'Admire their courage' expresses the respect the older villagers continue to feel, and admiration is precisely the response that a quality such as courage attracts. 'Adore' is wrong because it denotes intense love or worship and is directed at persons or deities rather than at a quality like courage. 'Adhere' is wrong because it must be followed by 'to' and means stick to a surface or to a principle. 'Address' is wrong because it means speak to someone or deal with a problem, neither of which can take 'courage' as its object."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements about the words 'affect' and 'effect':\n\n(i) 'Affect' is normally used as a verb meaning to influence something.\n(ii) 'Effect' can be used only as a verb and never as a noun.\n(iii) 'Effect' is commonly used as a noun meaning a result or consequence.\n(iv) In the sentence 'The new rule will __________ every candidate', the word required is 'affect'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) gives the ordinary use of 'affect', statement (iii) gives the ordinary use of 'effect', and statement (iv) applies them correctly, since the rule will influence the candidates. Statement (ii) is incorrect: 'effect' is most often a NOUN, as in 'the effect of the rule', though it can also be a formal verb meaning to bring about, as in 'to effect a change'. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Read the following passage and choose the most appropriate word for the blank numbered (15).\n\nUntil the 1980s, letters addressed to the remote hamlets of Ladakh were carried on foot by mail runners who (11)__________ distances of forty kilometres a day. The work demanded (12)__________ stamina, for the passes lay under snow for half the year. A runner who failed to arrive on time was rarely (13)__________ ; everyone in the department understood the risks he ran. When motorable roads at last reached the upper valleys, the surviving runners were absorbed into other posts, but the older villagers still (14)__________ their courage. Their service has since been (15)__________ in a small museum at Leh.\n\nThe word that best fits blank (15) is:",
+      "options": [
+        "commenced",
+        "commended",
+        "commemorated",
+        "committed"
+      ],
+      "correctAnswer": "commemorated",
+      "explanation": "A museum preserves the memory of past service, and 'commemorated' means honoured in remembrance, which is exactly what a museum display does. 'Commenced' is wrong because it means began, and the runners' service had long since ended. 'Commended' is wrong because it means formally praised, an act performed by a superior officer rather than by a building, and it does not fit 'in a small museum'. 'Committed' is wrong because it means either entrusted or perpetrated, neither of which suits a record kept for posterity."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Consider the following statements about choosing between two words that both appear to fit a blank:\n\n(i) The word that agrees with the tone and register of the passage should be preferred.\n(ii) A word that creates a contradiction with a later sentence must be rejected.\n(iii) When two words both fit, the longer and more difficult word is always the intended answer.\n(iv) The customary collocation of the surrounding words often settles the choice.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because a colloquial word jars in formal prose and vice versa. Statement (ii) is correct, since internal consistency is the surest test of a choice. Statement (iv) is correct because habitual word partnerships frequently decide between two otherwise acceptable options. Statement (iii) is incorrect: difficulty is no guide at all, and examiners often set a short common word as the answer precisely to catch candidates who reach for the most impressive alternative. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    }
+  ]
+}

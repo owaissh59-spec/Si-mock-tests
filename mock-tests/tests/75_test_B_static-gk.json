@@ -1,0 +1,657 @@
+{
+  "subject": "B",
+  "topic": "Static GK (Books, Awards, Days, Institutions)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The book 'The Discovery of India' was written by:",
+      "options": [
+        "Rabindranath Tagore",
+        "Jawaharlal Nehru",
+        "Sarvepalli Radhakrishnan",
+        "Maulana Abul Kalam Azad"
+      ],
+      "correctAnswer": "Jawaharlal Nehru",
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment at Ahmednagar Fort in 1944, surveying India's past and its civilisational inheritance. 'Rabindranath Tagore' is wrong because his best-known works are Gitanjali and the novel Gora. 'Sarvepalli Radhakrishnan' is wrong because his major work is 'Indian Philosophy', a scholarly study. 'Maulana Abul Kalam Azad' is wrong because his celebrated account of the freedom struggle is 'India Wins Freedom'."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about Indian awards:\n\n(i) The Bharat Ratna is the highest civilian award of India.\n(ii) The Padma Shri ranks above the Padma Vibhushan.\n(iii) The Param Vir Chakra is the highest wartime gallantry award.\n(iv) The Dadasaheb Phalke Award is given for lifetime contribution to Indian cinema.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, the Bharat Ratna standing above all other civilian honours. Statement (iii) correctly describes the Param Vir Chakra. Statement (iv) correctly describes the Dadasaheb Phalke Award. Statement (ii) is incorrect because it inverts the order of precedence: the sequence in descending order is Padma Vibhushan, Padma Bhushan and then Padma Shri, so the Padma Shri is the lowest and not the highest of the three. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "World Environment Day is observed every year on:",
+      "options": [
+        "5 June",
+        "5 September",
+        "5 October",
+        "5 December"
+      ],
+      "correctAnswer": "5 June",
+      "explanation": "World Environment Day falls on 5 June, the date chosen to mark the opening of the United Nations Conference on the Human Environment held at Stockholm in 1972. '5 September' is wrong because that is Teachers' Day in India, observed on the birthday of Dr Radhakrishnan. '5 October' is wrong because that is World Teachers' Day, observed internationally. '5 December' is wrong because that is World Soil Day."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the books in Column I with their authors in Column II:\n\nColumn I:\n(a) Gitanjali\n(b) Wings of Fire\n(c) Godan\n(d) The Guide\n\nColumn II:\n(i) Premchand\n(ii) R.K. Narayan\n(iii) Rabindranath Tagore\n(iv) A.P.J. Abdul Kalam\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Gitanjali is Tagore's collection of devotional verse, Wings of Fire is Abdul Kalam's autobiography, Godan is Premchand's novel of peasant life, and The Guide is R.K. Narayan's best-known novel. The first option is wrong because it swaps Tagore and Kalam, attributing a twentieth-century scientist's memoir to a poet. The second option is wrong because it interchanges Premchand and Narayan. The fourth option is wrong because it assigns Godan to Kalam and Wings of Fire to Premchand, mismatching both."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "The headquarters of the United Nations Educational, Scientific and Cultural Organisation (UNESCO) is at:",
+      "options": [
+        "Geneva",
+        "Paris",
+        "New York",
+        "Rome"
+      ],
+      "correctAnswer": "Paris",
+      "explanation": "UNESCO has its headquarters at Paris, from where it administers programmes in education, science and culture, including the World Heritage list. 'Geneva' is wrong because that city houses the World Health Organisation, the International Labour Organisation and the World Trade Organisation. 'New York' is wrong because it is the seat of the United Nations itself and of UNICEF. 'Rome' is wrong because it is the seat of the Food and Agriculture Organisation."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Nobel Prize for Peace is presented at Oslo and not at Stockholm, where the other Nobel Prizes are presented.\nReason (R): Alfred Nobel's will directed that the peace prize be decided by a committee chosen by the Norwegian Parliament.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is precisely why (A) holds: since Nobel entrusted the peace award to a Norwegian committee, the ceremony is naturally held in the Norwegian capital while the Swedish institutions confer the remaining prizes at Stockholm. The second option is wrong because the terms of the will are the direct cause of the separate venue, not an unrelated fact. The third option is wrong because the provision in the will is a matter of record. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are fields in which Nobel Prizes are awarded?\n\n(i) Physics\n(ii) Literature\n(iii) Mathematics\n(iv) Peace\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Physics, Literature and Peace are three of the awards named in Alfred Nobel's will, the others being Chemistry and Physiology or Medicine, with Economic Sciences added later. Mathematics is the exception: there is no Nobel Prize in mathematics at all, the highest distinctions in that subject being the Fields Medal and the Abel Prize. Hence the first option is wrong (it includes mathematics and omits peace), the second is wrong (it includes mathematics and omits physics), and the third is wrong (it includes mathematics and omits literature)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "India observes Republic Day on 26 January because on that date in 1950:",
+      "options": [
+        "the Constitution of India came into force",
+        "India attained independence from British rule",
+        "the Constituent Assembly met for the first time",
+        "the National Flag was formally adopted"
+      ],
+      "correctAnswer": "the Constitution of India came into force",
+      "explanation": "The Constitution came into force on 26 January 1950, the date being chosen because the Congress had declared Purna Swaraj on 26 January 1930. 'India attained independence' is wrong because that occurred on 15 August 1947, which is observed as Independence Day. 'The Constituent Assembly met for the first time' is wrong because its first sitting was in December 1946. 'The National Flag was formally adopted' is wrong because the flag was adopted in July 1947, shortly before independence."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The following data show the Padma awards announced in a particular year:\n\nPadma Vibhushan: 6\nPadma Bhushan: 9\nPadma Shri: 91\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "The number of Padma Vibhushan awards exceeded the number of Padma Bhushan awards",
+        "The three categories together accounted for fewer than 100 awards",
+        "The Padma Shri accounted for more than four-fifths of all the Padma awards announced",
+        "The Padma Bhushan was the most numerous of the three categories"
+      ],
+      "correctAnswer": "The Padma Shri accounted for more than four-fifths of all the Padma awards announced",
+      "explanation": "The three categories total 6 + 9 + 91 = 106 awards, and the Padma Shri share of 91 works out to about 86 per cent, which is indeed more than four-fifths or 80 per cent. The first option is wrong because 6 is fewer than 9, not more. The second option is wrong because the total of 106 exceeds 100. The fourth option is wrong because the Padma Shri, with 91, is by far the most numerous, the Padma Bhushan accounting for only 9 of the awards."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about days of observance:\n\n(i) National Science Day is observed in India on 28 February.\n(ii) International Yoga Day is observed on 21 June.\n(iii) World Health Day is observed on 7 July.\n(iv) International Women's Day is observed on 8 March.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, 28 February commemorating the announcement of the Raman Effect. Statement (ii) is correct, the summer solstice of 21 June having been adopted as International Yoga Day. Statement (iv) is correct. Statement (iii) is incorrect because World Health Day falls on 7 APRIL, the date on which the World Health Organisation came into existence in 1948, and not in July. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Jnanpith Award is conferred for outstanding contribution to:",
+      "options": [
+        "science and technology",
+        "public administration",
+        "cinema",
+        "literature"
+      ],
+      "correctAnswer": "literature",
+      "explanation": "The Jnanpith Award is India's foremost literary honour and is given for writing in any of the languages recognised for the purpose, including English. 'Science and technology' is wrong because achievement in that field is recognised by the Shanti Swarup Bhatnagar Prize. 'Public administration' is wrong because no such national award of this standing exists for administration. 'Cinema' is wrong because lifetime achievement in films is recognised by the Dadasaheb Phalke Award."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Match the dates in Column I with the days observed on them in Column II:\n\nColumn I:\n(a) 14 November\n(b) 5 September\n(c) 10 December\n(d) 8 September\n\nColumn II:\n(i) International Literacy Day\n(ii) Children's Day\n(iii) Human Rights Day\n(iv) Teachers' Day\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Children's Day falls on 14 November, Teachers' Day in India on 5 September, Human Rights Day on 10 December and International Literacy Day on 8 September. The first alternative offered here is the correct one. The second option is wrong because it swaps Children's Day and Teachers' Day. The third option is wrong because it interchanges Literacy Day and Human Rights Day. The fourth option is wrong because it assigns Human Rights Day to September and Teachers' Day to December, misplacing both by several months."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The World Health Organisation has its headquarters at:",
+      "options": [
+        "Vienna",
+        "Rome",
+        "Geneva",
+        "The Hague"
+      ],
+      "correctAnswer": "Geneva",
+      "explanation": "The World Health Organisation is headquartered at Geneva in Switzerland, where its World Health Assembly meets each year. 'Vienna' is wrong because that city houses the International Atomic Energy Agency and the Organisation of the Petroleum Exporting Countries. 'Rome' is wrong because it is the seat of the Food and Agriculture Organisation. 'The Hague' is wrong because it is the seat of the International Court of Justice, the judicial organ of the United Nations."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Ramon Magsaysay Award is often described as Asia's Nobel Prize.\nReason (R): The award is named after a former President of the Philippines who died in an air crash.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). The award is likened to the Nobel Prize because of the standing it enjoys across Asia and the breadth of the public service it recognises; the fact that it commemorates a President who died in an air crash explains only how it came by its NAME. The first option is therefore wrong. The third and fourth options are wrong because both statements are individually accurate."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "The autobiography entitled 'The Story of My Experiments with Truth' was written by:",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "correctAnswer": "Mahatma Gandhi",
+      "explanation": "Gandhi wrote this account of his own life in Gujarati, and it was later translated into English; it traces his early years and the evolution of his ideas of truth and non-violence. 'Jawaharlal Nehru' is wrong because his own life story appeared simply as 'An Autobiography'. 'Subhas Chandra Bose' is wrong because his political account is 'The Indian Struggle'. 'Lala Lajpat Rai' is wrong because his well-known work is 'Unhappy India'."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following are international organisations headquartered at Geneva?\n\n(i) World Health Organisation\n(ii) International Labour Organisation\n(iii) Food and Agriculture Organisation\n(iv) World Trade Organisation\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The World Health Organisation, the International Labour Organisation and the World Trade Organisation are all based at Geneva, which is host to a large number of international bodies. The Food and Agriculture Organisation is the exception, its headquarters being at Rome. Hence the first option is wrong (it includes the FAO and omits the WTO), the second is wrong (it includes the FAO and omits the WHO), and the third is wrong (it includes the FAO and omits the ILO)."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The Param Vir Chakra is awarded for:",
+      "options": [
+        "the most conspicuous bravery in the presence of the enemy",
+        "distinguished service of a high order in peacetime",
+        "lifetime contribution to literature",
+        "excellence in public administration"
+      ],
+      "correctAnswer": "the most conspicuous bravery in the presence of the enemy",
+      "explanation": "The Param Vir Chakra is India's highest military decoration, given for the most conspicuous act of bravery in the face of the enemy, and a great many of its awards have been posthumous. 'Distinguished service in peacetime' is wrong because the corresponding peacetime honour for gallantry is the Ashoka Chakra. 'Lifetime contribution to literature' is wrong because that is the province of the Jnanpith Award. 'Excellence in public administration' is wrong because the decoration is a military one."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Consider the following statements about the location of national institutions:\n\n(i) The Sardar Vallabhbhai Patel National Police Academy is at Hyderabad.\n(ii) The National Defence Academy is at Khadakwasla near Pune.\n(iii) The Indian Military Academy is at Jaipur.\n(iv) The Indian Institute of Science is at Bengaluru.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the academy at Hyderabad being where Indian Police Service probationers are trained. Statement (ii) is correct, the National Defence Academy at Khadakwasla training cadets of all three services together. Statement (iv) is correct. Statement (iii) is incorrect because the Indian Military Academy, which trains officers for the Army, is at DEHRADUN and not at Jaipur. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The International Criminal Police Organisation, commonly known as Interpol, has its headquarters at:",
+      "options": [
+        "Vienna in Austria",
+        "Lyon in France",
+        "The Hague in the Netherlands",
+        "Brussels in Belgium"
+      ],
+      "correctAnswer": "Lyon in France",
+      "explanation": "Interpol has been based at Lyon in France since 1989 and works to help police forces of member countries cooperate across borders. 'Vienna in Austria' is wrong because that city hosts the International Atomic Energy Agency. 'The Hague in the Netherlands' is a tempting distractor because it houses the International Court of Justice and also Europol, the European police agency, but Interpol is a separate and wider body. 'Brussels in Belgium' is wrong because it is the seat of NATO and of the main institutions of the European Union."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The highest civilian award of the Republic of India is the __________.",
+      "options": [
+        "Padma Shri",
+        "Padma Bhushan",
+        "Padma Vibhushan",
+        "Bharat Ratna"
+      ],
+      "correctAnswer": "Bharat Ratna",
+      "explanation": "The Bharat Ratna, instituted in 1954, is conferred for exceptional service of the highest order and ranks above every other civilian honour. 'Padma Vibhushan' is wrong because, although it is the second highest civilian award, it stands below the Bharat Ratna. 'Padma Bhushan' is wrong because it comes third in the order of precedence. 'Padma Shri' is wrong because it is the fourth and lowest of these four honours, though it is the most widely conferred."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "The Booker Prize is awarded for:",
+      "options": [
+        "a work of fiction written in English",
+        "distinguished achievement in journalism",
+        "outstanding contribution to world peace",
+        "original research in economics"
+      ],
+      "correctAnswer": "a work of fiction written in English",
+      "explanation": "The Booker Prize is given for a novel written in English, and Indian winners have included Salman Rushdie, Arundhati Roy, Kiran Desai and Aravind Adiga. 'Distinguished achievement in journalism' is wrong because that is recognised principally by the Pulitzer Prize. 'Outstanding contribution to world peace' is wrong because that is the province of the Nobel Peace Prize. 'Original research in economics' is wrong because that is recognised by the Nobel Memorial Prize in Economic Sciences."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Match the international bodies in Column I with the cities in which they are headquartered in Column II:\n\nColumn I:\n(a) Food and Agriculture Organisation\n(b) International Atomic Energy Agency\n(c) UNICEF\n(d) International Court of Justice\n\nColumn II:\n(i) New York\n(ii) Vienna\n(iii) Rome\n(iv) The Hague\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "The Food and Agriculture Organisation is at Rome, the International Atomic Energy Agency at Vienna, UNICEF at New York alongside the United Nations, and the International Court of Justice at The Hague. The first option is wrong because it swaps Rome and Vienna. The second option is wrong because it interchanges New York and The Hague, placing a children's agency in the seat of the world court. The fourth option is wrong because it puts the FAO in New York and UNICEF in Rome, exchanging two agencies with very different mandates."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The song 'Vande Mataram', adopted as the national song of India, was taken from the novel:",
+      "options": [
+        "Gora",
+        "Anandamath",
+        "Devdas",
+        "Godan"
+      ],
+      "correctAnswer": "Anandamath",
+      "explanation": "'Vande Mataram' occurs in Bankim Chandra Chatterjee's Bengali novel Anandamath, published in 1882, and it became a rallying cry of the national movement. 'Gora' is wrong because that novel is by Rabindranath Tagore, who composed the national anthem but not the national song. 'Devdas' is wrong because it was written by Sarat Chandra Chattopadhyay. 'Godan' is wrong because it is Premchand's Hindi novel about the life of a poor peasant."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): There is no Nobel Prize in the field of mathematics.\nReason (R): Alfred Nobel's will established prizes in seven fields, and mathematics was the only science he left out.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: no Nobel Prize has ever been instituted for mathematics, the leading honours in the subject being the Fields Medal and the Abel Prize. (R) is wrong on the facts, because Nobel's will provided for FIVE prizes only, namely Physics, Chemistry, Physiology or Medicine, Literature and Peace; the prize in Economic Sciences was added much later, in 1968, by the central bank of Sweden. The first and second options are wrong because both require (R) to be correct, and the fourth is wrong because (A) is accurate."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "National Youth Day is observed in India on 12 January to mark the birth anniversary of:",
+      "options": [
+        "Bhagat Singh",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak",
+        "Swami Vivekananda"
+      ],
+      "correctAnswer": "Swami Vivekananda",
+      "explanation": "Swami Vivekananda was born on 12 January 1863, and the day has been observed as National Youth Day since 1985 in recognition of the appeal of his ideas to the young. 'Bhagat Singh' is wrong because he was born in September and is remembered chiefly on 23 March, the day of his execution. 'Subhas Chandra Bose' is wrong because his birthday, 23 January, is observed as Parakram Diwas. 'Bal Gangadhar Tilak' is wrong because he was born in July."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Which of the following are officially recognised national symbols of India?\n\n(i) The tiger as the national animal\n(ii) The peacock as the national bird\n(iii) The rose as the national flower\n(iv) The banyan as the national tree\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Bengal tiger is the national animal, the Indian peacock the national bird and the banyan the national tree. Item (iii) is the exception: the national flower of India is the LOTUS, which carries a long association with Indian art and religious symbolism, and not the rose. Hence the second option is wrong (it includes the rose and omits the banyan), the third is wrong (it includes the rose and omits the tiger), and the fourth is wrong (it includes the rose and omits the peacock)."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The Dadasaheb Phalke Award is conferred by the Government of India for:",
+      "options": [
+        "excellence in Indian classical music",
+        "distinguished service in the field of journalism",
+        "outstanding lifetime contribution to Indian cinema",
+        "original research in the social sciences"
+      ],
+      "correctAnswer": "outstanding lifetime contribution to Indian cinema",
+      "explanation": "The award is named after Dhundiraj Govind Phalke, who made Raja Harishchandra, India's first full-length feature film, and it is the highest official recognition of a lifetime's work in Indian cinema. 'Excellence in Indian classical music' is wrong because music, dance and drama are recognised by the awards of the Sangeet Natak Akademi. 'Distinguished service in journalism' and 'original research in the social sciences' are wrong because the award is confined to the cinema."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Consider the following statements about well-known books:\n\n(i) 'India Wins Freedom' was written by Maulana Abul Kalam Azad.\n(ii) 'Wings of Fire' is a novel written by R.K. Narayan.\n(iii) 'Poverty and Un-British Rule in India' was written by Dadabhai Naoroji.\n(iv) 'Hind Swaraj' was written by Mahatma Gandhi.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, Azad's account of the freedom struggle bearing that title. Statement (iii) is correct, Naoroji's work having advanced the drain theory of British exploitation. Statement (iv) is correct, Hind Swaraj setting out Gandhi's early political philosophy. Statement (ii) is incorrect on two counts: 'Wings of Fire' is not a novel but the AUTOBIOGRAPHY of A.P.J. Abdul Kalam, and R.K. Narayan is the author of The Guide and the Malgudi stories. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The table below shows the year in which four international organisations were founded:\n\nUnited Nations: 1945\nUNESCO: 1946\nWorld Health Organisation: 1948\nWorld Trade Organisation: 1995\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "The World Health Organisation is older than UNESCO",
+        "All four organisations were founded before 1950",
+        "UNESCO was founded in the same year as the United Nations",
+        "The World Trade Organisation is the youngest of the four by more than forty years"
+      ],
+      "correctAnswer": "The World Trade Organisation is the youngest of the four by more than forty years",
+      "explanation": "The next most recent of the four is the World Health Organisation of 1948, and 1995 is forty-seven years later than that, so the gap does exceed forty years. The first option is wrong because UNESCO of 1946 is two years older than the WHO of 1948, not younger. The second option is wrong because the World Trade Organisation was founded in 1995, well after 1950. The third option is wrong because the United Nations dates from 1945 and UNESCO from 1946, a difference of one year."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The Secretariat of the South Asian Association for Regional Cooperation (SAARC) is located at:",
+      "options": [
+        "Kathmandu",
+        "Dhaka",
+        "Colombo",
+        "Islamabad"
+      ],
+      "correctAnswer": "Kathmandu",
+      "explanation": "The SAARC Secretariat was set up at Kathmandu in Nepal in 1987 and coordinates the work of the association. 'Dhaka' is the most tempting distractor, because SAARC itself was founded at Dhaka in 1985 when the charter was signed, but the permanent secretariat was placed elsewhere. 'Colombo' and 'Islamabad' are wrong because, although both are capitals of member states and have hosted summits, neither houses the secretariat."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "Match the awards in Column I with the fields for which they are given in Column II:\n\nColumn I:\n(a) Pulitzer Prize\n(b) Grammy Award\n(c) Shanti Swarup Bhatnagar Prize\n(d) Kalinga Prize\n\nColumn II:\n(i) Popularisation of science\n(ii) Journalism and letters\n(iii) Achievement in music recording\n(iv) Scientific research in India\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "The Pulitzer Prize honours journalism and letters, the Grammy recognises recorded music, the Shanti Swarup Bhatnagar Prize rewards scientific research by Indian scientists, and the Kalinga Prize is a UNESCO award for popularising science among the public. The first option is wrong because it swaps the Pulitzer and the Grammy. The second option is wrong because it interchanges the two science awards, confusing research with popularisation. The fourth option is wrong because it makes the Grammy a research award and the Bhatnagar Prize a music award."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "The Ashoka Chakra is awarded for:",
+      "options": [
+        "gallantry displayed in the presence of the enemy",
+        "the most conspicuous bravery otherwise than in the face of the enemy",
+        "excellence in the field of school education",
+        "distinguished service in the diplomatic service"
+      ],
+      "correctAnswer": "the most conspicuous bravery otherwise than in the face of the enemy",
+      "explanation": "The Ashoka Chakra is the highest peacetime gallantry award and is given for conspicuous bravery away from the battlefield, for instance in counter-insurgency operations or in rescuing life. 'Gallantry in the presence of the enemy' is wrong because that is the ground for the Param Vir Chakra, the wartime counterpart of this decoration. 'Excellence in school education' and 'distinguished service in the diplomatic service' are wrong because the Ashoka Chakra is purely a gallantry award."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The United Nations was founded in 1919, immediately after the First World War.\nReason (R): The United Nations has its headquarters at New York.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: the United Nations is headquartered at New York, where the General Assembly and the Security Council meet. (A) is wrong because the body founded in 1919 after the First World War was the LEAGUE OF NATIONS, which was based at Geneva and which failed to prevent a second war; the United Nations was established in 1945, after the Second World War. The first and second options are wrong because both require (A) to be correct, and the third is wrong because (R) is accurate."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "World Ozone Day, which marks the signing of the Montreal Protocol, is observed on:",
+      "options": [
+        "16 June",
+        "16 July",
+        "16 August",
+        "16 September"
+      ],
+      "correctAnswer": "16 September",
+      "explanation": "World Ozone Day falls on 16 September, the anniversary of the signing in 1987 of the Montreal Protocol on substances that deplete the ozone layer, an agreement widely regarded as the most successful environmental treaty yet concluded. The other three dates are wrong because none of them corresponds to the signing of the protocol or to any related international observance concerning the ozone layer."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Which of the following are national academies set up by the Government of India for the arts and letters?\n\n(i) Sahitya Akademi\n(ii) Lalit Kala Akademi\n(iii) Sangeet Natak Akademi\n(iv) Comptroller and Auditor General of India\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Sahitya Akademi is the national academy of letters, the Lalit Kala Akademi that of the fine arts, and the Sangeet Natak Akademi that of music, dance and drama, all three having been established in the years after independence. Item (iv) is the exception: the Comptroller and Auditor General is a constitutional authority that audits the accounts of the Union and the states and has nothing to do with the arts. Hence the second, third and fourth options are each wrong because all of them include this office while omitting one of the genuine academies."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "Consider the following statements about internationally observed days:\n\n(i) 2 October is observed as the International Day of Non-Violence.\n(ii) 24 October is observed as United Nations Day.\n(iii) 21 February is observed as World Population Day.\n(iv) 1 December is observed as World AIDS Day.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, Gandhi's birthday having been adopted by the United Nations as the Day of Non-Violence. Statement (ii) is correct, 24 October being the date on which the United Nations Charter came into force in 1945. Statement (iv) is correct. Statement (iii) is incorrect because 21 February is International Mother Language Day, while World Population Day falls on 11 JULY. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The National Archives of India, which preserves the non-current records of the Government of India, is located at:",
+      "options": [
+        "Kolkata",
+        "New Delhi",
+        "Pune",
+        "Chennai"
+      ],
+      "correctAnswer": "New Delhi",
+      "explanation": "The National Archives of India stands on Janpath in New Delhi and holds the records of the central government together with private papers of historical value. 'Kolkata' is a well-judged distractor, because the institution began there in 1891 as the Imperial Record Department and was moved only after the capital was shifted to Delhi. 'Pune' is wrong because it houses the Peshwa Daftar of Maratha records, a state collection. 'Chennai' is wrong because it has the Tamil Nadu State Archives, again a regional repository."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The principal judicial organ of the United Nations, which has its seat at The Hague, is the __________.",
+      "options": [
+        "International Labour Organisation",
+        "International Monetary Fund",
+        "International Atomic Energy Agency",
+        "International Court of Justice"
+      ],
+      "correctAnswer": "International Court of Justice",
+      "explanation": "The International Court of Justice sits in the Peace Palace at The Hague and decides disputes between states as well as giving advisory opinions to United Nations organs. 'International Labour Organisation' is wrong because it deals with labour standards and is based at Geneva. 'International Monetary Fund' is wrong because it is a financial institution based at Washington. 'International Atomic Energy Agency' is wrong because it supervises the peaceful use of nuclear energy from its headquarters at Vienna."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The novel 'Midnight's Children', which won the Booker Prize, was written by:",
+      "options": [
+        "Salman Rushdie",
+        "Vikram Seth",
+        "Amitav Ghosh",
+        "Jhumpa Lahiri"
+      ],
+      "correctAnswer": "Salman Rushdie",
+      "explanation": "Salman Rushdie's 'Midnight's Children', which takes the moment of Indian independence as its starting point, won the Booker Prize in 1981 and was later voted the best of all the winners. 'Vikram Seth' is wrong because his best-known novel is 'A Suitable Boy'. 'Amitav Ghosh' is wrong because his works include 'The Shadow Lines' and the Ibis trilogy. 'Jhumpa Lahiri' is wrong because her collection 'Interpreter of Maladies' won the Pulitzer Prize rather than the Booker."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "Match the categories of national symbol in Column I with the correct symbol in Column II:\n\nColumn I:\n(a) National flower\n(b) National fruit\n(c) National river\n(d) National aquatic animal\n\nColumn II:\n(i) Ganga\n(ii) Ganges river dolphin\n(iii) Lotus\n(iv) Mango\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The lotus is the national flower, the mango the national fruit, the Ganga the national river and the Ganges river dolphin the national aquatic animal. The first option is wrong because it swaps the flower and the fruit. The second option is wrong because it interchanges the river and the aquatic animal, making a dolphin the national river. The fourth option is wrong because it assigns the Ganga to the fruit and the mango to the river, mismatching both of those entries."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "31 October is observed in India as National Unity Day to mark the birth anniversary of:",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Dr B.R. Ambedkar",
+        "Lal Bahadur Shastri"
+      ],
+      "correctAnswer": "Sardar Vallabhbhai Patel",
+      "explanation": "Sardar Vallabhbhai Patel was born on 31 October 1875, and the day has been observed since 2014 as Rashtriya Ekta Diwas in recognition of his part in integrating the princely states into the Indian Union. 'Jawaharlal Nehru' is wrong because his birthday, 14 November, is observed as Children's Day. 'Dr B.R. Ambedkar' is wrong because he was born on 14 April. 'Lal Bahadur Shastri' is wrong because he was born on 2 October, the same date as Gandhi."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Bharat Ratna can be conferred on a person after his or her death.\nReason (R): The rules governing the award were amended in 1955 so as to permit posthumous conferment.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) explains (A) exactly: the award as originally instituted in 1954 did not allow posthumous conferment, and it is the amendment of the following year that made it possible, Lal Bahadur Shastri becoming the first person so honoured. The second option is wrong because the amendment is the very ground of the present position. The third option is wrong because the change in the rules is a matter of record. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "43",
+      "subject": "B",
+      "questionText": "The headquarters of the Organisation of the Petroleum Exporting Countries (OPEC) is at:",
+      "options": [
+        "Riyadh",
+        "Tehran",
+        "Baghdad",
+        "Vienna"
+      ],
+      "correctAnswer": "Vienna",
+      "explanation": "OPEC has had its headquarters at Vienna in Austria since 1965, and its conferences of oil ministers are held there. 'Baghdad' is the strongest distractor because OPEC was actually founded at a conference in Baghdad in 1960, but the secretariat was first placed at Geneva and then moved to Vienna. 'Riyadh' and 'Tehran' are wrong because, although Saudi Arabia and Iran are among the most important members of the organisation, neither capital houses its secretariat."
+    },
+    {
+      "id": "44",
+      "subject": "B",
+      "questionText": "Which of the following are books written by Rabindranath Tagore?\n\n(i) Gitanjali\n(ii) Gora\n(iii) The Home and the World\n(iv) The Discovery of India\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Gitanjali, the collection of poems for which Tagore received the Nobel Prize in Literature, and the novels Gora and The Home and the World are all his works. 'The Discovery of India' is the exception, having been written by Jawaharlal Nehru while he was in prison. Hence the second option is wrong (it includes Nehru's book and omits The Home and the World), the third is wrong (it includes it and omits Gitanjali), and the fourth is wrong (it includes it and omits Gora)."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Consider the following statements about the location of Indian institutions:\n\n(i) The National Human Rights Commission has its headquarters at Mumbai.\n(ii) The Indian Institute of Management at Ahmedabad was among the earliest of the Indian Institutes of Management.\n(iii) The Forest Research Institute is at Dehradun.\n(iv) The National Institute of Design is at Ahmedabad.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct, the Ahmedabad institute having been founded in 1961 among the first of its kind. Statement (iii) is correct, the Forest Research Institute at Dehradun being a well-known centre of forestry research. Statement (iv) is correct. Statement (i) is incorrect because the National Human Rights Commission, constituted in 1993, has its headquarters at NEW DELHI and not at Mumbai. Every option containing (i) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "46",
+      "subject": "B",
+      "questionText": "The Sahitya Akademi confers its annual awards for outstanding writing in:",
+      "options": [
+        "English alone",
+        "the twenty-four languages recognised by the Akademi",
+        "Hindi and English only",
+        "Sanskrit alone"
+      ],
+      "correctAnswer": "the twenty-four languages recognised by the Akademi",
+      "explanation": "The Sahitya Akademi, India's national academy of letters, gives its awards in twenty-four languages, comprising the twenty-two listed in the Eighth Schedule of the Constitution together with English and Rajasthani. 'English alone' and 'Sanskrit alone' are wrong because the whole purpose of the Akademi is to foster literature across the many languages of the country. 'Hindi and English only' is wrong for the same reason, since limiting the awards to two languages would exclude the bulk of Indian writing."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "The following data show the number of persons awarded the Bharat Ratna in four decades:\n\nThe 1950s: 12 recipients\nThe 1960s: 3 recipients\nThe 1970s: 3 recipients\nThe 1990s: 9 recipients\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "The 1960s saw more recipients than the 1990s",
+        "The number of recipients rose steadily from the 1950s to the 1990s",
+        "The four decades together account for fewer than 25 recipients",
+        "The 1950s and the 1990s together account for more than three-fourths of these recipients"
+      ],
+      "correctAnswer": "The 1950s and the 1990s together account for more than three-fourths of these recipients",
+      "explanation": "The four decades give a total of 12 + 3 + 3 + 9 = 27 recipients, of whom the 1950s and the 1990s account for 12 + 9 = 21, which is about 78 per cent and therefore more than three-fourths. The first option is wrong because 3 is fewer than 9. The second option is wrong because the number fell sharply from 12 to 3 before rising again, so there was no steady rise. The third option is wrong because the total of 27 exceeds 25."
+    },
+    {
+      "id": "48",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Nobel Prizes:\n\n(i) The Nobel Prize in Economic Sciences was not among the prizes established by Alfred Nobel's will.\n(ii) Rabindranath Tagore was the first Asian to receive a Nobel Prize.\n(iii) The Nobel Prizes were awarded for the first time in 1901.\n(iv) A Nobel Prize may be conferred posthumously as a matter of course.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct, that prize having been instituted in 1968 by the central bank of Sweden. Statement (ii) is correct, Tagore having won the prize for literature in 1913. Statement (iii) is correct, the first awards being made five years after Nobel's death. Statement (iv) is incorrect because the statutes have since 1974 barred posthumous awards, the only exception being where a laureate dies after the announcement has been made. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "National Science Day is observed in India on 28 February to commemorate:",
+      "options": [
+        "the founding of the Indian Science Congress",
+        "the birth anniversary of Sir C.V. Raman",
+        "the announcement of the discovery of the Raman Effect",
+        "the establishment of the Council of Scientific and Industrial Research"
+      ],
+      "correctAnswer": "the announcement of the discovery of the Raman Effect",
+      "explanation": "On 28 February 1928 Sir C.V. Raman announced the discovery of the effect of scattering that bears his name, and for which he received the Nobel Prize in Physics in 1930; the day has been observed since 1987. 'The birth anniversary of Sir C.V. Raman' is the most tempting distractor, but he was born on 7 November. 'The founding of the Indian Science Congress' and 'the establishment of the Council of Scientific and Industrial Research' are wrong because neither event falls on this date."
+    },
+    {
+      "id": "50",
+      "subject": "B",
+      "questionText": "Consider the following statements about international awards:\n\n(i) The Pulitzer Prize is awarded chiefly in the United States.\n(ii) The Academy Award, popularly called the Oscar, is given for achievement in the cinema.\n(iii) The Nobel Prize in Literature has never been awarded to an Indian.\n(iv) The Right Livelihood Award is sometimes described as the Alternative Nobel Prize.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the Pulitzer being an American award for journalism, letters and musical composition. Statement (ii) correctly describes the Oscars. Statement (iv) is correct, that award having been founded to honour work neglected by the Nobel Prizes. Statement (iii) is incorrect because Rabindranath Tagore won the Nobel Prize in Literature in 1913 for Gitanjali, becoming the first Asian laureate in any field. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    }
+  ]
+}
