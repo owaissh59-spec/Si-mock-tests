@@ -2,7 +2,7 @@
   "id": "FEAT-003",
   "type": "feat",
   "description": "Generate test 87: Subject D (English Comprehension), Topic: Active/Passive Voice, 50 questions, difficulty_profile: standard. Save to mock-tests/tests/87_test_D_voice.json. Then run python3 mock-tests/_record_test.py 87.",
-  "status": "in_progress",
+  "status": "completed",
   "steps": [
     "Read mock-tests/history/D.json to identify all existing Active/Passive Voice questions (from test 54 and any revision tests) to avoid duplicates.",
     "Generate 50 questions on Active/Passive Voice following the steering prompt rules: type distribution for 50Q is Single Correct MCQ: 20, Statement-based: 8, Assertion-Reason: 5, Matching: 5, Multiple Correct Combination: 5, Fill in the Blank: 2, Numerical Value: 2, Data Interpretation: 3. However, for English Comprehension (D), Numerical Value and Data Interpretation are not natural fits -- substitute those with additional Single Correct MCQs. So effectively: Single Correct MCQ: 25, Statement-based: 8, Assertion-Reason: 5, Matching: 5, Multiple Correct Combination: 5, Fill in the Blank: 2. Difficulty distribution for 'standard': Easy 25%, Medium 40%, Hard 25%, Very Hard 10%. Intersperse types randomly.",
@@ -22,5 +22,5 @@
     "python3 mock-tests/_record_test.py 87"
   ],
   "blocked_reason": null,
-  "findings": ""
+  "findings": "Test 87 generated successfully with 50 questions on Active/Passive Voice. Type distribution: Single Correct MCQ=25, Statement-based=8, Assertion-Reason=5, Matching=5, Multiple Correct Combination=5, Fill in the Blank=2. Answer distribution balanced: A=13, B=13, C=12, D=12. No duplicates with existing history (test 54 was also Voice but all stems are unique). Record script confirmed config.json updated to next_test=88."
 }
