@@ -1,0 +1,397 @@
+{
+  "subject": "A",
+  "topic": "Problem Solving & Arithmetical Reasoning",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "A shopkeeper marks an article at Rs. 500 and offers a discount of 10%. If he still makes a profit of 12.5%, what is the cost price of the article?",
+      "options": [
+        "Rs. 380",
+        "Rs. 400",
+        "Rs. 420",
+        "Rs. 440"
+      ],
+      "correctAnswer": "Rs. 400",
+      "explanation": "Selling price after 10% discount on Rs. 500 = Rs. 450. If profit is 12.5%, then CP = SP / 1.125 = 450 / 1.125 = Rs. 400. Rs. 380 is wrong because it would give a profit of (450-380)/380 = 18.4%, not 12.5%. Rs. 420 is wrong because the profit would be (450-420)/420 = 7.14%, not 12.5%. Rs. 440 is wrong because the profit would be only (450-440)/440 = 2.27%, not 12.5%."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) If the present ages of A and B are in the ratio 5:3, and 10 years ago the ratio was 3:1, then A's present age is 25 years.\n(ii) If the sum of ages of a father and son is 56 years, and after 8 years the father will be twice as old as the son, then the son's present age is 16 years.\n(iii) If a person was 5 times as old as his daughter 8 years ago, and now he is 3 times as old, then the person's present age is 60 years.\n(iv) If 6 years hence the ratio of ages of X and Y will be 7:5, and 6 years ago it was 5:3, then X's present age is 36 years.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) Let ages be 5x and 3x. (5x-10)/(3x-10)=3/1 gives 5x-10=9x-30, 4x=20, x=5, A=25. Correct. (ii) F+S=56, after 8 years: (56-S)+8=2(S+8), 64-S=2S+16, 3S=48, S=16. Correct. (iii) Daughter 8 yrs ago=d, person=5d. Now: 5d+8=3(d+8)=3d+24, 2d=16, d=8. Person=48, not 60. Wrong. (iv) 5X-7Y=12, 3X-5Y=-12. Solving: 4X=144, X=36. Correct. Option (i),(ii) and (iii) is wrong because (iii) gives 48 not 60. Option (ii),(iii) and (iv) is wrong because (iii) is incorrect. Option (i),(iii) and (iv) is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "A train running at 60 km/h crosses a platform in 30 seconds. If the length of the train is 200 m, what is the length of the platform?",
+      "options": [
+        "250 m",
+        "280 m",
+        "300 m",
+        "350 m"
+      ],
+      "correctAnswer": "300 m",
+      "explanation": "Speed = 60 km/h = 60 x 5/18 = 50/3 m/s. Distance covered in 30 seconds = (50/3) x 30 = 500 m. Platform length = 500 - 200 = 300 m. 250 m is wrong because total distance would be 450 m needing 54 km/h. 280 m is wrong because total 480 m needs 57.6 km/h. 350 m is wrong because total 550 m needs 66 km/h."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a number is first increased by 20% and then decreased by 20%, the net effect is always a 4% decrease.\nReason (R): For successive percentage changes of +a% and -a%, the net change is always -(a squared / 100) percent.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion: 1.2 x 0.8 = 0.96, a 4% decrease. Correct. Reason: Net change = -(a^2/100)% is the standard formula. For a=20: -(400/100) = -4%. Correct and directly explains A. Option 2 is wrong because R directly provides the mathematical basis for A. Option 3 is wrong because R is a valid mathematical formula. Option 4 is wrong because A is demonstrably correct (1.2 x 0.8 = 0.96)."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "The present age of a father is 4 times the age of his son. After 5 years, the father's age will be 3 times the age of his son. What is the present age of the son?",
+      "options": [
+        "8 years",
+        "9 years",
+        "12 years",
+        "10 years"
+      ],
+      "correctAnswer": "10 years",
+      "explanation": "Let son = S. Father = 4S. After 5 years: 4S+5 = 3(S+5), 4S+5 = 3S+15, S = 10. 8 years is wrong because father=32, after 5 years: 37 vs 3x13=39, not equal. 9 years is wrong because father=36, after 5 years: 41 vs 3x14=42, not equal. 12 years is wrong because father=48, after 5 years: 53 vs 3x17=51, not equal."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the following word problems with their correct answers:\n\nColumn I:\n(a) A pipe fills a tank in 8 hours and another empties it in 12 hours. If both are opened together, how long to fill the tank?\n(b) The ratio of speeds of two trains is 3:4. The faster train covers 240 km in 3 hours. In how many hours will the slower train cover 360 km?\n(c) A sum becomes Rs. 3000 in 2 years and Rs. 3300 in 3 years at simple interest. What is the principal?\n(d) Three numbers are in the ratio 2:3:5. If the sum of their squares is 608, what is the largest number?\n\nColumn II:\n(i) Rs. 2400\n(ii) 24 hours\n(iii) 20\n(iv) 6 hours\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "(a) Net rate = 1/8 - 1/12 = 1/24. Time = 24 hours. Matches (ii). (b) Faster speed = 240/3 = 80 km/h. Ratio 3:4, slower = 60 km/h. Time = 360/60 = 6 hours. Matches (iv). (c) SI per year = 3300-3000 = Rs. 300. In 2 years SI = 600. Principal = 3000-600 = Rs. 2400. Matches (i). (d) 4x^2+9x^2+25x^2=38x^2=608, x^2=16, x=4. Largest=20. Matches (iii). Option 2 incorrectly swaps pipe and speed answers. Option 3 incorrectly assigns 20 to speed problem. Option 4 mismatches all values."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Which of the following are correct statements about clock problems?\n\n(i) At 3:00, the angle between the hour and minute hands is exactly 90 degrees.\n(ii) The minute hand gains 5.5 degrees per minute over the hour hand.\n(iii) At 6:30, the angle between the hour and minute hands is exactly 0 degrees.\n(iv) The hands of a clock coincide 11 times in every 12-hour period.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) At 3:00, hour hand at 90 degrees, minute hand at 0. Angle = 90 degrees. Correct. (ii) Minute hand moves 6 deg/min, hour hand 0.5 deg/min. Gain = 5.5 deg/min. Correct. (iii) At 6:30, hour hand at 195 degrees, minute hand at 180 degrees. Angle = 15 degrees, not 0. Wrong. (iv) Hands coincide 11 times in 12 hours. Correct. Option (i),(iii) and (iv) is wrong because (iii) gives 15 degrees not 0. Option (ii),(iii) and (iv) is wrong because (iii) is false. Option (i) and (iii) only is wrong because (iii) is false and it excludes correct statements (ii) and (iv)."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "If January 1 of a certain non-leap year falls on a Friday, what day of the week will March 1 of that year be?",
+      "options": [
+        "Tuesday",
+        "Sunday",
+        "Monday",
+        "Saturday"
+      ],
+      "correctAnswer": "Monday",
+      "explanation": "From Jan 1 to Mar 1: January has 31 days, February has 28 days (non-leap), total 59 days later. 59 mod 7 = 3 (since 56 = 8 complete weeks). Friday + 3 = Monday. Sunday is wrong because that is only 2 days ahead. Tuesday is wrong because that would require 4 extra days (=60 days, not 59). Saturday is wrong because that is only 1 day ahead of Friday."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) The difference between CI and SI on Rs. 6000 at 10% per annum for 2 years is Rs. 60.\n(ii) If a sum triples itself in 8 years at simple interest, the rate of interest is 25% per annum.\n(iii) The compound interest on Rs. 1000 at 5% per annum for 2 years compounded annually is Rs. 102.50.\n(iv) If the rate of interest is 12% per annum compounded half-yearly, the effective annual rate is 12.36%.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) SI=6000x10x2/100=1200. CI=6000x(1.1)^2-6000=7260-6000=1260. Diff=60. Correct. (ii) Sum triples in 8 years: 2P=PxRx8/100, R=200/8=25%. Correct. (iii) CI=1000x(1.05)^2-1000=1102.50-1000=102.50. Correct. (iv) Effective rate=(1+0.06)^2-1=1.1236-1=0.1236=12.36%. Correct. Option (i) and (ii) only excludes correct statements (iii) and (iv). Option (i),(ii) and (iii) excludes correct statement (iv). Option (ii),(iii) and (iv) excludes correct statement (i)."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Two cars start simultaneously from cities X and Y towards each other. Car A travels at 60 km/h and Car B at 40 km/h. If the distance between X and Y is 300 km, at what distance from X will they meet?",
+      "options": [
+        "160 km",
+        "170 km",
+        "180 km",
+        "200 km"
+      ],
+      "correctAnswer": "180 km",
+      "explanation": "Combined speed = 60+40 = 100 km/h. Time to meet = 300/100 = 3 hours. Distance from X = 60 x 3 = 180 km. 160 km is wrong because it implies meeting time of 2.67 hours with B covering only 106.7 km (total 266.7 km). 170 km is wrong because combined distance at 3 hours would not equal 300. 200 km is wrong because it implies time of 3.33 hours with B covering 133.3 km (total 333.3 km)."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "In a group of 100 people, 40 like tea, 30 like coffee, and 15 like both tea and coffee. The number of people who like neither tea nor coffee is __________.",
+      "options": [
+        "35",
+        "45",
+        "50",
+        "55"
+      ],
+      "correctAnswer": "45",
+      "explanation": "Using inclusion-exclusion: People who like at least one = 40 + 30 - 15 = 55. People who like neither = 100 - 55 = 45. 35 is wrong because it would require the union to be 65, which contradicts the given data. 50 is wrong because it implies only 50 people like at least one, ignoring the overlap correctly. 55 is wrong because that is the count of people who like at least one beverage, not neither."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. They work together for 4 days, after which A leaves. How many more days will B take to finish the remaining work alone?",
+      "options": [
+        "6 days",
+        "7 days",
+        "9 days",
+        "8 days"
+      ],
+      "correctAnswer": "8 days",
+      "explanation": "Combined rate = 1/12 + 1/18 = 3/36 + 2/36 = 5/36 per day. Work done in 4 days = 4 x 5/36 = 20/36 = 5/9. Remaining = 1 - 5/9 = 4/9. B alone at 1/18 per day takes (4/9) / (1/18) = (4/9) x 18 = 8 days. 6 days is wrong because B would complete only 6/18 = 1/3, not the required 4/9. 7 days is wrong because B would complete 7/18, not 8/18 (=4/9). 9 days is wrong because B would complete 9/18 = 1/2, which exceeds 4/9."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "A man buys 12 oranges for Rs. 10 and sells 10 oranges for Rs. 12. His profit percentage is:",
+      "options": [
+        "42%",
+        "40%",
+        "44%",
+        "45%"
+      ],
+      "correctAnswer": "44%",
+      "explanation": "CP of 1 orange = 10/12 = Rs. 5/6. SP of 1 orange = 12/10 = Rs. 6/5. Profit per orange = 6/5 - 5/6 = (36-25)/30 = 11/30. Profit% = (11/30) / (5/6) x 100 = (11x6)/(30x5) x 100 = 66/150 x 100 = 44%. 40% is wrong because it would need SP/CP = 1.40, but actual is 1.44. 42% is wrong as the calculation yields exactly 44%. 45% is wrong because it would require a higher selling price ratio."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) If two pipes can fill a tank in 12 hours and 15 hours respectively, and a drain pipe can empty it in 20 hours, the tank will be filled in 10 hours when all three are opened.\n(ii) A boat takes 6 hours to travel 36 km upstream and 4 hours to travel 48 km downstream. The speed of the stream is 3 km/h.\n(iii) If the ratio of incomes of two persons is 4:3 and the ratio of their expenditures is 3:2, and each saves Rs. 3000, then their incomes are Rs. 8000 and Rs. 6000 respectively.\n(iv) Two trains of lengths 150 m and 250 m running in the same direction at 60 km/h and 40 km/h will cross each other in 72 seconds.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) Net rate = 1/12+1/15-1/20 = 5/60+4/60-3/60 = 6/60 = 1/10. Time = 10 hours. Correct. (ii) Upstream speed = 36/6 = 6 km/h. Downstream = 48/4 = 12 km/h. Stream speed = (12-6)/2 = 3 km/h. Correct. (iii) Let incomes = 4x, 3x and expenditures = 3y, 2y. Then 4x-3y=3000 and 3x-2y=3000. Solving: 8x-6y=6000, 9x-6y=9000. So x=3000. Incomes = 12000, 9000 (not 8000, 6000). Wrong. (iv) Relative speed = 60-40 = 20 km/h = 50/9 m/s. Total length = 400 m. Time = 400/(50/9) = 72 sec. Correct. Option (i),(ii) and (iii) is wrong because (iii) yields incomes of 12000 and 9000. Option (i),(iii) and (iv) is wrong because (iii) is incorrect. Option (ii),(iii) and (iv) is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "At what time between 4 and 5 o'clock will the hands of a clock be together (coincide)?",
+      "options": [
+        "4:20 4/11",
+        "4:21 9/11",
+        "4:22 1/11",
+        "4:20 10/11"
+      ],
+      "correctAnswer": "4:21 9/11",
+      "explanation": "At 4:00 the hour hand is at 120 degrees and minute hand at 0. The minute hand must gain 120 degrees. Rate of gain = 5.5 degrees/min. Time = 120/5.5 = 240/11 = 21 9/11 minutes past 4. So they coincide at 4:21 9/11. 4:20 4/11 is wrong because the minute hand would have gained only 20x5.5-some = 110+2=112 degrees, not 120. 4:22 1/11 is wrong because that equals 243/11 minutes with a gain of 243x5.5/11=121.5 degrees, overshooting. 4:20 10/11 is wrong because (230/11)x5.5 = 1265/11/10 = not exactly 120 degrees."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of the first 10 natural numbers is 5.5.\nReason (R): The average of the first n natural numbers is always (n+1)/2.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion: Sum of first 10 natural numbers = 10x11/2 = 55. Average = 55/10 = 5.5. Correct. Reason: Average of first n natural numbers = n(n+1)/2 divided by n = (n+1)/2. For n=10: 11/2 = 5.5. The formula is correct and directly gives the result in A. Option 2 is wrong because R provides exactly the formula that produces A. Option 3 is wrong because R is a valid mathematical identity. Option 4 is wrong because A is numerically verified as correct."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Which of the following are correct observations about a standard die?\n\n(i) If the face showing 2 is on top, the face at the bottom shows 5.\n(ii) If the face showing 1 is facing you, the face opposite to it (at the back) shows 6.\n(iii) If the face showing 3 is on the left, the face on the right shows 4.\n(iv) If the face showing 4 is on top, the face at the bottom shows 2.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i) and (ii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "On a standard die, opposite faces always sum to 7. (i) Opposite of 2 is 7-2=5. Correct. (ii) Opposite of 1 is 7-1=6. Correct. (iii) Opposite of 3 is 7-3=4. Correct. (iv) Opposite of 4 is 7-4=3, not 2. Wrong. Option (i),(iii) and (iv) is wrong because (iv) gives 3 not 2 at the bottom. Option (ii),(iii) and (iv) is wrong because (iv) is false. Option (i) and (ii) only is wrong because it excludes the correct statement (iii)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "A boat can travel at 15 km/h in still water. The speed of the stream is 3 km/h. How long will the boat take to travel 36 km downstream and return to the starting point?",
+      "options": [
+        "4 hours",
+        "4.5 hours",
+        "5 hours",
+        "5.5 hours"
+      ],
+      "correctAnswer": "5 hours",
+      "explanation": "Downstream speed = 15+3 = 18 km/h. Upstream speed = 15-3 = 12 km/h. Time downstream = 36/18 = 2 hours. Time upstream = 36/12 = 3 hours. Total = 5 hours. 4 hours is wrong because it assumes equal time (2+2) as if stream has no effect on return. 4.5 hours is wrong because it might use average speed incorrectly. 5.5 hours is wrong because it would imply upstream speed of about 10.9 km/h, not 12."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Match the following calendar-related problems in Column I with their answers in Column II:\n\nColumn I:\n(a) If today is Wednesday, what day of the week is 100 days from now?\n(b) How many odd days are there in exactly 400 years?\n(c) If March 8 is a Monday, what day is March 22 of the same year?\n(d) A leap year begins on a Sunday. What day is December 31 of that year?\n\nColumn II:\n(i) Monday\n(ii) 0\n(iii) Friday\n(iv) Monday\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 100 mod 7 = 2. Wednesday + 2 = Friday. Matches (iii). (b) 400 years is an exact number of weeks (400 years have 0 odd days). Matches (ii). (c) March 22 - March 8 = 14 days = exactly 2 weeks. Same day = Monday. Matches (i). (d) Leap year has 366 days. Day 1 (Jan 1) is Sunday. Dec 31 is day 366. From Jan 1 to Dec 31 = 365 days later. 365 mod 7 = 1. Sunday + 1 = Monday. Matches (iv). Option 1 incorrectly pairs (c) with (iv) and (d) with (i). Option 3 swaps (a) and (b). Option 4 incorrectly pairs (a) with (iv)."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "What principal will amount to Rs. 3360 in 4 years at 5% per annum simple interest?",
+      "options": [
+        "Rs. 2600",
+        "Rs. 2700",
+        "Rs. 2900",
+        "Rs. 2800"
+      ],
+      "correctAnswer": "Rs. 2800",
+      "explanation": "Amount = P(1 + RT/100). 3360 = P(1 + 5x4/100) = P x 1.20. P = 3360/1.20 = Rs. 2800. Rs. 2600 is wrong because 2600 x 1.20 = 3120, not 3360. Rs. 2700 is wrong because 2700 x 1.20 = 3240, not 3360. Rs. 2900 is wrong because 2900 x 1.20 = 3480, not 3360."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) If a man covers 60 km at 20 km/h and another 60 km at 30 km/h, his average speed for the entire journey is 24 km/h.\n(ii) If speed is doubled, the time to cover the same distance is halved.\n(iii) A car traveling at 72 km/h covers 100 m in exactly 5 seconds.\n(iv) Relative speed of two objects moving in opposite directions is the sum of their individual speeds.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) Time for first 60 km = 60/20 = 3 hours. Time for second 60 km = 60/30 = 2 hours. Total = 120 km in 5 hours. Average = 24 km/h. Correct. (ii) Distance = Speed x Time. If speed doubles, time = D/(2S) = T/2. Correct. (iii) 72 km/h = 72 x 5/18 = 20 m/s. In 5 seconds = 100 m. Correct. (iv) When objects move in opposite directions, their relative speed equals the sum. Correct. Option (i),(ii) and (iii) excludes correct statement (iv). Option (i),(iii) and (iv) excludes correct statement (ii). Option (ii),(iii) and (iv) excludes correct statement (i)."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "A woman introduces a man saying, \"His mother is the only daughter of my mother.\" How is the man related to the woman?",
+      "options": [
+        "Son",
+        "Nephew",
+        "Brother",
+        "Husband"
+      ],
+      "correctAnswer": "Son",
+      "explanation": "The only daughter of my mother means the woman herself (she is the only daughter). So the man's mother is the woman herself. Therefore, the man is her son. Nephew is wrong because that would require the man's mother to be the woman's sister, but she has no sister (only daughter). Brother is wrong because that would mean his mother and the woman share the same mother, but the statement says his mother IS the only daughter of my mother (i.e., the woman herself). Husband is wrong because there is no spousal relationship indicated."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Study the following data about the annual sales (in lakhs of Rs.) of a company:\n\nYear 2019: 40, Year 2020: 52, Year 2021: 70, Year 2022: 85, Year 2023: 95\n\nWhich year showed the highest percentage increase in sales compared to the previous year?",
+      "options": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correctAnswer": "2021",
+      "explanation": "Percentage increases: 2020 over 2019 = (52-40)/40 x 100 = 30%. 2021 over 2020 = (70-52)/52 x 100 = 34.6%. 2022 over 2021 = (85-70)/70 x 100 = 21.4%. 2023 over 2022 = (95-85)/85 x 100 = 11.8%. The highest percentage increase is 34.6% in 2021. 2020 is wrong because its increase was 30%, less than 2021's 34.6%. 2022 is wrong because its increase was only 21.4%. 2023 is wrong because its increase was the lowest at 11.8%."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If A can do a piece of work in 10 days and B can do the same work in 15 days, they can together finish it in 6 days.\nReason (R): When two workers work together on the same task, their individual rates of work are added to get the combined rate.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion: A's rate = 1/10 per day, B's rate = 1/15 per day. Combined = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6 per day. Time = 6 days. Correct. Reason: The principle of adding individual rates to get combined rate is a fundamental concept in work problems. Correct, and it is exactly the method used to derive A. Option 2 is wrong because R explains the very principle applied to get A. Option 3 is wrong because R is a valid mathematical principle. Option 4 is wrong because A is numerically verified."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Ravi walks 7 km towards the East, then turns left and walks 4 km, then turns left again and walks 7 km. How far is he from his starting point?",
+      "options": [
+        "3 km",
+        "4 km",
+        "7 km",
+        "11 km"
+      ],
+      "correctAnswer": "4 km",
+      "explanation": "Ravi walks 7 km East, turns left (faces North) and walks 4 km North, turns left again (faces West) and walks 7 km West. He is now directly 4 km North of his starting point. 3 km is wrong because no segment of his journey or net displacement equals 3 km. 7 km is wrong because the East and West displacements cancel out, leaving only the 4 km northward. 11 km is wrong because that would be the total path length, not the displacement from start."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Which of the following are correct results about simple interest?\n\n(i) Simple interest on Rs. 5000 at 8% per annum for 3 years is Rs. 1200.\n(ii) If simple interest equals the principal, then Rate x Time = 100.\n(iii) A sum doubles itself in 10 years at simple interest. The rate of interest is 10% per annum.\n(iv) Simple interest on Rs. 2000 at 6% per annum for 2 years is Rs. 200.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) SI = 5000 x 8 x 3 / 100 = Rs. 1200. Correct. (ii) If SI = P, then P = P x R x T / 100, so R x T = 100. Correct. (iii) Sum doubles means SI = P. So P = P x R x 10/100, giving R = 10%. Correct. (iv) SI = 2000 x 6 x 2 / 100 = Rs. 240, not 200. Wrong. Option (i),(ii) and (iv) is wrong because (iv) gives 240, not 200. Option (ii),(iii) and (iv) is wrong because (iv) is false. Option (i),(iii) and (iv) is wrong because (iv) is false."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Consider the following statements:\n\n(i) If two persons can complete a job in 8 days and 12 days respectively, and a third person can destroy the entire work in 24 days, all three working together will finish the job in 8 days.\n(ii) A works twice as fast as B. Together they finish a job in 12 days. A alone takes 18 days.\n(iii) If 10 workers finish a job in 6 days working 8 hours a day, then 8 workers can finish the same job in 10 days working 6 hours a day.\n(iv) If A and B together can complete a work in 12 days, and A alone in 20 days, then B alone takes 30 days.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(i) Combined rate = 1/8 + 1/12 - 1/24 = 3/24 + 2/24 - 1/24 = 4/24 = 1/6. Time = 6 days, not 8 as stated. Wrong. (ii) A is twice as fast as B. Let B rate = x, A = 2x. Together: 3x = 1/12, x = 1/36. A rate = 2/36 = 1/18. A alone = 18 days. Correct. (iii) Total work = 10 x 6 x 8 = 480 man-hours. 8 x 10 x 6 = 480. Correct. (iv) B rate = 1/12 - 1/20 = 5/60 - 3/60 = 2/60 = 1/30. B alone = 30 days. Correct. Option (i),(ii) and (iii) is wrong because (i) yields 6 days not 8. Option (i),(iii) and (iv) is wrong because (i) is false. Option (i),(ii) and (iv) is wrong because (i) is false."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "In an election between two candidates, the winning candidate received 55% of the total valid votes and won by a margin of 2000 votes. How many total valid votes were cast?",
+      "options": [
+        "18000",
+        "20000",
+        "22000",
+        "25000"
+      ],
+      "correctAnswer": "20000",
+      "explanation": "Let total valid votes = V. Winner got 55% = 0.55V. Loser got 45% = 0.45V. Margin = 0.55V - 0.45V = 0.10V = 2000. So V = 20000. 18000 is wrong because 10% of 18000 = 1800, not 2000. 22000 is wrong because 10% of 22000 = 2200, not 2000. 25000 is wrong because 10% of 25000 = 2500, not 2000."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Match the following arithmetic problems in Column I with their answers in Column II:\n\nColumn I:\n(a) In a group of 35 people, 20 play cricket and 15 play hockey. If 5 play both, how many play only cricket?\n(b) A number is increased by 25% to get 80. What is the original number?\n(c) The ratio of A to B is 3:5 and ratio of B to C is 2:3. What is the ratio A:B:C?\n(d) The average of 5 numbers is 20. If one number (30) is removed, what is the average of the remaining four?\n\nColumn II:\n(i) 64\n(ii) 17.5\n(iii) 15\n(iv) 6:10:15\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "(a) Only cricket = Total cricket - Both = 20 - 5 = 15. Matches (iii). (b) 1.25 x Original = 80. Original = 80/1.25 = 64. Matches (i). (c) A:B = 3:5, B:C = 2:3. Make B equal: A:B = 6:10, B:C = 10:15. A:B:C = 6:10:15. Matches (iv). (d) Sum = 5 x 20 = 100. Remove 30, remaining sum = 70. New average = 70/4 = 17.5. Matches (ii). Option 2 incorrectly pairs (a) with 64 and (b) with 15. Option 3 pairs (b) with 17.5 instead of 64. Option 4 pairs (c) with 17.5 and (d) with 6:10:15."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "In a factory, Worker A produces 5 units per hour, Worker B produces 8 units per hour, and Worker C produces 6 units per hour. They all work 8-hour shifts. Study this data and answer: If Worker B is absent for one full day, what is the approximate percentage decrease in the total daily output?",
+      "options": [
+        "35.6%",
+        "38.2%",
+        "45.5%",
+        "42.1%"
+      ],
+      "correctAnswer": "42.1%",
+      "explanation": "Normal daily output: A = 5x8 = 40 units, B = 8x8 = 64 units, C = 6x8 = 48 units. Total = 152 units. Without B: Total = 40+48 = 88 units. Decrease = 152-88 = 64 units. Percentage decrease = (64/152) x 100 = 42.1%. 35.6% is wrong because that implies a decrease of only 54 units, not 64. 38.2% is wrong because that implies decrease of about 58 units. 45.5% is wrong because that implies decrease of about 69 units, more than B's actual contribution of 64."
+    }
+  ]
+}

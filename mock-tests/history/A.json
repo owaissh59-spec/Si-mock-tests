@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 539,
+  "count": 569,
   "questions": [
     {
       "test": 1,
@@ -2697,6 +2697,156 @@
       "test": 78,
       "stem": "consider the following statements about the relationships in certain analogy pairs: (i)",
       "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "a shopkeeper marks an article at rs. 500 and offers a discount",
+      "key": "Rs. 400"
+    },
+    {
+      "test": 82,
+      "stem": "consider the following statements: (i) if the present ages of a and",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "a train running at 60 km/h crosses a platform in 30 seconds.",
+      "key": "300 m"
+    },
+    {
+      "test": 82,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 82,
+      "stem": "the present age of a father is 4 times the age of",
+      "key": "10 years"
+    },
+    {
+      "test": 82,
+      "stem": "match the following word problems with their correct answers: column i: (a)",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 82,
+      "stem": "which of the following are correct statements about clock problems? (i) at",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "if january 1 of a certain non-leap year falls on a friday,",
+      "key": "Monday"
+    },
+    {
+      "test": 82,
+      "stem": "consider the following statements: (i) the difference between ci and si on",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "two cars start simultaneously from cities x and y towards each other.",
+      "key": "180 km"
+    },
+    {
+      "test": 82,
+      "stem": "in a group of 100 people, 40 like tea, 30 like coffee,",
+      "key": "45"
+    },
+    {
+      "test": 82,
+      "stem": "a can complete a piece of work in 12 days and b",
+      "key": "8 days"
+    },
+    {
+      "test": 82,
+      "stem": "a man buys 12 oranges for rs. 10 and sells 10 oranges",
+      "key": "44%"
+    },
+    {
+      "test": 82,
+      "stem": "consider the following statements: (i) if two pipes can fill a tank",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "at what time between 4 and 5 o'clock will the hands of",
+      "key": "4:21 9/11"
+    },
+    {
+      "test": 82,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 82,
+      "stem": "which of the following are correct observations about a standard die? (i)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 82,
+      "stem": "a boat can travel at 15 km/h in still water. the speed",
+      "key": "5 hours"
+    },
+    {
+      "test": 82,
+      "stem": "match the following calendar-related problems in column i with their answers in",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 82,
+      "stem": "what principal will amount to rs. 3360 in 4 years at 5%",
+      "key": "Rs. 2800"
+    },
+    {
+      "test": 82,
+      "stem": "consider the following statements: (i) if a man covers 60 km at",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "a woman introduces a man saying, \"his mother is the only daughter",
+      "key": "Son"
+    },
+    {
+      "test": 82,
+      "stem": "study the following data about the annual sales (in lakhs of rs.)",
+      "key": "2021"
+    },
+    {
+      "test": 82,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 82,
+      "stem": "ravi walks 7 km towards the east, then turns left and walks",
+      "key": "4 km"
+    },
+    {
+      "test": 82,
+      "stem": "which of the following are correct results about simple interest? (i) simple",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 82,
+      "stem": "consider the following statements: (i) if two persons can complete a job",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 82,
+      "stem": "in an election between two candidates, the winning candidate received 55% of",
+      "key": "20000"
+    },
+    {
+      "test": 82,
+      "stem": "match the following arithmetic problems in column i with their answers in",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 82,
+      "stem": "in a factory, worker a produces 5 units per hour, worker b",
+      "key": "42.1%"
     }
   ]
 }
