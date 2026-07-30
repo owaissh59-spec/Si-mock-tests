@@ -1,7 +1,14 @@
 {
   "task_id": "task-generate-tests-85-87",
   "task_description": "Generate 3 SI mock tests (85, 86, 87) following the plan-driven workflow in the steering prompt, then record each with _record_test.py",
-  "status": "in_progress",
+  "status": "completed",
   "feature_order": ["FEAT-001", "FEAT-002", "FEAT-003"],
-  "blocked_reason": null
+  "blocked_reason": null,
+  "verification": {
+    "build": "pass",
+    "tests": "pass",
+    "test_quality": "pass",
+    "docker_build": "skipped",
+    "summary": "All 3 tests generated with correct question counts (30, 40, 50), proper type distributions, balanced answer keys, and no duplicates. Record script ran successfully for each, updating config, manifest, history shards, and STUDY_PLAN.md. Config now shows next_test: 88."
+  }
 }
