@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Heights & Distances",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "A vertical pole casts a shadow of length 15 m when the angle of elevation of the sun is 60°. What is the height of the pole?",
+      "options": [
+        "15 m",
+        "15√3 m",
+        "15/√3 m",
+        "30 m"
+      ],
+      "correctAnswer": "15√3 m",
+      "explanation": "tan60° = height/15, height = 15√3 m. \"15 m\" assumes tan60°=1. \"15/√3 m\" divides instead of multiplying. \"30 m\" treats tan60° as 2."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about angles of elevation and depression:\n\n(i) The angle of elevation increases as the observer moves closer to the base of a tall object.\n(ii) If the sun's elevation is 60°, height to shadow ratio is √3:1.\n(iii) Angle of depression from cliff top to a boat equals the elevation angle from the boat to cliff top.\n(iv) Of two equal-height objects, the nearer one has a smaller elevation angle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii) and (iii) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) Correct: closer means larger h/d ratio hence larger angle. (ii) Correct: tan60°=√3. (iii) Correct: alternate interior angles. (iv) Wrong: nearer means LARGER angle. Options with (iv) are wrong."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "From the top of a 120 m cliff, depression angles to two cars on the same side of a road are 30° and 60°. What is the distance between the cars?",
+      "options": [
+        "40√3 m",
+        "120√3 m",
+        "80√3 m",
+        "60√3 m"
+      ],
+      "correctAnswer": "80√3 m",
+      "explanation": "Nearer car: 120/tan60°=40√3 m. Farther: 120/tan30°=120√3 m. Gap=80√3 m. \"40√3\" is only nearer distance. \"120√3\" is farther distance alone. \"60√3\" is an incorrect average."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R):\n\nAssertion (A): If the shadow of a vertical pole equals its height, the sun's elevation is 45°.\nReason (R): tan45° = 1, so when perpendicular equals base the angle is 45°.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: shadow=height gives tan=1, angle=45°. R correct: tan45°=1 is standard. R explains A directly. \"Both but not explanation\" wrong since R is the exact basis. \"A correct R wrong\" impossible since tan45°=1. \"A wrong\" impossible since A is valid."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Match the scenarios in Column I with calculated values in Column II:\nColumn I:\n(a) Elevation 60° from 20 m away from tower base\n(b) Elevation 30° from 45√3 m away from pole base\n(c) Depression 45° from top of 25 m building\n(d) Elevation 45° from 18 m away from tree base\nColumn II:\n(i) 45 m\n(ii) 20√3 m\n(iii) 25 m\n(iv) 18 m",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) 20tan60°=20√3=(ii). (b) 45√3×tan30°=45=(i). (c) 25/tan45°=25=(iii). (d) 18tan45°=18=(iv). Other options mismatch calculations."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are correct about a 50 m lighthouse observed from sea level?\n\n(i) Ship at depression 30° is 50√3 m from base.\n(ii) Ships at depression 30° and 45° same side are 50(√3-1) m apart.\n(iii) Ship moving from depression 30° to 60° has moved 100√3/3 m closer.\n(iv) Boat at depression 45° is 25√2 m from base.",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) d=50/tan30°=50√3. (ii) 50√3-50=50(√3-1). (iii) 50√3-50√3/3=100√3/3. All correct. (iv) Wrong: at 45° d=50 not 25√2. Options with (iv) wrong."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "From a point 30 m from a building's foot, the elevation of the top is 30°. Find the building height.",
+      "options": [
+        "30 m",
+        "30√3 m",
+        "15√3 m",
+        "10√3 m"
+      ],
+      "correctAnswer": "10√3 m",
+      "explanation": "h=30×tan30°=30/√3=10√3 m. \"30 m\" uses tan=1. \"30√3 m\" uses tan60°. \"15√3 m\" halves the distance first."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "A person on a river bank sees a tree on the opposite bank at elevation 60°. After moving 40 m away from the bank, the elevation becomes 30°. The width of the river is __________.",
+      "options": [
+        "40 m",
+        "40√3 m",
+        "20 m",
+        "60 m"
+      ],
+      "correctAnswer": "20 m",
+      "explanation": "Let width=d. h=d√3 and h=(d+40)/√3. So d√3=(d+40)/√3, 3d=d+40, d=20 m. \"40 m\" is walked distance. \"40√3 m\" wrongly multiplies. \"60 m\" adds width and walk."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "The elevation angles of a tower top from two points 36 m and 16 m from its base (same side) are complementary. What is the tower height?",
+      "options": [
+        "24 m",
+        "26 m",
+        "20 m",
+        "28 m"
+      ],
+      "correctAnswer": "24 m",
+      "explanation": "Complementary angles: tanα×tanβ=1. (h/36)(h/16)=1, h²=576, h=24 m. \"26 m\" averages distances. \"20 m\" subtracts distances. \"28 m\" has no valid basis."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "A 7 m flagstaff on a tower is observed from a ground point. Elevation to flagstaff top is 45° and to tower top is 30°. Find tower height.",
+      "options": [
+        "7(√3-1)/2 m",
+        "7(√3+1)/2 m",
+        "7√3 m",
+        "7/(2√3) m"
+      ],
+      "correctAnswer": "7(√3+1)/2 m",
+      "explanation": "tan30°=h/d gives d=h√3. tan45°=(h+7)/d gives d=h+7. So h√3=h+7, h(√3-1)=7, h=7/(√3-1)=7(√3+1)/2. \"7(√3-1)/2\" wrong sign. \"7√3\" no equation solving. \"7/(2√3)\" inverted."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n\n(i) If elevation doubles when distance halves, the original angle must be 30°.\n(ii) Elevation from 100 m away is 45° means building is 100 m tall.\n(iii) Elevation from 50√3 m to a 50 m building is 30°.\n(iv) Moving from 30° to 60° elevation always halves the distance.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i) and (iii) only",
+        "(ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "(i) Wrong: doubling angle is not same as doubling tangent. (ii) Correct: tan45°=h/100, h=100. (iii) Correct: tanθ=50/(50√3)=1/√3=tan30°. (iv) Wrong: distance ratio is 1/3 not 1/2 (d at 30°=h√3, at 60°=h/√3). Only (ii) and (iii) correct."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "A man on a ship deck 14 m above water sees a cliff top at elevation 60° and cliff base at depression 30°. Find cliff height.",
+      "options": [
+        "42 m",
+        "28√3 m",
+        "14(1+√3) m",
+        "56 m"
+      ],
+      "correctAnswer": "56 m",
+      "explanation": "tan30°=14/d, d=14√3. Cliff above deck: 14√3×tan60°=14√3×√3=42. Total=42+14=56 m. \"42 m\" omits deck height. \"28√3 m\" is a wrong calculation. \"14(1+√3) m\" wrongly combines terms."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R):\n\nAssertion (A): The sun's elevation angle decreases as shadows become longer.\nReason (R): As the sun approaches the horizon, sin of the elevation angle decreases.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "A correct: longer shadow means smaller tan(angle). R correct: sin decreases as angle decreases. But R does not explain A; the correct explanation involves tangent not sine. Shadow = h/tanθ, not related to sin directly. \"R explains A\" wrong. \"A correct R wrong\" impossible. \"A wrong\" impossible."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Elevation of a flagpole top from 25 m away on level ground is 45°. What is its height?",
+      "options": [
+        "25 m",
+        "25√2 m",
+        "25√3 m",
+        "12.5 m"
+      ],
+      "correctAnswer": "25 m",
+      "explanation": "tan45°=h/25, h=25 m. \"25√2\" confuses height with hypotenuse. \"25√3\" uses tan60°. \"12.5 m\" halves without reason."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Match the real-world scenarios in Column I with trigonometric formulas in Column II:\nColumn I:\n(a) Height of hill from distance d at elevation theta\n(b) Distance of ship from lighthouse of height h at depression theta\n(c) Length of ladder reaching height h at angle theta with ground\n(d) Horizontal distance to plane at height h observed at elevation theta\nColumn II:\n(i) distance = h/tan(theta)\n(ii) height = d×tan(theta)\n(iii) length = h/sin(theta)\n(iv) distance = h×cos(theta)/sin(theta)",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) h=d×tanθ=(ii). (b) d=h/tanθ=(i). (c) sinθ=h/L so L=h/sinθ=(iii). (d) d=h/tanθ=h×cosθ/sinθ=(iv). Other options mismatch the formulas to scenarios."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Two poles of heights 6 m and 11 m stand 12 m apart on flat ground. Find the distance between their tops.",
+      "options": [
+        "12 m",
+        "13 m",
+        "15 m",
+        "11 m"
+      ],
+      "correctAnswer": "13 m",
+      "explanation": "Horizontal=12, vertical difference=5. Distance=√(144+25)=√169=13 m. \"12 m\" ignores height gap. \"15 m\" uses wrong numbers. \"11 m\" confuses with pole height."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "A surveyor at P records:\n- Tower A (North): elevation 60°, distance 40 m\n- Tower B (East): elevation 45°, distance 50 m\n\nWhat is the difference in heights of the two towers?",
+      "options": [
+        "50 - 40√3 m",
+        "40 - 50√3 m",
+        "40√3 + 50 m",
+        "(40√3 - 50) m"
+      ],
+      "correctAnswer": "(40√3 - 50) m",
+      "explanation": "A height=40tan60°=40√3≈69.3 m. B height=50tan45°=50 m. Difference=40√3-50 m. \"50-40√3\" reverses (gives negative). \"40-50√3\" swaps multipliers. \"40√3+50\" adds instead."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "From the top of a 75 m tower, a car is seen at depression angle 30°. How far is the car from the tower base?",
+      "options": [
+        "75 m",
+        "25√3 m",
+        "75√3 m",
+        "150 m"
+      ],
+      "correctAnswer": "75√3 m",
+      "explanation": "d=75/tan30°=75√3 m. \"75 m\" assumes 45°. \"25√3\" divides 75 by 3 first. \"150 m\" doubles height."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Which of the following are correct calculations?\n\n(i) 40 m tower at 30° elevation: observer is 40√3 m away.\n(ii) 20 m pole shadow at 45° sun: shadow is 20 m.\n(iii) Points at 30° and 60° to a 30 m tower (same side) are 20√3 m apart.\n(iv) Depression 60° to boat 100 m away: cliff is 100√3 m.",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) 40/tan30°=40√3. (ii) 20/tan45°=20. (iii) 30√3-10√3=20√3. (iv) 100×tan60°=100√3. All correct."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "A tree breaks in a storm; the broken part bends touching ground at 60° angle, 10 m from the foot. Find original height.",
+      "options": [
+        "10(√3-1) m",
+        "10(√3+2) m",
+        "10(2√3+1) m",
+        "30 m"
+      ],
+      "correctAnswer": "10(√3+2) m",
+      "explanation": "Standing part=10tan60°=10√3. Broken part=10/cos60°=20. Total=10√3+20=10(√3+2). \"10(√3-1)\" subtracts. \"10(2√3+1)\" doubles standing. \"30\" just triples 10."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Consider the following statements about a person at the top of a 100 m building:\n\n(i) Depression angle to a car 100 m from base is 45°.\n(ii) Object moving from depression 30° to 60° has covered 200√3/3 m.\n(iii) Depression angle to an object 100√3 m from base is 30°.\n(iv) Objects at depression 30° and 60° on opposite sides are 400√3/3 m apart.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) tan45°=100/100=1. (ii) 100√3-100√3/3=200√3/3. (iii) tanθ=100/(100√3)=tan30°. (iv) 100√3+100√3/3=400√3/3. All correct."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "An observer 1.5 m tall stands 28.5 m from a chimney. Elevation of chimney top from his eyes is 45°. Find chimney height.",
+      "options": [
+        "30 m",
+        "28.5 m",
+        "27 m",
+        "31.5 m"
+      ],
+      "correctAnswer": "30 m",
+      "explanation": "Above eye level: 28.5×tan45°=28.5. Total=28.5+1.5=30 m. \"28.5 m\" forgets observer height. \"27 m\" subtracts it. \"31.5 m\" adds it twice."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R):\n\nAssertion (A): If elevation of a tower top is 30° from 60√3 m away, the height is 60 m.\nReason (R): The tangent ratio equals adjacent side divided by opposite side.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "A: tan30°=h/(60√3), h=60√3/√3=60 m. Correct. R: WRONG definition. Tangent=opposite/adjacent not adjacent/opposite (that is cotangent). \"Both correct, R explains\" wrong since R is false. \"A wrong, R correct\" wrong since A is valid and R is false."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "A 6 m lamp post casts a shadow of 2√3 m. What is the sun's elevation angle?",
+      "options": [
+        "30°",
+        "45°",
+        "90°",
+        "60°"
+      ],
+      "correctAnswer": "60°",
+      "explanation": "tanθ=6/(2√3)=3/√3=√3=tan60°. \"30°\" confuses 1/√3 with √3. \"45°\" needs equal height and shadow. \"90°\" gives zero shadow."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "From a point 40 m from a tower's base on level ground, the elevation of the top is 60°. The tower height is __________.",
+      "options": [
+        "40√3 m",
+        "40/√3 m",
+        "20√3 m",
+        "80/√3 m"
+      ],
+      "correctAnswer": "40√3 m",
+      "explanation": "h=40×tan60°=40√3 m. \"40/√3\" divides instead of multiplying. \"20√3\" halves distance first. \"80/√3\" doubles then divides."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "From a hilltop, depression angles to two consecutive km-stones due east are 45° and 30°. Find the hill height.",
+      "options": [
+        "(√3-1)/2 km",
+        "(√3+1)/2 km",
+        "√3/(√3-1) km",
+        "1/(√3+1) km"
+      ],
+      "correctAnswer": "(√3+1)/2 km",
+      "explanation": "Let h=height, d=nearer distance. tan45°=h/d, d=h. tan30°=h/(d+1), h+1=h√3, 1=h(√3-1), h=1/(√3-1)=(√3+1)/2 km. \"(√3-1)/2\" wrong sign. \"√3/(√3-1)\" wrong numerator. \"1/(√3+1)\" wrong denominator sign."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "An airplane at 3000√3 m height: elevation changes from 60° to 30° in 15 seconds. Find its speed.",
+      "options": [
+        "200 m/s",
+        "300 m/s",
+        "400 m/s",
+        "600 m/s"
+      ],
+      "correctAnswer": "400 m/s",
+      "explanation": "At 60°: d1=3000√3/√3=3000 m. At 30°: d2=3000√3×√3=9000 m. Covered=6000 m in 15 s. Speed=400 m/s. \"200\" halves distance. \"300\" averages. \"600\" uses 9000/15."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Match the problems in Column I with answers in Column II:\nColumn I:\n(a) Tower height: elevations 30° and 60° from points 50 m apart, same side\n(b) River width: tree elevation 60° from bank, 30° from 40 m further back\n(c) Ship gap: 100 m lighthouse, depression angles 30° and 45°, same side\n(d) Pole height: shadow 10 m, sun elevation 30°\nColumn II:\n(i) 20 m\n(ii) 25√3 m\n(iii) 100(√3-1) m\n(iv) 10/√3 m",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) d=h/√3; h/(h/√3+50)=tan30° gives h=25√3=(ii). (b) 3w=w+40, w=20=(i). (c) 100√3-100=100(√3-1)=(iii). (d) 10tan30°=10/√3=(iv)."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "From ground level, elevations of the bottom and top of a transmission tower on a 20 m building are 45° and 60°. Find tower height.",
+      "options": [
+        "20√3 m",
+        "20(√3+1) m",
+        "20(√3+1)/2 m",
+        "20(√3-1) m"
+      ],
+      "correctAnswer": "20(√3-1) m",
+      "explanation": "tan45°=20/d, d=20. tan60°=(20+h)/20, 20+h=20√3, h=20(√3-1). \"20√3\" is total height not tower alone. \"20(√3+1)\" adds instead of subtracting. \"20(√3+1)/2\" incorrectly halves."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about two equal-height pillars on either side of an 80 m road:\n\n(i) If elevation angles from a point between them are 30° and 60°, it divides the road 3:1.\n(ii) The pillar height in (i) is 20√3 m.\n(iii) From the midpoint, both elevation angles must be equal.\n(iv) If both angles are 45°, each pillar is 40 m tall.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) d/√3=(80-d)√3, d=60, ratio 60:20=3:1. (ii) h=60/√3=20√3. (iii) Equal heights at equal distances give equal angles. (iv) h=40tan45°=40. All correct."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "A 50 m tall tower and a 30 m tall building stand on a level ground 40 m apart. A taut rope connects the top of the tower to the top of the building. What is the length of the rope in metres?",
+      "options": [
+        "20√5 m",
+        "40√2 m",
+        "50 m",
+        "10√29 m"
+      ],
+      "correctAnswer": "20√5 m",
+      "explanation": "Height difference = 50-30 = 20 m. Horizontal = 40 m. Rope = √(40²+20²) = √(1600+400) = √2000 = 20√5 m. \"40√2\" uses 40 as both legs. \"50 m\" confuses tower height with rope. \"10√29\" uses incorrect values in Pythagoras."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Two poles of heights 10 m and 15 m stand 20 m apart. A wire joins their tops. What is the wire length?",
+      "options": [
+        "20 m",
+        "5√17 m",
+        "25 m",
+        "15√2 m"
+      ],
+      "correctAnswer": "5√17 m",
+      "explanation": "Height difference=5, horizontal=20. Wire=√(400+25)=√425=5√17 m. \"20 m\" ignores height gap. \"25 m\" applies wrong triple. \"15√2\" uses 15 in a 45° triangle incorrectly."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Consider the following statements about observations from the top of a 150 m tower:\n\n(i) A car at depression angle 30° is 150√3 m from the base.\n(ii) A car at depression angle 45° is 150 m from the base.\n(iii) A car at depression angle 60° is 50√3 m from the base.\n(iv) If a car moves from depression 30° to 45°, it has moved 150(√3-1) m closer.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) d=150/tan30°=150√3. Correct. (ii) d=150/tan45°=150. Correct. (iii) d=150/tan60°=150/√3=50√3. Correct. (iv) moved=150√3-150=150(√3-1). Correct. All four are valid calculations."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Which of the following are true about a 12 m pole's shadow at different sun angles?\n\n(i) At 30° elevation, shadow = 12√3 m.\n(ii) At 45° elevation, shadow = 12 m.\n(iii) At 60° elevation, shadow = 4√3 m.\n(iv) When shadow = 6 m, elevation = tan⁻¹(2).",
+      "options": [
+        "(i) and (ii) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) 12/tan30°=12√3. (ii) 12/tan45°=12. (iii) 12/tan60°=12/√3=4√3. (iv) tanθ=12/6=2. All correct."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R):\n\nAssertion (A): A person at a building top notes that the depression angle to an approaching car increases over time.\nReason (R): As an object moves closer to a tall structure, horizontal distance decreases while height is constant, making tan of the angle increase.",
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A correct: approaching car means steeper angle of depression. R correct: tanθ=h/d; as d decreases, tan increases so θ increases. R directly explains A. \"A correct R wrong\" is false since R is valid math. \"A wrong\" is false. \"Both but not explanation\" is false since R gives the exact reason."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "A surveyor at point P records:\n- Tower X (North): elevation 45°, distance 80 m from P\n- Tower Y (South): elevation 30°, distance 60√3 m from P\nBoth towers and P lie on one straight line.\n\nWhat is the horizontal distance between the tower bases?",
+      "options": [
+        "80 m",
+        "60√3 m",
+        "(80 + 60√3) m",
+        "140 m"
+      ],
+      "correctAnswer": "(80 + 60√3) m",
+      "explanation": "Towers on opposite sides of P: total = 80 + 60√3 m. \"80 m\" counts only X distance. \"60√3 m\" counts only Y distance. \"140 m\" rounds 60√3 to 60 (incorrect since 60√3≈103.9)."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Which of the following are correct about angles of depression from the top of a 45 m building?\n\n(i) Depression angle to a point 45 m from base is 45°.\n(ii) Depression angle to a point 15√3 m from base is 60°.\n(iii) Depression angle to a point 45√3 m from base is 30°.\n(iv) Depression angle to a point 90 m from base is 30°.",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) tanθ=45/45=1, θ=45°. Correct. (ii) tanθ=45/(15√3)=45/(15√3)=3/√3=√3, θ=60°. Correct. (iii) tanθ=45/(45√3)=1/√3, θ=30°. Correct. (iv) tanθ=45/90=0.5, θ=tan⁻¹(0.5)≈26.57°≠30°. Wrong. Options with (iv) are wrong."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Consider the following statements about a helicopter at 200 m height:\n\n(i) Depression to a point 200 m horizontally away is 45°.\n(ii) Depression to a point 200√3 m away is 30°.\n(iii) If it ascends to 200√3 m and a car is 200 m away horizontally, elevation from car is 60°.\n(iv) Slant distance to the point directly below equals 200 m.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) tan45°=200/200=1. (ii) tan30°=200/(200√3)=1/√3. (iii) tan60°=200√3/200=√3. (iv) Point directly below: slant=vertical=200 m. All correct."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "A 4 m statue on a pedestal: elevation to statue top is 60°, to pedestal top is 45° from ground. Find pedestal height.",
+      "options": [
+        "4/(√3+1) m",
+        "4√3 m",
+        "4(√3-1) m",
+        "2(√3+1) m"
+      ],
+      "correctAnswer": "2(√3+1) m",
+      "explanation": "tan45°=p/d gives d=p. tan60°=(p+4)/p gives p√3=p+4, 4=p(√3-1), p=4/(√3-1)=4(√3+1)/2=2(√3+1). \"4/(√3+1)\" wrong denominator. \"4√3\" no equation solving. \"4(√3-1)\" confuses denominator with answer."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Match the shadow problems in Column I with sun elevation angles in Column II:\nColumn I:\n(a) A 10 m pole casts a 10 m shadow\n(b) A 5√3 m pole casts a 5 m shadow\n(c) A 12 m pole casts a 12√3 m shadow\n(d) A 7 m pole casts a 7/√3 m shadow\nColumn II:\n(i) 60°\n(ii) 30°\n(iii) 45°\n(iv) 60°",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) tanθ=10/10=1, 45°=(iii). (b) tanθ=5√3/5=√3, 60°=(i). (c) tanθ=12/(12√3)=1/√3, 30°=(ii). (d) tanθ=7/(7/√3)=√3, 60°=(iv). Other options assign wrong angles."
+    }
+  ]
+}

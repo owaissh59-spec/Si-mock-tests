@@ -1,0 +1,26 @@
+{
+  "id": "FEAT-002",
+  "type": "feat",
+  "description": "Generate test 86: Subject E (Mathematical Abilities), Topic: Heights & Distances, 40 questions, difficulty_profile: standard. Save to mock-tests/tests/86_test_E_heights-distances.json. Then run python3 mock-tests/_record_test.py 86.",
+  "status": "completed",
+  "steps": [
+    "Read mock-tests/history/E.json to identify all existing Heights & Distances questions (from test 49 and any revision tests) to avoid duplicates.",
+    "Generate 40 questions on Heights & Distances (Trigonometry applications) following the steering prompt rules: type distribution for 40Q is Single Correct MCQ: 16, Statement-based: 6, Assertion-Reason: 4, Matching: 4, Multiple Correct Combination: 4, Fill in the Blank: 2, Numerical Value: 2, Data Interpretation: 2. Difficulty distribution for 'standard': Easy 25%, Medium 40%, Hard 25%, Very Hard 10%. Intersperse types randomly.",
+    "Ensure all questions follow the exact JSON schema from Section 5. Every explanation must explain why correct AND why each wrong option is wrong.",
+    "Ensure no question stem duplicates or near-duplicates any existing entry in history/E.json (especially test 49 which was also Heights & Distances).",
+    "Save the generated JSON to mock-tests/tests/86_test_E_heights-distances.json.",
+    "Run: python3 mock-tests/_record_test.py 86 from the repo root to update history, config, manifest, and STUDY_PLAN.md."
+  ],
+  "acceptance_criteria": [
+    "File mock-tests/tests/86_test_E_heights-distances.json exists with valid JSON containing exactly 40 questions",
+    "All question types match the 40Q count table distribution",
+    "No question stem duplicates any entry in history/E.json",
+    "python3 mock-tests/_record_test.py 86 runs successfully",
+    "config.json shows next_test: 87 after recording"
+  ],
+  "verification": [
+    "python3 mock-tests/_record_test.py 86"
+  ],
+  "blocked_reason": null,
+  "findings": "Test 86 generated successfully with 40 questions on Heights & Distances. Type distribution matches target exactly: SCQ=16, Statement=6, AR=4, Matching=4, MCC=4, FIB=2, NV=2, DI=2. Answer positions balanced: A=11, B=11, C=9, D=9. No content duplicates with test 49 (same topic). Record script updated config to next_test=87."
+}

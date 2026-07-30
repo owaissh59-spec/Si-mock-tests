@@ -1,0 +1,25 @@
+{
+  "project_type": "Mock test generation system for JKSSB Sub-Inspector exam prep",
+  "language": "JSON (test files), Python (record script), Markdown (study plan/steering)",
+  "build_system": "None (content generation project)",
+  "test_framework": "python3 mock-tests/_record_test.py <N> validates and records each test",
+  "build_command": "N/A",
+  "test_command": "python3 mock-tests/_record_test.py <N>",
+  "verification_instructions": "After generating each test JSON, run python3 mock-tests/_record_test.py <N> from the repo root. It validates the file exists, appends fingerprints to history shards, updates config.json, manifest.json, and STUDY_PLAN.md.",
+  "snapshot_or_generated_files": "mock-tests/tests/*.json are generated test files. mock-tests/history/*.json, mock-tests/config.json, mock-tests/manifest.json, and STUDY_PLAN.md are updated by _record_test.py.",
+  "setup_instructions": "No setup needed. Python3 is available.",
+  "environment_constraints": "No network needed for test generation. Tests are generated as JSON content by the AI agent itself.",
+  "contribution_requirements": "Follow .kiro/steering/mock-test-prompt-si.md exactly for question format, type counts, difficulty distribution, and anti-duplication rules.",
+  "key_patterns": "Each test is a JSON file with subject, topic, total_questions, and questions array. Each question has id, subject, questionText, options (4), correctAnswer (exact match to one option), explanation (why correct + why each wrong is wrong). Question types must follow Section 1 count table. History shards track stems to prevent duplicates.",
+  "relevant_files": [
+    ".kiro/steering/mock-test-prompt-si.md",
+    "mock-tests/config.json",
+    "mock-tests/manifest.json",
+    "mock-tests/history/C.json",
+    "mock-tests/history/D.json",
+    "mock-tests/history/E.json",
+    "mock-tests/_record_test.py",
+    "mock-tests/tests/40_test_C_compound-interest.json"
+  ],
+  "directory_structure": "Root: README.md, STUDY_PLAN.md, syllabus_si.md, mock-tests/. mock-tests/: config.json, manifest.json, _record_test.py, tests/ (generated test JSONs), history/ (A-F.json fingerprint shards). .kiro/steering/ has the generation prompt."
+}

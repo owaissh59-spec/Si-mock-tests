@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Mathematical Abilities",
-  "count": 413,
+  "count": 453,
   "questions": [
     {
       "test": 5,
@@ -2067,6 +2067,206 @@
       "test": 63,
       "stem": "the marks obtained by 40 students are grouped as follows: marks :",
       "key": "22/40"
+    },
+    {
+      "test": 86,
+      "stem": "a vertical pole casts a shadow of length 15 m when the",
+      "key": "15√3 m"
+    },
+    {
+      "test": 86,
+      "stem": "consider the following statements about angles of elevation and depression: (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 86,
+      "stem": "from the top of a 120 m cliff, depression angles to two",
+      "key": "80√3 m"
+    },
+    {
+      "test": 86,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 86,
+      "stem": "match the scenarios in column i with calculated values in column ii:",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 86,
+      "stem": "which of the following are correct about a 50 m lighthouse observed",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 86,
+      "stem": "from a point 30 m from a building's foot, the elevation of",
+      "key": "10√3 m"
+    },
+    {
+      "test": 86,
+      "stem": "a person on a river bank sees a tree on the opposite",
+      "key": "20 m"
+    },
+    {
+      "test": 86,
+      "stem": "the elevation angles of a tower top from two points 36 m",
+      "key": "24 m"
+    },
+    {
+      "test": 86,
+      "stem": "a 7 m flagstaff on a tower is observed from a ground",
+      "key": "7(√3+1)/2 m"
+    },
+    {
+      "test": 86,
+      "stem": "consider the following statements: (i) if elevation doubles when distance halves, the",
+      "key": "(ii) and (iii) only"
+    },
+    {
+      "test": 86,
+      "stem": "a man on a ship deck 14 m above water sees a",
+      "key": "56 m"
+    },
+    {
+      "test": 86,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 86,
+      "stem": "elevation of a flagpole top from 25 m away on level ground",
+      "key": "25 m"
+    },
+    {
+      "test": 86,
+      "stem": "match the real-world scenarios in column i with trigonometric formulas in column",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 86,
+      "stem": "two poles of heights 6 m and 11 m stand 12 m",
+      "key": "13 m"
+    },
+    {
+      "test": 86,
+      "stem": "a surveyor at p records: - tower a (north): elevation 60°, distance",
+      "key": "(40√3 - 50) m"
+    },
+    {
+      "test": 86,
+      "stem": "from the top of a 75 m tower, a car is seen",
+      "key": "75√3 m"
+    },
+    {
+      "test": 86,
+      "stem": "which of the following are correct calculations? (i) 40 m tower at",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 86,
+      "stem": "a tree breaks in a storm; the broken part bends touching ground",
+      "key": "10(√3+2) m"
+    },
+    {
+      "test": 86,
+      "stem": "consider the following statements about a person at the top of a",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 86,
+      "stem": "an observer 1.5 m tall stands 28.5 m from a chimney. elevation",
+      "key": "30 m"
+    },
+    {
+      "test": 86,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 86,
+      "stem": "a 6 m lamp post casts a shadow of 2√3 m. what",
+      "key": "60°"
+    },
+    {
+      "test": 86,
+      "stem": "from a point 40 m from a tower's base on level ground,",
+      "key": "40√3 m"
+    },
+    {
+      "test": 86,
+      "stem": "from a hilltop, depression angles to two consecutive km-stones due east are",
+      "key": "(√3+1)/2 km"
+    },
+    {
+      "test": 86,
+      "stem": "an airplane at 3000√3 m height: elevation changes from 60° to 30°",
+      "key": "400 m/s"
+    },
+    {
+      "test": 86,
+      "stem": "match the problems in column i with answers in column ii: column",
+      "key": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    },
+    {
+      "test": 86,
+      "stem": "from ground level, elevations of the bottom and top of a transmission",
+      "key": "20(√3-1) m"
+    },
+    {
+      "test": 86,
+      "stem": "consider the following statements about two equal-height pillars on either side of",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 86,
+      "stem": "a 50 m tall tower and a 30 m tall building stand",
+      "key": "20√5 m"
+    },
+    {
+      "test": 86,
+      "stem": "two poles of heights 10 m and 15 m stand 20 m",
+      "key": "5√17 m"
+    },
+    {
+      "test": 86,
+      "stem": "consider the following statements about observations from the top of a 150",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 86,
+      "stem": "which of the following are true about a 12 m pole's shadow",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 86,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 86,
+      "stem": "a surveyor at point p records: - tower x (north): elevation 45°,",
+      "key": "(80 + 60√3) m"
+    },
+    {
+      "test": 86,
+      "stem": "which of the following are correct about angles of depression from the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 86,
+      "stem": "consider the following statements about a helicopter at 200 m height: (i)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 86,
+      "stem": "a 4 m statue on a pedestal: elevation to statue top is",
+      "key": "2(√3+1) m"
+    },
+    {
+      "test": 86,
+      "stem": "match the shadow problems in column i with sun elevation angles in",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
     }
   ]
 }

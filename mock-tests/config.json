@@ -3,9 +3,9 @@
   "medium": "English",
   "exam_day": 70,
   "total_planned_tests": 207,
-  "test_counter": 85,
-  "next_test": 86,
-  "last_generated": "85_test_C_compound-interest.json",
+  "test_counter": 86,
+  "next_test": 87,
+  "last_generated": "86_test_E_heights-distances.json",
   "updated_at": "2026-07-30",
   "duplicate_policy": "no-exact-and-no-near-duplicate (check subject history shard)",
   "history_shards": {
