@@ -2,7 +2,7 @@
   "id": "FEAT-001",
   "type": "feat",
   "description": "Generate test 85: Subject C (Quantitative Aptitude), Topic: Compound Interest, 30 questions, difficulty_profile: standard. Save to mock-tests/tests/85_test_C_compound-interest.json. Then run python3 mock-tests/_record_test.py 85.",
-  "status": "in_progress",
+  "status": "completed",
   "steps": [
     "Read mock-tests/history/C.json to identify all existing Compound Interest questions (from test 40 and any revision tests) to avoid duplicates.",
     "Generate 30 questions on Compound Interest following the steering prompt rules: type distribution for 30Q is Single Correct MCQ: 12, Statement-based: 5, Assertion-Reason: 3, Matching: 3, Multiple Correct Combination: 3, Fill in the Blank: 1, Numerical Value: 1, Data Interpretation: 2. Difficulty distribution for 'standard': Easy 25%, Medium 40%, Hard 25%, Very Hard 10%. Intersperse types randomly.",
@@ -22,5 +22,5 @@
     "python3 mock-tests/_record_test.py 85"
   ],
   "blocked_reason": null,
-  "findings": ""
+  "findings": "Test 85 generated successfully with 30 questions. Type distribution: Single Correct MCQ=12, Statement-based=5, Assertion-Reason=3, Matching=3, Multiple Correct Combination=3, Fill in the Blank=1, Numerical Value=1, Data Interpretation=2. Answer key balanced: A=6, B=9, C=8, D=7. All math verified computationally. No duplicates with history/C.json. Record script updated config to next_test=86."
 }
