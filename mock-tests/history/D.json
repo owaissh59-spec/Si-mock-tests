@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 615,
+  "count": 665,
   "questions": [
     {
       "test": 4,
@@ -3077,6 +3077,256 @@
       "test": 84,
       "stem": "the word that is the antonym of 'transparent' in the context of",
       "key": "opaque"
+    },
+    {
+      "test": 87,
+      "stem": "select the correct passive voice form of the sentence: 'the dog chased",
+      "key": "The cat was chased across the garden by the dog."
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about converting active sentences to passive voice: (i)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 87,
+      "stem": "which of the following is the correct passive form of the sentence:",
+      "key": "The government is expected to reduce taxes."
+    },
+    {
+      "test": 87,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 87,
+      "stem": "match each active voice sentence in column i with its correct passive",
+      "key": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    },
+    {
+      "test": 87,
+      "stem": "which of the following are correct passive voice transformations of the active",
+      "key": "(i) and (ii) only"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the mechanic is repairing my car.'",
+      "key": "My car is being repaired by the mechanic."
+    },
+    {
+      "test": 87,
+      "stem": "fill in the blank with the correct passive form: the new bridge",
+      "key": "will have been completed"
+    },
+    {
+      "test": 87,
+      "stem": "which of the following sentences cannot be converted into passive voice?",
+      "key": "The roses smell sweet in the morning."
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about the use of 'by-phrase' (agent) in passive",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 87,
+      "stem": "what is the passive voice of: 'the company will launch a mobile",
+      "key": "A mobile application will be launched by the company next month."
+    },
+    {
+      "test": 87,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 87,
+      "stem": "convert the interrogative sentence to passive voice: 'has anyone completed the survey",
+      "key": "Has the survey form been completed?"
+    },
+    {
+      "test": 87,
+      "stem": "match the modal verbs in column i with the correct passive constructions",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the artist painted a stunning portrait of the",
+      "key": "A stunning portrait of the queen was painted by the artist."
+    },
+    {
+      "test": 87,
+      "stem": "which of the following are sentences that cannot be converted into passive",
+      "key": "(ii), (iii) and (iv) only"
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about passive voice with modal auxiliaries: (i) 'could",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 87,
+      "stem": "what is the correct passive form of the imperative sentence: 'bring me",
+      "key": "Let a glass of water be brought to me."
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'my grandfather planted these mango trees fifty years",
+      "key": "These mango trees were planted by my grandfather fifty years ago."
+    },
+    {
+      "test": 87,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the witnesses saw the accused enter the building",
+      "key": "The accused was seen to enter the building at midnight by the witnesses."
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about the basic rules of active-to-passive conversion: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 87,
+      "stem": "which of the following are correct passive voice conversions of sentences with",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 87,
+      "stem": "which of the following is the correct passive form of: 'the scientists",
+      "key": "The experiment is believed to have yielded promising results."
+    },
+    {
+      "test": 87,
+      "stem": "match the tenses in column i with their correct passive voice formula",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the hurricane destroyed hundreds of homes along the",
+      "key": "Hundreds of homes along the coast were destroyed by the hurricane."
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about passive voice with indirect objects: (i) in",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 87,
+      "stem": "fill in the blank with the correct passive construction: the suspect __________",
+      "key": "had been being interrogated"
+    },
+    {
+      "test": 87,
+      "stem": "what is the passive form of the sentence: 'nobody could answer the",
+      "key": "The question could not be answered correctly."
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the students are writing their final examinations this",
+      "key": "Their final examinations are being written by the students this week."
+    },
+    {
+      "test": 87,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 87,
+      "stem": "convert the following sentence with two objects to passive voice (using the",
+      "key": "The topper was awarded a gold medal by the principal."
+    },
+    {
+      "test": 87,
+      "stem": "match the active imperative sentences in column i with their correct passive",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the government has announced new education reforms.'",
+      "key": "New education reforms have been announced by the government."
+    },
+    {
+      "test": 87,
+      "stem": "which of the following are grammatically acceptable passive constructions? (i) the children",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about the passive voice in interrogative sentences: (i)",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the surgeon is going to perform a complicated",
+      "key": "A complicated operation is going to be performed by the surgeon tomorrow."
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the librarian has catalogued all the new books.'",
+      "key": "All the new books have been catalogued by the librarian."
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about quasi-passive (middle voice) constructions: (i) 'the book",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 87,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the children had eaten all the chocolates before",
+      "key": "All the chocolates had been eaten by the children before their mother returned."
+    },
+    {
+      "test": 87,
+      "stem": "what is the correct passive form of: 'they elected her the class",
+      "key": "She was elected the class representative unanimously."
+    },
+    {
+      "test": 87,
+      "stem": "which of the following are correct observations about the passive voice in",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 87,
+      "stem": "match the incorrect passive constructions in column i with the reason for",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'she teaches us english grammar every tuesday.'",
+      "key": "We are taught English grammar every Tuesday by her."
+    },
+    {
+      "test": 87,
+      "stem": "consider the following statements about advanced passive constructions: (i) 'the house needs",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 87,
+      "stem": "convert the complex sentence to passive voice: 'people know that the minister",
+      "key": "The minister is known to have accepted the bribe."
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'someone has stolen my laptop from the library.'",
+      "key": "My laptop has been stolen from the library."
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'the police have been questioning the witnesses since",
+      "key": "The witnesses have been being questioned by the police since morning."
+    },
+    {
+      "test": 87,
+      "stem": "convert to passive voice: 'they ought to have informed us about the",
+      "key": "We ought to have been informed about the schedule change earlier."
     }
   ]
 }

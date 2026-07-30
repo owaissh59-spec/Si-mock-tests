@@ -243,7 +243,7 @@
 |---|---------|---------|---------------|---|------------|------|--------|
 | 85 | Morning | C — Quantitative Aptitude | Compound Interest | 30 | standard | Topic-wise | ✅ |
 | 86 | Afternoon | E — Mathematical Abilities | Heights & Distances | 40 | standard | Topic-wise | ✅ |
-| 87 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ⬜ |
+| 87 | Late | D — English Comprehension | Active/Passive Voice | 50 | standard | Topic-wise | ✅ |
 
 ### Day 30
 
