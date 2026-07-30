@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 553,
+  "count": 603,
   "questions": [
     {
       "test": 4,
@@ -2767,6 +2767,256 @@
       "test": 72,
       "stem": "consider the following statements about writing a summary of a passage: (i)",
       "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Committee"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about the spelling of certain words: (i) 'committee'",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Harrass"
+    },
+    {
+      "test": 81,
+      "stem": "match the misspelt words in column i with their correct forms in",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Privilege"
+    },
+    {
+      "test": 81,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Separate"
+    },
+    {
+      "test": 81,
+      "stem": "which of the following are correctly spelt? (i) committee (ii) privilege (iii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Rhythm"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about the spelling of certain words: (i) 'existence'",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Existance"
+    },
+    {
+      "test": 81,
+      "stem": "match the misspelt words in column i with their correct forms in",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Mischievous"
+    },
+    {
+      "test": 81,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Parliment"
+    },
+    {
+      "test": 81,
+      "stem": "which of the following are correctly spelt? (i) mischevious (ii) indispensable (iii)",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Indispensable"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about doubled letters in spelling: (i) 'occasion' has",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Recieve"
+    },
+    {
+      "test": 81,
+      "stem": "the correctly spelt form of the word meaning a list of items",
+      "key": "agenda"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Irresistible"
+    },
+    {
+      "test": 81,
+      "stem": "match the misspelt words in column i with their correct forms in",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Wenesday"
+    },
+    {
+      "test": 81,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Conscientious"
+    },
+    {
+      "test": 81,
+      "stem": "which of the following are correctly spelt? (i) occasion (ii) harass (iii)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Resistence"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about verbs ending in similar sounds: (i) 'supersede'",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Supersede"
+    },
+    {
+      "test": 81,
+      "stem": "match the descriptions in column i with the correctly spelt words in",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Preffered"
+    },
+    {
+      "test": 81,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Hierarchy"
+    },
+    {
+      "test": 81,
+      "stem": "which of the following are correctly spelt? (i) existance (ii) government (iii)",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Occassionally"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about pairs of words distinguished in british usage:",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Millionaire"
+    },
+    {
+      "test": 81,
+      "stem": "the word meaning to spell a word wrongly is itself correctly spelt",
+      "key": "misspell"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Guarrantee"
+    },
+    {
+      "test": 81,
+      "stem": "match the misspelt words in column i with their correct forms in",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Occasion"
+    },
+    {
+      "test": 81,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Hipocrisy"
+    },
+    {
+      "test": 81,
+      "stem": "which of the following are correctly spelt? (i) receipt (ii) perceive (iii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about the spelling of certain long words: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements: (i) 'millionaire' has two l's and a single",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "identify the misspelt word:",
+      "key": "Generousity"
+    },
+    {
+      "test": 81,
+      "stem": "consider the following statements about doubling the final consonant before a suffix:",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 81,
+      "stem": "choose the correctly spelt word:",
+      "key": "Sergeant"
+    },
+    {
+      "test": 81,
+      "stem": "an investigating officer's report is described as complete and careful in every",
+      "key": "thorough"
     }
   ]
 }

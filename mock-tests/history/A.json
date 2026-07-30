@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 489,
+  "count": 539,
   "questions": [
     {
       "test": 1,
@@ -2446,6 +2446,256 @@
     {
       "test": 67,
       "stem": "consider the following statements about identifying a trend in a set of",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "cobbler is to shoes as carpenter is to:",
+      "key": "Furniture"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about the relationships underlying certain analogy pairs: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "herd is to cattle as shoal is to:",
+      "key": "Fish"
+    },
+    {
+      "test": 78,
+      "stem": "match the analogy pairs in column i with the relationship on which",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 78,
+      "stem": "3 : 12 :: 5 : ?",
+      "key": "30"
+    },
+    {
+      "test": 78,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 78,
+      "stem": "which of the following are analogies based on the relationship of a",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "cygnet is to swan as foal is to:",
+      "key": "Horse"
+    },
+    {
+      "test": 78,
+      "stem": "in a number analogy, 6 : 16 :: 10 : ? .",
+      "key": "28"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about solving number analogies: (i) a number analogy",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "az : by :: cx : ?",
+      "key": "DW"
+    },
+    {
+      "test": 78,
+      "stem": "a student was shown the four pairs given below and asked to",
+      "key": "a branch of study and the subject it deals with"
+    },
+    {
+      "test": 78,
+      "stem": "insomnia is to sleep as amnesia is to:",
+      "key": "Memory"
+    },
+    {
+      "test": 78,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 78,
+      "stem": "24 : 6 :: 60 : ?",
+      "key": "15"
+    },
+    {
+      "test": 78,
+      "stem": "match the number pairs in column i with the rule that connects",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 78,
+      "stem": "which of the following are analogies based on the relationship of a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "nib is to pen as blade is to:",
+      "key": "Knife"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about letter analogies: (i) a letter analogy may",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "in a figural analogy the first figure is an arrow pointing to",
+      "key": "to the right"
+    },
+    {
+      "test": 78,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 78,
+      "stem": "cartographer is to maps as choreographer is to:",
+      "key": "Dance sequences"
+    },
+    {
+      "test": 78,
+      "stem": "a candidate was asked to examine the four analogy pairs listed below",
+      "key": "Pair 3"
+    },
+    {
+      "test": 78,
+      "stem": "match the branches of study in column i with their subject matter",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about analogies involving occupations: (i) 'blacksmith : forge'",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "def : hij :: lmn : ?",
+      "key": "PQR"
+    },
+    {
+      "test": 78,
+      "stem": "which of the following are analogies based on the relationship of a",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "cacophony is to sound as stench is to:",
+      "key": "Smell"
+    },
+    {
+      "test": 78,
+      "stem": "in the analogy 'philatelist : stamps :: numismatist : __________', the missing",
+      "key": "coins"
+    },
+    {
+      "test": 78,
+      "stem": "4 : 18 :: 6 : ?",
+      "key": "38"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about analogies of degree or intensity: (i) in",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "match the collective nouns in column i with the creatures they describe",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 78,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 78,
+      "stem": "rupee is to india as yen is to:",
+      "key": "Japan"
+    },
+    {
+      "test": 78,
+      "stem": "which of the following are analogies of a young animal to its",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about figural analogies: (i) a figural analogy may",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "anthology is to poems as album is to:",
+      "key": "Songs"
+    },
+    {
+      "test": 78,
+      "stem": "if 8 : 28 :: 12 : ? , then applying the",
+      "key": "40"
+    },
+    {
+      "test": 78,
+      "stem": "in a figural analogy the small letter 'b' is transformed into the",
+      "key": "q"
+    },
+    {
+      "test": 78,
+      "stem": "match the names of young animals in column i with the adult",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 78,
+      "stem": "kilogram is to mass as ampere is to:",
+      "key": "Electric current"
+    },
+    {
+      "test": 78,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 78,
+      "stem": "sculptor is to chisel as blacksmith is to:",
+      "key": "Hammer"
+    },
+    {
+      "test": 78,
+      "stem": "which of the following are analogies of a branch of study to",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about the method of answering analogy questions: (i)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 78,
+      "stem": "in a certain code the symbol '+' means multiply, '×' means divide,",
+      "key": "22"
+    },
+    {
+      "test": 78,
+      "stem": "a test-setter recorded the following number pairs, each formed by the same",
+      "key": "the rule is n squared minus one, and the value is 120"
+    },
+    {
+      "test": 78,
+      "stem": "an analogy in which the two terms stand to each other as",
+      "key": "age or stage of growth"
+    },
+    {
+      "test": 78,
+      "stem": "deluge is to drizzle as blizzard is to:",
+      "key": "Flurry"
+    },
+    {
+      "test": 78,
+      "stem": "consider the following statements about the relationships in certain analogy pairs: (i)",
       "key": "(i), (iii) and (iv)"
     }
   ]

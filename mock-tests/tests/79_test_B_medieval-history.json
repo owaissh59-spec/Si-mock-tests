@@ -1,0 +1,397 @@
+{
+  "subject": "B",
+  "topic": "Medieval Indian History",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The practices of 'sijda' and 'paibos' at the royal court were introduced by which Sultan of Delhi?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Balban",
+        "Jalal-ud-din Khalji",
+        "Nasir-ud-din Mahmud"
+      ],
+      "correctAnswer": "Balban",
+      "explanation": "Balban introduced sijda, or prostration before the Sultan, and paibos, the kissing of the royal feet, as part of his effort to exalt the throne and to advance his theory of kingship as the deputyship of God. 'Qutb-ud-din Aibak' is wrong because his short reign was occupied with consolidating newly won territory. 'Jalal-ud-din Khalji' is wrong because he was noted for a mild and conciliatory temper quite unlike Balban's severity. 'Nasir-ud-din Mahmud' is wrong because he was a weak ruler under whom Balban himself held the real power as Naib."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the reign of Muhammad bin Tughlaq:\n\n(i) He shifted his capital from Delhi to Devagiri, which he renamed Daulatabad.\n(ii) He issued a token currency of brass and copper coins.\n(iii) His token currency succeeded in replacing silver coinage permanently.\n(iv) He is described by contemporary writers as a learned but ill-fated ruler.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i) and (ii) record two of his best-known measures, the transfer of the capital and the issue of token coins. Statement (iv) is correct, since he was accomplished in several branches of learning yet almost every project of his miscarried. Statement (iii) is incorrect because the token currency FAILED: as the coins were easy to forge and the state could not distinguish genuine from counterfeit, they had to be withdrawn and exchanged for silver at heavy loss. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Moroccan traveller Ibn Battuta, who was appointed Qazi of Delhi and later wrote an account of his travels, visited India during the reign of:",
+      "options": [
+        "Muhammad bin Tughlaq",
+        "Firoz Shah Tughlaq",
+        "Alauddin Khalji",
+        "Sikandar Lodi"
+      ],
+      "correctAnswer": "Muhammad bin Tughlaq",
+      "explanation": "Ibn Battuta reached Delhi in the reign of Muhammad bin Tughlaq, who appointed him Qazi of the capital and later sent him as an envoy to China; his Rihla is a valuable source for the period. 'Firoz Shah Tughlaq' is wrong because he succeeded Muhammad bin Tughlaq, by which time the traveller had left. 'Alauddin Khalji' is wrong because his reign ended well before Ibn Battuta's arrival. 'Sikandar Lodi' is wrong because he ruled at the very close of the Sultanate, nearly two centuries later."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the Deccan Sultanates in Column I with their capitals in Column II:\n\nColumn I:\n(a) Adil Shahi\n(b) Qutb Shahi\n(c) Nizam Shahi\n(d) Imad Shahi\n\nColumn II:\n(i) Ahmednagar\n(ii) Berar\n(iii) Bijapur\n(iv) Golconda\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The Adil Shahis ruled from Bijapur, the Qutb Shahis from Golconda, the Nizam Shahis from Ahmednagar and the Imad Shahis from Berar, these being four of the five kingdoms into which the Bahmani state broke up. The first option is wrong because it swaps Bijapur and Golconda. The second option is wrong because it interchanges Ahmednagar and Berar. The fourth option is wrong because it makes Ahmednagar the Adil Shahi capital and Bijapur the Nizam Shahi capital, exchanging two of the most important Deccan seats."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "In the Battle of Khanwa, fought in 1527, Babur defeated:",
+      "options": [
+        "Ibrahim Lodi of Delhi",
+        "Rana Sanga of Mewar",
+        "Medini Rai of Chanderi",
+        "Sultan Mahmud Lodi"
+      ],
+      "correctAnswer": "Rana Sanga of Mewar",
+      "explanation": "At Khanwa, Babur defeated the Rajput confederacy led by Rana Sanga of Mewar, a victory that secured his hold on north India after Panipat. 'Ibrahim Lodi of Delhi' is wrong because he was defeated and killed in the First Battle of Panipat in 1526, the year before. 'Medini Rai of Chanderi' is wrong because he was defeated in 1528, at Chanderi, in a separate engagement. 'Sultan Mahmud Lodi' is wrong because he was defeated at the Battle of Ghagra in 1529, again a different battle."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The token currency introduced by Muhammad bin Tughlaq had to be withdrawn.\nReason (R): The coins were of base metal and could be forged so easily that the treasury could not tell genuine pieces from counterfeit ones.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is precisely why (A) happened: because the tokens were of brass and copper and carried no device that the state alone could produce, forgery became widespread, and the Sultan was obliged to redeem even counterfeit coins in silver, which drained the treasury and forced the withdrawal. The second option is wrong because the ease of forgery is the direct cause of the failure. The third option is wrong because the base metal and the forgeries are well attested. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are counted among the Navratnas, the nine gems of Akbar's court?\n\n(i) Birbal\n(ii) Tansen\n(iii) Raja Man Singh\n(iv) Malik Kafur\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Birbal, the witty courtier, Tansen, the musician, and Raja Man Singh, the Rajput general, were all among Akbar's celebrated Navratnas. Malik Kafur is the exception: he was a general of Alauddin Khalji nearly three centuries earlier and had no connection with Akbar's court. Hence the first option is wrong (it includes Malik Kafur and omits Man Singh), the second is wrong (it includes him and omits Birbal), and the third is wrong (it includes him and omits Tansen)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The Sayyid dynasty of the Delhi Sultanate was founded in 1414 by:",
+      "options": [
+        "Khizr Khan",
+        "Mubarak Shah",
+        "Bahlol Lodi",
+        "Alam Shah"
+      ],
+      "correctAnswer": "Khizr Khan",
+      "explanation": "Khizr Khan established the Sayyid dynasty in 1414, ruling at first as a deputy of Timur's successor rather than assuming the full style of Sultan. 'Mubarak Shah' is wrong because he was Khizr Khan's son and successor, under whom the Tarikh-i-Mubarak Shahi was composed. 'Bahlol Lodi' is wrong because he founded the Lodi dynasty that displaced the Sayyids in 1451. 'Alam Shah' is wrong because he was the last and feeblest of the Sayyid rulers rather than the founder."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The following approximate reign periods of the early Mughal emperors were tabulated:\n\nBabur: 1526 to 1530\nHumayun: 1530 to 1540, and again 1555 to 1556\nAkbar: 1556 to 1605\nJahangir: 1605 to 1627\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "Humayun ruled without interruption from 1530 to 1556",
+        "Babur ruled in India for more than a decade",
+        "Akbar's reign was the longest of the four listed",
+        "Jahangir's reign was longer than that of Akbar"
+      ],
+      "correctAnswer": "Akbar's reign was the longest of the four listed",
+      "explanation": "Akbar reigned for about forty-nine years, far longer than Jahangir's twenty-two, Babur's four or the two broken spells of Humayun. The first option is wrong because the data show a break between 1540 and 1555, the years in which Humayun was driven from India. The second option is wrong because 1526 to 1530 is only about four years. The fourth option is wrong because twenty-two years is plainly shorter than forty-nine."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about Shivaji:\n\n(i) He was formally crowned at Raigad in 1674 and took the title of Chhatrapati.\n(ii) His council of eight ministers was known as the Ashtapradhan.\n(iii) Chauth and Sardeshmukhi were taxes levied by him on territories outside his kingdom.\n(iv) He concluded the Treaty of Purandar with the Portuguese.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) are correct: the coronation at Raigad, the eight-member Ashtapradhan, and the levies of chauth and sardeshmukhi on neighbouring territory. Statement (iv) is incorrect because the Treaty of Purandar of 1665 was concluded with the MUGHALS, negotiated on their behalf by Jai Singh, and not with the Portuguese. Every option containing (iv) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "In the Mansabdari system of the Mughals, the terms 'Zat' and 'Sawar' respectively denoted:",
+      "options": [
+        "the amount of land assigned and the revenue collected from it",
+        "the religious rank of a noble and his charitable obligations",
+        "the province governed by a noble and its principal town",
+        "the personal rank of a noble and the number of horsemen he maintained"
+      ],
+      "correctAnswer": "the personal rank of a noble and the number of horsemen he maintained",
+      "explanation": "Under the Mansabdari system every officer held a dual rank: the Zat fixed his personal standing and pay in the imperial hierarchy, while the Sawar indicated the number of cavalrymen he was bound to maintain. 'The amount of land assigned and the revenue collected' is wrong because those matters belonged to the jagir arrangements rather than to the mansab ranks. 'The religious rank and charitable obligations' is wrong because such duties fell under the Sadr. 'The province governed and its principal town' is wrong because a province was a suba under a subadar."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Match the Bhakti saints in Column I with the works or traditions associated with them in Column II:\n\nColumn I:\n(a) Tulsidas\n(b) Surdas\n(c) Tukaram\n(d) Chaitanya Mahaprabhu\n\nColumn II:\n(i) Ramcharitmanas\n(ii) Marathi abhangas in praise of Vithoba\n(iii) Gaudiya Vaishnavism of Bengal\n(iv) Sursagar\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+      "explanation": "Tulsidas composed the Ramcharitmanas in Awadhi, Surdas the Sursagar in Brajbhasha, Tukaram his abhangas in Marathi, and Chaitanya founded the Gaudiya Vaishnava tradition in Bengal. The second option is wrong because it swaps Tulsidas and Surdas. The third option is wrong because it makes Tukaram a Bengali teacher and Chaitanya a Marathi poet. The fourth option is wrong because it assigns the Marathi abhangas to Surdas and the Sursagar to Tukaram, exchanging two poets of different languages."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The Battle of Samugarh, fought in 1658, was a contest between:",
+      "options": [
+        "Babur and the Afghan chiefs of Bihar",
+        "Akbar and the ruler of Malwa",
+        "Aurangzeb and Dara Shikoh",
+        "Shah Jahan and the Portuguese at Hugli"
+      ],
+      "correctAnswer": "Aurangzeb and Dara Shikoh",
+      "explanation": "Samugarh, fought near Agra in 1658, was the decisive engagement of the Mughal war of succession, in which Aurangzeb, with his brother Murad, defeated the eldest prince Dara Shikoh and cleared his own path to the throne. 'Babur and the Afghan chiefs of Bihar' is wrong because that describes the Battle of Ghagra of 1529. 'Akbar and the ruler of Malwa' is wrong because Malwa was annexed early in Akbar's reign in a separate campaign. 'Shah Jahan and the Portuguese at Hugli' is wrong because that action of 1632 was not a succession battle."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Coins were struck in the name of Nur Jahan during the reign of Jahangir.\nReason (R): Jahangir was the son of Akbar and the father of Shah Jahan.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). Coins bore Nur Jahan's name because of the extraordinary political influence she came to exercise over the administration, an honour almost unknown for a Mughal queen; Jahangir's place in the dynastic line is a separate fact of genealogy that has no bearing on the minting of coins in her name. The first option is therefore wrong. The third and fourth options are wrong because both statements are individually accurate."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "The Khalsa was instituted in 1699 at Anandpur by:",
+      "options": [
+        "Guru Hargobind",
+        "Guru Gobind Singh",
+        "Guru Tegh Bahadur",
+        "Guru Ram Das"
+      ],
+      "correctAnswer": "Guru Gobind Singh",
+      "explanation": "Guru Gobind Singh, the tenth Guru, founded the Khalsa at Anandpur on the day of Baisakhi in 1699, initiating the first five of the faithful and prescribing the distinguishing marks of the order. 'Guru Hargobind' is wrong because, although he first armed the community and adopted the two swords of temporal and spiritual authority, he did not create the Khalsa. 'Guru Tegh Bahadur' is wrong because he was the ninth Guru and Gobind Singh's father. 'Guru Ram Das' is wrong because he was the fourth Guru and founded the city of Amritsar."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following are measures associated with Sher Shah Suri?\n\n(i) The construction of the Grand Trunk Road\n(ii) The building of sarais along the highways for travellers\n(iii) The construction of the Purana Qila at Delhi\n(iv) The founding of the city of Fatehpur Sikri\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Sher Shah laid out the great highway from Bengal towards the north-west, provided sarais at intervals along his roads for the convenience of travellers and the carriage of post, and built the Purana Qila at Delhi. Item (iv) is the exception: Fatehpur Sikri was founded by AKBAR some decades later. Hence the first option is wrong (it includes Fatehpur Sikri and omits the Purana Qila), the second is wrong (it includes it and omits the Grand Trunk Road), and the third is wrong (it includes it and omits the sarais)."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The Charminar at Hyderabad was built in 1591 by:",
+      "options": [
+        "Muhammad Quli Qutb Shah",
+        "Muhammad Adil Shah",
+        "Ibrahim Qutb Shah",
+        "Yusuf Adil Shah"
+      ],
+      "correctAnswer": "Muhammad Quli Qutb Shah",
+      "explanation": "Muhammad Quli Qutb Shah of the Qutb Shahi dynasty founded the city of Hyderabad and raised the Charminar, with its four tall minarets, as its central monument. 'Muhammad Adil Shah' is wrong because he belonged to the rival Adil Shahi house of Bijapur and is remembered for the Gol Gumbaz. 'Ibrahim Qutb Shah' is wrong because, although of the same dynasty, he was an earlier ruler who reigned from Golconda. 'Yusuf Adil Shah' is wrong because he founded the Adil Shahi kingdom of Bijapur."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Consider the following statements about the principal offices of the Mughal central administration:\n\n(i) The Diwan was in charge of revenue and finance.\n(ii) The Mir Bakshi was responsible for the military department and the muster of troops.\n(iii) The Sadr-us-Sudur looked after religious endowments and charity.\n(iv) The Mir Saman commanded the imperial artillery in the field.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) correctly describe three great departments: finance under the Diwan, the army and its muster rolls under the Mir Bakshi, and endowments and charity under the Sadr-us-Sudur. Statement (iv) is incorrect because the Mir Saman had charge of the imperial household and its karkhanas or workshops, not of the artillery, which came under a separate officer. Every option containing (iv) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Third Battle of Panipat, fought in 1761, was contested between the Marathas and:",
+      "options": [
+        "the forces of Nadir Shah of Persia",
+        "the army of the Nizam of Hyderabad",
+        "the English East India Company",
+        "Ahmad Shah Abdali of Afghanistan"
+      ],
+      "correctAnswer": "Ahmad Shah Abdali of Afghanistan",
+      "explanation": "At the Third Battle of Panipat the Maratha army under Sadashivrao Bhau was defeated by Ahmad Shah Abdali, also called Durrani, a reverse that checked Maratha expansion in the north for a decade. 'The forces of Nadir Shah of Persia' is wrong because Nadir Shah's invasion took place in 1739, more than twenty years earlier. 'The army of the Nizam of Hyderabad' is wrong because the Nizam's contests with the Marathas were fought in the Deccan. 'The English East India Company' is wrong because Anglo-Maratha hostilities began later in the century."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The Peacock Throne and the Kohinoor diamond were carried away from Delhi in 1739 by __________.",
+      "options": [
+        "Ahmad Shah Abdali",
+        "Nadir Shah",
+        "Timur",
+        "Mahmud of Ghazni"
+      ],
+      "correctAnswer": "Nadir Shah",
+      "explanation": "Nadir Shah of Persia defeated the Mughal army at Karnal in 1739, sacked Delhi and took away an immense booty including the Peacock Throne and the Kohinoor. 'Ahmad Shah Abdali' is wrong because his invasions came later and culminated in the Third Battle of Panipat in 1761. 'Timur' is wrong because his invasion took place in 1398, long before either object was in Mughal possession. 'Mahmud of Ghazni' is wrong because his raids belong to the early eleventh century."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Aurangzeb's religious policy marked a departure from that of Akbar.\nReason (R): Akbar had reimposed the jizya on his non-Muslim subjects, while Aurangzeb abolished it.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: Aurangzeb's policy was markedly different from Akbar's more accommodating approach. (R) is wrong because it reverses the two rulers: it was AKBAR who abolished the jizya, early in his reign, and AURANGZEB who reimposed it in 1679. The first and second options are wrong because both require (R) to be correct. The fourth option is wrong because (A) is a sound statement, the contrast between the two reigns being one of the standard themes of Mughal history."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The Gol Gumbaz, celebrated for one of the largest masonry domes in the world, stands at:",
+      "options": [
+        "Bijapur",
+        "Golconda",
+        "Ahmednagar",
+        "Bidar"
+      ],
+      "correctAnswer": "Bijapur",
+      "explanation": "The Gol Gumbaz at Bijapur is the tomb of Muhammad Adil Shah and is famous for its enormous dome and the whispering gallery beneath it. 'Golconda' is wrong because that was the Qutb Shahi capital, known for its fort and the nearby royal tombs of that dynasty. 'Ahmednagar' is wrong because it was the seat of the Nizam Shahis. 'Bidar' is wrong because it was the capital of the Barid Shahis and earlier of the Bahmanis; all four were Deccan capitals, which is what makes them close distractors."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The four ruling houses of the Vijayanagara kingdom are listed below in the order in which they held power:\n\nFirst: Sangama\nSecond: Saluva\nThird: Tuluva\nFourth: Aravidu\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "The Tuluva house held power before the Saluva house",
+        "The Sangama house came to power after the Tuluva house",
+        "There were only three ruling houses in Vijayanagara",
+        "The Aravidu house was the last of the four to hold power"
+      ],
+      "correctAnswer": "The Aravidu house was the last of the four to hold power",
+      "explanation": "The list places Aravidu fourth, so it was the last of the four dynasties to rule, and it held the remnants of the kingdom after the defeat at Talikota. The first option is wrong because the Saluvas are shown as second and the Tuluvas as third, so the order is the reverse of what is claimed. The second option is wrong because the Sangamas are shown as first of all. The third option is wrong because four houses are expressly listed, not three."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Match the Mughal rulers in Column I with the monuments associated with them in Column II:\n\nColumn I:\n(a) Shah Jahan\n(b) Bega Begum\n(c) Aurangzeb\n(d) Sher Shah Suri\n\nColumn II:\n(i) Humayun's Tomb at Delhi\n(ii) Bibi Ka Maqbara at Aurangabad\n(iii) The Purana Qila at Delhi\n(iv) The Red Fort at Delhi\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "Shah Jahan raised the Red Fort at his new capital of Shahjahanabad, Humayun's widow Bega Begum commissioned his garden tomb at Delhi, Aurangzeb built the Bibi Ka Maqbara for his wife at Aurangabad, and Sher Shah built the Purana Qila. The first option is wrong because it credits Shah Jahan with Humayun's tomb and Bega Begum with the Red Fort. The second option is wrong because it makes Aurangzeb the builder of Humayun's tomb. The fourth option is wrong because it assigns the Purana Qila to Aurangzeb and the Bibi Ka Maqbara to Sher Shah, who died long before it was built."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about the schools of Vedanta associated with medieval teachers:\n\n(i) Ramanuja propounded the doctrine of Vishishtadvaita, or qualified non-dualism.\n(ii) Madhvacharya propounded the doctrine of Dvaita, or dualism.\n(iii) Vallabhacharya founded the Pushtimarg, associated with the worship of Krishna.\n(iv) Shankaracharya was a contemporary of Guru Nanak and worked alongside him.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) correctly attribute qualified non-dualism to Ramanuja, dualism to Madhvacharya, and the Pushtimarg with its devotion to Krishna to Vallabhacharya. Statement (iv) is incorrect on chronology: Shankaracharya belongs to about the eighth century, some seven hundred years before Guru Nanak, so the two could not have been contemporaries. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "The Treaty of Purandar, concluded in 1665, was negotiated on the Mughal side by:",
+      "options": [
+        "Shaista Khan",
+        "Jai Singh",
+        "Afzal Khan",
+        "Bairam Khan"
+      ],
+      "correctAnswer": "Jai Singh",
+      "explanation": "Mirza Raja Jai Singh conducted the Mughal campaign against Shivaji that ended in the Treaty of Purandar, by which Shivaji surrendered a number of forts and agreed to serve the empire in the Deccan. 'Shaista Khan' is wrong because he was the Mughal governor whose camp at Poona Shivaji famously raided some years earlier. 'Afzal Khan' is wrong because he was a Bijapuri commander killed at Pratapgarh in 1659. 'Bairam Khan' is wrong because he was Akbar's guardian in the previous century."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Which of the following are European travellers who visited Mughal India and left accounts of it?\n\n(i) Francois Bernier\n(ii) Jean-Baptiste Tavernier\n(iii) Niccolao Manucci\n(iv) Abdur Razzaq\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Bernier and Tavernier were Frenchmen and Manucci an Italian, and all three travelled in Mughal India and wrote valuable narratives of what they saw. Abdur Razzaq is the exception: he was a PERSIAN envoy, sent from Herat, and his account concerns the Vijayanagara kingdom of the south rather than Mughal India. Hence the first option is wrong (it includes the Persian envoy and omits Manucci), the second is wrong (it includes him and omits Bernier), and the third is wrong (it includes him and omits Tavernier)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "The Adi Granth was first compiled and installed in the Harmandir Sahib at Amritsar by:",
+      "options": [
+        "Guru Nanak",
+        "Guru Amar Das",
+        "Guru Arjan Dev",
+        "Guru Gobind Singh"
+      ],
+      "correctAnswer": "Guru Arjan Dev",
+      "explanation": "Guru Arjan Dev, the fifth Guru, compiled the Adi Granth in 1604 and installed it in the Harmandir Sahib, gathering into it the hymns of his predecessors along with those of other saints. 'Guru Nanak' is wrong because, although his compositions form the core of the scripture, the compilation was made by a later Guru. 'Guru Amar Das' is wrong because he was the third Guru and is remembered for the institution of the langar and the Goindwal baoli. 'Guru Gobind Singh' is wrong because he added the hymns of the ninth Guru and conferred permanent Guruship on the scripture, a later stage altogether."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Deccan policy of the later Mughals:\n\n(i) Aurangzeb annexed the kingdom of Bijapur.\n(ii) Aurangzeb annexed the kingdom of Golconda.\n(iii) The prolonged Deccan campaigns strained the resources of the empire.\n(iv) Aurangzeb concluded a lasting peace with the Marathas and withdrew to Delhi.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) are correct: Bijapur and Golconda were both extinguished as independent kingdoms in the 1680s, and the unending warfare in the south drained the treasury and the army alike. Statement (iv) is incorrect because no lasting peace was made; Aurangzeb spent the last quarter of his reign campaigning in the Deccan and died there, the Maratha resistance continuing to the end. Every option containing (iv) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Humayun's Tomb at Delhi is significant in the history of Indian architecture chiefly because it:",
+      "options": [
+        "was the first substantial garden tomb built on the charbagh plan in India",
+        "was the first building in India to be constructed entirely of white marble",
+        "was the earliest mosque built by the Mughals in northern India",
+        "was the first structure in India to use the true arch and dome"
+      ],
+      "correctAnswer": "was the first substantial garden tomb built on the charbagh plan in India",
+      "explanation": "Commissioned by Humayun's widow, the tomb set the pattern of a domed mausoleum standing at the centre of a formal charbagh, or four-part garden, a scheme that culminated in the Taj Mahal. 'The first building entirely of white marble' is wrong because the tomb is faced chiefly in red sandstone with marble used for contrast. 'The earliest Mughal mosque in northern India' is wrong because it is a tomb and not a mosque. 'The first structure in India to use the true arch and dome' is wrong because those forms had already been employed under the Delhi Sultanate."
+    }
+  ]
+}

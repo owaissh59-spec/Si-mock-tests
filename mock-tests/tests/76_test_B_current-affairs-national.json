@@ -1,0 +1,397 @@
+{
+  "subject": "B",
+  "topic": "National Current Affairs & People in News",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Union Budget for 2026-27 was presented in Parliament on 1 February 2026 by:",
+      "options": [
+        "Piyush Goyal",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Ashwini Vaishnaw"
+      ],
+      "correctAnswer": "Nirmala Sitharaman",
+      "explanation": "Nirmala Sitharaman, as Union Finance Minister, presented the Budget for 2026-27 on 1 February 2026. 'Piyush Goyal' is wrong because although he had presented an interim budget in an earlier year while holding additional charge of finance, he holds the Commerce and Industry portfolio. 'Amit Shah' is wrong because he is the Union Home Minister and the Budget is presented by the Finance Minister. 'Ashwini Vaishnaw' is wrong because he handles Railways, Information and Broadcasting and Electronics and Information Technology."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Union Budget 2026-27:\n\n(i) The fiscal deficit was projected at 4.3 per cent of GDP for 2026-27.\n(ii) Capital expenditure was raised to about 12 lakh crore rupees.\n(iii) The personal income tax slabs were substantially reduced for all taxpayers.\n(iv) The allocation to the Ministry of Home Affairs was increased to about 2.55 lakh crore rupees.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the projected deficit of 4.3 per cent being lower than the 4.4 per cent estimated for the preceding year. Statement (ii) is correct, capital expenditure being pegged at about 12 lakh crore rupees. Statement (iv) is correct, the Home Ministry receiving about 2.55 lakh crore rupees, over nine per cent more than the previous year. Statement (iii) is incorrect because the Budget left the personal income tax slabs unchanged, the relief in that Budget being directed instead at manufacturing, MSMEs and infrastructure. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "INS Mahendragiri, commissioned into the Indian Navy in July 2026, is a:",
+      "options": [
+        "Kalvari-class diesel-electric submarine",
+        "Vikrant-class indigenous aircraft carrier",
+        "Visakhapatnam-class guided missile destroyer",
+        "Project 17A Nilgiri-class stealth frigate"
+      ],
+      "correctAnswer": "Project 17A Nilgiri-class stealth frigate",
+      "explanation": "INS Mahendragiri is the sixth Project 17A Nilgiri-class stealth frigate, carrying more than 75 per cent indigenous content, and it was commissioned in July 2026. 'Kalvari-class diesel-electric submarine' is wrong because that class comprises submarines built under Project 75, such as INS Kalvari and INS Vagir. 'Vikrant-class indigenous aircraft carrier' is wrong because INS Vikrant is an aircraft carrier of an altogether different displacement and role. 'Visakhapatnam-class guided missile destroyer' is wrong because those are Project 15B destroyers, larger vessels than a Project 17A frigate."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Match the defence systems in Column I with their correct description in Column II, as tested or inducted by India during 2026:\n\nColumn I:\n(a) Kusha\n(b) Pinaka LRGR\n(c) Agni-5 with MIRV\n(d) INS Mahendragiri\n\nColumn II:\n(i) Long range guided artillery rocket\n(ii) Stealth frigate of the Indian Navy\n(iii) Long-range surface-to-air missile\n(iv) Ballistic missile carrying multiple independently targetable warheads\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Kusha is an indigenous long-range surface-to-air missile intended to complement Akash and MR-SAM, the Pinaka Long Range Guided Rocket is an artillery rocket, the Agni-5 fitted with a MIRV package releases several independently guided warheads, and INS Mahendragiri is a stealth frigate. The first option is wrong because it swaps Kusha and Pinaka, treating an air defence missile as an artillery rocket. The second option is wrong because it makes the Agni a warship and the frigate a missile. The fourth option is wrong because it describes Kusha as a MIRV-carrying ballistic missile, which is a strategic weapon of an entirely different class."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "The Kusha missile, flight-tested by the Defence Research and Development Organisation in July 2026, is designed for:",
+      "options": [
+        "anti-submarine warfare from a helicopter platform",
+        "long-range air defence against high-speed aerial threats",
+        "delivering a nuclear payload over intercontinental range",
+        "destroying enemy tanks at short range from a shoulder launcher"
+      ],
+      "correctAnswer": "long-range air defence against high-speed aerial threats",
+      "explanation": "Kusha is a long-range surface-to-air missile, and in its maiden flight test it intercepted a simulated high-speed aerial target, strengthening India's layered air defence alongside Akash and MR-SAM. 'Anti-submarine warfare' is wrong because that role belongs to systems such as torpedoes and rockets launched against underwater targets. 'Delivering a nuclear payload over intercontinental range' is wrong because that is the function of the Agni series of ballistic missiles. 'Destroying enemy tanks at short range' is wrong because that describes an anti-tank guided missile such as Nag or a shoulder-fired weapon."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A single missile fitted with a MIRV package can strike several widely separated targets.\nReason (R): A MIRV system releases a number of warheads in flight, each of which is guided independently to its own target.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) states precisely the mechanism behind (A): because a Multiple Independently Targetable Re-entry Vehicle package separates into several individually guided warheads, one launch can engage targets far apart from one another, as India's Agni test of May 2026 demonstrated over the Indian Ocean Region. The second option is wrong because the independent guidance of each warhead is the direct cause of the capability, not an unrelated fact. The third option is wrong because (R) accurately describes MIRV technology. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Which of the following are schemes or missions approved by the Union Cabinet during 2026?\n\n(i) Semicon 2.0, the second phase of the India Semiconductor Mission\n(ii) The Mobile Phone Manufacturing Scheme\n(iii) The Regional Connectivity Scheme, Modified UDAN\n(iv) The Mahatma Gandhi National Rural Employment Guarantee Act\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Semicon 2.0, the Mobile Phone Manufacturing Scheme and the Modified UDAN regional connectivity scheme were all cleared by the Union Cabinet during 2026 as part of a push on electronics manufacturing and air connectivity. Item (iv) is the exception: the Mahatma Gandhi National Rural Employment Guarantee Act is a law enacted in 2005 and is not a 2026 approval at all. Hence the second option is wrong (it includes the 2005 Act and omits Semicon 2.0), the third is wrong (it includes the Act and omits the mobile phone scheme), and the fourth is wrong (it includes the Act and omits Modified UDAN)."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "For the year 2026, the total number of Padma Awards approved by the President of India was:",
+      "options": [
+        "131",
+        "106",
+        "119",
+        "141"
+      ],
+      "correctAnswer": "131",
+      "explanation": "The President approved 131 Padma Awards for 2026, made up of 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri awards, and including two duo cases each counted as one award. '106' is wrong because that figure corresponds to the total announced in a different year and does not match the 2026 breakdown. '119' and '141' are wrong because neither is consistent with the announced category-wise split, which adds up precisely to 131."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "The Padma Awards announced for 2026 comprised 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri awards, making a total of 131. Which of the following conclusions is correct?",
+      "options": [
+        "The Padma Vibhushan and Padma Bhushan awards together exceeded 20 in number",
+        "The Padma Bhushan awards were more than three times the Padma Vibhushan awards",
+        "The Padma Shri accounted for more than 85 per cent of all the Padma Awards",
+        "The three categories together fell short of 130 awards"
+      ],
+      "correctAnswer": "The Padma Shri accounted for more than 85 per cent of all the Padma Awards",
+      "explanation": "113 out of 131 works out to about 86.3 per cent, which is indeed more than 85 per cent, so the Padma Shri dominates the list. The first option is wrong because 5 and 13 together make only 18, which is below 20. The second option is wrong because three times 5 is 15 and the Padma Bhushan count of 13 falls short of that. The fourth option is wrong because the three categories total exactly 131, which is more than 130 and not less."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Consider the following statements about India's Gaganyaan programme as reported in 2026:\n\n(i) The Human Rated Launch Vehicle designated HLVM3 has completed ground testing of its propulsion stages and structural systems.\n(ii) An Environmental Control and Life Support System has been developed and tested for the crew module.\n(iii) The programme's first flight will carry a crew of three astronauts before any uncrewed test flight.\n(iv) Success would make India the fourth country to achieve independent human spaceflight.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i) and (ii) reflect the position placed before Parliament in 2026, the launch vehicle having cleared ground testing and the life support system having been built and tested. Statement (iv) is correct, since only the erstwhile Soviet Union, the United States and China have so far launched their own astronauts. Statement (iii) is incorrect because the sequence is the reverse: the maiden flight is to be UNCREWED, and crewed flight follows only after such tests. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The outlay approved by the Union Cabinet in 2026 for Semicon 2.0, the second phase of the India Semiconductor Mission, was of the order of:",
+      "options": [
+        "28,840 crore rupees",
+        "62,500 crore rupees",
+        "1.51 lakh crore rupees",
+        "1.27 lakh crore rupees"
+      ],
+      "correctAnswer": "1.27 lakh crore rupees",
+      "explanation": "Semicon 2.0 was cleared with an outlay of about 1.27 lakh crore rupees, through which the government expects to draw investment of roughly 4 lakh crore rupees. '28,840 crore rupees' is wrong because that is the outlay of the Modified UDAN regional connectivity scheme. '62,500 crore rupees' is wrong because that is the outlay of the Mobile Phone Manufacturing Scheme, announced in the same Cabinet package. '1.51 lakh crore rupees' is wrong because that figure belongs to the extension of the Jal Jeevan Mission."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Match the initiatives in Column I with their approved outlay or feature in Column II, as announced during 2026:\n\nColumn I:\n(a) Mobile Phone Manufacturing Scheme\n(b) Regional Connectivity Scheme, Modified UDAN\n(c) Jal Jeevan Mission extension\n(d) Samudra Manthan\n\nColumn II:\n(i) Deepwater and ultra-deepwater exploration for oil and gas\n(ii) Outlay of about 28,840 crore rupees over ten years\n(iii) Outlay of 62,500 crore rupees for handset production\n(iv) Extension to 2028 with about 1.51 lakh crore rupees\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "The Mobile Phone Manufacturing Scheme carries an outlay of 62,500 crore rupees, Modified UDAN about 28,840 crore rupees spread over ten years from 2026-27, the Jal Jeevan Mission was extended to 2028 with about 1.51 lakh crore rupees, and Samudra Manthan concerns deepwater and ultra-deepwater hydrocarbon exploration. The second option is wrong because it swaps the handset and aviation outlays. The third option is wrong because it makes a drinking water mission an oil exploration effort. The fourth option is wrong because it assigns the water mission's figure to air connectivity and vice versa."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "The 100-week nationwide Jan Bhagidari movement announced by the Union Government in 2026 is directed against:",
+      "options": [
+        "the spread of vector-borne diseases",
+        "open defecation in rural habitations",
+        "substance abuse among the young",
+        "the use of single-use plastic in cities"
+      ],
+      "correctAnswer": "substance abuse among the young",
+      "explanation": "The Jan Bhagidari movement, announced through the Ministry of Youth Affairs and Sports, is a hundred-week campaign seeking to build a drug-free India by mobilising young citizens through awareness and community participation. 'The spread of vector-borne diseases' is wrong because campaigns against malaria and dengue are run by the health ministry under separate programmes. 'Open defecation in rural habitations' is wrong because that was the object of the Swachh Bharat Abhiyan. 'The use of single-use plastic' is wrong because that is addressed by environment ministry rules rather than by this youth campaign."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The extension of the Jal Jeevan Mission approved in 2026 provides for a national digital framework called Sujalam Bharat.\nReason (R): The Jal Jeevan Mission was originally launched to provide tap water connections to rural households.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). Sujalam Bharat was provided for in order to map the supply system digitally from the source to the tap and so monitor performance; the original purpose of the mission, namely extending household tap connections in villages, is a separate fact and does not by itself account for the creation of a digital framework. The first option is wrong because it treats the mission's aim as the reason for a monitoring platform. The third and fourth options are wrong because both statements are individually accurate."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "In the context of India's human spaceflight programme, HLVM3 refers to the:",
+      "options": [
+        "crew escape system fitted to the astronaut capsule",
+        "human rated launch vehicle that will carry the crew module",
+        "ship-borne terminal used for tracking the spacecraft",
+        "training facility where the astronaut candidates are prepared"
+      ],
+      "correctAnswer": "human rated launch vehicle that will carry the crew module",
+      "explanation": "HLVM3 is the Human Rated Launch Vehicle Mark 3, an adaptation of the LVM3 rocket certified to the higher safety standards needed for carrying astronauts, and its propulsion stages and structural systems have completed ground testing. 'Crew escape system' is wrong because that is a separate set of motors designed to pull the capsule clear in an emergency. 'Ship-borne terminal' is wrong because the SBT is a tracking terminal tested by ISRO, not a launch vehicle. 'Training facility' is wrong because HLVM3 denotes hardware that flies, not an establishment on the ground."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following are systems developed and tested by ISRO for the Gaganyaan programme, as reported in 2026?\n\n(i) Environmental Control and Life Support System\n(ii) Crew module up-righting system\n(iii) Thermal protection system\n(iv) Cryogenic upper stage for the Chandrayaan-3 lander\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The life support system, the up-righting system that keeps the capsule the right way up after a sea landing, and the thermal protection system are all Gaganyaan technologies reported as developed and tested. Item (iv) is the exception: Chandrayaan-3's lander descended using its own throttleable engines and had no cryogenic upper stage of its own, that stage belonging to the launch vehicle, and in any case it relates to a completed lunar mission rather than to human spaceflight. Hence the first option is wrong (it includes the Chandrayaan item and omits thermal protection), the second is wrong (it includes it and omits life support), and the third is wrong (it includes it and omits the up-righting system)."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The advanced Agni missile carrying a MIRV package was flight-tested by India in May 2026 from:",
+      "options": [
+        "Dr APJ Abdul Kalam Island, off the Odisha coast",
+        "Satish Dhawan Space Centre, Sriharikota",
+        "Pokhran Field Firing Range, Rajasthan",
+        "Vikram Sarabhai Space Centre, Thumba"
+      ],
+      "correctAnswer": "Dr APJ Abdul Kalam Island, off the Odisha coast",
+      "explanation": "Dr APJ Abdul Kalam Island, formerly Wheeler Island, off the Odisha coast is India's principal missile test range and was the launch site for the MIRV-equipped Agni test. 'Satish Dhawan Space Centre, Sriharikota' is wrong because that is ISRO's spaceport for satellite launches, not a strategic missile range. 'Pokhran Field Firing Range' is wrong because Pokhran is used for nuclear tests and armoured and artillery trials rather than for long-range ballistic missile launches. 'Vikram Sarabhai Space Centre, Thumba' is wrong because it is a research and development establishment for launch vehicles."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Consider the following statements about Indian defence trials conducted during 2026:\n\n(i) The Pinaka Long Range Guided Rocket achieved a precise strike at a range of about 60 kilometres.\n(ii) The Agni-1 short range ballistic missile was test-fired under the supervision of the Strategic Forces Command.\n(iii) The maiden flight test of the Kusha missile took place from a submarine at sea.\n(iv) INS Mahendragiri carries more than 75 per cent indigenous content.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the guided Pinaka rocket having struck accurately at about 60 kilometres from the Chandipur range. Statement (ii) is correct, Agni-1 trials being conducted by the Strategic Forces Command. Statement (iv) is correct and is the reason the frigate is cited as an example of self-reliance. Statement (iii) is incorrect because Kusha is a land-based surface-to-air missile and was flight-tested from Dr APJ Abdul Kalam Island, not from a submarine. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "The Regional Connectivity Scheme, Modified UDAN, approved by the Union Cabinet in 2026, is to be implemented over a period of:",
+      "options": [
+        "three years",
+        "five years",
+        "seven years",
+        "ten years"
+      ],
+      "correctAnswer": "ten years",
+      "explanation": "Modified UDAN was approved for ten years, running from the financial year 2026-27 to 2035-36, with a total outlay of about 28,840 crore rupees to extend air services to smaller towns. 'Three years' and 'five years' are wrong because both fall well short of the approved period and would not match the announced outlay spread. 'Seven years' is wrong for the same reason; the scheme was deliberately given a long horizon so that new routes and airports could be developed and stabilised."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The mission announced by the Government of India in 2026 for deepwater and ultra-deepwater exploration of oil and gas is named __________.",
+      "options": [
+        "Sujalam Bharat",
+        "Samudra Manthan",
+        "Sagarmala",
+        "Deep Ocean Mission"
+      ],
+      "correctAnswer": "Samudra Manthan",
+      "explanation": "Samudra Manthan is the initiative under which deepwater and ultra-deepwater blocks were offered under the Open Acreage Licensing Programme in order to raise domestic energy production. 'Sujalam Bharat' is wrong because that is the digital framework created under the extended Jal Jeevan Mission for mapping water supply. 'Sagarmala' is wrong because it is the programme for port-led development and coastal shipping. 'Deep Ocean Mission' is wrong because, although it also concerns the sea, it is a scientific mission for deep-sea research, biodiversity and mineral survey rather than hydrocarbon licensing."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Padma Awards for 2026 included a Padma Vibhushan conferred posthumously.\nReason (R): The Padma Awards are conferred every year by the Prime Minister at a ceremony held in Parliament House.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: the veteran actor Dharmendra was among those honoured with the Padma Vibhushan for 2026, the award being made posthumously. (R) is wrong on two counts, because the Padma Awards are conferred by the PRESIDENT of India, not the Prime Minister, and the investiture is held at Rashtrapati Bhavan rather than in Parliament House. The first and second options are wrong because both require (R) to be correct, and the fourth is wrong because (A) is accurate."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Ravi Agrawal, whose tenure was extended by the Appointments Committee of the Cabinet with effect from 1 July 2026, holds the office of Chairman of the:",
+      "options": [
+        "Central Board of Direct Taxes",
+        "Securities and Exchange Board of India",
+        "Union Public Service Commission",
+        "Central Vigilance Commission"
+      ],
+      "correctAnswer": "Central Board of Direct Taxes",
+      "explanation": "Ravi Agrawal continued as Chairman of the Central Board of Direct Taxes, the apex body for the administration of direct taxes, following an extension approved with effect from 1 July 2026. 'Securities and Exchange Board of India' is wrong because SEBI is the securities market regulator and is headed by a separate Chairperson. 'Union Public Service Commission' is wrong because the UPSC conducts recruitment examinations for the central services. 'Central Vigilance Commission' is wrong because the CVC is the apex integrity institution supervising vigilance administration."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "The following figures were announced in the Union Budget 2026-27:\n\nFiscal deficit projected for 2026-27: 4.3 per cent of GDP\nFiscal deficit estimated for the preceding year: 4.4 per cent of GDP\nCapital expenditure provided: about 12 lakh crore rupees\nAllocation to the Ministry of Home Affairs: about 2.55 lakh crore rupees, over 9 per cent higher than the previous year\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "The fiscal deficit was budgeted to widen compared with the preceding year",
+        "The allocation to the Ministry of Home Affairs was reduced from the previous year",
+        "Capital expenditure was budgeted at less than 10 lakh crore rupees",
+        "The fiscal deficit was budgeted to narrow compared with the preceding year"
+      ],
+      "correctAnswer": "The fiscal deficit was budgeted to narrow compared with the preceding year",
+      "explanation": "A projected deficit of 4.3 per cent against 4.4 per cent for the preceding year represents a reduction, which is the direction of fiscal consolidation the Budget claimed. The first option is wrong because it reverses that comparison. The second option is wrong because the Home Ministry's allocation rose by over nine per cent rather than falling. The third option is wrong because the capital expenditure figure of about 12 lakh crore rupees is plainly above 10 lakh crore."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Match the persons in Column I with the positions associated with them in Column II during 2026:\n\nColumn I:\n(a) Nirmala Sitharaman\n(b) Ashwini Vaishnaw\n(c) Ravi Agrawal\n(d) Droupadi Murmu\n\nColumn II:\n(i) Chairman, Central Board of Direct Taxes\n(ii) President of India\n(iii) Union Finance Minister\n(iv) Union Minister for Railways\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Nirmala Sitharaman held the finance portfolio, Ashwini Vaishnaw the railways portfolio, Ravi Agrawal chaired the Central Board of Direct Taxes and Droupadi Murmu was President of India. The first option is wrong because it swaps the finance and railways portfolios. The second option is wrong because it makes the CBDT chairman the President and the President a tax administrator. The fourth option is wrong because it assigns the CBDT chairmanship to a Union Minister and the railways portfolio to a serving officer."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Consider the following statements about appointments and honours in India during 2026:\n\n(i) Air Marshal Nagesh Kapoor was appointed Vice Chief of the Air Staff.\n(ii) Justice Revati Mohite Dere became the first woman Chief Justice of the Meghalaya High Court.\n(iii) The Padma Awards for 2026 were conferred by the President at Rashtrapati Bhavan.\n(iv) The Padma Bhushan is the highest civilian award of India.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statements (i), (ii) and (iii) are all correct records of 2026: the appointment of the Vice Chief of the Air Staff, the elevation of Justice Revati Mohite Dere as the first woman to head the Meghalaya High Court, and the investiture of the Padma Awards at Rashtrapati Bhavan. Statement (iv) is incorrect because the highest civilian award is the BHARAT RATNA, the Padma Bhushan standing third in order of precedence after the Padma Vibhushan. Every option containing (iv) — the second, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "At the Winter Olympic Games held at Milano Cortina d'Ampezzo in February 2026, India was represented by:",
+      "options": [
+        "a single athlete in figure skating",
+        "two athletes, neither of whom won a medal",
+        "a team of eight athletes across four disciplines",
+        "two athletes, one of whom won a bronze medal"
+      ],
+      "correctAnswer": "two athletes, neither of whom won a medal",
+      "explanation": "India sent two athletes to the 2026 Winter Games, Arif Khan finishing 39th and Stanzin Lundup 104th in their respective events, so the contingent returned without a medal. 'A single athlete in figure skating' is wrong on both the number and the discipline, India's representation being in skiing events. 'A team of eight athletes across four disciplines' is wrong because India's winter contingents have remained very small. 'Two athletes, one of whom won a bronze medal' is wrong because India has never won a Winter Olympic medal of any colour."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Which of the following are correct about India's summit diplomacy in 2026?\n\n(i) India was to host the BRICS Summit at New Delhi.\n(ii) The Prime Minister was to attend the Shanghai Cooperation Organisation summit at Bishkek.\n(iii) India held the presidency of the G20 and hosted its annual summit.\n(iv) The Prime Minister was to address the United Nations General Assembly.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "India was to host the BRICS leaders at New Delhi, the Prime Minister was to travel to Bishkek in Kyrgyzstan for the SCO summit, and he was also to address the United Nations General Assembly, so all three form part of the same period of summit diplomacy. Item (iii) is the exception: the G20 presidency for 2026 rested with the United States, which scheduled its summit at Miami in December, India having held that presidency back in 2023. Hence the first option is wrong (it includes the G20 claim and omits the UNGA address), the second is wrong (it includes it and omits BRICS), and the third is wrong (it includes it and omits the SCO summit)."
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "Air Marshal Nagesh Kapoor was appointed in 2026 to the post of:",
+      "options": [
+        "Chief of Defence Staff",
+        "Chief of the Air Staff",
+        "Vice Chief of the Air Staff",
+        "Director General of Military Operations"
+      ],
+      "correctAnswer": "Vice Chief of the Air Staff",
+      "explanation": "Air Marshal Nagesh Kapoor took over as Vice Chief of the Air Staff, the second senior most appointment in the Indian Air Force. 'Chief of Defence Staff' is wrong because that is a tri-service appointment held at the rank of a four-star officer heading the Department of Military Affairs. 'Chief of the Air Staff' is wrong because the Chief holds the rank of Air Chief Marshal and heads the service. 'Director General of Military Operations' is wrong because that appointment belongs to the Army's operational staff structure."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Cabinet decisions on electronics manufacturing taken in 2026:\n\n(i) The Mobile Phone Manufacturing Scheme was approved with an outlay of 62,500 crore rupees.\n(ii) Semicon 2.0 is expected to attract investment of about 4 lakh crore rupees.\n(iii) Both schemes were approved by the Reserve Bank of India rather than the Union Cabinet.\n(iv) A National Investment Policy for Urea was cleared in the same package of decisions.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) correctly record the package: the handset scheme with its 62,500 crore rupee outlay, the investment Semicon 2.0 is expected to draw, and the urea investment policy cleared alongside them. Statement (iii) is incorrect because such schemes are approved by the UNION CABINET; the Reserve Bank of India is the central bank and regulates monetary policy and banking, and it has no role in sanctioning industrial subsidy schemes. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Justice Revati Mohite Dere was in the news in 2026 as the first woman Chief Justice of the High Court of:",
+      "options": [
+        "Meghalaya",
+        "Bombay",
+        "Delhi",
+        "Kerala"
+      ],
+      "correctAnswer": "Meghalaya",
+      "explanation": "Justice Revati Mohite Dere became the first woman to be appointed Chief Justice of the Meghalaya High Court, one of the High Courts established for the north-eastern states. 'Bombay' is wrong because she had earlier served as a judge of the Bombay High Court, which is a plausible confusion, but her elevation as Chief Justice was to Meghalaya. 'Delhi' and 'Kerala' are wrong because both High Courts have had their own separate successions of Chief Justices and neither appointment is the one reported here."
+    }
+  ]
+}

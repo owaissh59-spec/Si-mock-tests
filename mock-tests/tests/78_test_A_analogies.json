@@ -1,0 +1,657 @@
+{
+  "subject": "A",
+  "topic": "Analogies (Semantic, Symbolic/Number, Figural)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Cobbler is to Shoes as Carpenter is to:",
+      "options": [
+        "Timber",
+        "Furniture",
+        "Saw",
+        "Workshop"
+      ],
+      "correctAnswer": "Furniture",
+      "explanation": "The relationship is that of a craftsman to the article he makes: a cobbler makes shoes and a carpenter makes furniture. 'Timber' is wrong because it is the raw material a carpenter works upon, not his finished product, and shoes are not the leather but the article made from it. 'Saw' is wrong because it is the tool he uses rather than what he produces. 'Workshop' is wrong because it names the place where he works, which is a different relationship altogether."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements about the relationships underlying certain analogy pairs:\n\n(i) In 'Flock : Sheep', the relationship is that of a collective noun to its members.\n(ii) In 'Sty : Pig', the relationship is that of a dwelling to its occupant.\n(iii) In 'Yolk : Egg', the relationship is that of a whole to one of its parts.\n(iv) In 'Lexicon : Words', the relationship is that of a compilation to its contents.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, a flock being the collective term for sheep. Statement (ii) is correct, a sty being the pig's enclosure. Statement (iv) is correct, a lexicon being a compilation of words. Statement (iii) is incorrect because the order is the other way about: the yolk is a PART of the egg, so the pair runs from part to whole, not from whole to part. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Herd is to Cattle as Shoal is to:",
+      "options": [
+        "Fish",
+        "Birds",
+        "Sheep",
+        "Wolves"
+      ],
+      "correctAnswer": "Fish",
+      "explanation": "The relationship is that of a collective noun to the creatures it describes, and a shoal is the collective term for fish. 'Birds' is wrong because birds are described by the word flock, or by particular terms such as a gaggle of geese. 'Sheep' is wrong because sheep also take the collective noun flock. 'Wolves' is wrong because a group of wolves is called a pack, so none of these three is the group to which the word shoal applies."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Match the analogy pairs in Column I with the relationship on which each is based in Column II:\n\nColumn I:\n(a) Hive : Bees\n(b) Nib : Pen\n(c) Cobbler : Shoes\n(d) Deluge : Drizzle\n\nColumn II:\n(i) Worker and the article he produces\n(ii) Part and the whole to which it belongs\n(iii) Dwelling and its occupant\n(iv) Greater and lesser degree of the same thing\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "A hive is where bees live, a nib is a component of a pen, a cobbler produces shoes, and a deluge is a heavy fall of rain against a drizzle's light one. The first option is wrong because it swaps the hive and the nib, treating a dwelling as a component part. The second option is wrong because it interchanges the craftsman pair and the intensity pair. The fourth option is wrong because it makes the nib a product and the cobbler a part of something, neither of which fits."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "3 : 12 :: 5 : ?",
+      "options": [
+        "20",
+        "30",
+        "25",
+        "35"
+      ],
+      "correctAnswer": "30",
+      "explanation": "Each number is multiplied by the integer that follows it: 3 x 4 = 12, so 5 x 6 = 30. '20' is wrong because it comes from multiplying 5 by 4, repeating the multiplier of the first pair instead of advancing it. '25' is wrong because it is 5 squared, and squaring does not give 12 from 3. '35' is wrong because it is 5 x 7, which skips a step in the pattern of multiplying by the next integer."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy 'Nib : Pen :: Blade : Knife', the relationship is that of a part to the whole.\nReason (R): A nib is a component fitted to a pen and a blade is a component fitted to a knife.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: it is because each first term is a constituent of the second that the pair is classified as a part-to-whole analogy. The second option is wrong because the component relationship is the very ground of the classification, not an incidental fact. The third option is wrong because a nib and a blade are indeed parts of the implements named. The fourth option is wrong because (A) correctly identifies the relationship."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Which of the following are analogies based on the relationship of a collector to the objects he collects?\n\n(i) Philatelist : Stamps\n(ii) Cartographer : Maps\n(iii) Numismatist : Coins\n(iv) Bibliophile : Books\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A philatelist collects stamps, a numismatist coins and a bibliophile books, so all three express the relationship of a collector to what he gathers. Item (ii) is the exception: a cartographer MAKES maps rather than collecting them, so his relationship to maps is that of a producer to his product. Hence the first option is wrong (it includes the map-maker and omits the book lover), the second is wrong (it includes him and omits the stamp collector), and the third is wrong (it includes him and omits the coin collector)."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Cygnet is to Swan as Foal is to:",
+      "options": [
+        "Horse",
+        "Cow",
+        "Deer",
+        "Goat"
+      ],
+      "correctAnswer": "Horse",
+      "explanation": "The relationship is that of the young of a species to its adult form, and a foal is a young horse just as a cygnet is a young swan. 'Cow' is wrong because the young of cattle is a calf. 'Deer' is wrong because the young of a deer is a fawn. 'Goat' is wrong because the young of a goat is a kid; each of these three has its own distinct term for the young, which is what makes them close distractors."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "In a number analogy, 6 : 16 :: 10 : ? . Applying the same rule, the missing number is:",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "correctAnswer": "28",
+      "explanation": "The rule is to multiply by three and then subtract two: 6 x 3 - 2 = 16, so 10 x 3 - 2 = 28. '30' is wrong because it results from simply multiplying by three and forgetting to subtract two. '26' is wrong because it comes from multiplying by three and subtracting four, which does not fit the first pair. '24' is wrong because it corresponds to multiplying by two and adding four, a rule that would give 16 from 6 only by coincidence and fails on inspection."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Consider the following statements about solving number analogies:\n\n(i) A number analogy may be based on squares, cubes or simple multiples.\n(ii) Examining the difference between the two terms of the first pair is a useful first step.\n(iii) A number analogy is solved by arranging all four numbers in ascending order.\n(iv) The same arithmetical rule must connect both pairs of the analogy.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) describe sound practice: the rule may be of several arithmetical kinds, differences are a natural starting point, and the whole point of the exercise is that one rule governs both pairs. Statement (iii) is incorrect because sorting the numbers destroys the pairing on which the question depends; the order of the terms is part of the information given. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "AZ : BY :: CX : ?",
+      "options": [
+        "EV",
+        "BY",
+        "CX",
+        "DW"
+      ],
+      "correctAnswer": "DW",
+      "explanation": "The first letter advances by one place while the second moves back by one: A becomes B and Z becomes Y, so C becomes D and X becomes W, giving DW. 'EV' is wrong because it advances the first letter by two places instead of one. 'BY' is wrong because it merely repeats the second term of the first pair. 'CX' is wrong because it repeats the given term without applying any transformation at all."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "A student was shown the four pairs given below and asked to identify what they have in common:\n\nOrnithology : Birds\nEntomology : Insects\nIchthyology : Fishes\nMycology : Fungi\n\nThe relationship common to all four pairs is that of:",
+      "options": [
+        "a branch of study and the subject it deals with",
+        "a profession and the tool it employs",
+        "a container and the thing it holds",
+        "a cause and the effect it produces"
+      ],
+      "correctAnswer": "a branch of study and the subject it deals with",
+      "explanation": "Each first term names a branch of biological science and each second term the group of organisms it studies, so the common relationship is that of a discipline to its subject matter. 'A profession and the tool it employs' is wrong because none of the second terms is an instrument. 'A container and the thing it holds' is wrong because a field of study is not a receptacle. 'A cause and the effect it produces' is wrong because birds and insects are not brought about by the sciences that examine them."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Insomnia is to Sleep as Amnesia is to:",
+      "options": [
+        "Hunger",
+        "Vision",
+        "Memory",
+        "Speech"
+      ],
+      "correctAnswer": "Memory",
+      "explanation": "The relationship is that of a disorder to the faculty it impairs: insomnia is an inability to sleep and amnesia is a loss of memory. 'Hunger' is wrong because the condition affecting appetite is anorexia. 'Vision' is wrong because loss of sight is blindness. 'Speech' is wrong because the loss of the power of speech is aphasia; each of these three is a genuine faculty with a disorder of its own, which is what makes them close distractors."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a number analogy the same arithmetical rule must apply to both pairs of numbers.\nReason (R): Numbers may be written either in the decimal system or in the binary system.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) has no bearing on (A). A single rule must govern both pairs because that is what makes the analogy an analogy at all; the existence of different number systems is an unrelated fact of notation and the rule would hold whatever base the numbers were written in. The first option is wrong because it treats an irrelevant fact as the reason. The third option is wrong because binary and decimal notation both genuinely exist, and the fourth is wrong because (A) is correct."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "24 : 6 :: 60 : ?",
+      "options": [
+        "12",
+        "15",
+        "20",
+        "24"
+      ],
+      "correctAnswer": "15",
+      "explanation": "Each number is divided by four: 24 divided by 4 is 6, so 60 divided by 4 is 15. '12' is wrong because it comes from dividing by five, which would give 4.8 from 24 and so fails on the first pair. '20' is wrong because it results from dividing by three. '24' is wrong because it comes from dividing by 2.5, and it is also the first term of the given pair, which makes it a tempting but careless choice."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Match the number pairs in Column I with the rule that connects them in Column II:\n\nColumn I:\n(a) 3 : 12\n(b) 24 : 6\n(c) 4 : 18\n(d) 8 : 28\n\nColumn II:\n(i) Divide by four\n(ii) Multiply by three and add four\n(iii) Multiply by the next higher integer\n(iv) Square the number and add two\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "3 x 4 = 12 uses the next higher integer; 24 divided by 4 = 6; 4 squared plus 2 = 18; and 8 x 3 + 4 = 28. The first option is wrong because it swaps the rules for 4 : 18 and 8 : 28, and squaring 8 and adding two would give 66, not 28. The second option is wrong because dividing 3 by four does not give 12. The third option is wrong because squaring 3 and adding two gives 11 rather than 12."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Which of the following are analogies based on the relationship of a dwelling to its occupant?\n\n(i) Hive : Bees\n(ii) Sty : Pig\n(iii) Kernel : Nut\n(iv) Kennel : Dog\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A hive houses bees, a sty houses a pig and a kennel houses a dog, so each of these three pairs names a habitation and the creature that lives in it. Item (iii) is the exception: a kernel is the edible inner portion of a nut, which makes it a part-to-whole relationship rather than a dwelling. Hence the second option is wrong (it includes the kernel and omits the kennel), the third is wrong (it includes it and omits the hive), and the fourth is wrong (it includes it and omits the sty)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Nib is to Pen as Blade is to:",
+      "options": [
+        "Handle",
+        "Sharpener",
+        "Knife",
+        "Cutting"
+      ],
+      "correctAnswer": "Knife",
+      "explanation": "The relationship is that of a working part to the implement of which it forms a portion: the nib is the writing part of a pen and the blade is the cutting part of a knife. 'Handle' is wrong because it is another part of the same implement, so the pair would be part to part rather than part to whole. 'Sharpener' is wrong because it is a separate device used on the blade. 'Cutting' is wrong because it names the function performed rather than the object of which the blade is a part."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Consider the following statements about letter analogies:\n\n(i) A letter analogy may be based on a fixed forward shift in the alphabet.\n(ii) In a letter analogy the number of letters in each term must always differ.\n(iii) Positional values such as A equal to 1 and Z equal to 26 are often used.\n(iv) A letter analogy may be based on reversing the order of the letters in a group.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statements (i), (iii) and (iv) name three of the commonest devices in letter analogies, namely a uniform shift, the use of alphabetical position values, and reversal of order. Statement (ii) is incorrect because the terms of a letter analogy normally contain the SAME number of letters, so that each letter of the first group corresponds to one in the second; unequal lengths would leave the correspondence undefined. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "In a figural analogy the first figure is an arrow pointing to the right and the second figure is an arrow pointing downwards. If the third figure is an arrow pointing upwards, the fourth figure should be an arrow pointing:",
+      "options": [
+        "downwards",
+        "to the left",
+        "upwards",
+        "to the right"
+      ],
+      "correctAnswer": "to the right",
+      "explanation": "Turning a right-pointing arrow through ninety degrees clockwise makes it point downwards, so the same rotation applied to an upward-pointing arrow makes it point to the right. 'Downwards' is wrong because that would require a rotation of one hundred and eighty degrees from the upward position. 'To the left' is wrong because it corresponds to a ninety degree ANTICLOCKWISE turn, the opposite sense to the one shown. 'Upwards' is wrong because it leaves the figure unchanged and applies no rotation at all."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The pair 'Numismatist : Coins' is an analogy of a collector to the objects he collects.\nReason (R): A numismatist is a person who studies and collects postage stamps.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: a numismatist does stand to coins as a collector to his collection. (R) is wrong because it names the wrong objects, a collector of postage stamps being a PHILATELIST; numismatics is the study of coins, currency and medals. The first and second options are wrong because both require (R) to be a correct statement. The fourth option is wrong because (A) accurately identifies the relationship in the pair."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Cartographer is to Maps as Choreographer is to:",
+      "options": [
+        "Dance sequences",
+        "Musical scores",
+        "Stage lighting",
+        "Film scripts"
+      ],
+      "correctAnswer": "Dance sequences",
+      "explanation": "The relationship is that of a specialist to the work he designs: a cartographer designs maps and a choreographer designs the sequences of movement in a dance. 'Musical scores' is wrong because those are written by a composer. 'Stage lighting' is wrong because that is arranged by a lighting designer. 'Film scripts' is wrong because those are written by a screenwriter; all three belong to the same world of the performing arts, which is what makes them close distractors."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "A candidate was asked to examine the four analogy pairs listed below and to identify the one that does not share the relationship common to the rest:\n\nPair 1: Hive : Bees\nPair 2: Stable : Horse\nPair 3: Kernel : Nut\nPair 4: Sty : Pig\n\nThe pair that does NOT belong with the others is:",
+      "options": [
+        "Pair 1",
+        "Pair 2",
+        "Pair 3",
+        "Pair 4"
+      ],
+      "correctAnswer": "Pair 3",
+      "explanation": "Pairs 1, 2 and 4 each name a shelter and the animal that lives in it, whereas Pair 3 names the inner edible portion of a nut and so expresses a part-to-whole relationship; Pair 3 is therefore the odd one. 'Pair 1' is wrong because a hive is plainly the bees' dwelling. 'Pair 2' is wrong because a stable is where a horse is kept. 'Pair 4' is wrong because a sty is the pig's enclosure, so all three of these conform to the common pattern."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Match the branches of study in Column I with their subject matter in Column II:\n\nColumn I:\n(a) Ichthyology\n(b) Mycology\n(c) Entomology\n(d) Ornithology\n\nColumn II:\n(i) Fungi\n(ii) Fishes\n(iii) Birds\n(iv) Insects\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Ichthyology deals with fishes, mycology with fungi, entomology with insects and ornithology with birds. The first option is wrong because it swaps fishes and fungi, assigning aquatic animals to the study of moulds and mushrooms. The third option is wrong because it interchanges birds and insects. The fourth option is wrong because it makes mycology the study of insects and entomology the study of fungi, exchanging two quite separate disciplines."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements about analogies involving occupations:\n\n(i) 'Blacksmith : Forge' relates a worker to the place where he works.\n(ii) 'Choreographer : Chisel' relates a worker to the tool he uses.\n(iii) 'Sculptor : Chisel' relates a worker to the tool he uses.\n(iv) 'Cobbler : Shoes' relates a worker to the article he produces.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, a forge being the blacksmith's workplace. Statement (iii) is correct, a chisel being the sculptor's implement. Statement (iv) is correct, shoes being the cobbler's product. Statement (ii) is incorrect because a choreographer works with dancers and movement and has no use for a chisel, which belongs to the sculptor and the carpenter. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "DEF : HIJ :: LMN : ?",
+      "options": [
+        "PQR",
+        "OPQ",
+        "QRS",
+        "NOP"
+      ],
+      "correctAnswer": "PQR",
+      "explanation": "Each letter of the first group is advanced by four places: D becomes H, E becomes I and F becomes J. Applying the same shift to L, M and N gives P, Q and R. 'OPQ' is wrong because it advances each letter by only three places. 'QRS' is wrong because it advances them by five. 'NOP' is wrong because it advances them by two, so each of these three applies a shift of the wrong size."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Which of the following are analogies based on the relationship of a unit to the quantity it measures?\n\n(i) Barometer : Pressure\n(ii) Ampere : Electric current\n(iii) Kilogram : Mass\n(iv) Hertz : Frequency\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The ampere, the kilogram and the hertz are units, and each is paired with the quantity it measures, namely current, mass and frequency. Item (i) is the exception: a barometer is an INSTRUMENT for measuring pressure and not a unit of it, the unit being the pascal. Hence the first option is wrong (it includes the instrument and omits the hertz), the second is wrong (it includes it and omits the ampere), and the fourth is wrong (it includes it and omits the kilogram)."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Cacophony is to Sound as Stench is to:",
+      "options": [
+        "Taste",
+        "Smell",
+        "Touch",
+        "Sight"
+      ],
+      "correctAnswer": "Smell",
+      "explanation": "The relationship is that of an unpleasant instance to the sense through which it is perceived: a cacophony is a harsh and disagreeable sound, and a stench is a foul smell. 'Taste' is wrong because an unpleasant taste would be described by a word such as bitterness. 'Touch' is wrong because it names a sense to which the word stench does not apply at all. 'Sight' is wrong for the same reason, an offensive sight being called an eyesore."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "In the analogy 'Philatelist : Stamps :: Numismatist : __________', the missing word is:",
+      "options": [
+        "stamps",
+        "manuscripts",
+        "paintings",
+        "coins"
+      ],
+      "correctAnswer": "coins",
+      "explanation": "A numismatist studies and collects coins, currency and medals, which parallels the philatelist's collection of postage stamps. 'Stamps' is wrong because that is what the philatelist collects and would leave the two halves of the analogy identical. 'Manuscripts' is wrong because a collector of old manuscripts is not called a numismatist. 'Paintings' is wrong because a collector of paintings would be described simply as an art collector."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "4 : 18 :: 6 : ?",
+      "options": [
+        "38",
+        "36",
+        "40",
+        "42"
+      ],
+      "correctAnswer": "38",
+      "explanation": "Each number is squared and two is added: 4 squared plus 2 is 18, so 6 squared plus 2 is 38. '36' is wrong because it is 6 squared alone and forgets to add two, and squaring 4 alone would give 16 rather than 18. '40' is wrong because it adds four instead of two. '42' is wrong because it comes from 6 x 7, a rule that would give 20 from 4 and so does not fit the first pair."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Consider the following statements about analogies of degree or intensity:\n\n(i) In 'Deluge : Drizzle' the term of greater intensity is placed first.\n(ii) 'Warm : Cold' is an intensity relationship rather than one of opposites.\n(iii) In 'Whisper : Shout' the term of lesser intensity is placed first.\n(iv) An intensity analogy requires both pairs to run in the same direction.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, a deluge being far heavier than a drizzle. Statement (iii) is correct, a whisper being much quieter than a shout. Statement (iv) is correct because if one pair runs from strong to weak the other must do the same, or the analogy breaks down. Statement (ii) is incorrect: warm and cold lie on opposite sides of a neutral point and are therefore contrasting states rather than two degrees of the same thing, unlike warm and hot. Every option containing (ii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Match the collective nouns in Column I with the creatures they describe in Column II:\n\nColumn I:\n(a) Shoal\n(b) Flock\n(c) Herd\n(d) Swarm\n\nColumn II:\n(i) Sheep\n(ii) Fishes\n(iii) Locusts\n(iv) Cattle\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "A shoal is of fishes, a flock of sheep, a herd of cattle and a swarm of locusts. The first option is wrong because it swaps the shoal and the flock, assigning fishes to a word used of sheep and birds. The third option is wrong because it interchanges sheep and cattle. The fourth option is wrong because it makes a herd of locusts and a swarm of cattle, reversing two collective terms that are never used in that way."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the analogy 'Cygnet : Swan :: Foal : Horse', the first term of each pair is the adult animal.\nReason (R): A cygnet is a young swan and a foal is a young horse.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct and states the meanings of the two words accurately. (A) is wrong because it reverses the direction of the analogy: the first term of each pair is the YOUNG animal and the second the adult, so the pairs run from young to mature. The first and second options are wrong because both require (A) to be correct. The third option is wrong because (R) is an accurate statement of what a cygnet and a foal are."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Rupee is to India as Yen is to:",
+      "options": [
+        "China",
+        "South Korea",
+        "Thailand",
+        "Japan"
+      ],
+      "correctAnswer": "Japan",
+      "explanation": "The relationship is that of a currency to the country in which it is legal tender, and the yen is the currency of Japan. 'China' is wrong because the Chinese currency is the yuan, a name close enough to yen to make it the strongest distractor. 'South Korea' is wrong because its currency is the won. 'Thailand' is wrong because its currency is the baht; all three are East or South-East Asian states with their own distinct currencies."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Which of the following are analogies of a young animal to its adult form?\n\n(i) Cygnet : Swan\n(ii) Foal : Horse\n(iii) Cub : Lion\n(iv) Flock : Sheep\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A cygnet grows into a swan, a foal into a horse and a cub into a lion, so each of these three pairs runs from the young to the mature animal. Item (iv) is the exception: a flock is a collective noun for a group of sheep and says nothing about age, so the relationship there is one of group to member. Hence the second option is wrong (it includes the flock and omits the cygnet), the third is wrong (it includes it and omits the foal), and the fourth is wrong (it includes it and omits the cub)."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Consider the following statements about figural analogies:\n\n(i) A figural analogy may be based on rotation of the figure through a fixed angle.\n(ii) A figural analogy is always solved by counting the straight lines in the figure.\n(iii) A figural analogy may be based on reflection of the figure about an axis.\n(iv) A figural analogy may involve a change in the number of elements in the figure.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statements (i), (iii) and (iv) name three genuine devices in figural analogies: turning the figure, flipping it about a line, and adding to or removing from the elements it contains. Statement (ii) is incorrect because counting lines is only one of many possible approaches and is useless where the transformation is a rotation or a reflection that leaves the number of lines unchanged. Every option containing (ii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Anthology is to Poems as Album is to:",
+      "options": [
+        "Paintings",
+        "Songs",
+        "Essays",
+        "Letters"
+      ],
+      "correctAnswer": "Songs",
+      "explanation": "The relationship is that of a collection to the items gathered in it: an anthology is a collection of poems and an album is a collection of songs. 'Paintings' is wrong because a collection of paintings is usually called a gallery or a portfolio. 'Essays' is wrong because a gathering of essays would itself be called a collection or an anthology, which duplicates the first term. 'Letters' is wrong because a set of letters is described as correspondence."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "If 8 : 28 :: 12 : ? , then applying the same rule the missing number is:",
+      "options": [
+        "34",
+        "36",
+        "38",
+        "40"
+      ],
+      "correctAnswer": "40",
+      "explanation": "The rule is to multiply by three and add four: 8 x 3 + 4 = 28, so 12 x 3 + 4 = 40. '36' is wrong because it comes from multiplying by three and forgetting to add four. '34' is wrong because it adds four after multiplying by 2.5, which does not fit the first pair. '38' is wrong because it results from doubling and adding fourteen, a rule invented to fit the second pair alone and inconsistent with the first."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "In a figural analogy the small letter 'b' is transformed into the small letter 'd'. Applying the same transformation, the small letter 'p' becomes:",
+      "options": [
+        "q",
+        "b",
+        "d",
+        "g"
+      ],
+      "correctAnswer": "q",
+      "explanation": "Turning 'b' into 'd' is a reflection in a vertical line, that is a left-to-right flip, and reflecting 'p' in the same way gives 'q'. 'b' is wrong because obtaining 'b' from 'p' would require a reflection in a HORIZONTAL line, an up-and-down flip. 'd' is wrong because it is the result of the transformation applied to the original letter of the first pair rather than to 'p'. 'g' is wrong because no single reflection of 'p' produces 'g'."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Match the names of young animals in Column I with the adult animals in Column II:\n\nColumn I:\n(a) Cygnet\n(b) Foal\n(c) Cub\n(d) Kid\n\nColumn II:\n(i) Lion\n(ii) Swan\n(iii) Goat\n(iv) Horse\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "A cygnet is a young swan, a foal a young horse, a cub a young lion and a kid a young goat. The first option is wrong because it swaps the swan and the horse. The second option is wrong because it interchanges the lion and the goat, making a cub the young of a goat. The fourth option is wrong because it assigns the lion to the foal and the horse to the cub, mismatching two animals of quite different kinds."
+    },
+    {
+      "id": "41",
+      "subject": "A",
+      "questionText": "Kilogram is to Mass as Ampere is to:",
+      "options": [
+        "Voltage",
+        "Electric current",
+        "Resistance",
+        "Power"
+      ],
+      "correctAnswer": "Electric current",
+      "explanation": "The relationship is that of a unit to the physical quantity it measures, and the ampere is the SI unit of electric current. 'Voltage' is wrong because potential difference is measured in volts. 'Resistance' is wrong because resistance is measured in ohms. 'Power' is wrong because power is measured in watts; all three are electrical quantities with units of their own, which is what makes them close distractors."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The analogy 'GHI : JKL' can be solved by noting the position of each letter in the alphabet.\nReason (R): Each letter of the first group has been advanced by three places to give the corresponding letter of the second.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) explains (A) exactly: G is the seventh letter and J the tenth, H the eighth and K the eleventh, I the ninth and L the twelfth, so a uniform advance of three places is precisely the pattern that positional values reveal. The second option is wrong because the shift of three is the very pattern the positions disclose, not a separate fact. The third option is wrong because the shift is easily verified. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Sculptor is to Chisel as Blacksmith is to:",
+      "options": [
+        "Anvil",
+        "Forge",
+        "Apron",
+        "Hammer"
+      ],
+      "correctAnswer": "Hammer",
+      "explanation": "The relationship is that of a craftsman to the tool he wields, and the blacksmith's characteristic hand tool is the hammer, just as the sculptor's is the chisel. 'Anvil' is wrong because it is the heavy block on which the metal rests rather than the implement held and swung. 'Forge' is wrong because it is the hearth in which the metal is heated, so it names his workplace. 'Apron' is wrong because it is protective clothing and not a tool at all."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Which of the following are analogies of a branch of study to the subject it deals with?\n\n(i) Ornithology : Birds\n(ii) Anthology : Poems\n(iii) Entomology : Insects\n(iv) Mycology : Fungi\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Ornithology, entomology and mycology are all branches of biological science, dealing respectively with birds, insects and fungi. Item (ii) is the exception: an anthology is a COLLECTION of poems and not a field of study, so the relationship there is that of a compilation to its contents. Hence the second option is wrong (it includes the anthology and omits mycology), the third is wrong (it includes it and omits ornithology), and the fourth is wrong (it includes it and omits entomology)."
+    },
+    {
+      "id": "45",
+      "subject": "A",
+      "questionText": "Consider the following statements about the method of answering analogy questions:\n\n(i) The relationship in the first pair should be stated in words before the second pair is completed.\n(ii) The longest of the four options is generally the intended answer.\n(iii) Where two options seem possible, the more specific relationship should be preferred.\n(iv) The order of the terms in the second pair must correspond to the order in the first.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statements (i), (iii) and (iv) describe sound technique: naming the relationship prevents vague matching, preferring the more specific relationship resolves near ties, and keeping the order consistent is essential since reversing it changes the relationship. Statement (ii) is incorrect because option length is no guide at all, and a well-set paper deliberately keeps the four options of comparable length so that no such clue exists. Every option containing (ii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "In a certain code the symbol '+' means multiply, '×' means divide, '−' means add and '÷' means subtract. Applying this code, the value of 12 + 3 × 2 − 8 ÷ 4 is:",
+      "options": [
+        "18",
+        "22",
+        "26",
+        "30"
+      ],
+      "correctAnswer": "22",
+      "explanation": "Substituting the coded meanings gives 12 x 3 divided by 2, then plus 8, then minus 4. That is 36 divided by 2 = 18, then 18 + 8 = 26, and finally 26 - 4 = 22. '18' is wrong because it stops after the division and ignores the last two terms. '26' is wrong because it omits the final subtraction of four. '30' is wrong because it results from adding instead of subtracting at the last step, a common slip when the symbols have been swapped."
+    },
+    {
+      "id": "47",
+      "subject": "A",
+      "questionText": "A test-setter recorded the following number pairs, each formed by the same rule:\n\n5 : 24\n7 : 48\n9 : 80\n11 : ?\n\nThe rule and the missing value are:",
+      "options": [
+        "the rule is n squared plus one, and the value is 122",
+        "the rule is five times n minus one, and the value is 54",
+        "the rule is n squared plus n, and the value is 132",
+        "the rule is n squared minus one, and the value is 120"
+      ],
+      "correctAnswer": "the rule is n squared minus one, and the value is 120",
+      "explanation": "Each second term is one less than the square of the first: 25 - 1 = 24, 49 - 1 = 48 and 81 - 1 = 80, so 121 - 1 = 120. 'n squared plus one' is wrong because it would give 26 from 5 rather than 24. 'Five times n minus one' is wrong because although it happens to give 24 from 5, it gives 34 from 7 instead of 48 and so fails on the second pair. 'n squared plus n' is wrong because it would give 30 from 5."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "An analogy in which the two terms stand to each other as a young animal to its adult form, such as 'Cygnet : Swan', is based on a relationship of __________.",
+      "options": [
+        "age or stage of growth",
+        "cause and effect",
+        "part and whole",
+        "worker and tool"
+      ],
+      "correctAnswer": "age or stage of growth",
+      "explanation": "The two terms name the same creature at different stages of its life, so the relationship is one of age or maturity. 'Cause and effect' is wrong because the young animal does not bring the adult into being; it simply grows into it. 'Part and whole' is wrong because a cygnet is not a component of a swan but the whole animal at an earlier stage. 'Worker and tool' is wrong because neither term is a person or an implement."
+    },
+    {
+      "id": "49",
+      "subject": "A",
+      "questionText": "Deluge is to Drizzle as Blizzard is to:",
+      "options": [
+        "Gale",
+        "Downpour",
+        "Flurry",
+        "Thunder"
+      ],
+      "correctAnswer": "Flurry",
+      "explanation": "The relationship is that of a violent form of precipitation to a very light one of the same kind: a deluge is a torrential rain and a drizzle a fine one, so a blizzard, a driving snowstorm, corresponds to a flurry, a light scattering of snow. 'Gale' is wrong because it denotes a strong wind rather than a light fall of snow. 'Downpour' is wrong because it is heavy rain and so matches deluge rather than drizzle. 'Thunder' is wrong because it is a sound and not a form of precipitation."
+    },
+    {
+      "id": "50",
+      "subject": "A",
+      "questionText": "Consider the following statements about the relationships in certain analogy pairs:\n\n(i) 'Amnesia : Memory' relates a disorder to the faculty it affects.\n(ii) 'Cygnet : Swan' relates a species to the genus to which it belongs.\n(iii) 'Numismatist : Coins' relates a collector to what he collects.\n(iv) 'Kilogram : Mass' relates a unit to the quantity it measures.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, amnesia being a failure of memory. Statement (iii) is correct, a numismatist being a collector of coins. Statement (iv) is correct, the kilogram being the unit of mass. Statement (ii) is incorrect because a cygnet is not a separate species but the YOUNG of the swan, so the pair expresses a relationship of age and not of biological classification. Every option containing (ii) — the first, second and fourth — is therefore wrong."
+    }
+  ]
+}

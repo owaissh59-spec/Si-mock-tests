@@ -217,17 +217,17 @@
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 76 | Morning | B — General Awareness | National Current Affairs & People in News | 30 | standard | Topic-wise | ⬜ |
-| 77 | Afternoon | B — General Awareness | International & J&K Current Affairs | 40 | standard | Topic-wise | ⬜ |
-| 78 | Late | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 50 | standard | Topic-wise | ⬜ |
+| 76 | Morning | B — General Awareness | National Current Affairs & People in News | 30 | standard | Topic-wise | ✅ |
+| 77 | Afternoon | B — General Awareness | International & J&K Current Affairs | 40 | standard | Topic-wise | ✅ |
+| 78 | Late | A — General Intelligence & Reasoning | Analogies (Semantic, Symbolic/Number, Figural) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 27
 
 | # | Session | Subject | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 79 | Morning | B — General Awareness | Medieval Indian History | 30 | standard | Topic-wise | ⬜ |
-| 80 | Afternoon | C — Quantitative Aptitude | Ratio & Proportion | 40 | standard | Topic-wise | ⬜ |
-| 81 | Late | D — English Comprehension | Spellings & Detecting Misspelt Words | 50 | standard | Topic-wise | ⬜ |
+| 79 | Morning | B — General Awareness | Medieval Indian History | 30 | standard | Topic-wise | ✅ |
+| 80 | Afternoon | C — Quantitative Aptitude | Ratio & Proportion | 40 | standard | Topic-wise | ✅ |
+| 81 | Late | D — English Comprehension | Spellings & Detecting Misspelt Words | 50 | standard | Topic-wise | ✅ |
 
 ### Day 28
 

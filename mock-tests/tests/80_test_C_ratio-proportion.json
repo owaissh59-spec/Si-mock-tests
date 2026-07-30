@@ -1,0 +1,527 @@
+{
+  "subject": "C",
+  "topic": "Ratio & Proportion",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "If A : B = 2 : 5 and B : C = 3 : 4, then A : C is:",
+      "options": [
+        "2 : 5",
+        "3 : 10",
+        "8 : 15",
+        "5 : 12"
+      ],
+      "correctAnswer": "3 : 10",
+      "explanation": "Make B common: A : B = 2 : 5 = 6 : 15 and B : C = 3 : 4 = 15 : 20, so A : B : C = 6 : 15 : 20 and A : C = 6 : 20 = 3 : 10. '2 : 5' is wrong because that is simply A : B copied over without linking through B. '8 : 15' is wrong because it comes from multiplying the wrong pairs of terms. '5 : 12' is wrong because it results from adding the terms of the two ratios instead of scaling them to a common middle term."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about ratios:\n\n(i) A ratio compares two quantities of the same kind.\n(ii) A ratio is unchanged if both of its terms are multiplied by the same non-zero number.\n(iii) A ratio may be formed between two quantities measured in different units without converting them.\n(iv) A ratio is in its simplest form when its terms have no common factor other than one.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, since a ratio between a length and a weight would be meaningless. Statement (ii) is correct and is the basis of simplification. Statement (iv) is the definition of lowest terms. Statement (iii) is incorrect because the quantities must first be expressed in the SAME unit; comparing 45 minutes with 2 hours, for instance, requires both to be reduced to minutes before the ratio 3 : 8 emerges. Every option containing (iii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "An amount of 2,400 rupees is divided among P, Q and R in the ratio 3 : 4 : 5. The share of R is:",
+      "options": [
+        "1,000 rupees",
+        "800 rupees",
+        "600 rupees",
+        "1,200 rupees"
+      ],
+      "correctAnswer": "1,000 rupees",
+      "explanation": "The total number of parts is 3 + 4 + 5 = 12, so one part is 2,400 divided by 12 = 200 rupees, and R's five parts come to 1,000 rupees. '800 rupees' is wrong because that is Q's share of four parts. '600 rupees' is wrong because that is P's share of three parts. '1,200 rupees' is wrong because it is half the whole sum, which would require R's share to be six parts out of twelve rather than five."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Match the expressions in Column I with their values in Column II:\n\nColumn I:\n(a) Mean proportional between 4 and 49\n(b) Third proportional to 6 and 12\n(c) Fourth proportional to 4, 9 and 12\n(d) Duplicate ratio of 5 : 7\n\nColumn II:\n(i) 24\n(ii) 27\n(iii) 14\n(iv) 25 : 49\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "The mean proportional between 4 and 49 is the square root of 196, which is 14; the third proportional to 6 and 12 is 12 squared divided by 6, that is 24; the fourth proportional to 4, 9 and 12 is 9 times 12 divided by 4, that is 27; and the duplicate ratio squares both terms to give 25 : 49. The first option is wrong because it swaps the mean and third proportionals. The second option is wrong because it interchanges the third and fourth proportionals. The fourth option is wrong because it gives the mean proportional the value 27, which belongs to the fourth proportional."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "If 18 workers can complete a piece of work in 15 days, the number of days in which 27 workers will complete the same work is:",
+      "options": [
+        "8 days",
+        "10 days",
+        "12 days",
+        "15 days"
+      ],
+      "correctAnswer": "10 days",
+      "explanation": "The work requires 18 x 15 = 270 worker-days, so 27 workers will need 270 divided by 27 = 10 days. '8 days' is wrong because 27 x 8 = 216 worker-days, which falls short of the 270 required. '12 days' is wrong because 27 x 12 = 324 worker-days, more than the work demands. '15 days' is wrong because it assumes the time is unaffected by the increase in the number of workers, whereas men and days are inversely proportional."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When the number of workers on a fixed piece of work is increased, the number of days needed to finish it falls.\nReason (R): For a fixed quantity of work the number of workers and the number of days are inversely proportional to each other.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: since the product of workers and days is the constant total of worker-days, raising one factor must lower the other. The second option is wrong because the inverse relationship is the direct cause of the fall in days, not an unrelated fact. The third option is wrong because inverse proportion between men and days is a standard result. The fourth option is wrong because (A) is a matter of common observation on any worksite."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Which of the following are pairs of ratios that are in proportion?\n\n(i) 4 : 6 and 10 : 15\n(ii) 3 : 8 and 9 : 24\n(iii) 5 : 9 and 15 : 26\n(iv) 7 : 11 and 21 : 33\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Two ratios are in proportion when the product of the extremes equals the product of the means. For (i), 4 x 15 = 60 = 6 x 10; for (ii), 3 x 24 = 72 = 8 x 9; for (iv), 7 x 33 = 231 = 11 x 21. Pair (iii) fails because 5 x 26 = 130 while 9 x 15 = 135, and the second ratio would have to be 15 : 27 to be in proportion. Hence the first option is wrong (it includes (iii) and omits (iv)), the second is wrong (it includes (iii) and omits (i)), and the third is wrong (it includes (iii) and omits (ii))."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "Two numbers are in the ratio 4 : 9 and their sum is 260. The larger of the two numbers is:",
+      "options": [
+        "180",
+        "160",
+        "80",
+        "200"
+      ],
+      "correctAnswer": "180",
+      "explanation": "The total number of parts is 4 + 9 = 13, so one part is 260 divided by 13 = 20, and the larger number of nine parts is 180. '80' is wrong because that is the smaller number of four parts. '160' is wrong because it corresponds to eight parts, which matches neither term of the ratio. '200' is wrong because it exceeds nine parts and, taken with the smaller number, would give a total greater than 260."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "The daily output of three units of a factory is in the ratio 4 : 5 : 7, and the three units together produce 3,200 articles a day:\n\nUnit A: 4 parts\nUnit B: 5 parts\nUnit C: 7 parts\nCombined daily output: 3,200 articles\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "Unit A produces 1,000 articles a day",
+        "Unit B produces more articles than Unit C",
+        "Unit C produces 1,400 articles a day",
+        "Each part of the ratio corresponds to 320 articles"
+      ],
+      "correctAnswer": "Unit C produces 1,400 articles a day",
+      "explanation": "The parts total 4 + 5 + 7 = 16, so one part is 3,200 divided by 16 = 200 articles, and Unit C's seven parts come to 1,400. 'Unit A produces 1,000 articles' is wrong because four parts give 800. 'Unit B produces more than Unit C' is wrong because five parts are fewer than seven. 'Each part corresponds to 320 articles' is wrong because that would follow from dividing by ten rather than by the sixteen parts actually present."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Consider the following statements about proportion:\n\n(i) In the proportion a : b = c : d, the product of the extremes equals the product of the means.\n(ii) In the proportion a : b = c : d, the terms b and c are called the extremes.\n(iii) The mean proportional between two numbers is the square root of their product.\n(iv) Four quantities are in proportion when the first is to the second as the third is to the fourth.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is the fundamental property of a proportion, statement (iii) defines the mean proportional, and statement (iv) states the meaning of proportion itself. Statement (ii) is incorrect because b and c are the MEANS, while a and d, the first and the last terms, are the extremes; getting these names the wrong way round is a frequent slip. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "The mean proportional between 4 and 49 is:",
+      "options": [
+        "26.5",
+        "21",
+        "28",
+        "14"
+      ],
+      "correctAnswer": "14",
+      "explanation": "The mean proportional between two numbers is the square root of their product, and the square root of 4 x 49 = 196 is 14. '26.5' is wrong because it is the arithmetic mean of 4 and 49, which is a different average altogether. '21' is wrong because it is the square root of 441 and corresponds to no product of the given numbers. '28' is wrong because it comes from multiplying 4 by 7, taking the square root of only one of the two numbers."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Match the ratio operations in Column I with their results in Column II:\n\nColumn I:\n(a) Duplicate ratio of 3 : 5\n(b) Sub-duplicate ratio of 49 : 81\n(c) Triplicate ratio of 2 : 3\n(d) Sub-triplicate ratio of 27 : 64\n\nColumn II:\n(i) 7 : 9\n(ii) 8 : 27\n(iii) 9 : 25\n(iv) 3 : 4\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "The duplicate ratio squares each term, giving 9 : 25; the sub-duplicate takes square roots, giving 7 : 9; the triplicate cubes each term, giving 8 : 27; and the sub-triplicate takes cube roots, giving 3 : 4. The second option is wrong because it swaps the duplicate and sub-duplicate results. The third option is wrong because it interchanges the triplicate and sub-triplicate results. The fourth option is wrong because it assigns the cube of 2 : 3 to the duplicate of 3 : 5, confusing squaring with cubing."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "A sum of 7,200 rupees is divided between X and Y in the ratio 5 : 4. By how much does X's share exceed Y's share?",
+      "options": [
+        "400 rupees",
+        "600 rupees",
+        "800 rupees",
+        "1,600 rupees"
+      ],
+      "correctAnswer": "800 rupees",
+      "explanation": "The parts total 5 + 4 = 9, so one part is 7,200 divided by 9 = 800 rupees, and the difference of one part between the two shares is therefore 800 rupees. '400 rupees' is wrong because it halves the difference, as though the gap were half a part. '1,600 rupees' is wrong because it doubles it, treating the gap as two parts instead of one. '600 rupees' is wrong because it corresponds to no whole number of parts of this division."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The ratio of 45 minutes to 2 hours is 3 : 8.\nReason (R): A ratio has no unit of its own and is a pure number.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: 2 hours is 120 minutes, and 45 : 120 reduces to 3 : 8, while a ratio is indeed a pure number. But (R) does not explain (A): the particular value 3 : 8 follows from expressing both quantities in the same unit and cancelling the common factor of 15, not from the general fact that ratios are unitless. The first option is therefore wrong. The third and fourth options are wrong because both statements are individually correct."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "The compound ratio of 3 : 4, 8 : 9 and 5 : 2 is:",
+      "options": [
+        "3 : 5",
+        "5 : 3",
+        "2 : 3",
+        "4 : 3"
+      ],
+      "correctAnswer": "5 : 3",
+      "explanation": "A compound ratio multiplies the antecedents together and the consequents together: 3 x 8 x 5 = 120 and 4 x 9 x 2 = 72, and 120 : 72 reduces to 5 : 3 on dividing both terms by 24. '3 : 5' is wrong because it is the inverse of the correct answer, a slip that arises from interchanging the products. '2 : 3' and '4 : 3' are wrong because neither can be obtained from the products 120 and 72 by cancelling any common factor."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Which of the following are examples of quantities in direct proportion?\n\n(i) The number of articles bought and the total cost, at a fixed rate per article\n(ii) The number of workers employed and the days needed for a fixed piece of work\n(iii) The distance covered and the time taken, at a constant speed\n(iv) The weight of rice purchased and its price, at a fixed rate per kilogram\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "In items (i), (iii) and (iv) an increase in one quantity produces a proportionate increase in the other, so each is a direct proportion. Item (ii) is the exception and is an INVERSE proportion, because employing more workers on a fixed job reduces the number of days required. Hence the first option is wrong (it includes the workers and omits the rice), the second is wrong (it includes them and omits the articles), and the third is wrong (it includes them and omits the distance)."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "If 12 men can complete a piece of work in 18 days, the number of men required to complete the same work in 9 days is:",
+      "options": [
+        "24",
+        "20",
+        "18",
+        "27"
+      ],
+      "correctAnswer": "24",
+      "explanation": "The work amounts to 12 x 18 = 216 man-days, so completing it in 9 days requires 216 divided by 9 = 24 men. '18' is wrong because 18 x 9 = 162 man-days, which is short of the work required. '20' is wrong because 20 x 9 = 180 man-days, again insufficient. '27' is wrong because 27 x 9 = 243 man-days, more than the work needs, and it also wrongly assumes the men must rise in the same proportion as the days fall rather than inversely."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Consider the following statements about comparing and simplifying ratios:\n\n(i) To compare two ratios they may be written as fractions with a common denominator.\n(ii) The ratio 125 : 175 in its simplest form is 5 : 7.\n(iii) The ratio 3 : 4 is greater than the ratio 5 : 6.\n(iv) Quantities must be reduced to the same unit before their ratio is simplified.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) describes the standard method of comparison. Statement (ii) is correct because both 125 and 175 are divisible by 25. Statement (iv) is correct, as a ratio between unlike units is meaningless until they are made alike. Statement (iii) is incorrect because 3 divided by 4 is 0.75 while 5 divided by 6 is about 0.83, so 3 : 4 is in fact the SMALLER ratio. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "The ages of two persons are in the ratio 3 : 5 and the difference between their ages is 18 years. The age of the elder person is:",
+      "options": [
+        "27 years",
+        "45 years",
+        "36 years",
+        "54 years"
+      ],
+      "correctAnswer": "45 years",
+      "explanation": "The difference of 5 - 3 = 2 parts corresponds to 18 years, so one part is 9 years and the elder person's five parts come to 45 years. '27 years' is wrong because that is the younger person's age of three parts. '36 years' is wrong because it corresponds to four parts, which matches neither term of the ratio. '54 years' is wrong because six parts would make the difference between the two ages 27 years rather than the 18 given."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "The third proportional to 6 and 12 is __________.",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "correctAnswer": "24",
+      "explanation": "If c is the third proportional to a and b then a : b = b : c, so c is b squared divided by a, that is 144 divided by 6 = 24. '18' is wrong because it comes from adding 6 to 12 and treating the terms as an arithmetic progression rather than a proportion. '20' and '22' are wrong because neither satisfies the required relation 6 : 12 = 12 : c, which demands that the product of the extremes, 6 times c, equal 144."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a : b = c : d, then it follows that (a + b) : b = (c + d) : d.\nReason (R): This result is known as the property of invertendo.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: adding 1 to each side of a/b = c/d gives (a + b)/b = (c + d)/d. (R) is wrong because this property is called COMPONENDO; invertendo is the quite different rule that a : b = c : d implies b : a = d : c. The first and second options are wrong because both require (R) to be correct. The fourth option is wrong because (A) is a valid and standard derivation."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "If x : y = 3 : 5, then the value of (2x + 3y) : (4x - y) is:",
+      "options": [
+        "3 : 1",
+        "1 : 3",
+        "7 : 3",
+        "5 : 2"
+      ],
+      "correctAnswer": "3 : 1",
+      "explanation": "Taking x = 3k and y = 5k, the numerator becomes 6k + 15k = 21k and the denominator 12k - 5k = 7k, so the ratio is 21 : 7 = 3 : 1. '1 : 3' is wrong because it inverts the result, a slip that comes from writing the expressions in the wrong order. '7 : 3' is wrong because it uses the unreduced denominator against the wrong numerator. '5 : 2' is wrong because it results from substituting the ratio terms without multiplying by the coefficients 2, 3 and 4."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "In a school the number of boys and the number of girls are in the ratio 5 : 4, and the total strength of the school is 720:\n\nBoys : Girls = 5 : 4\nTotal strength = 720\n\nWhich of the following conclusions is correct?",
+      "options": [
+        "There are 320 boys in the school",
+        "There are 400 girls in the school",
+        "The number of boys exceeds the number of girls by 80",
+        "Boys form more than 60 per cent of the total strength"
+      ],
+      "correctAnswer": "The number of boys exceeds the number of girls by 80",
+      "explanation": "The parts total 9, so one part is 720 divided by 9 = 80; there are 400 boys and 320 girls, and the difference of one part is 80. 'There are 320 boys' is wrong because 320 is the number of GIRLS. 'There are 400 girls' is wrong for the converse reason, 400 being the number of boys. 'Boys form more than 60 per cent' is wrong because 400 out of 720 is about 55.6 per cent, which is below 60."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Match the problems in Column I with their answers in Column II:\n\nColumn I:\n(a) The smaller share when 1,540 rupees is divided in the ratio 4 : 7\n(b) The copper in 84 kilograms of an alloy in which copper and zinc are in the ratio 9 : 5\n(c) The ratio 0.8 : 1.2 in its simplest form\n(d) x : y : z when 5x = 8y = 10z\n\nColumn II:\n(i) 54 kilograms\n(ii) 560 rupees\n(iii) 8 : 5 : 4\n(iv) 2 : 3\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "For (a), eleven parts give 140 each so four parts are 560 rupees; for (b), fourteen parts give 6 kilograms each so nine parts of copper are 54 kilograms; for (c), 0.8 : 1.2 is 8 : 12, which reduces to 2 : 3; for (d), taking the common value as 40 gives x = 8, y = 5 and z = 4. The first option is wrong because it exchanges the money and the metal. The third option is wrong because it swaps the three-term ratio with the two-term one. The fourth option is wrong because it makes the simplified ratio a weight in kilograms."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Consider the following statements about a mixture of milk and water:\n\n(i) Adding water to the mixture increases the ratio of milk to water.\n(ii) Adding water to the mixture leaves the quantity of milk unchanged.\n(iii) If milk and water are in the ratio 5 : 2 in 49 litres of mixture, the milk measures 35 litres.\n(iv) The ratio of the components of a mixture can be altered by adding more of one component.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct because pouring in water adds nothing to the milk already present. Statement (iii) is correct, seven parts in 49 litres giving 7 litres each and five parts of milk making 35 litres. Statement (iv) states the general principle correctly. Statement (i) is incorrect because adding water increases the water while the milk stays the same, so the ratio of milk to water FALLS rather than rises. Every option containing (i) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "The incomes of two persons are in the ratio 7 : 5 and their expenditures in the ratio 5 : 3. If each of them saves 4,000 rupees, the income of the first person is:",
+      "options": [
+        "14,000 rupees",
+        "10,000 rupees",
+        "12,000 rupees",
+        "16,000 rupees"
+      ],
+      "correctAnswer": "14,000 rupees",
+      "explanation": "Let the incomes be 7x and 5x and the expenditures 5y and 3y. Then 7x - 5y = 4,000 and 5x - 3y = 4,000; solving these gives x = 2,000, so the first income is 7 x 2,000 = 14,000 rupees. A check confirms it: expenditures are 10,000 and 6,000, and both savings come to 4,000. '10,000 rupees' is wrong because that is the SECOND person's income. '12,000 rupees' and '16,000 rupees' are wrong because neither satisfies both savings equations simultaneously."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Which of the following are correct expressions of a ratio between the quantities named?\n\n(i) 250 grams to 1 kilogram is 1 : 4\n(ii) 30 minutes to 1 hour is 1 : 2\n(iii) 40 paise to 2 rupees is 1 : 4\n(iv) 25 centimetres to 1 metre is 1 : 4\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Converting to a common unit: 250 grams to 1,000 grams is 1 : 4; 30 minutes to 60 minutes is 1 : 2; and 25 centimetres to 100 centimetres is 1 : 4. Item (iii) is wrong because 40 paise to 200 paise is 1 : 5 and not 1 : 4. Hence the first option is wrong (it includes the money ratio and omits the length), the second is wrong (it includes it and omits the weight), and the fourth is wrong (it includes it and omits the time)."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Two numbers are in the ratio 4 : 7. If 6 is subtracted from each of them, the ratio becomes 2 : 5. The two numbers are:",
+      "options": [
+        "8 and 14",
+        "12 and 21",
+        "16 and 28",
+        "20 and 35"
+      ],
+      "correctAnswer": "12 and 21",
+      "explanation": "Taking the numbers as 4x and 7x, the condition gives (4x - 6)/(7x - 6) = 2/5, so 20x - 30 = 14x - 12, giving 6x = 18 and x = 3; the numbers are 12 and 21, and subtracting 6 leaves 6 and 15, which is 2 : 5. '8 and 14' is wrong because subtracting 6 leaves 2 and 8, that is 1 : 4. '16 and 28' is wrong because it leaves 10 and 22, that is 5 : 11. '20 and 35' is wrong because it leaves 14 and 29, which is not 2 : 5."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "If a : b = 5 : 6, b : c = 8 : 9 and c : d = 3 : 4, then a : d is:",
+      "options": [
+        "5 : 6",
+        "20 : 27",
+        "10 : 9",
+        "5 : 9"
+      ],
+      "correctAnswer": "5 : 9",
+      "explanation": "Scaling to link the terms, a : b = 20 : 24, b : c = 24 : 27 and c : d = 27 : 36, so a : b : c : d = 20 : 24 : 27 : 36 and a : d = 20 : 36 = 5 : 9. '5 : 6' is wrong because that is merely a : b repeated. '20 : 27' is wrong because that is a : c and stops one step short of d. '10 : 9' is wrong because it inverts and mis-scales the chain, giving a value greater than one when a is plainly smaller than d."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "If 9 pumps of equal capacity can fill a tank in 8 hours, the time taken by 12 such pumps to fill the same tank is:",
+      "options": [
+        "6 hours",
+        "9 hours",
+        "10 hours",
+        "12 hours"
+      ],
+      "correctAnswer": "6 hours",
+      "explanation": "Filling the tank requires 9 x 8 = 72 pump-hours, so 12 pumps will need 72 divided by 12 = 6 hours. '9 hours' is wrong because it would give 108 pump-hours, far more than the tank requires. '10 hours' and '12 hours' are wrong for the same reason and both rest on the mistaken idea that adding pumps lengthens the time, whereas pumps and hours are inversely proportional."
+    },
+    {
+      "id": "31",
+      "subject": "C",
+      "questionText": "Consider the following statements about problems on ages:\n\n(i) The difference between the ages of two persons remains the same as the years pass.\n(ii) The ratio of the ages of two persons changes as the years pass.\n(iii) If two present ages are in the ratio 3 : 5, they will still be in the ratio 3 : 5 after ten years.\n(iv) In an age problem the same number of years must be added to each of the ages.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because both persons age at the same rate, so the gap is fixed. Statement (ii) is correct, and it is precisely this change that such problems exploit. Statement (iv) is correct because the years pass equally for both. Statement (iii) is incorrect and contradicts (ii): ages of 15 and 25 are in the ratio 3 : 5, but after ten years they become 25 and 35, which is 5 : 7. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "Match the ratios in Column I with their simplest forms in Column II:\n\nColumn I:\n(a) 1/4 : 1/6\n(b) 125 : 175\n(c) 2.5 : 4\n(d) 45 minutes : 2 hours\n\nColumn II:\n(i) 5 : 8\n(ii) 3 : 8\n(iii) 3 : 2\n(iv) 5 : 7\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Multiplying 1/4 : 1/6 by 12 gives 3 : 2; dividing 125 : 175 by 25 gives 5 : 7; multiplying 2.5 : 4 by 2 gives 5 : 8; and 45 minutes to 120 minutes reduces to 3 : 8. The first option is wrong because it swaps the fraction ratio with the time ratio. The third option is wrong because it interchanges the results for 125 : 175 and 2.5 : 4. The fourth option is wrong because it exchanges the decimal ratio with the time ratio, giving 2.5 : 4 the value 3 : 8."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the volumes of two cubes are in the ratio 27 : 64, then their edges are also in the ratio 27 : 64.\nReason (R): The volume of a cube varies as the cube of the length of its edge.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct, the volume of a cube being the cube of its edge. (A) is wrong precisely because of that relation: since the volumes are as 27 : 64, the edges must be as the cube roots of these numbers, that is 3 : 4, and not 27 : 64. The first and second options are wrong because both require (A) to be correct. The third option is wrong because (R) is a sound statement of the relation between edge and volume."
+    },
+    {
+      "id": "34",
+      "subject": "C",
+      "questionText": "The monthly salaries of two employees are in the ratio 3 : 4. If each of them receives an increment of 1,500 rupees, the ratio becomes 4 : 5. The original salary of the better paid employee was:",
+      "options": [
+        "4,500 rupees",
+        "5,000 rupees",
+        "5,500 rupees",
+        "6,000 rupees"
+      ],
+      "correctAnswer": "6,000 rupees",
+      "explanation": "Taking the salaries as 3x and 4x, the condition gives (3x + 1500)/(4x + 1500) = 4/5, so 15x + 7,500 = 16x + 6,000 and x = 1,500; the salaries are 4,500 and 6,000 rupees, the larger being 6,000. A check confirms it: 6,000 and 7,500 are in the ratio 4 : 5. '4,500 rupees' is wrong because that is the LOWER salary. '5,000 rupees' and '5,500 rupees' are wrong because neither is a multiple of the ratio terms that satisfies the given condition."
+    },
+    {
+      "id": "35",
+      "subject": "C",
+      "questionText": "Which of the following are correct statements about derived ratios?\n\n(i) The duplicate ratio of a : b is a squared to b squared.\n(ii) The sub-duplicate ratio of a : b is the square root of a to the square root of b.\n(iii) The triplicate ratio of a : b is 3a to 3b.\n(iv) The sub-triplicate ratio of a : b is the cube root of a to the cube root of b.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Items (i), (ii) and (iv) state the standard definitions of the duplicate, sub-duplicate and sub-triplicate ratios. Item (iii) is wrong because the triplicate ratio CUBES each term to give a cubed to b cubed; merely trebling both terms would leave the ratio unchanged, since 3a : 3b is the same as a : b. Hence the second option is wrong (it includes the trebling error and omits the cube root), the third is wrong (it includes it and omits the squares), and the fourth is wrong (it includes it and omits the square roots)."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "In a mixture, milk and water are in the ratio 5 : 2. When 14 litres of water is added, the ratio becomes 5 : 4. The quantity of the original mixture was:",
+      "options": [
+        "35 litres",
+        "42 litres",
+        "49 litres",
+        "63 litres"
+      ],
+      "correctAnswer": "49 litres",
+      "explanation": "Taking the milk as 5x and the water as 2x, adding 14 litres of water gives 5x/(2x + 14) = 5/4, so 20x = 10x + 70 and x = 7; the milk is 35 litres and the water 14 litres, making an original mixture of 49 litres. '35 litres' is wrong because that is the quantity of milk alone. '42 litres' and '63 litres' are wrong because neither divides into the ratio 5 : 2 in a way that yields 5 : 4 after 14 litres of water is added."
+    },
+    {
+      "id": "37",
+      "subject": "C",
+      "questionText": "Consider the following statements about ratios of geometrical magnitudes:\n\n(i) If the radii of two circles are in the ratio 2 : 3, their areas are in the ratio 4 : 9.\n(ii) If the edges of two cubes are in the ratio 2 : 3, their volumes are in the ratio 8 : 27.\n(iii) If the sides of two squares are in the ratio 2 : 3, their perimeters are in the ratio 4 : 9.\n(iv) If the edges of two cubes are in the ratio 2 : 3, their surface areas are in the ratio 4 : 9.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) are correct because area varies as the square of a linear dimension and volume as its cube. Statement (iii) is incorrect: perimeter is itself a length, so it varies directly as the side and the perimeters are in the ratio 2 : 3, not 4 : 9. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "The fourth proportional to 4, 9 and 12 is __________.",
+      "options": [
+        "21",
+        "24",
+        "30",
+        "27"
+      ],
+      "correctAnswer": "27",
+      "explanation": "If d is the fourth proportional to a, b and c then a : b = c : d, so d is b times c divided by a, that is 9 x 12 divided by 4 = 27. '21' is wrong because it comes from adding the numbers rather than applying the proportion. '24' is wrong because it is the third proportional to 6 and 12 and does not satisfy 4 : 9 = 12 : d. '30' is wrong because 4 x 30 = 120, which does not equal 9 x 12 = 108."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "If 5x = 8y = 10z, then x : y : z is:",
+      "options": [
+        "8 : 5 : 4",
+        "4 : 5 : 8",
+        "5 : 8 : 10",
+        "10 : 8 : 5"
+      ],
+      "correctAnswer": "8 : 5 : 4",
+      "explanation": "Setting the common value at 40, the lowest number divisible by 5, 8 and 10, gives x = 8, y = 5 and z = 4, so x : y : z = 8 : 5 : 4. '4 : 5 : 8' is wrong because it reverses the order, making x the smallest when the smallest coefficient in fact belongs to the largest variable. '5 : 8 : 10' is wrong because it simply repeats the coefficients instead of inverting them. '10 : 8 : 5' is wrong because it inverts only partially and does not satisfy 5x = 8y."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "The volumes of two cubes are in the ratio 27 : 64. The ratio of their total surface areas is:",
+      "options": [
+        "3 : 4",
+        "27 : 64",
+        "9 : 16",
+        "81 : 256"
+      ],
+      "correctAnswer": "9 : 16",
+      "explanation": "The edges are as the cube roots of the volumes, that is 3 : 4, and surface area varies as the square of the edge, so the areas are as 9 : 16. '3 : 4' is wrong because that is the ratio of the edges themselves rather than of the areas. '27 : 64' is wrong because that is the ratio of the volumes, given in the question. '81 : 256' is wrong because it squares the volume ratio instead of squaring the edge ratio."
+    }
+  ]
+}

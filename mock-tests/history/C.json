@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 504,
+  "count": 544,
   "questions": [
     {
       "test": 3,
@@ -2522,6 +2522,206 @@
       "test": 69,
       "stem": "consider the following statements about outlet pipes and leaks: (i) a leak",
       "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 80,
+      "stem": "if a : b = 2 : 5 and b : c",
+      "key": "3 : 10"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about ratios: (i) a ratio compares two quantities",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "an amount of 2,400 rupees is divided among p, q and r",
+      "key": "1,000 rupees"
+    },
+    {
+      "test": 80,
+      "stem": "match the expressions in column i with their values in column ii:",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 80,
+      "stem": "if 18 workers can complete a piece of work in 15 days,",
+      "key": "10 days"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are pairs of ratios that are in proportion?",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "two numbers are in the ratio 4 : 9 and their sum",
+      "key": "180"
+    },
+    {
+      "test": 80,
+      "stem": "the daily output of three units of a factory is in the",
+      "key": "Unit C produces 1,400 articles a day"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about proportion: (i) in the proportion a :",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "the mean proportional between 4 and 49 is:",
+      "key": "14"
+    },
+    {
+      "test": 80,
+      "stem": "match the ratio operations in column i with their results in column",
+      "key": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    },
+    {
+      "test": 80,
+      "stem": "a sum of 7,200 rupees is divided between x and y in",
+      "key": "800 rupees"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "the compound ratio of 3 : 4, 8 : 9 and 5",
+      "key": "5 : 3"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are examples of quantities in direct proportion? (i)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "if 12 men can complete a piece of work in 18 days,",
+      "key": "24"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about comparing and simplifying ratios: (i) to compare",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "the ages of two persons are in the ratio 3 : 5",
+      "key": "45 years"
+    },
+    {
+      "test": 80,
+      "stem": "the third proportional to 6 and 12 is __________.",
+      "key": "24"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 80,
+      "stem": "if x : y = 3 : 5, then the value of",
+      "key": "3 : 1"
+    },
+    {
+      "test": 80,
+      "stem": "in a school the number of boys and the number of girls",
+      "key": "The number of boys exceeds the number of girls by 80"
+    },
+    {
+      "test": 80,
+      "stem": "match the problems in column i with their answers in column ii:",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about a mixture of milk and water: (i)",
+      "key": "(ii), (iii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "the incomes of two persons are in the ratio 7 : 5",
+      "key": "14,000 rupees"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are correct expressions of a ratio between the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "two numbers are in the ratio 4 : 7. if 6 is",
+      "key": "12 and 21"
+    },
+    {
+      "test": 80,
+      "stem": "if a : b = 5 : 6, b : c =",
+      "key": "5 : 9"
+    },
+    {
+      "test": 80,
+      "stem": "if 9 pumps of equal capacity can fill a tank in 8",
+      "key": "6 hours"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about problems on ages: (i) the difference between",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "match the ratios in column i with their simplest forms in column",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 80,
+      "stem": "the monthly salaries of two employees are in the ratio 3 :",
+      "key": "6,000 rupees"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are correct statements about derived ratios? (i) the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "in a mixture, milk and water are in the ratio 5 :",
+      "key": "49 litres"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about ratios of geometrical magnitudes: (i) if the",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "the fourth proportional to 4, 9 and 12 is __________.",
+      "key": "27"
+    },
+    {
+      "test": 80,
+      "stem": "if 5x = 8y = 10z, then x : y : z",
+      "key": "8 : 5 : 4"
+    },
+    {
+      "test": 80,
+      "stem": "the volumes of two cubes are in the ratio 27 : 64.",
+      "key": "9 : 16"
     }
   ]
 }

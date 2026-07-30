@@ -1148,7 +1148,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "76_test_B_current-affairs-national.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 77,
@@ -1163,7 +1163,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "77_test_B_current-affairs-intl-jk.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 78,
@@ -1178,7 +1178,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "78_test_A_analogies.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 79,
@@ -1193,7 +1193,7 @@
       "total_questions": 30,
       "difficulty_profile": "standard",
       "filename": "79_test_B_medieval-history.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 80,
@@ -1208,7 +1208,7 @@
       "total_questions": 40,
       "difficulty_profile": "standard",
       "filename": "80_test_C_ratio-proportion.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 81,
@@ -1223,7 +1223,7 @@
       "total_questions": 50,
       "difficulty_profile": "standard",
       "filename": "81_test_D_spellings.json",
-      "status": "pending"
+      "status": "done"
     },
     {
       "number": 82,

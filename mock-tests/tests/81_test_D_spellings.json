@@ -1,0 +1,657 @@
+{
+  "subject": "D",
+  "topic": "Spellings & Detecting Misspelt Words",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Commitee",
+        "Committee",
+        "Comittee",
+        "Committe"
+      ],
+      "correctAnswer": "Committee",
+      "explanation": "'Committee' is spelt with a double m, a double t and a double e, which is what makes it one of the most frequently misspelt words in English. 'Commitee' is wrong because it drops one of the two t's. 'Comittee' is wrong because it drops one of the two m's. 'Committe' is wrong because it drops the final e, leaving only one e at the end."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about the spelling of certain words:\n\n(i) 'Committee' is correctly spelt with two m's, two t's and two e's.\n(ii) 'Seperate' is the correct spelling of the word meaning to divide.\n(iii) 'Privilege' contains no letter 'd'.\n(iv) 'Rhythm' contains the letter 'h' twice.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct, the word having three doubled letters. Statement (iii) is correct, since the common form 'priviledge' with a 'd' is an error. Statement (iv) is correct, as 'rhythm' is spelt r-h-y-t-h-m with an h in the second and the fifth places. Statement (ii) is incorrect because the correct spelling is SEPARATE, with an 'a' in the middle syllable, the form 'seperate' being among the commonest of all English misspellings. Every option containing (ii) — the first, second and third — is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Harrass",
+        "Grammar",
+        "Ceiling",
+        "Leisure"
+      ],
+      "correctAnswer": "Harrass",
+      "explanation": "The correct spelling is 'harass', with a single r and a double s; the form given doubles the r wrongly. 'Grammar' is wrong as an answer because it is correctly spelt, ending in '-ar' and not '-er'. 'Ceiling' is wrong because it is correctly spelt, following the rule that e comes before i after c. 'Leisure' is wrong because it too is correct, being one of the recognised exceptions to the i-before-e rule."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct forms in Column II:\n\nColumn I:\n(a) Seperate\n(b) Priviledge\n(c) Comittee\n(d) Rythm\n\nColumn II:\n(i) Rhythm\n(ii) Separate\n(iii) Committee\n(iv) Privilege\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "'Seperate' should be separate, 'priviledge' should be privilege without the d, 'comittee' should be committee with a double m, and 'rythm' should be rhythm with an h after the r. The first option is wrong because it pairs 'seperate' with committee. The second option is wrong because it makes 'seperate' into rhythm and 'rythm' into separate, exchanging two wholly unrelated words. The fourth option is wrong because it gives 'seperate' the form privilege."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Priviledge",
+        "Privilege",
+        "Privelege",
+        "Privilage"
+      ],
+      "correctAnswer": "Privilege",
+      "explanation": "'Privilege' is spelt p-r-i-v-i-l-e-g-e, with an i in the second syllable and no d anywhere in the word. 'Priviledge' is wrong because it inserts a d before the final syllable, an error encouraged by the pronunciation. 'Privelege' is wrong because it replaces the second i with an e. 'Privilage' is wrong because it substitutes an a for the e in the third syllable."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'separate' is very frequently misspelt as 'seperate'.\nReason (R): The middle syllable of the word is unstressed, so the vowel in it is not clearly heard in ordinary speech.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) happens: because the vowel of the unstressed middle syllable is reduced in speech, the ear gives the writer no guidance and an 'e' is written where the spelling requires an 'a'. The second option is wrong because the reduced vowel is the direct cause of the error, not an unrelated fact. The third option is wrong because unstressed vowels in English are genuinely reduced in this way. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Seperate",
+        "Seperete",
+        "Sepearate",
+        "Separate"
+      ],
+      "correctAnswer": "Separate",
+      "explanation": "'Separate' is spelt with an 'a' in the middle syllable, s-e-p-a-r-a-t-e, and it is helpful to recall that the word contains the sequence 'a rat'. 'Seperate' is wrong because it puts an e where the a belongs. 'Seperete' is wrong because it makes the same error twice, in the second and third syllables. 'Sepearate' is wrong because it inserts a superfluous e after the p."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Committee\n(ii) Privilege\n(iii) Seperate\n(iv) Rhythm\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Committee', 'privilege' and 'rhythm' are all given in their correct forms. Item (iii) is the exception, since the correct spelling is 'separate' with an a in the middle. Hence the second option is wrong (it includes the faulty 'seperate' and omits 'rhythm'), the third is wrong (it includes it and omits 'committee'), and the fourth is wrong (it includes it and omits 'privilege')."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Rythm",
+        "Rhythem",
+        "Rhythm",
+        "Rythem"
+      ],
+      "correctAnswer": "Rhythm",
+      "explanation": "'Rhythm' is spelt r-h-y-t-h-m, the only vowel letter being the y, and it takes an h both after the r and before the final m. 'Rythm' is wrong because it omits the h that follows the r. 'Rhythem' is wrong because it inserts an e before the final m, where no vowel letter belongs. 'Rythem' is wrong because it makes both of those errors together."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about the spelling of certain words:\n\n(i) 'Existence' ends in the letters '-ence' and not '-ance'.\n(ii) 'Parliament' contains the letter 'a' after the 'i'.\n(iii) 'Recieve' is correct because i comes before e after c.\n(iv) 'Wednesday' contains a 'd' that is not sounded in ordinary speech.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, 'existance' being a common error. Statement (ii) is correct, the word being par-l-i-a-ment. Statement (iv) is correct, and the silent d is precisely why the word is so often misspelt. Statement (iii) is incorrect because it inverts the rule: after the letter c it is E that comes before I, so the correct spelling is RECEIVE. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Foreign",
+        "Height",
+        "Neighbour",
+        "Existance"
+      ],
+      "correctAnswer": "Existance",
+      "explanation": "The correct form is 'existence', ending in '-ence'; the word given wrongly substitutes an a for the e. 'Foreign' is wrong as an answer because it is correctly spelt, being one of the exceptions to the i-before-e rule. 'Height' is wrong because it too is correct, ending in '-ght' although it is pronounced with a long i. 'Neighbour' is wrong because it is the correct British form, with the 'ou' that American usage drops."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct forms in Column II:\n\nColumn I:\n(a) Existance\n(b) Parliment\n(c) Recieve\n(d) Wenesday\n\nColumn II:\n(i) Wednesday\n(ii) Existence\n(iii) Parliament\n(iv) Receive\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "'Existance' should be existence, 'parliment' should be parliament, 'recieve' should be receive, and 'wenesday' should be Wednesday. The second option is wrong because it swaps the first two, giving 'existance' the form parliament. The third option is wrong because it interchanges the last two, making 'recieve' into Wednesday. The fourth option is wrong because it gives 'parliment' the form receive and 'recieve' the form parliament."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Mischievious",
+        "Mischeivous",
+        "Mischievous",
+        "Mischevious"
+      ],
+      "correctAnswer": "Mischievous",
+      "explanation": "'Mischievous' has three syllables, mis-chie-vous, and there is no i after the v. 'Mischievious' is wrong because it inserts that extra i, an error prompted by the mistaken four-syllable pronunciation. 'Mischeivous' is wrong because it reverses the ie to ei. 'Mischevious' is wrong because it drops the i from the second syllable and adds one after the v."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'committee' contains a double m, a double t and a double e.\nReason (R): English contains many words in which a consonant is doubled before a suffix is added.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true, but (R) does not explain (A). The three doubled letters in 'committee' belong to the word as it was formed from 'commit' together with the ending '-ee', and the double m is already present in 'commit' itself; the general tendency of English to double consonants before suffixes accounts for only part of the pattern and not for the double e. The first option is therefore wrong. The third and fourth options are wrong because both statements are individually correct."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Government",
+        "Parliment",
+        "Environment",
+        "Achievement"
+      ],
+      "correctAnswer": "Parliment",
+      "explanation": "The correct spelling is 'parliament', with an a between the i and the m; the form given omits it. 'Government' is wrong as an answer because it is correctly spelt, retaining the n before the m although that n is often not sounded. 'Environment' is wrong because it too is correct, with an n before the m. 'Achievement' is wrong because it is correctly spelt, keeping the e of 'achieve' before the ending '-ment'."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Mischevious\n(ii) Indispensable\n(iii) Irresistible\n(iv) Conscientious\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Indispensable', 'irresistible' and 'conscientious' are all given correctly, the first ending in '-able' and the second in '-ible'. Item (i) is the exception, since the correct form is 'mischievous', with the i before the v and none after it. Hence the first option is wrong (it includes the faulty form and omits 'conscientious'), the second is wrong (it includes it and omits 'indispensable'), and the third is wrong (it includes it and omits 'irresistible')."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Indispensable",
+        "Indispensible",
+        "Indespensable",
+        "Indispensabel"
+      ],
+      "correctAnswer": "Indispensable",
+      "explanation": "'Indispensable' ends in '-able', and it may be remembered by its connection with 'dispensable', from which it is formed by adding the negative prefix. 'Indispensible' is wrong because it substitutes the '-ible' ending. 'Indespensable' is wrong because it puts an e in place of the i in the second syllable. 'Indispensabel' is wrong because it reverses the last two letters of the ending."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements about doubled letters in spelling:\n\n(i) 'Occasion' has two c's and one s.\n(ii) 'Occasionally' has two c's, one s and two l's.\n(iii) 'Harass' has two r's and two s's.\n(iv) 'Address' has two d's and two s's.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, 'occasion' being o-c-c-a-s-i-o-n. Statement (ii) is correct, the adverb adding '-ally' and so carrying two l's. Statement (iv) is correct, 'address' having both pairs doubled. Statement (iii) is incorrect because 'harass' has only ONE r together with a double s, and doubling the r is one of the commonest errors with this word. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Receipt",
+        "Recieve",
+        "Deceive",
+        "Perceive"
+      ],
+      "correctAnswer": "Recieve",
+      "explanation": "The correct spelling is 'receive', because after the letter c the e is written before the i; the form given reverses them. 'Receipt' is wrong as an answer because it is correctly spelt, with the same ei order and a silent p. 'Deceive' is wrong because it too follows the rule correctly. 'Perceive' is wrong for the same reason, all three of these words keeping e before i after c."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The correctly spelt form of the word meaning a list of items to be discussed at a meeting is __________.",
+      "options": [
+        "ajenda",
+        "agendha",
+        "aggenda",
+        "agenda"
+      ],
+      "correctAnswer": "agenda",
+      "explanation": "'Agenda' is spelt a-g-e-n-d-a, a single word of Latin origin meaning things to be done. 'Ajenda' is wrong because it replaces the g with a j, following the sound rather than the spelling. 'Agendha' is wrong because it inserts an h after the d, where none belongs. 'Aggenda' is wrong because it doubles the g, which the word does not do."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Irresistible",
+        "Irresistable",
+        "Iresistible",
+        "Irrestible"
+      ],
+      "correctAnswer": "Irresistible",
+      "explanation": "'Irresistible' has a double r after the initial i and ends in '-ible'. 'Irresistable' is wrong because it substitutes the '-able' ending. 'Iresistible' is wrong because it uses a single r, whereas the negative prefix 'ir-' added to 'resistible' produces two. 'Irrestible' is wrong because it drops the 'si' from the middle of the word altogether."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct forms in Column II:\n\nColumn I:\n(a) Hipocrisy\n(b) Heirarchy\n(c) Guarrantee\n(d) Supercede\n\nColumn II:\n(i) Hierarchy\n(ii) Guarantee\n(iii) Hypocrisy\n(iv) Supersede\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "'Hipocrisy' should be hypocrisy with a y in the first syllable, 'heirarchy' should be hierarchy with the i before the e, 'guarrantee' should be guarantee with a single r, and 'supercede' should be supersede with an s. The first option is wrong because it swaps the first two entries. The second option is wrong because it makes 'heirarchy' into guarantee. The fourth option is wrong because it exchanges the last two, giving 'guarrantee' the form supersede."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "February",
+        "Wenesday",
+        "Eighth",
+        "Twelfth"
+      ],
+      "correctAnswer": "Wenesday",
+      "explanation": "The correct spelling is 'Wednesday', which contains a d after the e that is not sounded in ordinary speech; the form given omits it. 'February' is wrong as an answer because it is correctly spelt, keeping the r before the u although that r is often not pronounced. 'Eighth' is wrong because it is correct, formed from 'eight' with the addition of a single h. 'Twelfth' is wrong because it too is correct, retaining the f before the th."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'rhythm' contains no vowel letter except the y.\nReason (R): The letter y can never function as a vowel in English words.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct: the letters of 'rhythm' are r, h, y, t, h and m, so the y is the only vowel letter present. (R) is wrong, and indeed contradicts (A), because y regularly acts as a vowel in English, as in 'myth', 'gym', 'sky' and 'rhythm' itself. The first and second options are wrong because both require (R) to be a correct statement. The fourth option is wrong because (A) is accurate."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Consciencious",
+        "Conscientous",
+        "Conscentious",
+        "Conscientious"
+      ],
+      "correctAnswer": "Conscientious",
+      "explanation": "'Conscientious' begins with the same six letters as 'conscience' and then continues '-tious'. 'Consciencious' is wrong because it keeps the 'c' of conscience where a t is required before the ending. 'Conscientous' is wrong because it drops the i from the final syllable. 'Conscentious' is wrong because it omits the i after the sc, losing the link with 'conscience' altogether."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Occasion\n(ii) Harass\n(iii) Hierarchy\n(iv) Supercede\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'Occasion', 'harass' and 'hierarchy' are all correct, the second having a single r and the third the i before the e. Item (iv) is the exception, because the correct form is 'supersede' with an s, this being the only common English verb of its kind to end in '-sede'. Hence the second option is wrong (it includes the faulty form and omits 'occasion'), the third is wrong (it includes it and omits 'harass'), and the fourth is wrong (it includes it and omits 'hierarchy')."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Permanent",
+        "Persistent",
+        "Resistence",
+        "Consistent"
+      ],
+      "correctAnswer": "Resistence",
+      "explanation": "The correct spelling is 'resistance', ending in '-ance'; the form given wrongly uses '-ence'. 'Permanent' is wrong as an answer because it is correctly spelt with the '-ent' ending. 'Persistent' is wrong because it too correctly takes '-ent'. 'Consistent' is wrong for the same reason, and the contrast between these '-ent' adjectives and the '-ance' noun 'resistance' is exactly what makes this a testing item."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements about verbs ending in similar sounds:\n\n(i) 'Supersede' is the only common English verb of its kind ending in '-sede'.\n(ii) 'Precede' is correctly spelt with the ending '-ceed'.\n(iii) 'Proceed', 'exceed' and 'succeed' are the three common verbs ending in '-ceed'.\n(iv) 'Accede' and 'concede' both end in '-cede'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct and is the standard rule for this family of words. Statement (iii) correctly names the only three '-ceed' verbs. Statement (iv) is correct, both those words taking '-cede'. Statement (ii) is incorrect because 'precede' ends in '-cede' and not '-ceed'; confusing it with 'proceed' is one of the commonest errors in this group. Every option containing (ii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Superceed",
+        "Supercede",
+        "Supersead",
+        "Supersede"
+      ],
+      "correctAnswer": "Supersede",
+      "explanation": "'Supersede' is spelt with an s in the final syllable, deriving from the Latin 'sedere' meaning to sit, and it is the only common verb of its kind ending in '-sede'. 'Superceed' is wrong because it uses both a c and a double e. 'Supercede' is wrong because it substitutes a c for the s, an error made so often that the form is frequently seen in print. 'Supersead' is wrong because it replaces the final e with an a."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Match the descriptions in Column I with the correctly spelt words in Column II, according to British usage:\n\nColumn I:\n(a) A permit issued by an authority, used as a noun\n(b) To grant permission, used as a verb\n(c) A person who relies on another for support, used as a noun\n(d) Relying on something else, used as an adjective\n\nColumn II:\n(i) Dependent\n(ii) Licence\n(iii) Dependant\n(iv) License\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "In British usage the noun is spelt 'licence' with a c and the verb 'license' with an s, while the noun is 'dependant' with an a and the adjective 'dependent' with an e. The second option is wrong because it reverses both pairs at once. The third option is wrong because it swaps the noun and adjective forms of the dependence pair. The fourth option is wrong because it makes the noun 'license' and the verb 'licence', inverting the rule for that pair."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Beginning",
+        "Referred",
+        "Preffered",
+        "Transferred"
+      ],
+      "correctAnswer": "Preffered",
+      "explanation": "The correct spelling is 'preferred', in which the r is doubled but the f is not; the form given wrongly doubles the f as well. 'Beginning' is wrong as an answer because it is correctly spelt with a double n. 'Referred' is wrong because it correctly doubles the r. 'Transferred' is wrong for the same reason, all three of these words doubling the final consonant of a stressed last syllable before the ending."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'supersede' is correctly written with a c, as 'supercede'.\nReason (R): Most English verbs ending in this sound are spelt '-cede', as in 'precede' and 'concede'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(R) is correct: the great majority of these verbs do take '-cede', among them precede, concede, accede and recede. (A) is wrong because 'supersede' is precisely the exception to that pattern and must be written with an s; indeed it is the very frequency of the '-cede' spelling described in (R) that tempts writers into the error. The first and second options are wrong because both require (A) to be correct, and the third is wrong because (R) is accurate."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Heirarchy",
+        "Hierarchy",
+        "Hierachy",
+        "Heirachy"
+      ],
+      "correctAnswer": "Hierarchy",
+      "explanation": "'Hierarchy' begins h-i-e and contains an r in both the third and the fifth syllables. 'Heirarchy' is wrong because it reverses the opening ie to ei, an error encouraged by the word 'heir'. 'Hierachy' is wrong because it drops the r before the final syllable. 'Heirachy' is wrong because it commits both of those errors together."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Existance\n(ii) Government\n(iii) Parliament\n(iv) Environment\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Government', 'parliament' and 'environment' are all given correctly, the first and third keeping the n before the m and the second keeping the a after the i. Item (i) is the exception, because the correct spelling is 'existence' with the '-ence' ending. Hence the first option is wrong (it includes the faulty form and omits 'environment'), the second is wrong (it includes it and omits 'government'), and the third is wrong (it includes it and omits 'parliament')."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Occassionally",
+        "Noticeable",
+        "Manageable",
+        "Changeable"
+      ],
+      "correctAnswer": "Occassionally",
+      "explanation": "The correct spelling is 'occasionally', with two c's but only ONE s; the form given wrongly doubles the s as well. 'Noticeable' is wrong as an answer because it is correctly spelt, keeping the e of 'notice' to preserve the soft c. 'Manageable' is wrong because it likewise keeps the e to preserve the soft g. 'Changeable' is wrong for the same reason, all three retaining a silent e that a careless writer would drop."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Consider the following statements about pairs of words distinguished in British usage:\n\n(i) 'Licence' is the noun and 'license' the verb.\n(ii) 'Dependant' is the noun and 'dependent' the adjective.\n(iii) 'Practice' is the verb and 'practise' the noun.\n(iv) 'Advice' is the noun and 'advise' the verb.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) state the British conventions correctly, the spelling with c marking the noun and that with s the verb. Statement (iii) is incorrect because it reverses the pair: 'practice' is the NOUN and 'practise' the verb, following the same pattern as advice and advise. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Millionnaire",
+        "Millionaire",
+        "Milionaire",
+        "Millionaira"
+      ],
+      "correctAnswer": "Millionaire",
+      "explanation": "'Millionaire' keeps the double l of 'million' and adds a single n before the ending '-aire'. 'Millionnaire' is wrong because it doubles the n, an error influenced by the French form. 'Milionaire' is wrong because it reduces the double l to a single l. 'Millionaira' is wrong because it replaces the final e with an a, losing the '-aire' ending."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "The word meaning to spell a word wrongly is itself correctly spelt as __________.",
+      "options": [
+        "mispell",
+        "misspel",
+        "mispel",
+        "misspell"
+      ],
+      "correctAnswer": "misspell",
+      "explanation": "'Misspell' is formed from the prefix 'mis-' and the verb 'spell', so it keeps both s's and both l's. 'Mispell' is wrong because it drops one of the two s's that arise where the prefix meets the stem. 'Misspel' is wrong because it drops one of the two l's. 'Mispel' is wrong because it commits both of those errors at once, which is a fitting trap in a word of this meaning."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Guarrantee",
+        "Secretary",
+        "Library",
+        "Jewellery"
+      ],
+      "correctAnswer": "Guarrantee",
+      "explanation": "The correct spelling is 'guarantee', with a single r; the form given wrongly doubles it. 'Secretary' is wrong as an answer because it is correctly spelt, keeping the a before the final ry. 'Library' is wrong because it is correct, retaining the r after the b that is often not sounded. 'Jewellery' is wrong because it is the correct British form, the American spelling being the shorter 'jewelry'."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Match the misspelt words in Column I with their correct forms in Column II:\n\nColumn I:\n(a) Preffered\n(b) Occassionally\n(c) Resistence\n(d) Generousity\n\nColumn II:\n(i) Occasionally\n(ii) Resistance\n(iii) Preferred\n(iv) Generosity\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "'Preffered' should be preferred with a single f, 'occassionally' should be occasionally with a single s, 'resistence' should be resistance, and 'generousity' should be generosity without the u. The first option is wrong because it swaps the first two entries. The second option is wrong because it gives 'occassionally' the form resistance. The fourth option is wrong because it exchanges the last two, making 'resistence' into generosity."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Ocassion",
+        "Occasion",
+        "Occassion",
+        "Ocasion"
+      ],
+      "correctAnswer": "Occasion",
+      "explanation": "'Occasion' is spelt with a double c and a single s. 'Ocassion' is wrong because it reverses the pattern, using a single c and a double s. 'Occassion' is wrong because it doubles both letters. 'Ocasion' is wrong because it uses a single c and a single s, doubling neither; of the four possible combinations only the double c with the single s is correct."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In British usage the noun is written 'licence' while the verb is written 'license'.\nReason (R): English distinguishes certain noun and verb pairs by a single letter, the noun taking c and the verb s, as with 'advice' and 'advise'.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true and (R) is exactly why (A) holds: licence and license follow the general British pattern by which the c form is the noun and the s form the verb, the same pattern that governs advice and advise and practice and practise. The second option is wrong because the general rule is the direct ground of the particular spelling. The third option is wrong because the pattern is well established. The fourth option is wrong because (A) is correct."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Possession",
+        "Profession",
+        "Discipline",
+        "Hipocrisy"
+      ],
+      "correctAnswer": "Hipocrisy",
+      "explanation": "The correct spelling is 'hypocrisy', with a y in the first syllable, from the Greek root; the form given substitutes an i. 'Possession' is wrong as an answer because it is correctly spelt, with two pairs of s's. 'Profession' is wrong because it is correct, having a single f and a double s. 'Discipline' is wrong because it too is correct, keeping the c after the s that is not separately sounded."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Which of the following are correctly spelt?\n\n(i) Receipt\n(ii) Perceive\n(iii) Recieve\n(iv) Deceive\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Receipt', 'perceive' and 'deceive' are all correct, each keeping the e before the i after the letter c. Item (iii) is the exception, since the correct form is 'receive' and not 'recieve'. Hence the second option is wrong (it includes the faulty form and omits 'deceive'), the third is wrong (it includes it and omits 'receipt'), and the fourth is wrong (it includes it and omits 'perceive')."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Consider the following statements about the spelling of certain long words:\n\n(i) 'Mischievous' has three syllables and takes no i after the v.\n(ii) 'Indispensable' ends in '-able' and not '-ible'.\n(iii) 'Irresistible' ends in '-able'.\n(iv) 'Conscientious' begins with the same six letters as 'conscience'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the four-syllable pronunciation being a common mistake. Statement (ii) is correct, the word being formed from 'dispensable'. Statement (iv) is correct, both words opening with c-o-n-s-c-i. Statement (iii) is incorrect because 'irresistible' ends in '-IBLE', and the contrast with 'indispensable' in the same list is precisely the point being tested. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 'Millionaire' has two l's and a single n.\n(ii) 'Hierarchy' begins with the letters 'hie' and not 'hei'.\n(iii) 'Guarrantee' is the correct spelling of the word meaning a formal promise.\n(iv) 'Hypocrisy' begins with the letters 'hyp'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct, the word keeping the double l of 'million'. Statement (ii) is correct, since the opening is often wrongly written 'hei' on the analogy of 'heir'. Statement (iv) is correct, the word coming from a Greek root. Statement (iii) is incorrect because the correct spelling is 'guarantee' with a SINGLE r. Every option containing (iii) — the first, third and fourth — is therefore wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Identify the misspelt word:",
+      "options": [
+        "Curiosity",
+        "Ferocity",
+        "Mediocrity",
+        "Generousity"
+      ],
+      "correctAnswer": "Generousity",
+      "explanation": "The correct spelling is 'generosity', which drops the u of 'generous' before the ending '-ity'; the form given wrongly retains it. 'Curiosity' is wrong as an answer because it is correctly spelt, dropping the u of 'curious' in exactly the same way. 'Ferocity' is wrong because it is correct, being formed from 'ferocious'. 'Mediocrity' is wrong because it too is correct, formed from 'mediocre' with the e removed."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Consider the following statements about doubling the final consonant before a suffix:\n\n(i) 'Preferred' doubles the r because the stress falls on the last syllable of 'prefer'.\n(ii) 'Benefited' does not double the t because the stress does not fall on the last syllable of 'benefit'.\n(iii) 'Referred' is correctly spelt with a single r in the middle of the word.\n(iv) 'Transferred' doubles the r for the same reason as 'preferred'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) together state the rule and its application: the final consonant is doubled when the stress falls on the last syllable of the base word, which is why prefer and transfer double the r while benefit does not double the t. Statement (iii) is incorrect because 'referred' also DOUBLES the r, the stress in 'refer' falling on the second syllable. Every option containing (iii) — the first, second and fourth — is therefore wrong."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Sergeant",
+        "Sargeant",
+        "Sergent",
+        "Sargent"
+      ],
+      "correctAnswer": "Sergeant",
+      "explanation": "'Sergeant' is spelt s-e-r-g-e-a-n-t, with an e in the first syllable and an ea before the final nt, although it is pronounced as though it began with 'sar'. 'Sargeant' is wrong because it follows that pronunciation and writes an a in the first syllable. 'Sergent' is wrong because it omits the a from the second syllable. 'Sargent' is wrong because it makes both of those errors together."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "An investigating officer's report is described as complete and careful in every respect. Which of the following is the correct spelling of the word carrying that sense?",
+      "options": [
+        "thurough",
+        "thorogh",
+        "thorough",
+        "throrough"
+      ],
+      "correctAnswer": "thorough",
+      "explanation": "'Thorough' is spelt t-h-o-r-o-u-g-h and means complete and careful in every respect. 'Thurough' is wrong because it replaces the first o with a u. 'Thorogh' is wrong because it omits the u before the final gh. 'Throrough' is wrong because it inserts an extra r after the th; the word should also be distinguished from 'through', which is spelt without the second o and means from end to end."
+    }
+  ]
+}
