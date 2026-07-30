@@ -1,0 +1,527 @@
+{
+  "subject": "B",
+  "topic": "Physical & World Geography",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Atacama Desert, one of the driest places on Earth, is located along the western coast of:",
+      "options": [
+        "Africa",
+        "South America",
+        "Australia",
+        "North America"
+      ],
+      "correctAnswer": "South America",
+      "explanation": "The Atacama Desert stretches along the Pacific coast of Chile in South America. It is the driest non-polar desert in the world. Africa is wrong because Africa has the Namib and Sahara deserts, not the Atacama. Australia is wrong because its major desert is the Great Victoria Desert. North America is wrong because its deserts include the Mojave and Sonoran, not the Atacama."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the layers of the Earth:\n\n(i) The inner core is solid and composed mainly of iron and nickel.\n(ii) The asthenosphere is a semi-molten layer within the upper mantle on which tectonic plates float.\n(iii) The Gutenberg discontinuity separates the mantle from the outer core.\n(iv) The lithosphere includes only the crust and excludes the upper mantle.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: the inner core is solid iron-nickel. (ii) is correct: the asthenosphere is partially molten and lies in the upper mantle, allowing plate movement. (iii) is correct: the Gutenberg discontinuity lies at about 2,900 km depth, separating the mantle from the outer core. (iv) is wrong because the lithosphere includes both the crust AND the uppermost rigid part of the mantle. Option (i),(iii) and (iv) is wrong because (iv) is incorrect. Option (ii),(iii) and (iv) is wrong because (iv) is incorrect. Option (i),(ii),(iii) and (iv) is wrong because (iv) is incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The __________ is the longest mountain range in the world, stretching approximately 7,000 km along the western coast of South America.",
+      "options": [
+        "Rocky Mountains",
+        "Andes Mountains",
+        "Ural Mountains",
+        "Great Dividing Range"
+      ],
+      "correctAnswer": "Andes Mountains",
+      "explanation": "The Andes stretch about 7,000 km along the western edge of South America through seven countries, making them the longest continental mountain range. Rocky Mountains is wrong because they extend about 4,800 km through western North America. Ural Mountains is wrong because they are only about 2,500 km long and separate Europe from Asia. Great Dividing Range is wrong because it runs about 3,500 km along eastern Australia."
+    },
+    {
+      "id": "4",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Mediterranean Sea is connected to the Atlantic Ocean through the Strait of Gibraltar.\nReason (R): The Strait of Gibraltar is a narrow waterway between the southern tip of Spain and the northern coast of Morocco.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are factually correct. The Mediterranean Sea connects to the Atlantic Ocean via the Strait of Gibraltar, which is indeed a narrow waterway (about 14 km at its narrowest) between Spain (Europe) and Morocco (Africa). The geographical description in (R) directly explains how this connection is possible, making (R) the correct explanation of (A). Option 2 is wrong because (R) does explain (A) by describing the strait that forms the connection. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Which of the following are examples of convergent plate boundaries?\n\n(i) The Himalayan mountain range\n(ii) The Mid-Atlantic Ridge\n(iii) The Andes mountain chain\n(iv) The Mariana Trench\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) The Himalayas formed from continental-continental convergence (Indian and Eurasian plates) - correct. (ii) The Mid-Atlantic Ridge is a divergent boundary where plates move apart - not convergent. (iii) The Andes formed from oceanic-continental convergence (Nazca and South American plates) - correct. (iv) The Mariana Trench formed from oceanic-oceanic convergence (Pacific plate subducting under Philippine plate) - correct. Option (i),(ii) and (iii) is wrong because (ii) is divergent. Option (ii),(iii) and (iv) is wrong because (ii) is divergent. Option (i),(ii) and (iv) is wrong because (ii) is divergent."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "The Strait of Malacca, one of the busiest shipping lanes in the world, connects the Indian Ocean with the:",
+      "options": [
+        "East China Sea",
+        "Philippine Sea",
+        "Java Sea",
+        "South China Sea"
+      ],
+      "correctAnswer": "South China Sea",
+      "explanation": "The Strait of Malacca lies between the Malay Peninsula and the Indonesian island of Sumatra, connecting the Andaman Sea (Indian Ocean) with the South China Sea (Pacific side). East China Sea is wrong because it lies further north between China and Japan. Philippine Sea is wrong because it is located east of the Philippines. Java Sea is wrong because it lies south of Borneo and is connected via different straits."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Match the following types of rocks with their correct formation process:\n\nColumn I:\n(a) Granite\n(b) Sandstone\n(c) Marble\n(d) Obsidian\n\nColumn II:\n(i) Formed by rapid cooling of lava on the Earth's surface\n(ii) Formed by slow cooling of magma deep underground\n(iii) Formed by metamorphism of limestone under heat and pressure\n(iv) Formed by compaction and cementation of sand particles\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Granite is an intrusive igneous rock formed by slow cooling of magma deep underground (ii). Sandstone is a sedimentary rock formed by compaction and cementation of sand particles (iv). Marble is a metamorphic rock formed from limestone under heat and pressure (iii). Obsidian is an extrusive igneous rock formed by rapid cooling of lava on the surface (i). Option 2 is wrong because granite cools slowly underground, not rapidly on the surface. Option 3 is wrong because sandstone is sedimentary (not metamorphic) and marble is metamorphic (not sedimentary). Option 4 is wrong because it completely mismatches all rock types with their processes."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The Tropic of Capricorn passes through which of the following continents?",
+      "options": [
+        "Europe and Asia",
+        "South America, Africa and Australia",
+        "North America, Africa and Asia",
+        "South America, Europe and Australia"
+      ],
+      "correctAnswer": "South America, Africa and Australia",
+      "explanation": "The Tropic of Capricorn (23.5 degrees South latitude) passes through South America (Chile, Argentina, Brazil), Africa (Namibia, Botswana, South Africa, Mozambique, Madagascar), and Australia. Europe and Asia is wrong because they lie entirely in the Northern Hemisphere relative to this tropic. North America, Africa and Asia is wrong because the Tropic of Cancer (not Capricorn) passes through parts of North America and Asia. South America, Europe and Australia is wrong because Europe lies too far north to be crossed by the Tropic of Capricorn."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Consider the following statements about ocean currents:\n\n(i) The Gulf Stream is a warm current that flows from the Gulf of Mexico towards Western Europe.\n(ii) The Humboldt Current is a cold current that flows along the western coast of South America.\n(iii) The Benguela Current is a warm current that flows along the western coast of Africa.\n(iv) The Canary Current is a cold current that flows along the northwestern coast of Africa.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: the Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic toward northwest Europe. (ii) is correct: the Humboldt (Peru) Current is a cold current flowing northward along South America west coast. (iii) is wrong: the Benguela Current is a COLD current (not warm) flowing northward along southwestern Africa. (iv) is correct: the Canary Current is a cold current flowing southward along northwestern Africa. Option (i),(ii) and (iii) is wrong because (iii) incorrectly labels the Benguela as warm. Option (ii),(iii) and (iv) is wrong because (iii) is incorrect. Option (i),(iii) and (iv) is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Amazon Basin contains the largest tropical rainforest in the world.\nReason (R): The Amazon River is the longest river in the world.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct: the Amazon Basin does contain the largest tropical rainforest in the world. Reason (R) is NOT correct: the Amazon is the largest river by discharge volume but the Nile is generally considered the longest river in the world (approximately 6,650 km vs Amazon at 6,400 km). Since (R) is factually incorrect, it cannot explain (A). Option 1 is wrong because (R) is not factually correct. Option 2 is wrong because (R) is not correct (Amazon is not the longest). Option 4 is wrong because (A) is factually correct about the Amazon rainforest being the largest."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "The Panama Canal connects the Atlantic Ocean with the:",
+      "options": [
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Southern Ocean"
+      ],
+      "correctAnswer": "Pacific Ocean",
+      "explanation": "The Panama Canal, completed in 1914, cuts through the Isthmus of Panama in Central America and connects the Atlantic Ocean to the Pacific Ocean, greatly reducing shipping distances. Indian Ocean is wrong because it lies on the eastern side of Africa, far from Panama. Arctic Ocean is wrong because it lies in the polar north and has no proximity to Central America. Southern Ocean is wrong because it surrounds Antarctica, far south of Panama."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Consider the following statements about the major deserts of the world:\n\n(i) The Gobi Desert is a cold desert located in Mongolia and northern China.\n(ii) The Kalahari Desert occupies parts of Botswana, Namibia and South Africa.\n(iii) The Patagonian Desert is located in southern Argentina and is classified as a cold desert.\n(iv) The Arabian Desert is the largest desert in the world by area.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: the Gobi Desert spans parts of Mongolia and northern China and experiences very cold winters, classifying it as a cold desert. (ii) is correct: the Kalahari extends across Botswana, Namibia, and parts of South Africa. (iii) is correct: the Patagonian (Argentine) Desert in southern Argentina is a cold desert due to the rain shadow of the Andes. (iv) is wrong: the Arabian Desert (about 2.3 million sq km) is NOT the largest; the Sahara (about 9.2 million sq km) is the largest hot desert. Option (i),(ii) and (iv) is wrong because (iv) is incorrect. Option (ii),(iii) and (iv) is wrong because (iv) is incorrect. Option (i),(iii) and (iv) is wrong because (iv) is incorrect."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Match the following rivers with the seas or water bodies into which they drain:\n\nColumn I:\n(a) Volga\n(b) Yangtze\n(c) Danube\n(d) Mississippi\n\nColumn II:\n(i) Black Sea\n(ii) Gulf of Mexico\n(iii) Caspian Sea\n(iv) East China Sea\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The Volga is the longest river in Europe and drains into the Caspian Sea (iii). The Yangtze (Chang Jiang) is the longest river in Asia and drains into the East China Sea (iv). The Danube flows through central and southeastern Europe and drains into the Black Sea (i). The Mississippi is the chief river of North America and drains into the Gulf of Mexico (ii). Option 2 is wrong because the Volga drains into the Caspian Sea, not the Black Sea. Option 3 is wrong because the Yangtze drains into the East China Sea, not the Gulf of Mexico. Option 4 is wrong because the Volga drains into the Caspian, not the East China Sea."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Which of the following are characteristics of the Tundra biome?\n\n(i) Permafrost exists beneath the surface for most of the year\n(ii) Tall deciduous trees form dense canopies\n(iii) Short growing season lasting only 6 to 10 weeks\n(iv) Lichens, mosses and small shrubs are the dominant vegetation\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct: permafrost (permanently frozen ground) is a defining feature of tundra regions. (ii) is wrong: tundra lacks tall trees because of the harsh climate, permafrost, and short growing season; tall deciduous trees characterize temperate forests. (iii) is correct: the growing season in tundra is extremely short, typically 6-10 weeks. (iv) is correct: tundra vegetation consists mainly of lichens, mosses, sedges, and low shrubs. Option (i),(ii) and (iii) is wrong because (ii) is incorrect. Option (ii),(iii) and (iv) is wrong because (ii) is incorrect. Option (i),(ii) and (iv) is wrong because (ii) is incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "B",
+      "questionText": "The Fjords, narrow deep inlets of the sea between high cliffs, are characteristic landforms found primarily in:",
+      "options": [
+        "Egypt and Saudi Arabia",
+        "Brazil and Argentina",
+        "India and Thailand",
+        "Norway and New Zealand"
+      ],
+      "correctAnswer": "Norway and New Zealand",
+      "explanation": "Fjords are created by glacial erosion when glaciers carve deep U-shaped valleys that later fill with seawater. They are found in Norway (which has the most famous fjords), New Zealand (Milford Sound), Chile, and western Canada. Egypt and Saudi Arabia is wrong because these are arid desert regions with no glacial history. Brazil and Argentina is wrong because their coastlines were not shaped by glacial fjord formation (except small sections of southernmost Patagonia). India and Thailand is wrong because these tropical/subtropical regions lack the glacial history needed for fjord formation."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Sahel region of Africa is highly susceptible to desertification.\nReason (R): The Sahel receives heavy monsoon rainfall throughout the year similar to equatorial regions.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct: the Sahel is indeed highly susceptible to desertification due to its semi-arid transitional nature between the Sahara and wetter savannas. Reason (R) is NOT correct: the Sahel does NOT receive heavy rainfall throughout the year; it receives marginal rainfall (200-600 mm/year) with a long dry season, which is precisely why it is vulnerable to desertification. Option 1 is wrong because (R) is factually incorrect. Option 2 is wrong because (R) is not correct. Option 4 is wrong because (A) is factually correct about desertification vulnerability."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The phenomenon of \"Midnight Sun\" is observed in regions located:",
+      "options": [
+        "Along the equator throughout the year",
+        "Within the Arctic and Antarctic Circles during summer",
+        "At the Tropic of Cancer during winter solstice",
+        "In the temperate zones during the equinox"
+      ],
+      "correctAnswer": "Within the Arctic and Antarctic Circles during summer",
+      "explanation": "The Midnight Sun occurs when the sun remains visible at midnight due to the axial tilt of the Earth. This happens in regions within the Arctic Circle (66.5 degrees N) during northern summer and within the Antarctic Circle (66.5 degrees S) during southern summer. Along the equator is wrong because equatorial regions experience roughly equal day and night throughout the year. At the Tropic of Cancer during winter solstice is wrong because even at the tropics, the sun sets each day. In the temperate zones during the equinox is wrong because at equinox, all places on Earth have approximately 12 hours of day and night."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "The Congo River in Africa flows into the:",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Mediterranean Sea",
+        "Red Sea"
+      ],
+      "correctAnswer": "Atlantic Ocean",
+      "explanation": "The Congo River (also called the Zaire River) is the second-longest river in Africa and flows westward through the Democratic Republic of Congo before emptying into the Atlantic Ocean on Africa's west coast. Mediterranean Sea is wrong because the Nile (not Congo) flows into the Mediterranean. Indian Ocean is wrong because rivers like the Zambezi drain into the Indian Ocean on Africa's east coast. Red Sea is wrong because no major African river system drains into the Red Sea."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Consider the following statements about earthquakes:\n\n(i) The point on the Earth's surface directly above the focus of an earthquake is called the epicentre.\n(ii) The Richter scale measures the intensity of damage caused by an earthquake.\n(iii) Surface waves (L-waves) are generally the most destructive seismic waves.\n(iv) The Pacific Ring of Fire accounts for approximately 75% of the world's active volcanoes.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct: the epicentre is the surface point directly above the focus (hypocenter). (ii) is wrong: the Richter scale measures the MAGNITUDE (energy released) of an earthquake, not the intensity of damage; the Modified Mercalli scale measures intensity. (iii) is correct: surface waves (L-waves/Love and Rayleigh waves) travel along the surface and cause the most destruction. (iv) is correct: approximately 75% of the world's active volcanoes are located along the Ring of Fire. Option (i) and (ii) is wrong because (ii) is incorrect about what Richter measures. Option (ii),(iii) and (iv) is wrong because (ii) is incorrect. Option (i),(ii),(iii) and (iv) is wrong because (ii) is incorrect."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "The Strait of Hormuz is strategically important because it connects:",
+      "options": [
+        "The Red Sea and the Mediterranean Sea",
+        "The Persian Gulf and the Gulf of Oman",
+        "The Black Sea and the Mediterranean Sea",
+        "The Caspian Sea and the Arabian Sea"
+      ],
+      "correctAnswer": "The Persian Gulf and the Gulf of Oman",
+      "explanation": "The Strait of Hormuz lies between Iran and the Arabian Peninsula (Oman/UAE) and connects the Persian Gulf to the Gulf of Oman (leading to the Arabian Sea). It is one of the world's most strategically important chokepoints for oil transportation. The Red Sea and the Mediterranean Sea is wrong because these are connected by the Suez Canal. The Black Sea and the Mediterranean Sea is wrong because these are connected by the Turkish Straits (Bosphorus and Dardanelles). The Caspian Sea and the Arabian Sea is wrong because the Caspian Sea is landlocked and has no strait connection to any ocean."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "The __________ is the longest river in Africa, flowing northward through eleven countries before emptying into the Mediterranean Sea.",
+      "options": [
+        "Congo River",
+        "Niger River",
+        "Zambezi River",
+        "Nile River"
+      ],
+      "correctAnswer": "Nile River",
+      "explanation": "The Nile River, approximately 6,650 km long, is the longest river in Africa (and often considered the longest in the world). It flows northward through countries including Uganda, South Sudan, Sudan, and Egypt before draining into the Mediterranean Sea. Congo River is wrong because it is the second-longest in Africa (about 4,700 km) and flows westward into the Atlantic. Niger River is wrong because it is the third-longest in Africa and flows into the Gulf of Guinea (Atlantic). Zambezi River is wrong because it flows eastward into the Indian Ocean and is the fourth-longest in Africa."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Match the following climate types with their characteristic features:\n\nColumn I:\n(a) Equatorial climate\n(b) Steppe climate\n(c) Tundra climate\n(d) Mediterranean climate\n\nColumn II:\n(i) Dry summers and mild, wet winters\n(ii) High temperatures and rainfall throughout the year\n(iii) Semi-arid with low and unreliable rainfall\n(iv) Extremely cold with very short summers\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Equatorial climate (a) has uniformly high temperatures and heavy rainfall year-round due to convection (ii). Steppe climate (b) is semi-arid with low, unreliable rainfall, found in continental interiors (iii). Tundra climate (c) is extremely cold with very brief, cool summers and permafrost (iv). Mediterranean climate (d) has hot, dry summers and mild, wet winters (i). Option 2 is wrong because it swaps steppe and tundra descriptions. Option 3 is wrong because equatorial climate is not semi-arid. Option 4 is wrong because it swaps tundra and Mediterranean descriptions."
+    },
+    {
+      "id": "23",
+      "subject": "B",
+      "questionText": "Which of the following are landlocked countries?\n\n(i) Mongolia\n(ii) Kazakhstan\n(iii) Vietnam\n(iv) Bolivia\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) Mongolia is landlocked, bordered by Russia and China with no sea coast. (ii) Kazakhstan is landlocked (the Caspian Sea is a lake, not an ocean), surrounded by Russia, China, Kyrgyzstan, Uzbekistan, and Turkmenistan. (iii) Vietnam is NOT landlocked; it has a long coastline along the South China Sea. (iv) Bolivia is landlocked in South America, bordered by Peru, Brazil, Paraguay, Argentina, and Chile. Option (i),(iii) and (iv) is wrong because Vietnam has a coastline. Option (ii),(iii) and (iv) is wrong because Vietnam has a coastline. Option (i),(ii) and (iii) is wrong because Vietnam is not landlocked."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Atacama Desert in South America receives more rainfall than the Thar Desert in India.\nReason (R): Cold ocean currents along western coasts of continents in tropical latitudes contribute to coastal aridity.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "Assertion (A) is NOT correct: the Atacama Desert is one of the driest places on Earth (some areas receive less than 1 mm of rain per year), while the Thar Desert receives 100-500 mm annually - so the Atacama receives far LESS rainfall than the Thar. Reason (R) IS correct: cold ocean currents like the Humboldt Current (South America) and Benguela Current (Africa) do contribute significantly to coastal aridity by cooling air and preventing moisture uplift. Option 1 is wrong because (A) is factually incorrect. Option 2 is wrong because (A) is not correct. Option 3 is wrong because (R) is factually correct about cold currents causing aridity."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Lake Baikal, the deepest freshwater lake in the world, is located in:",
+      "options": [
+        "Canada",
+        "Russia",
+        "China",
+        "Kazakhstan"
+      ],
+      "correctAnswer": "Russia",
+      "explanation": "Lake Baikal is located in southern Siberia, Russia. It is the deepest lake in the world (over 1,600 m deep) and contains about 20% of the world's unfrozen freshwater. Canada is wrong because its deepest lake is Great Slave Lake, which is much shallower than Baikal. China is wrong because its largest lake is Qinghai Lake, which is saline and relatively shallow. Kazakhstan is wrong because its notable water body is the Aral Sea (now largely dried up), which is different from Baikal."
+    },
+    {
+      "id": "26",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Prime Meridian and International Date Line:\n\n(i) The Prime Meridian passes through Greenwich, London and defines 0 degrees longitude.\n(ii) The International Date Line roughly follows the 180 degrees meridian.\n(iii) When crossing the International Date Line from west to east, the calendar date advances by one day.\n(iv) The Prime Meridian divides the Earth into the Eastern and Western Hemispheres.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: the Prime Meridian (0 degrees longitude) passes through the Royal Observatory, Greenwich, London. (ii) is correct: the International Date Line approximately follows the 180 degrees meridian with deviations to avoid splitting countries. (iii) is wrong: when crossing the IDL from west to east, one LOSES a day (goes back one day), not gains. When crossing east to west, one gains a day. (iv) is correct: the Prime Meridian and 180 degree meridian together divide Earth into Eastern and Western Hemispheres. Option (i),(iii) and (iv) is wrong because (iii) incorrectly describes the date change direction. Option (ii),(iii) and (iv) is wrong because (iii) is incorrect. Option (i),(ii),(iii) and (iv) is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The Pampas grasslands, known for extensive cattle ranching and wheat cultivation, are located in:",
+      "options": [
+        "Southern Australia",
+        "Central United States",
+        "Southern South America",
+        "Southern Africa"
+      ],
+      "correctAnswer": "Southern South America",
+      "explanation": "The Pampas are vast fertile lowland grasslands in South America, primarily covering Argentina and extending into Uruguay and southern Brazil. They are renowned for cattle ranching and cereal farming. Southern Australia is wrong because Australian grasslands are called the \"Downs.\" Central United States is wrong because the North American grasslands are called \"Prairies.\" Southern Africa is wrong because the South African grassland is called \"Veld.\""
+    },
+    {
+      "id": "28",
+      "subject": "B",
+      "questionText": "The following data represents the approximate percentage share of major oceans in the total oceanic area of the world:\n\nOcean | Percentage of Total Ocean Area\nPacific Ocean | 46%\nAtlantic Ocean | 23%\nIndian Ocean | 20%\nSouthern Ocean | 6%\nArctic Ocean | 5%\n\nBased on the data above, which of the following statements is correct?",
+      "options": [
+        "The Atlantic Ocean is more than twice the size of the Indian Ocean",
+        "The Pacific Ocean alone is larger than all other oceans combined",
+        "The Southern and Arctic Oceans together exceed the Indian Ocean in area",
+        "The combined area of the Indian and Atlantic Oceans is less than the Pacific Ocean"
+      ],
+      "correctAnswer": "The combined area of the Indian and Atlantic Oceans is less than the Pacific Ocean",
+      "explanation": "The combined percentage of the Indian Ocean (20%) and Atlantic Ocean (23%) is 43%, which is less than the Pacific Ocean's 46%. Option 1 is wrong because the Atlantic (23%) is only slightly larger than the Indian (20%), not more than twice. Option 2 is wrong because all other oceans combined (23+20+6+5=54%) exceed the Pacific (46%). Option 3 is wrong because the Southern and Arctic together (6+5=11%) are far less than the Indian Ocean (20%)."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The Sargasso Sea is unique among the world's seas because it:",
+      "options": [
+        "Is the shallowest sea in the world",
+        "Has no land boundaries and is defined only by ocean currents",
+        "Is completely frozen throughout the year",
+        "Is the only sea that contains no marine life"
+      ],
+      "correctAnswer": "Has no land boundaries and is defined only by ocean currents",
+      "explanation": "The Sargasso Sea in the North Atlantic is the only sea with no coastline or land boundaries. It is bounded entirely by four ocean currents: the Gulf Stream (west), North Atlantic Current (north), Canary Current (east), and North Atlantic Equatorial Current (south). It is named for the Sargassum seaweed floating on its surface. It is not the shallowest sea is wrong because it is actually quite deep (up to 7,000 m). Completely frozen is wrong because it lies in subtropical latitudes. No marine life is wrong because it supports diverse marine life including eels and sea turtles."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Match the following world mountain peaks with their respective mountain ranges:\n\nColumn I:\n(a) Mont Blanc\n(b) Mount McKinley (Denali)\n(c) Mount Aconcagua\n(d) Mount Elbrus\n\nColumn II:\n(i) Andes\n(ii) Caucasus\n(iii) Alaska Range\n(iv) Alps\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "Mont Blanc is the highest peak in the Alps (iv), located on the France-Italy border. Mount McKinley (Denali) is the highest peak in North America, located in the Alaska Range (iii). Mount Aconcagua is the highest peak in South America, located in the Andes (i). Mount Elbrus is the highest peak in Europe (by some definitions), located in the Caucasus Mountains (ii). Option 2 is wrong because McKinley is in Alaska Range not Andes. Option 3 is wrong because Mont Blanc is in the Alps not Caucasus. Option 4 is wrong because Aconcagua is in the Andes not Caucasus."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The Tibetan Plateau, often called the \"Roof of the World,\" has an average elevation of approximately:",
+      "options": [
+        "2,500 metres above sea level",
+        "3,500 metres above sea level",
+        "4,500 metres above sea level",
+        "5,500 metres above sea level"
+      ],
+      "correctAnswer": "4,500 metres above sea level",
+      "explanation": "The Tibetan Plateau, the highest and largest plateau in the world, has an average elevation exceeding 4,500 metres above sea level. It covers about 2.5 million sq km across Tibet, Qinghai, and parts of adjacent regions. 2,500 metres is wrong because that is closer to the average altitude of moderate-elevation plateaus like parts of the Mexican Plateau. 3,500 metres is wrong because while some lower edges of Tibet approach this, the average is significantly higher. 5,500 metres is wrong because while some peaks on the plateau exceed this, the average surface elevation is about 4,500 m."
+    },
+    {
+      "id": "32",
+      "subject": "B",
+      "questionText": "The Strait of Dover separates:",
+      "options": [
+        "Spain from Morocco",
+        "Italy from Sicily",
+        "Denmark from Sweden",
+        "England from France"
+      ],
+      "correctAnswer": "England from France",
+      "explanation": "The Strait of Dover (also called Pas de Calais by the French) is the narrowest part of the English Channel, separating England (UK) from France at only about 34 km wide. Spain from Morocco is wrong because that is the Strait of Gibraltar. Italy from Sicily is wrong because that is the Strait of Messina. Denmark from Sweden is wrong because the strait between them includes the Oresund (Sound) strait."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Which of the following are features of the Continental Shelf?\n\n(i) It extends from the coast to a depth of approximately 200 metres\n(ii) It is the most productive zone for marine fisheries\n(iii) It typically has a steep gradient similar to the continental slope\n(iv) Major petroleum and natural gas deposits are found here\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: the continental shelf extends from the shoreline to about 200 metres depth. (ii) is correct: sunlight penetration and nutrient availability make the shelf the most productive fishing zone. (iii) is wrong: the continental shelf has a GENTLE gradient (nearly flat, averaging 1 degree); it is the continental SLOPE that has a steep gradient. (iv) is correct: most offshore petroleum and gas deposits are found on continental shelves. Option (i),(iii) and (iv) is wrong because (iii) is incorrect about gradient. Option (ii),(iii) and (iv) is wrong because (iii) is incorrect. Option (i),(ii),(iii) and (iv) is wrong because (iii) is incorrect."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "The Coriolis Effect causes winds in the Northern Hemisphere to be deflected:",
+      "options": [
+        "To the left of their direction of motion",
+        "Towards the equator at all times",
+        "To the right of their direction of motion",
+        "Straight upward due to convection"
+      ],
+      "correctAnswer": "To the right of their direction of motion",
+      "explanation": "The Coriolis Effect, caused by Earth's rotation, deflects moving objects (including winds) to the RIGHT in the Northern Hemisphere and to the left in the Southern Hemisphere. To the left is wrong because that applies to the Southern Hemisphere, not the Northern. Towards the equator is wrong because the Coriolis force deflects laterally, not necessarily toward or away from the equator. Straight upward due to convection is wrong because the Coriolis Effect is a horizontal deflection caused by Earth's rotation, not a vertical force related to convection."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "The following data shows the length (approximate) of selected rivers:\n\nRiver | Length (km)\nNile | 6,650\nAmazon | 6,400\nYangtze | 6,300\nMississippi-Missouri | 6,275\nYenisei | 5,539\n\nBased on the data above, which of the following inferences is correct?",
+      "options": [
+        "The Amazon is longer than the Yangtze and Mississippi-Missouri combined",
+        "The difference between the longest and shortest rivers listed is more than 1,500 km",
+        "The Yangtze is approximately 95% of the length of the Nile",
+        "The three longest rivers listed are all in the same continent"
+      ],
+      "correctAnswer": "The Yangtze is approximately 95% of the length of the Nile",
+      "explanation": "The Yangtze (6,300 km) as a percentage of the Nile (6,650 km) is 6,300/6,650 = 0.9474, which is approximately 95%. Option 1 (Amazon longer than Yangtze + Mississippi-Missouri combined) is wrong because the Amazon (6,400) is far less than Yangtze + Mississippi (6,300 + 6,275 = 12,575). Option 2 (difference > 1,500 km) is wrong because 6,650 - 5,539 = 1,111 km, which is less than 1,500 km. Option 3 (three longest in same continent) is wrong because the Nile is in Africa, Amazon in South America, and Yangtze in Asia - all different continents."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The Victoria Falls, one of the largest waterfalls in the world, is located on the border between:",
+      "options": [
+        "Zambia and Zimbabwe",
+        "Tanzania and Kenya",
+        "Ethiopia and Sudan",
+        "Uganda and Democratic Republic of Congo"
+      ],
+      "correctAnswer": "Zambia and Zimbabwe",
+      "explanation": "Victoria Falls is located on the Zambezi River at the border between Zambia and Zimbabwe in southern Africa. It is one of the Seven Natural Wonders of the World and locally known as \"Mosi-oa-Tunya\" (The Smoke That Thunders). Tanzania and Kenya is wrong because their shared feature is Mount Kilimanjaro, not Victoria Falls. Ethiopia and Sudan is wrong because the Blue Nile Falls (Tis Issat) is in Ethiopia alone. Uganda and DRC is wrong because their shared waterfall is Murchison Falls on the Nile, not Victoria Falls."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The Taiga (Boreal) forest biome, the largest terrestrial biome in the world, is found primarily in which latitudinal belt?",
+      "options": [
+        "0 to 15 degrees North and South",
+        "15 to 30 degrees North and South",
+        "50 to 70 degrees North latitude",
+        "70 to 90 degrees North latitude"
+      ],
+      "correctAnswer": "50 to 70 degrees North latitude",
+      "explanation": "The Taiga (Boreal forest) stretches across sub-Arctic regions between approximately 50 to 70 degrees North latitude, covering vast areas of Russia, Canada, and Scandinavia. It is dominated by coniferous trees like spruce, pine, and fir. 0-15 degrees is wrong because tropical rainforests and savannas occupy equatorial latitudes. 15-30 degrees is wrong because subtropical deserts and steppes are found in these latitudes. 70-90 degrees is wrong because tundra and polar ice caps occupy these high latitudes where trees cannot grow."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "The Great Rift Valley of East Africa was formed primarily by:",
+      "options": [
+        "Tensional forces causing the crust to pull apart",
+        "Folding of crustal rocks due to compressive forces",
+        "Volcanic eruption and subsequent collapse of land",
+        "Glacial erosion over millions of years"
+      ],
+      "correctAnswer": "Tensional forces causing the crust to pull apart",
+      "explanation": "The East African Rift Valley is a continental rift zone formed by divergent tectonic forces (tensional/extensional) pulling the African plate apart. This creates a graben (down-dropped block between parallel faults). Folding of crustal rocks is wrong because folding creates mountains (like the Himalayas), not rift valleys; folding involves compression, not tension. Volcanic eruption and collapse is wrong because while volcanoes exist along the rift (e.g., Kilimanjaro, Mount Kenya), they are a result of rifting, not the primary cause of the valley. Glacial erosion is wrong because glaciers create U-shaped valleys, not linear continental rift systems."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "Consider the following statements about the world's time zones:\n\n(i) The Earth is divided into 24 standard time zones, each covering 15 degrees of longitude.\n(ii) India maintains a single time zone with a standard meridian at 82.5 degrees East.\n(iii) Russia spans the maximum number of time zones of any country, with 11 time zones.\n(iv) China, despite its large size, operates on a single national time zone.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct: the Earth rotates 360 degrees in 24 hours, so 360/24 = 15 degrees per time zone. (ii) is correct: India uses Indian Standard Time (IST) based on the 82.5 degrees East meridian (UTC+5:30), a single zone for the entire country. (iii) is correct: Russia spans 11 time zones, the most of any country, from Kaliningrad (UTC+2) to Kamchatka (UTC+12). (iv) is correct: China uses Beijing Time (UTC+8) throughout the country despite spanning about 62 degrees of longitude. Option (i),(ii) and (iii) is wrong because (iv) is also correct. Option (i),(iii) and (iv) is wrong because (ii) is also correct. Option (ii),(iii) and (iv) is wrong because (i) is also correct."
+    },
+    {
+      "id": "40",
+      "subject": "B",
+      "questionText": "The Isthmus of Suez connects the continents of:",
+      "options": [
+        "Africa and Asia",
+        "Europe and Asia",
+        "North America and South America",
+        "Asia and Australia"
+      ],
+      "correctAnswer": "Africa and Asia",
+      "explanation": "The Isthmus of Suez is the narrow strip of land in Egypt that connects Africa to Asia (the Sinai Peninsula). The Suez Canal was built through this isthmus to connect the Mediterranean Sea and the Red Sea. Europe and Asia is wrong because the boundary between Europe and Asia is along the Ural Mountains, Caspian Sea, and Caucasus, not an isthmus. North America and South America is wrong because the Isthmus of Panama connects those two continents. Asia and Australia is wrong because no land bridge connects them; they are separated by the seas of Southeast Asia."
+    }
+  ]
+}

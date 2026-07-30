@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 759,
+  "count": 799,
   "questions": [
     {
       "test": 2,
@@ -3797,6 +3797,206 @@
       "test": 79,
       "stem": "humayun's tomb at delhi is significant in the history of indian architecture",
       "key": "was the first substantial garden tomb built on the charbagh plan in India"
+    },
+    {
+      "test": 83,
+      "stem": "the atacama desert, one of the driest places on earth, is located",
+      "key": "South America"
+    },
+    {
+      "test": 83,
+      "stem": "consider the following statements about the layers of the earth: (i) the",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 83,
+      "stem": "the __________ is the longest mountain range in the world, stretching approximately",
+      "key": "Andes Mountains"
+    },
+    {
+      "test": 83,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 83,
+      "stem": "which of the following are examples of convergent plate boundaries? (i) the",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "the strait of malacca, one of the busiest shipping lanes in the",
+      "key": "South China Sea"
+    },
+    {
+      "test": 83,
+      "stem": "match the following types of rocks with their correct formation process: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 83,
+      "stem": "the tropic of capricorn passes through which of the following continents?",
+      "key": "South America, Africa and Australia"
+    },
+    {
+      "test": 83,
+      "stem": "consider the following statements about ocean currents: (i) the gulf stream is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 83,
+      "stem": "the panama canal connects the atlantic ocean with the:",
+      "key": "Pacific Ocean"
+    },
+    {
+      "test": 83,
+      "stem": "consider the following statements about the major deserts of the world: (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 83,
+      "stem": "match the following rivers with the seas or water bodies into which",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 83,
+      "stem": "which of the following are characteristics of the tundra biome? (i) permafrost",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "the fjords, narrow deep inlets of the sea between high cliffs, are",
+      "key": "Norway and New Zealand"
+    },
+    {
+      "test": 83,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 83,
+      "stem": "the phenomenon of \"midnight sun\" is observed in regions located:",
+      "key": "Within the Arctic and Antarctic Circles during summer"
+    },
+    {
+      "test": 83,
+      "stem": "the congo river in africa flows into the:",
+      "key": "Atlantic Ocean"
+    },
+    {
+      "test": 83,
+      "stem": "consider the following statements about earthquakes: (i) the point on the earth's",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "the strait of hormuz is strategically important because it connects:",
+      "key": "The Persian Gulf and the Gulf of Oman"
+    },
+    {
+      "test": 83,
+      "stem": "the __________ is the longest river in africa, flowing northward through eleven",
+      "key": "Nile River"
+    },
+    {
+      "test": 83,
+      "stem": "match the following climate types with their characteristic features: column i: (a)",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 83,
+      "stem": "which of the following are landlocked countries? (i) mongolia (ii) kazakhstan (iii)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 83,
+      "stem": "lake baikal, the deepest freshwater lake in the world, is located in:",
+      "key": "Russia"
+    },
+    {
+      "test": 83,
+      "stem": "consider the following statements about the prime meridian and international date line:",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "the pampas grasslands, known for extensive cattle ranching and wheat cultivation, are",
+      "key": "Southern South America"
+    },
+    {
+      "test": 83,
+      "stem": "the following data represents the approximate percentage share of major oceans in",
+      "key": "The combined area of the Indian and Atlantic Oceans is less than the Pacific ..."
+    },
+    {
+      "test": 83,
+      "stem": "the sargasso sea is unique among the world's seas because it:",
+      "key": "Has no land boundaries and is defined only by ocean currents"
+    },
+    {
+      "test": 83,
+      "stem": "match the following world mountain peaks with their respective mountain ranges: column",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 83,
+      "stem": "the tibetan plateau, often called the \"roof of the world,\" has an",
+      "key": "4,500 metres above sea level"
+    },
+    {
+      "test": 83,
+      "stem": "the strait of dover separates:",
+      "key": "England from France"
+    },
+    {
+      "test": 83,
+      "stem": "which of the following are features of the continental shelf? (i) it",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 83,
+      "stem": "the coriolis effect causes winds in the northern hemisphere to be deflected:",
+      "key": "To the right of their direction of motion"
+    },
+    {
+      "test": 83,
+      "stem": "the following data shows the length (approximate) of selected rivers: river |",
+      "key": "The Yangtze is approximately 95% of the length of the Nile"
+    },
+    {
+      "test": 83,
+      "stem": "the victoria falls, one of the largest waterfalls in the world, is",
+      "key": "Zambia and Zimbabwe"
+    },
+    {
+      "test": 83,
+      "stem": "the taiga (boreal) forest biome, the largest terrestrial biome in the world,",
+      "key": "50 to 70 degrees North latitude"
+    },
+    {
+      "test": 83,
+      "stem": "the great rift valley of east africa was formed primarily by:",
+      "key": "Tensional forces causing the crust to pull apart"
+    },
+    {
+      "test": 83,
+      "stem": "consider the following statements about the world's time zones: (i) the earth",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 83,
+      "stem": "the isthmus of suez connects the continents of:",
+      "key": "Africa and Asia"
     }
   ]
 }
