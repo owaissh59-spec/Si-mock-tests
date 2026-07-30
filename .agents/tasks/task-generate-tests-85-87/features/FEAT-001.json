@@ -1,0 +1,26 @@
+{
+  "id": "FEAT-001",
+  "type": "feat",
+  "description": "Generate test 85: Subject C (Quantitative Aptitude), Topic: Compound Interest, 30 questions, difficulty_profile: standard. Save to mock-tests/tests/85_test_C_compound-interest.json. Then run python3 mock-tests/_record_test.py 85.",
+  "status": "in_progress",
+  "steps": [
+    "Read mock-tests/history/C.json to identify all existing Compound Interest questions (from test 40 and any revision tests) to avoid duplicates.",
+    "Generate 30 questions on Compound Interest following the steering prompt rules: type distribution for 30Q is Single Correct MCQ: 12, Statement-based: 5, Assertion-Reason: 3, Matching: 3, Multiple Correct Combination: 3, Fill in the Blank: 1, Numerical Value: 1, Data Interpretation: 2. Difficulty distribution for 'standard': Easy 25%, Medium 40%, Hard 25%, Very Hard 10%. Intersperse types randomly.",
+    "Ensure all questions follow the exact JSON schema from Section 5 of the steering prompt. Every explanation must explain why correct AND why each wrong option is wrong.",
+    "Ensure no question stem duplicates or near-duplicates any existing entry in history/C.json (especially test 40 which was also Compound Interest).",
+    "Save the generated JSON to mock-tests/tests/85_test_C_compound-interest.json.",
+    "Run: python3 mock-tests/_record_test.py 85 from the repo root to update history, config, manifest, and STUDY_PLAN.md."
+  ],
+  "acceptance_criteria": [
+    "File mock-tests/tests/85_test_C_compound-interest.json exists with valid JSON containing exactly 30 questions",
+    "All question types match the 30Q count table distribution",
+    "No question stem duplicates any entry in history/C.json",
+    "python3 mock-tests/_record_test.py 85 runs successfully",
+    "config.json shows next_test: 86 after recording"
+  ],
+  "verification": [
+    "python3 mock-tests/_record_test.py 85"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}
