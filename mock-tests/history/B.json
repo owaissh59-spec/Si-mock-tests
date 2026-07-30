@@ -1,7 +1,7 @@
 {
   "subject": "B",
   "subject_name": "General Awareness",
-  "count": 799,
+  "count": 812,
   "questions": [
     {
       "test": 2,
@@ -3997,6 +3997,71 @@
       "test": 83,
       "stem": "the isthmus of suez connects the continents of:",
       "key": "Africa and Asia"
+    },
+    {
+      "test": 84,
+      "stem": "the coriolis effect causes moving objects (including wind) to deflect to the",
+      "key": "Large-scale air masses moving over long distances"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about the earth's atmosphere: (i) the troposphere is",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following are correctly matched regarding recent scientific research achievements?",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 84,
+      "stem": "match the following geographical features with their locations: column i: (a) mariana",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following sports events is correctly matched with its venue",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "the phenomenon where ocean water at the surface becomes unusually warm in",
+      "key": "El Nino"
+    },
+    {
+      "test": 84,
+      "stem": "the __________ is the boundary between the earth's crust and the mantle,",
+      "key": "Mohorovicic Discontinuity"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following statements about newton's laws of motion is correct?",
+      "key": "Newton's Second Law states that force equals mass multiplied by acceleration"
+    },
+    {
+      "test": 84,
+      "stem": "the si unit of electric current is named after which scientist?",
+      "key": "Andre-Marie Ampere"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following is not a characteristic of igneous rocks?",
+      "key": "They contain fossils of ancient marine organisms"
+    },
+    {
+      "test": 84,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about the chemical properties of water: (i) pure",
+      "key": "(i), (ii) and (iv) only"
     }
   ]
 }

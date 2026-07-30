@@ -1,0 +1,657 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision - Week 4 topics (ABCD)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "B",
+      "questionText": "The Coriolis effect causes moving objects (including wind) to deflect to the right in the Northern Hemisphere. This deflection is most significant for:",
+      "options": [
+        "Objects moving over short distances near the equator",
+        "Objects at rest on the Earth's surface",
+        "Large-scale air masses moving over long distances",
+        "Small-scale local wind patterns in valleys"
+      ],
+      "correctAnswer": "Large-scale air masses moving over long distances",
+      "explanation": "The Coriolis effect is proportional to the speed and scale of motion, making it most significant for large-scale movements like trade winds, ocean currents, and cyclones. 'Objects moving over short distances near the equator' is wrong because the Coriolis effect is zero at the equator and negligible over short distances. 'Objects at rest' is wrong because the effect only acts on moving objects. 'Small-scale local wind patterns' is wrong because the effect is negligible at small scales where pressure gradients dominate."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements about critical thinking and decision making:\n\n(i) Critical thinking involves evaluating evidence objectively before drawing conclusions.\n(ii) Emotional intelligence plays no role in effective decision making.\n(iii) A decision based solely on intuition without evidence can lead to cognitive biases.\n(iv) Social intelligence helps in understanding group dynamics during collaborative decisions.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "(i) is correct: critical thinking requires objective evaluation of evidence. (iii) is correct: intuition without evidence is susceptible to confirmation bias, anchoring, and other cognitive biases. (iv) is correct: social intelligence enables understanding interpersonal dynamics in group decisions. (ii) is INCORRECT because emotional intelligence is crucial for decision making - it helps regulate emotions that could cloud judgment and helps understand stakeholders' perspectives. Any option including (ii) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "A train 150 m long passes a pole in 15 seconds and passes a platform in 30 seconds. What is the length of the platform?",
+      "options": [
+        "150 m",
+        "200 m",
+        "250 m",
+        "300 m"
+      ],
+      "correctAnswer": "150 m",
+      "explanation": "Speed of train = 150/15 = 10 m/s. Time to pass platform = 30 seconds. Distance covered = 10 x 30 = 300 m. This distance = length of train + length of platform. So platform length = 300 - 150 = 150 m. '200 m' results from incorrectly using 300 - 100. '250 m' results from subtracting only 50. '300 m' incorrectly takes the total distance as the platform length without subtracting the train's length."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Rearranging jumbled sentences into a coherent paragraph requires identifying logical connectors and thematic progression.\nReason (R): Coherent paragraphs follow a structure where each sentence builds on the information provided in the preceding sentence.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: para jumbles require identifying transitional words, pronouns, and thematic flow. (R) is correct: coherent paragraphs have each sentence logically following the previous one through information building. (R) explains (A) because the reason sentences must build on each other is precisely why we need logical connectors and thematic progression to rearrange them correctly. Option 2 is wrong because R does explain A. Options 3 and 4 are wrong because both statements are factually correct."
+    },
+    {
+      "id": "5",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Earth's atmosphere:\n\n(i) The troposphere is the lowest layer and contains about 75% of the atmosphere's mass.\n(ii) The stratosphere contains the ozone layer which absorbs ultraviolet radiation.\n(iii) Temperature increases with altitude in the troposphere.\n(iv) The mesosphere is the coldest layer of the atmosphere.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: the troposphere contains approximately 75% of atmospheric mass and nearly all water vapor. (ii) is correct: the ozone layer in the stratosphere absorbs harmful UV radiation. (iv) is correct: temperatures in the mesosphere drop to about -90 degrees C, making it the coldest layer. (iii) is INCORRECT: temperature DECREASES with altitude in the troposphere (at about 6.5 degrees C per km) - this is called the lapse rate. Any option including (iii) is wrong."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the following reasoning concepts with their descriptions:\n\nColumn I:\n(a) Indexing\n(b) Address matching\n(c) Pattern recognition\n(d) Spatial orientation\n\nColumn II:\n(i) Identifying the direction one faces after a series of turns\n(ii) Comparing two sets of information to find correspondence\n(iii) Arranging items systematically based on given criteria\n(iv) Identifying recurring structures in data or figures\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "Indexing (a) involves arranging or classifying items systematically based on given criteria like alphabetical or numerical order - matches (iii). Address matching (b) involves comparing two sets of addresses or data to find if they correspond - matches (ii). Pattern recognition (c) involves identifying recurring structures, sequences, or regularities - matches (iv). Spatial orientation (d) involves determining direction after turns - matches (i). Option 2 swaps indexing and address matching. Option 3 swaps address matching and pattern recognition. Option 4 assigns pattern recognition's description to indexing."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Which of the following are correct rules for rearranging jumbled sentences into a coherent paragraph?\n\n(i) The sentence with a proper noun introduction typically comes before sentences using pronouns referring to it.\n(ii) Sentences with concluding phrases like 'therefore' or 'hence' usually appear at the end.\n(iii) A sentence beginning with 'However' can logically be the opening sentence of a paragraph.\n(iv) Demonstrative pronouns like 'this' or 'these' indicate a reference to something mentioned earlier.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: proper nouns introduce entities before pronouns refer to them. (ii) is correct: concluding connectors like 'therefore' signal summation and come toward the end. (iv) is correct: demonstrative pronouns (this, these, that) always refer back to something already stated. (iii) is INCORRECT: 'However' is a contrasting conjunction that opposes a previous point, so it cannot logically open a paragraph without prior context. Any option including (iii) is wrong."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the ratio of two numbers is 3:5 and their sum is 96, then the smaller number is 36.\nReason (R): In a ratio a:b with sum S, the first quantity equals (a/(a+b)) x S.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: smaller number = (3/8) x 96 = 36. (R) is correct: the formula for finding a part from a ratio and total is (part's ratio value / sum of ratio values) x total. R directly explains A because we use exactly that formula to arrive at 36. Option 2 is wrong because R does explain A. Options 3 and 4 are wrong because both A and R are factually correct."
+    },
+    {
+      "id": "9",
+      "subject": "B",
+      "questionText": "Which of the following are correctly matched regarding recent scientific research achievements?\n\n(i) CRISPR-Cas9 is a gene-editing technology used for precision genome modification.\n(ii) The James Webb Space Telescope observes primarily in the infrared spectrum.\n(iii) mRNA vaccines work by introducing weakened live virus particles into the body.\n(iv) Gravitational waves were first directly detected by the LIGO observatory.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: CRISPR-Cas9 is a revolutionary gene-editing tool. (ii) is correct: JWST is optimized for infrared observation to see early universe objects. (iv) is correct: LIGO first detected gravitational waves in September 2015. (iii) is INCORRECT: mRNA vaccines do NOT use weakened live virus - they use messenger RNA to instruct cells to produce a harmless spike protein, triggering an immune response. Any option including (iii) is wrong."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "In a certain code language, each letter is replaced by its position number in the alphabet (A=1, B=2, ... Z=26), then each number is doubled. Using this rule, the code for 'CAT' would be:",
+      "options": [
+        "6-1-40",
+        "6-2-40",
+        "3-1-20",
+        "6-2-42"
+      ],
+      "correctAnswer": "6-2-40",
+      "explanation": "C=3, doubled=6. A=1, doubled=2. T=20, doubled=40. So code is 6-2-40. '6-1-40' fails to double A (keeps it as 1). '3-1-20' does not apply doubling at all. '6-2-42' incorrectly doubles T as 21x2=42 (using position 21 instead of 20)."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows:\n\nThe rapid urbanization in developing countries has led to unprecedented challenges in waste management. Cities produce millions of tons of solid waste daily, yet infrastructure for collection and processing remains woefully inadequate. Informal recyclers, often overlooked in policy discussions, handle up to 20% of urban waste in many developing nations. Recent studies suggest that integrating these workers into formal waste management systems could significantly improve both recycling rates and workers' livelihoods.\n\nWhich of the following best describes the author's primary argument?",
+      "options": [
+        "Informal recyclers should be formally integrated into waste management systems",
+        "Urbanization has made waste management impossible in developing countries",
+        "Developing countries need to reduce waste production immediately",
+        "Infrastructure investment alone will solve the waste crisis"
+      ],
+      "correctAnswer": "Informal recyclers should be formally integrated into waste management systems",
+      "explanation": "The passage's main argument is in the final sentence: integrating informal recyclers into formal systems could improve recycling rates and livelihoods. Option 1 is wrong because the passage says it is challenging, not impossible. Option 3 is wrong because the passage focuses on management, not reduction. Option 4 is wrong because the passage specifically argues for integrating informal workers, not just infrastructure investment."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "A car travels from city A to city B (a distance of 180 km) at 60 km/h and returns at 90 km/h. What is the average speed for the entire journey?",
+      "options": [
+        "80 km/h",
+        "75 km/h",
+        "70 km/h",
+        "72 km/h"
+      ],
+      "correctAnswer": "72 km/h",
+      "explanation": "Average speed = Total distance / Total time. Total distance = 180 + 180 = 360 km. Time for A to B = 180/60 = 3 hours. Time for B to A = 180/90 = 2 hours. Total time = 5 hours. Average speed = 360/5 = 72 km/h. '75 km/h' is the arithmetic mean of 60 and 90, not the harmonic mean needed here. '70 km/h' results from an incorrect calculation. '80 km/h' exceeds what is possible given the two speeds."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indian Ocean Dipole (IOD) significantly influences the monsoon rainfall patterns in the Indian subcontinent.\nReason (R): A positive IOD event involves warmer-than-normal sea surface temperatures in the western Indian Ocean.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct: the IOD is a key factor affecting Indian monsoon variability. (R) is correct: a positive IOD means warmer SSTs in the western Indian Ocean and cooler in the east. R explains A because the warmer western Indian Ocean during positive IOD events increases moisture supply and enhances monsoon rainfall over India. Option 2 is wrong because R causally explains A. Options 3 and 4 are wrong because both statements are factually accurate."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "In a certain code language, each letter is shifted +2 positions in the alphabet (A becomes C, B becomes D, etc.). If 'PENCIL' is coded as 'RGPEKN', what is the code for 'ERASER'?",
+      "options": [
+        "GTCUGT",
+        "GTCUGS",
+        "GSCUGT",
+        "GTCVGT"
+      ],
+      "correctAnswer": "GTCUGT",
+      "explanation": "Applying +2 shift to each letter of ERASER: E(5)+2=G(7), R(18)+2=T(20), A(1)+2=C(3), S(19)+2=U(21), E(5)+2=G(7), R(18)+2=T(20). Code = GTCUGT. 'GTCUGS' has wrong last letter (S instead of T, failing to shift R correctly). 'GSCUGT' has wrong second letter (S instead of T, failing to shift R correctly). 'GTCVGT' has wrong fourth letter (V instead of U, shifting S by 3 instead of 2)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Acquaintence",
+        "Acquaintance",
+        "Aquaintance",
+        "Acquantance"
+      ],
+      "correctAnswer": "Acquaintance",
+      "explanation": "The correct spelling is 'Acquaintance' (with 'ai' in the middle and 'ance' at the end). 'Acquaintence' is wrong because the ending is '-ance' not '-ence'. 'Aquaintance' is wrong because it drops the 'c' after 'A' (the word starts with 'Acqu-'). 'Acquantance' is wrong because it drops the 'i' from 'quaint'."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Consider the following statements about time and work:\n\n(i) If A can do a work in 10 days and B can do it in 15 days, together they can complete it in 6 days.\n(ii) If A is twice as efficient as B, and B completes a work in 12 days, then A completes it in 6 days.\n(iii) If 6 men can do a work in 8 days, then 4 men can do it in 10 days.\n(iv) Work done is directly proportional to the number of workers when time is constant.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: Combined rate = 1/10 + 1/15 = 5/30 = 1/6, so together they finish in 6 days. (ii) is correct: If A is twice as efficient, A's time = B's time / 2 = 12/2 = 6 days. (iv) is correct: With constant time, more workers means proportionally more work done. (iii) is INCORRECT: 6 men x 8 days = 48 man-days. For 4 men: 48/4 = 12 days, not 10 days. Any option including (iii) is wrong."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Match the following geographical features with their locations:\n\nColumn I:\n(a) Mariana Trench\n(b) Sahara Desert\n(c) Great Barrier Reef\n(d) Andes Mountains\n\nColumn II:\n(i) South America\n(ii) Pacific Ocean\n(iii) Australia\n(iv) North Africa\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Mariana Trench is in the Pacific Ocean (ii). Sahara Desert is in North Africa (iv). Great Barrier Reef is off the coast of Australia (iii). Andes Mountains are in South America (i). Option 2 swaps Sahara and Great Barrier Reef locations. Option 3 places Mariana Trench in North Africa. Option 4 swaps Great Barrier Reef and Andes locations."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In analogies, 'Doctor : Hospital :: Teacher : School' represents a worker-workplace relationship.\nReason (R): Analogies test the ability to identify similar relationships between different pairs of words.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: Doctor works in a Hospital, Teacher works in a School - this is a worker-workplace analogy. (R) is correct: analogies do test the ability to identify similar relationships. However, R does NOT explain A because R is a general statement about what analogies test, not the specific reason why the given example is a worker-workplace relationship. Option 1 is wrong because R does not causally explain A. Options 3 and 4 are wrong because both A and R are correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "The following sentences form a paragraph when properly arranged. Identify the correct sequence:\n\nP. However, this growth has come at a significant environmental cost.\nQ. India has emerged as one of the fastest-growing major economies in the world.\nR. Sustainable development policies aim to balance economic progress with ecological preservation.\nS. Air pollution, deforestation, and water contamination have reached alarming levels in many regions.\n\nThe correct sequence is:",
+      "options": [
+        "Q-P-S-R",
+        "R-Q-P-S",
+        "Q-S-P-R",
+        "P-Q-S-R"
+      ],
+      "correctAnswer": "Q-P-S-R",
+      "explanation": "Q introduces the topic (India's economic growth). P uses 'However' to contrast with growth (environmental cost). S provides specific examples of environmental damage. R concludes with the solution (sustainable development). Option 2 starts with the conclusion. Option 3 puts examples (S) before the contrast (P). Option 4 starts with 'However' which needs prior context."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Match the following mathematical concepts with their formulas:\n\nColumn I:\n(a) Average speed for equal distances\n(b) Ratio of work done by A and B in same time\n(c) Time for pipes filling together\n(d) Speed of boat in still water\n\nColumn II:\n(i) (Downstream speed + Upstream speed) / 2\n(ii) 2xy / (x + y) where x and y are speeds\n(iii) Efficiency of A : Efficiency of B\n(iv) (1/a + 1/b)^(-1) where a and b are individual times\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Average speed for equal distances = 2xy/(x+y), the harmonic mean (ii). Ratio of work by A and B in same time = ratio of their efficiencies (iii). Combined time for pipes = (1/a + 1/b)^(-1) (iv). Speed of boat in still water = (downstream + upstream)/2 (i). Option 2 swaps average speed and work ratio formulas. Option 3 assigns pipe formula to work ratio. Option 4 swaps still water speed and pipe formulas."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Which of the following sports events is correctly matched with its venue and year?\n\n(i) 2023 Cricket World Cup was held in India.\n(ii) 2022 FIFA World Cup was hosted by Qatar.\n(iii) 2024 Summer Olympics were held in Tokyo.\n(iv) The Commonwealth Games 2022 were held in Birmingham.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: the 2023 ODI Cricket World Cup was held in India. (ii) is correct: Qatar hosted the 2022 FIFA World Cup. (iv) is correct: Birmingham hosted the 2022 Commonwealth Games. (iii) is INCORRECT: the 2024 Summer Olympics were held in Paris, France (Tokyo hosted the 2020/2021 Olympics). Any option including (iii) is wrong."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Which of the following are examples of analogies based on a 'cause-effect' relationship?\n\n(i) Virus : Disease\n(ii) Study : Knowledge\n(iii) Rain : Umbrella\n(iv) Negligence : Accident\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: Virus causes Disease (cause-effect). (ii) is correct: Study leads to Knowledge (cause-effect). (iv) is correct: Negligence causes Accident (cause-effect). (iii) is INCORRECT: Rain and Umbrella are not cause-effect; an umbrella is a protective tool used during rain (object-purpose relationship). Any option including (iii) is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Consider the following statements about cloze passages:\n\n(i) A cloze passage tests contextual understanding and vocabulary in use.\n(ii) The correct word for each blank must fit both grammatically and semantically.\n(iii) Cloze passages can only test knowledge of nouns and verbs.\n(iv) Understanding the overall theme helps in selecting appropriate words for blanks.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: cloze tests assess contextual vocabulary usage. (ii) is correct: the answer must satisfy both grammar and meaning. (iv) is correct: understanding the passage theme guides word selection. (iii) is INCORRECT: cloze passages test all parts of speech including adjectives, adverbs, prepositions, conjunctions, and articles. Any option including (iii) is wrong."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "Two pipes A and B can fill a tank in 12 hours and 18 hours respectively. If both pipes are opened together, how long will it take to fill the tank?",
+      "options": [
+        "6.8 hours",
+        "8.4 hours",
+        "7.2 hours",
+        "9.0 hours"
+      ],
+      "correctAnswer": "7.2 hours",
+      "explanation": "Pipe A fills 1/12 per hour, Pipe B fills 1/18 per hour. Together: 1/12 + 1/18 = 3/36 + 2/36 = 5/36 per hour. Time = 36/5 = 7.2 hours. '6.8 hours' results from using 1/12 + 1/15 instead. '8.4 hours' results from an incorrect LCM calculation. '9.0 hours' is the arithmetic mean of 12 and 18 divided by 2, which is not the correct method."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The phenomenon where ocean water at the surface becomes unusually warm in the central and eastern tropical Pacific is known as:",
+      "options": [
+        "El Nino",
+        "La Nina",
+        "North Atlantic Oscillation",
+        "Indian Ocean Dipole"
+      ],
+      "correctAnswer": "El Nino",
+      "explanation": "El Nino is the warming phase of the El Nino-Southern Oscillation (ENSO) characterized by unusually warm sea surface temperatures in the central and eastern tropical Pacific. 'La Nina' is wrong because it refers to the cooling phase (cooler SSTs). 'North Atlantic Oscillation' is wrong because it refers to atmospheric pressure variations in the North Atlantic, not Pacific warming. 'Indian Ocean Dipole' is wrong because it relates to SST differences between the western and eastern Indian Ocean."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "A person starts from point O and walks 5 km towards East, then turns left and walks 3 km, then turns left again and walks 5 km. How far is he from the starting point O?",
+      "options": [
+        "5 km",
+        "3 km",
+        "8 km",
+        "13 km"
+      ],
+      "correctAnswer": "3 km",
+      "explanation": "Walking 5 km East, then turning left (North) for 3 km, then turning left (West) for 5 km brings the person 5 km west (cancelling the initial 5 km east), leaving only the 3 km north displacement. Distance from O = 3 km. '5 km' is the length of two of the individual legs. '8 km' incorrectly adds 5+3. '13 km' is the total distance walked (5+3+5), not the displacement."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Match the following English language concepts with their descriptions:\n\nColumn I:\n(a) Para Jumbles\n(b) Cloze Passage\n(c) Comprehension Passage\n(d) Spelling Rules\n\nColumn II:\n(i) A passage with blanks to be filled with appropriate words\n(ii) Rearranging sentences to form a coherent paragraph\n(iii) Rules governing the correct written form of words\n(iv) Reading a passage and answering questions based on it\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Para Jumbles (a) involves rearranging sentences into a coherent paragraph (ii). Cloze Passage (b) is a passage with blanks to be filled with appropriate words (i). Comprehension Passage (c) involves reading and answering questions (iv). Spelling Rules (d) govern correct written form of words (iii). Option 2 swaps Para Jumbles and Cloze. Option 3 swaps Cloze and Comprehension. Option 4 swaps Comprehension and Spelling Rules."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "If the ratio of the ages of A and B is 4:3 and the sum of their ages is 49 years, what will be the ratio of their ages after 7 years?",
+      "options": [
+        "5:4",
+        "3:2",
+        "7:5",
+        "9:7"
+      ],
+      "correctAnswer": "5:4",
+      "explanation": "A's age = (4/7) x 49 = 28 years. B's age = (3/7) x 49 = 21 years. After 7 years: A = 35, B = 28. Ratio = 35:28 = 5:4. '3:2' = 35:23.3 which does not match. '7:5' = 35:25 which does not match B's future age. '9:7' = 35:27.2 which is also incorrect."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "The __________ is the boundary between the Earth's crust and the mantle, identified by a sharp change in seismic wave velocities.",
+      "options": [
+        "Mohorovicic Discontinuity",
+        "Gutenberg Discontinuity",
+        "Conrad Discontinuity",
+        "Lehmann Discontinuity"
+      ],
+      "correctAnswer": "Mohorovicic Discontinuity",
+      "explanation": "The Mohorovicic Discontinuity (Moho) marks the boundary between the crust and the mantle, identified by Andrija Mohorovicic in 1909 through changes in seismic wave velocities. 'Gutenberg Discontinuity' is wrong because it marks the boundary between the mantle and the outer core (at about 2900 km depth). 'Conrad Discontinuity' is wrong because it marks the boundary between the upper and lower continental crust. 'Lehmann Discontinuity' is wrong because it marks the boundary between the outer and inner core."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Consider the following statements about emotional and social intelligence:\n\n(i) Emotional intelligence includes the ability to recognize and manage one's own emotions.\n(ii) Social intelligence involves understanding social situations and responding appropriately.\n(iii) A person with high emotional intelligence cannot have low social intelligence.\n(iv) Empathy is a key component of emotional intelligence.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: emotional intelligence includes self-awareness and self-regulation of emotions. (ii) is correct: social intelligence involves reading social cues and responding appropriately. (iv) is correct: empathy (understanding others' feelings) is a core component of emotional intelligence. (iii) is INCORRECT: emotional and social intelligence are related but distinct constructs - a person can be good at managing their own emotions but struggle with social dynamics. Any option including (iii) is wrong."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Identify the correctly spelt word:",
+      "options": [
+        "Embarassment",
+        "Embarrassment",
+        "Embarrasment",
+        "Embarassement"
+      ],
+      "correctAnswer": "Embarrassment",
+      "explanation": "The correct spelling is 'Embarrassment' with double 'r', double 's', and the suffix '-ment'. 'Embarassment' is wrong because it has only one 'r'. 'Embarrasment' is wrong because it has only one 's'. 'Embarassement' is wrong because it has one 'r' and adds an extra 'e' before 'ment'."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "A man rows downstream 30 km in 3 hours and upstream 18 km in 3 hours. What is the speed of the current?",
+      "options": [
+        "1 km/h",
+        "4 km/h",
+        "3 km/h",
+        "2 km/h"
+      ],
+      "correctAnswer": "2 km/h",
+      "explanation": "Downstream speed = 30/3 = 10 km/h. Upstream speed = 18/3 = 6 km/h. Speed of current = (Downstream - Upstream)/2 = (10-6)/2 = 4/2 = 2 km/h. '1 km/h' results from dividing the difference by 4 instead of 2. '3 km/h' results from subtracting upstream from downstream and dividing by a wrong factor. '4 km/h' takes the full difference without halving."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "Which of the following statements about Newton's Laws of Motion is correct?",
+      "options": [
+        "Newton's First Law states that a body at rest will remain at rest unless acted upon by a balanced force",
+        "Newton's First Law applies only to objects in motion, not objects at rest",
+        "Newton's Third Law states that action and reaction forces act on the same body",
+        "Newton's Second Law states that force equals mass multiplied by acceleration"
+      ],
+      "correctAnswer": "Newton's Second Law states that force equals mass multiplied by acceleration",
+      "explanation": "Newton's Second Law (F = ma) correctly states that force equals mass times acceleration. Option 1 is wrong because the First Law refers to 'unbalanced' (net) force, not 'balanced force' - balanced forces result in no change. Option 3 is wrong because action and reaction forces act on DIFFERENT bodies, not the same body. Option 4 is wrong because Newton's First Law (law of inertia) applies to both objects at rest AND objects in uniform motion."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "In a family, A is the brother of B. C is the daughter of A. D is the sister of C. E is the mother of B. How is D related to E?",
+      "options": [
+        "Daughter",
+        "Niece",
+        "Granddaughter",
+        "Sister"
+      ],
+      "correctAnswer": "Granddaughter",
+      "explanation": "A is B's brother, so A and B share the same mother E. C is A's daughter, and D is C's sister, so D is also A's daughter. Since A is E's son, D is E's granddaughter. 'Daughter' is wrong because D is A's daughter (E's son's daughter), making her a grandchild. 'Niece' is wrong because D is not B's daughter but B's niece - however the question asks relation to E (the grandmother). 'Sister' is wrong because D and E are from different generations."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Fill in the blank with the most appropriate word:\n\n\"The CEO's decision to expand into emerging markets was both __________ and visionary, as it positioned the company for long-term growth despite short-term risks.\"",
+      "options": [
+        "redundant",
+        "timorous",
+        "negligent",
+        "audacious"
+      ],
+      "correctAnswer": "audacious",
+      "explanation": "The sentence needs a word meaning bold/daring that pairs with 'visionary' and describes a risky but forward-thinking decision. 'Audacious' means bold and daring, fitting perfectly. 'Timorous' means fearful/timid, which contradicts the context of taking risks. 'Negligent' means careless/irresponsible, which contradicts the positive tone of the sentence. 'Redundant' means unnecessary/superfluous, which does not fit the context of strategic decision-making."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Consider the following statements about ratio and proportion:\n\n(i) If A:B = 2:3 and B:C = 4:5, then A:B:C = 8:12:15.\n(ii) The third proportional to 4 and 12 is 36.\n(iii) If x/y = 3/4, then (x+y)/(x-y) = 7/(-1) = -7.\n(iv) The mean proportional between 9 and 25 is 17.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) is correct: A:B = 2:3, B:C = 4:5. Making B common: A:B = 8:12, B:C = 12:15. So A:B:C = 8:12:15. (ii) is correct: Third proportional to a,b is b^2/a = 144/4 = 36. (iii) is correct: If x/y = 3/4, then (x+y)/(x-y) = (3+4)/(3-4) = 7/(-1) = -7 using componendo-dividendo with k. (iv) is INCORRECT: Mean proportional between 9 and 25 = sqrt(9x25) = sqrt(225) = 15, not 17. Any option including (iv) is wrong."
+    },
+    {
+      "id": "37",
+      "subject": "B",
+      "questionText": "The SI unit of electric current is named after which scientist?",
+      "options": [
+        "Alessandro Volta",
+        "Andre-Marie Ampere",
+        "Georg Simon Ohm",
+        "Michael Faraday"
+      ],
+      "correctAnswer": "Andre-Marie Ampere",
+      "explanation": "The SI unit of electric current is the Ampere (A), named after French physicist Andre-Marie Ampere who studied electromagnetism. 'Alessandro Volta' is wrong because the Volt (unit of electric potential) is named after him. 'Georg Simon Ohm' is wrong because the Ohm (unit of resistance) is named after him. 'Michael Faraday' is wrong because the Farad (unit of capacitance) is named after him."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "The number that does not belong in the group {144, 169, 196, 210, 225} is:",
+      "options": [
+        "210",
+        "169",
+        "144",
+        "225"
+      ],
+      "correctAnswer": "210",
+      "explanation": "144=12^2, 169=13^2, 196=14^2, 225=15^2. All except 210 are perfect squares of consecutive numbers. 210 is not a perfect square (14^2=196, 15^2=225, 210 falls between them). '144' is wrong because it is 12^2. '169' is wrong because it is 13^2. '225' is wrong because it is 15^2."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Read the following passage and answer the question that follows:\n\nDigital literacy has become as fundamental as traditional reading and writing skills in the modern world. While earlier generations needed only to decode printed text, today's citizens must navigate complex digital environments, evaluate online sources for credibility, and protect their personal data. Educational institutions worldwide are recognizing this shift, integrating digital skills into curricula from primary school onwards. Critics argue, however, that screen time should be limited for young children and that foundational print literacy must not be sacrificed.\n\nWhat can be inferred from the passage about the relationship between digital and print literacy?",
+      "options": [
+        "Digital literacy has completely replaced the need for print literacy",
+        "Educational institutions have unanimously rejected digital literacy programs",
+        "Print literacy and digital literacy are complementary rather than mutually exclusive",
+        "Critics believe digital literacy is unnecessary for modern citizens"
+      ],
+      "correctAnswer": "Print literacy and digital literacy are complementary rather than mutually exclusive",
+      "explanation": "The passage presents digital literacy as 'as fundamental as' traditional literacy (not replacing it), and critics worry about sacrificing print literacy - implying both are needed. Option 1 is wrong because the passage says digital literacy is 'as fundamental as' (equally important to, not a replacement for) traditional skills. Option 3 is wrong because the passage states institutions ARE integrating digital skills. Option 4 is wrong because critics only want to limit screen time and preserve print literacy - they do not reject digital literacy entirely."
+    },
+    {
+      "id": "40",
+      "subject": "C",
+      "questionText": "The following table shows the production (in units) of a factory over 4 months:\n\nJanuary: 450\nFebruary: 520\nMarch: 480\nApril: 550\n\nWhat is the average monthly production?",
+      "options": [
+        "475 units",
+        "490 units",
+        "510 units",
+        "500 units"
+      ],
+      "correctAnswer": "500 units",
+      "explanation": "Average = (450 + 520 + 480 + 550) / 4 = 2000 / 4 = 500 units. '475 units' results from using only Jan and March average. '490 units' results from a calculation error. '510 units' results from miscounting one month's production."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Which of the following is NOT a characteristic of igneous rocks?",
+      "options": [
+        "They are formed from the cooling and solidification of magma or lava",
+        "Granite and basalt are common examples",
+        "They may have a crystalline or glassy texture",
+        "They contain fossils of ancient marine organisms"
+      ],
+      "correctAnswer": "They contain fossils of ancient marine organisms",
+      "explanation": "Igneous rocks form from cooling magma/lava and do NOT contain fossils - fossils are found in sedimentary rocks where organic remains are preserved during deposition. Option 1 is a correct characteristic (igneous rocks form from molten material). Option 3 is correct (they can be crystalline if cooled slowly, or glassy if cooled rapidly). Option 4 is correct (granite is intrusive igneous; basalt is extrusive igneous)."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "If in a certain code, PENCIL is written as RGPEKN (each odd-positioned letter is shifted +2, each even-positioned letter is shifted +2), what is the code for ERASER?",
+      "options": [
+        "GSCUGT",
+        "GTCUGS",
+        "GTCUGT",
+        "GTCVGT"
+      ],
+      "correctAnswer": "GTCUGT",
+      "explanation": "Applying +2 shift to each letter: E(5)+2=G(7), R(18)+2=T(20), A(1)+2=C(3), S(19)+2=U(21), E(5)+2=G(7), R(18)+2=T(20). Code = GTCUGT. 'GTCUGS' has wrong last letter (S instead of T). 'GSCUGT' has wrong second letter (S instead of T). 'GTCVGT' has wrong fourth letter (V instead of U)."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Choose the correctly spelt word:",
+      "options": [
+        "Survellance",
+        "Surveillance",
+        "Surveilance",
+        "Surviellance"
+      ],
+      "correctAnswer": "Surveillance",
+      "explanation": "The correct spelling is 'Surveillance' (from French 'surveiller' meaning to watch over). 'Survellance' is wrong because it drops the 'i' from '-veill-'. 'Surveilance' is wrong because it has only one 'l'. 'Surviellance' is wrong because it transposes 'ie' to 'ie' incorrectly and alters the root."
+    },
+    {
+      "id": "44",
+      "subject": "C",
+      "questionText": "If 15 men can complete a piece of work in 20 days, in how many days can 25 men complete the same work?",
+      "options": [
+        "10 days",
+        "14 days",
+        "12 days",
+        "16 days"
+      ],
+      "correctAnswer": "12 days",
+      "explanation": "Total work = 15 men x 20 days = 300 man-days. With 25 men: Days = 300/25 = 12 days. '10 days' results from using 300/30 (wrong number of men). '14 days' may result from incorrectly computing 20-6=14 or a proportion error. '16 days' results from using 20 x 15/25 = 12 incorrectly as 20-4."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The ozone layer is crucial for life on Earth because it absorbs most of the Sun's harmful ultraviolet radiation.\nReason (R): Chlorofluorocarbons (CFCs) released by human activities have caused significant depletion of the ozone layer.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct: the ozone layer absorbs 97-99% of harmful UV radiation. (R) is correct: CFCs have caused ozone depletion (leading to the ozone hole). However, R does NOT explain A - the assertion is about why ozone is important (UV absorption), while the reason discusses what damages ozone (CFCs). R explains ozone depletion, not ozone's protective importance. Option 1 is wrong because R does not explain why ozone is crucial. Options 3 and 4 are wrong because both statements are factually correct."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Complete the analogy: Symphony : Composer :: Sculpture : ?",
+      "options": [
+        "Curator",
+        "Gallery",
+        "Chisel",
+        "Sculptor"
+      ],
+      "correctAnswer": "Sculptor",
+      "explanation": "A Symphony is created by a Composer (creator-creation relationship). Similarly, a Sculpture is created by a Sculptor. 'Curator' is wrong because a curator manages/displays art, not creates sculptures. 'Gallery' is wrong because it is the place where sculptures are displayed. 'Chisel' is wrong because it is a tool used to make sculptures, not the creator."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "The word that is the antonym of 'transparent' in the context of governance is __________.",
+      "options": [
+        "opaque",
+        "lucid",
+        "evident",
+        "apparent"
+      ],
+      "correctAnswer": "opaque",
+      "explanation": "In governance context, 'transparent' means open and clear in operations. Its antonym is 'opaque' meaning unclear, hidden, or not transparent. 'Lucid' is wrong because it means clear and easy to understand (a synonym, not antonym). 'Evident' is wrong because it means clearly visible or obvious (close to a synonym). 'Apparent' is wrong because it means clearly visible or obvious (also close to a synonym)."
+    },
+    {
+      "id": "48",
+      "subject": "C",
+      "questionText": "A merchant mixes two varieties of rice costing Rs 20/kg and Rs 30/kg in the ratio 3:2. What is the cost price of the mixture per kg?",
+      "options": [
+        "Rs 23",
+        "Rs 25",
+        "Rs 24",
+        "Rs 26"
+      ],
+      "correctAnswer": "Rs 24",
+      "explanation": "Cost of mixture = (3x20 + 2x30) / (3+2) = (60+60)/5 = 120/5 = Rs 24 per kg. 'Rs 23' results from an arithmetic error in the weighted average. 'Rs 25' is the simple average of 20 and 30 (ignoring the ratio). 'Rs 26' results from using the ratio 2:3 instead of 3:2."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Consider the following statements about the chemical properties of water:\n\n(i) Pure water is a poor conductor of electricity.\n(ii) Water has a pH of exactly 7 at 25 degrees Celsius.\n(iii) Water is known as the universal solvent because it dissolves all known substances.\n(iv) The boiling point of water decreases with increasing altitude.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "(i) is correct: pure (distilled) water has very few ions and is a poor electrical conductor. (ii) is correct: at 25 degrees C, pure water has a pH of exactly 7 (neutral). (iv) is correct: at higher altitudes, atmospheric pressure is lower, which reduces the boiling point of water. (iii) is INCORRECT: while water dissolves many substances (earning it the title 'universal solvent'), it does NOT dissolve all substances - oils, fats, and many organic compounds are insoluble in water. Any option including (iii) is wrong."
+    },
+    {
+      "id": "50",
+      "subject": "A",
+      "questionText": "If the letters of the word 'REASONING' are arranged in alphabetical order from left to right, which letter will be at the fifth position from the left?",
+      "options": [
+        "I",
+        "N",
+        "G",
+        "O"
+      ],
+      "correctAnswer": "N",
+      "explanation": "Letters of REASONING: R, E, A, S, O, N, I, N, G. Arranged alphabetically: A, E, G, I, N, N, O, R, S. The fifth position from the left is N (the first N). 'I' is at the 4th position. 'G' is at the 3rd position. 'O' is at the 7th position."
+    }
+  ]
+}

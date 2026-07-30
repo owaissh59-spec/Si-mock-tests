@@ -1,7 +1,7 @@
 {
   "subject": "A",
   "subject_name": "General Intelligence & Reasoning",
-  "count": 569,
+  "count": 582,
   "questions": [
     {
       "test": 1,
@@ -2847,6 +2847,71 @@
       "test": 82,
       "stem": "in a factory, worker a produces 5 units per hour, worker b",
       "key": "42.1%"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about critical thinking and decision making: (i) critical",
+      "key": "(i), (iii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "match the following reasoning concepts with their descriptions: column i: (a) indexing",
+      "key": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 84,
+      "stem": "in a certain code language, each letter is replaced by its position",
+      "key": "6-2-40"
+    },
+    {
+      "test": 84,
+      "stem": "in a certain code language, each letter is shifted +2 positions in",
+      "key": "GTCUGT"
+    },
+    {
+      "test": 84,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following are examples of analogies based on a 'cause-effect'",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "a person starts from point o and walks 5 km towards east,",
+      "key": "3 km"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about emotional and social intelligence: (i) emotional intelligence",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "in a family, a is the brother of b. c is the",
+      "key": "Granddaughter"
+    },
+    {
+      "test": 84,
+      "stem": "the number that does not belong in the group {144, 169, 196,",
+      "key": "210"
+    },
+    {
+      "test": 84,
+      "stem": "if in a certain code, pencil is written as rgpekn (each odd-positioned",
+      "key": "GTCUGT"
+    },
+    {
+      "test": 84,
+      "stem": "complete the analogy: symphony : composer :: sculpture : ?",
+      "key": "Sculptor"
+    },
+    {
+      "test": 84,
+      "stem": "if the letters of the word 'reasoning' are arranged in alphabetical order",
+      "key": "N"
     }
   ]
 }

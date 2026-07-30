@@ -1,7 +1,7 @@
 {
   "subject": "C",
   "subject_name": "Quantitative Aptitude",
-  "count": 544,
+  "count": 556,
   "questions": [
     {
       "test": 3,
@@ -2722,6 +2722,66 @@
       "test": 80,
       "stem": "the volumes of two cubes are in the ratio 27 : 64.",
       "key": "9 : 16"
+    },
+    {
+      "test": 84,
+      "stem": "a train 150 m long passes a pole in 15 seconds and",
+      "key": "150 m"
+    },
+    {
+      "test": 84,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 84,
+      "stem": "a car travels from city a to city b (a distance of",
+      "key": "72 km/h"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about time and work: (i) if a can",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "match the following mathematical concepts with their formulas: column i: (a) average",
+      "key": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    {
+      "test": 84,
+      "stem": "two pipes a and b can fill a tank in 12 hours",
+      "key": "7.2 hours"
+    },
+    {
+      "test": 84,
+      "stem": "if the ratio of the ages of a and b is 4:3",
+      "key": "5:4"
+    },
+    {
+      "test": 84,
+      "stem": "a man rows downstream 30 km in 3 hours and upstream 18",
+      "key": "2 km/h"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about ratio and proportion: (i) if a:b =",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 84,
+      "stem": "the following table shows the production (in units) of a factory over",
+      "key": "500 units"
+    },
+    {
+      "test": 84,
+      "stem": "if 15 men can complete a piece of work in 20 days,",
+      "key": "12 days"
+    },
+    {
+      "test": 84,
+      "stem": "a merchant mixes two varieties of rice costing rs 20/kg and rs",
+      "key": "Rs 24"
     }
   ]
 }

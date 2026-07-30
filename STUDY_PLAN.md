@@ -235,7 +235,7 @@
 |---|---------|---------|---------------|---|------------|------|--------|
 | 82 | Morning | A — General Intelligence & Reasoning | Problem Solving & Arithmetical Reasoning | 30 | standard | Topic-wise | ✅ |
 | 83 | Afternoon | B — General Awareness | Physical & World Geography | 40 | standard | Topic-wise | ✅ |
-| 84 | Late | FULL | Cumulative revision — Week 4 topics (ABCD) | 50 | standard | Revision (topic-wise, cumulative) | ⬜ |
+| 84 | Late | FULL | Cumulative revision — Week 4 topics (ABCD) | 50 | standard | Revision (topic-wise, cumulative) | ✅ |
 
 ### Day 29
 

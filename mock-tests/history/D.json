@@ -1,7 +1,7 @@
 {
   "subject": "D",
   "subject_name": "English Comprehension",
-  "count": 603,
+  "count": 615,
   "questions": [
     {
       "test": 4,
@@ -3017,6 +3017,66 @@
       "test": 81,
       "stem": "an investigating officer's report is described as complete and careful in every",
       "key": "thorough"
+    },
+    {
+      "test": 84,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following are correct rules for rearranging jumbled sentences into",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following best describes the author's primary argument?",
+      "key": "Informal recyclers should be formally integrated into waste management systems"
+    },
+    {
+      "test": 84,
+      "stem": "choose the correctly spelt word:",
+      "key": "Acquaintance"
+    },
+    {
+      "test": 84,
+      "stem": "the following sentences form a paragraph when properly arranged. identify the correct",
+      "key": "Q-P-S-R"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about cloze passages: (i) a cloze passage tests",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "match the following english language concepts with their descriptions: column i: (a)",
+      "key": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    },
+    {
+      "test": 84,
+      "stem": "identify the correctly spelt word:",
+      "key": "Embarrassment"
+    },
+    {
+      "test": 84,
+      "stem": "fill in the blank with the most appropriate word: \"the ceo's decision",
+      "key": "audacious"
+    },
+    {
+      "test": 84,
+      "stem": "what can be inferred from the passage about the relationship between digital",
+      "key": "Print literacy and digital literacy are complementary rather than mutually ex..."
+    },
+    {
+      "test": 84,
+      "stem": "choose the correctly spelt word:",
+      "key": "Surveillance"
+    },
+    {
+      "test": 84,
+      "stem": "the word that is the antonym of 'transparent' in the context of",
+      "key": "opaque"
     }
   ]
 }
